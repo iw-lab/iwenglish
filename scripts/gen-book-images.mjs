@@ -83,7 +83,7 @@ async function pool(tasks, conc) {
   const worker = async () => {
     while (idx < tasks.length) {
       const t = tasks[idx++];
-      await new Promise((r) => setTimeout(r, 400)); // OAuth race 회피 stagger
+      await new Promise((r) => setTimeout(r, 900)); // OAuth race 회피 stagger (동시 수 낮을수록 안전)
       await genOne(t);
     }
   };

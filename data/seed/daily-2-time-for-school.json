@@ -1,0 +1,523 @@
+{
+  "slug": "daily-2-time-for-school",
+  "title": "Time for School",
+  "title_ko": "학교 갈 시간이에요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "가방을 메고 집을 나서 길을 건너 학교에 도착하기까지. 짧은 두 문장으로 길 위의 하루를 따라가요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "I put my books in my bag.",
+          "translation_ko": "나는 가방에 책을 넣어요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 380,
+              "endMs": 620
+            },
+            {
+              "word": "my",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 620,
+              "endMs": 960
+            },
+            {
+              "word": "books",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "in",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1620
+            },
+            {
+              "word": "my",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1620,
+              "endMs": 1900
+            },
+            {
+              "word": "bag",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Bye, Mom! See you later.\"",
+          "translation_ko": "\"안녕히 계세요, 엄마! 이따 봐요.\"",
+          "audio": "/seed/daily-2-time-for-school/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bye",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "Mom",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 1000,
+              "endMs": 1120
+            },
+            {
+              "word": "See",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "you",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1880,
+              "endMs": 2040
+            },
+            {
+              "word": "later",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 2040,
+              "endMs": 2240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I walk to school.",
+          "translation_ko": "나는 학교까지 걸어가요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "walk",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 640,
+              "endMs": 920
+            },
+            {
+              "word": "to",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "school",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1420
+            }
+          ]
+        },
+        {
+          "text": "The sky is blue.",
+          "translation_ko": "하늘이 파래요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "sky",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 700
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 1220
+            },
+            {
+              "word": "blue",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I see a red light.",
+          "translation_ko": "빨간불이 보여요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "see",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 520,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 840,
+              "endMs": 1440
+            },
+            {
+              "word": "red",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "light",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1640,
+              "endMs": 2200
+            }
+          ]
+        },
+        {
+          "text": "I stop and wait.",
+          "translation_ko": "나는 멈춰서 기다려요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "stop",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 940
+            },
+            {
+              "word": "and",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 940,
+              "endMs": 1480
+            },
+            {
+              "word": "wait",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1480,
+              "endMs": 1760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now the light is green.",
+          "translation_ko": "이제 초록불이에요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 660,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 1140,
+              "endMs": 1280
+            },
+            {
+              "word": "light",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1280,
+              "endMs": 1520
+            },
+            {
+              "word": "is",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1520,
+              "endMs": 1740
+            },
+            {
+              "word": "green",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1740,
+              "endMs": 1980
+            }
+          ]
+        },
+        {
+          "text": "I cross the road.",
+          "translation_ko": "나는 길을 건너요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "cross",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "road",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 740,
+              "endMs": 940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Good morning!\" says my teacher.",
+          "translation_ko": "\"좋은 아침!\" 선생님이 말해요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "morning",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 1040
+            },
+            {
+              "word": "says",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1780
+            },
+            {
+              "word": "my",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1780,
+              "endMs": 2040
+            },
+            {
+              "word": "teacher",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 2040,
+              "endMs": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I am at school. I am happy.",
+          "translation_ko": "나는 학교에 왔어요. 나는 기뻐요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 380,
+              "endMs": 640
+            },
+            {
+              "word": "at",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 640,
+              "endMs": 1000
+            },
+            {
+              "word": "school",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1400
+            },
+            {
+              "word": "I",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "am",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "happy",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 2540,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "가방에 무엇을 넣었나요?",
+      "type": "mc",
+      "options": [
+        "책",
+        "공",
+        "신발",
+        "물병"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "books를 가방에 넣었어요."
+    },
+    {
+      "question_ko": "빨간불일 때 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "뛰었다",
+        "멈췄다",
+        "춤췄다",
+        "잤다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "빨간불에는 stop and wait — 멈춰서 기다려요."
+    },
+    {
+      "question_ko": "어떤 불일 때 길을 건넜나요?",
+      "type": "mc",
+      "options": [
+        "빨간불",
+        "노란불",
+        "초록불",
+        "파란불"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "green light일 때 길을 건넜어요."
+    },
+    {
+      "question_ko": "학교까지 어떻게 갔나요?",
+      "type": "mc",
+      "options": [
+        "걸어서",
+        "버스로",
+        "자전거로",
+        "차로"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "walk to school — 걸어갔어요."
+    },
+    {
+      "question_ko": "학교에서 아이의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "슬프다",
+        "화나다",
+        "기쁘다",
+        "무섭다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "I am happy — 기뻐요."
+    }
+  ]
+}

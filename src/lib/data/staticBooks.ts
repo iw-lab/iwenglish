@@ -41,6 +41,8 @@ export interface SeedBook {
   level: CefrLevel;
   ageBand: AgeBand;
   summary_ko: string;
+  stage?: number;
+  collection?: string;
   pages: SeedPage[];
   words: Record<string, SeedWord>;
   quiz: Omit<QuizQuestion, "id" | "ord">[];
@@ -99,6 +101,8 @@ function toBook(b: SeedBook): Book {
     coverUrl: img(b.slug, "cover.png"),
     summary_ko: b.summary_ko,
     wordCount: wordCount(b),
+    stage: b.stage,
+    collection: b.collection,
     pages,
     quiz: b.quiz.map((q, i) => ({ ...q, id: `${b.slug}-q${i + 1}`, ord: i })),
   };
@@ -115,6 +119,8 @@ export function getStaticBooks(): BookSummary[] {
     coverUrl: img(b.slug, "cover.png"),
     summary_ko: b.summary_ko,
     wordCount: wordCount(b),
+    stage: b.stage,
+    collection: b.collection,
   }));
 }
 

@@ -19,6 +19,11 @@ export default async function LibraryPage() {
   const seededSlugs = new Set(books.map((b) => b.slug));
   const upcoming = PLANNED_BOOKS.filter((b) => !seededSlugs.has(b.slug));
 
+  const daily = books
+    .filter((b) => b.collection === "daily")
+    .sort((a, b) => (a.stage ?? 0) - (b.stage ?? 0));
+  const pictureBooks = books.filter((b) => b.collection !== "daily");
+
   return (
     <div className="space-y-6">
       <section>
@@ -28,9 +33,35 @@ export default async function LibraryPage() {
         </p>
       </section>
 
-      {books.length > 0 ? (
+      {/* 생활 영어 단계별 (1~6단계) */}
+      {daily.length > 0 && (
+        <section className="space-y-2.5">
+          <div className="flex items-baseline gap-2">
+            <h2 className="text-lg font-extrabold">💬 생활 영어 · 단계별</h2>
+            <span className="text-xs font-semibold text-muted-foreground">
+              1단계(3학년)~6단계(6학년) · {daily.length}권
+            </span>
+          </div>
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
+            {daily.map((b) => (
+              <BookCard
+                key={b.id}
+                slug={b.slug}
+                title={b.title}
+                title_ko={b.title_ko}
+                level={b.level}
+                summary_ko={b.summary_ko}
+                coverUrl={b.coverUrl}
+                meta={`${b.stage}단계 · ${b.wordCount} words`}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {pictureBooks.length > 0 ? (
         LEVELS.map(({ level, emoji, label, grade }) => {
-          const inLevel = books.filter((b) => b.level === level);
+          const inLevel = pictureBooks.filter((b) => b.level === level);
           if (inLevel.length === 0) return null;
           return (
             <section key={level} className="space-y-2.5">

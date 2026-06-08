@@ -1,0 +1,309 @@
+{
+  "slug": "daily-1-good-morning",
+  "title": "Good Morning!",
+  "title_ko": "좋은 아침이에요!",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "아침에 일어나 가족과 인사하고 학교 갈 준비를 하는 하루의 시작. 가장 쉬운 인사말과 일상 단어로 첫 영어를 시작해요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "The sun is up.",
+          "translation_ko": "해가 떴어요.",
+          "audio": "/seed/daily-1-good-morning/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "sun",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 780
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Good morning!\" says Mom.",
+          "translation_ko": "\"좋은 아침!\" 엄마가 말해요.",
+          "audio": "/seed/daily-1-good-morning/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "morning",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 360,
+              "endMs": 820
+            },
+            {
+              "word": "says",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1420
+            },
+            {
+              "word": "Mom",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Good morning, Mom.\"",
+          "translation_ko": "\"좋은 아침이에요, 엄마.\"",
+          "audio": "/seed/daily-1-good-morning/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "morning",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "Mom",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I wash my face.",
+          "translation_ko": "나는 세수를 해요.",
+          "audio": "/seed/daily-1-good-morning/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "wash",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "face",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I eat my breakfast.",
+          "translation_ko": "나는 아침을 먹어요.",
+          "audio": "/seed/daily-1-good-morning/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "eat",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "my",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 760
+            },
+            {
+              "word": "breakfast",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 760,
+              "endMs": 1140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I am ready for school!\"",
+          "translation_ko": "\"학교 갈 준비가 됐어요!\"",
+          "audio": "/seed/daily-1-good-morning/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "am",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "ready",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "for",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "school",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1360
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "누가 먼저 \"좋은 아침\"이라고 말했나요?",
+      "type": "mc",
+      "options": [
+        "엄마",
+        "아빠",
+        "선생님",
+        "친구"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "엄마가 먼저 \"Good morning!\"이라고 말했어요."
+    },
+    {
+      "question_ko": "아침에 무엇을 씻었나요?",
+      "type": "mc",
+      "options": [
+        "손",
+        "얼굴",
+        "발",
+        "머리"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "I wash my face — 얼굴을 씻었어요."
+    },
+    {
+      "question_ko": "아이는 무엇을 먹었나요?",
+      "type": "mc",
+      "options": [
+        "점심",
+        "저녁",
+        "아침",
+        "간식"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "breakfast는 아침 식사예요."
+    },
+    {
+      "question_ko": "마지막에 무엇을 할 준비가 됐나요?",
+      "type": "mc",
+      "options": [
+        "학교",
+        "놀이터",
+        "잠",
+        "여행"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "ready for school — 학교 갈 준비가 됐어요."
+    },
+    {
+      "question_ko": "\"Good morning\"은 언제 하는 인사일까요?",
+      "type": "mc",
+      "options": [
+        "아침",
+        "점심",
+        "저녁",
+        "밤"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "morning은 아침이에요."
+    }
+  ]
+}

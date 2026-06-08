@@ -1,0 +1,597 @@
+{
+  "slug": "daily-5-at-the-market",
+  "title": "At the Market",
+  "title_ko": "시장에서",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "엄마와 시장에 가서 과일을 고르고 값을 묻고 계산하는 이야기. 숫자와 가격, 사고파는 대화를 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "On Saturday, I go to the market with my mom.",
+          "translation_ko": "토요일에 나는 엄마와 시장에 가요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "Saturday",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "I",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 1200,
+              "endMs": 1300
+            },
+            {
+              "word": "go",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1300,
+              "endMs": 1440
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "market",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 1920
+            },
+            {
+              "word": "with",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "my",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2300
+            },
+            {
+              "word": "mom",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2300,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The market is busy and full of color.",
+          "translation_ko": "시장은 북적이고 색깔로 가득해요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "market",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "busy",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1740
+            },
+            {
+              "word": "full",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 1920
+            },
+            {
+              "word": "of",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "color",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We need some apples and bread,\" says Mom.",
+          "translation_ko": "\"사과와 빵이 좀 필요해,\" 엄마가 말해요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "need",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 1000
+            },
+            {
+              "word": "some",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 2020
+            },
+            {
+              "word": "apples",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 2020,
+              "endMs": 2020
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2020,
+              "endMs": 2900
+            },
+            {
+              "word": "bread",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2900,
+              "endMs": 2960
+            },
+            {
+              "word": "says",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 3340,
+              "endMs": 3440
+            },
+            {
+              "word": "Mom",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 3440,
+              "endMs": 3780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"How much are the apples?\" Mom asks.",
+          "translation_ko": "\"사과는 얼마예요?\" 엄마가 물어요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "How",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "much",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "are",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1400
+            },
+            {
+              "word": "apples",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 1420
+            },
+            {
+              "word": "Mom",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2140,
+              "endMs": 2260
+            },
+            {
+              "word": "asks",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Five apples for two dollars,\" says the man.",
+          "translation_ko": "\"사과 다섯 개에 2달러예요,\" 아저씨가 말해요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Five",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "apples",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "for",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "two",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "dollars",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1780
+            },
+            {
+              "word": "says",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2260,
+              "endMs": 2400
+            },
+            {
+              "word": "man",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2400,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I pick the biggest, reddest apples.",
+          "translation_ko": "나는 가장 크고 빨간 사과를 골라요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 1240
+            },
+            {
+              "word": "pick",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 1240,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 1440,
+              "endMs": 1680
+            },
+            {
+              "word": "biggest",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 1680,
+              "endMs": 2180
+            },
+            {
+              "word": "reddest",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 2220,
+              "endMs": 2780
+            },
+            {
+              "word": "apples",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2780,
+              "endMs": 3060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom pays the man and says thank you.",
+          "translation_ko": "엄마는 아저씨에게 돈을 내고 고맙다고 말해요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "pays",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1060
+            },
+            {
+              "word": "man",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "says",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1680,
+              "endMs": 1880
+            },
+            {
+              "word": "thank",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2220
+            },
+            {
+              "word": "you",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We carry the heavy bags home together.",
+          "translation_ko": "우리는 무거운 가방을 함께 들고 집으로 가요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "carry",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "heavy",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "bags",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "home",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1800
+            },
+            {
+              "word": "together",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1800,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아이는 언제 시장에 갔나요?",
+      "type": "mc",
+      "options": [
+        "월요일",
+        "토요일",
+        "수요일",
+        "금요일"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "On Saturday — 토요일에 갔어요."
+    },
+    {
+      "question_ko": "엄마가 사려고 한 것은?",
+      "type": "mc",
+      "options": [
+        "사과와 빵",
+        "우유와 달걀",
+        "생선과 밥",
+        "물과 주스"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "apples and bread — 사과와 빵이 필요했어요."
+    },
+    {
+      "question_ko": "\"How much are the apples?\"는 무슨 뜻인가요?",
+      "type": "mc",
+      "options": [
+        "사과 몇 개예요?",
+        "사과는 얼마예요?",
+        "사과가 빨개요?",
+        "사과 어디 있어요?"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "How much ~?는 가격(얼마)을 묻는 말이에요."
+    },
+    {
+      "question_ko": "사과 다섯 개의 값은 얼마였나요?",
+      "type": "mc",
+      "options": [
+        "1달러",
+        "2달러",
+        "5달러",
+        "10달러"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Five apples for two dollars — 2달러였어요."
+    },
+    {
+      "question_ko": "집에 갈 때 가방은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "가벼웠다",
+        "비었다",
+        "무거웠다",
+        "젖었다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "heavy bags — 무거운 가방이었어요."
+    }
+  ]
+}

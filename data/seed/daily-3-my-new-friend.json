@@ -1,0 +1,530 @@
+{
+  "slug": "daily-3-my-new-friend",
+  "title": "My New Friend",
+  "title_ko": "내 새 친구",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "교실에서 새 친구를 만나 이름과 좋아하는 것을 묻고 답하는 이야기. 자기소개와 친구 사귀는 표현을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A new boy is in my class.",
+          "translation_ko": "우리 반에 새 친구가 왔어요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "new",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 240,
+              "endMs": 620
+            },
+            {
+              "word": "boy",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 1000
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1000,
+              "endMs": 1560
+            },
+            {
+              "word": "in",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "my",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "class",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1980,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I walk up to him.",
+          "translation_ko": "나는 그에게 다가가요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "walk",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 380,
+              "endMs": 660
+            },
+            {
+              "word": "up",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 940,
+              "endMs": 1100
+            },
+            {
+              "word": "him",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1260
+            }
+          ]
+        },
+        {
+          "text": "\"Hi! My name is Sam.\"",
+          "translation_ko": "\"안녕! 내 이름은 샘이야.\"",
+          "audio": "/seed/daily-3-my-new-friend/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Hi",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "My",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 700,
+              "endMs": 1080
+            },
+            {
+              "word": "name",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 1080,
+              "endMs": 1200
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "Sam",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1420,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Hello, Sam. I am Leo,\" he says.",
+          "translation_ko": "\"안녕, 샘. 나는 레오야,\" 그가 말해요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hello",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "Sam",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 740
+            },
+            {
+              "word": "I",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 1160,
+              "endMs": 1320
+            },
+            {
+              "word": "am",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1320,
+              "endMs": 1480
+            },
+            {
+              "word": "Leo",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 2280
+            },
+            {
+              "word": "he",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2280,
+              "endMs": 2280
+            },
+            {
+              "word": "says",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2280,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"What do you like, Leo?\"",
+          "translation_ko": "\"레오, 너는 뭘 좋아해?\"",
+          "audio": "/seed/daily-3-my-new-friend/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "do",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 460
+            },
+            {
+              "word": "you",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 700
+            },
+            {
+              "word": "like",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 700,
+              "endMs": 860
+            },
+            {
+              "word": "Leo",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I like dogs and soccer,\" says Leo.",
+          "translation_ko": "\"나는 개와 축구를 좋아해,\" 레오가 말해요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 1080
+            },
+            {
+              "word": "like",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "dogs",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 1440,
+              "endMs": 1780
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1780,
+              "endMs": 2500
+            },
+            {
+              "word": "soccer",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 2500,
+              "endMs": 2500
+            },
+            {
+              "word": "says",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 3020,
+              "endMs": 3100
+            },
+            {
+              "word": "Leo",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 3100,
+              "endMs": 3360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Me too! I like soccer,\" I say.",
+          "translation_ko": "\"나도! 나도 축구를 좋아해,\" 내가 말해요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Me",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "too",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 800
+            },
+            {
+              "word": "I",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "like",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "soccer",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1660,
+              "endMs": 2020
+            },
+            {
+              "word": "I",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 2380,
+              "endMs": 2520
+            },
+            {
+              "word": "say",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2520,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We play together at lunch.",
+          "translation_ko": "우리는 점심시간에 함께 놀아요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "play",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "together",
+              "charStart": 8,
+              "charEnd": 16,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "at",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "lunch",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1740
+            }
+          ]
+        },
+        {
+          "text": "Now we are friends.",
+          "translation_ko": "이제 우리는 친구예요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "we",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 480
+            },
+            {
+              "word": "are",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 700
+            },
+            {
+              "word": "friends",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 700,
+              "endMs": 1080
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "새 친구의 이름은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "샘",
+        "레오",
+        "믹",
+        "톰"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "새 친구의 이름은 Leo예요. (말하는 아이는 Sam)"
+    },
+    {
+      "question_ko": "레오가 좋아하는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "고양이와 농구",
+        "개와 축구",
+        "물고기와 야구",
+        "새와 달리기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "dogs and soccer — 개와 축구를 좋아해요."
+    },
+    {
+      "question_ko": "\"What do you like?\"는 무슨 뜻일까요?",
+      "type": "mc",
+      "options": [
+        "몇 살이야?",
+        "뭘 좋아해?",
+        "어디 살아?",
+        "이름이 뭐야?"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "like는 좋아하다 — 무엇을 좋아하는지 묻는 말이에요."
+    },
+    {
+      "question_ko": "두 친구는 언제 함께 놀았나요?",
+      "type": "mc",
+      "options": [
+        "아침",
+        "점심시간",
+        "저녁",
+        "주말"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "at lunch — 점심시간에 함께 놀았어요."
+    },
+    {
+      "question_ko": "\"Me too\"는 어떤 뜻인가요?",
+      "type": "mc",
+      "options": [
+        "나도 그래",
+        "아니야",
+        "고마워",
+        "잘 가"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Me too는 \"나도 그래\"라는 뜻이에요."
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "slug": "daily-6-a-weekend-trip",
+  "title": "A Weekend Trip",
+  "title_ko": "주말 나들이",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "가족과 기차를 타고 바다로 떠나는 주말 여행. 계획하고, 묻고, 느낌을 표현하는 풍부한 대화로 마무리하는 6단계 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "\"Let's take a trip this weekend,\" my dad said at dinner.",
+          "translation_ko": "\"이번 주말에 여행 가자,\" 아빠가 저녁을 먹으며 말했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 420,
+              "endMs": 820
+            },
+            {
+              "word": "take",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 820,
+              "endMs": 960
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 960,
+              "endMs": 1160
+            },
+            {
+              "word": "trip",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1300
+            },
+            {
+              "word": "this",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "weekend",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 2280
+            },
+            {
+              "word": "my",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2280,
+              "endMs": 2400
+            },
+            {
+              "word": "dad",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2400,
+              "endMs": 2660
+            },
+            {
+              "word": "said",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2660,
+              "endMs": 2900
+            },
+            {
+              "word": "at",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2900,
+              "endMs": 3100
+            },
+            {
+              "word": "dinner",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3100,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Where should we go?\" I asked, feeling excited.",
+          "translation_ko": "\"어디로 갈까요?\" 나는 신나서 물었어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Where",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "should",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 960
+            },
+            {
+              "word": "we",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1180
+            },
+            {
+              "word": "go",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1360
+            },
+            {
+              "word": "I",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1820,
+              "endMs": 2000
+            },
+            {
+              "word": "asked",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "feeling",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "excited",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2820,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"How about the sea? We can take the early train,\" Mom said.",
+          "translation_ko": "\"바다는 어때? 이른 기차를 탈 수 있어,\" 엄마가 말했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "How",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "about",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 840
+            },
+            {
+              "word": "sea",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "We",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1960,
+              "endMs": 2100
+            },
+            {
+              "word": "can",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "take",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2500
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2500,
+              "endMs": 2700
+            },
+            {
+              "word": "early",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2700,
+              "endMs": 2980
+            },
+            {
+              "word": "train",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2980,
+              "endMs": 4100
+            },
+            {
+              "word": "Mom",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 4100,
+              "endMs": 4240
+            },
+            {
+              "word": "said",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 4240,
+              "endMs": 4560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Saturday morning, we packed our bags and hurried to the station.",
+          "translation_ko": "토요일 아침, 우리는 가방을 싸서 서둘러 역으로 갔어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "Saturday",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "morning",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 620,
+              "endMs": 1040
+            },
+            {
+              "word": "we",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1520
+            },
+            {
+              "word": "packed",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "our",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1720,
+              "endMs": 2260
+            },
+            {
+              "word": "bags",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2260,
+              "endMs": 2260
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "hurried",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2500,
+              "endMs": 2780
+            },
+            {
+              "word": "to",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 2780,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 2960,
+              "endMs": 3120
+            },
+            {
+              "word": "station",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 3120,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The train moved fast, and green fields rushed past the window.",
+          "translation_ko": "기차는 빠르게 달렸고, 초록 들판이 창밖으로 휙휙 지나갔어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "train",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 900
+            },
+            {
+              "word": "moved",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "fast",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1680,
+              "endMs": 2480
+            },
+            {
+              "word": "green",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2480,
+              "endMs": 2780
+            },
+            {
+              "word": "fields",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2780,
+              "endMs": 3060
+            },
+            {
+              "word": "rushed",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 3060,
+              "endMs": 3480
+            },
+            {
+              "word": "past",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3480,
+              "endMs": 3840
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3840,
+              "endMs": 4060
+            },
+            {
+              "word": "window",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 4060,
+              "endMs": 4240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I can smell the ocean!\" my little sister shouted.",
+          "translation_ko": "\"바다 냄새가 나요!\" 여동생이 소리쳤어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "can",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 680
+            },
+            {
+              "word": "smell",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "ocean",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 2100
+            },
+            {
+              "word": "my",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2100,
+              "endMs": 2240
+            },
+            {
+              "word": "little",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "sister",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2500,
+              "endMs": 2800
+            },
+            {
+              "word": "shouted",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2800,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We ran across the warm sand and let the waves touch our feet.",
+          "translation_ko": "우리는 따뜻한 모래를 가로질러 달려가 파도가 발을 적시게 두었어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "ran",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "across",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "warm",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "sand",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1960
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2400
+            },
+            {
+              "word": "let",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2400,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2520,
+              "endMs": 2720
+            },
+            {
+              "word": "waves",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2720,
+              "endMs": 3020
+            },
+            {
+              "word": "touch",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3020,
+              "endMs": 3360
+            },
+            {
+              "word": "our",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3360,
+              "endMs": 3640
+            },
+            {
+              "word": "feet",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3640,
+              "endMs": 3820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"This is the best day ever,\" I thought, watching the sun go down.",
+          "translation_ko": "\"역사상 최고의 날이야,\" 나는 해가 지는 걸 보며 생각했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 720
+            },
+            {
+              "word": "best",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 1020
+            },
+            {
+              "word": "day",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1420
+            },
+            {
+              "word": "ever",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1420,
+              "endMs": 1860
+            },
+            {
+              "word": "I",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 2240,
+              "endMs": 2440
+            },
+            {
+              "word": "thought",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2440,
+              "endMs": 2660
+            },
+            {
+              "word": "watching",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2960,
+              "endMs": 3280
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3280,
+              "endMs": 3560
+            },
+            {
+              "word": "sun",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3560,
+              "endMs": 3740
+            },
+            {
+              "word": "go",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3740,
+              "endMs": 3980
+            },
+            {
+              "word": "down",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3980,
+              "endMs": 4240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the train back home, we were tired but very happy.",
+          "translation_ko": "집으로 돌아오는 기차에서 우리는 피곤했지만 무척 행복했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 440
+            },
+            {
+              "word": "train",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 620
+            },
+            {
+              "word": "back",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "home",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 940,
+              "endMs": 1220
+            },
+            {
+              "word": "we",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1580,
+              "endMs": 1660
+            },
+            {
+              "word": "were",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "tired",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "but",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2160,
+              "endMs": 2400
+            },
+            {
+              "word": "very",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2400,
+              "endMs": 2820
+            },
+            {
+              "word": "happy",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2820,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "가족은 어디로 여행을 가기로 했나요?",
+      "type": "mc",
+      "options": [
+        "산",
+        "바다",
+        "도시",
+        "할머니 댁"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "How about the sea? — 바다로 가기로 했어요."
+    },
+    {
+      "question_ko": "역까지 어떻게 갔나요?",
+      "type": "mc",
+      "options": [
+        "서둘러 갔다",
+        "천천히 걸었다",
+        "차로 갔다",
+        "버스를 놓쳤다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "hurried to the station — 서둘러 역으로 갔어요."
+    },
+    {
+      "question_ko": "여동생이 무엇을 느꼈나요?",
+      "type": "mc",
+      "options": [
+        "비 냄새",
+        "바다 냄새",
+        "꽃 냄새",
+        "빵 냄새"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "I can smell the ocean — 바다 냄새를 맡았어요."
+    },
+    {
+      "question_ko": "바닷가에서 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "모래밭을 달렸다",
+        "낮잠을 잤다",
+        "그림을 그렸다",
+        "책을 읽었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "ran across the warm sand — 모래밭을 달렸어요."
+    },
+    {
+      "question_ko": "집에 돌아올 때 가족의 기분은?",
+      "type": "mc",
+      "options": [
+        "화났다",
+        "지루했다",
+        "피곤하지만 행복했다",
+        "슬펐다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "tired but very happy — 피곤했지만 행복했어요."
+    }
+  ]
+}

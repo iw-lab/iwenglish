@@ -54,6 +54,10 @@ export interface Book {
   coverUrl: string;
   summary_ko: string;
   wordCount: number;
+  /** 단계별 시리즈용 1~6 (없으면 일반 그림책) */
+  stage?: number;
+  /** 컬렉션/섹션 키 (예: "daily" 생활영어) */
+  collection?: string;
   pages: BookPage[];
   quiz: QuizQuestion[];
 }
@@ -69,6 +73,8 @@ export interface BookSummary {
   coverUrl: string;
   summary_ko: string;
   wordCount: number;
+  stage?: number;
+  collection?: string;
 }
 
 /** 전역 사전 캐시(단어 단위, 책 무관 공유) */

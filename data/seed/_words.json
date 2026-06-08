@@ -3062,5 +3062,709 @@
     "example_en": "You are my friend.",
     "example_ko": "너는 내 친구야.",
     "audioUrl": "/seed/_words/you.mp3"
+  },
+  "about": {
+    "ipa": "/əˈbaʊt/",
+    "pos": "preposition",
+    "meaning_ko": "어떤 것에 대해",
+    "example_en": "We talked about the weather.",
+    "example_ko": "우리는 날씨에 대해 이야기했다.",
+    "audioUrl": ""
+  },
+  "apples": {
+    "ipa": "/ˈæpəlz/",
+    "pos": "noun",
+    "meaning_ko": "사과의 복수형",
+    "example_en": "I like to eat apples.",
+    "example_ko": "나는 사과를 먹는 것을 좋아해.",
+    "audioUrl": ""
+  },
+  "ask": {
+    "ipa": "/æsk/",
+    "pos": "verb",
+    "meaning_ko": "무언가를 요청하다",
+    "example_en": "I will ask my teacher a question.",
+    "example_ko": "나는 선생님께 질문할 것이다.",
+    "audioUrl": ""
+  },
+  "asked": {
+    "ipa": "/æskt/",
+    "pos": "verb",
+    "meaning_ko": "무언가를 요청하다",
+    "example_en": "She asked a question.",
+    "example_ko": "그녀는 질문을 했다.",
+    "audioUrl": ""
+  },
+  "asks": {
+    "ipa": "/æsks/",
+    "pos": "verb",
+    "meaning_ko": "묻다",
+    "example_en": "She asks a question.",
+    "example_ko": "그녀는 질문을 한다.",
+    "audioUrl": ""
+  },
+  "bags": {
+    "ipa": "/bæɡz/",
+    "pos": "noun",
+    "meaning_ko": "물건을 담는 주머니 같은 것",
+    "example_en": "I have two bags for my books.",
+    "example_ko": "나는 내 책을 위한 가방이 두 개 있어.",
+    "audioUrl": ""
+  },
+  "biggest": {
+    "ipa": "/ˈbɪɡɪst/",
+    "pos": "adjective",
+    "meaning_ko": "가장 큰",
+    "example_en": "This is the biggest dog in the park.",
+    "example_ko": "이것은 공원에서 가장 큰 개입니다.",
+    "audioUrl": ""
+  },
+  "books": {
+    "ipa": "/bʊks/",
+    "pos": "noun",
+    "meaning_ko": "읽을 수 있는 종이로 된 것들",
+    "example_en": "I have many books on my shelf.",
+    "example_ko": "나는 내 선반에 많은 책이 있다.",
+    "audioUrl": ""
+  },
+  "bread": {
+    "ipa": "/brɛd/",
+    "pos": "noun",
+    "meaning_ko": "음식을 만드는 밀가루로 만든 것",
+    "example_en": "I eat bread for breakfast.",
+    "example_ko": "나는 아침으로 빵을 먹는다.",
+    "audioUrl": ""
+  },
+  "breakfast": {
+    "ipa": "/ˈbrɛkfəst/",
+    "pos": "noun",
+    "meaning_ko": "아침 식사",
+    "example_en": "I eat breakfast every morning.",
+    "example_ko": "나는 매일 아침 식사를 한다.",
+    "audioUrl": ""
+  },
+  "busy": {
+    "ipa": "/ˈbɪzi/",
+    "pos": "adjective",
+    "meaning_ko": "많은 일을 하고 있는 상태",
+    "example_en": "I am busy with my homework.",
+    "example_ko": "나는 숙제로 바쁘다.",
+    "audioUrl": ""
+  },
+  "bye": {
+    "ipa": "/baɪ/",
+    "pos": "interjection",
+    "meaning_ko": "작별 인사",
+    "example_en": "I said bye to my friend.",
+    "example_ko": "나는 내 친구에게 작별 인사를 했다.",
+    "audioUrl": ""
+  },
+  "carry": {
+    "ipa": "/ˈkæri/",
+    "pos": "verb",
+    "meaning_ko": "무언가를 옮기다",
+    "example_en": "I will carry the bag.",
+    "example_ko": "나는 가방을 옮길 것이다.",
+    "audioUrl": ""
+  },
+  "class": {
+    "ipa": "/klæs/",
+    "pos": "noun",
+    "meaning_ko": "수업이나 학급을 의미하는 단어",
+    "example_en": "I go to class every day.",
+    "example_ko": "나는 매일 수업에 간다.",
+    "audioUrl": ""
+  },
+  "color": {
+    "ipa": "/ˈkʌlər/",
+    "pos": "noun",
+    "meaning_ko": "물체의 색깔",
+    "example_en": "The sky is a beautiful color.",
+    "example_ko": "하늘은 아름다운 색깔이다.",
+    "audioUrl": ""
+  },
+  "cook": {
+    "ipa": "/kʊk/",
+    "pos": "verb",
+    "meaning_ko": "음식을 조리하다",
+    "example_en": "I like to cook dinner.",
+    "example_ko": "나는 저녁을 요리하는 것을 좋아한다.",
+    "audioUrl": ""
+  },
+  "course": {
+    "ipa": "/kɔːrs/",
+    "pos": "noun",
+    "meaning_ko": "수업 또는 과정",
+    "example_en": "I am taking a math course.",
+    "example_ko": "나는 수학 수업을 듣고 있어.",
+    "audioUrl": ""
+  },
+  "cross": {
+    "ipa": "/krɔs/",
+    "pos": "verb",
+    "meaning_ko": "가로지르다",
+    "example_en": "Please cross the street carefully.",
+    "example_ko": "조심히 길을 건너세요.",
+    "audioUrl": ""
+  },
+  "dad": {
+    "ipa": "/dæd/",
+    "pos": "noun",
+    "meaning_ko": "아버지",
+    "example_en": "My dad is very kind.",
+    "example_ko": "내 아버지는 매우 친절하다.",
+    "audioUrl": ""
+  },
+  "dinner": {
+    "ipa": "/ˈdɪnər/",
+    "pos": "noun",
+    "meaning_ko": "저녁 식사",
+    "example_en": "We eat dinner at 6 PM.",
+    "example_ko": "우리는 오후 6시에 저녁을 먹습니다.",
+    "audioUrl": ""
+  },
+  "dogs": {
+    "ipa": "/dɔɡz/",
+    "pos": "noun",
+    "meaning_ko": "개들",
+    "example_en": "I have two dogs.",
+    "example_ko": "나는 개가 두 마리 있다.",
+    "audioUrl": ""
+  },
+  "dollars": {
+    "ipa": "/ˈdɑːlərz/",
+    "pos": "noun",
+    "meaning_ko": "돈의 단위",
+    "example_en": "I have five dollars.",
+    "example_ko": "나는 5달러가 있어요.",
+    "audioUrl": ""
+  },
+  "early": {
+    "ipa": "/ˈɜrli/",
+    "pos": "adjective",
+    "meaning_ko": "이른, 빠른",
+    "example_en": "I wake up early in the morning.",
+    "example_ko": "나는 아침에 일찍 일어난다.",
+    "audioUrl": ""
+  },
+  "eat": {
+    "ipa": "/iːt/",
+    "pos": "verb",
+    "meaning_ko": "음식을 먹다",
+    "example_en": "I eat an apple.",
+    "example_ko": "나는 사과를 먹는다.",
+    "audioUrl": ""
+  },
+  "ever": {
+    "ipa": "/ˈɛvər/",
+    "pos": "adverb",
+    "meaning_ko": "언제든지",
+    "example_en": "Have you ever been to Seoul?",
+    "example_ko": "너는 서울에 가본 적이 있니?",
+    "audioUrl": ""
+  },
+  "excited": {
+    "ipa": "/ɪkˈsaɪtɪd/",
+    "pos": "adjective",
+    "meaning_ko": "흥분한",
+    "example_en": "I am excited to go to the park.",
+    "example_ko": "나는 공원에 가게 되어 흥분된다.",
+    "audioUrl": ""
+  },
+  "face": {
+    "ipa": "/feɪs/",
+    "pos": "noun",
+    "meaning_ko": "사람의 얼굴",
+    "example_en": "She has a beautiful face.",
+    "example_ko": "그녀는 아름다운 얼굴을 가지고 있다.",
+    "audioUrl": ""
+  },
+  "feeling": {
+    "ipa": "/ˈfiːlɪŋ/",
+    "pos": "noun",
+    "meaning_ko": "감정이나 기분",
+    "example_en": "I have a good feeling about this.",
+    "example_ko": "나는 이 일에 대해 좋은 기분이 들어.",
+    "audioUrl": ""
+  },
+  "feet": {
+    "ipa": "/fiːt/",
+    "pos": "noun",
+    "meaning_ko": "사람의 발",
+    "example_en": "My feet are cold.",
+    "example_ko": "내 발이 차가워.",
+    "audioUrl": ""
+  },
+  "fields": {
+    "ipa": "/fiːldz/",
+    "pos": "noun",
+    "meaning_ko": "밭이나 운동장 같은 넓은 땅",
+    "example_en": "The children played in the fields.",
+    "example_ko": "아이들이 밭에서 놀았다.",
+    "audioUrl": ""
+  },
+  "fish": {
+    "ipa": "/fɪʃ/",
+    "pos": "noun",
+    "meaning_ko": "물속에 사는 생물",
+    "example_en": "I caught a fish in the river.",
+    "example_ko": "나는 강에서 물고기를 잡았다.",
+    "audioUrl": ""
+  },
+  "five": {
+    "ipa": "/faɪv/",
+    "pos": "noun",
+    "meaning_ko": "숫자 5",
+    "example_en": "I have five apples.",
+    "example_ko": "나는 사과가 다섯 개 있어.",
+    "audioUrl": ""
+  },
+  "full": {
+    "ipa": "/fʊl/",
+    "pos": "adjective",
+    "meaning_ko": "가득 찬",
+    "example_en": "The cup is full.",
+    "example_ko": "컵이 가득 차 있다.",
+    "audioUrl": ""
+  },
+  "good": {
+    "ipa": "/ɡʊd/",
+    "pos": "adjective",
+    "meaning_ko": "좋은",
+    "example_en": "She is a good student.",
+    "example_ko": "그녀는 좋은 학생이다.",
+    "audioUrl": ""
+  },
+  "heavy": {
+    "ipa": "/ˈhɛvi/",
+    "pos": "adjective",
+    "meaning_ko": "무거운",
+    "example_en": "The box is heavy.",
+    "example_ko": "상자는 무겁다.",
+    "audioUrl": ""
+  },
+  "hello": {
+    "ipa": "/həˈloʊ/",
+    "pos": "interjection",
+    "meaning_ko": "인사할 때 쓰는 말",
+    "example_en": "Hello, how are you?",
+    "example_ko": "안녕하세요, 어떻게 지내세요?",
+    "audioUrl": ""
+  },
+  "here": {
+    "ipa": "/hɪr/",
+    "pos": "adverb",
+    "meaning_ko": "여기",
+    "example_en": "Come here and see!",
+    "example_ko": "여기로 와서 봐!",
+    "audioUrl": ""
+  },
+  "how": {
+    "ipa": "/haʊ/",
+    "pos": "adverb",
+    "meaning_ko": "어떻게",
+    "example_en": "How do you go to school?",
+    "example_ko": "당신은 학교에 어떻게 가나요?",
+    "audioUrl": ""
+  },
+  "hungry": {
+    "ipa": "/ˈhʌŋɡri/",
+    "pos": "adjective",
+    "meaning_ko": "배고픈 상태",
+    "example_en": "I am very hungry.",
+    "example_ko": "나는 매우 배고프다.",
+    "audioUrl": ""
+  },
+  "hurried": {
+    "ipa": "/ˈhɜːr.id/",
+    "pos": "adjective",
+    "meaning_ko": "서두르는",
+    "example_en": "She hurried to catch the bus.",
+    "example_ko": "그녀는 버스를 잡으려고 서둘렀다.",
+    "audioUrl": ""
+  },
+  "later": {
+    "ipa": "/ˈleɪtər/",
+    "pos": "adverb",
+    "meaning_ko": "나중에",
+    "example_en": "I will do my homework later.",
+    "example_ko": "나는 나중에 숙제를 할 거야.",
+    "audioUrl": ""
+  },
+  "let": {
+    "ipa": "/lɛt/",
+    "pos": "verb",
+    "meaning_ko": "허락하다",
+    "example_en": "Let me help you.",
+    "example_ko": "내가 너를 도와줄게.",
+    "audioUrl": ""
+  },
+  "let's": {
+    "ipa": "/lɛts/",
+    "pos": "contraction",
+    "meaning_ko": "같이 하자고 제안할 때 쓰는 말",
+    "example_en": "Let's go to the park.",
+    "example_ko": "공원에 가자.",
+    "audioUrl": ""
+  },
+  "lunch": {
+    "ipa": "/lʌnʧ/",
+    "pos": "noun",
+    "meaning_ko": "점심",
+    "example_en": "I eat lunch at school.",
+    "example_ko": "나는 학교에서 점심을 먹는다.",
+    "audioUrl": ""
+  },
+  "man": {
+    "ipa": "/mæn/",
+    "pos": "noun",
+    "meaning_ko": "남자",
+    "example_en": "The man is reading a book.",
+    "example_ko": "그 남자는 책을 읽고 있다.",
+    "audioUrl": ""
+  },
+  "market": {
+    "ipa": "/ˈmɑːrkɪt/",
+    "pos": "noun",
+    "meaning_ko": "사람들이 물건을 사고파는 곳",
+    "example_en": "I go to the market to buy fruits.",
+    "example_ko": "나는 과일을 사기 위해 시장에 간다.",
+    "audioUrl": ""
+  },
+  "more": {
+    "ipa": "/mɔːr/",
+    "pos": "adverb",
+    "meaning_ko": "더 많은",
+    "example_en": "I want more apples.",
+    "example_ko": "나는 사과를 더 원해.",
+    "audioUrl": ""
+  },
+  "moved": {
+    "ipa": "/muːvd/",
+    "pos": "verb",
+    "meaning_ko": "어디론가 갔다",
+    "example_en": "She moved to a new house.",
+    "example_ko": "그녀는 새 집으로 이사했다.",
+    "audioUrl": ""
+  },
+  "need": {
+    "ipa": "/niːd/",
+    "pos": "verb",
+    "meaning_ko": "필요하다",
+    "example_en": "I need a pencil.",
+    "example_ko": "나는 연필이 필요해.",
+    "audioUrl": ""
+  },
+  "ocean": {
+    "ipa": "/ˈoʊʃən/",
+    "pos": "noun",
+    "meaning_ko": "넓고 깊은 바다",
+    "example_en": "The ocean is very big.",
+    "example_ko": "바다는 매우 큽니다.",
+    "audioUrl": ""
+  },
+  "our": {
+    "ipa": "/aʊər/",
+    "pos": "pronoun",
+    "meaning_ko": "우리의",
+    "example_en": "This is our house.",
+    "example_ko": "이것은 우리의 집입니다.",
+    "audioUrl": ""
+  },
+  "packed": {
+    "ipa": "/pækt/",
+    "pos": "adjective",
+    "meaning_ko": "가득 찬",
+    "example_en": "The suitcase is packed with clothes.",
+    "example_ko": "그 여행가방은 옷으로 가득 차 있다.",
+    "audioUrl": ""
+  },
+  "pays": {
+    "ipa": "/peɪz/",
+    "pos": "verb",
+    "meaning_ko": "지불하다",
+    "example_en": "He pays for the meal.",
+    "example_ko": "그는 식사 비용을 지불한다.",
+    "audioUrl": ""
+  },
+  "pick": {
+    "ipa": "/pɪk/",
+    "pos": "verb",
+    "meaning_ko": "선택하다",
+    "example_en": "I will pick a book to read.",
+    "example_ko": "나는 읽을 책을 선택할 것이다.",
+    "audioUrl": ""
+  },
+  "put": {
+    "ipa": "/pʊt/",
+    "pos": "verb",
+    "meaning_ko": "어디에 놓다",
+    "example_en": "Please put the book on the table.",
+    "example_ko": "책을 테이블 위에 놓아 주세요.",
+    "audioUrl": ""
+  },
+  "ran": {
+    "ipa": "/ræn/",
+    "pos": "verb",
+    "meaning_ko": "달리다의 과거형",
+    "example_en": "She ran to the store.",
+    "example_ko": "그녀는 가게로 달려갔다.",
+    "audioUrl": ""
+  },
+  "ready": {
+    "ipa": "/ˈrɛdi/",
+    "pos": "adjective",
+    "meaning_ko": "준비가 된",
+    "example_en": "I am ready to go.",
+    "example_ko": "나는 갈 준비가 되어 있어.",
+    "audioUrl": ""
+  },
+  "reddest": {
+    "ipa": "/ˈrɛdɪst/",
+    "pos": "adjective",
+    "meaning_ko": "가장 빨간",
+    "example_en": "This apple is the reddest of them all.",
+    "example_ko": "이 사과가 모든 것 중에서 가장 빨간색이에요.",
+    "audioUrl": ""
+  },
+  "rice": {
+    "ipa": "/raɪs/",
+    "pos": "noun",
+    "meaning_ko": "밥 또는 쌀",
+    "example_en": "I eat rice every day.",
+    "example_ko": "나는 매일 밥을 먹는다.",
+    "audioUrl": ""
+  },
+  "rushed": {
+    "ipa": "/rʌʃt/",
+    "pos": "verb",
+    "meaning_ko": "서두르다",
+    "example_en": "She rushed to catch the bus.",
+    "example_ko": "그녀는 버스를 잡으려고 서둘렀다.",
+    "audioUrl": ""
+  },
+  "sam": {
+    "ipa": "/sæm/",
+    "pos": "noun",
+    "meaning_ko": "사람의 이름",
+    "example_en": "Sam is my best friend.",
+    "example_ko": "샘은 내 가장 친한 친구이다.",
+    "audioUrl": ""
+  },
+  "sand": {
+    "ipa": "/sænd/",
+    "pos": "noun",
+    "meaning_ko": "모래",
+    "example_en": "The sand is warm on my feet.",
+    "example_ko": "모래가 내 발에 따뜻하다.",
+    "audioUrl": ""
+  },
+  "saturday": {
+    "ipa": "/ˈsætərdeɪ/",
+    "pos": "noun",
+    "meaning_ko": "주말의 첫 번째 날",
+    "example_en": "Saturday is my favorite day of the week.",
+    "example_ko": "토요일은 내가 가장 좋아하는 주의 날이다.",
+    "audioUrl": ""
+  },
+  "should": {
+    "ipa": "/ʃʊd/",
+    "pos": "modal verb",
+    "meaning_ko": "해야 한다는 의미",
+    "example_en": "You should eat your vegetables.",
+    "example_ko": "너는 채소를 먹어야 한다.",
+    "audioUrl": ""
+  },
+  "shouted": {
+    "ipa": "/ˈʃaʊtɪd/",
+    "pos": "verb",
+    "meaning_ko": "큰 소리로 말하다",
+    "example_en": "She shouted for help.",
+    "example_ko": "그녀는 도움을 요청하며 소리쳤다.",
+    "audioUrl": ""
+  },
+  "sister": {
+    "ipa": "/ˈsɪstər/",
+    "pos": "noun",
+    "meaning_ko": "여자 형제",
+    "example_en": "She has one sister.",
+    "example_ko": "그녀는 한 명의 자매가 있다.",
+    "audioUrl": ""
+  },
+  "smell": {
+    "ipa": "/smɛl/",
+    "pos": "verb",
+    "meaning_ko": "냄새를 맡다",
+    "example_en": "I smell flowers in the garden.",
+    "example_ko": "나는 정원에서 꽃 냄새를 맡는다.",
+    "audioUrl": ""
+  },
+  "soccer": {
+    "ipa": "/ˈsɒkər/",
+    "pos": "noun",
+    "meaning_ko": "공을 차는 스포츠",
+    "example_en": "I like to play soccer with my friends.",
+    "example_ko": "나는 친구들과 축구하는 것을 좋아해.",
+    "audioUrl": ""
+  },
+  "some": {
+    "ipa": "/sʌm/",
+    "pos": "determiner",
+    "meaning_ko": "약간의, 어떤",
+    "example_en": "I have some apples.",
+    "example_ko": "나는 사과가 좀 있어.",
+    "audioUrl": ""
+  },
+  "soup": {
+    "ipa": "/suːp/",
+    "pos": "noun",
+    "meaning_ko": "액체 음식",
+    "example_en": "I like to eat soup on a cold day.",
+    "example_ko": "나는 추운 날에 수프를 먹는 것을 좋아해.",
+    "audioUrl": ""
+  },
+  "station": {
+    "ipa": "/ˈsteɪʃən/",
+    "pos": "noun",
+    "meaning_ko": "기차나 버스가 정차하는 곳",
+    "example_en": "I wait for the bus at the station.",
+    "example_ko": "나는 정류장에서 버스를 기다린다.",
+    "audioUrl": ""
+  },
+  "stop": {
+    "ipa": "/stɑp/",
+    "pos": "verb",
+    "meaning_ko": "멈추다",
+    "example_en": "Please stop talking.",
+    "example_ko": "제발 말하는 것을 멈춰 주세요.",
+    "audioUrl": ""
+  },
+  "sun": {
+    "ipa": "/sʌn/",
+    "pos": "noun",
+    "meaning_ko": "태양",
+    "example_en": "The sun is shining.",
+    "example_ko": "태양이 빛나고 있다.",
+    "audioUrl": ""
+  },
+  "sure": {
+    "ipa": "/ʃʊr/",
+    "pos": "adjective",
+    "meaning_ko": "확신하는",
+    "example_en": "I am sure that I can help you.",
+    "example_ko": "나는 내가 너를 도울 수 있다고 확신해.",
+    "audioUrl": ""
+  },
+  "take": {
+    "ipa": "/teɪk/",
+    "pos": "verb",
+    "meaning_ko": "가져가다",
+    "example_en": "I take the bus to school.",
+    "example_ko": "나는 학교에 가기 위해 버스를 타.",
+    "audioUrl": ""
+  },
+  "teacher": {
+    "ipa": "/ˈtiː.tʃər/",
+    "pos": "noun",
+    "meaning_ko": "학생들에게 가르치는 사람",
+    "example_en": "The teacher helps us learn.",
+    "example_ko": "선생님은 우리가 배우도록 도와줍니다.",
+    "audioUrl": ""
+  },
+  "this": {
+    "ipa": "/ðɪs/",
+    "pos": "pronoun",
+    "meaning_ko": "이것",
+    "example_en": "This is my book.",
+    "example_ko": "이것은 내 책입니다.",
+    "audioUrl": ""
+  },
+  "time": {
+    "ipa": "/taɪm/",
+    "pos": "noun",
+    "meaning_ko": "일어나는 사건이나 활동의 지속",
+    "example_en": "What time is it?",
+    "example_ko": "지금 몇 시예요?",
+    "audioUrl": ""
+  },
+  "touch": {
+    "ipa": "/tʌtʃ/",
+    "pos": "verb",
+    "meaning_ko": "손으로 닿다",
+    "example_en": "Please touch the screen.",
+    "example_ko": "화면을 만져 주세요.",
+    "audioUrl": ""
+  },
+  "train": {
+    "ipa": "/treɪn/",
+    "pos": "noun/verb",
+    "meaning_ko": "기차 또는 기차를 타다",
+    "example_en": "I take the train to school.",
+    "example_ko": "나는 학교에 가기 위해 기차를 탄다.",
+    "audioUrl": ""
+  },
+  "trip": {
+    "ipa": "/trɪp/",
+    "pos": "noun",
+    "meaning_ko": "여행",
+    "example_en": "We went on a fun trip to the beach.",
+    "example_ko": "우리는 해변으로 재미있는 여행을 갔다.",
+    "audioUrl": ""
+  },
+  "two": {
+    "ipa": "/tuː/",
+    "pos": "noun",
+    "meaning_ko": "숫자 2",
+    "example_en": "I have two apples.",
+    "example_ko": "나는 사과가 두 개 있어요.",
+    "audioUrl": ""
+  },
+  "wash": {
+    "ipa": "/wɑːʃ/",
+    "pos": "verb",
+    "meaning_ko": "씻다",
+    "example_en": "I wash my hands before eating.",
+    "example_ko": "나는 식사 전에 손을 씻는다.",
+    "audioUrl": ""
+  },
+  "watching": {
+    "ipa": "/ˈwɑːtʃɪŋ/",
+    "pos": "verb",
+    "meaning_ko": "무언가를 보는 것",
+    "example_en": "I am watching a movie.",
+    "example_ko": "나는 영화를 보고 있어요.",
+    "audioUrl": ""
+  },
+  "weekend": {
+    "ipa": "/ˈwiː.kɛnd/",
+    "pos": "noun",
+    "meaning_ko": "주말",
+    "example_en": "I love to play games on the weekend.",
+    "example_ko": "나는 주말에 게임하는 것을 좋아해.",
+    "audioUrl": ""
+  },
+  "where": {
+    "ipa": "/wɛr/",
+    "pos": "adverb",
+    "meaning_ko": "어디에",
+    "example_en": "Where is the school?",
+    "example_ko": "학교가 어디에 있나요?",
+    "audioUrl": ""
+  },
+  "window": {
+    "ipa": "/ˈwɪndoʊ/",
+    "pos": "noun",
+    "meaning_ko": "유리로 된 벽의 구멍",
+    "example_en": "I looked out the window.",
+    "example_ko": "나는 창밖을 보았다.",
+    "audioUrl": ""
+  },
+  "your": {
+    "ipa": "/jʊər/",
+    "pos": "pronoun",
+    "meaning_ko": "너의",
+    "example_en": "This is your book.",
+    "example_ko": "이것은 너의 책이다.",
+    "audioUrl": ""
   }
 }

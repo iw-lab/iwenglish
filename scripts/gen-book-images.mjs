@@ -1,92 +1,155 @@
 /**
- * 생활영어 동화 일러스트 생성 (codex $imagegen, gpt-image-2).
- * 시드 JSON에서 페이지별 장면을 자동 구성 → 표지 먼저, 이후 페이지는 표지를 -i 레퍼런스로 일관성 유지.
- * 워터컬러 그림책 스타일, 캐릭터 고정, 교차 프로젝트 침입 네거티브.
+ * 생활영어 동화 일러스트 — codex $imagegen, **병렬** 생성.
+ * - 동시 N개(기본 6) 동시 실행, 8분 하드 타임아웃(걸리면 kill 후 재시도 최대 3회).
+ * - 단계: covers(전 책 표지) → pages(표지를 -i 레퍼런스로 페이지).
  *
- *   node scripts/gen-book-images.mjs daily-1-good-morning daily-2-time-for-school ...
- *   (인자 없으면 collection:"daily" 전부)
+ *   node scripts/gen-book-images.mjs covers [conc]
+ *   node scripts/gen-book-images.mjs pages  [conc]
+ *   node scripts/gen-book-images.mjs all    [conc]
  */
-import { execFileSync } from "node:child_process";
+import { spawn } from "node:child_process";
 import { readFileSync, readdirSync, existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 
 const ROOT = process.cwd();
 const SEED = join(ROOT, "data", "seed");
 const PUB = join(ROOT, "public", "seed");
+const RES = "1536x1024";
+const PER_TIMEOUT = 480000; // 8분
 
 const STYLE =
-  "Soft watercolor children's picture-book illustration, warm gentle light, cozy storybook mood, painterly textures, wholesome and friendly, full scene with background.";
+  "Soft watercolor children's picture-book illustration, warm gentle light, cozy storybook mood, painterly, wholesome, friendly, full background scene.";
 const POV =
-  "Recurring main character Jun: a cheerful Korean boy about 8 years old, short tousled black hair, round friendly face, red t-shirt and blue shorts. Keep him IDENTICAL on every page (same hair, face, outfit).";
+  "Main character Jun: a cheerful Korean boy ~8, short tousled black hair, round friendly face, red t-shirt, blue shorts. Same look every page.";
 const NEG =
-  "STRICT: NO text, NO words, NO letters or captions in the image. 5-finger hands, natural relaxed pose, eyes looking at the scene not camera. NOT cartoon, NOT anime, NOT manga, NOT chibi, no big anime eyes, NOT a flat sticker on white background, NOT a comic panel with gutters. NOT Chinese/Greek/Roman, NOT Japanese samurai, NOT historical costume. Korean modern everyday setting. Consistent character and art style across all pages (no outfit/hair drift).";
-const RES = "1536x1024";
+  "STRICT: no text/letters in image. 5-finger hands, natural pose. NOT cartoon/anime/manga/chibi, no big anime eyes, NOT sticker on white, NOT comic panel. NOT Chinese/Greek/Roman/Japanese-samurai, NOT historical costume. Korean modern everyday setting.";
 
 const stripQuotes = (s) => s.replace(/[""]/g, '"');
 const sceneFromPage = (p) =>
-  p.sentences
-    .map((s) => stripQuotes(s.text))
-    .join(" ")
-    .slice(0, 320);
+  p.sentences.map((s) => stripQuotes(s.text)).join(" ").slice(0, 280);
 
-function codexImage({ dir, out, prompt, anchor }) {
-  const args = ["exec", "--full-auto", "--add-dir", dir, "--skip-git-repo-check"];
-  if (anchor && existsSync(anchor)) args.push("--image", anchor);
-  args.push(
-    "--",
-    `$imagegen 다음 조건으로 그림책 일러스트 1장 생성 후 저장.\n${prompt}\n저장 경로: ${out}\n해상도: ${RES}`,
-  );
-  execFileSync("codex", args, { stdio: "pipe", timeout: 1200000 });
-}
-
-function genBook(slug) {
-  const file = join(SEED, `${slug}.json`);
-  const b = JSON.parse(readFileSync(file, "utf8"));
-  const dir = join(PUB, slug);
-  mkdirSync(dir, { recursive: true });
-  const cover = join(dir, "cover.png");
-
-  // 1) 표지
-  if (!existsSync(cover)) {
-    const coverPrompt = `${STYLE}\n${POV}\nScene: Book cover for "${b.title}". A warm inviting cover image showing Jun in the story's main setting (${b.summary_ko}). Cozy, cheerful.\n${NEG}`;
-    process.stdout.write(`  🎨 ${slug} cover…\n`);
-    try {
-      codexImage({ dir, out: cover, prompt: coverPrompt });
-    } catch (e) {
-      console.log(`   ⚠️ cover 실패: ${String(e).slice(0, 80)}`);
-    }
-  } else process.stdout.write(`  ↩︎ ${slug} cover 있음\n`);
-
-  // 2) 페이지 (표지 anchor)
-  b.pages.forEach((p, i) => {
-    const out = join(dir, `p${i + 1}.png`);
-    if (existsSync(out)) {
-      process.stdout.write(`  ↩︎ ${slug} p${i + 1} 있음\n`);
-      return;
-    }
-    const prompt = `${STYLE}\n${POV}\nScene: ${sceneFromPage(p)}\nMatch the cover's character look and art style EXACTLY.\n${NEG}`;
-    process.stdout.write(`  🎨 ${slug} p${i + 1}/${b.pages.length}…\n`);
-    try {
-      codexImage({ dir, out, prompt, anchor: cover });
-    } catch (e) {
-      console.log(`   ⚠️ p${i + 1} 실패: ${String(e).slice(0, 80)}`);
-    }
+function runCodex({ dir, out, prompt, anchor }) {
+  return new Promise((resolve) => {
+    const args = [
+      "exec",
+      "--full-auto",
+      "--add-dir",
+      dir,
+      "--skip-git-repo-check",
+    ];
+    if (anchor && existsSync(anchor)) args.push("--image", anchor);
+    args.push(
+      "--",
+      `$imagegen 다음 조건으로 그림책 일러스트 1장 생성 후 반드시 아래 경로에 PNG로 저장.\n${prompt}\n저장 경로: ${out}\n해상도: ${RES}`,
+    );
+    const child = spawn("codex", args, { stdio: "ignore" });
+    const t = setTimeout(() => {
+      try {
+        child.kill("SIGKILL");
+      } catch {
+        /* noop */
+      }
+    }, PER_TIMEOUT);
+    child.on("exit", () => {
+      clearTimeout(t);
+      resolve(existsSync(out));
+    });
+    child.on("error", () => {
+      clearTimeout(t);
+      resolve(existsSync(out));
+    });
   });
-  console.log(`  ✅ ${slug} 완료`);
 }
 
-function main() {
-  let slugs = process.argv.slice(2);
-  if (slugs.length === 0) {
-    slugs = readdirSync(SEED)
-      .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
-      .map((f) => JSON.parse(readFileSync(join(SEED, f), "utf8")))
-      .filter((b) => b.collection === "daily")
-      .map((b) => b.slug);
+async function genOne(task) {
+  if (existsSync(task.out)) {
+    console.log(`↩︎ ${task.label} 있음`);
+    return true;
   }
-  console.log(`🖼️ 일러스트 생성 ${slugs.length}권: ${slugs.join(", ")}`);
-  for (const s of slugs) genBook(s);
-  console.log("🎉 일러스트 생성 완료 — pnpm seed:content 후 새로고침");
+  for (let a = 1; a <= 3; a++) {
+    const ok = await runCodex(task);
+    if (ok) {
+      console.log(`✅ ${task.label}`);
+      return true;
+    }
+    console.log(`↻ ${task.label} 재시도 ${a}/3`);
+  }
+  console.log(`⚠️ ${task.label} 실패`);
+  return false;
+}
+
+async function pool(tasks, conc) {
+  let idx = 0;
+  const worker = async () => {
+    while (idx < tasks.length) {
+      const t = tasks[idx++];
+      await new Promise((r) => setTimeout(r, 400)); // OAuth race 회피 stagger
+      await genOne(t);
+    }
+  };
+  await Promise.all(
+    Array.from({ length: Math.min(conc, tasks.length) }, worker),
+  );
+}
+
+function loadBooks() {
+  return readdirSync(SEED)
+    .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
+    .map((f) => JSON.parse(readFileSync(join(SEED, f), "utf8")))
+    .filter((b) => b.collection === "daily")
+    .sort((a, b) => (a.stage ?? 0) - (b.stage ?? 0));
+}
+
+function coverTasks(list) {
+  return list.map((b) => {
+    const dir = join(PUB, b.slug);
+    mkdirSync(dir, { recursive: true });
+    const scene = sceneFromPage(b.pages[0]);
+    return {
+      label: `${b.slug} cover`,
+      dir,
+      out: join(dir, "cover.png"),
+      prompt: `${STYLE}\n${POV}\nScene: Book cover. ${scene} Cheerful, cozy, inviting.\n${NEG}`,
+    };
+  });
+}
+
+function pageTasks(list) {
+  const tasks = [];
+  for (const b of list) {
+    const dir = join(PUB, b.slug);
+    const cover = join(dir, "cover.png");
+    b.pages.forEach((p, i) => {
+      tasks.push({
+        label: `${b.slug} p${i + 1}`,
+        dir,
+        out: join(dir, `p${i + 1}.png`),
+        anchor: cover,
+        prompt: `${STYLE}\n${POV}\nScene: ${sceneFromPage(p)}\nMatch cover character and art style exactly.\n${NEG}`,
+      });
+    });
+  }
+  return tasks;
+}
+
+async function main() {
+  const phase = ["covers", "pages", "all"].includes(process.argv[2])
+    ? process.argv[2]
+    : "all";
+  const conc = Number(process.argv[3]) || 6;
+  const list = loadBooks();
+  console.log(`🖼️ [${phase}] 동시 ${conc}개 · ${list.length}권`);
+  if (phase === "covers" || phase === "all") {
+    console.log("=== COVERS ===");
+    await pool(coverTasks(list), conc);
+    console.log("COVERS_PHASE_DONE");
+  }
+  if (phase === "pages" || phase === "all") {
+    console.log("=== PAGES ===");
+    await pool(pageTasks(list), conc);
+    console.log("PAGES_PHASE_DONE");
+  }
+  console.log("🎉 완료");
 }
 
 main();

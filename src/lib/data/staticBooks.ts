@@ -78,7 +78,7 @@ function toBook(b: SeedBook): Book {
     id: `${b.slug}-p${pi + 1}`,
     pageNo: pi + 1,
     spread: `p${pi + 1}`,
-    imageUrl: img(b.slug, `p${pi + 1}.png`),
+    imageUrl: img(b.slug, `p${pi + 1}.webp`) || img(b.slug, `p${pi + 1}.png`),
     sentences: p.sentences.map((s, si): Sentence => {
       const audioExists = s.audio && ASSET_SET.has(s.audio);
       return {
@@ -98,7 +98,7 @@ function toBook(b: SeedBook): Book {
     title_ko: b.title_ko,
     level: b.level,
     ageBand: b.ageBand,
-    coverUrl: img(b.slug, "cover.png"),
+    coverUrl: img(b.slug, "cover.webp") || img(b.slug, "cover.png"),
     summary_ko: b.summary_ko,
     wordCount: wordCount(b),
     stage: b.stage,
@@ -116,7 +116,7 @@ export function getStaticBooks(): BookSummary[] {
     title_ko: b.title_ko,
     level: b.level,
     ageBand: b.ageBand,
-    coverUrl: img(b.slug, "cover.png"),
+    coverUrl: img(b.slug, "cover.webp") || img(b.slug, "cover.png"),
     summary_ko: b.summary_ko,
     wordCount: wordCount(b),
     stage: b.stage,

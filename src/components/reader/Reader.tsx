@@ -84,6 +84,16 @@ export function Reader({ book }: { book: Book }) {
     (f) => f.pi === pageIdx && f.si === sentIdx,
   );
 
+  // 이웃 페이지 그림을 미리 받아 둠 → 페이지 전환 시 빈 박스 깜빡임 제거
+  useEffect(() => {
+    for (const d of [1, 2, -1]) {
+      const url = book.pages[pageIdx + d]?.imageUrl;
+      if (!url) continue;
+      const im = new window.Image();
+      im.src = url;
+    }
+  }, [pageIdx, book.pages]);
+
   // 연속 낭독(쭉 읽어주기) 진행 플래그
   const autoRef = useRef(false);
 
@@ -326,8 +336,13 @@ export function Reader({ book }: { book: Book }) {
         {page?.imageUrl ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
+            key={page.imageUrl}
             src={page.imageUrl}
             alt={`${book.title} ${pageIdx + 1}쪽`}
+            onLoad={(e) => {
+              e.currentTarget.style.opacity = "1";
+            }}
+            style={{ opacity: 0, transition: "opacity .35s ease" }}
             className="h-full w-full object-cover"
           />
         ) : (

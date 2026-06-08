@@ -1,26 +1,140 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* class 기반 다크모드 */
+@custom-variant dark (&:where(.dark, .dark *));
 
+/* ───────────── 시맨틱 토큰 → Tailwind 유틸 매핑 ─────────────
+   bg-background, text-foreground, bg-card, text-primary ... 사용 가능 */
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-good: var(--good);
+  --color-warn: var(--warn);
+  --color-bad: var(--bad);
+  --color-highlight: var(--highlight);
+
+  --font-sans: var(--font-nunito), ui-sans-serif, system-ui, sans-serif;
+  --font-reading: var(--font-reading-stack);
+  --font-ko: var(--font-gowun), "Apple SD Gothic Neo", sans-serif;
+
+  --radius-card: 1.25rem;
+  --radius-chip: 0.75rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* ───────────── 그림책 감성 팔레트 (라이트) ───────────── */
+:root {
+  --background: oklch(0.975 0.012 85);     /* 따뜻한 크림 */
+  --foreground: oklch(0.28 0.02 60);       /* 진한 잉크 브라운 */
+  --card: oklch(0.995 0.006 90);
+  --card-foreground: oklch(0.28 0.02 60);
+  --muted: oklch(0.94 0.012 85);
+  --muted-foreground: oklch(0.52 0.02 65);
+  --border: oklch(0.89 0.015 80);
+  --primary: oklch(0.62 0.07 155);         /* 세이지 그린 */
+  --primary-foreground: oklch(0.99 0.01 150);
+  --accent: oklch(0.72 0.13 40);           /* 따뜻한 코랄 */
+  --accent-foreground: oklch(0.99 0.01 40);
+  --good: oklch(0.7 0.15 150);             /* 초록 */
+  --warn: oklch(0.8 0.14 85);              /* 노랑 */
+  --bad: oklch(0.63 0.2 25);               /* 빨강 */
+  --highlight: oklch(0.9 0.13 95);         /* 카라오케 하이라이트(노랑) */
+
+  /* 본문(이야기) 폰트 스택 — 기본 세리프, 난독증 토글 시 Lexend */
+  --font-reading-stack: var(--font-gowun), Georgia, "Times New Roman", serif;
+  --font-scale: 1;
+}
+
+/* 난독증 친화 모드: 본문 폰트를 Lexend 로 교체 + 자간/줄간 확대 */
+:root[data-dyslexia="true"] {
+  --font-reading-stack: var(--font-lexend), ui-sans-serif, sans-serif;
+}
+:root[data-dyslexia="true"] body {
+  letter-spacing: 0.02em;
+  word-spacing: 0.08em;
+}
+
+/* ───────────── 다크 ───────────── */
+.dark {
+  --background: oklch(0.21 0.015 60);
+  --foreground: oklch(0.93 0.012 85);
+  --card: oklch(0.26 0.016 60);
+  --card-foreground: oklch(0.93 0.012 85);
+  --muted: oklch(0.3 0.016 60);
+  --muted-foreground: oklch(0.7 0.015 70);
+  --border: oklch(0.36 0.016 60);
+  --primary: oklch(0.7 0.08 155);
+  --primary-foreground: oklch(0.18 0.02 150);
+  --accent: oklch(0.74 0.13 40);
+  --accent-foreground: oklch(0.18 0.02 40);
+  --good: oklch(0.74 0.15 150);
+  --warn: oklch(0.82 0.14 85);
+  --bad: oklch(0.68 0.2 25);
+  --highlight: oklch(0.55 0.12 95);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    /* 종이 질감 — 미세한 점 패턴 */
+    background-image: radial-gradient(
+      oklch(0 0 0 / 0.015) 1px,
+      transparent 1px
+    );
+    background-size: 18px 18px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .dark body {
+    background-image: radial-gradient(
+      oklch(1 0 0 / 0.02) 1px,
+      transparent 1px
+    );
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* 본문 이야기 텍스트에 적용할 유틸 */
+@utility reading-text {
+  font-family: var(--font-reading);
+  font-size: calc(1.35rem * var(--font-scale));
+  line-height: 1.7;
+}
+
+/* 카라오케: 현재 읽는 단어 */
+@utility word-active {
+  background-color: var(--highlight);
+  border-radius: 0.35rem;
+  box-shadow: 0 0 0 3px var(--highlight);
+}
+
+/* 따라 말하기 간격 진행바 */
+@keyframes echotale-shrink {
+  from {
+    transform: scaleX(1);
+  }
+  to {
+    transform: scaleX(0);
+  }
+}
+
+/* 접근성: 모션 최소화 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }

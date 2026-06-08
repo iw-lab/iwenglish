@@ -1,0 +1,973 @@
+{
+  "slug": "where-is-my-hat",
+  "title": "Where Is My Hat?",
+  "title_ko": "내 모자 어디 있지?",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "곰돌이 베니가 사라진 빨간 모자를 찾아 숲속 친구들에게 묻고 다니는 즐거운 술래잡기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Benny has a red hat.",
+          "translation_ko": "베니에게는 빨간 모자가 있어요.",
+          "audio": "/seed/where-is-my-hat/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Benny",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "has",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "red",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1280,
+              "endMs": 1420
+            },
+            {
+              "word": "hat",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1420,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "But today, it is gone!",
+          "translation_ko": "그런데 오늘, 모자가 사라졌어요!",
+          "audio": "/seed/where-is-my-hat/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "today",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 680,
+              "endMs": 1040
+            },
+            {
+              "word": "it",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1260
+            },
+            {
+              "word": "is",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "gone",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 1800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Is my hat on the duck?\"",
+          "translation_ko": "\"내 모자가 오리 위에 있나?\"",
+          "audio": "/seed/where-is-my-hat/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Is",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "my",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "hat",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "on",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1220,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1360,
+              "endMs": 1480
+            },
+            {
+              "word": "duck",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1480,
+              "endMs": 1680
+            }
+          ]
+        },
+        {
+          "text": "No, that is a yellow leaf.",
+          "translation_ko": "아니, 그건 노란 나뭇잎이에요.",
+          "audio": "/seed/where-is-my-hat/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "No",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "that",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 780,
+              "endMs": 1160
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "yellow",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1680,
+              "endMs": 1860
+            },
+            {
+              "word": "leaf",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 2180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Is my hat in the tree?\"",
+          "translation_ko": "\"내 모자가 나무에 있나?\"",
+          "audio": "/seed/where-is-my-hat/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Is",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "my",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 540
+            },
+            {
+              "word": "hat",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 860
+            },
+            {
+              "word": "in",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "tree",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 1600
+            }
+          ]
+        },
+        {
+          "text": "No, that is a red apple.",
+          "translation_ko": "아니, 그건 빨간 사과예요.",
+          "audio": "/seed/where-is-my-hat/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "No",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "that",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 820,
+              "endMs": 1160
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1160,
+              "endMs": 1320
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "red",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1560,
+              "endMs": 1680
+            },
+            {
+              "word": "apple",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1680,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Is my hat by the pond?\"",
+          "translation_ko": "\"내 모자가 연못가에 있나?\"",
+          "audio": "/seed/where-is-my-hat/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Is",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "my",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "hat",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 1080,
+              "endMs": 1320
+            },
+            {
+              "word": "by",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1320,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1500,
+              "endMs": 1960
+            },
+            {
+              "word": "pond",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1960,
+              "endMs": 1980
+            }
+          ]
+        },
+        {
+          "text": "No, that is a red flower.",
+          "translation_ko": "아니, 그건 빨간 꽃이에요.",
+          "audio": "/seed/where-is-my-hat/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "No",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "that",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 1240
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1520,
+              "endMs": 1800
+            },
+            {
+              "word": "red",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1800,
+              "endMs": 1940
+            },
+            {
+              "word": "flower",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Look! A playful monkey runs by.",
+          "translation_ko": "저기 봐! 장난꾸러기 원숭이가 지나가요.",
+          "audio": "/seed/where-is-my-hat/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Look",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "A",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 540,
+              "endMs": 1000
+            },
+            {
+              "word": "playful",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1380
+            },
+            {
+              "word": "monkey",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "runs",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "by",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2000,
+              "endMs": 2320
+            }
+          ]
+        },
+        {
+          "text": "Benny's red hat is on his head!",
+          "translation_ko": "베니의 빨간 모자가 원숭이 머리 위에 있어요!",
+          "audio": "/seed/where-is-my-hat/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Benny's",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "red",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "hat",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "is",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "on",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "his",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "head",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"May I have my hat, please?\"",
+          "translation_ko": "\"내 모자 돌려줄래?\"",
+          "audio": "/seed/where-is-my-hat/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "May",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "have",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 780
+            },
+            {
+              "word": "my",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "hat",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "please",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1740,
+              "endMs": 1740
+            }
+          ]
+        },
+        {
+          "text": "The monkey laughs and gives it back.",
+          "translation_ko": "원숭이가 웃으며 모자를 돌려줘요.",
+          "audio": "/seed/where-is-my-hat/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "monkey",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "laughs",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "gives",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1880
+            },
+            {
+              "word": "it",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 2020
+            },
+            {
+              "word": "back",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2020,
+              "endMs": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now the red hat is on Benny's head.",
+          "translation_ko": "이제 빨간 모자가 베니 머리 위에 있어요.",
+          "audio": "/seed/where-is-my-hat/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 580
+            },
+            {
+              "word": "red",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "hat",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "is",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "on",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "Benny's",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2120
+            },
+            {
+              "word": "head",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2320
+            }
+          ]
+        },
+        {
+          "text": "\"Thank you, monkey!\"",
+          "translation_ko": "\"고마워, 원숭이야!\"",
+          "audio": "/seed/where-is-my-hat/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "monkey",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1400
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {
+    "red": {
+      "ipa": "/red/",
+      "pos": "adjective",
+      "meaning_ko": "빨간색의",
+      "example_en": "A red hat.",
+      "example_ko": "빨간 모자.",
+      "audioUrl": "/seed/_words/red.mp3"
+    },
+    "hat": {
+      "ipa": "/hæt/",
+      "pos": "noun",
+      "meaning_ko": "모자",
+      "example_en": "I wear a hat.",
+      "example_ko": "나는 모자를 써요.",
+      "audioUrl": "/seed/_words/hat.mp3"
+    },
+    "today": {
+      "ipa": "/təˈdeɪ/",
+      "pos": "noun",
+      "meaning_ko": "오늘",
+      "example_en": "Today is fun.",
+      "example_ko": "오늘은 재미있어요.",
+      "audioUrl": "/seed/_words/today.mp3"
+    },
+    "gone": {
+      "ipa": "/ɡɒn/",
+      "pos": "adjective",
+      "meaning_ko": "사라진, 없어진",
+      "example_en": "My hat is gone.",
+      "example_ko": "내 모자가 사라졌어요.",
+      "audioUrl": "/seed/_words/gone.mp3"
+    },
+    "duck": {
+      "ipa": "/dʌk/",
+      "pos": "noun",
+      "meaning_ko": "오리",
+      "example_en": "The duck swims.",
+      "example_ko": "오리가 헤엄쳐요.",
+      "audioUrl": "/seed/_words/duck.mp3"
+    },
+    "yellow": {
+      "ipa": "/ˈjel.oʊ/",
+      "pos": "adjective",
+      "meaning_ko": "노란색의",
+      "example_en": "A yellow leaf.",
+      "example_ko": "노란 나뭇잎.",
+      "audioUrl": "/seed/_words/yellow.mp3"
+    },
+    "leaf": {
+      "ipa": "/liːf/",
+      "pos": "noun",
+      "meaning_ko": "나뭇잎",
+      "example_en": "A leaf falls.",
+      "example_ko": "나뭇잎이 떨어져요.",
+      "audioUrl": "/seed/_words/leaf.mp3"
+    },
+    "tree": {
+      "ipa": "/triː/",
+      "pos": "noun",
+      "meaning_ko": "나무",
+      "example_en": "A big tree.",
+      "example_ko": "큰 나무.",
+      "audioUrl": "/seed/_words/tree.mp3"
+    },
+    "apple": {
+      "ipa": "/ˈæp.əl/",
+      "pos": "noun",
+      "meaning_ko": "사과",
+      "example_en": "A red apple.",
+      "example_ko": "빨간 사과.",
+      "audioUrl": "/seed/_words/apple.mp3"
+    },
+    "pond": {
+      "ipa": "/pɒnd/",
+      "pos": "noun",
+      "meaning_ko": "연못",
+      "example_en": "Fish live in the pond.",
+      "example_ko": "물고기가 연못에 살아요.",
+      "audioUrl": "/seed/_words/pond.mp3"
+    },
+    "flower": {
+      "ipa": "/ˈflaʊ.ər/",
+      "pos": "noun",
+      "meaning_ko": "꽃",
+      "example_en": "A pretty flower.",
+      "example_ko": "예쁜 꽃.",
+      "audioUrl": "/seed/_words/flower.mp3"
+    },
+    "look": {
+      "ipa": "/lʊk/",
+      "pos": "verb",
+      "meaning_ko": "보다, 봐!",
+      "example_en": "Look at the bird.",
+      "example_ko": "새를 봐.",
+      "audioUrl": "/seed/_words/look.mp3"
+    },
+    "playful": {
+      "ipa": "/ˈpleɪ.fəl/",
+      "pos": "adjective",
+      "meaning_ko": "장난기 많은",
+      "example_en": "A playful puppy.",
+      "example_ko": "장난기 많은 강아지.",
+      "audioUrl": "/seed/_words/playful.mp3"
+    },
+    "monkey": {
+      "ipa": "/ˈmʌŋ.ki/",
+      "pos": "noun",
+      "meaning_ko": "원숭이",
+      "example_en": "The monkey climbs.",
+      "example_ko": "원숭이가 올라가요.",
+      "audioUrl": "/seed/_words/monkey.mp3"
+    },
+    "runs": {
+      "ipa": "/rʌnz/",
+      "pos": "verb",
+      "meaning_ko": "달리다 (run)",
+      "example_en": "The dog runs fast.",
+      "example_ko": "개가 빨리 달려요.",
+      "audioUrl": "/seed/_words/runs.mp3"
+    },
+    "head": {
+      "ipa": "/hed/",
+      "pos": "noun",
+      "meaning_ko": "머리",
+      "example_en": "A hat on my head.",
+      "example_ko": "내 머리 위 모자.",
+      "audioUrl": "/seed/_words/head.mp3"
+    },
+    "may": {
+      "ipa": "/meɪ/",
+      "pos": "verb",
+      "meaning_ko": "~해도 될까요 (정중한 요청)",
+      "example_en": "May I come in?",
+      "example_ko": "들어가도 될까요?",
+      "audioUrl": "/seed/_words/may.mp3"
+    },
+    "have": {
+      "ipa": "/hæv/",
+      "pos": "verb",
+      "meaning_ko": "가지다",
+      "example_en": "May I have it?",
+      "example_ko": "그거 가져도 될까요?",
+      "audioUrl": "/seed/_words/have.mp3"
+    },
+    "please": {
+      "ipa": "/pliːz/",
+      "pos": "adverb",
+      "meaning_ko": "부탁해요, 제발",
+      "example_en": "Help me, please.",
+      "example_ko": "도와줘요.",
+      "audioUrl": "/seed/_words/please.mp3"
+    },
+    "laughs": {
+      "ipa": "/læfs/",
+      "pos": "verb",
+      "meaning_ko": "웃다 (laugh)",
+      "example_en": "She laughs out loud.",
+      "example_ko": "그녀가 크게 웃어요.",
+      "audioUrl": "/seed/_words/laughs.mp3"
+    },
+    "gives": {
+      "ipa": "/ɡɪvz/",
+      "pos": "verb",
+      "meaning_ko": "주다 (give)",
+      "example_en": "He gives a gift.",
+      "example_ko": "그가 선물을 줘요.",
+      "audioUrl": "/seed/_words/gives.mp3"
+    },
+    "back": {
+      "ipa": "/bæk/",
+      "pos": "adverb",
+      "meaning_ko": "다시, 도로",
+      "example_en": "Give it back.",
+      "example_ko": "도로 돌려줘.",
+      "audioUrl": "/seed/_words/back.mp3"
+    },
+    "now": {
+      "ipa": "/naʊ/",
+      "pos": "adverb",
+      "meaning_ko": "이제, 지금",
+      "example_en": "Now I am happy.",
+      "example_ko": "이제 나는 행복해요.",
+      "audioUrl": "/seed/_words/now.mp3"
+    },
+    "thank": {
+      "ipa": "/θæŋk/",
+      "pos": "verb",
+      "meaning_ko": "고마워하다",
+      "example_en": "Thank you!",
+      "example_ko": "고마워요!",
+      "audioUrl": "/seed/_words/thank.mp3"
+    }
+  },
+  "quiz": [
+    {
+      "question_ko": "베니가 잃어버린 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "빨간 모자",
+        "노란 우산",
+        "파란 가방",
+        "초록 신발"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "베니는 빨간 모자를 잃어버렸어요."
+    },
+    {
+      "question_ko": "오리 위에 있던 것은 사실 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "노란 나뭇잎",
+        "빨간 모자",
+        "빨간 사과",
+        "빨간 꽃"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "오리 위에 있던 건 모자가 아니라 노란 나뭇잎이었어요."
+    },
+    {
+      "question_ko": "베니의 모자를 가져간 것은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "장난꾸러기 원숭이",
+        "오리",
+        "빨간 새",
+        "여우"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "장난꾸러기 원숭이가 머리에 모자를 쓰고 있었어요."
+    },
+    {
+      "question_ko": "베니는 모자를 돌려달라고 어떻게 말했나요?",
+      "type": "mc",
+      "options": [
+        "정중하게 부탁했다",
+        "화를 냈다",
+        "울었다",
+        "도망쳤다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "\"내 모자 돌려줄래?\"라며 정중하게 부탁했어요."
+    },
+    {
+      "question_ko": "이야기는 어떻게 끝나나요?",
+      "type": "mc",
+      "options": [
+        "모자를 되찾고 고맙다고 했다",
+        "모자를 영영 잃어버렸다",
+        "원숭이와 싸웠다",
+        "새 모자를 샀다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "원숭이가 웃으며 모자를 돌려줬고, 베니는 고맙다고 인사했어요."
+    }
+  ]
+}

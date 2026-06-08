@@ -1,0 +1,1234 @@
+{
+  "slug": "pip-the-curious-penguin",
+  "title": "Pip the Curious Penguin",
+  "title_ko": "호기심 많은 펭귄 핍",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "남극 너머가 궁금했던 펭귄 핍이 용감한 모험을 떠났다가 집과 친구의 소중함을 깨닫고 돌아오는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Pip was a little penguin with big dreams.",
+          "translation_ko": "핍은 큰 꿈을 가진 작은 펭귄이었어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Pip",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 540,
+              "endMs": 760
+            },
+            {
+              "word": "little",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 940
+            },
+            {
+              "word": "penguin",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "with",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1200,
+              "endMs": 1620
+            },
+            {
+              "word": "big",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "dreams",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1920,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "He always wondered what lay beyond the ice.",
+          "translation_ko": "핍은 늘 얼음 너머에 무엇이 있을지 궁금했어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "always",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 1000
+            },
+            {
+              "word": "wondered",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1440
+            },
+            {
+              "word": "what",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1440,
+              "endMs": 2020
+            },
+            {
+              "word": "lay",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "beyond",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2280,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2700,
+              "endMs": 3160
+            },
+            {
+              "word": "ice",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 3160,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I want to see the whole world!\" said Pip.",
+          "translation_ko": "\"나는 온 세상을 보고 싶어!\" 핍이 말했어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "want",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 860
+            },
+            {
+              "word": "see",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1140
+            },
+            {
+              "word": "whole",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1500
+            },
+            {
+              "word": "world",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1500,
+              "endMs": 2420
+            },
+            {
+              "word": "said",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2420,
+              "endMs": 2520
+            },
+            {
+              "word": "Pip",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2520,
+              "endMs": 2760
+            }
+          ]
+        },
+        {
+          "text": "So one bright morning, he set off.",
+          "translation_ko": "그래서 어느 맑은 아침, 핍은 길을 떠났어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "one",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "bright",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 960
+            },
+            {
+              "word": "morning",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "set",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "off",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He slid across the ice and swam through cold waves.",
+          "translation_ko": "핍은 얼음 위를 미끄러지고 차가운 파도를 헤엄쳐 갔어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "slid",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "across",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1400
+            },
+            {
+              "word": "ice",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1400,
+              "endMs": 2060
+            },
+            {
+              "word": "swam",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2380
+            },
+            {
+              "word": "through",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2380,
+              "endMs": 2700
+            },
+            {
+              "word": "cold",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "waves",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3080,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "He saw tall mountains and shining stars.",
+          "translation_ko": "높은 산들과 반짝이는 별들을 보았어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "saw",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "tall",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "mountains",
+              "charStart": 12,
+              "charEnd": 21,
+              "startMs": 940,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 2140
+            },
+            {
+              "word": "shining",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2440
+            },
+            {
+              "word": "stars",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2440,
+              "endMs": 2940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "But the world was very big and quiet.",
+          "translation_ko": "하지만 세상은 아주 크고 고요했어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "world",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "was",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1260
+            },
+            {
+              "word": "very",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1580
+            },
+            {
+              "word": "big",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1580,
+              "endMs": 1900
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2340
+            },
+            {
+              "word": "quiet",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "Soon, Pip began to feel lonely.",
+          "translation_ko": "이윽고, 핍은 외로워지기 시작했어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "Pip",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 1000,
+              "endMs": 1080
+            },
+            {
+              "word": "began",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1480
+            },
+            {
+              "word": "to",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1480,
+              "endMs": 1940
+            },
+            {
+              "word": "feel",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1940,
+              "endMs": 2020
+            },
+            {
+              "word": "lonely",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 2020,
+              "endMs": 2380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He missed his family and his warm home.",
+          "translation_ko": "핍은 가족과 따뜻한 집이 그리웠어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "missed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 1180
+            },
+            {
+              "word": "family",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 2040
+            },
+            {
+              "word": "his",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2040,
+              "endMs": 2380
+            },
+            {
+              "word": "warm",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2380,
+              "endMs": 2640
+            },
+            {
+              "word": "home",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2640,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "\"Maybe home is the best place,\" he thought.",
+          "translation_ko": "\"어쩌면 집이 제일 좋은 곳일지도 몰라.\" 핍은 생각했어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Maybe",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "home",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 1100
+            },
+            {
+              "word": "is",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1100,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "best",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "place",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 2120
+            },
+            {
+              "word": "he",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2580
+            },
+            {
+              "word": "thought",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2580,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "So Pip turned around and traveled back.",
+          "translation_ko": "그래서 핍은 돌아서서 집으로 돌아갔어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "Pip",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "turned",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "around",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1780
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1780,
+              "endMs": 2280
+            },
+            {
+              "word": "traveled",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 2280,
+              "endMs": 2380
+            },
+            {
+              "word": "back",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "His friends were waiting on the ice.",
+          "translation_ko": "친구들이 얼음 위에서 기다리고 있었어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "friends",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 700
+            },
+            {
+              "word": "were",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 700,
+              "endMs": 960
+            },
+            {
+              "word": "waiting",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 960,
+              "endMs": 1320
+            },
+            {
+              "word": "on",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "ice",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1720,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We missed you, Pip!\" they cheered.",
+          "translation_ko": "\"보고 싶었어, 핍!\" 친구들이 환호했어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "missed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 760
+            },
+            {
+              "word": "you",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "Pip",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1280,
+              "endMs": 1280
+            },
+            {
+              "word": "they",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1740,
+              "endMs": 1920
+            },
+            {
+              "word": "cheered",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1920,
+              "endMs": 2340
+            }
+          ]
+        },
+        {
+          "text": "Pip hugged them with a happy heart.",
+          "translation_ko": "핍은 행복한 마음으로 친구들을 안았어요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Pip",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "hugged",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "them",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1020
+            },
+            {
+              "word": "with",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1420
+            },
+            {
+              "word": "happy",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1420,
+              "endMs": 1580
+            },
+            {
+              "word": "heart",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1580,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now Pip still loves adventures.",
+          "translation_ko": "이제도 핍은 여전히 모험을 좋아해요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "Pip",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "still",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1220
+            },
+            {
+              "word": "loves",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1640
+            },
+            {
+              "word": "adventures",
+              "charStart": 20,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 2120
+            }
+          ]
+        },
+        {
+          "text": "But he knows the best one ends at home.",
+          "translation_ko": "하지만 가장 멋진 모험은 집에서 끝난다는 걸 알아요.",
+          "audio": "/seed/pip-the-curious-penguin/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "he",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 500
+            },
+            {
+              "word": "knows",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 760
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 960
+            },
+            {
+              "word": "best",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "one",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1600
+            },
+            {
+              "word": "ends",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "at",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2160
+            },
+            {
+              "word": "home",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2160,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {
+    "penguin": {
+      "ipa": "/ˈpeŋ.ɡwɪn/",
+      "pos": "noun",
+      "meaning_ko": "펭귄",
+      "example_en": "The penguin waddles.",
+      "example_ko": "펭귄이 뒤뚱뒤뚱 걸어요.",
+      "audioUrl": "/seed/_words/penguin.mp3"
+    },
+    "dreams": {
+      "ipa": "/driːmz/",
+      "pos": "noun",
+      "meaning_ko": "꿈 (dream)",
+      "example_en": "Big dreams.",
+      "example_ko": "큰 꿈.",
+      "audioUrl": "/seed/_words/dreams.mp3"
+    },
+    "wondered": {
+      "ipa": "/ˈwʌn.dərd/",
+      "pos": "verb",
+      "meaning_ko": "궁금해했다 (wonder)",
+      "example_en": "She wondered why.",
+      "example_ko": "그녀는 왜인지 궁금해했어요.",
+      "audioUrl": "/seed/_words/wondered.mp3"
+    },
+    "beyond": {
+      "ipa": "/biˈjɒnd/",
+      "pos": "preposition",
+      "meaning_ko": "~ 너머에",
+      "example_en": "Beyond the hills.",
+      "example_ko": "언덕 너머에.",
+      "audioUrl": "/seed/_words/beyond.mp3"
+    },
+    "ice": {
+      "ipa": "/aɪs/",
+      "pos": "noun",
+      "meaning_ko": "얼음",
+      "example_en": "Penguins live on ice.",
+      "example_ko": "펭귄은 얼음 위에 살아요.",
+      "audioUrl": "/seed/_words/ice.mp3"
+    },
+    "world": {
+      "ipa": "/wɜːrld/",
+      "pos": "noun",
+      "meaning_ko": "세상, 세계",
+      "example_en": "See the world.",
+      "example_ko": "세상을 봐요.",
+      "audioUrl": "/seed/_words/world.mp3"
+    },
+    "slid": {
+      "ipa": "/slɪd/",
+      "pos": "verb",
+      "meaning_ko": "미끄러졌다 (slide)",
+      "example_en": "He slid down.",
+      "example_ko": "그가 미끄러져 내려갔어요.",
+      "audioUrl": "/seed/_words/slid.mp3"
+    },
+    "swam": {
+      "ipa": "/swæm/",
+      "pos": "verb",
+      "meaning_ko": "헤엄쳤다 (swim)",
+      "example_en": "She swam fast.",
+      "example_ko": "그녀는 빨리 헤엄쳤어요.",
+      "audioUrl": "/seed/_words/swam.mp3"
+    },
+    "waves": {
+      "ipa": "/weɪvz/",
+      "pos": "noun",
+      "meaning_ko": "파도 (wave)",
+      "example_en": "Cold waves.",
+      "example_ko": "차가운 파도.",
+      "audioUrl": "/seed/_words/waves.mp3"
+    },
+    "mountains": {
+      "ipa": "/ˈmaʊn.tɪnz/",
+      "pos": "noun",
+      "meaning_ko": "산들 (mountain)",
+      "example_en": "Tall mountains.",
+      "example_ko": "높은 산들.",
+      "audioUrl": "/seed/_words/mountains.mp3"
+    },
+    "shining": {
+      "ipa": "/ˈʃaɪ.nɪŋ/",
+      "pos": "adjective",
+      "meaning_ko": "반짝이는",
+      "example_en": "Shining stars.",
+      "example_ko": "반짝이는 별들.",
+      "audioUrl": "/seed/_words/shining.mp3"
+    },
+    "quiet": {
+      "ipa": "/ˈkwaɪ.ət/",
+      "pos": "adjective",
+      "meaning_ko": "조용한, 고요한",
+      "example_en": "A quiet night.",
+      "example_ko": "고요한 밤.",
+      "audioUrl": "/seed/_words/quiet.mp3"
+    },
+    "lonely": {
+      "ipa": "/ˈloʊn.li/",
+      "pos": "adjective",
+      "meaning_ko": "외로운",
+      "example_en": "I feel lonely.",
+      "example_ko": "나는 외로워요.",
+      "audioUrl": "/seed/_words/lonely.mp3"
+    },
+    "missed": {
+      "ipa": "/mɪst/",
+      "pos": "verb",
+      "meaning_ko": "그리워했다 (miss)",
+      "example_en": "I missed you.",
+      "example_ko": "네가 보고 싶었어.",
+      "audioUrl": "/seed/_words/missed.mp3"
+    },
+    "family": {
+      "ipa": "/ˈfæm.ə.li/",
+      "pos": "noun",
+      "meaning_ko": "가족",
+      "example_en": "My family.",
+      "example_ko": "우리 가족.",
+      "audioUrl": "/seed/_words/family.mp3"
+    },
+    "home": {
+      "ipa": "/hoʊm/",
+      "pos": "noun",
+      "meaning_ko": "집",
+      "example_en": "Sweet home.",
+      "example_ko": "포근한 집.",
+      "audioUrl": "/seed/_words/home.mp3"
+    },
+    "thought": {
+      "ipa": "/θɔːt/",
+      "pos": "verb",
+      "meaning_ko": "생각했다 (think)",
+      "example_en": "He thought hard.",
+      "example_ko": "그는 곰곰이 생각했어요.",
+      "audioUrl": "/seed/_words/thought.mp3"
+    },
+    "traveled": {
+      "ipa": "/ˈtræv.əld/",
+      "pos": "verb",
+      "meaning_ko": "여행했다, 이동했다 (travel)",
+      "example_en": "She traveled far.",
+      "example_ko": "그녀는 멀리 여행했어요.",
+      "audioUrl": "/seed/_words/traveled.mp3"
+    },
+    "waiting": {
+      "ipa": "/ˈweɪ.tɪŋ/",
+      "pos": "verb",
+      "meaning_ko": "기다리는 (wait)",
+      "example_en": "I am waiting.",
+      "example_ko": "나는 기다리고 있어요.",
+      "audioUrl": "/seed/_words/waiting.mp3"
+    },
+    "cheered": {
+      "ipa": "/tʃɪərd/",
+      "pos": "verb",
+      "meaning_ko": "환호했다 (cheer)",
+      "example_en": "The crowd cheered.",
+      "example_ko": "사람들이 환호했어요.",
+      "audioUrl": "/seed/_words/cheered.mp3"
+    },
+    "heart": {
+      "ipa": "/hɑːrt/",
+      "pos": "noun",
+      "meaning_ko": "마음, 심장",
+      "example_en": "A happy heart.",
+      "example_ko": "행복한 마음.",
+      "audioUrl": "/seed/_words/heart.mp3"
+    },
+    "adventures": {
+      "ipa": "/ədˈven.tʃərz/",
+      "pos": "noun",
+      "meaning_ko": "모험 (adventure)",
+      "example_en": "I love adventures.",
+      "example_ko": "나는 모험을 좋아해요.",
+      "audioUrl": "/seed/_words/adventures.mp3"
+    }
+  },
+  "quiz": [
+    {
+      "question_ko": "핍은 늘 무엇을 궁금해했나요?",
+      "type": "mc",
+      "options": [
+        "얼음 너머에 무엇이 있을지",
+        "무엇을 먹을지",
+        "어떻게 헤엄칠지",
+        "누가 더 빠른지"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "핍은 큰 꿈을 가진 펭귄으로, 늘 얼음 너머의 세상을 궁금해했어요."
+    },
+    {
+      "question_ko": "핍은 모험을 떠나 무엇을 보았나요?",
+      "type": "mc",
+      "options": [
+        "높은 산들과 반짝이는 별들",
+        "큰 도시와 자동차",
+        "사막과 낙타",
+        "정글과 호랑이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "핍은 얼음을 미끄러지고 파도를 헤엄치며 높은 산과 반짝이는 별을 보았어요."
+    },
+    {
+      "question_ko": "넓은 세상에서 핍은 어떤 기분이 들었나요?",
+      "type": "mc",
+      "options": [
+        "외로워졌다",
+        "더 신이 났다",
+        "화가 났다",
+        "졸렸다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "세상은 크고 고요했고, 핍은 가족과 집을 그리워하며 외로워졌어요."
+    },
+    {
+      "question_ko": "핍은 결국 어떤 선택을 했나요?",
+      "type": "mc",
+      "options": [
+        "집으로 돌아갔다",
+        "계속 더 멀리 갔다",
+        "새 집을 지었다",
+        "산에서 살았다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "\"집이 제일 좋은 곳일지도 몰라\"라고 생각하며 돌아섰어요."
+    },
+    {
+      "question_ko": "이 이야기가 주는 교훈은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "가장 멋진 모험도 집에서 끝난다",
+        "혼자가 제일 좋다",
+        "멀리 갈수록 좋다",
+        "꿈은 필요 없다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "핍은 여전히 모험을 좋아하지만, 가장 좋은 모험은 가족이 있는 집으로 돌아오는 것임을 알게 됐어요."
+    }
+  ]
+}

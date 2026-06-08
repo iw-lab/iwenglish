@@ -4,23 +4,52 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "seed:content": "tsx scripts/build-content.ts",
+    "predev": "tsx scripts/build-content.ts",
+    "prebuild": "tsx scripts/build-content.ts",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "seed:books": "tsx scripts/prepare-book.ts",
+    "seed:audio": "tsx scripts/gen-audio.ts",
+    "seed:words": "tsx scripts/gen-word-audio.ts",
+    "seed:worddict": "tsx scripts/gen-word-dict.ts",
+    "cf:build": "tsx scripts/build-content.ts && opennextjs-cloudflare build",
+    "cf:deploy": "tsx scripts/build-content.ts && opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "test": "vitest run"
   },
   "dependencies": {
+    "@google/genai": "^2.8.0",
+    "@supabase/ssr": "^0.10.3",
+    "@supabase/supabase-js": "^2.107.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.4.0",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.17.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.50.0",
     "next": "16.2.7",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "recharts": "^3.8.1",
+    "zustand": "^5.0.14"
   },
   "devDependencies": {
+    "@opennextjs/cloudflare": "^1.19.11",
+    "@playwright/test": "^1.60.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.0.2",
+    "dotenv": "^17.4.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.7",
+    "puppeteer": "^25.1.0",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.22.4",
+    "typescript": "^5",
+    "vitest": "^4.1.8",
+    "wrangler": "^4.98.0"
   }
 }

@@ -1,0 +1,1007 @@
+{
+  "slug": "a-rainy-day-friend",
+  "title": "A Rainy Day Friend",
+  "title_ko": "비 오는 날의 친구",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "비를 싫어하던 미아가 우산을 나눠 쓰며 새 친구를 사귀는 따뜻한 하루의 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Mia does not like rainy days.",
+          "translation_ko": "미아는 비 오는 날을 좋아하지 않아요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "does",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "not",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "like",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1520
+            },
+            {
+              "word": "rainy",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1520,
+              "endMs": 1860
+            },
+            {
+              "word": "days",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2240
+            }
+          ]
+        },
+        {
+          "text": "The sky is gray and the rain is cold.",
+          "translation_ko": "하늘은 잿빛이고 비는 차가워요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "sky",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "gray",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1600
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1960
+            },
+            {
+              "word": "rain",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2060
+            },
+            {
+              "word": "is",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2380
+            },
+            {
+              "word": "cold",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2380,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She walks to school under her big yellow umbrella.",
+          "translation_ko": "미아는 큰 노란 우산을 쓰고 학교에 걸어가요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "walks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 860
+            },
+            {
+              "word": "school",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 860,
+              "endMs": 1140
+            },
+            {
+              "word": "under",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "her",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "big",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 2020
+            },
+            {
+              "word": "yellow",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2020,
+              "endMs": 2360
+            },
+            {
+              "word": "umbrella",
+              "charStart": 41,
+              "charEnd": 49,
+              "startMs": 2360,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the way, Mia sees a boy by the road.",
+          "translation_ko": "가는 길에, 미아는 길가에 있는 한 남자아이를 봐요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 340
+            },
+            {
+              "word": "way",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "Mia",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1200
+            },
+            {
+              "word": "sees",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1500
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1700
+            },
+            {
+              "word": "boy",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 1800
+            },
+            {
+              "word": "by",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2240
+            },
+            {
+              "word": "road",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2240,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "He has no umbrella.",
+          "translation_ko": "그 아이는 우산이 없어요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "has",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 640,
+              "endMs": 900
+            },
+            {
+              "word": "no",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 900,
+              "endMs": 1340
+            },
+            {
+              "word": "umbrella",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The boy is wet and cold.",
+          "translation_ko": "남자아이는 젖고 추워요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "boy",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "wet",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1280
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1960
+            },
+            {
+              "word": "cold",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1960,
+              "endMs": 2220
+            }
+          ]
+        },
+        {
+          "text": "He looks very sad.",
+          "translation_ko": "아이는 무척 슬퍼 보여요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "looks",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "very",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 1020
+            },
+            {
+              "word": "sad",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Come under my umbrella!\" says Mia.",
+          "translation_ko": "\"내 우산 안으로 들어와!\" 미아가 말해요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Come",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "under",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 980
+            },
+            {
+              "word": "my",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1400
+            },
+            {
+              "word": "umbrella",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "says",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2320,
+              "endMs": 2420
+            },
+            {
+              "word": "Mia",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The boy smiles back.",
+          "translation_ko": "남자아이가 미소로 답해요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "boy",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 620
+            },
+            {
+              "word": "smiles",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 1140
+            },
+            {
+              "word": "back",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1580
+            }
+          ]
+        },
+        {
+          "text": "\"Thank you,\" he says softly.",
+          "translation_ko": "\"고마워.\" 아이가 조용히 말해요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 900
+            },
+            {
+              "word": "he",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1020
+            },
+            {
+              "word": "says",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1220
+            },
+            {
+              "word": "softly",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1220,
+              "endMs": 1580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They walk together and jump in the puddles.",
+          "translation_ko": "둘은 함께 걸으며 물웅덩이에서 폴짝폴짝 뛰어요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "walk",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "together",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1620
+            },
+            {
+              "word": "jump",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "in",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 2000
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2000,
+              "endMs": 2180
+            },
+            {
+              "word": "puddles",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2180,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "Splash, splash!",
+          "translation_ko": "첨벙, 첨벙!",
+          "audio": "/seed/a-rainy-day-friend/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Splash",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "splash",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1580,
+              "endMs": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now rainy days are not so bad.",
+          "translation_ko": "이제 비 오는 날도 그리 나쁘지 않아요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "rainy",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 760,
+              "endMs": 940
+            },
+            {
+              "word": "days",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1260
+            },
+            {
+              "word": "are",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1460
+            },
+            {
+              "word": "not",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1460,
+              "endMs": 1720
+            },
+            {
+              "word": "so",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "bad",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1980,
+              "endMs": 2160
+            }
+          ]
+        },
+        {
+          "text": "Mia has a new friend.",
+          "translation_ko": "미아에게 새 친구가 생겼거든요.",
+          "audio": "/seed/a-rainy-day-friend/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "has",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 800
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "new",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1080,
+              "endMs": 1280
+            },
+            {
+              "word": "friend",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1460
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {
+    "rainy": {
+      "ipa": "/ˈreɪ.ni/",
+      "pos": "adjective",
+      "meaning_ko": "비가 오는",
+      "example_en": "I stay home on rainy days.",
+      "example_ko": "비 오는 날엔 집에 있어요.",
+      "audioUrl": "/seed/_words/rainy.mp3"
+    },
+    "days": {
+      "ipa": "/deɪz/",
+      "pos": "noun",
+      "meaning_ko": "날들 (day)",
+      "example_en": "Some days are sunny.",
+      "example_ko": "어떤 날은 맑아요.",
+      "audioUrl": "/seed/_words/days.mp3"
+    },
+    "sky": {
+      "ipa": "/skaɪ/",
+      "pos": "noun",
+      "meaning_ko": "하늘",
+      "example_en": "The sky is gray.",
+      "example_ko": "하늘이 잿빛이에요.",
+      "audioUrl": "/seed/_words/sky.mp3"
+    },
+    "gray": {
+      "ipa": "/ɡreɪ/",
+      "pos": "adjective",
+      "meaning_ko": "회색의, 잿빛의",
+      "example_en": "Gray clouds bring rain.",
+      "example_ko": "잿빛 구름은 비를 몰고 와요.",
+      "audioUrl": "/seed/_words/gray.mp3"
+    },
+    "rain": {
+      "ipa": "/reɪn/",
+      "pos": "noun",
+      "meaning_ko": "비",
+      "example_en": "The rain is cold.",
+      "example_ko": "비가 차가워요.",
+      "audioUrl": "/seed/_words/rain.mp3"
+    },
+    "cold": {
+      "ipa": "/koʊld/",
+      "pos": "adjective",
+      "meaning_ko": "차가운, 추운",
+      "example_en": "My hands are cold.",
+      "example_ko": "손이 차가워요.",
+      "audioUrl": "/seed/_words/cold.mp3"
+    },
+    "walks": {
+      "ipa": "/wɔːks/",
+      "pos": "verb",
+      "meaning_ko": "걷다 (walk)",
+      "example_en": "She walks to school.",
+      "example_ko": "그녀는 학교에 걸어가요.",
+      "audioUrl": "/seed/_words/walks.mp3"
+    },
+    "school": {
+      "ipa": "/skuːl/",
+      "pos": "noun",
+      "meaning_ko": "학교",
+      "example_en": "We learn at school.",
+      "example_ko": "우리는 학교에서 배워요.",
+      "audioUrl": "/seed/_words/school.mp3"
+    },
+    "yellow": {
+      "ipa": "/ˈjel.oʊ/",
+      "pos": "adjective",
+      "meaning_ko": "노란색의",
+      "example_en": "Her umbrella is yellow.",
+      "example_ko": "그녀의 우산은 노란색이에요.",
+      "audioUrl": "/seed/_words/yellow.mp3"
+    },
+    "umbrella": {
+      "ipa": "/ʌmˈbrel.ə/",
+      "pos": "noun",
+      "meaning_ko": "우산",
+      "example_en": "Open the umbrella.",
+      "example_ko": "우산을 펴.",
+      "audioUrl": "/seed/_words/umbrella.mp3"
+    },
+    "boy": {
+      "ipa": "/bɔɪ/",
+      "pos": "noun",
+      "meaning_ko": "남자아이",
+      "example_en": "The boy is kind.",
+      "example_ko": "그 남자아이는 친절해요.",
+      "audioUrl": "/seed/_words/boy.mp3"
+    },
+    "road": {
+      "ipa": "/roʊd/",
+      "pos": "noun",
+      "meaning_ko": "길, 도로",
+      "example_en": "Cars go on the road.",
+      "example_ko": "차들이 길 위를 달려요.",
+      "audioUrl": "/seed/_words/road.mp3"
+    },
+    "wet": {
+      "ipa": "/wet/",
+      "pos": "adjective",
+      "meaning_ko": "젖은",
+      "example_en": "My shoes are wet.",
+      "example_ko": "신발이 젖었어요.",
+      "audioUrl": "/seed/_words/wet.mp3"
+    },
+    "sad": {
+      "ipa": "/sæd/",
+      "pos": "adjective",
+      "meaning_ko": "슬픈",
+      "example_en": "He looks sad.",
+      "example_ko": "그는 슬퍼 보여요.",
+      "audioUrl": "/seed/_words/sad.mp3"
+    },
+    "come": {
+      "ipa": "/kʌm/",
+      "pos": "verb",
+      "meaning_ko": "오다",
+      "example_en": "Come here, please.",
+      "example_ko": "이리 와요.",
+      "audioUrl": "/seed/_words/come.mp3"
+    },
+    "smiles": {
+      "ipa": "/smaɪlz/",
+      "pos": "verb",
+      "meaning_ko": "미소 짓다 (smile)",
+      "example_en": "She smiles at me.",
+      "example_ko": "그녀가 나에게 미소 지어요.",
+      "audioUrl": "/seed/_words/smiles.mp3"
+    },
+    "thank": {
+      "ipa": "/θæŋk/",
+      "pos": "verb",
+      "meaning_ko": "고마워하다",
+      "example_en": "Thank you so much.",
+      "example_ko": "정말 고마워요.",
+      "audioUrl": "/seed/_words/thank.mp3"
+    },
+    "softly": {
+      "ipa": "/ˈsɒft.li/",
+      "pos": "adverb",
+      "meaning_ko": "부드럽게, 조용히",
+      "example_en": "She speaks softly.",
+      "example_ko": "그녀는 조용히 말해요.",
+      "audioUrl": "/seed/_words/softly.mp3"
+    },
+    "together": {
+      "ipa": "/təˈɡeð.ər/",
+      "pos": "adverb",
+      "meaning_ko": "함께",
+      "example_en": "We play together.",
+      "example_ko": "우리는 함께 놀아요.",
+      "audioUrl": "/seed/_words/together.mp3"
+    },
+    "jump": {
+      "ipa": "/dʒʌmp/",
+      "pos": "verb",
+      "meaning_ko": "뛰다, 점프하다",
+      "example_en": "Let's jump high!",
+      "example_ko": "높이 뛰자!",
+      "audioUrl": "/seed/_words/jump.mp3"
+    },
+    "puddles": {
+      "ipa": "/ˈpʌd.əlz/",
+      "pos": "noun",
+      "meaning_ko": "(빗물) 웅덩이들 (puddle)",
+      "example_en": "Kids jump in puddles.",
+      "example_ko": "아이들이 웅덩이에서 뛰어요.",
+      "audioUrl": "/seed/_words/puddles.mp3"
+    },
+    "splash": {
+      "ipa": "/splæʃ/",
+      "pos": "noun",
+      "meaning_ko": "첨벙 (튀는 소리)",
+      "example_en": "Splash! The water jumps up.",
+      "example_ko": "첨벙! 물이 튀어요.",
+      "audioUrl": "/seed/_words/splash.mp3"
+    },
+    "now": {
+      "ipa": "/naʊ/",
+      "pos": "adverb",
+      "meaning_ko": "이제, 지금",
+      "example_en": "Now I am happy.",
+      "example_ko": "이제 나는 행복해요.",
+      "audioUrl": "/seed/_words/now.mp3"
+    },
+    "bad": {
+      "ipa": "/bæd/",
+      "pos": "adjective",
+      "meaning_ko": "나쁜",
+      "example_en": "It is not so bad.",
+      "example_ko": "그리 나쁘지 않아요.",
+      "audioUrl": "/seed/_words/bad.mp3"
+    },
+    "new": {
+      "ipa": "/njuː/",
+      "pos": "adjective",
+      "meaning_ko": "새로운",
+      "example_en": "I have a new friend.",
+      "example_ko": "나에게 새 친구가 있어요.",
+      "audioUrl": "/seed/_words/new.mp3"
+    },
+    "friend": {
+      "ipa": "/frend/",
+      "pos": "noun",
+      "meaning_ko": "친구",
+      "example_en": "She is my friend.",
+      "example_ko": "그녀는 내 친구예요.",
+      "audioUrl": "/seed/_words/friend.mp3"
+    }
+  },
+  "quiz": [
+    {
+      "question_ko": "미아는 어떤 날을 좋아하지 않았나요?",
+      "type": "mc",
+      "options": [
+        "비 오는 날",
+        "눈 오는 날",
+        "더운 날",
+        "바람 부는 날"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미아는 잿빛 하늘과 차가운 비가 내리는 비 오는 날을 좋아하지 않았어요."
+    },
+    {
+      "question_ko": "미아의 우산은 무슨 색이었나요?",
+      "type": "mc",
+      "options": [
+        "노란색",
+        "빨간색",
+        "파란색",
+        "초록색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미아는 큰 노란 우산을 쓰고 학교에 갔어요."
+    },
+    {
+      "question_ko": "길에서 만난 남자아이는 어떤 상태였나요?",
+      "type": "mc",
+      "options": [
+        "우산이 없어 젖고 추웠다",
+        "우산이 두 개 있었다",
+        "달리기를 하고 있었다",
+        "잠을 자고 있었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "남자아이는 우산이 없어서 젖고 추워하며 슬퍼 보였어요."
+    },
+    {
+      "question_ko": "미아는 남자아이에게 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "우산을 함께 쓰자고 했다",
+        "그냥 지나갔다",
+        "우산을 빼앗았다",
+        "집으로 돌아갔다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "\"내 우산 안으로 들어와!\"라며 우산을 나눠 썼어요."
+    },
+    {
+      "question_ko": "이야기의 끝에서 미아에게 생긴 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "새 친구",
+        "새 우산",
+        "새 신발",
+        "새 책"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "우산을 나눠 쓴 덕분에 미아에게 새 친구가 생겼어요."
+    }
+  ]
+}

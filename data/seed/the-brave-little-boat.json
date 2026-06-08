@@ -1,0 +1,968 @@
+{
+  "slug": "the-brave-little-boat",
+  "title": "The Brave Little Boat",
+  "title_ko": "용감한 작은 배",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "큰 파도가 무섭던 작은 파란 배 새미가 길 잃은 오리를 구하며 진짜 용기를 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Sammy is a little blue boat.",
+          "translation_ko": "새미는 작은 파란 배예요.",
+          "audio": "/seed/the-brave-little-boat/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sammy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 680,
+              "endMs": 880
+            },
+            {
+              "word": "little",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1060
+            },
+            {
+              "word": "blue",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1060,
+              "endMs": 1360
+            },
+            {
+              "word": "boat",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1680
+            }
+          ]
+        },
+        {
+          "text": "Sammy lives by the sea.",
+          "translation_ko": "새미는 바닷가에 살아요.",
+          "audio": "/seed/the-brave-little-boat/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Sammy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "lives",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 720
+            },
+            {
+              "word": "by",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1120
+            },
+            {
+              "word": "sea",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The big waves scare Sammy.",
+          "translation_ko": "큰 파도가 새미를 무섭게 해요.",
+          "audio": "/seed/the-brave-little-boat/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "big",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "waves",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1060
+            },
+            {
+              "word": "scare",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1720
+            },
+            {
+              "word": "Sammy",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "\"I am too small,\" says Sammy.",
+          "translation_ko": "\"난 너무 작아.\" 새미가 말해요.",
+          "audio": "/seed/the-brave-little-boat/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "am",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 280,
+              "endMs": 540
+            },
+            {
+              "word": "too",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 540,
+              "endMs": 860
+            },
+            {
+              "word": "small",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "says",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1700,
+              "endMs": 1720
+            },
+            {
+              "word": "Sammy",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One day, a duck is lost at sea.",
+          "translation_ko": "어느 날, 오리 한 마리가 바다에서 길을 잃어요.",
+          "audio": "/seed/the-brave-little-boat/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "day",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 1040,
+              "endMs": 1460
+            },
+            {
+              "word": "duck",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1460,
+              "endMs": 1500
+            },
+            {
+              "word": "is",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1500,
+              "endMs": 1900
+            },
+            {
+              "word": "lost",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "at",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2140,
+              "endMs": 2540
+            },
+            {
+              "word": "sea",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2540,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "\"Help! Help!\" cries the duck.",
+          "translation_ko": "\"도와줘요! 도와줘요!\" 오리가 외쳐요.",
+          "audio": "/seed/the-brave-little-boat/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Help",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "Help",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 1180
+            },
+            {
+              "word": "cries",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1840,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1840,
+              "endMs": 2220
+            },
+            {
+              "word": "duck",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2220,
+              "endMs": 2240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sammy wants to help.",
+          "translation_ko": "새미는 돕고 싶어요.",
+          "audio": "/seed/the-brave-little-boat/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sammy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "wants",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "to",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "help",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1320
+            }
+          ]
+        },
+        {
+          "text": "But the waves are so big.",
+          "translation_ko": "하지만 파도가 너무 커요.",
+          "audio": "/seed/the-brave-little-boat/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 620
+            },
+            {
+              "word": "waves",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "are",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1180
+            },
+            {
+              "word": "so",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "big",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sammy takes a deep breath.",
+          "translation_ko": "새미가 숨을 깊게 들이쉬어요.",
+          "audio": "/seed/the-brave-little-boat/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sammy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 540,
+              "endMs": 1040
+            },
+            {
+              "word": "takes",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 1040,
+              "endMs": 1460
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "deep",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1700,
+              "endMs": 1880
+            },
+            {
+              "word": "breath",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1880,
+              "endMs": 2140
+            }
+          ]
+        },
+        {
+          "text": "\"I can be brave!\"",
+          "translation_ko": "\"나도 용감해질 수 있어!\"",
+          "audio": "/seed/the-brave-little-boat/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "can",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 480
+            },
+            {
+              "word": "be",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 720
+            },
+            {
+              "word": "brave",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sammy sails over the big waves.",
+          "translation_ko": "새미가 큰 파도를 넘어 나아가요.",
+          "audio": "/seed/the-brave-little-boat/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sammy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "sails",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "over",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1280
+            },
+            {
+              "word": "big",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1520
+            },
+            {
+              "word": "waves",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1520,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "Splash! Splash!",
+          "translation_ko": "철썩! 철썩!",
+          "audio": "/seed/the-brave-little-boat/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Splash",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "Splash",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1740,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sammy saves the little duck.",
+          "translation_ko": "새미가 작은 오리를 구해요.",
+          "audio": "/seed/the-brave-little-boat/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sammy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "saves",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "little",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1420
+            },
+            {
+              "word": "duck",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1680
+            }
+          ]
+        },
+        {
+          "text": "\"Thank you, brave boat!\"",
+          "translation_ko": "\"고마워, 용감한 배야!\"",
+          "audio": "/seed/the-brave-little-boat/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 1080
+            },
+            {
+              "word": "brave",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1280,
+              "endMs": 1620
+            },
+            {
+              "word": "boat",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now Sammy is not scared.",
+          "translation_ko": "이제 새미는 무섭지 않아요.",
+          "audio": "/seed/the-brave-little-boat/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 680,
+              "endMs": 1340
+            },
+            {
+              "word": "Sammy",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 1340,
+              "endMs": 1680
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1680,
+              "endMs": 1980
+            },
+            {
+              "word": "not",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1980,
+              "endMs": 2300
+            },
+            {
+              "word": "scared",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 2300,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "Sammy is a brave little boat.",
+          "translation_ko": "새미는 용감한 작은 배예요.",
+          "audio": "/seed/the-brave-little-boat/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Sammy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 940
+            },
+            {
+              "word": "brave",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "little",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "boat",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {
+    "little": {
+      "ipa": "/ˈlɪt.əl/",
+      "pos": "adjective",
+      "meaning_ko": "작은",
+      "example_en": "A little boat.",
+      "example_ko": "작은 배.",
+      "audioUrl": "/seed/_words/little.mp3"
+    },
+    "blue": {
+      "ipa": "/bluː/",
+      "pos": "adjective",
+      "meaning_ko": "파란색의",
+      "example_en": "A blue boat.",
+      "example_ko": "파란 배.",
+      "audioUrl": "/seed/_words/blue.mp3"
+    },
+    "boat": {
+      "ipa": "/boʊt/",
+      "pos": "noun",
+      "meaning_ko": "배",
+      "example_en": "The boat floats.",
+      "example_ko": "배가 떠 있어요.",
+      "audioUrl": "/seed/_words/boat.mp3"
+    },
+    "lives": {
+      "ipa": "/lɪvz/",
+      "pos": "verb",
+      "meaning_ko": "(어디에) 살다",
+      "example_en": "She lives by the sea.",
+      "example_ko": "그녀는 바닷가에 살아요.",
+      "audioUrl": "/seed/_words/lives.mp3"
+    },
+    "sea": {
+      "ipa": "/siː/",
+      "pos": "noun",
+      "meaning_ko": "바다",
+      "example_en": "The sea is blue.",
+      "example_ko": "바다는 파래요.",
+      "audioUrl": "/seed/_words/sea.mp3"
+    },
+    "big": {
+      "ipa": "/bɪɡ/",
+      "pos": "adjective",
+      "meaning_ko": "큰",
+      "example_en": "Big waves.",
+      "example_ko": "큰 파도.",
+      "audioUrl": "/seed/_words/big.mp3"
+    },
+    "waves": {
+      "ipa": "/weɪvz/",
+      "pos": "noun",
+      "meaning_ko": "파도 (wave)",
+      "example_en": "The waves are high.",
+      "example_ko": "파도가 높아요.",
+      "audioUrl": "/seed/_words/waves.mp3"
+    },
+    "scare": {
+      "ipa": "/sker/",
+      "pos": "verb",
+      "meaning_ko": "무섭게 하다",
+      "example_en": "Storms scare me.",
+      "example_ko": "폭풍은 나를 무섭게 해요.",
+      "audioUrl": "/seed/_words/scare.mp3"
+    },
+    "small": {
+      "ipa": "/smɔːl/",
+      "pos": "adjective",
+      "meaning_ko": "작은",
+      "example_en": "I am too small.",
+      "example_ko": "난 너무 작아요.",
+      "audioUrl": "/seed/_words/small.mp3"
+    },
+    "lost": {
+      "ipa": "/lɒst/",
+      "pos": "adjective",
+      "meaning_ko": "길을 잃은",
+      "example_en": "The duck is lost.",
+      "example_ko": "오리가 길을 잃었어요.",
+      "audioUrl": "/seed/_words/lost.mp3"
+    },
+    "help": {
+      "ipa": "/help/",
+      "pos": "verb",
+      "meaning_ko": "돕다, 도와줘",
+      "example_en": "Please help me.",
+      "example_ko": "저를 도와주세요.",
+      "audioUrl": "/seed/_words/help.mp3"
+    },
+    "cries": {
+      "ipa": "/kraɪz/",
+      "pos": "verb",
+      "meaning_ko": "외치다, 울다 (cry)",
+      "example_en": "The baby cries.",
+      "example_ko": "아기가 울어요.",
+      "audioUrl": "/seed/_words/cries.mp3"
+    },
+    "wants": {
+      "ipa": "/wɒnts/",
+      "pos": "verb",
+      "meaning_ko": "원하다 (want)",
+      "example_en": "He wants to help.",
+      "example_ko": "그는 돕고 싶어 해요.",
+      "audioUrl": "/seed/_words/wants.mp3"
+    },
+    "deep": {
+      "ipa": "/diːp/",
+      "pos": "adjective",
+      "meaning_ko": "깊은",
+      "example_en": "A deep breath.",
+      "example_ko": "깊은 숨.",
+      "audioUrl": "/seed/_words/deep.mp3"
+    },
+    "breath": {
+      "ipa": "/breθ/",
+      "pos": "noun",
+      "meaning_ko": "숨, 호흡",
+      "example_en": "Take a breath.",
+      "example_ko": "숨을 쉬어.",
+      "audioUrl": "/seed/_words/breath.mp3"
+    },
+    "brave": {
+      "ipa": "/breɪv/",
+      "pos": "adjective",
+      "meaning_ko": "용감한",
+      "example_en": "Be brave!",
+      "example_ko": "용감해져!",
+      "audioUrl": "/seed/_words/brave.mp3"
+    },
+    "sails": {
+      "ipa": "/seɪlz/",
+      "pos": "verb",
+      "meaning_ko": "항해하다, 나아가다 (sail)",
+      "example_en": "The boat sails away.",
+      "example_ko": "배가 떠나가요.",
+      "audioUrl": "/seed/_words/sails.mp3"
+    },
+    "over": {
+      "ipa": "/ˈoʊ.vər/",
+      "pos": "preposition",
+      "meaning_ko": "~을 넘어, 위로",
+      "example_en": "Jump over the wave.",
+      "example_ko": "파도를 넘어 뛰어.",
+      "audioUrl": "/seed/_words/over.mp3"
+    },
+    "splash": {
+      "ipa": "/splæʃ/",
+      "pos": "noun",
+      "meaning_ko": "철썩, 첨벙",
+      "example_en": "Splash in the water.",
+      "example_ko": "물에서 첨벙.",
+      "audioUrl": "/seed/_words/splash.mp3"
+    },
+    "saves": {
+      "ipa": "/seɪvz/",
+      "pos": "verb",
+      "meaning_ko": "구하다 (save)",
+      "example_en": "He saves the duck.",
+      "example_ko": "그가 오리를 구해요.",
+      "audioUrl": "/seed/_words/saves.mp3"
+    },
+    "scared": {
+      "ipa": "/skerd/",
+      "pos": "adjective",
+      "meaning_ko": "무서워하는",
+      "example_en": "Do not be scared.",
+      "example_ko": "무서워하지 마.",
+      "audioUrl": "/seed/_words/scared.mp3"
+    },
+    "now": {
+      "ipa": "/naʊ/",
+      "pos": "adverb",
+      "meaning_ko": "이제, 지금",
+      "example_en": "Now I am brave.",
+      "example_ko": "이제 나는 용감해요.",
+      "audioUrl": "/seed/_words/now.mp3"
+    }
+  },
+  "quiz": [
+    {
+      "question_ko": "새미는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 파란 배",
+        "큰 빨간 배",
+        "작은 비행기",
+        "노란 잠수함"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "새미는 바닷가에 사는 작은 파란 배예요."
+    },
+    {
+      "question_ko": "처음에 새미는 무엇을 무서워했나요?",
+      "type": "mc",
+      "options": [
+        "큰 파도",
+        "어두운 밤",
+        "다른 배",
+        "갈매기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "새미는 큰 파도가 무서워서 자기가 너무 작다고 생각했어요."
+    },
+    {
+      "question_ko": "바다에서 누가 도와달라고 외쳤나요?",
+      "type": "mc",
+      "options": [
+        "길 잃은 오리",
+        "고래",
+        "어부",
+        "거북이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "길을 잃은 작은 오리가 \"도와줘요!\"라고 외쳤어요."
+    },
+    {
+      "question_ko": "새미는 용기를 내기 위해 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "숨을 깊게 들이쉬었다",
+        "눈을 감고 잤다",
+        "집으로 돌아갔다",
+        "친구를 불렀다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "새미는 숨을 깊게 들이쉬고 \"나도 용감해질 수 있어!\"라고 말했어요."
+    },
+    {
+      "question_ko": "이야기의 끝에서 새미는 어떻게 변했나요?",
+      "type": "mc",
+      "options": [
+        "더 이상 무섭지 않은 용감한 배가 되었다",
+        "더 무서워졌다",
+        "바다를 떠났다",
+        "더 작아졌다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "오리를 구한 새미는 이제 무섭지 않은 용감한 작은 배가 되었어요."
+    }
+  ]
+}

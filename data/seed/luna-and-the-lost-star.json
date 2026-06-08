@@ -1,0 +1,1025 @@
+{
+  "slug": "luna-and-the-lost-star",
+  "title": "Luna and the Lost Star",
+  "title_ko": "루나와 잃어버린 별",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "작은 여우 루나가 밤하늘에서 떨어진 별을 다시 집으로 보내주는 따뜻한 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Luna is a little fox.",
+          "translation_ko": "루나는 작은 여우예요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Luna",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "little",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "fox",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1540
+            }
+          ]
+        },
+        {
+          "text": "She lives in a green forest.",
+          "translation_ko": "루나는 푸른 숲에 살아요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 940
+            },
+            {
+              "word": "lives",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 940,
+              "endMs": 1320
+            },
+            {
+              "word": "in",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 1620,
+              "endMs": 1840
+            },
+            {
+              "word": "green",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1840,
+              "endMs": 2100
+            },
+            {
+              "word": "forest",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 2100,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One night, a bright star falls from the sky.",
+          "translation_ko": "어느 날 밤, 밝은 별 하나가 하늘에서 떨어져요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "night",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "bright",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "star",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1800
+            },
+            {
+              "word": "falls",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 2240
+            },
+            {
+              "word": "from",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2480
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2480,
+              "endMs": 2720
+            },
+            {
+              "word": "sky",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The little star is lost.",
+          "translation_ko": "작은 별은 길을 잃었어요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "little",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "star",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "is",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1500
+            },
+            {
+              "word": "lost",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1500,
+              "endMs": 1760
+            }
+          ]
+        },
+        {
+          "text": "It wants to go home.",
+          "translation_ko": "별은 집에 가고 싶어 해요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "wants",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 920
+            },
+            {
+              "word": "go",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1120
+            },
+            {
+              "word": "home",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Do not cry. I will help you,\" says Luna.",
+          "translation_ko": "\"울지 마. 내가 도와줄게.\" 루나가 말해요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Do",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "not",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "cry",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 1080,
+              "endMs": 1400
+            },
+            {
+              "word": "I",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 2000,
+              "endMs": 2160
+            },
+            {
+              "word": "will",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 2160,
+              "endMs": 2320
+            },
+            {
+              "word": "help",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2320,
+              "endMs": 2540
+            },
+            {
+              "word": "you",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2540,
+              "endMs": 3400
+            },
+            {
+              "word": "says",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 3400,
+              "endMs": 3480
+            },
+            {
+              "word": "Luna",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3480,
+              "endMs": 3740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They walk up the big hill.",
+          "translation_ko": "둘은 높은 언덕을 올라가요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "walk",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "up",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1140
+            },
+            {
+              "word": "big",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "hill",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1620
+            }
+          ]
+        },
+        {
+          "text": "But the sky is too far.",
+          "translation_ko": "하지만 하늘은 너무 멀어요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "sky",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "is",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1300
+            },
+            {
+              "word": "too",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "far",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A kind owl flies down.",
+          "translation_ko": "친절한 부엉이가 내려와요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "kind",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 800
+            },
+            {
+              "word": "owl",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "flies",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1120,
+              "endMs": 1620
+            },
+            {
+              "word": "down",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1620,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "\"Climb on my back!\" she says.",
+          "translation_ko": "\"내 등에 올라타!\" 부엉이가 말해요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Climb",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 500,
+              "endMs": 1000
+            },
+            {
+              "word": "on",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "my",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "back",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "she",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1980,
+              "endMs": 2120
+            },
+            {
+              "word": "says",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2120,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They fly up and up, over the trees and clouds.",
+          "translation_ko": "둘은 나무와 구름 위로 높이높이 날아가요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "fly",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "up",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1280
+            },
+            {
+              "word": "up",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1360
+            },
+            {
+              "word": "over",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1720,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2280
+            },
+            {
+              "word": "trees",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2280,
+              "endMs": 2280
+            },
+            {
+              "word": "and",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2660
+            },
+            {
+              "word": "clouds",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2660,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The star jumps back home.",
+          "translation_ko": "별은 다시 집으로 폴짝 돌아가요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "star",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "jumps",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 980
+            },
+            {
+              "word": "back",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1340
+            },
+            {
+              "word": "home",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1620
+            }
+          ]
+        },
+        {
+          "text": "Now it winks at Luna every night.",
+          "translation_ko": "이제 별은 매일 밤 루나에게 윙크해요.",
+          "audio": "/seed/luna-and-the-lost-star/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "it",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "winks",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "at",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "Luna",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "every",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 2060
+            },
+            {
+              "word": "night",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2060,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {
+    "little": {
+      "ipa": "/ˈlɪt.əl/",
+      "pos": "adjective",
+      "meaning_ko": "작은",
+      "example_en": "Luna is a little fox.",
+      "example_ko": "루나는 작은 여우예요.",
+      "audioUrl": "/seed/_words/little.mp3"
+    },
+    "fox": {
+      "ipa": "/fɒks/",
+      "pos": "noun",
+      "meaning_ko": "여우",
+      "example_en": "The fox runs fast.",
+      "example_ko": "여우가 빨리 달려요.",
+      "audioUrl": "/seed/_words/fox.mp3"
+    },
+    "lives": {
+      "ipa": "/lɪvz/",
+      "pos": "verb",
+      "meaning_ko": "(어디에) 살다",
+      "example_en": "She lives in a forest.",
+      "example_ko": "그녀는 숲에 살아요.",
+      "audioUrl": "/seed/_words/lives.mp3"
+    },
+    "green": {
+      "ipa": "/ɡriːn/",
+      "pos": "adjective",
+      "meaning_ko": "초록색의",
+      "example_en": "The green forest is big.",
+      "example_ko": "푸른 숲은 커요.",
+      "audioUrl": "/seed/_words/green.mp3"
+    },
+    "forest": {
+      "ipa": "/ˈfɒr.ɪst/",
+      "pos": "noun",
+      "meaning_ko": "숲",
+      "example_en": "Many trees are in the forest.",
+      "example_ko": "숲에는 나무가 많아요.",
+      "audioUrl": "/seed/_words/forest.mp3"
+    },
+    "night": {
+      "ipa": "/naɪt/",
+      "pos": "noun",
+      "meaning_ko": "밤",
+      "example_en": "Stars shine at night.",
+      "example_ko": "밤에 별이 빛나요.",
+      "audioUrl": "/seed/_words/night.mp3"
+    },
+    "bright": {
+      "ipa": "/braɪt/",
+      "pos": "adjective",
+      "meaning_ko": "밝은",
+      "example_en": "The star is very bright.",
+      "example_ko": "별이 아주 밝아요.",
+      "audioUrl": "/seed/_words/bright.mp3"
+    },
+    "star": {
+      "ipa": "/stɑːr/",
+      "pos": "noun",
+      "meaning_ko": "별",
+      "example_en": "I see one star.",
+      "example_ko": "별 하나가 보여요.",
+      "audioUrl": "/seed/_words/star.mp3"
+    },
+    "falls": {
+      "ipa": "/fɔːlz/",
+      "pos": "verb",
+      "meaning_ko": "떨어지다 (fall)",
+      "example_en": "A leaf falls down.",
+      "example_ko": "나뭇잎이 떨어져요.",
+      "audioUrl": "/seed/_words/falls.mp3"
+    },
+    "sky": {
+      "ipa": "/skaɪ/",
+      "pos": "noun",
+      "meaning_ko": "하늘",
+      "example_en": "The sky is blue.",
+      "example_ko": "하늘이 파래요.",
+      "audioUrl": "/seed/_words/sky.mp3"
+    },
+    "lost": {
+      "ipa": "/lɒst/",
+      "pos": "adjective",
+      "meaning_ko": "길을 잃은",
+      "example_en": "The little star is lost.",
+      "example_ko": "작은 별은 길을 잃었어요.",
+      "audioUrl": "/seed/_words/lost.mp3"
+    },
+    "wants": {
+      "ipa": "/wɒnts/",
+      "pos": "verb",
+      "meaning_ko": "원하다 (want)",
+      "example_en": "It wants to go home.",
+      "example_ko": "그것은 집에 가고 싶어 해요.",
+      "audioUrl": "/seed/_words/wants.mp3"
+    },
+    "home": {
+      "ipa": "/hoʊm/",
+      "pos": "noun",
+      "meaning_ko": "집",
+      "example_en": "Let's go home.",
+      "example_ko": "집에 가자.",
+      "audioUrl": "/seed/_words/home.mp3"
+    },
+    "cry": {
+      "ipa": "/kraɪ/",
+      "pos": "verb",
+      "meaning_ko": "울다",
+      "example_en": "Do not cry.",
+      "example_ko": "울지 마.",
+      "audioUrl": "/seed/_words/cry.mp3"
+    },
+    "help": {
+      "ipa": "/help/",
+      "pos": "verb",
+      "meaning_ko": "돕다",
+      "example_en": "I will help you.",
+      "example_ko": "내가 도와줄게.",
+      "audioUrl": "/seed/_words/help.mp3"
+    },
+    "walk": {
+      "ipa": "/wɔːk/",
+      "pos": "verb",
+      "meaning_ko": "걷다, 걸어 올라가다",
+      "example_en": "They walk up the hill.",
+      "example_ko": "그들은 언덕을 걸어 올라가요.",
+      "audioUrl": "/seed/_words/walk.mp3"
+    },
+    "big": {
+      "ipa": "/bɪɡ/",
+      "pos": "adjective",
+      "meaning_ko": "큰, 높은",
+      "example_en": "The big hill is green.",
+      "example_ko": "높은 언덕은 푸르러요.",
+      "audioUrl": "/seed/_words/big.mp3"
+    },
+    "hill": {
+      "ipa": "/hɪl/",
+      "pos": "noun",
+      "meaning_ko": "언덕",
+      "example_en": "We climb the hill.",
+      "example_ko": "우리는 언덕을 올라요.",
+      "audioUrl": "/seed/_words/hill.mp3"
+    },
+    "far": {
+      "ipa": "/fɑːr/",
+      "pos": "adjective",
+      "meaning_ko": "(거리가) 먼",
+      "example_en": "The sky is too far.",
+      "example_ko": "하늘은 너무 멀어요.",
+      "audioUrl": "/seed/_words/far.mp3"
+    },
+    "kind": {
+      "ipa": "/kaɪnd/",
+      "pos": "adjective",
+      "meaning_ko": "친절한",
+      "example_en": "A kind owl helps them.",
+      "example_ko": "친절한 부엉이가 그들을 도와요.",
+      "audioUrl": "/seed/_words/kind.mp3"
+    },
+    "owl": {
+      "ipa": "/aʊl/",
+      "pos": "noun",
+      "meaning_ko": "부엉이",
+      "example_en": "The owl flies at night.",
+      "example_ko": "부엉이는 밤에 날아요.",
+      "audioUrl": "/seed/_words/owl.mp3"
+    },
+    "flies": {
+      "ipa": "/flaɪz/",
+      "pos": "verb",
+      "meaning_ko": "날다 (fly)",
+      "example_en": "The owl flies high.",
+      "example_ko": "부엉이가 높이 날아요.",
+      "audioUrl": "/seed/_words/flies.mp3"
+    },
+    "climb": {
+      "ipa": "/klaɪm/",
+      "pos": "verb",
+      "meaning_ko": "오르다, 올라타다",
+      "example_en": "Climb on my back.",
+      "example_ko": "내 등에 올라타.",
+      "audioUrl": "/seed/_words/climb.mp3"
+    },
+    "back": {
+      "ipa": "/bæk/",
+      "pos": "noun",
+      "meaning_ko": "등",
+      "example_en": "Sit on my back.",
+      "example_ko": "내 등에 앉아.",
+      "audioUrl": "/seed/_words/back.mp3"
+    },
+    "fly": {
+      "ipa": "/flaɪ/",
+      "pos": "verb",
+      "meaning_ko": "날다",
+      "example_en": "They fly up high.",
+      "example_ko": "그들은 높이 날아요.",
+      "audioUrl": "/seed/_words/fly.mp3"
+    },
+    "trees": {
+      "ipa": "/triːz/",
+      "pos": "noun",
+      "meaning_ko": "나무들 (tree)",
+      "example_en": "Birds sit in the trees.",
+      "example_ko": "새들이 나무에 앉아요.",
+      "audioUrl": "/seed/_words/trees.mp3"
+    },
+    "clouds": {
+      "ipa": "/klaʊdz/",
+      "pos": "noun",
+      "meaning_ko": "구름들 (cloud)",
+      "example_en": "White clouds are soft.",
+      "example_ko": "하얀 구름은 폭신해요.",
+      "audioUrl": "/seed/_words/clouds.mp3"
+    },
+    "jumps": {
+      "ipa": "/dʒʌmps/",
+      "pos": "verb",
+      "meaning_ko": "뛰다, 폴짝 뛰다 (jump)",
+      "example_en": "The star jumps home.",
+      "example_ko": "별이 집으로 폴짝 뛰어요.",
+      "audioUrl": "/seed/_words/jumps.mp3"
+    },
+    "winks": {
+      "ipa": "/wɪŋks/",
+      "pos": "verb",
+      "meaning_ko": "윙크하다 (wink)",
+      "example_en": "It winks at Luna.",
+      "example_ko": "그것은 루나에게 윙크해요.",
+      "audioUrl": "/seed/_words/winks.mp3"
+    },
+    "every": {
+      "ipa": "/ˈev.ri/",
+      "pos": "adjective",
+      "meaning_ko": "매~, 모든",
+      "example_en": "Every night is calm.",
+      "example_ko": "매일 밤은 고요해요.",
+      "audioUrl": "/seed/_words/every.mp3"
+    }
+  },
+  "quiz": [
+    {
+      "question_ko": "루나는 어떤 동물인가요?",
+      "type": "mc",
+      "options": [
+        "여우",
+        "토끼",
+        "부엉이",
+        "곰"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "루나는 푸른 숲에 사는 작은 여우예요."
+    },
+    {
+      "question_ko": "밤하늘에서 무엇이 떨어졌나요?",
+      "type": "mc",
+      "options": [
+        "별",
+        "비",
+        "눈",
+        "나뭇잎"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "밝은 별 하나가 하늘에서 떨어졌어요."
+    },
+    {
+      "question_ko": "길을 잃은 별은 무엇을 하고 싶어 했나요?",
+      "type": "mc",
+      "options": [
+        "집에 가기",
+        "잠자기",
+        "숨기",
+        "노래하기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "별은 집에 돌아가고 싶어 했어요."
+    },
+    {
+      "question_ko": "누가 루나와 별을 등에 태워 하늘로 날아올랐나요?",
+      "type": "mc",
+      "options": [
+        "친절한 부엉이",
+        "독수리",
+        "비행기",
+        "바람"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "친절한 부엉이가 둘을 등에 태워 주었어요."
+    },
+    {
+      "question_ko": "이 이야기가 전하는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "친구를 도와줘요",
+        "혼자가 좋아요",
+        "별은 무서워요",
+        "숲은 위험해요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "루나는 길 잃은 친구를 끝까지 도와주었어요."
+    }
+  ]
+}

@@ -1,0 +1,1136 @@
+{
+  "slug": "the-moons-lullaby",
+  "title": "The Moon's Lullaby",
+  "title_ko": "달의 자장가",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "아무도 잠들지 못하는 마을을 위해 달이 직접 부드러운 자장가를 불러 주는 포근한 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "In a small village, no one could sleep.",
+          "translation_ko": "작은 마을에서, 아무도 잠들 수 없었어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "In",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "a",
+              "charStart": 3,
+              "charEnd": 4,
+              "startMs": 120,
+              "endMs": 320
+            },
+            {
+              "word": "small",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "village",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 580,
+              "endMs": 980
+            },
+            {
+              "word": "no",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1440
+            },
+            {
+              "word": "one",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1440,
+              "endMs": 1620
+            },
+            {
+              "word": "could",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "sleep",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1820,
+              "endMs": 2180
+            }
+          ]
+        },
+        {
+          "text": "The nights were long and restless.",
+          "translation_ko": "밤은 길고 잠 못 이루는 날들이었어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "nights",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "were",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 500,
+              "endMs": 760
+            },
+            {
+              "word": "long",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 760,
+              "endMs": 1080
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1080,
+              "endMs": 1460
+            },
+            {
+              "word": "restless",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1460,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Babies cried, and tired parents sighed.",
+          "translation_ko": "아기들은 울고, 지친 부모들은 한숨을 쉬었어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Babies",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "cried",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1400
+            },
+            {
+              "word": "tired",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "parents",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1760,
+              "endMs": 2180
+            },
+            {
+              "word": "sighed",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2180,
+              "endMs": 2640
+            }
+          ]
+        },
+        {
+          "text": "Even the owls looked sleepy.",
+          "translation_ko": "심지어 부엉이들도 졸려 보였어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Even",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 760
+            },
+            {
+              "word": "owls",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1200
+            },
+            {
+              "word": "looked",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1760
+            },
+            {
+              "word": "sleepy",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "High above, the Moon watched the village.",
+          "translation_ko": "저 높은 곳에서, 달이 마을을 바라봤어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "High",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "above",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 760
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1580
+            },
+            {
+              "word": "Moon",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "watched",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2700
+            },
+            {
+              "word": "village",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2700,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "\"I will help them,\" she whispered.",
+          "translation_ko": "\"내가 도와줘야지.\" 달이 속삭였어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "will",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 380
+            },
+            {
+              "word": "help",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 600
+            },
+            {
+              "word": "them",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 1120
+            },
+            {
+              "word": "she",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1240
+            },
+            {
+              "word": "whispered",
+              "charStart": 24,
+              "charEnd": 33,
+              "startMs": 1240,
+              "endMs": 1680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The Moon began to sing a gentle lullaby.",
+          "translation_ko": "달이 부드러운 자장가를 부르기 시작했어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "Moon",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "began",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "to",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1380
+            },
+            {
+              "word": "sing",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1440
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1740
+            },
+            {
+              "word": "gentle",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 2040
+            },
+            {
+              "word": "lullaby",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2040,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "Her voice was as soft as silver light.",
+          "translation_ko": "달의 목소리는 은빛처럼 부드러웠어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "voice",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "was",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 820
+            },
+            {
+              "word": "as",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1380
+            },
+            {
+              "word": "soft",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1380
+            },
+            {
+              "word": "as",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1820
+            },
+            {
+              "word": "silver",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "light",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The song floated down through the windows.",
+          "translation_ko": "노래는 창문을 통해 아래로 흘러내렸어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "song",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 760
+            },
+            {
+              "word": "floated",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 1240
+            },
+            {
+              "word": "down",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1760
+            },
+            {
+              "word": "through",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1760,
+              "endMs": 2320
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2320,
+              "endMs": 2880
+            },
+            {
+              "word": "windows",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2880,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "It wrapped around every bed.",
+          "translation_ko": "그 노래가 모든 침대를 포근히 감쌌어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 900,
+              "endMs": 1640
+            },
+            {
+              "word": "wrapped",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "around",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1920,
+              "endMs": 2280
+            },
+            {
+              "word": "every",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 2280,
+              "endMs": 2660
+            },
+            {
+              "word": "bed",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 2660,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One by one, the villagers closed their eyes.",
+          "translation_ko": "하나둘, 마을 사람들이 눈을 감았어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "by",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 380,
+              "endMs": 640
+            },
+            {
+              "word": "one",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1020,
+              "endMs": 1820
+            },
+            {
+              "word": "villagers",
+              "charStart": 16,
+              "charEnd": 25,
+              "startMs": 1820,
+              "endMs": 1820
+            },
+            {
+              "word": "closed",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2280
+            },
+            {
+              "word": "their",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2560
+            },
+            {
+              "word": "eyes",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "Their worries slowly melted away.",
+          "translation_ko": "그들의 걱정이 천천히 녹아 사라졌어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "worries",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 980
+            },
+            {
+              "word": "slowly",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 980,
+              "endMs": 1660
+            },
+            {
+              "word": "melted",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 2080
+            },
+            {
+              "word": "away",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2080,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Soon the whole village was fast asleep.",
+          "translation_ko": "곧 온 마을이 깊이 잠들었어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 600
+            },
+            {
+              "word": "whole",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 1000
+            },
+            {
+              "word": "village",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "was",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "fast",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 1920
+            },
+            {
+              "word": "asleep",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2320
+            }
+          ]
+        },
+        {
+          "text": "Even the wind grew calm and still.",
+          "translation_ko": "바람마저 잔잔하고 고요해졌어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Even",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "wind",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 760
+            },
+            {
+              "word": "grew",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "calm",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1040,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1820
+            },
+            {
+              "word": "still",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Every night since then, the Moon sings.",
+          "translation_ko": "그날 밤부터 매일 밤, 달은 노래를 불러요.",
+          "audio": "/seed/the-moons-lullaby/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "since",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1280
+            },
+            {
+              "word": "then",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "Moon",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "sings",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 3040
+            }
+          ]
+        },
+        {
+          "text": "And the village sleeps in peace.",
+          "translation_ko": "그리고 마을은 평화롭게 잠들어요.",
+          "audio": "/seed/the-moons-lullaby/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "And",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 840
+            },
+            {
+              "word": "village",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 860
+            },
+            {
+              "word": "sleeps",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 860,
+              "endMs": 1320
+            },
+            {
+              "word": "in",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1800
+            },
+            {
+              "word": "peace",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1800,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {
+    "village": {
+      "ipa": "/ˈvɪl.ɪdʒ/",
+      "pos": "noun",
+      "meaning_ko": "마을",
+      "example_en": "A small village.",
+      "example_ko": "작은 마을.",
+      "audioUrl": "/seed/_words/village.mp3"
+    },
+    "sleep": {
+      "ipa": "/sliːp/",
+      "pos": "verb",
+      "meaning_ko": "잠자다",
+      "example_en": "I need to sleep.",
+      "example_ko": "나는 자야 해요.",
+      "audioUrl": "/seed/_words/sleep.mp3"
+    },
+    "nights": {
+      "ipa": "/naɪts/",
+      "pos": "noun",
+      "meaning_ko": "밤들 (night)",
+      "example_en": "Cold nights.",
+      "example_ko": "추운 밤들.",
+      "audioUrl": "/seed/_words/nights.mp3"
+    },
+    "restless": {
+      "ipa": "/ˈrest.ləs/",
+      "pos": "adjective",
+      "meaning_ko": "잠 못 이루는, 안절부절한",
+      "example_en": "A restless night.",
+      "example_ko": "잠 못 이루는 밤.",
+      "audioUrl": "/seed/_words/restless.mp3"
+    },
+    "tired": {
+      "ipa": "/taɪərd/",
+      "pos": "adjective",
+      "meaning_ko": "지친, 피곤한",
+      "example_en": "I am very tired.",
+      "example_ko": "나는 너무 피곤해요.",
+      "audioUrl": "/seed/_words/tired.mp3"
+    },
+    "sighed": {
+      "ipa": "/saɪd/",
+      "pos": "verb",
+      "meaning_ko": "한숨 쉬었다 (sigh)",
+      "example_en": "She sighed softly.",
+      "example_ko": "그녀는 가만히 한숨을 쉬었어요.",
+      "audioUrl": "/seed/_words/sighed.mp3"
+    },
+    "owls": {
+      "ipa": "/aʊlz/",
+      "pos": "noun",
+      "meaning_ko": "부엉이들 (owl)",
+      "example_en": "Owls fly at night.",
+      "example_ko": "부엉이는 밤에 날아요.",
+      "audioUrl": "/seed/_words/owls.mp3"
+    },
+    "sleepy": {
+      "ipa": "/ˈsliː.pi/",
+      "pos": "adjective",
+      "meaning_ko": "졸린",
+      "example_en": "I feel sleepy.",
+      "example_ko": "나는 졸려요.",
+      "audioUrl": "/seed/_words/sleepy.mp3"
+    },
+    "watched": {
+      "ipa": "/wɒtʃt/",
+      "pos": "verb",
+      "meaning_ko": "지켜봤다 (watch)",
+      "example_en": "He watched the stars.",
+      "example_ko": "그는 별을 바라봤어요.",
+      "audioUrl": "/seed/_words/watched.mp3"
+    },
+    "whispered": {
+      "ipa": "/ˈwɪs.pərd/",
+      "pos": "verb",
+      "meaning_ko": "속삭였다 (whisper)",
+      "example_en": "She whispered a secret.",
+      "example_ko": "그녀가 비밀을 속삭였어요.",
+      "audioUrl": "/seed/_words/whispered.mp3"
+    },
+    "gentle": {
+      "ipa": "/ˈdʒen.təl/",
+      "pos": "adjective",
+      "meaning_ko": "부드러운, 다정한",
+      "example_en": "A gentle voice.",
+      "example_ko": "부드러운 목소리.",
+      "audioUrl": "/seed/_words/gentle.mp3"
+    },
+    "lullaby": {
+      "ipa": "/ˈlʌl.ə.baɪ/",
+      "pos": "noun",
+      "meaning_ko": "자장가",
+      "example_en": "Sing a lullaby.",
+      "example_ko": "자장가를 불러 줘.",
+      "audioUrl": "/seed/_words/lullaby.mp3"
+    },
+    "voice": {
+      "ipa": "/vɔɪs/",
+      "pos": "noun",
+      "meaning_ko": "목소리",
+      "example_en": "A soft voice.",
+      "example_ko": "부드러운 목소리.",
+      "audioUrl": "/seed/_words/voice.mp3"
+    },
+    "silver": {
+      "ipa": "/ˈsɪl.vər/",
+      "pos": "adjective",
+      "meaning_ko": "은빛의, 은색의",
+      "example_en": "Silver light.",
+      "example_ko": "은빛 빛.",
+      "audioUrl": "/seed/_words/silver.mp3"
+    },
+    "floated": {
+      "ipa": "/ˈfloʊ.tɪd/",
+      "pos": "verb",
+      "meaning_ko": "떠다녔다, 흘렀다 (float)",
+      "example_en": "A leaf floated by.",
+      "example_ko": "나뭇잎이 떠갔어요.",
+      "audioUrl": "/seed/_words/floated.mp3"
+    },
+    "wrapped": {
+      "ipa": "/ræpt/",
+      "pos": "verb",
+      "meaning_ko": "감쌌다 (wrap)",
+      "example_en": "She wrapped the gift.",
+      "example_ko": "그녀가 선물을 포장했어요.",
+      "audioUrl": "/seed/_words/wrapped.mp3"
+    },
+    "villagers": {
+      "ipa": "/ˈvɪl.ɪ.dʒərz/",
+      "pos": "noun",
+      "meaning_ko": "마을 사람들",
+      "example_en": "The villagers smiled.",
+      "example_ko": "마을 사람들이 미소 지었어요.",
+      "audioUrl": "/seed/_words/villagers.mp3"
+    },
+    "worries": {
+      "ipa": "/ˈwʌr.iz/",
+      "pos": "noun",
+      "meaning_ko": "걱정들 (worry)",
+      "example_en": "Let go of your worries.",
+      "example_ko": "걱정을 내려놓아요.",
+      "audioUrl": "/seed/_words/worries.mp3"
+    },
+    "melted": {
+      "ipa": "/ˈmel.tɪd/",
+      "pos": "verb",
+      "meaning_ko": "녹았다 (melt)",
+      "example_en": "The snow melted.",
+      "example_ko": "눈이 녹았어요.",
+      "audioUrl": "/seed/_words/melted.mp3"
+    },
+    "asleep": {
+      "ipa": "/əˈsliːp/",
+      "pos": "adjective",
+      "meaning_ko": "잠든",
+      "example_en": "The baby is asleep.",
+      "example_ko": "아기가 잠들었어요.",
+      "audioUrl": "/seed/_words/asleep.mp3"
+    },
+    "calm": {
+      "ipa": "/kɑːm/",
+      "pos": "adjective",
+      "meaning_ko": "잔잔한, 차분한",
+      "example_en": "The sea is calm.",
+      "example_ko": "바다가 잔잔해요.",
+      "audioUrl": "/seed/_words/calm.mp3"
+    },
+    "peace": {
+      "ipa": "/piːs/",
+      "pos": "noun",
+      "meaning_ko": "평화",
+      "example_en": "Sleep in peace.",
+      "example_ko": "평화롭게 잠들어요.",
+      "audioUrl": "/seed/_words/peace.mp3"
+    }
+  },
+  "quiz": [
+    {
+      "question_ko": "마을 사람들에게 어떤 문제가 있었나요?",
+      "type": "mc",
+      "options": [
+        "아무도 잠들 수 없었다",
+        "먹을 것이 없었다",
+        "길을 잃었다",
+        "비가 그치지 않았다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "밤이 길고 잠 못 이루어 아무도 잠들 수 없었어요."
+    },
+    {
+      "question_ko": "누가 마을을 돕기로 했나요?",
+      "type": "mc",
+      "options": [
+        "달",
+        "해",
+        "별",
+        "바람"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "높은 곳에서 마을을 지켜보던 달이 \"내가 도와줘야지\"라고 했어요."
+    },
+    {
+      "question_ko": "달은 마을을 어떻게 도왔나요?",
+      "type": "mc",
+      "options": [
+        "부드러운 자장가를 불러 주었다",
+        "불을 밝혀 주었다",
+        "비를 내려 주었다",
+        "바람을 불어 주었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "달이 은빛처럼 부드러운 목소리로 자장가를 불러 주었어요."
+    },
+    {
+      "question_ko": "자장가를 들은 마을 사람들은 어떻게 되었나요?",
+      "type": "mc",
+      "options": [
+        "걱정이 녹고 잠들었다",
+        "더 깨어 있었다",
+        "노래를 따라 불렀다",
+        "춤을 추었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "노래가 침대를 감싸자 걱정이 녹아 사라지고 하나둘 잠이 들었어요."
+    },
+    {
+      "question_ko": "그 뒤로 마을의 밤은 어떻게 되었나요?",
+      "type": "mc",
+      "options": [
+        "매일 밤 달이 노래해 평화롭게 잠든다",
+        "다시 잠들지 못하게 되었다",
+        "달이 사라졌다",
+        "낮에도 잠을 잤다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "그날부터 매일 밤 달이 노래하고, 마을은 평화롭게 잠들어요."
+    }
+  ]
+}

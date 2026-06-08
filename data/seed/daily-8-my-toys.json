@@ -1,0 +1,449 @@
+{
+  "slug": "daily-8-my-toys",
+  "title": "My Toys",
+  "title_ko": "내 장난감",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "방에서 장난감을 가지고 놀고, 다 놀면 스스로 정리하는 이야기. 색깔과 사물, 정리 표현을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "I have many toys.",
+          "translation_ko": "나는 장난감이 많아요.",
+          "audio": "/seed/daily-8-my-toys/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "many",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 1000
+            },
+            {
+              "word": "toys",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I have a red car and a blue ball.",
+          "translation_ko": "나는 빨간 자동차와 파란 공이 있어요.",
+          "audio": "/seed/daily-8-my-toys/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "red",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 980,
+              "endMs": 1060
+            },
+            {
+              "word": "car",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1960
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1960,
+              "endMs": 2400
+            },
+            {
+              "word": "blue",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2400,
+              "endMs": 2440
+            },
+            {
+              "word": "ball",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2440,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I play with my toys on the floor.",
+          "translation_ko": "나는 바닥에서 장난감을 가지고 놀아요.",
+          "audio": "/seed/daily-8-my-toys/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "play",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "with",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "my",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1180
+            },
+            {
+              "word": "toys",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "on",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "floor",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Time to clean up!\" says Mom.",
+          "translation_ko": "\"정리할 시간이야!\" 엄마가 말해요.",
+          "audio": "/seed/daily-8-my-toys/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Time",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "to",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "clean",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "up",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1800
+            },
+            {
+              "word": "says",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1800,
+              "endMs": 1960
+            },
+            {
+              "word": "Mom",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I put the toys in the box.",
+          "translation_ko": "나는 장난감을 상자에 넣어요.",
+          "audio": "/seed/daily-8-my-toys/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 460,
+              "endMs": 620
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 840
+            },
+            {
+              "word": "toys",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "in",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1760
+            },
+            {
+              "word": "box",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1760,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now my room is clean.",
+          "translation_ko": "이제 내 방은 깨끗해요.",
+          "audio": "/seed/daily-8-my-toys/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "my",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "room",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "is",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "clean",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1760
+            }
+          ]
+        },
+        {
+          "text": "\"Good job!\" says Mom.",
+          "translation_ko": "\"잘했어!\" 엄마가 말해요.",
+          "audio": "/seed/daily-8-my-toys/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "job",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 1600
+            },
+            {
+              "word": "says",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "Mom",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1820,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아이가 가진 장난감은?",
+      "type": "mc",
+      "options": [
+        "빨간 자동차와 파란 공",
+        "노란 곰과 초록 차",
+        "흰 공과 검은 차",
+        "분홍 인형"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a red car and a blue ball — 빨간 자동차와 파란 공이에요."
+    },
+    {
+      "question_ko": "어디에서 놀았나요?",
+      "type": "mc",
+      "options": [
+        "침대",
+        "바닥",
+        "책상",
+        "마당"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "on the floor — 바닥에서 놀았어요."
+    },
+    {
+      "question_ko": "\"Time to clean up\"는 무슨 뜻인가요?",
+      "type": "mc",
+      "options": [
+        "놀 시간이야",
+        "정리할 시간이야",
+        "잘 시간이야",
+        "먹을 시간이야"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "clean up은 정리하다 — 정리할 시간이라는 뜻이에요."
+    },
+    {
+      "question_ko": "장난감을 어디에 넣었나요?",
+      "type": "mc",
+      "options": [
+        "상자",
+        "가방",
+        "서랍",
+        "바구니"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "in the box — 상자에 넣었어요."
+    },
+    {
+      "question_ko": "엄마가 마지막에 한 말은?",
+      "type": "mc",
+      "options": [
+        "Good job",
+        "Good night",
+        "Hurry up",
+        "Be quiet"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Good job은 \"잘했어\"라는 칭찬이에요."
+    }
+  ]
+}

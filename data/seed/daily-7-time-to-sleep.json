@@ -1,0 +1,379 @@
+{
+  "slug": "daily-7-time-to-sleep",
+  "title": "Time to Sleep",
+  "title_ko": "잘 시간이에요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "양치하고 잠옷을 입고 가족과 잘 자라는 인사를 나누는 밤 시간. 가장 쉬운 단어로 하루의 끝을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "It is night. The moon is out.",
+          "translation_ko": "밤이에요. 달이 떴어요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 160,
+              "endMs": 440
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "The",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "moon",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "is",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "out",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2100,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I brush my teeth.",
+          "translation_ko": "나는 이를 닦아요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "brush",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 980
+            },
+            {
+              "word": "teeth",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I put on my pajamas.",
+          "translation_ko": "나는 잠옷을 입어요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 380,
+              "endMs": 560
+            },
+            {
+              "word": "on",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 560,
+              "endMs": 760
+            },
+            {
+              "word": "my",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "pajamas",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Good night, Mom and Dad.\"",
+          "translation_ko": "\"안녕히 주무세요, 엄마 아빠.\"",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "Mom",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "Dad",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Good night! Sleep well,\" they say.",
+          "translation_ko": "\"잘 자! 푹 자렴,\" 그들이 말해요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "Sleep",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "well",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1740
+            },
+            {
+              "word": "they",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1980,
+              "endMs": 2120
+            },
+            {
+              "word": "say",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I close my eyes. I am sleepy.",
+          "translation_ko": "나는 눈을 감아요. 나는 졸려요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "close",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 440
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 680
+            },
+            {
+              "word": "eyes",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 1020
+            },
+            {
+              "word": "I",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1520
+            },
+            {
+              "word": "am",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1520,
+              "endMs": 1680
+            },
+            {
+              "word": "sleepy",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 1980
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "이야기의 때는 언제인가요?",
+      "type": "mc",
+      "options": [
+        "아침",
+        "점심",
+        "밤",
+        "오후"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "It is night — 밤이에요."
+    },
+    {
+      "question_ko": "잠자기 전에 무엇을 닦았나요?",
+      "type": "mc",
+      "options": [
+        "손",
+        "이",
+        "얼굴",
+        "발"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "brush my teeth — 이를 닦았어요."
+    },
+    {
+      "question_ko": "무엇을 입었나요?",
+      "type": "mc",
+      "options": [
+        "잠옷",
+        "교복",
+        "코트",
+        "신발"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "pajamas는 잠옷이에요."
+    },
+    {
+      "question_ko": "\"Good night\"은 언제 하는 인사인가요?",
+      "type": "mc",
+      "options": [
+        "아침",
+        "잘 때",
+        "식사 때",
+        "만날 때"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Good night은 잘 때 하는 인사예요."
+    },
+    {
+      "question_ko": "마지막에 아이의 기분은?",
+      "type": "mc",
+      "options": [
+        "배고프다",
+        "졸리다",
+        "신나다",
+        "무섭다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "I am sleepy — 졸려요."
+    }
+  ]
+}

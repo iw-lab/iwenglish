@@ -1,0 +1,776 @@
+{
+  "slug": "daily-12-the-lost-puppy",
+  "title": "The Lost Puppy",
+  "title_ko": "길 잃은 강아지",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "공원에서 길 잃은 강아지를 발견해 주인을 찾아 주는 따뜻한 이야기. 도움 요청과 감정 표현이 풍부한 6단계 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One afternoon, I found a little puppy alone in the park.",
+          "translation_ko": "어느 오후, 나는 공원에서 혼자 있는 작은 강아지를 발견했어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "afternoon",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 320,
+              "endMs": 880
+            },
+            {
+              "word": "I",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1500
+            },
+            {
+              "word": "found",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1640
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "little",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 2040
+            },
+            {
+              "word": "puppy",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "alone",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2320,
+              "endMs": 2740
+            },
+            {
+              "word": "in",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2740,
+              "endMs": 2880
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2880,
+              "endMs": 3040
+            },
+            {
+              "word": "park",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3040,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It looked scared and could not find its way home.",
+          "translation_ko": "강아지는 겁에 질려 보였고 집을 찾지 못했어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "looked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "scared",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1480
+            },
+            {
+              "word": "could",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1620
+            },
+            {
+              "word": "not",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 1900
+            },
+            {
+              "word": "find",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1900,
+              "endMs": 2160
+            },
+            {
+              "word": "its",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2380
+            },
+            {
+              "word": "way",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2380,
+              "endMs": 2620
+            },
+            {
+              "word": "home",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2620,
+              "endMs": 2880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Don't worry. I will help you,\" I said softly.",
+          "translation_ko": "\"걱정 마. 내가 도와줄게,\" 나는 부드럽게 말했어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Don't",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "worry",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "I",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1440,
+              "endMs": 1800
+            },
+            {
+              "word": "will",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "help",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1980,
+              "endMs": 2260
+            },
+            {
+              "word": "you",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2260,
+              "endMs": 3540
+            },
+            {
+              "word": "I",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 3540,
+              "endMs": 3700
+            },
+            {
+              "word": "said",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 3700,
+              "endMs": 3900
+            },
+            {
+              "word": "softly",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 3900,
+              "endMs": 4340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I read the name on its collar. It said \"Coco.\"",
+          "translation_ko": "나는 목줄에 적힌 이름을 읽었어요. \"코코\"라고 적혀 있었어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "read",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 420
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 620
+            },
+            {
+              "word": "name",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 800
+            },
+            {
+              "word": "on",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "its",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "collar",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "It",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2200
+            },
+            {
+              "word": "said",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "Coco",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2520,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We walked around and asked people, \"Is this your puppy?\"",
+          "translation_ko": "우리는 돌아다니며 사람들에게 물었어요, \"이 강아지 주인이세요?\"",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "walked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 540
+            },
+            {
+              "word": "around",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 960
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "asked",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "people",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1480,
+              "endMs": 1860
+            },
+            {
+              "word": "Is",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2040,
+              "endMs": 2540
+            },
+            {
+              "word": "this",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "your",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 3000
+            },
+            {
+              "word": "puppy",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3000,
+              "endMs": 3200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At last, a girl ran to us and shouted, \"Coco! There you are!\"",
+          "translation_ko": "마침내 한 소녀가 우리에게 달려와 외쳤어요, \"코코! 여기 있었구나!\"",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "last",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 1200,
+              "endMs": 1320
+            },
+            {
+              "word": "girl",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1320,
+              "endMs": 1580
+            },
+            {
+              "word": "ran",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1840,
+              "endMs": 2040
+            },
+            {
+              "word": "us",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 2040,
+              "endMs": 2260
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2260,
+              "endMs": 2780
+            },
+            {
+              "word": "shouted",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2780,
+              "endMs": 2780
+            },
+            {
+              "word": "Coco",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3080,
+              "endMs": 3400
+            },
+            {
+              "word": "There",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3640,
+              "endMs": 3840
+            },
+            {
+              "word": "you",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3840,
+              "endMs": 4020
+            },
+            {
+              "word": "are",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 4020,
+              "endMs": 4240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Thank you so much for finding her,\" the girl said.",
+          "translation_ko": "\"우리 강아지를 찾아 줘서 정말 고마워,\" 소녀가 말했어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 680
+            },
+            {
+              "word": "so",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "much",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "for",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "finding",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "her",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1640,
+              "endMs": 2440
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2440,
+              "endMs": 2480
+            },
+            {
+              "word": "girl",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2480,
+              "endMs": 2640
+            },
+            {
+              "word": "said",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2640,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Coco wagged her tail happily.",
+          "translation_ko": "코코는 행복하게 꼬리를 흔들었어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Coco",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "wagged",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1300
+            },
+            {
+              "word": "her",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "tail",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "happily",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1820,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I felt warm inside as I walked home.",
+          "translation_ko": "나는 집으로 걸어가며 마음이 따뜻해졌어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "felt",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 520
+            },
+            {
+              "word": "warm",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "inside",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1360
+            },
+            {
+              "word": "as",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "I",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "walked",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "home",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아이는 공원에서 무엇을 발견했나요?",
+      "type": "mc",
+      "options": [
+        "길 잃은 강아지",
+        "지갑",
+        "친구",
+        "고양이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "found a little puppy — 길 잃은 강아지를 발견했어요."
+    },
+    {
+      "question_ko": "강아지의 이름은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "코코",
+        "초코",
+        "보리",
+        "해피"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "목줄에 \"Coco\"라고 적혀 있었어요."
+    },
+    {
+      "question_ko": "이름은 어디에서 알았나요?",
+      "type": "mc",
+      "options": [
+        "목줄",
+        "발",
+        "꼬리",
+        "귀"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "the name on its collar — 목줄에서 알았어요."
+    },
+    {
+      "question_ko": "마침내 누가 달려왔나요?",
+      "type": "mc",
+      "options": [
+        "강아지 주인 소녀",
+        "경찰",
+        "엄마",
+        "선생님"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a girl ran to us — 주인 소녀가 달려왔어요."
+    },
+    {
+      "question_ko": "집에 갈 때 아이의 마음은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "화났다",
+        "따뜻했다",
+        "무서웠다",
+        "슬펐다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "felt warm inside — 마음이 따뜻해졌어요."
+    }
+  ]
+}

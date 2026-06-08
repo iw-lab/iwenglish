@@ -1,0 +1,558 @@
+{
+  "slug": "daily-9-at-the-doctor",
+  "title": "At the Doctor",
+  "title_ko": "병원에서",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "열이 나서 엄마와 병원에 가 의사 선생님에게 증상을 말하는 이야기. 몸과 아픔, 진료 대화를 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "I do not feel well today.",
+          "translation_ko": "나는 오늘 몸이 좋지 않아요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "do",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 640,
+              "endMs": 800
+            },
+            {
+              "word": "not",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "feel",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "well",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "today",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"You are hot. Let's see the doctor,\" says Mom.",
+          "translation_ko": "\"열이 있구나. 의사 선생님께 가자,\" 엄마가 말해요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "are",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "hot",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "Let's",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1420
+            },
+            {
+              "word": "see",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1540
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1700
+            },
+            {
+              "word": "doctor",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1700,
+              "endMs": 2040
+            },
+            {
+              "word": "says",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2420,
+              "endMs": 2480
+            },
+            {
+              "word": "Mom",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2480,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Hello. What is wrong?\" asks the doctor.",
+          "translation_ko": "\"안녕. 어디가 아프니?\" 의사 선생님이 물어요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hello",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "What",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 940
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "wrong",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "asks",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 1960
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 2180
+            },
+            {
+              "word": "doctor",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2180,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"My head hurts and I am hot,\" I say.",
+          "translation_ko": "\"머리가 아프고 열이 나요,\" 내가 말해요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "head",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "hurts",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 1000
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "I",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1500
+            },
+            {
+              "word": "am",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "hot",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "I",
+              "charStart": 30,
+              "charEnd": 31,
+              "startMs": 2280,
+              "endMs": 2480
+            },
+            {
+              "word": "say",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2480,
+              "endMs": 2720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The doctor checks my ears and my throat.",
+          "translation_ko": "의사 선생님이 내 귀와 목을 살펴봐요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "doctor",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 200,
+              "endMs": 680
+            },
+            {
+              "word": "checks",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 680,
+              "endMs": 1100
+            },
+            {
+              "word": "my",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "ears",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2120
+            },
+            {
+              "word": "my",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2400
+            },
+            {
+              "word": "throat",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2400,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"You have a cold. Take this medicine and rest,\" she says.",
+          "translation_ko": "\"감기에 걸렸구나. 이 약을 먹고 쉬어라,\" 선생님이 말해요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "have",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 840,
+              "endMs": 1180
+            },
+            {
+              "word": "cold",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1180,
+              "endMs": 1320
+            },
+            {
+              "word": "Take",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 2060,
+              "endMs": 2100
+            },
+            {
+              "word": "this",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "medicine",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 2400,
+              "endMs": 2760
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2760,
+              "endMs": 3100
+            },
+            {
+              "word": "rest",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3100,
+              "endMs": 3400
+            },
+            {
+              "word": "she",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3740,
+              "endMs": 3900
+            },
+            {
+              "word": "says",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3900,
+              "endMs": 4200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Thank you, doctor.\" I will feel better soon.",
+          "translation_ko": "\"감사합니다, 선생님.\" 나는 곧 나을 거예요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 800
+            },
+            {
+              "word": "doctor",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1320
+            },
+            {
+              "word": "I",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 2020,
+              "endMs": 2240
+            },
+            {
+              "word": "will",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2240,
+              "endMs": 2440
+            },
+            {
+              "word": "feel",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2440,
+              "endMs": 2580
+            },
+            {
+              "word": "better",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2580,
+              "endMs": 2840
+            },
+            {
+              "word": "soon",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2840,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아이는 왜 병원에 갔나요?",
+      "type": "mc",
+      "options": [
+        "배가 고파서",
+        "몸이 안 좋아서",
+        "심심해서",
+        "다쳐서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "do not feel well — 몸이 좋지 않아서 갔어요."
+    },
+    {
+      "question_ko": "어디가 아프다고 했나요?",
+      "type": "mc",
+      "options": [
+        "다리",
+        "머리",
+        "손",
+        "이"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "My head hurts — 머리가 아파요."
+    },
+    {
+      "question_ko": "의사 선생님이 살펴본 곳은?",
+      "type": "mc",
+      "options": [
+        "귀와 목",
+        "손과 발",
+        "눈과 코",
+        "배와 등"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "ears and throat — 귀와 목을 살펴봤어요."
+    },
+    {
+      "question_ko": "아이의 병은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "감기",
+        "배탈",
+        "두드러기",
+        "골절"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "You have a cold — 감기예요."
+    },
+    {
+      "question_ko": "의사 선생님이 시킨 것은?",
+      "type": "mc",
+      "options": [
+        "뛰어라",
+        "약 먹고 쉬어라",
+        "물에 들어가라",
+        "공부해라"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Take this medicine and rest — 약 먹고 쉬라고 했어요."
+    }
+  ]
+}

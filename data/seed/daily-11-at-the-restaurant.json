@@ -1,0 +1,625 @@
+{
+  "slug": "daily-11-at-the-restaurant",
+  "title": "At the Restaurant",
+  "title_ko": "식당에서",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "가족과 식당에 가서 메뉴를 보고 음식을 주문하는 이야기. 주문하기, 묻고 답하기, 음식 표현을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "On Friday evening, my family goes to a restaurant.",
+          "translation_ko": "금요일 저녁, 우리 가족은 식당에 가요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Friday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 940
+            },
+            {
+              "word": "evening",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1440
+            },
+            {
+              "word": "my",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1960,
+              "endMs": 2240
+            },
+            {
+              "word": "family",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 2240,
+              "endMs": 2640
+            },
+            {
+              "word": "goes",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2640,
+              "endMs": 3020
+            },
+            {
+              "word": "to",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 3020,
+              "endMs": 3240
+            },
+            {
+              "word": "a",
+              "charStart": 37,
+              "charEnd": 38,
+              "startMs": 3240,
+              "endMs": 3580
+            },
+            {
+              "word": "restaurant",
+              "charStart": 39,
+              "charEnd": 49,
+              "startMs": 3580,
+              "endMs": 3780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A waiter brings us the menu.",
+          "translation_ko": "종업원이 우리에게 메뉴를 가져다줘요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "waiter",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "brings",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "us",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "menu",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1380,
+              "endMs": 1580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"What would you like to eat?\" he asks.",
+          "translation_ko": "\"무엇을 드시겠어요?\" 그가 물어요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "would",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 560
+            },
+            {
+              "word": "you",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 700
+            },
+            {
+              "word": "like",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 700,
+              "endMs": 900
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 900,
+              "endMs": 1180
+            },
+            {
+              "word": "eat",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1180,
+              "endMs": 1340
+            },
+            {
+              "word": "he",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1640,
+              "endMs": 1780
+            },
+            {
+              "word": "asks",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1780,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I would like chicken and rice, please,\" I say.",
+          "translation_ko": "\"저는 치킨과 밥 주세요,\" 내가 말해요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "would",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 500
+            },
+            {
+              "word": "like",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "chicken",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 820,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1200,
+              "endMs": 1540
+            },
+            {
+              "word": "rice",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1540,
+              "endMs": 1720
+            },
+            {
+              "word": "please",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2140,
+              "endMs": 2220
+            },
+            {
+              "word": "I",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2500,
+              "endMs": 2660
+            },
+            {
+              "word": "say",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2660,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"And some water for everyone,\" says Dad.",
+          "translation_ko": "\"그리고 모두에게 물 좀 주세요,\" 아빠가 말해요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "And",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "some",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "water",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "for",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 880,
+              "endMs": 1300
+            },
+            {
+              "word": "everyone",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1300,
+              "endMs": 2320
+            },
+            {
+              "word": "says",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2320,
+              "endMs": 2420
+            },
+            {
+              "word": "Dad",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Soon the warm food arrives. It smells great.",
+          "translation_ko": "곧 따뜻한 음식이 나와요. 냄새가 정말 좋아요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 660
+            },
+            {
+              "word": "warm",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "food",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "arrives",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1280,
+              "endMs": 1760
+            },
+            {
+              "word": "It",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2260,
+              "endMs": 2400
+            },
+            {
+              "word": "smells",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2400,
+              "endMs": 2640
+            },
+            {
+              "word": "great",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2640,
+              "endMs": 3100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"This is delicious!\" my sister says with a big smile.",
+          "translation_ko": "\"정말 맛있어요!\" 여동생이 활짝 웃으며 말해요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "delicious",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 780,
+              "endMs": 1440
+            },
+            {
+              "word": "my",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1680,
+              "endMs": 1880
+            },
+            {
+              "word": "sister",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "says",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2500
+            },
+            {
+              "word": "with",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2500,
+              "endMs": 2680
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "big",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2940,
+              "endMs": 3180
+            },
+            {
+              "word": "smile",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After dinner, Dad pays and we say thank you.",
+          "translation_ko": "저녁을 먹은 뒤, 아빠가 계산하고 우리는 고맙다고 말해요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "dinner",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "Dad",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "pays",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 2160
+            },
+            {
+              "word": "we",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2160,
+              "endMs": 2360
+            },
+            {
+              "word": "say",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2360,
+              "endMs": 2500
+            },
+            {
+              "word": "thank",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2500,
+              "endMs": 2760
+            },
+            {
+              "word": "you",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2760,
+              "endMs": 2940
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "가족은 언제 식당에 갔나요?",
+      "type": "mc",
+      "options": [
+        "월요일 아침",
+        "금요일 저녁",
+        "토요일 점심",
+        "일요일 밤"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "On Friday evening — 금요일 저녁에 갔어요."
+    },
+    {
+      "question_ko": "종업원이 처음 가져다 준 것은?",
+      "type": "mc",
+      "options": [
+        "메뉴",
+        "물",
+        "음식",
+        "계산서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "brings us the menu — 메뉴를 가져다줬어요."
+    },
+    {
+      "question_ko": "\"I would like ~\"는 어떤 표현인가요?",
+      "type": "mc",
+      "options": [
+        "주문/부탁",
+        "거절",
+        "사과",
+        "작별"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "I would like ~는 \"~ 주세요\"라는 정중한 주문이에요."
+    },
+    {
+      "question_ko": "아이가 주문한 음식은?",
+      "type": "mc",
+      "options": [
+        "치킨과 밥",
+        "피자와 콜라",
+        "국과 빵",
+        "생선과 우유"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "chicken and rice — 치킨과 밥을 주문했어요."
+    },
+    {
+      "question_ko": "여동생은 음식을 먹고 뭐라고 했나요?",
+      "type": "mc",
+      "options": [
+        "맛없어요",
+        "정말 맛있어요",
+        "배불러요",
+        "매워요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "This is delicious — 정말 맛있다고 했어요."
+    }
+  ]
+}

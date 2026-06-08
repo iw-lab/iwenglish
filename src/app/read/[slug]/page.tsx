@@ -1,7 +1,13 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getBook } from "@/lib/data/books";
+import { getStaticBooks } from "@/lib/data/staticBooks";
 import { Reader } from "@/components/reader/Reader";
+
+// 모든 책을 빌드 타임에 정적 생성 → 읽기 페이지 0 Functions
+export function generateStaticParams() {
+  return getStaticBooks().map((b) => ({ slug: b.slug }));
+}
 
 export default async function ReadPage({
   params,

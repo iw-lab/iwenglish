@@ -7,6 +7,12 @@ import { Button } from "@/components/ui/Button";
 import { LevelBadge } from "@/components/ui/LevelBadge";
 import { SetupNotice } from "@/components/shell/SetupNotice";
 import { BookOpen, ArrowLeft } from "lucide-react";
+import { getStaticBooks } from "@/lib/data/staticBooks";
+
+// 모든 책 상세를 빌드 타임에 정적 생성 → 0 Functions
+export function generateStaticParams() {
+  return getStaticBooks().map((b) => ({ slug: b.slug }));
+}
 
 export default async function BookDetailPage({
   params,

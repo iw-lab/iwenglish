@@ -50,16 +50,35 @@ export function CloudSync() {
   useEffect(() => {
     if (!syncId) return;
     const timers: Record<string, ReturnType<typeof setTimeout>> = {};
+    const send = (key: string, value: unknown) =>
+      fetch("/api/sync", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id: syncId, key, value }),
+        keepalive: true,
+      }).catch(() => {});
+    const pending: Record<string, unknown> = {};
     const push = (key: string, value: unknown) => {
+      pending[key] = value;
       clearTimeout(timers[key]);
+      // 5초 디바운스 — 학습 세션의 잦은 변경을 묶어 D1 쓰기 최소화
       timers[key] = setTimeout(() => {
-        fetch("/api/sync", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ id: syncId, key, value }),
-        }).catch(() => {});
-      }, 1500);
+        send(key, pending[key]);
+        delete pending[key];
+      }, 5000);
     };
+    // 탭을 떠날 때 남은 변경 즉시 전송(keepalive)
+    const flush = () => {
+      for (const k of Object.keys(pending)) {
+        clearTimeout(timers[k]);
+        send(k, pending[k]);
+        delete pending[k];
+      }
+    };
+    const onHide = () => {
+      if (document.visibilityState === "hidden") flush();
+    };
+    document.addEventListener("visibilitychange", onHide);
     const unsubP = useProgress.subscribe((st) => {
       if (pulled.current) push("progress", st);
     });
@@ -69,6 +88,7 @@ export function CloudSync() {
     return () => {
       unsubP();
       unsubW();
+      document.removeEventListener("visibilitychange", onHide);
       Object.values(timers).forEach(clearTimeout);
     };
   }, [syncId]);

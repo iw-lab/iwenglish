@@ -6,6 +6,7 @@ import { Plus, Check, Loader2 } from "lucide-react";
 import { cn, normalizeWord } from "@/lib/utils";
 import { speak } from "@/lib/speech";
 import { useWordbook } from "@/store/wordbook";
+import { getDictWord } from "@/lib/dict";
 import { AudioButton } from "./AudioButton";
 import type { Word } from "@/types/book";
 
@@ -44,11 +45,24 @@ export function WordChip({
   const ensureData = () => {
     if (data || loading || !tappable) return;
     setLoading(true);
-    fetch(`/api/word?w=${encodeURIComponent(key)}`)
-      .then((r) => (r.ok ? r.json() : null))
-      .then((d: Word | null) => setData(d))
-      .catch(() => setData(null))
-      .finally(() => setLoading(false));
+    // ① 정적 사전(/dict.json, 캐시) 우선 — 서버 호출 0
+    getDictWord(key)
+      .then((local) => {
+        if (local) {
+          setData(local);
+          setLoading(false);
+          return;
+        }
+        // ② 사전에 없으면 그때만 /api/word
+        return fetch(`/api/word?w=${encodeURIComponent(key)}`)
+          .then((r) => (r.ok ? r.json() : null))
+          .then((d: Word | null) => setData(d))
+          .finally(() => setLoading(false));
+      })
+      .catch(() => {
+        setData(null);
+        setLoading(false);
+      });
   };
 
   /** 발음 1회 재생 — 생성된 mp3 우선, 없으면 Web Speech */

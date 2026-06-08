@@ -1,5 +1,6 @@
 import { createServerSupabase } from "@/lib/supabase/server";
 import { getStaticBooks, getStaticBook } from "@/lib/data/staticBooks";
+import { featureAvailability } from "@/lib/env";
 import type {
   Book,
   BookPage,
@@ -13,6 +14,8 @@ import type {
 
 /** 서재 목록 (published 책) */
 export async function getBooks(): Promise<BookSummary[]> {
+  // Supabase 미설정이면 쿠키 접근 없이 정적(→ 페이지 정적 프리렌더 가능)
+  if (!featureAvailability.supabase()) return getStaticBooks();
   const supabase = await createServerSupabase();
   if (!supabase) return getStaticBooks();
   const { data } = await supabase
@@ -36,6 +39,7 @@ export async function getBooks(): Promise<BookSummary[]> {
 
 /** 책 1권 전체(페이지·문장·타이밍·퀴즈 포함) */
 export async function getBook(slug: string): Promise<Book | null> {
+  if (!featureAvailability.supabase()) return getStaticBook(slug);
   const supabase = await createServerSupabase();
   if (!supabase) return getStaticBook(slug);
 

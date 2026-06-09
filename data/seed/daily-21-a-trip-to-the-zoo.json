@@ -1,0 +1,629 @@
+{
+  "slug": "daily-21-a-trip-to-the-zoo",
+  "title": "A Trip to the Zoo",
+  "title_ko": "동물원 나들이",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "반 친구들과 함께 동물원으로 현장학습을 떠나 여러 동물을 만나는 하루. 동물 이름과 묘사 표현을 풍부하게 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our class is going to the zoo today.",
+          "translation_ko": "오늘 우리 반은 동물원에 가요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 760
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "going",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "zoo",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 1840
+            },
+            {
+              "word": "today",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1840,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I am so excited I can hardly wait.",
+          "translation_ko": "너무 신나서 기다리기 힘들어요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 640,
+              "endMs": 1140
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 1140,
+              "endMs": 1340
+            },
+            {
+              "word": "so",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "excited",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 1600,
+              "endMs": 2020
+            },
+            {
+              "word": "I",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 2260,
+              "endMs": 2320
+            },
+            {
+              "word": "can",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 2320,
+              "endMs": 2520
+            },
+            {
+              "word": "hardly",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 2520,
+              "endMs": 2840
+            },
+            {
+              "word": "wait",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2840,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "First, we see the tall giraffes.",
+          "translation_ko": "먼저 우리는 키 큰 기린들을 봐요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "First",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 920,
+              "endMs": 1180
+            },
+            {
+              "word": "see",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1180,
+              "endMs": 1340
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1340,
+              "endMs": 1520
+            },
+            {
+              "word": "tall",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "giraffes",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They eat leaves from the high trees.",
+          "translation_ko": "기린들은 높은 나무의 잎을 먹어요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "eat",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 680
+            },
+            {
+              "word": "leaves",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 1220
+            },
+            {
+              "word": "from",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1220,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "high",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "trees",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The monkeys jump and play together.",
+          "translation_ko": "원숭이들은 함께 뛰고 놀아요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "monkeys",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "jump",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1320
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1800
+            },
+            {
+              "word": "play",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "together",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I watch the lions sleep in the sun.",
+          "translation_ko": "나는 사자들이 햇볕 아래 자는 걸 봐요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "watch",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 980
+            },
+            {
+              "word": "lions",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "sleep",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "in",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1680,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "sun",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We eat our lunch near the pond.",
+          "translation_ko": "우리는 연못 근처에서 점심을 먹어요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "eat",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "our",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 1080
+            },
+            {
+              "word": "lunch",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1420
+            },
+            {
+              "word": "near",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1900,
+              "endMs": 2420
+            },
+            {
+              "word": "pond",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2420,
+              "endMs": 2440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I draw a picture of my favorite animal.",
+          "translation_ko": "나는 가장 좋아하는 동물을 그려요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "draw",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 620,
+              "endMs": 900
+            },
+            {
+              "word": "picture",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "of",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "my",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1520
+            },
+            {
+              "word": "favorite",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1840
+            },
+            {
+              "word": "animal",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1840,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "What a wonderful day at the zoo!",
+          "translation_ko": "동물원에서 정말 멋진 하루였어요!",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "a",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "wonderful",
+              "charStart": 7,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 1080
+            },
+            {
+              "word": "day",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1480
+            },
+            {
+              "word": "at",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1900
+            },
+            {
+              "word": "zoo",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2060
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "누구와 함께 동물원에 갔나요?",
+      "type": "mc",
+      "options": [
+        "가족",
+        "우리 반",
+        "친구 한 명",
+        "혼자"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Our class — 우리 반과 함께요."
+    },
+    {
+      "question_ko": "가장 먼저 본 동물은?",
+      "type": "mc",
+      "options": [
+        "사자",
+        "기린",
+        "원숭이",
+        "코끼리"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "First, we see the tall giraffes."
+    },
+    {
+      "question_ko": "기린은 무엇을 먹나요?",
+      "type": "mc",
+      "options": [
+        "고기",
+        "높은 나무의 잎",
+        "물고기",
+        "풀뿌리"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "eat leaves from the high trees."
+    },
+    {
+      "question_ko": "사자들은 무엇을 하고 있었나요?",
+      "type": "mc",
+      "options": [
+        "뛰어놀아요",
+        "햇볕 아래 자요",
+        "헤엄쳐요",
+        "울어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "the lions sleep in the sun."
+    },
+    {
+      "question_ko": "점심은 어디서 먹었나요?",
+      "type": "mc",
+      "options": [
+        "버스 안",
+        "연못 근처",
+        "사자 우리 앞",
+        "정문"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "near the pond — 연못 근처에서요."
+    }
+  ]
+}

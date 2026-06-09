@@ -1,0 +1,534 @@
+{
+  "slug": "daily-18-helping-at-home",
+  "title": "I Help at Home",
+  "title_ko": "집안일을 도와요",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "가족을 위해 여러 집안일을 스스로 돕는 하루. 집안일 동사와 돕는 마음에 관한 표현을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Today I want to help my family.",
+          "translation_ko": "오늘 나는 가족을 돕고 싶어요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 560,
+              "endMs": 1000
+            },
+            {
+              "word": "I",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 1160,
+              "endMs": 1220
+            },
+            {
+              "word": "want",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1420,
+              "endMs": 1640
+            },
+            {
+              "word": "help",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1640,
+              "endMs": 1760
+            },
+            {
+              "word": "my",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "family",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 2000,
+              "endMs": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I make my bed in the morning.",
+          "translation_ko": "아침에 이불을 정리해요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "make",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 780,
+              "endMs": 1180
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "bed",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1520,
+              "endMs": 1820
+            },
+            {
+              "word": "in",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "morning",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 2380,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I help Mom set the table.",
+          "translation_ko": "엄마가 상 차리는 걸 도와요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "help",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "Mom",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 1460
+            },
+            {
+              "word": "set",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1460,
+              "endMs": 2080
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 2080,
+              "endMs": 2520
+            },
+            {
+              "word": "table",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 2520,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After dinner, I wash the dishes.",
+          "translation_ko": "저녁을 먹고 설거지를 해요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "dinner",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "I",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1340
+            },
+            {
+              "word": "wash",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1880
+            },
+            {
+              "word": "dishes",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I water the plants by the window.",
+          "translation_ko": "창가의 화분에 물을 줘요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "water",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 620
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 860
+            },
+            {
+              "word": "plants",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 860,
+              "endMs": 1140
+            },
+            {
+              "word": "by",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "window",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 1760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I put my toys back in the box.",
+          "translation_ko": "장난감을 상자에 다시 넣어요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 500,
+              "endMs": 940
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 940,
+              "endMs": 1060
+            },
+            {
+              "word": "my",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "toys",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "back",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1540,
+              "endMs": 1880
+            },
+            {
+              "word": "in",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1880,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2020,
+              "endMs": 2120
+            },
+            {
+              "word": "box",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2120,
+              "endMs": 2380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Thank you for helping,\" says Mom.",
+          "translation_ko": "\"도와줘서 고마워.\" 엄마가 말해요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 400
+            },
+            {
+              "word": "for",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 400,
+              "endMs": 600
+            },
+            {
+              "word": "helping",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 600,
+              "endMs": 1600
+            },
+            {
+              "word": "says",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1600
+            },
+            {
+              "word": "Mom",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1600,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Helping my family makes me happy.",
+          "translation_ko": "가족을 도우니 기뻐요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Helping",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "family",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 700,
+              "endMs": 1080
+            },
+            {
+              "word": "makes",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "me",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "happy",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 1960
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "오늘 무엇을 하고 싶었나요?",
+      "type": "mc",
+      "options": [
+        "놀기",
+        "가족 돕기",
+        "자기",
+        "사기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "help my family — 가족을 돕고 싶었어요."
+    },
+    {
+      "question_ko": "아침에 무엇을 정리했나요?",
+      "type": "mc",
+      "options": [
+        "책상",
+        "이불",
+        "신발",
+        "가방"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "make my bed — 이불을 정리해요."
+    },
+    {
+      "question_ko": "저녁을 먹고 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "설거지",
+        "빨래",
+        "청소기",
+        "요리"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "wash the dishes — 설거지를 했어요."
+    },
+    {
+      "question_ko": "창가의 무엇에 물을 줬나요?",
+      "type": "mc",
+      "options": [
+        "화분",
+        "강아지",
+        "잔디",
+        "꽃밭"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "water the plants — 화분에 물을 줬어요."
+    },
+    {
+      "question_ko": "가족을 도우니 기분이 어땠나요?",
+      "type": "mc",
+      "options": [
+        "슬퍼요",
+        "기뻐요",
+        "피곤해요",
+        "화나요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "makes me happy — 기뻐요."
+    }
+  ]
+}

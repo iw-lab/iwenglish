@@ -33,7 +33,7 @@ function main() {
   mkdirSync(SHARED, { recursive: true });
   // base → 대표 단어(소문자 정규화). 책 전체에서 수집·dedup
   const words = new Map<string, string>();
-  for (const f of readdirSync(SEED_DIR).filter((x) => x.endsWith(".json"))) {
+  for (const f of readdirSync(SEED_DIR).filter((x) => x.endsWith(".json") && !x.startsWith("_"))) {
     const b = JSON.parse(readFileSync(join(SEED_DIR, f), "utf8")) as SeedBook;
     for (const p of b.pages)
       for (const s of p.sentences)

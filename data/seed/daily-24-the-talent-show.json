@@ -1,0 +1,678 @@
+{
+  "slug": "daily-24-the-talent-show",
+  "title": "The Talent Show",
+  "title_ko": "장기자랑",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "학교 장기자랑에서 피아노 연주를 준비하고 무대에 오르는 이야기. 연습과 용기, 성취감을 풍부한 표현으로 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our school is having a talent show.",
+          "translation_ko": "우리 학교에서 장기자랑이 열려요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "school",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1000
+            },
+            {
+              "word": "having",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1540
+            },
+            {
+              "word": "talent",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "show",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I decide to play a song on the piano.",
+          "translation_ko": "나는 피아노로 노래를 연주하기로 해요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "decide",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "play",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1100
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1500
+            },
+            {
+              "word": "song",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1500,
+              "endMs": 1500
+            },
+            {
+              "word": "on",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 1820
+            },
+            {
+              "word": "piano",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1820,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Every day after school, I practice hard.",
+          "translation_ko": "매일 학교가 끝나고 열심히 연습해요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "day",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "after",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 1040
+            },
+            {
+              "word": "school",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1040,
+              "endMs": 1440
+            },
+            {
+              "word": "I",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "practice",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2440
+            },
+            {
+              "word": "hard",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2440,
+              "endMs": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the day of the show, my heart beats fast.",
+          "translation_ko": "공연 날, 내 심장이 빠르게 뛰어요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "day",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 720
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1020
+            },
+            {
+              "word": "show",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "my",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "heart",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1600,
+              "endMs": 1860
+            },
+            {
+              "word": "beats",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "fast",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2160,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The lights are bright and the hall is full.",
+          "translation_ko": "조명은 밝고 강당은 가득 찼어요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "lights",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 180,
+              "endMs": 400
+            },
+            {
+              "word": "are",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 400,
+              "endMs": 660
+            },
+            {
+              "word": "bright",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 900,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1300,
+              "endMs": 1640
+            },
+            {
+              "word": "hall",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1640,
+              "endMs": 1640
+            },
+            {
+              "word": "is",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 1640,
+              "endMs": 1940
+            },
+            {
+              "word": "full",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 1940,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I take a deep breath and begin to play.",
+          "translation_ko": "나는 깊게 숨을 쉬고 연주를 시작해요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "take",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 360
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 640
+            },
+            {
+              "word": "deep",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 800
+            },
+            {
+              "word": "breath",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 800,
+              "endMs": 1160
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1880
+            },
+            {
+              "word": "begin",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "play",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2520,
+              "endMs": 2740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My fingers move softly across the keys.",
+          "translation_ko": "내 손가락이 건반 위를 부드럽게 움직여요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "fingers",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 900
+            },
+            {
+              "word": "move",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1400
+            },
+            {
+              "word": "softly",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 2180
+            },
+            {
+              "word": "across",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2180,
+              "endMs": 2820
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2820,
+              "endMs": 3100
+            },
+            {
+              "word": "keys",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 3100,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When I finish, everyone claps loudly.",
+          "translation_ko": "내가 끝내자 모두가 크게 박수쳐요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 860
+            },
+            {
+              "word": "finish",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1280
+            },
+            {
+              "word": "everyone",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1800,
+              "endMs": 2220
+            },
+            {
+              "word": "claps",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2220,
+              "endMs": 2640
+            },
+            {
+              "word": "loudly",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2640,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I feel proud that I did my best.",
+          "translation_ko": "최선을 다해서 자랑스러워요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 440
+            },
+            {
+              "word": "proud",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "that",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "I",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "did",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1380
+            },
+            {
+              "word": "my",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1380,
+              "endMs": 1600
+            },
+            {
+              "word": "best",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "학교에서 무엇이 열렸나요?",
+      "type": "mc",
+      "options": [
+        "운동회",
+        "장기자랑",
+        "소풍",
+        "시험"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "a talent show — 장기자랑이에요."
+    },
+    {
+      "question_ko": "나는 무엇으로 연주하기로 했나요?",
+      "type": "mc",
+      "options": [
+        "기타",
+        "피아노",
+        "바이올린",
+        "북"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "play a song on the piano."
+    },
+    {
+      "question_ko": "언제 연습했나요?",
+      "type": "mc",
+      "options": [
+        "아침마다",
+        "매일 학교가 끝나고",
+        "주말에만",
+        "안 했어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Every day after school, I practice hard."
+    },
+    {
+      "question_ko": "공연 날 마음이 어땠나요?",
+      "type": "mc",
+      "options": [
+        "심장이 빠르게 뛰어요",
+        "졸려요",
+        "화나요",
+        "심심해요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "my heart beats fast — 긴장됐어요."
+    },
+    {
+      "question_ko": "연주를 마치자 사람들이 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "나갔어요",
+        "크게 박수쳤어요",
+        "조용했어요",
+        "노래했어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "everyone claps loudly."
+    }
+  ]
+}

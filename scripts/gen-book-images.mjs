@@ -62,7 +62,8 @@ function runCodex({ dir, out, prompt, anchor }) {
 }
 
 async function genOne(task) {
-  if (existsSync(task.out)) {
+  // png 또는 이미 압축된 webp 가 있으면 skip (재생성 방지)
+  if (existsSync(task.out) || existsSync(task.out.replace(/\.png$/, ".webp"))) {
     console.log(`↩︎ ${task.label} 있음`);
     return true;
   }

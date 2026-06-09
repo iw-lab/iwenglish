@@ -1,0 +1,527 @@
+{
+  "slug": "daily-17-at-the-library",
+  "title": "At the Library",
+  "title_ko": "도서관에서",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "토요일에 도서관에 가서 좋아하는 책을 찾아 빌려요. 도서관 규칙과 읽기에 관한 표현을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "On Saturday, we go to the library.",
+          "translation_ko": "토요일에 우리는 도서관에 가요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Saturday",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "we",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1280
+            },
+            {
+              "word": "go",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1400
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1520
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1700
+            },
+            {
+              "word": "library",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1700,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "There are so many books here.",
+          "translation_ko": "여기엔 책이 정말 많아요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "There",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "are",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "so",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 820
+            },
+            {
+              "word": "many",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1120
+            },
+            {
+              "word": "books",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "here",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1380,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We must be quiet inside.",
+          "translation_ko": "안에서는 조용히 해야 해요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "must",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 440
+            },
+            {
+              "word": "be",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "quiet",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "inside",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I look for a book about animals.",
+          "translation_ko": "나는 동물에 관한 책을 찾아요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "look",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 560,
+              "endMs": 780
+            },
+            {
+              "word": "for",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 940,
+              "endMs": 1220
+            },
+            {
+              "word": "book",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1240
+            },
+            {
+              "word": "about",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1600
+            },
+            {
+              "word": "animals",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I find a big book about tigers.",
+          "translation_ko": "호랑이에 관한 큰 책을 찾았어요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "find",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 700
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 700,
+              "endMs": 960
+            },
+            {
+              "word": "big",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "book",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "about",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1940
+            },
+            {
+              "word": "tigers",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I sit down and read quietly.",
+          "translation_ko": "나는 앉아서 조용히 읽어요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "sit",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 500,
+              "endMs": 700
+            },
+            {
+              "word": "down",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1400
+            },
+            {
+              "word": "read",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "quietly",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1680,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I borrow two books to take home.",
+          "translation_ko": "집에 가져갈 책 두 권을 빌려요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "borrow",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "two",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1560
+            },
+            {
+              "word": "books",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1560,
+              "endMs": 1780
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1780,
+              "endMs": 2140
+            },
+            {
+              "word": "take",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "home",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I can't wait to read them all.",
+          "translation_ko": "얼른 다 읽고 싶어요.",
+          "audio": "/seed/daily-17-at-the-library/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "can't",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 560
+            },
+            {
+              "word": "wait",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "read",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1180
+            },
+            {
+              "word": "them",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "all",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1400,
+              "endMs": 1560
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "언제 도서관에 갔나요?",
+      "type": "mc",
+      "options": [
+        "월요일",
+        "토요일",
+        "금요일",
+        "수요일"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "On Saturday — 토요일이에요."
+    },
+    {
+      "question_ko": "도서관 안에서는 어떻게 해야 하나요?",
+      "type": "mc",
+      "options": [
+        "뛰어요",
+        "노래해요",
+        "조용히 해요",
+        "크게 말해요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "must be quiet — 조용히 해야 해요."
+    },
+    {
+      "question_ko": "어떤 책을 찾았나요?",
+      "type": "mc",
+      "options": [
+        "우주",
+        "동물",
+        "요리",
+        "역사"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "a book about animals."
+    },
+    {
+      "question_ko": "큰 책은 무엇에 관한 것이었나요?",
+      "type": "mc",
+      "options": [
+        "사자",
+        "호랑이",
+        "코끼리",
+        "곰"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "a big book about tigers."
+    },
+    {
+      "question_ko": "책을 몇 권 빌렸나요?",
+      "type": "mc",
+      "options": [
+        "한 권",
+        "두 권",
+        "세 권",
+        "다섯 권"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "borrow two books — 두 권이에요."
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "slug": "daily-19-the-soccer-game",
+  "title": "The Soccer Game",
+  "title_ko": "축구 경기",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "팀과 함께 큰 축구 경기에 나가 골을 넣고 승리하는 이야기. 운동 표현과 협동, 자신감을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Today is our big soccer game.",
+          "translation_ko": "오늘은 우리의 큰 축구 경기예요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "our",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1080
+            },
+            {
+              "word": "big",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "soccer",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "game",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I wear my team's blue shirt.",
+          "translation_ko": "나는 우리 팀의 파란 셔츠를 입어요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "wear",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 660,
+              "endMs": 840
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "team's",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1580
+            },
+            {
+              "word": "blue",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "shirt",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The other team is very fast.",
+          "translation_ko": "상대 팀은 아주 빨라요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "other",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 500,
+              "endMs": 780
+            },
+            {
+              "word": "team",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1080
+            },
+            {
+              "word": "is",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "very",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1720
+            },
+            {
+              "word": "fast",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I run after the ball as fast as I can.",
+          "translation_ko": "나는 공을 따라 힘껏 달려요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "run",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 360,
+              "endMs": 580
+            },
+            {
+              "word": "after",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "ball",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "as",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "fast",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "as",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "I",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "can",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My friend passes the ball to me.",
+          "translation_ko": "친구가 나에게 공을 건네줘요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "friend",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "passes",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "ball",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 1820
+            },
+            {
+              "word": "to",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "me",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I kick the ball into the goal!",
+          "translation_ko": "나는 공을 골대 안으로 차 넣어요!",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "kick",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 800
+            },
+            {
+              "word": "ball",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "into",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1700
+            },
+            {
+              "word": "goal",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Everyone cheers and claps for me.",
+          "translation_ko": "모두가 나를 향해 환호하고 박수쳐요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "cheers",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 880,
+              "endMs": 1300
+            },
+            {
+              "word": "claps",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "for",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1760
+            },
+            {
+              "word": "me",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 1900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We win the game and feel proud.",
+          "translation_ko": "우리는 경기를 이기고 자랑스러워요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "win",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "game",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1880
+            },
+            {
+              "word": "feel",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "proud",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2180,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "오늘은 무슨 경기였나요?",
+      "type": "mc",
+      "options": [
+        "야구",
+        "축구",
+        "농구",
+        "달리기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "soccer game — 축구 경기예요."
+    },
+    {
+      "question_ko": "우리 팀 셔츠는 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "빨강",
+        "파랑",
+        "노랑",
+        "초록"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "blue shirt — 파란 셔츠예요."
+    },
+    {
+      "question_ko": "누가 나에게 공을 건네줬나요?",
+      "type": "mc",
+      "options": [
+        "선생님",
+        "친구",
+        "상대 선수",
+        "감독"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "My friend passes the ball."
+    },
+    {
+      "question_ko": "나는 공을 어디에 넣었나요?",
+      "type": "mc",
+      "options": [
+        "밖으로",
+        "골대 안",
+        "친구에게",
+        "벤치로"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "into the goal — 골대 안으로요."
+    },
+    {
+      "question_ko": "경기 결과는 어땠나요?",
+      "type": "mc",
+      "options": [
+        "졌어요",
+        "비겼어요",
+        "이겼어요",
+        "취소됐어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "We win the game — 이겼어요."
+    }
+  ]
+}

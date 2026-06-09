@@ -1,0 +1,548 @@
+{
+  "slug": "daily-20-grandmas-house",
+  "title": "Grandma's House",
+  "title_ko": "할머니 댁",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "일요일에 할머니 댁을 찾아가 함께 요리하고 이야기를 나누는 따뜻한 하루. 가족과 정겨운 표현을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "On Sunday, we visit Grandma's house.",
+          "translation_ko": "일요일에 우리는 할머니 댁에 가요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 1020
+            },
+            {
+              "word": "Sunday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 1020,
+              "endMs": 1340
+            },
+            {
+              "word": "we",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1600,
+              "endMs": 1700
+            },
+            {
+              "word": "visit",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "Grandma's",
+              "charStart": 20,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2440
+            },
+            {
+              "word": "house",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2440,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandma gives me a warm hug.",
+          "translation_ko": "할머니가 따뜻하게 안아주세요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "gives",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 460,
+              "endMs": 760
+            },
+            {
+              "word": "me",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 960
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "warm",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "hug",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Her house smells like fresh bread.",
+          "translation_ko": "할머니 집에서는 갓 구운 빵 냄새가 나요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "house",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "smells",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "like",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 900,
+              "endMs": 1300
+            },
+            {
+              "word": "fresh",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "bread",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1560,
+              "endMs": 1900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We cook lunch together in the kitchen.",
+          "translation_ko": "우리는 부엌에서 함께 점심을 만들어요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "cook",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 620,
+              "endMs": 860
+            },
+            {
+              "word": "lunch",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1200
+            },
+            {
+              "word": "together",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1560
+            },
+            {
+              "word": "in",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1740
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 1960
+            },
+            {
+              "word": "kitchen",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 1960,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandma tells me a story from long ago.",
+          "translation_ko": "할머니가 옛날이야기를 들려주세요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "tells",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "me",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1080
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "story",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1540
+            },
+            {
+              "word": "from",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 2060
+            },
+            {
+              "word": "long",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2060,
+              "endMs": 2320
+            },
+            {
+              "word": "ago",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2320,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We sit in the garden and drink tea.",
+          "translation_ko": "우리는 정원에 앉아 차를 마셔요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "sit",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "in",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "garden",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1900
+            },
+            {
+              "word": "drink",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "tea",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It is time to go home now.",
+          "translation_ko": "이제 집에 갈 시간이에요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 120,
+              "endMs": 400
+            },
+            {
+              "word": "time",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 620
+            },
+            {
+              "word": "to",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "go",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "home",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "now",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I hope we come back again soon.",
+          "translation_ko": "곧 다시 오면 좋겠어요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "hope",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 360
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 580
+            },
+            {
+              "word": "come",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 780
+            },
+            {
+              "word": "back",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 780,
+              "endMs": 1080
+            },
+            {
+              "word": "again",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1080,
+              "endMs": 1400
+            },
+            {
+              "word": "soon",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1400,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "언제 할머니 댁에 갔나요?",
+      "type": "mc",
+      "options": [
+        "토요일",
+        "일요일",
+        "월요일",
+        "금요일"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "On Sunday — 일요일이에요."
+    },
+    {
+      "question_ko": "할머니가 무엇을 해주셨나요?",
+      "type": "mc",
+      "options": [
+        "선물",
+        "따뜻한 포옹",
+        "용돈",
+        "노래"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "a warm hug — 따뜻한 포옹이에요."
+    },
+    {
+      "question_ko": "할머니 집에서 무슨 냄새가 났나요?",
+      "type": "mc",
+      "options": [
+        "꽃",
+        "갓 구운 빵",
+        "커피",
+        "비누"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "smells like fresh bread."
+    },
+    {
+      "question_ko": "부엌에서 함께 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "청소",
+        "점심 만들기",
+        "설거지",
+        "공부"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "cook lunch together."
+    },
+    {
+      "question_ko": "정원에서 무엇을 마셨나요?",
+      "type": "mc",
+      "options": [
+        "주스",
+        "물",
+        "차",
+        "우유"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "drink tea — 차를 마셨어요."
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "slug": "daily-14-my-cat-nabi",
+  "title": "My Cat Nabi",
+  "title_ko": "우리 고양이 나비",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "내가 키우는 작은 고양이 나비를 소개해요. 반려동물과 기본 형용사를 쉬운 문장으로 만나요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "I have a little cat.",
+          "translation_ko": "나는 작은 고양이가 있어요.",
+          "audio": "/seed/daily-14-my-cat-nabi/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 540
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 740
+            },
+            {
+              "word": "little",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 900
+            },
+            {
+              "word": "cat",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Her name is Nabi.",
+          "translation_ko": "이름은 나비예요.",
+          "audio": "/seed/daily-14-my-cat-nabi/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "name",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "Nabi",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Nabi is soft and white.",
+          "translation_ko": "나비는 보드랍고 하얘요.",
+          "audio": "/seed/daily-14-my-cat-nabi/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Nabi",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 880
+            },
+            {
+              "word": "soft",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "white",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She likes to play with a ball.",
+          "translation_ko": "나비는 공을 가지고 노는 걸 좋아해요.",
+          "audio": "/seed/daily-14-my-cat-nabi/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "likes",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 1120
+            },
+            {
+              "word": "play",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1140
+            },
+            {
+              "word": "with",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "ball",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She sleeps on my bed.",
+          "translation_ko": "나비는 내 침대에서 자요.",
+          "audio": "/seed/daily-14-my-cat-nabi/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "sleeps",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 720
+            },
+            {
+              "word": "on",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1040
+            },
+            {
+              "word": "my",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1260
+            },
+            {
+              "word": "bed",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I love my cat Nabi.",
+          "translation_ko": "나는 우리 나비를 사랑해요.",
+          "audio": "/seed/daily-14-my-cat-nabi/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "love",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 740
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "cat",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1440
+            },
+            {
+              "word": "Nabi",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1760,
+              "endMs": 1900
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "나는 어떤 동물을 키우나요?",
+      "type": "mc",
+      "options": [
+        "강아지",
+        "고양이",
+        "토끼",
+        "새"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "cat은 고양이예요."
+    },
+    {
+      "question_ko": "고양이의 이름은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "나비",
+        "코코",
+        "보리",
+        "초코"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Her name is Nabi."
+    },
+    {
+      "question_ko": "나비는 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "검정",
+        "노랑",
+        "하양",
+        "갈색"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "white는 하얀색이에요."
+    },
+    {
+      "question_ko": "나비는 무엇을 가지고 노나요?",
+      "type": "mc",
+      "options": [
+        "공",
+        "인형",
+        "끈",
+        "상자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "play with a ball — 공을 가지고 놀아요."
+    },
+    {
+      "question_ko": "나비는 어디서 자나요?",
+      "type": "mc",
+      "options": [
+        "바닥",
+        "소파",
+        "내 침대",
+        "상자"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "sleeps on my bed — 내 침대에서 자요."
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "slug": "daily-22-show-and-tell",
+  "title": "Show and Tell",
+  "title_ko": "발표 시간",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "학교 발표 시간에 좋아하는 장난감 로봇을 친구들에게 소개해요. 긴장을 이기고 발표하는 용기를 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Today is show and tell at school.",
+          "translation_ko": "오늘은 학교에서 발표하는 날이에요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 900
+            },
+            {
+              "word": "show",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 900,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1260
+            },
+            {
+              "word": "tell",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1520
+            },
+            {
+              "word": "at",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1820
+            },
+            {
+              "word": "school",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Each of us brings something special.",
+          "translation_ko": "우리는 각자 특별한 걸 가져와요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "of",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 580
+            },
+            {
+              "word": "us",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "brings",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "something",
+              "charStart": 18,
+              "charEnd": 27,
+              "startMs": 1140,
+              "endMs": 1540
+            },
+            {
+              "word": "special",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1540,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I bring my favorite toy robot.",
+          "translation_ko": "나는 가장 좋아하는 장난감 로봇을 가져와요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "bring",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 680
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "favorite",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1400
+            },
+            {
+              "word": "toy",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1720
+            },
+            {
+              "word": "robot",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 1960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At first, I feel a little nervous.",
+          "translation_ko": "처음에는 조금 긴장돼요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "first",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 620
+            },
+            {
+              "word": "I",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 1080,
+              "endMs": 1280
+            },
+            {
+              "word": "feel",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1480,
+              "endMs": 1640
+            },
+            {
+              "word": "little",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "nervous",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I stand in front of the class.",
+          "translation_ko": "나는 반 앞에 서요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "stand",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 780
+            },
+            {
+              "word": "in",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "front",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1120
+            },
+            {
+              "word": "of",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1380
+            },
+            {
+              "word": "class",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1380,
+              "endMs": 1700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "This robot was a gift from my dad.",
+          "translation_ko": "이 로봇은 아빠가 준 선물이에요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "robot",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 760
+            },
+            {
+              "word": "was",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "gift",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1340
+            },
+            {
+              "word": "from",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "my",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "dad",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My friends ask me many questions.",
+          "translation_ko": "친구들이 나에게 여러 질문을 해요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "friends",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "ask",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "me",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "many",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1740
+            },
+            {
+              "word": "questions",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1740,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I answer them with a big smile.",
+          "translation_ko": "나는 활짝 웃으며 대답해요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "answer",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 760
+            },
+            {
+              "word": "them",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "with",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1120
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1340
+            },
+            {
+              "word": "big",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "smile",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1580,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sharing my robot was really fun.",
+          "translation_ko": "내 로봇을 보여주는 건 정말 즐거웠어요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sharing",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 640
+            },
+            {
+              "word": "robot",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "was",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "really",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1200,
+              "endMs": 1560
+            },
+            {
+              "word": "fun",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 1840
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "오늘은 무슨 날인가요?",
+      "type": "mc",
+      "options": [
+        "소풍",
+        "발표하는 날",
+        "운동회",
+        "시험"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "show and tell — 발표하는 날이에요."
+    },
+    {
+      "question_ko": "나는 무엇을 가져왔나요?",
+      "type": "mc",
+      "options": [
+        "책",
+        "장난감 로봇",
+        "그림",
+        "공"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "my favorite toy robot."
+    },
+    {
+      "question_ko": "처음에 기분이 어땠나요?",
+      "type": "mc",
+      "options": [
+        "신나요",
+        "조금 긴장돼요",
+        "졸려요",
+        "화나요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "a little nervous — 조금 긴장됐어요."
+    },
+    {
+      "question_ko": "로봇은 누가 준 선물인가요?",
+      "type": "mc",
+      "options": [
+        "엄마",
+        "아빠",
+        "할머니",
+        "친구"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "a gift from my dad."
+    },
+    {
+      "question_ko": "친구들에게 어떻게 대답했나요?",
+      "type": "mc",
+      "options": [
+        "울면서",
+        "활짝 웃으며",
+        "화내며",
+        "작게"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "with a big smile — 활짝 웃으며요."
+    }
+  ]
+}

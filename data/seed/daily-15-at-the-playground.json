@@ -1,0 +1,460 @@
+{
+  "slug": "daily-15-at-the-playground",
+  "title": "At the Playground",
+  "title_ko": "놀이터에서",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "학교가 끝나고 친구들과 놀이터에서 노는 즐거운 오후. 놀이 기구 이름과 함께하는 표현을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "After school, I go to the playground.",
+          "translation_ko": "학교가 끝나고 놀이터에 가요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 760
+            },
+            {
+              "word": "I",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1260
+            },
+            {
+              "word": "go",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1380
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1640
+            },
+            {
+              "word": "playground",
+              "charStart": 26,
+              "charEnd": 36,
+              "startMs": 1640,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My friends are there too.",
+          "translation_ko": "친구들도 거기 있어요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "friends",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "are",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 680
+            },
+            {
+              "word": "there",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 680,
+              "endMs": 820
+            },
+            {
+              "word": "too",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 820,
+              "endMs": 1120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I climb up and slide down.",
+          "translation_ko": "나는 올라가서 미끄럼을 타요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "climb",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "up",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "slide",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "down",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We play on the swings together.",
+          "translation_ko": "우리는 함께 그네를 타요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "play",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "on",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "swings",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1460
+            },
+            {
+              "word": "together",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1460,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Push me higher!\" I say.",
+          "translation_ko": "\"더 높이 밀어줘!\" 내가 말해요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Push",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "me",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 1220
+            },
+            {
+              "word": "higher",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1660
+            },
+            {
+              "word": "I",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 2260,
+              "endMs": 2420
+            },
+            {
+              "word": "say",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 2420,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We run and laugh for a long time.",
+          "translation_ko": "우리는 오랫동안 뛰고 웃어요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "run",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 1620
+            },
+            {
+              "word": "laugh",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1620,
+              "endMs": 1940
+            },
+            {
+              "word": "for",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1940,
+              "endMs": 2300
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "long",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2520,
+              "endMs": 2860
+            },
+            {
+              "word": "time",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2860,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Playing with friends is so much fun.",
+          "translation_ko": "친구들과 노는 건 정말 재미있어요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Playing",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "with",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 960
+            },
+            {
+              "word": "friends",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "is",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1540
+            },
+            {
+              "word": "so",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "much",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1760,
+              "endMs": 1980
+            },
+            {
+              "word": "fun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "언제 놀이터에 갔나요?",
+      "type": "mc",
+      "options": [
+        "학교 전에",
+        "학교가 끝나고",
+        "밤에",
+        "주말 아침"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "After school — 학교가 끝나고요."
+    },
+    {
+      "question_ko": "놀이터에 누가 함께 있었나요?",
+      "type": "mc",
+      "options": [
+        "선생님",
+        "친구들",
+        "가족",
+        "아무도 없음"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "My friends are there too."
+    },
+    {
+      "question_ko": "미끄럼틀에서 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "올라가서 미끄럼 탐",
+        "그냥 봄",
+        "앉아 있음",
+        "밀어줌"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "climb up and slide down."
+    },
+    {
+      "question_ko": "함께 무엇을 탔나요?",
+      "type": "mc",
+      "options": [
+        "시소",
+        "그네",
+        "자전거",
+        "버스"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "swings는 그네예요."
+    },
+    {
+      "question_ko": "\"더 높이 밀어줘\"는 무엇을 탈 때 한 말일까요?",
+      "type": "mc",
+      "options": [
+        "미끄럼틀",
+        "그네",
+        "철봉",
+        "모래놀이"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "그네를 밀어달라는 말이에요."
+    }
+  ]
+}

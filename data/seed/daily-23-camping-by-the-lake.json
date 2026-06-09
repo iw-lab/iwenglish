@@ -1,0 +1,692 @@
+{
+  "slug": "daily-23-camping-by-the-lake",
+  "title": "Camping by the Lake",
+  "title_ko": "호숫가 캠핑",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "가족과 호숫가로 캠핑을 떠나 텐트를 치고 별을 보며 보내는 특별한 주말. 자연과 캠핑 표현을 풍부하게 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "This weekend, my family goes camping by the lake.",
+          "translation_ko": "이번 주말에 우리 가족은 호숫가로 캠핑을 가요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "weekend",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 760
+            },
+            {
+              "word": "my",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "family",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1600
+            },
+            {
+              "word": "goes",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1900
+            },
+            {
+              "word": "camping",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 1900,
+              "endMs": 2240
+            },
+            {
+              "word": "by",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2520,
+              "endMs": 2700
+            },
+            {
+              "word": "lake",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2700,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We put up our tent under the tall trees.",
+          "translation_ko": "우리는 큰 나무 아래에 텐트를 쳐요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "put",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 520
+            },
+            {
+              "word": "up",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 680
+            },
+            {
+              "word": "our",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "tent",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1160
+            },
+            {
+              "word": "under",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "tall",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 1940
+            },
+            {
+              "word": "trees",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad teaches me how to start a small fire.",
+          "translation_ko": "아빠가 작은 불 피우는 법을 가르쳐줘요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "teaches",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "me",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "how",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1160
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1160,
+              "endMs": 1460
+            },
+            {
+              "word": "start",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1580
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "small",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1820,
+              "endMs": 2100
+            },
+            {
+              "word": "fire",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We cook dinner and eat under the sky.",
+          "translation_ko": "우리는 저녁을 만들어 하늘 아래에서 먹어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "cook",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 680
+            },
+            {
+              "word": "dinner",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1260
+            },
+            {
+              "word": "eat",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1520
+            },
+            {
+              "word": "under",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1780,
+              "endMs": 2000
+            },
+            {
+              "word": "sky",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2000,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When night comes, the stars shine brightly.",
+          "translation_ko": "밤이 되면 별들이 밝게 빛나요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "night",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "comes",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "stars",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "shine",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2280
+            },
+            {
+              "word": "brightly",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We hear the sound of frogs near the water.",
+          "translation_ko": "물가에서 개구리 소리가 들려요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "hear",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "sound",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "of",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1700
+            },
+            {
+              "word": "frogs",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 1700
+            },
+            {
+              "word": "near",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1940,
+              "endMs": 2140
+            },
+            {
+              "word": "water",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2140,
+              "endMs": 2360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "In the morning, the air feels cool and fresh.",
+          "translation_ko": "아침에는 공기가 시원하고 상쾌해요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "In",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 140,
+              "endMs": 400
+            },
+            {
+              "word": "morning",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 400,
+              "endMs": 600
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1100
+            },
+            {
+              "word": "air",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1100,
+              "endMs": 1260
+            },
+            {
+              "word": "feels",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "cool",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1560,
+              "endMs": 1980
+            },
+            {
+              "word": "and",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1980,
+              "endMs": 2320
+            },
+            {
+              "word": "fresh",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2320,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We swim in the clear lake water.",
+          "translation_ko": "우리는 맑은 호수에서 헤엄쳐요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "swim",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "in",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "clear",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "lake",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "water",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I will always remember this special trip.",
+          "translation_ko": "나는 이 특별한 여행을 늘 기억할 거예요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "will",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "always",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "remember",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1380
+            },
+            {
+              "word": "this",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1380,
+              "endMs": 1740
+            },
+            {
+              "word": "special",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1740,
+              "endMs": 2180
+            },
+            {
+              "word": "trip",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2180,
+              "endMs": 2440
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "가족과 어디로 캠핑을 갔나요?",
+      "type": "mc",
+      "options": [
+        "바닷가",
+        "호숫가",
+        "산꼭대기",
+        "공원"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "camping by the lake — 호숫가예요."
+    },
+    {
+      "question_ko": "텐트를 어디에 쳤나요?",
+      "type": "mc",
+      "options": [
+        "바위 위",
+        "큰 나무 아래",
+        "물 안",
+        "주차장"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "under the tall trees."
+    },
+    {
+      "question_ko": "아빠가 무엇을 가르쳐줬나요?",
+      "type": "mc",
+      "options": [
+        "헤엄치기",
+        "불 피우는 법",
+        "낚시",
+        "요리"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "how to start a small fire."
+    },
+    {
+      "question_ko": "밤에 무엇이 밝게 빛났나요?",
+      "type": "mc",
+      "options": [
+        "달",
+        "별",
+        "등불",
+        "도시"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "the stars shine brightly — 별이에요."
+    },
+    {
+      "question_ko": "물가에서 무슨 소리가 들렸나요?",
+      "type": "mc",
+      "options": [
+        "새",
+        "개구리",
+        "바람",
+        "물고기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "the sound of frogs — 개구리 소리예요."
+    }
+  ]
+}

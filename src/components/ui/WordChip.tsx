@@ -5,6 +5,7 @@ import { createPortal } from "react-dom";
 import { Plus, Check, Loader2 } from "lucide-react";
 import { cn, normalizeWord } from "@/lib/utils";
 import { speak } from "@/lib/speech";
+import { playAudioUrl } from "@/lib/audio";
 import { useWordbook } from "@/store/wordbook";
 import { getDictWord } from "@/lib/dict";
 import { AudioButton } from "./AudioButton";
@@ -65,14 +66,11 @@ export function WordChip({
       });
   };
 
-  /** 발음 1회 재생 — 생성된 mp3 우선, 없으면 Web Speech */
+  /** 발음 1회 재생 — 생성된 mp3 우선(거부 시 재시도, 폴백음성 없음).
+   *  음원이 아예 없는 단어만 Web Speech 폴백. */
   const playPronunciation = (d: Word) => {
-    if (d.audioUrl) {
-      const a = new Audio(d.audioUrl);
-      a.play().catch(() => speak(d.text));
-    } else {
-      speak(d.text);
-    }
+    if (d.audioUrl) playAudioUrl(d.audioUrl);
+    else speak(d.text);
   };
 
   const toggle = () => {

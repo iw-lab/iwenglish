@@ -2,7 +2,7 @@
   "slug": "daily-3-my-new-friend",
   "title": "My New Friend",
   "title_ko": "내 새 친구",
-  "level": "A1",
+  "level": "A2",
   "ageBand": "8-10",
   "stage": 3,
   "collection": "daily",
@@ -462,6 +462,80 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now we sit together and read the same book.",
+          "translation_ko": "이제 우리는 함께 앉아 같은 책을 읽어요.",
+          "audio": "/seed/daily-3-my-new-friend/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "we",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 400,
+              "endMs": 740
+            },
+            {
+              "word": "sit",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 960
+            },
+            {
+              "word": "together",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 960,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 2060
+            },
+            {
+              "word": "read",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2060,
+              "endMs": 2200
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2200,
+              "endMs": 2440
+            },
+            {
+              "word": "same",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2440,
+              "endMs": 2760
+            },
+            {
+              "word": "book",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2760,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -525,6 +599,18 @@
       ],
       "answerIndex": 0,
       "explain_ko": "Me too는 \"나도 그래\"라는 뜻이에요."
+    },
+    {
+      "question_ko": "새 친구와 무엇을 함께 읽었나요?",
+      "type": "mc",
+      "options": [
+        "같은 책",
+        "신문",
+        "메뉴",
+        "지도"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "read the same book — 같은 책을 읽었어요."
     }
   ]
 }

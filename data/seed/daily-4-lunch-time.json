@@ -2,7 +2,7 @@
   "slug": "daily-4-lunch-time",
   "title": "Lunch Time",
   "title_ko": "점심시간",
-  "level": "A1",
+  "level": "A2",
   "ageBand": "8-10",
   "stage": 4,
   "collection": "daily",
@@ -508,6 +508,87 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After lunch, I clean my tray and thank the cook.",
+          "translation_ko": "점심 뒤에 나는 식판을 정리하고 조리사님께 감사 인사를 해요.",
+          "audio": "/seed/daily-4-lunch-time/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "lunch",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "I",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 1020,
+              "endMs": 1240
+            },
+            {
+              "word": "clean",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "my",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "tray",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 1880
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 2280
+            },
+            {
+              "word": "thank",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2440
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2440,
+              "endMs": 2680
+            },
+            {
+              "word": "cook",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2680,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -571,6 +652,18 @@
       ],
       "answerIndex": 0,
       "explain_ko": "고맙다는 말에는 \"You're welcome(천만에요)\"으로 답해요."
+    },
+    {
+      "question_ko": "점심 뒤에 무엇을 정리했나요?",
+      "type": "mc",
+      "options": [
+        "식판",
+        "침대",
+        "신발",
+        "우산"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "clean my tray — 식판을 정리해요."
     }
   ]
 }

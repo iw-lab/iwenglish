@@ -610,6 +610,487 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After the show, a younger student asks how I stayed brave on stage. I tell her that practice made the room feel less strange.",
+          "translation_ko": "공연 뒤에 어린 학생이 무대에서 어떻게 용감했는지 물어요. 나는 연습 덕분에 공연장이 덜 낯설게 느껴졌다고 말해요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "show",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "younger",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1720
+            },
+            {
+              "word": "student",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 2180
+            },
+            {
+              "word": "asks",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2180,
+              "endMs": 2600
+            },
+            {
+              "word": "how",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2800
+            },
+            {
+              "word": "I",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "stayed",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3060,
+              "endMs": 3280
+            },
+            {
+              "word": "brave",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3280,
+              "endMs": 3600
+            },
+            {
+              "word": "on",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 3600,
+              "endMs": 3960
+            },
+            {
+              "word": "stage",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 3960,
+              "endMs": 4260
+            },
+            {
+              "word": "I",
+              "charStart": 68,
+              "charEnd": 69,
+              "startMs": 4920,
+              "endMs": 5040
+            },
+            {
+              "word": "tell",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 5040,
+              "endMs": 5260
+            },
+            {
+              "word": "her",
+              "charStart": 75,
+              "charEnd": 78,
+              "startMs": 5260,
+              "endMs": 5380
+            },
+            {
+              "word": "that",
+              "charStart": 79,
+              "charEnd": 83,
+              "startMs": 5380,
+              "endMs": 5700
+            },
+            {
+              "word": "practice",
+              "charStart": 84,
+              "charEnd": 92,
+              "startMs": 5700,
+              "endMs": 6240
+            },
+            {
+              "word": "made",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 6240,
+              "endMs": 6720
+            },
+            {
+              "word": "the",
+              "charStart": 98,
+              "charEnd": 101,
+              "startMs": 6720,
+              "endMs": 7020
+            },
+            {
+              "word": "room",
+              "charStart": 102,
+              "charEnd": 106,
+              "startMs": 7020,
+              "endMs": 7100
+            },
+            {
+              "word": "feel",
+              "charStart": 107,
+              "charEnd": 111,
+              "startMs": 7100,
+              "endMs": 7480
+            },
+            {
+              "word": "less",
+              "charStart": 112,
+              "charEnd": 116,
+              "startMs": 7480,
+              "endMs": 7800
+            },
+            {
+              "word": "strange",
+              "charStart": 117,
+              "charEnd": 124,
+              "startMs": 7800,
+              "endMs": 8220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I also tell her that mistakes can happen, even after many rehearsals. The important thing is to keep playing and breathe.",
+          "translation_ko": "나는 연습을 많이 해도 실수는 생길 수 있다고 말해요. 중요한 것은 계속 연주하고 숨 쉬는 거예요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "also",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 580
+            },
+            {
+              "word": "tell",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "her",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1000
+            },
+            {
+              "word": "that",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "mistakes",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1240,
+              "endMs": 1620
+            },
+            {
+              "word": "can",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "happen",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "even",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2260,
+              "endMs": 2780
+            },
+            {
+              "word": "after",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 3060
+            },
+            {
+              "word": "many",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3060,
+              "endMs": 3440
+            },
+            {
+              "word": "rehearsals",
+              "charStart": 58,
+              "charEnd": 68,
+              "startMs": 3440,
+              "endMs": 4060
+            },
+            {
+              "word": "The",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 4460,
+              "endMs": 4560
+            },
+            {
+              "word": "important",
+              "charStart": 74,
+              "charEnd": 83,
+              "startMs": 4560,
+              "endMs": 4900
+            },
+            {
+              "word": "thing",
+              "charStart": 84,
+              "charEnd": 89,
+              "startMs": 4900,
+              "endMs": 5140
+            },
+            {
+              "word": "is",
+              "charStart": 90,
+              "charEnd": 92,
+              "startMs": 5140,
+              "endMs": 5280
+            },
+            {
+              "word": "to",
+              "charStart": 93,
+              "charEnd": 95,
+              "startMs": 5280,
+              "endMs": 5480
+            },
+            {
+              "word": "keep",
+              "charStart": 96,
+              "charEnd": 100,
+              "startMs": 5480,
+              "endMs": 5660
+            },
+            {
+              "word": "playing",
+              "charStart": 101,
+              "charEnd": 108,
+              "startMs": 5660,
+              "endMs": 6060
+            },
+            {
+              "word": "and",
+              "charStart": 109,
+              "charEnd": 112,
+              "startMs": 6060,
+              "endMs": 6460
+            },
+            {
+              "word": "breathe",
+              "charStart": 113,
+              "charEnd": 120,
+              "startMs": 6460,
+              "endMs": 6720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That night, I place the program beside my music book. It reminds me that courage grows little by little.",
+          "translation_ko": "그날 밤 나는 프로그램을 음악책 옆에 놓아요. 그것은 용기가 조금씩 자란다는 걸 떠올리게 해요.",
+          "audio": "/seed/daily-24-the-talent-show/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "night",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "I",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "place",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "program",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "beside",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1880,
+              "endMs": 2220
+            },
+            {
+              "word": "my",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "music",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2420,
+              "endMs": 2700
+            },
+            {
+              "word": "book",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2700,
+              "endMs": 2960
+            },
+            {
+              "word": "It",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3520,
+              "endMs": 3600
+            },
+            {
+              "word": "reminds",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 3600,
+              "endMs": 3940
+            },
+            {
+              "word": "me",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 3940,
+              "endMs": 4240
+            },
+            {
+              "word": "that",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4240,
+              "endMs": 4660
+            },
+            {
+              "word": "courage",
+              "charStart": 73,
+              "charEnd": 80,
+              "startMs": 4660,
+              "endMs": 5040
+            },
+            {
+              "word": "grows",
+              "charStart": 81,
+              "charEnd": 86,
+              "startMs": 5040,
+              "endMs": 5400
+            },
+            {
+              "word": "little",
+              "charStart": 87,
+              "charEnd": 93,
+              "startMs": 5400,
+              "endMs": 5740
+            },
+            {
+              "word": "by",
+              "charStart": 94,
+              "charEnd": 96,
+              "startMs": 5740,
+              "endMs": 5960
+            },
+            {
+              "word": "little",
+              "charStart": 97,
+              "charEnd": 103,
+              "startMs": 5960,
+              "endMs": 6160
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -673,6 +1154,18 @@
       ],
       "answerIndex": 1,
       "explain_ko": "everyone claps loudly."
+    },
+    {
+      "question_ko": "어린 학생에게 용감함의 이유로 무엇을 말했나요?",
+      "type": "mc",
+      "options": [
+        "연습",
+        "운",
+        "큰 소리",
+        "새 신발"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "practice made the room feel less strange."
     }
   ]
 }

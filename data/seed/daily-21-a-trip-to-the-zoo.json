@@ -561,6 +561,206 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Before leaving, our guide reminds us not to feed the animals. Respecting their homes keeps them healthy and safe, even when we feel excited to get closer.",
+          "translation_ko": "떠나기 전에 안내 선생님은 동물에게 먹이를 주지 말라고 알려주세요. 더 가까이 가고 싶을 만큼 신이 나도, 동물의 집을 존중하면 동물들이 건강하고 안전해요.",
+          "audio": "/seed/daily-21-a-trip-to-the-zoo/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Before",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "leaving",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "our",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "guide",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "reminds",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1500,
+              "endMs": 1940
+            },
+            {
+              "word": "us",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2260
+            },
+            {
+              "word": "not",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2500,
+              "endMs": 2900
+            },
+            {
+              "word": "feed",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2900,
+              "endMs": 2920
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2920,
+              "endMs": 3220
+            },
+            {
+              "word": "animals",
+              "charStart": 53,
+              "charEnd": 60,
+              "startMs": 3220,
+              "endMs": 3480
+            },
+            {
+              "word": "Respecting",
+              "charStart": 62,
+              "charEnd": 72,
+              "startMs": 4340,
+              "endMs": 4680
+            },
+            {
+              "word": "their",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 4680,
+              "endMs": 4840
+            },
+            {
+              "word": "homes",
+              "charStart": 79,
+              "charEnd": 84,
+              "startMs": 4840,
+              "endMs": 5140
+            },
+            {
+              "word": "keeps",
+              "charStart": 85,
+              "charEnd": 90,
+              "startMs": 5140,
+              "endMs": 5460
+            },
+            {
+              "word": "them",
+              "charStart": 91,
+              "charEnd": 95,
+              "startMs": 5460,
+              "endMs": 5700
+            },
+            {
+              "word": "healthy",
+              "charStart": 96,
+              "charEnd": 103,
+              "startMs": 5700,
+              "endMs": 6060
+            },
+            {
+              "word": "and",
+              "charStart": 104,
+              "charEnd": 107,
+              "startMs": 6060,
+              "endMs": 6480
+            },
+            {
+              "word": "safe",
+              "charStart": 108,
+              "charEnd": 112,
+              "startMs": 6480,
+              "endMs": 6740
+            },
+            {
+              "word": "even",
+              "charStart": 114,
+              "charEnd": 118,
+              "startMs": 7300,
+              "endMs": 7460
+            },
+            {
+              "word": "when",
+              "charStart": 119,
+              "charEnd": 123,
+              "startMs": 7460,
+              "endMs": 7680
+            },
+            {
+              "word": "we",
+              "charStart": 124,
+              "charEnd": 126,
+              "startMs": 7680,
+              "endMs": 7900
+            },
+            {
+              "word": "feel",
+              "charStart": 127,
+              "charEnd": 131,
+              "startMs": 7900,
+              "endMs": 8080
+            },
+            {
+              "word": "excited",
+              "charStart": 132,
+              "charEnd": 139,
+              "startMs": 8080,
+              "endMs": 8500
+            },
+            {
+              "word": "to",
+              "charStart": 140,
+              "charEnd": 142,
+              "startMs": 8500,
+              "endMs": 8720
+            },
+            {
+              "word": "get",
+              "charStart": 143,
+              "charEnd": 146,
+              "startMs": 8720,
+              "endMs": 8900
+            },
+            {
+              "word": "closer",
+              "charStart": 147,
+              "charEnd": 153,
+              "startMs": 8900,
+              "endMs": 9220
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -624,6 +824,18 @@
       ],
       "answerIndex": 1,
       "explain_ko": "near the pond — 연못 근처에서요."
+    },
+    {
+      "question_ko": "안내 선생님은 동물에게 무엇을 하지 말라고 했나요?",
+      "type": "mc",
+      "options": [
+        "먹이 주기",
+        "보기",
+        "그리기",
+        "조용히 걷기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "not to feed the animals — 먹이를 주지 말라는 뜻이에요."
     }
   ]
 }

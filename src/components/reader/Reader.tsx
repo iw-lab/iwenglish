@@ -13,12 +13,15 @@ import {
   ArrowLeft,
   Home,
   ListChecks,
+  SkipBack,
+  Stamp,
+  Award,
 } from "lucide-react";
 import type { Book, LearningMode } from "@/types/book";
 import { MODES } from "@/lib/data/modes";
 import { useKaraoke } from "@/hooks/useKaraoke";
 import { useSettings } from "@/store/settings";
-import { useProgress } from "@/store/progress";
+import { useProgress, READS_TO_COMPLETE } from "@/store/progress";
 import { SentenceView } from "./SentenceView";
 import { PracticeControls, type PracticeMode } from "./PracticeControls";
 import { RecordPractice } from "./RecordPractice";
@@ -49,6 +52,13 @@ export function Reader({ book }: { book: Book }) {
   const [selfRead, setSelfRead] = useState(false);
   const recordReading = useProgress((s) => s.recordReading);
   const finishBook = useProgress((s) => s.finishBook);
+  const addBookRead = useProgress((s) => s.addBookRead);
+  const readCount = useProgress((s) => s.bookReads?.[book.slug] ?? 0);
+  const completed = useProgress(
+    (s) => s.booksCompleted?.includes(book.slug) ?? false,
+  );
+  // 도장 찍을 때 살짝 튀는 피드백
+  const [stampPulse, setStampPulse] = useState(false);
   const sessionStartRef = useRef<number>(0);
   const recordedRef = useRef(false);
   useEffect(() => {
@@ -225,6 +235,24 @@ export function Reader({ book }: { book: Book }) {
     karaoke.pause();
   };
 
+  // 이 책의 처음(첫 쪽·첫 문장)으로 — 다시 읽기
+  const goToStart = () => {
+    stopAuto();
+    setPageIdx(0);
+    setSentIdx(0);
+    recordedRef.current = false; // 다시 읽으면 완독 세션 재기록 허용
+    if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  // 완독 도장 1회 — 10회 모이면 '완료'
+  const onStamp = () => {
+    if (completed) return;
+    markFinished(); // 첫 완독 세션 기록(중복 방지됨)
+    addBookRead(book.slug);
+    setStampPulse(true);
+    window.setTimeout(() => setStampPulse(false), 320);
+  };
+
   // 읽기 모드는 2개(쭉 읽어주기·한 문장씩)만. 단어 탭·쉐도잉·따라 읽기는 읽기 화면에 통합됨.
   const tabModes = MODES.filter(
     (m) => m.id === "read-aloud" || m.id === "sentence",
@@ -388,6 +416,69 @@ export function Reader({ book }: { book: Book }) {
                 </div>
               );
             })}
+            {/* 마지막 쪽: 완독 도장(10번 읽으면 완료) */}
+            {pageIdx === book.pages.length - 1 && (
+              <div className="rounded-card border-2 border-dashed border-accent/50 bg-accent/5 p-4 text-center">
+                {completed ? (
+                  <div className="flex flex-col items-center gap-2">
+                    <div className="grid h-16 w-16 place-items-center rounded-full bg-good/15 text-good">
+                      <Award className="h-9 w-9" />
+                    </div>
+                    <p className="text-lg font-extrabold text-good">
+                      완독 완료! 🎉👑
+                    </p>
+                    <p className="font-ko text-xs text-muted-foreground">
+                      이 책을 {READS_TO_COMPLETE}번 다 읽었어요. 정말 대단해요!
+                    </p>
+                    <button
+                      onClick={goToStart}
+                      className="mt-1 inline-flex items-center gap-1.5 rounded-chip bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground transition active:scale-95"
+                    >
+                      <SkipBack className="h-4 w-4" /> 처음부터 다시 읽기
+                    </button>
+                  </div>
+                ) : (
+                  <div className="flex flex-col items-center gap-2.5">
+                    <p className="text-base font-bold">📖 완전히 다 읽었어요!</p>
+                    <div className="flex flex-wrap justify-center gap-1.5">
+                      {Array.from({ length: READS_TO_COMPLETE }).map((_, i) => (
+                        <span
+                          key={i}
+                          className={cn(
+                            "grid h-7 w-7 place-items-center rounded-full text-sm font-bold transition",
+                            i < readCount
+                              ? "bg-accent text-accent-foreground"
+                              : "bg-muted text-muted-foreground/40",
+                          )}
+                        >
+                          {i < readCount ? "⭐" : i + 1}
+                        </span>
+                      ))}
+                    </div>
+                    <p className="font-ko text-xs text-muted-foreground">
+                      {readCount}/{READS_TO_COMPLETE} — 다 읽을 때마다 도장을 찍어요
+                    </p>
+                    <button
+                      onClick={onStamp}
+                      className={cn(
+                        "mt-1 inline-flex items-center gap-2 rounded-chip bg-accent px-6 py-3 text-base font-extrabold text-accent-foreground shadow-sm transition active:scale-95",
+                        stampPulse && "scale-110",
+                      )}
+                    >
+                      <Stamp className="h-5 w-5" /> 도장 찍기 (+1)
+                    </button>
+                    {readCount > 0 && (
+                      <button
+                        onClick={goToStart}
+                        className="inline-flex items-center gap-1 text-xs font-semibold text-primary hover:underline"
+                      >
+                        <SkipBack className="h-3.5 w-3.5" /> 처음부터 다시 읽기
+                      </button>
+                    )}
+                  </div>
+                )}
+              </div>
+            )}
             {hasQuiz && pageIdx === book.pages.length - 1 && (
               <button
                 onClick={() => {
@@ -395,9 +486,9 @@ export function Reader({ book }: { book: Book }) {
                   markFinished();
                   setShowQuiz(true);
                 }}
-                className="flex w-full items-center justify-center gap-2 rounded-card bg-accent px-4 py-3.5 font-semibold text-accent-foreground shadow-sm transition hover:brightness-95"
+                className="flex w-full items-center justify-center gap-2 rounded-card bg-card px-4 py-3.5 font-semibold shadow-sm ring-1 ring-border transition hover:bg-muted"
               >
-                <ListChecks className="h-5 w-5" /> 다 읽었어요! 이해 퀴즈 풀기
+                <ListChecks className="h-5 w-5 text-primary" /> 이해 퀴즈 풀기
               </button>
             )}
             {/* 따라 말하기·쉐도잉 (간격) + 녹음 — 분리 */}
@@ -450,9 +541,19 @@ export function Reader({ book }: { book: Book }) {
       {/* 컨트롤 */}
       {(
         <div
-          className="sticky bottom-0 z-30 flex items-center justify-center gap-4 border-t border-border bg-background/90 px-4 py-3 backdrop-blur-md"
+          className="sticky bottom-0 z-30 flex items-center justify-center gap-3 border-t border-border bg-background/90 px-3 py-3 backdrop-blur-md"
           style={{ paddingBottom: "calc(0.75rem + env(safe-area-inset-bottom))" }}
         >
+          <button
+            onClick={goToStart}
+            disabled={globalIdx <= 0}
+            aria-label="이 책 처음으로"
+            title="이 책 처음으로 돌아가기"
+            className="grid h-11 w-11 place-items-center rounded-full hover:bg-muted disabled:opacity-40"
+          >
+            <SkipBack className="h-5 w-5" />
+          </button>
+
           <button
             onClick={() => {
               if (globalIdx > 0) {

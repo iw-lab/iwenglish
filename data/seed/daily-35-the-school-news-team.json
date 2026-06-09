@@ -1,0 +1,927 @@
+{
+  "slug": "daily-35-the-school-news-team",
+  "title": "The School News Team",
+  "title_ko": "학교 뉴스 팀",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "학교 뉴스 영상을 만들며 인터뷰, 편집, 역할 조율을 더 긴 문장으로 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our teacher chooses four students to make the Friday school news.",
+          "translation_ko": "선생님은 금요일 학교 뉴스를 만들 학생 네 명을 뽑아요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "teacher",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "chooses",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "four",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1540
+            },
+            {
+              "word": "students",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1540,
+              "endMs": 1900
+            },
+            {
+              "word": "to",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "make",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2100,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2260,
+              "endMs": 2440
+            },
+            {
+              "word": "Friday",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2440,
+              "endMs": 2760
+            },
+            {
+              "word": "school",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 2760,
+              "endMs": 3120
+            },
+            {
+              "word": "news",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3120,
+              "endMs": 3480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I become the reporter, so I must ask clear and friendly questions.",
+          "translation_ko": "나는 기자가 되어 분명하고 다정한 질문을 해야 해요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "become",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 860
+            },
+            {
+              "word": "reporter",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "so",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 1820
+            },
+            {
+              "word": "I",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1820,
+              "endMs": 2080
+            },
+            {
+              "word": "must",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "ask",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2300,
+              "endMs": 2680
+            },
+            {
+              "word": "clear",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 3260
+            },
+            {
+              "word": "and",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3260,
+              "endMs": 3980
+            },
+            {
+              "word": "friendly",
+              "charStart": 47,
+              "charEnd": 55,
+              "startMs": 3980,
+              "endMs": 3980
+            },
+            {
+              "word": "questions",
+              "charStart": 56,
+              "charEnd": 65,
+              "startMs": 3980,
+              "endMs": 4360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sora holds the tablet carefully while Min checks the sound.",
+          "translation_ko": "소라는 태블릿을 조심히 들고 민이는 소리를 확인해요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sora",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "holds",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1340
+            },
+            {
+              "word": "tablet",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1340
+            },
+            {
+              "word": "carefully",
+              "charStart": 22,
+              "charEnd": 31,
+              "startMs": 1340,
+              "endMs": 1820
+            },
+            {
+              "word": "while",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 2280
+            },
+            {
+              "word": "Min",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2480
+            },
+            {
+              "word": "checks",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2480,
+              "endMs": 2840
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2840,
+              "endMs": 3100
+            },
+            {
+              "word": "sound",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3100,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We interview the librarian about the new reading corner.",
+          "translation_ko": "우리는 새 독서 공간에 대해 사서 선생님을 인터뷰해요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "interview",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 680
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "librarian",
+              "charStart": 17,
+              "charEnd": 26,
+              "startMs": 940,
+              "endMs": 1360
+            },
+            {
+              "word": "about",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1360,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "new",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "reading",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "corner",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 2560,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At first, my voice shakes, but I remember to breathe slowly.",
+          "translation_ko": "처음에는 목소리가 떨리지만 천천히 숨 쉬는 걸 떠올려요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "first",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 700
+            },
+            {
+              "word": "my",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "voice",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "shakes",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 2180
+            },
+            {
+              "word": "but",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2680,
+              "endMs": 2740
+            },
+            {
+              "word": "I",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 2740,
+              "endMs": 2940
+            },
+            {
+              "word": "remember",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2940,
+              "endMs": 3180
+            },
+            {
+              "word": "to",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 3180,
+              "endMs": 3560
+            },
+            {
+              "word": "breathe",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3560,
+              "endMs": 3800
+            },
+            {
+              "word": "slowly",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3800,
+              "endMs": 4260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The librarian explains that students can read there during lunch.",
+          "translation_ko": "사서 선생님은 학생들이 점심시간에 그곳에서 읽을 수 있다고 설명해요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "librarian",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 160,
+              "endMs": 680
+            },
+            {
+              "word": "explains",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 680,
+              "endMs": 1320
+            },
+            {
+              "word": "that",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1700
+            },
+            {
+              "word": "students",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 1700,
+              "endMs": 1920
+            },
+            {
+              "word": "can",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "read",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2260,
+              "endMs": 2420
+            },
+            {
+              "word": "there",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2420,
+              "endMs": 2720
+            },
+            {
+              "word": "during",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 2720,
+              "endMs": 3000
+            },
+            {
+              "word": "lunch",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3000,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After filming, we choose the best parts and cut the noisy pieces.",
+          "translation_ko": "촬영 후 우리는 가장 좋은 부분을 고르고 시끄러운 부분을 잘라요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "filming",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 360,
+              "endMs": 760
+            },
+            {
+              "word": "we",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1240
+            },
+            {
+              "word": "choose",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "best",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1680,
+              "endMs": 1980
+            },
+            {
+              "word": "parts",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1980,
+              "endMs": 2280
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2680
+            },
+            {
+              "word": "cut",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2680,
+              "endMs": 2840
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2840,
+              "endMs": 3400
+            },
+            {
+              "word": "noisy",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3400,
+              "endMs": 3400
+            },
+            {
+              "word": "pieces",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3400,
+              "endMs": 3780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Our video is short, but it tells the important news clearly.",
+          "translation_ko": "우리 영상은 짧지만 중요한 소식을 분명히 전해요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "video",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 780
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1260
+            },
+            {
+              "word": "short",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1620
+            },
+            {
+              "word": "but",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "it",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2300,
+              "endMs": 2740
+            },
+            {
+              "word": "tells",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2740,
+              "endMs": 2800
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2800,
+              "endMs": 3120
+            },
+            {
+              "word": "important",
+              "charStart": 37,
+              "charEnd": 46,
+              "startMs": 3120,
+              "endMs": 3480
+            },
+            {
+              "word": "news",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3480,
+              "endMs": 3880
+            },
+            {
+              "word": "clearly",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3880,
+              "endMs": 4380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When the class watches it, everyone cheers for the news team.",
+          "translation_ko": "반 친구들이 영상을 볼 때 모두 뉴스 팀을 응원해요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 720
+            },
+            {
+              "word": "class",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 1000
+            },
+            {
+              "word": "watches",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1400
+            },
+            {
+              "word": "it",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1800
+            },
+            {
+              "word": "everyone",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2440
+            },
+            {
+              "word": "cheers",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2440,
+              "endMs": 2780
+            },
+            {
+              "word": "for",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2780,
+              "endMs": 3060
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3060,
+              "endMs": 3240
+            },
+            {
+              "word": "news",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3240,
+              "endMs": 3440
+            },
+            {
+              "word": "team",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3440,
+              "endMs": 3680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I learn that speaking well begins with listening carefully.",
+          "translation_ko": "말을 잘하는 일은 잘 듣는 것에서 시작된다는 걸 배워요.",
+          "audio": "/seed/daily-35-the-school-news-team/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "learn",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "that",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 780
+            },
+            {
+              "word": "speaking",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "well",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1060,
+              "endMs": 1520
+            },
+            {
+              "word": "begins",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1520,
+              "endMs": 1880
+            },
+            {
+              "word": "with",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "listening",
+              "charStart": 39,
+              "charEnd": 48,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "carefully",
+              "charStart": 49,
+              "charEnd": 58,
+              "startMs": 2480,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "학생들은 무엇을 만들었나요?",
+      "type": "mc",
+      "options": [
+        "학교 뉴스",
+        "케이크",
+        "과학 모형",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "school news를 만들었어요."
+    },
+    {
+      "question_ko": "화자는 어떤 역할이었나요?",
+      "type": "mc",
+      "options": [
+        "기자",
+        "요리사",
+        "선수",
+        "화가"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "I become the reporter."
+    },
+    {
+      "question_ko": "누구를 인터뷰했나요?",
+      "type": "mc",
+      "options": [
+        "사서 선생님",
+        "의사",
+        "경찰",
+        "운전사"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "the librarian을 인터뷰했어요."
+    },
+    {
+      "question_ko": "처음 목소리는 어땠나요?",
+      "type": "mc",
+      "options": [
+        "떨림",
+        "너무 큼",
+        "없음",
+        "노래함"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "my voice shakes — 목소리가 떨렸어요."
+    },
+    {
+      "question_ko": "말을 잘하는 일은 무엇에서 시작한다고 배웠나요?",
+      "type": "mc",
+      "options": [
+        "잘 듣기",
+        "빨리 달리기",
+        "크게 웃기",
+        "혼자 말하기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "listening carefully에서 시작돼요."
+    }
+  ]
+}

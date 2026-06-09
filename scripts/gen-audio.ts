@@ -211,14 +211,23 @@ async function processBook(file: string) {
   console.log(`\n🔊 ${book.title} (${voiceLabel})`);
 
   // ① 음성
+  // AUDIO_SKIP_EXISTING=1 : 이미 mp3+타이밍이 있는 문장은 보존(추가 페이지만 생성 → 기존 책 churn·재정렬 방지)
+  const SKIP_EXISTING = process.env.AUDIO_SKIP_EXISTING === "1";
   const items: { s: Sentence; abs: string; dur: number }[] = [];
   let total = 0;
+  let kept = 0;
   for (let pi = 0; pi < book.pages.length; pi++) {
     const sents = book.pages[pi].sentences;
     for (let si = 0; si < sents.length; si++) {
       total++;
       const s = sents[si];
       const base = `p${pi + 1}-s${si + 1}`;
+      const mp3Abs = join(audioDir, base + ".mp3");
+      if (SKIP_EXISTING && existsSync(mp3Abs) && (s.wordTimings?.length ?? 0) > 0) {
+        s.audio = `/seed/${book.slug}/audio/${base}.mp3`;
+        kept++;
+        continue;
+      }
       try {
         const { ext, dur } = await synth(s.text, join(audioDir, base));
         s.audio = `/seed/${book.slug}/audio/${base}${ext}`;
@@ -229,6 +238,7 @@ async function processBook(file: string) {
       }
     }
   }
+  if (kept) console.log(`  ↩︎ 기존 음성 ${kept}문장 보존 · 신규 ${items.length}문장 생성`);
 
   // ② 단어 정렬 — OpenAI 전사 우선(같은 TTS라 싱크 정확), 실패분만 로컬 whisper, 그래도 안되면 추정
   const useOpenaiAlign =

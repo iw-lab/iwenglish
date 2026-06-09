@@ -2,7 +2,7 @@
   "slug": "daily-9-at-the-doctor",
   "title": "At the Doctor",
   "title_ko": "병원에서",
-  "level": "A1",
+  "level": "A2",
   "ageBand": "8-10",
   "stage": 3,
   "collection": "daily",
@@ -490,6 +490,87 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The doctor says I should rest and drink warm water.",
+          "translation_ko": "의사 선생님은 쉬고 따뜻한 물을 마셔야 한다고 말해요.",
+          "audio": "/seed/daily-9-at-the-doctor/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "doctor",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 600
+            },
+            {
+              "word": "says",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 1040
+            },
+            {
+              "word": "I",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1260
+            },
+            {
+              "word": "should",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "rest",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1820
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2260
+            },
+            {
+              "word": "drink",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "warm",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2460,
+              "endMs": 2900
+            },
+            {
+              "word": "water",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2900,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -553,6 +634,18 @@
       ],
       "answerIndex": 1,
       "explain_ko": "Take this medicine and rest — 약 먹고 쉬라고 했어요."
+    },
+    {
+      "question_ko": "의사 선생님은 무엇을 마시라고 했나요?",
+      "type": "mc",
+      "options": [
+        "따뜻한 물",
+        "찬 주스",
+        "커피",
+        "우유만"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "drink warm water — 따뜻한 물을 마셔요."
     }
   ]
 }

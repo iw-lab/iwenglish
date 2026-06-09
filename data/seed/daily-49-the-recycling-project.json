@@ -1,0 +1,829 @@
+{
+  "slug": "daily-49-the-recycling-project",
+  "title": "The Recycling Project",
+  "title_ko": "재활용 프로젝트",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "한 달간 반 재활용 프로젝트를 이끌며 문제와 해결, 협동을 더 풍부한 문장으로 익혀요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our class started a recycling project for one whole month.",
+          "translation_ko": "우리 반은 한 달 내내 재활용 프로젝트를 시작했어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 540
+            },
+            {
+              "word": "started",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "recycling",
+              "charStart": 20,
+              "charEnd": 29,
+              "startMs": 1100,
+              "endMs": 1460
+            },
+            {
+              "word": "project",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 1460,
+              "endMs": 1980
+            },
+            {
+              "word": "for",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 1980,
+              "endMs": 2400
+            },
+            {
+              "word": "one",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2400,
+              "endMs": 2640
+            },
+            {
+              "word": "whole",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2640,
+              "endMs": 2940
+            },
+            {
+              "word": "month",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 2940,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We placed three bins for paper, plastic, and cans.",
+          "translation_ko": "우리는 종이, 플라스틱, 캔을 위한 통 세 개를 놓았어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "placed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 740
+            },
+            {
+              "word": "three",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1400
+            },
+            {
+              "word": "bins",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1700
+            },
+            {
+              "word": "for",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1700,
+              "endMs": 2140
+            },
+            {
+              "word": "paper",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2140,
+              "endMs": 2480
+            },
+            {
+              "word": "plastic",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 3200,
+              "endMs": 3200
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3400,
+              "endMs": 4080
+            },
+            {
+              "word": "cans",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 4080,
+              "endMs": 4080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At first, people dropped trash into the wrong bins.",
+          "translation_ko": "처음에는 사람들이 엉뚱한 통에 쓰레기를 넣었어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "first",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 620
+            },
+            {
+              "word": "people",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "dropped",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "trash",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1500,
+              "endMs": 2000
+            },
+            {
+              "word": "into",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2280
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2440
+            },
+            {
+              "word": "wrong",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2440,
+              "endMs": 2740
+            },
+            {
+              "word": "bins",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2740,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "So we drew clear pictures above each colorful bin.",
+          "translation_ko": "그래서 우리는 색색의 통 위에 분명한 그림을 그렸어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "we",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "drew",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 880
+            },
+            {
+              "word": "clear",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1360
+            },
+            {
+              "word": "pictures",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1800
+            },
+            {
+              "word": "above",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1800,
+              "endMs": 2220
+            },
+            {
+              "word": "each",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2220,
+              "endMs": 2640
+            },
+            {
+              "word": "colorful",
+              "charStart": 37,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 3060
+            },
+            {
+              "word": "bin",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Slowly, my classmates began to sort more carefully.",
+          "translation_ko": "천천히 반 친구들이 더 조심스럽게 분리하기 시작했어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Slowly",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 1060
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "classmates",
+              "charStart": 11,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1920
+            },
+            {
+              "word": "began",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2340
+            },
+            {
+              "word": "to",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2340,
+              "endMs": 2700
+            },
+            {
+              "word": "sort",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2700,
+              "endMs": 2800
+            },
+            {
+              "word": "more",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2800,
+              "endMs": 3180
+            },
+            {
+              "word": "carefully",
+              "charStart": 41,
+              "charEnd": 50,
+              "startMs": 3180,
+              "endMs": 3560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Every Friday we counted how much we had saved.",
+          "translation_ko": "매주 금요일 우리는 얼마나 모았는지 세어 봤어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Friday",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "we",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1020,
+              "endMs": 1120
+            },
+            {
+              "word": "counted",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "how",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "much",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 1820
+            },
+            {
+              "word": "we",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "had",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 1980,
+              "endMs": 2200
+            },
+            {
+              "word": "saved",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2200,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The pile of clean paper grew taller each week.",
+          "translation_ko": "깨끗한 종이 더미는 매주 더 높이 쌓였어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "pile",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "of",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 900,
+              "endMs": 1240
+            },
+            {
+              "word": "clean",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1540
+            },
+            {
+              "word": "paper",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1860
+            },
+            {
+              "word": "grew",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2180
+            },
+            {
+              "word": "taller",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2180,
+              "endMs": 2580
+            },
+            {
+              "word": "each",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2580,
+              "endMs": 2960
+            },
+            {
+              "word": "week",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2960,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We turned old boxes into pencil holders for art class.",
+          "translation_ko": "우리는 낡은 상자를 미술 시간용 연필꽂이로 만들었어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "turned",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "old",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 1100
+            },
+            {
+              "word": "boxes",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "into",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 1920
+            },
+            {
+              "word": "pencil",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1920,
+              "endMs": 2280
+            },
+            {
+              "word": "holders",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2640
+            },
+            {
+              "word": "for",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2640,
+              "endMs": 3140
+            },
+            {
+              "word": "art",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3140,
+              "endMs": 3340
+            },
+            {
+              "word": "class",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3340,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Our teacher said small habits can change a whole school.",
+          "translation_ko": "선생님은 작은 습관이 학교 전체를 바꿀 수 있다고 했어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "teacher",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "said",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "small",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 960,
+              "endMs": 1400
+            },
+            {
+              "word": "habits",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1400,
+              "endMs": 1740
+            },
+            {
+              "word": "can",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "change",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2400
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2400,
+              "endMs": 2660
+            },
+            {
+              "word": "whole",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2660,
+              "endMs": 2960
+            },
+            {
+              "word": "school",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 2960,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I felt proud that we helped our planet together.",
+          "translation_ko": "우리가 함께 지구를 도왔다는 게 자랑스러웠어요.",
+          "audio": "/seed/daily-49-the-recycling-project/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "felt",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 480
+            },
+            {
+              "word": "proud",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 880
+            },
+            {
+              "word": "that",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "we",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1280
+            },
+            {
+              "word": "helped",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1280,
+              "endMs": 1520
+            },
+            {
+              "word": "our",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "planet",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1780,
+              "endMs": 2060
+            },
+            {
+              "word": "together",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2060,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "프로젝트는 얼마 동안 했나요?",
+      "type": "mc",
+      "options": [
+        "한 달",
+        "하루",
+        "일 년",
+        "일주일"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "for one whole month — 한 달 동안이에요."
+    },
+    {
+      "question_ko": "통은 몇 개를 놓았나요?",
+      "type": "mc",
+      "options": [
+        "세 개",
+        "한 개",
+        "다섯 개",
+        "열 개"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "three bins — 통 세 개예요."
+    },
+    {
+      "question_ko": "처음의 문제는 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "엉뚱한 통에 넣음",
+        "통이 없음",
+        "종이가 없음",
+        "비가 옴"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "wrong bins — 엉뚱한 통에 넣었어요."
+    },
+    {
+      "question_ko": "문제를 어떻게 해결했나요?",
+      "type": "mc",
+      "options": [
+        "통 위에 그림을 그림",
+        "통을 치움",
+        "그만둠",
+        "혼냄"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "drew clear pictures — 분명한 그림을 그렸어요."
+    },
+    {
+      "question_ko": "낡은 상자는 무엇이 되었나요?",
+      "type": "mc",
+      "options": [
+        "연필꽂이",
+        "쓰레기",
+        "의자",
+        "책"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "pencil holders — 연필꽂이가 됐어요."
+    }
+  ]
+}

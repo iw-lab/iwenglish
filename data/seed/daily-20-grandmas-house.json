@@ -480,6 +480,108 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "In the car, I tell Mom my favorite part was Grandma's old story.",
+          "translation_ko": "차 안에서 나는 가장 좋았던 부분이 할머니의 옛날이야기였다고 엄마에게 말해요.",
+          "audio": "/seed/daily-20-grandmas-house/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "In",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 440
+            },
+            {
+              "word": "car",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "I",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "tell",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1400,
+              "endMs": 1600
+            },
+            {
+              "word": "Mom",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "my",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "favorite",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2540
+            },
+            {
+              "word": "part",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2540,
+              "endMs": 2860
+            },
+            {
+              "word": "was",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2860,
+              "endMs": 3120
+            },
+            {
+              "word": "Grandma's",
+              "charStart": 44,
+              "charEnd": 53,
+              "startMs": 3120,
+              "endMs": 3620
+            },
+            {
+              "word": "old",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3620,
+              "endMs": 4000
+            },
+            {
+              "word": "story",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 4000,
+              "endMs": 4360
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -543,6 +645,18 @@
       ],
       "answerIndex": 2,
       "explain_ko": "drink tea — 차를 마셨어요."
+    },
+    {
+      "question_ko": "가장 좋았던 부분은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "할머니의 옛날이야기",
+        "차 문",
+        "신발",
+        "비"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Grandma's old story가 가장 좋았어요."
     }
   ]
 }

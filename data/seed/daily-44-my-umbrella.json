@@ -1,0 +1,411 @@
+{
+  "slug": "daily-44-my-umbrella",
+  "title": "My Umbrella",
+  "title_ko": "내 우산",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "비 오는 날 우산을 펴고 빗속을 걷는 모습을 쉬운 문장으로 그려요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Dark clouds fill the gray sky.",
+          "translation_ko": "어두운 구름이 회색 하늘을 채워요.",
+          "audio": "/seed/daily-44-my-umbrella/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dark",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "clouds",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1120
+            },
+            {
+              "word": "fill",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1120,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1800
+            },
+            {
+              "word": "gray",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "sky",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2100,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Soon the rain starts to fall.",
+          "translation_ko": "곧 비가 내리기 시작해요.",
+          "audio": "/seed/daily-44-my-umbrella/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 580,
+              "endMs": 680
+            },
+            {
+              "word": "rain",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "starts",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1700
+            },
+            {
+              "word": "fall",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I open my yellow umbrella.",
+          "translation_ko": "나는 노란 우산을 펴요.",
+          "audio": "/seed/daily-44-my-umbrella/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "open",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "yellow",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "umbrella",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1280,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The raindrops tap on top.",
+          "translation_ko": "빗방울이 위에서 톡톡 쳐요.",
+          "audio": "/seed/daily-44-my-umbrella/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "raindrops",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 260,
+              "endMs": 820
+            },
+            {
+              "word": "tap",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1180
+            },
+            {
+              "word": "on",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1420
+            },
+            {
+              "word": "top",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My shoes splash in puddles.",
+          "translation_ko": "내 신발이 웅덩이에서 첨벙거려요.",
+          "audio": "/seed/daily-44-my-umbrella/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "shoes",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 840
+            },
+            {
+              "word": "splash",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1600
+            },
+            {
+              "word": "in",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1600,
+              "endMs": 1960
+            },
+            {
+              "word": "puddles",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1960,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I stay warm and dry.",
+          "translation_ko": "나는 따뜻하고 보송해요.",
+          "audio": "/seed/daily-44-my-umbrella/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "stay",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "warm",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1500
+            },
+            {
+              "word": "dry",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1500,
+              "endMs": 1760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Rainy days can be fun.",
+          "translation_ko": "비 오는 날도 즐거울 수 있어요.",
+          "audio": "/seed/daily-44-my-umbrella/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Rainy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "days",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 660
+            },
+            {
+              "word": "can",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "be",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "fun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1380
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "하늘은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "어두운 구름",
+        "맑은 별",
+        "노을",
+        "눈"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "dark clouds — 어두운 구름이에요."
+    },
+    {
+      "question_ko": "무엇이 내리기 시작했나요?",
+      "type": "mc",
+      "options": [
+        "비",
+        "눈",
+        "꽃잎",
+        "낙엽"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "rain — 비예요."
+    },
+    {
+      "question_ko": "우산은 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "노랑",
+        "빨강",
+        "파랑",
+        "초록"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "yellow umbrella — 노란 우산이에요."
+    },
+    {
+      "question_ko": "신발은 어디서 첨벙거렸나요?",
+      "type": "mc",
+      "options": [
+        "웅덩이",
+        "바다",
+        "욕조",
+        "강"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "puddles — 웅덩이예요."
+    },
+    {
+      "question_ko": "나는 어떻게 지냈나요?",
+      "type": "mc",
+      "options": [
+        "따뜻하고 보송해요",
+        "젖었어요",
+        "추워요",
+        "아파요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "warm and dry — 따뜻하고 보송해요."
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "slug": "daily-47-the-spelling-test",
+  "title": "The Spelling Test",
+  "title_ko": "받아쓰기 시험",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "어려운 받아쓰기 시험을 연습으로 준비한 과정을 과거형과 이유 표현으로 읽어요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Last week I worried about the spelling test.",
+          "translation_ko": "지난주에 나는 받아쓰기 시험이 걱정됐어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Last",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "week",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "I",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "worried",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1700
+            },
+            {
+              "word": "about",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 2080
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2380
+            },
+            {
+              "word": "spelling",
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2560
+            },
+            {
+              "word": "test",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Some words were long and very tricky.",
+          "translation_ko": "어떤 단어는 길고 아주 까다로웠어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "words",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "were",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "long",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1680,
+              "endMs": 2040
+            },
+            {
+              "word": "very",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2040,
+              "endMs": 2400
+            },
+            {
+              "word": "tricky",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2400,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "So every night I practiced ten words.",
+          "translation_ko": "그래서 매일 밤 나는 단어 열 개를 연습했어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "every",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 640,
+              "endMs": 980
+            },
+            {
+              "word": "night",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "I",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "practiced",
+              "charStart": 17,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 1960
+            },
+            {
+              "word": "ten",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1960,
+              "endMs": 2340
+            },
+            {
+              "word": "words",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom read them aloud while I wrote.",
+          "translation_ko": "엄마가 소리 내어 읽고 나는 받아 적었어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "read",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "them",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "aloud",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "while",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "I",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 1980
+            },
+            {
+              "word": "wrote",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When I made a mistake, I tried again.",
+          "translation_ko": "틀리면 나는 다시 시도했어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "made",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 920
+            },
+            {
+              "word": "mistake",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "I",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "tried",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1440,
+              "endMs": 1600
+            },
+            {
+              "word": "again",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1600,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On test day my hands felt a little shaky.",
+          "translation_ko": "시험 날 내 손은 조금 떨렸어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "test",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "day",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 960
+            },
+            {
+              "word": "my",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "hands",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "felt",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 2040
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 2040,
+              "endMs": 2260
+            },
+            {
+              "word": "little",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "shaky",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2480,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "But I remembered the words because I practiced.",
+          "translation_ko": "그래도 연습한 덕분에 단어가 기억났어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "I",
+              "charStart": 4,
+              "charEnd": 5,
+              "startMs": 820,
+              "endMs": 1240
+            },
+            {
+              "word": "remembered",
+              "charStart": 6,
+              "charEnd": 16,
+              "startMs": 1240,
+              "endMs": 1600
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1600,
+              "endMs": 2220
+            },
+            {
+              "word": "words",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 2220,
+              "endMs": 2220
+            },
+            {
+              "word": "because",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2760
+            },
+            {
+              "word": "I",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2760,
+              "endMs": 3200
+            },
+            {
+              "word": "practiced",
+              "charStart": 37,
+              "charEnd": 46,
+              "startMs": 3200,
+              "endMs": 3360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I spelled almost every word correctly.",
+          "translation_ko": "나는 거의 모든 단어를 맞게 썼어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "spelled",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "almost",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 1180
+            },
+            {
+              "word": "every",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1620
+            },
+            {
+              "word": "word",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "correctly",
+              "charStart": 28,
+              "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I learned that practice makes hard things easier.",
+          "translation_ko": "나는 연습이 어려운 일을 쉽게 만든다는 걸 배웠어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "learned",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 440
+            },
+            {
+              "word": "that",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "practice",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 700,
+              "endMs": 1100
+            },
+            {
+              "word": "makes",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "hard",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1360,
+              "endMs": 1740
+            },
+            {
+              "word": "things",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 1740,
+              "endMs": 2080
+            },
+            {
+              "word": "easier",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2080,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "지난주에 무엇이 걱정됐나요?",
+      "type": "mc",
+      "options": [
+        "받아쓰기 시험",
+        "소풍",
+        "운동회",
+        "발표회"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "spelling test — 받아쓰기 시험이에요."
+    },
+    {
+      "question_ko": "매일 밤 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "단어 열 개 연습",
+        "게임",
+        "낮잠",
+        "TV 보기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "practiced ten words — 단어 열 개를 연습했어요."
+    },
+    {
+      "question_ko": "엄마는 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "소리 내어 읽어 줬어요",
+        "그림을 그렸어요",
+        "노래했어요",
+        "잤어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "read them aloud — 소리 내어 읽어 줬어요."
+    },
+    {
+      "question_ko": "단어가 기억난 이유는?",
+      "type": "mc",
+      "options": [
+        "연습했기 때문",
+        "운이 좋아서",
+        "쉬워서",
+        "친구가 알려줘서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "because I practiced — 연습한 덕분이에요."
+    },
+    {
+      "question_ko": "무엇을 배웠나요?",
+      "type": "mc",
+      "options": [
+        "연습이 어려운 일을 쉽게 만든다",
+        "시험은 쉽다",
+        "연습은 소용없다",
+        "포기가 낫다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "practice makes hard things easier."
+    }
+  ]
+}

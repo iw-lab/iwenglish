@@ -1,0 +1,330 @@
+{
+  "slug": "daily-25-my-red-bag",
+  "title": "My Red Bag",
+  "title_ko": "내 빨간 가방",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "가방 안 물건을 하나씩 꺼내며 가장 쉬운 명사와 색깔 표현을 반복해요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "This is my red bag.",
+          "translation_ko": "이건 내 빨간 가방이에요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "red",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "bag",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I have a book.",
+          "translation_ko": "나는 책이 있어요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 520,
+              "endMs": 1140
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 1140,
+              "endMs": 1720
+            },
+            {
+              "word": "book",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1720,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I have a pencil.",
+          "translation_ko": "나는 연필이 있어요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 560
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 560,
+              "endMs": 920
+            },
+            {
+              "word": "pencil",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I have a snack.",
+          "translation_ko": "나는 간식이 있어요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 420
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 620
+            },
+            {
+              "word": "snack",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My bag is not heavy.",
+          "translation_ko": "내 가방은 무겁지 않아요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "bag",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "is",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 600,
+              "endMs": 820
+            },
+            {
+              "word": "not",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 820,
+              "endMs": 1040
+            },
+            {
+              "word": "heavy",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I am ready for school.",
+          "translation_ko": "나는 학교 갈 준비가 됐어요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "ready",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 760,
+              "endMs": 1080
+            },
+            {
+              "word": "for",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1080,
+              "endMs": 1520
+            },
+            {
+              "word": "school",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1520,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "가방은 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "파랑",
+        "빨강",
+        "초록",
+        "노랑"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "red bag은 빨간 가방이에요."
+    },
+    {
+      "question_ko": "가방 안에 무엇이 있었나요?",
+      "type": "mc",
+      "options": [
+        "책",
+        "모자",
+        "신발",
+        "컵"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "I have a book."
+    },
+    {
+      "question_ko": "연필은 영어로 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "pencil",
+        "bag",
+        "snack",
+        "school"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "pencil은 연필이에요."
+    },
+    {
+      "question_ko": "가방은 무거웠나요?",
+      "type": "mc",
+      "options": [
+        "네",
+        "아니요",
+        "몰라요",
+        "아주 커요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "not heavy는 무겁지 않다는 뜻이에요."
+    },
+    {
+      "question_ko": "나는 어디 갈 준비가 됐나요?",
+      "type": "mc",
+      "options": [
+        "학교",
+        "공원",
+        "병원",
+        "가게"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "ready for school — 학교 갈 준비예요."
+    }
+  ]
+}

@@ -117,9 +117,28 @@ export function useKaraoke(
         rafRef.current = requestAnimationFrame(tick);
       };
       a.onended = finish;
-      a.play().then(() => {
-        rafRef.current = requestAnimationFrame(tick);
-      }).catch(() => speakFallback());
+      // 첫 play() 거부(autoplay·버퍼링)는 로드 후 1회 재시도, 그래도 안 되면 폴백
+      let retried = false;
+      const startAudio = () => {
+        a.play()
+          .then(() => {
+            rafRef.current = requestAnimationFrame(tick);
+          })
+          .catch(() => {
+            if (retried) {
+              speakFallback();
+              return;
+            }
+            retried = true;
+            a.addEventListener("canplaythrough", startAudio, { once: true });
+            try {
+              a.load();
+            } catch {
+              /* noop */
+            }
+          });
+      };
+      startAudio();
     } else {
       speakFallback();
     }

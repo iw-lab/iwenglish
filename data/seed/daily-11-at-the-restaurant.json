@@ -2,7 +2,7 @@
   "slug": "daily-11-at-the-restaurant",
   "title": "At the Restaurant",
   "title_ko": "식당에서",
-  "level": "A2",
+  "level": "B1",
   "ageBand": "8-10",
   "stage": 5,
   "collection": "daily",
@@ -557,6 +557,266 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When the soup is too hot, I wait and blow gently. Good manners help everyone enjoy dinner.",
+          "translation_ko": "수프가 너무 뜨거울 때 나는 기다리며 살짝 불어요. 좋은 예절은 모두가 저녁을 즐기는 데 도움이 돼요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 420
+            },
+            {
+              "word": "soup",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 420,
+              "endMs": 540
+            },
+            {
+              "word": "is",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 780
+            },
+            {
+              "word": "too",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 780,
+              "endMs": 1020
+            },
+            {
+              "word": "hot",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1020,
+              "endMs": 1340
+            },
+            {
+              "word": "I",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1780,
+              "endMs": 1920
+            },
+            {
+              "word": "wait",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2180
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2180,
+              "endMs": 2500
+            },
+            {
+              "word": "blow",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2500,
+              "endMs": 2700
+            },
+            {
+              "word": "gently",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2700,
+              "endMs": 3120
+            },
+            {
+              "word": "Good",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3860,
+              "endMs": 3920
+            },
+            {
+              "word": "manners",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 3920,
+              "endMs": 4220
+            },
+            {
+              "word": "help",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 4220,
+              "endMs": 4600
+            },
+            {
+              "word": "everyone",
+              "charStart": 68,
+              "charEnd": 76,
+              "startMs": 4600,
+              "endMs": 5140
+            },
+            {
+              "word": "enjoy",
+              "charStart": 77,
+              "charEnd": 82,
+              "startMs": 5140,
+              "endMs": 5540
+            },
+            {
+              "word": "dinner",
+              "charStart": 83,
+              "charEnd": 89,
+              "startMs": 5540,
+              "endMs": 5800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Before we leave, I say thank you to the server. I feel proud because I ordered politely.",
+          "translation_ko": "떠나기 전에 나는 직원에게 감사 인사를 해요. 예의 바르게 주문해서 자랑스러워요.",
+          "audio": "/seed/daily-11-at-the-restaurant/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Before",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "leave",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "I",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1360,
+              "endMs": 1500
+            },
+            {
+              "word": "say",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "thank",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 1980
+            },
+            {
+              "word": "you",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1980,
+              "endMs": 2100
+            },
+            {
+              "word": "to",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2220
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "server",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2420,
+              "endMs": 2660
+            },
+            {
+              "word": "I",
+              "charStart": 48,
+              "charEnd": 49,
+              "startMs": 3180,
+              "endMs": 3320
+            },
+            {
+              "word": "feel",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3320,
+              "endMs": 3460
+            },
+            {
+              "word": "proud",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3460,
+              "endMs": 3840
+            },
+            {
+              "word": "because",
+              "charStart": 61,
+              "charEnd": 68,
+              "startMs": 3840,
+              "endMs": 4180
+            },
+            {
+              "word": "I",
+              "charStart": 69,
+              "charEnd": 70,
+              "startMs": 4180,
+              "endMs": 4620
+            },
+            {
+              "word": "ordered",
+              "charStart": 71,
+              "charEnd": 78,
+              "startMs": 4620,
+              "endMs": 4620
+            },
+            {
+              "word": "politely",
+              "charStart": 79,
+              "charEnd": 87,
+              "startMs": 4620,
+              "endMs": 5020
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -620,6 +880,18 @@
       ],
       "answerIndex": 1,
       "explain_ko": "This is delicious — 정말 맛있다고 했어요."
+    },
+    {
+      "question_ko": "수프가 너무 뜨거울 때 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "기다리고 살짝 불었어요",
+        "바로 마셨어요",
+        "버렸어요",
+        "울었어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "wait and blow gently — 기다리고 살짝 불었어요."
     }
   ]
 }

@@ -1,0 +1,997 @@
+{
+  "slug": "daily-33-the-community-garden",
+  "title": "The Community Garden",
+  "title_ko": "함께 가꾸는 정원",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "동네 사람들이 함께 정원을 만들며 역할 분담, 협동, 결과를 더 풍부한 문장으로 익혀요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our neighborhood decides to make an empty lot into a community garden.",
+          "translation_ko": "우리 동네는 빈터를 함께 가꾸는 정원으로 만들기로 해요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "neighborhood",
+              "charStart": 4,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 1060
+            },
+            {
+              "word": "decides",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1060,
+              "endMs": 1540
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "make",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 1880
+            },
+            {
+              "word": "an",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "empty",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2140,
+              "endMs": 2360
+            },
+            {
+              "word": "lot",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2360,
+              "endMs": 2700
+            },
+            {
+              "word": "into",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2700,
+              "endMs": 2960
+            },
+            {
+              "word": "a",
+              "charStart": 51,
+              "charEnd": 52,
+              "startMs": 2960,
+              "endMs": 3180
+            },
+            {
+              "word": "community",
+              "charStart": 53,
+              "charEnd": 62,
+              "startMs": 3180,
+              "endMs": 3560
+            },
+            {
+              "word": "garden",
+              "charStart": 63,
+              "charEnd": 69,
+              "startMs": 3560,
+              "endMs": 3860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At first, the ground is dry, hard, and full of weeds.",
+          "translation_ko": "처음에는 땅이 마르고 딱딱하며 잡초가 가득해요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "first",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 560
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1200,
+              "endMs": 1640
+            },
+            {
+              "word": "ground",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1640,
+              "endMs": 1640
+            },
+            {
+              "word": "is",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 2020
+            },
+            {
+              "word": "dry",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 2020,
+              "endMs": 2420
+            },
+            {
+              "word": "hard",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 3080,
+              "endMs": 3080
+            },
+            {
+              "word": "and",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 3480,
+              "endMs": 3780
+            },
+            {
+              "word": "full",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 3780,
+              "endMs": 3860
+            },
+            {
+              "word": "of",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 3860,
+              "endMs": 4380
+            },
+            {
+              "word": "weeds",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 4380,
+              "endMs": 4380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Each family brings something useful, such as gloves, seeds, or old buckets.",
+          "translation_ko": "각 가족은 장갑, 씨앗, 낡은 양동이처럼 쓸모 있는 것을 가져와요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "family",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 920,
+              "endMs": 1260
+            },
+            {
+              "word": "brings",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1620
+            },
+            {
+              "word": "something",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 2000
+            },
+            {
+              "word": "useful",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2360
+            },
+            {
+              "word": "such",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2760,
+              "endMs": 2860
+            },
+            {
+              "word": "as",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2860,
+              "endMs": 3440
+            },
+            {
+              "word": "gloves",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3440,
+              "endMs": 3440
+            },
+            {
+              "word": "seeds",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 4020,
+              "endMs": 4040
+            },
+            {
+              "word": "or",
+              "charStart": 60,
+              "charEnd": 62,
+              "startMs": 4180,
+              "endMs": 4360
+            },
+            {
+              "word": "old",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 4360,
+              "endMs": 4600
+            },
+            {
+              "word": "buckets",
+              "charStart": 67,
+              "charEnd": 74,
+              "startMs": 4600,
+              "endMs": 4820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I work with Hana to pull weeds from the corner near the wall.",
+          "translation_ko": "나는 하나와 함께 담장 근처 모서리에서 잡초를 뽑아요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "work",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 440,
+              "endMs": 640
+            },
+            {
+              "word": "with",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "Hana",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1620
+            },
+            {
+              "word": "pull",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "weeds",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2200
+            },
+            {
+              "word": "from",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2440
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "corner",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2640,
+              "endMs": 2940
+            },
+            {
+              "word": "near",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2940,
+              "endMs": 3320
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3320,
+              "endMs": 3680
+            },
+            {
+              "word": "wall",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3680,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandpa shows us how to make straight rows before planting.",
+          "translation_ko": "할아버지는 심기 전에 곧은 줄을 만드는 법을 보여주세요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 1040
+            },
+            {
+              "word": "shows",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "us",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1380,
+              "endMs": 1600
+            },
+            {
+              "word": "how",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1600,
+              "endMs": 1720
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1720,
+              "endMs": 1880
+            },
+            {
+              "word": "make",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1880,
+              "endMs": 2000
+            },
+            {
+              "word": "straight",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2420
+            },
+            {
+              "word": "rows",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2420,
+              "endMs": 2800
+            },
+            {
+              "word": "before",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "word": "planting",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 3200,
+              "endMs": 3580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By lunchtime, tiny green plants are resting in the fresh soil.",
+          "translation_ko": "점심때가 되자 작은 초록 식물들이 새 흙 안에 자리 잡아요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "lunchtime",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 220,
+              "endMs": 880
+            },
+            {
+              "word": "tiny",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "green",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1740
+            },
+            {
+              "word": "plants",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 2040
+            },
+            {
+              "word": "are",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2040,
+              "endMs": 2280
+            },
+            {
+              "word": "resting",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2580
+            },
+            {
+              "word": "in",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2580,
+              "endMs": 2820
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2820,
+              "endMs": 3060
+            },
+            {
+              "word": "fresh",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3060,
+              "endMs": 3200
+            },
+            {
+              "word": "soil",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3200,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A neighbor paints signs so everyone knows where the tomatoes will grow.",
+          "translation_ko": "이웃 한 분은 토마토가 어디서 자랄지 모두 알도록 표지판을 칠해요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "neighbor",
+              "charStart": 2,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 480
+            },
+            {
+              "word": "paints",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 480,
+              "endMs": 820
+            },
+            {
+              "word": "signs",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 820,
+              "endMs": 1320
+            },
+            {
+              "word": "so",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1320,
+              "endMs": 1760
+            },
+            {
+              "word": "everyone",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 2200
+            },
+            {
+              "word": "knows",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "where",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2520,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2700,
+              "endMs": 2900
+            },
+            {
+              "word": "tomatoes",
+              "charStart": 52,
+              "charEnd": 60,
+              "startMs": 2900,
+              "endMs": 3220
+            },
+            {
+              "word": "will",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3220,
+              "endMs": 3500
+            },
+            {
+              "word": "grow",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 3500,
+              "endMs": 3720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When rain begins, nobody complains because the garden needs water.",
+          "translation_ko": "비가 내리기 시작해도 정원에는 물이 필요하므로 아무도 불평하지 않아요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "rain",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "begins",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 600,
+              "endMs": 1140
+            },
+            {
+              "word": "nobody",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1640,
+              "endMs": 1900
+            },
+            {
+              "word": "complains",
+              "charStart": 25,
+              "charEnd": 34,
+              "startMs": 1900,
+              "endMs": 2460
+            },
+            {
+              "word": "because",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2460,
+              "endMs": 2860
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2860,
+              "endMs": 3120
+            },
+            {
+              "word": "garden",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3120,
+              "endMs": 3400
+            },
+            {
+              "word": "needs",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3400,
+              "endMs": 3960
+            },
+            {
+              "word": "water",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3960,
+              "endMs": 4240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A week later, new leaves make the empty lot look alive.",
+          "translation_ko": "일주일 뒤 새 잎들이 빈터를 살아 있는 곳처럼 보이게 해요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "week",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 420
+            },
+            {
+              "word": "later",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "new",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "leaves",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "make",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2660
+            },
+            {
+              "word": "empty",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2660,
+              "endMs": 2660
+            },
+            {
+              "word": "lot",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2660,
+              "endMs": 2960
+            },
+            {
+              "word": "look",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2960,
+              "endMs": 3400
+            },
+            {
+              "word": "alive",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3400,
+              "endMs": 3760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I learn that a shared place grows better when many hands care for it.",
+          "translation_ko": "함께 쓰는 공간은 여러 손이 돌볼 때 더 잘 자란다는 걸 배워요.",
+          "audio": "/seed/daily-33-the-community-garden/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "learn",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "that",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1060
+            },
+            {
+              "word": "shared",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "place",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1340,
+              "endMs": 1760
+            },
+            {
+              "word": "grows",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 2120
+            },
+            {
+              "word": "better",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2600
+            },
+            {
+              "word": "when",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2600,
+              "endMs": 3120
+            },
+            {
+              "word": "many",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3120,
+              "endMs": 3380
+            },
+            {
+              "word": "hands",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3380,
+              "endMs": 3720
+            },
+            {
+              "word": "care",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3720,
+              "endMs": 4000
+            },
+            {
+              "word": "for",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 4000,
+              "endMs": 4240
+            },
+            {
+              "word": "it",
+              "charStart": 66,
+              "charEnd": 68,
+              "startMs": 4240,
+              "endMs": 4420
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "동네는 빈터를 무엇으로 만들기로 했나요?",
+      "type": "mc",
+      "options": [
+        "공동 정원",
+        "주차장",
+        "운동장",
+        "가게"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "community garden은 함께 가꾸는 정원이에요."
+    },
+    {
+      "question_ko": "처음 땅은 어떤 상태였나요?",
+      "type": "mc",
+      "options": [
+        "마르고 딱딱함",
+        "부드럽고 촉촉함",
+        "눈으로 덮임",
+        "물이 가득함"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "dry, hard, and full of weeds예요."
+    },
+    {
+      "question_ko": "각 가족이 가져온 물건 예시는?",
+      "type": "mc",
+      "options": [
+        "장갑과 씨앗",
+        "텔레비전",
+        "의자만",
+        "악기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "gloves, seeds, buckets를 가져왔어요."
+    },
+    {
+      "question_ko": "비가 와도 불평하지 않은 이유는?",
+      "type": "mc",
+      "options": [
+        "정원에 물이 필요해서",
+        "집에 가고 싶어서",
+        "우산이 없어서",
+        "노래하려고"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "the garden needs water."
+    },
+    {
+      "question_ko": "화자가 배운 것은?",
+      "type": "mc",
+      "options": [
+        "함께 돌보면 더 잘 자람",
+        "혼자 해야 함",
+        "식물은 자라지 않음",
+        "비는 나쁨"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "many hands care for it — 여러 손이 돌보는 힘이에요."
+    }
+  ]
+}

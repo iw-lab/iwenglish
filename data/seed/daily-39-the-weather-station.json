@@ -1,0 +1,1801 @@
+{
+  "slug": "daily-39-the-weather-station",
+  "title": "The Weather Station",
+  "title_ko": "날씨 관찰소",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "반 친구들이 날씨 관찰소를 만들고 데이터를 읽으며 예측과 근거 표현을 긴 문장으로 연습해요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our class builds a weather station beside the classroom window. It has a thermometer, a rain cup, and a wind ribbon.",
+          "translation_ko": "우리 반은 교실 창문 옆에 날씨 관찰소를 만들어요. 거기에는 온도계, 빗물 컵, 바람 리본이 있어요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "builds",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "weather",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "station",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1360,
+              "endMs": 1720
+            },
+            {
+              "word": "beside",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 1720,
+              "endMs": 2100
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "classroom",
+              "charStart": 46,
+              "charEnd": 55,
+              "startMs": 2340,
+              "endMs": 2720
+            },
+            {
+              "word": "window",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 2720,
+              "endMs": 3080
+            },
+            {
+              "word": "It",
+              "charStart": 64,
+              "charEnd": 66,
+              "startMs": 3700,
+              "endMs": 3740
+            },
+            {
+              "word": "has",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 3740,
+              "endMs": 3900
+            },
+            {
+              "word": "a",
+              "charStart": 71,
+              "charEnd": 72,
+              "startMs": 3900,
+              "endMs": 4160
+            },
+            {
+              "word": "thermometer",
+              "charStart": 73,
+              "charEnd": 84,
+              "startMs": 4160,
+              "endMs": 4480
+            },
+            {
+              "word": "a",
+              "charStart": 86,
+              "charEnd": 87,
+              "startMs": 5020,
+              "endMs": 5180
+            },
+            {
+              "word": "rain",
+              "charStart": 88,
+              "charEnd": 92,
+              "startMs": 5180,
+              "endMs": 5300
+            },
+            {
+              "word": "cup",
+              "charStart": 93,
+              "charEnd": 96,
+              "startMs": 5300,
+              "endMs": 5560
+            },
+            {
+              "word": "and",
+              "charStart": 98,
+              "charEnd": 101,
+              "startMs": 5920,
+              "endMs": 6040
+            },
+            {
+              "word": "a",
+              "charStart": 102,
+              "charEnd": 103,
+              "startMs": 6040,
+              "endMs": 6220
+            },
+            {
+              "word": "wind",
+              "charStart": 104,
+              "charEnd": 108,
+              "startMs": 6220,
+              "endMs": 6280
+            },
+            {
+              "word": "ribbon",
+              "charStart": 109,
+              "charEnd": 115,
+              "startMs": 6280,
+              "endMs": 6520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Every morning, two students record the temperature before lessons begin. We write the numbers on a large calendar.",
+          "translation_ko": "매일 아침 학생 두 명이 수업 시작 전에 온도를 기록해요. 우리는 큰 달력에 숫자를 적어요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "morning",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "two",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "students",
+              "charStart": 19,
+              "charEnd": 27,
+              "startMs": 1300,
+              "endMs": 1660
+            },
+            {
+              "word": "record",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1660,
+              "endMs": 2040
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2040,
+              "endMs": 2360
+            },
+            {
+              "word": "temperature",
+              "charStart": 39,
+              "charEnd": 50,
+              "startMs": 2360,
+              "endMs": 2640
+            },
+            {
+              "word": "before",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 2640,
+              "endMs": 3280
+            },
+            {
+              "word": "lessons",
+              "charStart": 58,
+              "charEnd": 65,
+              "startMs": 3280,
+              "endMs": 3640
+            },
+            {
+              "word": "begin",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 3640,
+              "endMs": 4060
+            },
+            {
+              "word": "We",
+              "charStart": 73,
+              "charEnd": 75,
+              "startMs": 4840,
+              "endMs": 5000
+            },
+            {
+              "word": "write",
+              "charStart": 76,
+              "charEnd": 81,
+              "startMs": 5000,
+              "endMs": 5180
+            },
+            {
+              "word": "the",
+              "charStart": 82,
+              "charEnd": 85,
+              "startMs": 5180,
+              "endMs": 5480
+            },
+            {
+              "word": "numbers",
+              "charStart": 86,
+              "charEnd": 93,
+              "startMs": 5480,
+              "endMs": 5560
+            },
+            {
+              "word": "on",
+              "charStart": 94,
+              "charEnd": 96,
+              "startMs": 5560,
+              "endMs": 5800
+            },
+            {
+              "word": "a",
+              "charStart": 97,
+              "charEnd": 98,
+              "startMs": 5800,
+              "endMs": 5960
+            },
+            {
+              "word": "large",
+              "charStart": 99,
+              "charEnd": 104,
+              "startMs": 5960,
+              "endMs": 6200
+            },
+            {
+              "word": "calendar",
+              "charStart": 105,
+              "charEnd": 113,
+              "startMs": 6200,
+              "endMs": 6560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At first, the numbers seem like a long list without meaning. Then our teacher asks us to look for patterns.",
+          "translation_ko": "처음에는 숫자들이 의미 없는 긴 목록처럼 보여요. 그러자 선생님은 규칙을 찾아보라고 하세요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "first",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1180,
+              "endMs": 1620
+            },
+            {
+              "word": "numbers",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1620,
+              "endMs": 1620
+            },
+            {
+              "word": "seem",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1960
+            },
+            {
+              "word": "like",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2320
+            },
+            {
+              "word": "long",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2320,
+              "endMs": 2620
+            },
+            {
+              "word": "list",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2620,
+              "endMs": 2980
+            },
+            {
+              "word": "without",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 3420,
+              "endMs": 3440
+            },
+            {
+              "word": "meaning",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3440,
+              "endMs": 3800
+            },
+            {
+              "word": "Then",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 4920,
+              "endMs": 5060
+            },
+            {
+              "word": "our",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 5060,
+              "endMs": 5260
+            },
+            {
+              "word": "teacher",
+              "charStart": 70,
+              "charEnd": 77,
+              "startMs": 5260,
+              "endMs": 5480
+            },
+            {
+              "word": "asks",
+              "charStart": 78,
+              "charEnd": 82,
+              "startMs": 5480,
+              "endMs": 5840
+            },
+            {
+              "word": "us",
+              "charStart": 83,
+              "charEnd": 85,
+              "startMs": 5840,
+              "endMs": 6080
+            },
+            {
+              "word": "to",
+              "charStart": 86,
+              "charEnd": 88,
+              "startMs": 6080,
+              "endMs": 6280
+            },
+            {
+              "word": "look",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 6280,
+              "endMs": 6340
+            },
+            {
+              "word": "for",
+              "charStart": 94,
+              "charEnd": 97,
+              "startMs": 6340,
+              "endMs": 6680
+            },
+            {
+              "word": "patterns",
+              "charStart": 98,
+              "charEnd": 106,
+              "startMs": 6680,
+              "endMs": 6820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I notice that cloudy mornings are often cooler than bright mornings. Mina notices that windy days dry the playground faster.",
+          "translation_ko": "나는 흐린 아침이 밝은 아침보다 자주 더 시원하다는 걸 알아차려요. 미나는 바람 부는 날 운동장이 더 빨리 마른다는 걸 알아차려요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "notice",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 180,
+              "endMs": 600
+            },
+            {
+              "word": "that",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "cloudy",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "mornings",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1160,
+              "endMs": 1520
+            },
+            {
+              "word": "are",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1520,
+              "endMs": 1740
+            },
+            {
+              "word": "often",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1740,
+              "endMs": 2080
+            },
+            {
+              "word": "cooler",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2080,
+              "endMs": 2480
+            },
+            {
+              "word": "than",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2480,
+              "endMs": 2740
+            },
+            {
+              "word": "bright",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 2740,
+              "endMs": 2980
+            },
+            {
+              "word": "mornings",
+              "charStart": 59,
+              "charEnd": 67,
+              "startMs": 2980,
+              "endMs": 3420
+            },
+            {
+              "word": "Mina",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 4120,
+              "endMs": 4160
+            },
+            {
+              "word": "notices",
+              "charStart": 74,
+              "charEnd": 81,
+              "startMs": 4160,
+              "endMs": 4580
+            },
+            {
+              "word": "that",
+              "charStart": 82,
+              "charEnd": 86,
+              "startMs": 4580,
+              "endMs": 4960
+            },
+            {
+              "word": "windy",
+              "charStart": 87,
+              "charEnd": 92,
+              "startMs": 4960,
+              "endMs": 5200
+            },
+            {
+              "word": "days",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 5200,
+              "endMs": 5540
+            },
+            {
+              "word": "dry",
+              "charStart": 98,
+              "charEnd": 101,
+              "startMs": 5540,
+              "endMs": 5880
+            },
+            {
+              "word": "the",
+              "charStart": 102,
+              "charEnd": 105,
+              "startMs": 5880,
+              "endMs": 6060
+            },
+            {
+              "word": "playground",
+              "charStart": 106,
+              "charEnd": 116,
+              "startMs": 6060,
+              "endMs": 6420
+            },
+            {
+              "word": "faster",
+              "charStart": 117,
+              "charEnd": 123,
+              "startMs": 6420,
+              "endMs": 6900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Wednesday, dark clouds gather before lunch. Our chart says rain often comes after three cool mornings.",
+          "translation_ko": "수요일 점심 전 어두운 구름이 모여요. 우리 표는 시원한 아침이 세 번 이어진 뒤 비가 자주 온다고 말해요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "Wednesday",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "dark",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1440,
+              "endMs": 1460
+            },
+            {
+              "word": "clouds",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 1840
+            },
+            {
+              "word": "gather",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1840,
+              "endMs": 2240
+            },
+            {
+              "word": "before",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2620
+            },
+            {
+              "word": "lunch",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2620,
+              "endMs": 3000
+            },
+            {
+              "word": "Our",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3560,
+              "endMs": 3840
+            },
+            {
+              "word": "chart",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3840,
+              "endMs": 4040
+            },
+            {
+              "word": "says",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 4040,
+              "endMs": 4380
+            },
+            {
+              "word": "rain",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 4380,
+              "endMs": 4640
+            },
+            {
+              "word": "often",
+              "charStart": 67,
+              "charEnd": 72,
+              "startMs": 4640,
+              "endMs": 5040
+            },
+            {
+              "word": "comes",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 5040,
+              "endMs": 5280
+            },
+            {
+              "word": "after",
+              "charStart": 79,
+              "charEnd": 84,
+              "startMs": 5280,
+              "endMs": 5540
+            },
+            {
+              "word": "three",
+              "charStart": 85,
+              "charEnd": 90,
+              "startMs": 5540,
+              "endMs": 5940
+            },
+            {
+              "word": "cool",
+              "charStart": 91,
+              "charEnd": 95,
+              "startMs": 5940,
+              "endMs": 6180
+            },
+            {
+              "word": "mornings",
+              "charStart": 96,
+              "charEnd": 104,
+              "startMs": 6180,
+              "endMs": 6500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We predict that rain will fall before the final bell. Some classmates disagree because the sky is still dry.",
+          "translation_ko": "우리는 마지막 종이 울리기 전에 비가 올 거라고 예측해요. 하늘이 아직 말라 보여서 몇몇 친구들은 동의하지 않아요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "predict",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "that",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 1240
+            },
+            {
+              "word": "rain",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "will",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 1760
+            },
+            {
+              "word": "fall",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "before",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2040,
+              "endMs": 2600
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 2820
+            },
+            {
+              "word": "final",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2820,
+              "endMs": 3100
+            },
+            {
+              "word": "bell",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3360
+            },
+            {
+              "word": "Some",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 4260,
+              "endMs": 4400
+            },
+            {
+              "word": "classmates",
+              "charStart": 59,
+              "charEnd": 69,
+              "startMs": 4400,
+              "endMs": 4840
+            },
+            {
+              "word": "disagree",
+              "charStart": 70,
+              "charEnd": 78,
+              "startMs": 4840,
+              "endMs": 5320
+            },
+            {
+              "word": "because",
+              "charStart": 79,
+              "charEnd": 86,
+              "startMs": 5320,
+              "endMs": 5860
+            },
+            {
+              "word": "the",
+              "charStart": 87,
+              "charEnd": 90,
+              "startMs": 5860,
+              "endMs": 6120
+            },
+            {
+              "word": "sky",
+              "charStart": 91,
+              "charEnd": 94,
+              "startMs": 6120,
+              "endMs": 6260
+            },
+            {
+              "word": "is",
+              "charStart": 95,
+              "charEnd": 97,
+              "startMs": 6260,
+              "endMs": 6520
+            },
+            {
+              "word": "still",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 6520,
+              "endMs": 6800
+            },
+            {
+              "word": "dry",
+              "charStart": 104,
+              "charEnd": 107,
+              "startMs": 6800,
+              "endMs": 7040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "During reading time, tiny drops begin tapping the window. The class turns toward our weather station in surprise.",
+          "translation_ko": "읽기 시간에 작은 물방울들이 창문을 두드리기 시작해요. 반 친구들은 놀라서 우리 날씨 관찰소 쪽을 봐요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "During",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "reading",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "time",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 820,
+              "endMs": 1360
+            },
+            {
+              "word": "tiny",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 1980
+            },
+            {
+              "word": "drops",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1980,
+              "endMs": 2280
+            },
+            {
+              "word": "begin",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2620
+            },
+            {
+              "word": "tapping",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2620,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2960,
+              "endMs": 3520
+            },
+            {
+              "word": "window",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3520,
+              "endMs": 3520
+            },
+            {
+              "word": "The",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 4400,
+              "endMs": 4480
+            },
+            {
+              "word": "class",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 4480,
+              "endMs": 4800
+            },
+            {
+              "word": "turns",
+              "charStart": 68,
+              "charEnd": 73,
+              "startMs": 4800,
+              "endMs": 5160
+            },
+            {
+              "word": "toward",
+              "charStart": 74,
+              "charEnd": 80,
+              "startMs": 5160,
+              "endMs": 5380
+            },
+            {
+              "word": "our",
+              "charStart": 81,
+              "charEnd": 84,
+              "startMs": 5380,
+              "endMs": 5620
+            },
+            {
+              "word": "weather",
+              "charStart": 85,
+              "charEnd": 92,
+              "startMs": 5620,
+              "endMs": 5840
+            },
+            {
+              "word": "station",
+              "charStart": 93,
+              "charEnd": 100,
+              "startMs": 5840,
+              "endMs": 6200
+            },
+            {
+              "word": "in",
+              "charStart": 101,
+              "charEnd": 103,
+              "startMs": 6200,
+              "endMs": 6720
+            },
+            {
+              "word": "surprise",
+              "charStart": 104,
+              "charEnd": 112,
+              "startMs": 6720,
+              "endMs": 7260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Our prediction was not magic; it came from careful records. That makes the rain feel even more exciting.",
+          "translation_ko": "우리의 예측은 마법이 아니었어요. 조심스러운 기록에서 나온 것이었어요. 그래서 비가 더 신나게 느껴져요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "prediction",
+              "charStart": 4,
+              "charEnd": 14,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "was",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "not",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "magic",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1180,
+              "endMs": 1600
+            },
+            {
+              "word": "it",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1840,
+              "endMs": 2020
+            },
+            {
+              "word": "came",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2020,
+              "endMs": 2160
+            },
+            {
+              "word": "from",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2160,
+              "endMs": 2400
+            },
+            {
+              "word": "careful",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2400,
+              "endMs": 2820
+            },
+            {
+              "word": "records",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 2820,
+              "endMs": 3240
+            },
+            {
+              "word": "That",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3980,
+              "endMs": 4040
+            },
+            {
+              "word": "makes",
+              "charStart": 65,
+              "charEnd": 70,
+              "startMs": 4040,
+              "endMs": 4220
+            },
+            {
+              "word": "the",
+              "charStart": 71,
+              "charEnd": 74,
+              "startMs": 4220,
+              "endMs": 4420
+            },
+            {
+              "word": "rain",
+              "charStart": 75,
+              "charEnd": 79,
+              "startMs": 4420,
+              "endMs": 4640
+            },
+            {
+              "word": "feel",
+              "charStart": 80,
+              "charEnd": 84,
+              "startMs": 4640,
+              "endMs": 4960
+            },
+            {
+              "word": "even",
+              "charStart": 85,
+              "charEnd": 89,
+              "startMs": 4960,
+              "endMs": 5240
+            },
+            {
+              "word": "more",
+              "charStart": 90,
+              "charEnd": 94,
+              "startMs": 5240,
+              "endMs": 5540
+            },
+            {
+              "word": "exciting",
+              "charStart": 95,
+              "charEnd": 103,
+              "startMs": 5540,
+              "endMs": 5840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next week, we add a question box under the chart. Students write what they wonder about clouds and wind.",
+          "translation_ko": "다음 주 우리는 표 아래에 질문 상자를 더해요. 학생들은 구름과 바람에 대해 궁금한 것을 적어요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "week",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "we",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1280
+            },
+            {
+              "word": "add",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1420
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1580
+            },
+            {
+              "word": "question",
+              "charStart": 24,
+              "charEnd": 32,
+              "startMs": 1580,
+              "endMs": 1960
+            },
+            {
+              "word": "box",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1960,
+              "endMs": 2280
+            },
+            {
+              "word": "under",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2540
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2540,
+              "endMs": 2980
+            },
+            {
+              "word": "chart",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2980,
+              "endMs": 2980
+            },
+            {
+              "word": "Students",
+              "charStart": 54,
+              "charEnd": 62,
+              "startMs": 3840,
+              "endMs": 3840
+            },
+            {
+              "word": "write",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 3840,
+              "endMs": 4100
+            },
+            {
+              "word": "what",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 4100,
+              "endMs": 4320
+            },
+            {
+              "word": "they",
+              "charStart": 74,
+              "charEnd": 78,
+              "startMs": 4320,
+              "endMs": 4540
+            },
+            {
+              "word": "wonder",
+              "charStart": 79,
+              "charEnd": 85,
+              "startMs": 4540,
+              "endMs": 4800
+            },
+            {
+              "word": "about",
+              "charStart": 86,
+              "charEnd": 91,
+              "startMs": 4800,
+              "endMs": 5140
+            },
+            {
+              "word": "clouds",
+              "charStart": 92,
+              "charEnd": 98,
+              "startMs": 5140,
+              "endMs": 5480
+            },
+            {
+              "word": "and",
+              "charStart": 99,
+              "charEnd": 102,
+              "startMs": 5480,
+              "endMs": 5820
+            },
+            {
+              "word": "wind",
+              "charStart": 103,
+              "charEnd": 107,
+              "startMs": 5820,
+              "endMs": 5980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One question asks why the wind changes direction so quickly. We decide to observe the ribbon at different times.",
+          "translation_ko": "한 질문은 왜 바람 방향이 그렇게 빨리 바뀌는지 물어요. 우리는 다른 시간에 리본을 관찰하기로 해요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "question",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 320,
+              "endMs": 760
+            },
+            {
+              "word": "asks",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1140
+            },
+            {
+              "word": "why",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 1660
+            },
+            {
+              "word": "wind",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "changes",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1860,
+              "endMs": 2360
+            },
+            {
+              "word": "direction",
+              "charStart": 39,
+              "charEnd": 48,
+              "startMs": 2360,
+              "endMs": 2860
+            },
+            {
+              "word": "so",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 2860,
+              "endMs": 3220
+            },
+            {
+              "word": "quickly",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3220,
+              "endMs": 3480
+            },
+            {
+              "word": "We",
+              "charStart": 61,
+              "charEnd": 63,
+              "startMs": 4240,
+              "endMs": 4340
+            },
+            {
+              "word": "decide",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 4340,
+              "endMs": 4660
+            },
+            {
+              "word": "to",
+              "charStart": 71,
+              "charEnd": 73,
+              "startMs": 4660,
+              "endMs": 5200
+            },
+            {
+              "word": "observe",
+              "charStart": 74,
+              "charEnd": 81,
+              "startMs": 5200,
+              "endMs": 5200
+            },
+            {
+              "word": "the",
+              "charStart": 82,
+              "charEnd": 85,
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "word": "ribbon",
+              "charStart": 86,
+              "charEnd": 92,
+              "startMs": 5600,
+              "endMs": 5600
+            },
+            {
+              "word": "at",
+              "charStart": 93,
+              "charEnd": 95,
+              "startMs": 5600,
+              "endMs": 5860
+            },
+            {
+              "word": "different",
+              "charStart": 96,
+              "charEnd": 105,
+              "startMs": 5860,
+              "endMs": 6160
+            },
+            {
+              "word": "times",
+              "charStart": 106,
+              "charEnd": 111,
+              "startMs": 6160,
+              "endMs": 6580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By the end of the month, our calendar is full of colors and notes. Weather no longer feels random to me.",
+          "translation_ko": "월말이 되자 우리 달력은 색과 기록으로 가득 차요. 날씨는 더 이상 나에게 무작위처럼 느껴지지 않아요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1040
+            },
+            {
+              "word": "month",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "our",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "calendar",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1620,
+              "endMs": 1980
+            },
+            {
+              "word": "is",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 1980,
+              "endMs": 2300
+            },
+            {
+              "word": "full",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "of",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2520,
+              "endMs": 2720
+            },
+            {
+              "word": "colors",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 2720,
+              "endMs": 3080
+            },
+            {
+              "word": "and",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3080,
+              "endMs": 3320
+            },
+            {
+              "word": "notes",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3320,
+              "endMs": 3600
+            },
+            {
+              "word": "Weather",
+              "charStart": 67,
+              "charEnd": 74,
+              "startMs": 4220,
+              "endMs": 4300
+            },
+            {
+              "word": "no",
+              "charStart": 75,
+              "charEnd": 77,
+              "startMs": 4300,
+              "endMs": 4580
+            },
+            {
+              "word": "longer",
+              "charStart": 78,
+              "charEnd": 84,
+              "startMs": 4580,
+              "endMs": 4900
+            },
+            {
+              "word": "feels",
+              "charStart": 85,
+              "charEnd": 90,
+              "startMs": 4900,
+              "endMs": 5220
+            },
+            {
+              "word": "random",
+              "charStart": 91,
+              "charEnd": 97,
+              "startMs": 5220,
+              "endMs": 5480
+            },
+            {
+              "word": "to",
+              "charStart": 98,
+              "charEnd": 100,
+              "startMs": 5480,
+              "endMs": 5720
+            },
+            {
+              "word": "me",
+              "charStart": 101,
+              "charEnd": 103,
+              "startMs": 5720,
+              "endMs": 5860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I learn that good questions can turn an ordinary window into a place for discovery.",
+          "translation_ko": "좋은 질문은 평범한 창문도 발견의 장소로 바꿀 수 있다는 걸 배워요.",
+          "audio": "/seed/daily-39-the-weather-station/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "learn",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "that",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 620,
+              "endMs": 1160
+            },
+            {
+              "word": "good",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1460
+            },
+            {
+              "word": "questions",
+              "charStart": 18,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 2060
+            },
+            {
+              "word": "can",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2620
+            },
+            {
+              "word": "turn",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "an",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2840,
+              "endMs": 3160
+            },
+            {
+              "word": "ordinary",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 3160,
+              "endMs": 3500
+            },
+            {
+              "word": "window",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3500,
+              "endMs": 3980
+            },
+            {
+              "word": "into",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3980,
+              "endMs": 4520
+            },
+            {
+              "word": "a",
+              "charStart": 61,
+              "charEnd": 62,
+              "startMs": 4520,
+              "endMs": 4720
+            },
+            {
+              "word": "place",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 4720,
+              "endMs": 4900
+            },
+            {
+              "word": "for",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 4900,
+              "endMs": 5180
+            },
+            {
+              "word": "discovery",
+              "charStart": 73,
+              "charEnd": 82,
+              "startMs": 5180,
+              "endMs": 5540
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "날씨 관찰소에는 무엇이 있었나요?",
+      "type": "mc",
+      "options": [
+        "온도계, 빗물 컵, 바람 리본",
+        "요리 도구",
+        "책만",
+        "운동화"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "thermometer, rain cup, wind ribbon이에요."
+    },
+    {
+      "question_ko": "매일 아침 무엇을 기록했나요?",
+      "type": "mc",
+      "options": [
+        "온도",
+        "점심 메뉴",
+        "숙제",
+        "책 제목"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "record the temperature예요."
+    },
+    {
+      "question_ko": "선생님은 무엇을 찾아보라고 했나요?",
+      "type": "mc",
+      "options": [
+        "규칙",
+        "모자",
+        "연필",
+        "문"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "patterns는 규칙이에요."
+    },
+    {
+      "question_ko": "비 예측은 무엇에서 나왔나요?",
+      "type": "mc",
+      "options": [
+        "조심스러운 기록",
+        "마법",
+        "소문",
+        "운"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "careful records에서 나왔어요."
+    },
+    {
+      "question_ko": "질문 상자에는 무엇을 적었나요?",
+      "type": "mc",
+      "options": [
+        "구름과 바람에 대한 궁금증",
+        "간식 목록",
+        "노래 가사",
+        "주소"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "wonder about clouds and wind."
+    },
+    {
+      "question_ko": "화자가 배운 것은?",
+      "type": "mc",
+      "options": [
+        "좋은 질문이 발견을 만든다",
+        "날씨는 항상 같다",
+        "기록은 필요 없다",
+        "창문은 쓸모없다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "good questions can turn... into discovery."
+    }
+  ]
+}

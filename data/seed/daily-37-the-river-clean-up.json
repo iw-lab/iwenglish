@@ -1,0 +1,1836 @@
+{
+  "slug": "daily-37-the-river-clean-up",
+  "title": "The River Clean-Up",
+  "title_ko": "강가 청소 날",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "강가 청소 봉사에서 문제 원인과 해결 과정을 두 문장 페이지로 읽는 고분량 단계 6 그림책이에요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our class joins a river clean-up on Saturday morning. We meet near the bridge with gloves and large bags.",
+          "translation_ko": "우리 반은 토요일 아침 강가 청소에 참여해요. 우리는 장갑과 큰 봉투를 들고 다리 근처에 모여요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "joins",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "river",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1360
+            },
+            {
+              "word": "clean-up",
+              "charStart": 24,
+              "charEnd": 32,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "on",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "Saturday",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2020,
+              "endMs": 2360
+            },
+            {
+              "word": "morning",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2360,
+              "endMs": 2760
+            },
+            {
+              "word": "We",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3380,
+              "endMs": 3460
+            },
+            {
+              "word": "meet",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3460,
+              "endMs": 3680
+            },
+            {
+              "word": "near",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3680,
+              "endMs": 3880
+            },
+            {
+              "word": "the",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 3880,
+              "endMs": 4220
+            },
+            {
+              "word": "bridge",
+              "charStart": 71,
+              "charEnd": 77,
+              "startMs": 4220,
+              "endMs": 4240
+            },
+            {
+              "word": "with",
+              "charStart": 78,
+              "charEnd": 82,
+              "startMs": 4240,
+              "endMs": 4540
+            },
+            {
+              "word": "gloves",
+              "charStart": 83,
+              "charEnd": 89,
+              "startMs": 4540,
+              "endMs": 4780
+            },
+            {
+              "word": "and",
+              "charStart": 90,
+              "charEnd": 93,
+              "startMs": 4780,
+              "endMs": 5140
+            },
+            {
+              "word": "large",
+              "charStart": 94,
+              "charEnd": 99,
+              "startMs": 5140,
+              "endMs": 5420
+            },
+            {
+              "word": "bags",
+              "charStart": 100,
+              "charEnd": 104,
+              "startMs": 5420,
+              "endMs": 5700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The river looks peaceful from far away. However, small pieces of plastic are caught between the stones.",
+          "translation_ko": "멀리서 보면 강은 평화로워 보여요. 하지만 작은 플라스틱 조각들이 돌 사이에 걸려 있어요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "river",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "looks",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "peaceful",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 900,
+              "endMs": 1380
+            },
+            {
+              "word": "from",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1380,
+              "endMs": 1720
+            },
+            {
+              "word": "far",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 2040
+            },
+            {
+              "word": "away",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "However",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 3260,
+              "endMs": 3440
+            },
+            {
+              "word": "small",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3980,
+              "endMs": 4180
+            },
+            {
+              "word": "pieces",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 4180,
+              "endMs": 4460
+            },
+            {
+              "word": "of",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 4460,
+              "endMs": 5120
+            },
+            {
+              "word": "plastic",
+              "charStart": 65,
+              "charEnd": 72,
+              "startMs": 5120,
+              "endMs": 5120
+            },
+            {
+              "word": "are",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 5120,
+              "endMs": 5420
+            },
+            {
+              "word": "caught",
+              "charStart": 77,
+              "charEnd": 83,
+              "startMs": 5420,
+              "endMs": 5660
+            },
+            {
+              "word": "between",
+              "charStart": 84,
+              "charEnd": 91,
+              "startMs": 5660,
+              "endMs": 5960
+            },
+            {
+              "word": "the",
+              "charStart": 92,
+              "charEnd": 95,
+              "startMs": 5960,
+              "endMs": 6480
+            },
+            {
+              "word": "stones",
+              "charStart": 96,
+              "charEnd": 102,
+              "startMs": 6480,
+              "endMs": 6480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Our teacher reminds us to move slowly and stay together. Safety matters more than finishing quickly.",
+          "translation_ko": "선생님은 천천히 움직이고 함께 있으라고 알려주세요. 빨리 끝내는 것보다 안전이 더 중요해요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "teacher",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "reminds",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 560,
+              "endMs": 1040
+            },
+            {
+              "word": "us",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "to",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "move",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "slowly",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 1700,
+              "endMs": 2140
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2140,
+              "endMs": 2680
+            },
+            {
+              "word": "stay",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2680,
+              "endMs": 2900
+            },
+            {
+              "word": "together",
+              "charStart": 47,
+              "charEnd": 55,
+              "startMs": 2900,
+              "endMs": 3320
+            },
+            {
+              "word": "Safety",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 4120,
+              "endMs": 4260
+            },
+            {
+              "word": "matters",
+              "charStart": 64,
+              "charEnd": 71,
+              "startMs": 4260,
+              "endMs": 4640
+            },
+            {
+              "word": "more",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 4640,
+              "endMs": 4980
+            },
+            {
+              "word": "than",
+              "charStart": 77,
+              "charEnd": 81,
+              "startMs": 4980,
+              "endMs": 5240
+            },
+            {
+              "word": "finishing",
+              "charStart": 82,
+              "charEnd": 91,
+              "startMs": 5240,
+              "endMs": 5560
+            },
+            {
+              "word": "quickly",
+              "charStart": 92,
+              "charEnd": 99,
+              "startMs": 5560,
+              "endMs": 5960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I pick up bottle caps, snack wrappers, and a broken toy wheel. Each tiny thing makes my bag heavier.",
+          "translation_ko": "나는 병뚜껑, 과자 봉지, 부서진 장난감 바퀴를 주워요. 작은 것 하나하나가 내 봉투를 더 무겁게 해요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "pick",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 380,
+              "endMs": 620
+            },
+            {
+              "word": "up",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "bottle",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "caps",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1540
+            },
+            {
+              "word": "snack",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 2140,
+              "endMs": 2180
+            },
+            {
+              "word": "wrappers",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2600
+            },
+            {
+              "word": "and",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 3220,
+              "endMs": 3300
+            },
+            {
+              "word": "a",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 3300,
+              "endMs": 3500
+            },
+            {
+              "word": "broken",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3500,
+              "endMs": 3780
+            },
+            {
+              "word": "toy",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3780,
+              "endMs": 4100
+            },
+            {
+              "word": "wheel",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 4100,
+              "endMs": 4380
+            },
+            {
+              "word": "Each",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 5120,
+              "endMs": 5280
+            },
+            {
+              "word": "tiny",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 5280,
+              "endMs": 5700
+            },
+            {
+              "word": "thing",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 5700,
+              "endMs": 5920
+            },
+            {
+              "word": "makes",
+              "charStart": 79,
+              "charEnd": 84,
+              "startMs": 5920,
+              "endMs": 6140
+            },
+            {
+              "word": "my",
+              "charStart": 85,
+              "charEnd": 87,
+              "startMs": 6140,
+              "endMs": 6360
+            },
+            {
+              "word": "bag",
+              "charStart": 88,
+              "charEnd": 91,
+              "startMs": 6360,
+              "endMs": 6600
+            },
+            {
+              "word": "heavier",
+              "charStart": 92,
+              "charEnd": 99,
+              "startMs": 6600,
+              "endMs": 6900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina finds a fishing line tangled around a branch. We call an adult because it is hard to remove.",
+          "translation_ko": "미나는 나뭇가지에 엉킨 낚싯줄을 찾아요. 빼기 어려워서 우리는 어른을 불러요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "finds",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 1200
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "fishing",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "line",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1780,
+              "endMs": 2160
+            },
+            {
+              "word": "tangled",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2160,
+              "endMs": 2560
+            },
+            {
+              "word": "around",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2560,
+              "endMs": 2980
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2980,
+              "endMs": 3720
+            },
+            {
+              "word": "branch",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3720,
+              "endMs": 3820
+            },
+            {
+              "word": "We",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 4240,
+              "endMs": 4380
+            },
+            {
+              "word": "call",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 4380,
+              "endMs": 4620
+            },
+            {
+              "word": "an",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 4620,
+              "endMs": 4860
+            },
+            {
+              "word": "adult",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 4860,
+              "endMs": 5080
+            },
+            {
+              "word": "because",
+              "charStart": 68,
+              "charEnd": 75,
+              "startMs": 5080,
+              "endMs": 5580
+            },
+            {
+              "word": "it",
+              "charStart": 76,
+              "charEnd": 78,
+              "startMs": 5580,
+              "endMs": 5700
+            },
+            {
+              "word": "is",
+              "charStart": 79,
+              "charEnd": 81,
+              "startMs": 5700,
+              "endMs": 5920
+            },
+            {
+              "word": "hard",
+              "charStart": 82,
+              "charEnd": 86,
+              "startMs": 5920,
+              "endMs": 6100
+            },
+            {
+              "word": "to",
+              "charStart": 87,
+              "charEnd": 89,
+              "startMs": 6100,
+              "endMs": 6620
+            },
+            {
+              "word": "remove",
+              "charStart": 90,
+              "charEnd": 96,
+              "startMs": 6620,
+              "endMs": 6620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After an hour, the path beside the water looks cleaner. Birds return to the quiet stones near the bank.",
+          "translation_ko": "한 시간이 지나자 물가 옆 길이 더 깨끗해 보여요. 새들이 둑 근처 조용한 돌 위로 돌아와요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "an",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 740
+            },
+            {
+              "word": "hour",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1240
+            },
+            {
+              "word": "path",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "beside",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1460,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "water",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "looks",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2300,
+              "endMs": 2640
+            },
+            {
+              "word": "cleaner",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2640,
+              "endMs": 2960
+            },
+            {
+              "word": "Birds",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3840,
+              "endMs": 3840
+            },
+            {
+              "word": "return",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3840,
+              "endMs": 4260
+            },
+            {
+              "word": "to",
+              "charStart": 69,
+              "charEnd": 71,
+              "startMs": 4260,
+              "endMs": 4420
+            },
+            {
+              "word": "the",
+              "charStart": 72,
+              "charEnd": 75,
+              "startMs": 4420,
+              "endMs": 4780
+            },
+            {
+              "word": "quiet",
+              "charStart": 76,
+              "charEnd": 81,
+              "startMs": 4780,
+              "endMs": 4940
+            },
+            {
+              "word": "stones",
+              "charStart": 82,
+              "charEnd": 88,
+              "startMs": 4940,
+              "endMs": 5320
+            },
+            {
+              "word": "near",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 5320,
+              "endMs": 5560
+            },
+            {
+              "word": "the",
+              "charStart": 94,
+              "charEnd": 97,
+              "startMs": 5560,
+              "endMs": 5760
+            },
+            {
+              "word": "bank",
+              "charStart": 98,
+              "charEnd": 102,
+              "startMs": 5760,
+              "endMs": 6000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We sort the trash into plastic, paper, and metal piles. Sorting takes time, but it helps people recycle correctly.",
+          "translation_ko": "우리는 쓰레기를 플라스틱, 종이, 금속 더미로 나눠요. 분류에는 시간이 걸리지만 올바른 재활용에 도움이 돼요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "sort",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 480
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "trash",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "into",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "plastic",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1320,
+              "endMs": 1780
+            },
+            {
+              "word": "paper",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2300
+            },
+            {
+              "word": "and",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2360,
+              "endMs": 2820
+            },
+            {
+              "word": "metal",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2820,
+              "endMs": 2820
+            },
+            {
+              "word": "piles",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 2820,
+              "endMs": 3280
+            },
+            {
+              "word": "Sorting",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 4200,
+              "endMs": 4360
+            },
+            {
+              "word": "takes",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 4360,
+              "endMs": 4600
+            },
+            {
+              "word": "time",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4600,
+              "endMs": 5020
+            },
+            {
+              "word": "but",
+              "charStart": 76,
+              "charEnd": 79,
+              "startMs": 5360,
+              "endMs": 5420
+            },
+            {
+              "word": "it",
+              "charStart": 80,
+              "charEnd": 82,
+              "startMs": 5420,
+              "endMs": 5680
+            },
+            {
+              "word": "helps",
+              "charStart": 83,
+              "charEnd": 88,
+              "startMs": 5680,
+              "endMs": 5780
+            },
+            {
+              "word": "people",
+              "charStart": 89,
+              "charEnd": 95,
+              "startMs": 5780,
+              "endMs": 6180
+            },
+            {
+              "word": "recycle",
+              "charStart": 96,
+              "charEnd": 103,
+              "startMs": 6180,
+              "endMs": 6640
+            },
+            {
+              "word": "correctly",
+              "charStart": 104,
+              "charEnd": 113,
+              "startMs": 6640,
+              "endMs": 7100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At lunch, my arms feel tired from carrying the bag. Still, I feel proud when I look at the clear path.",
+          "translation_ko": "점심때 내 팔은 봉투를 들어서 피곤해요. 그래도 깨끗한 길을 보니 자랑스러워요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "lunch",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "my",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1060
+            },
+            {
+              "word": "arms",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "feel",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1580
+            },
+            {
+              "word": "tired",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1940
+            },
+            {
+              "word": "from",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "carrying",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 3000
+            },
+            {
+              "word": "bag",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3000,
+              "endMs": 3040
+            },
+            {
+              "word": "Still",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3900,
+              "endMs": 3980
+            },
+            {
+              "word": "I",
+              "charStart": 59,
+              "charEnd": 60,
+              "startMs": 4420,
+              "endMs": 4600
+            },
+            {
+              "word": "feel",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 4600,
+              "endMs": 4760
+            },
+            {
+              "word": "proud",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 4760,
+              "endMs": 5120
+            },
+            {
+              "word": "when",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 5120,
+              "endMs": 5320
+            },
+            {
+              "word": "I",
+              "charStart": 77,
+              "charEnd": 78,
+              "startMs": 5320,
+              "endMs": 5480
+            },
+            {
+              "word": "look",
+              "charStart": 79,
+              "charEnd": 83,
+              "startMs": 5480,
+              "endMs": 5540
+            },
+            {
+              "word": "at",
+              "charStart": 84,
+              "charEnd": 86,
+              "startMs": 5540,
+              "endMs": 5720
+            },
+            {
+              "word": "the",
+              "charStart": 87,
+              "charEnd": 90,
+              "startMs": 5720,
+              "endMs": 5860
+            },
+            {
+              "word": "clear",
+              "charStart": 91,
+              "charEnd": 96,
+              "startMs": 5860,
+              "endMs": 6100
+            },
+            {
+              "word": "path",
+              "charStart": 97,
+              "charEnd": 101,
+              "startMs": 6100,
+              "endMs": 6440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The volunteer leader explains that trash often travels from streets to rivers. I realize our small habits can reach far places.",
+          "translation_ko": "봉사 리더는 쓰레기가 거리에서 강으로 이동하는 경우가 많다고 설명해요. 나는 우리의 작은 습관이 먼 곳까지 닿을 수 있음을 깨달아요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "volunteer",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 260,
+              "endMs": 760
+            },
+            {
+              "word": "leader",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 760,
+              "endMs": 1140
+            },
+            {
+              "word": "explains",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1140,
+              "endMs": 1740
+            },
+            {
+              "word": "that",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "trash",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2000,
+              "endMs": 2300
+            },
+            {
+              "word": "often",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2300,
+              "endMs": 2660
+            },
+            {
+              "word": "travels",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2660,
+              "endMs": 3000
+            },
+            {
+              "word": "from",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3000,
+              "endMs": 3360
+            },
+            {
+              "word": "streets",
+              "charStart": 60,
+              "charEnd": 67,
+              "startMs": 3360,
+              "endMs": 3640
+            },
+            {
+              "word": "to",
+              "charStart": 68,
+              "charEnd": 70,
+              "startMs": 3640,
+              "endMs": 3940
+            },
+            {
+              "word": "rivers",
+              "charStart": 71,
+              "charEnd": 77,
+              "startMs": 3940,
+              "endMs": 4240
+            },
+            {
+              "word": "I",
+              "charStart": 79,
+              "charEnd": 80,
+              "startMs": 4900,
+              "endMs": 4900
+            },
+            {
+              "word": "realize",
+              "charStart": 81,
+              "charEnd": 88,
+              "startMs": 4900,
+              "endMs": 5300
+            },
+            {
+              "word": "our",
+              "charStart": 89,
+              "charEnd": 92,
+              "startMs": 5300,
+              "endMs": 5520
+            },
+            {
+              "word": "small",
+              "charStart": 93,
+              "charEnd": 98,
+              "startMs": 5520,
+              "endMs": 5860
+            },
+            {
+              "word": "habits",
+              "charStart": 99,
+              "charEnd": 105,
+              "startMs": 5860,
+              "endMs": 6240
+            },
+            {
+              "word": "can",
+              "charStart": 106,
+              "charEnd": 109,
+              "startMs": 6240,
+              "endMs": 6580
+            },
+            {
+              "word": "reach",
+              "charStart": 110,
+              "charEnd": 115,
+              "startMs": 6580,
+              "endMs": 6780
+            },
+            {
+              "word": "far",
+              "charStart": 116,
+              "charEnd": 119,
+              "startMs": 6780,
+              "endMs": 7120
+            },
+            {
+              "word": "places",
+              "charStart": 120,
+              "charEnd": 126,
+              "startMs": 7120,
+              "endMs": 7460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Before we leave, we take a class photo by the bridge. The river behind us shines in the afternoon light.",
+          "translation_ko": "떠나기 전에 우리는 다리 옆에서 반 사진을 찍어요. 우리 뒤의 강은 오후 햇빛에 빛나요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Before",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "leave",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "we",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1660,
+              "endMs": 1820
+            },
+            {
+              "word": "take",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1820,
+              "endMs": 2000
+            },
+            {
+              "word": "a",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 2000,
+              "endMs": 2180
+            },
+            {
+              "word": "class",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "photo",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2480,
+              "endMs": 2720
+            },
+            {
+              "word": "by",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2720,
+              "endMs": 2940
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2940,
+              "endMs": 3340
+            },
+            {
+              "word": "bridge",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3340,
+              "endMs": 3400
+            },
+            {
+              "word": "The",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3920,
+              "endMs": 4000
+            },
+            {
+              "word": "river",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 4000,
+              "endMs": 4180
+            },
+            {
+              "word": "behind",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 4180,
+              "endMs": 4600
+            },
+            {
+              "word": "us",
+              "charStart": 71,
+              "charEnd": 73,
+              "startMs": 4600,
+              "endMs": 5280
+            },
+            {
+              "word": "shines",
+              "charStart": 74,
+              "charEnd": 80,
+              "startMs": 5280,
+              "endMs": 5280
+            },
+            {
+              "word": "in",
+              "charStart": 81,
+              "charEnd": 83,
+              "startMs": 5280,
+              "endMs": 5460
+            },
+            {
+              "word": "the",
+              "charStart": 84,
+              "charEnd": 87,
+              "startMs": 5460,
+              "endMs": 5740
+            },
+            {
+              "word": "afternoon",
+              "charStart": 88,
+              "charEnd": 97,
+              "startMs": 5740,
+              "endMs": 5980
+            },
+            {
+              "word": "light",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 5980,
+              "endMs": 6380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I promise to use my lunch box instead of extra plastic bags. It is a small promise, but it is a real start.",
+          "translation_ko": "나는 여분의 비닐봉지 대신 도시락통을 쓰겠다고 약속해요. 작은 약속이지만 진짜 시작이에요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 30,
+              "endMs": 251
+            },
+            {
+              "word": "promise",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 251,
+              "endMs": 637
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 637,
+              "endMs": 859
+            },
+            {
+              "word": "use",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 859,
+              "endMs": 1080
+            },
+            {
+              "word": "my",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1080,
+              "endMs": 1301
+            },
+            {
+              "word": "lunch",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1301,
+              "endMs": 1523
+            },
+            {
+              "word": "box",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1523,
+              "endMs": 1744
+            },
+            {
+              "word": "instead",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 1744,
+              "endMs": 2130
+            },
+            {
+              "word": "of",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2130,
+              "endMs": 2351
+            },
+            {
+              "word": "extra",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2351,
+              "endMs": 2737
+            },
+            {
+              "word": "plastic",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2737,
+              "endMs": 3123
+            },
+            {
+              "word": "bags",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3123,
+              "endMs": 3492
+            },
+            {
+              "word": "It",
+              "charStart": 61,
+              "charEnd": 63,
+              "startMs": 3492,
+              "endMs": 3713
+            },
+            {
+              "word": "is",
+              "charStart": 64,
+              "charEnd": 66,
+              "startMs": 3713,
+              "endMs": 3935
+            },
+            {
+              "word": "a",
+              "charStart": 67,
+              "charEnd": 68,
+              "startMs": 3935,
+              "endMs": 4156
+            },
+            {
+              "word": "small",
+              "charStart": 69,
+              "charEnd": 74,
+              "startMs": 4156,
+              "endMs": 4378
+            },
+            {
+              "word": "promise",
+              "charStart": 75,
+              "charEnd": 82,
+              "startMs": 4378,
+              "endMs": 4853
+            },
+            {
+              "word": "but",
+              "charStart": 84,
+              "charEnd": 87,
+              "startMs": 4853,
+              "endMs": 5075
+            },
+            {
+              "word": "it",
+              "charStart": 88,
+              "charEnd": 90,
+              "startMs": 5075,
+              "endMs": 5296
+            },
+            {
+              "word": "is",
+              "charStart": 91,
+              "charEnd": 93,
+              "startMs": 5296,
+              "endMs": 5518
+            },
+            {
+              "word": "a",
+              "charStart": 94,
+              "charEnd": 95,
+              "startMs": 5518,
+              "endMs": 5739
+            },
+            {
+              "word": "real",
+              "charStart": 96,
+              "charEnd": 100,
+              "startMs": 5739,
+              "endMs": 5961
+            },
+            {
+              "word": "start",
+              "charStart": 101,
+              "charEnd": 106,
+              "startMs": 5961,
+              "endMs": 6330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Monday, I tell my family what I learned. Clean places stay clean when people care every day.",
+          "translation_ko": "월요일에 나는 가족에게 배운 것을 말해요. 깨끗한 곳은 사람들이 매일 돌볼 때 깨끗하게 남아요.",
+          "audio": "/seed/daily-37-the-river-clean-up/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Monday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 680
+            },
+            {
+              "word": "I",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "tell",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "my",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "family",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "what",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2180,
+              "endMs": 2420
+            },
+            {
+              "word": "I",
+              "charStart": 33,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2600
+            },
+            {
+              "word": "learned",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2900
+            },
+            {
+              "word": "Clean",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3700,
+              "endMs": 3740
+            },
+            {
+              "word": "places",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3740,
+              "endMs": 4100
+            },
+            {
+              "word": "stay",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 4100,
+              "endMs": 4480
+            },
+            {
+              "word": "clean",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 4480,
+              "endMs": 4840
+            },
+            {
+              "word": "when",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4840,
+              "endMs": 5220
+            },
+            {
+              "word": "people",
+              "charStart": 73,
+              "charEnd": 79,
+              "startMs": 5220,
+              "endMs": 5500
+            },
+            {
+              "word": "care",
+              "charStart": 80,
+              "charEnd": 84,
+              "startMs": 5500,
+              "endMs": 5800
+            },
+            {
+              "word": "every",
+              "charStart": 85,
+              "charEnd": 90,
+              "startMs": 5800,
+              "endMs": 6220
+            },
+            {
+              "word": "day",
+              "charStart": 91,
+              "charEnd": 94,
+              "startMs": 6220,
+              "endMs": 6460
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "반은 어떤 활동에 참여했나요?",
+      "type": "mc",
+      "options": [
+        "강가 청소",
+        "요리 수업",
+        "영화 보기",
+        "쇼핑"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "river clean-up은 강가 청소 활동이에요."
+    },
+    {
+      "question_ko": "강가에서 발견한 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "플라스틱 조각",
+        "새 책",
+        "새 의자",
+        "깨끗한 물만"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "plastic pieces가 돌 사이에 있었어요."
+    },
+    {
+      "question_ko": "낚싯줄은 어디에 엉켜 있었나요?",
+      "type": "mc",
+      "options": [
+        "나뭇가지",
+        "가방",
+        "모자",
+        "책상"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "around a branch — 나뭇가지에 엉켰어요."
+    },
+    {
+      "question_ko": "쓰레기를 어떻게 나누었나요?",
+      "type": "mc",
+      "options": [
+        "플라스틱, 종이, 금속",
+        "색깔만",
+        "크기만",
+        "아무렇게나"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "recycle correctly를 위해 분류했어요."
+    },
+    {
+      "question_ko": "화자가 약속한 것은?",
+      "type": "mc",
+      "options": [
+        "도시락통 쓰기",
+        "강에 쓰레기 버리기",
+        "늦게 자기",
+        "봉투 더 쓰기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "use my lunch box라고 약속했어요."
+    },
+    {
+      "question_ko": "깨끗한 곳은 언제 깨끗하게 남나요?",
+      "type": "mc",
+      "options": [
+        "사람들이 매일 돌볼 때",
+        "아무도 보지 않을 때",
+        "비가 오지 않을 때만",
+        "사진 찍을 때"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "people care every day."
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "slug": "daily-46-the-class-pet",
+  "title": "The Class Pet",
+  "title_ko": "우리 반 햄스터",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "우리 반 햄스터를 돌보는 차례를 맡아 돌봄과 순서 표현을 익혀요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our class has a small brown hamster.",
+          "translation_ko": "우리 반에는 작은 갈색 햄스터가 있어요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "has",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1020
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "small",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "brown",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 2000
+            },
+            {
+              "word": "hamster",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "His name is Mochi and he is soft.",
+          "translation_ko": "이름은 모찌이고 아주 보드라워요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "name",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1220
+            },
+            {
+              "word": "Mochi",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 2120,
+              "endMs": 2220
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "is",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2420,
+              "endMs": 2660
+            },
+            {
+              "word": "soft",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2660,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Today it is my turn to care for him.",
+          "translation_ko": "오늘은 내가 돌볼 차례예요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 720,
+              "endMs": 1160
+            },
+            {
+              "word": "it",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 1320,
+              "endMs": 1380
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1380,
+              "endMs": 1600
+            },
+            {
+              "word": "my",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "turn",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "care",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2380,
+              "endMs": 2520
+            },
+            {
+              "word": "for",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2520,
+              "endMs": 2720
+            },
+            {
+              "word": "him",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2720,
+              "endMs": 2860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I fill his bowl with fresh seeds.",
+          "translation_ko": "나는 그릇에 신선한 씨앗을 채워요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "fill",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 480
+            },
+            {
+              "word": "his",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "bowl",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "with",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "fresh",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1420,
+              "endMs": 1740
+            },
+            {
+              "word": "seeds",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1740,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He stuffs them into his round cheeks.",
+          "translation_ko": "모찌는 동그란 볼에 씨앗을 가득 넣어요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "stuffs",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "them",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1100
+            },
+            {
+              "word": "into",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "his",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1660
+            },
+            {
+              "word": "round",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 2040
+            },
+            {
+              "word": "cheeks",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2040,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then I clean his little water bottle.",
+          "translation_ko": "그다음 나는 작은 물통을 닦아요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "clean",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "little",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "water",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1820
+            },
+            {
+              "word": "bottle",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1820,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mochi runs fast on his spinning wheel.",
+          "translation_ko": "모찌는 쳇바퀴 위에서 빠르게 달려요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mochi",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "runs",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 1020
+            },
+            {
+              "word": "fast",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1020,
+              "endMs": 1520
+            },
+            {
+              "word": "on",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1520,
+              "endMs": 1760
+            },
+            {
+              "word": "his",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1760,
+              "endMs": 1980
+            },
+            {
+              "word": "spinning",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1980,
+              "endMs": 2180
+            },
+            {
+              "word": "wheel",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Taking care of him makes me proud.",
+          "translation_ko": "그를 돌보는 일이 나를 자랑스럽게 해요.",
+          "audio": "/seed/daily-46-the-class-pet/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Taking",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "care",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 800
+            },
+            {
+              "word": "of",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "him",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1120
+            },
+            {
+              "word": "makes",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1120,
+              "endMs": 1360
+            },
+            {
+              "word": "me",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "proud",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "우리 반 동물은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "햄스터",
+        "강아지",
+        "고양이",
+        "물고기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "hamster — 햄스터예요."
+    },
+    {
+      "question_ko": "햄스터의 이름은?",
+      "type": "mc",
+      "options": [
+        "모찌",
+        "초코",
+        "별이",
+        "콩이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "His name is Mochi."
+    },
+    {
+      "question_ko": "그릇에 무엇을 채웠나요?",
+      "type": "mc",
+      "options": [
+        "신선한 씨앗",
+        "물만",
+        "흙",
+        "종이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "fresh seeds — 신선한 씨앗이에요."
+    },
+    {
+      "question_ko": "씨앗을 어디에 넣었나요?",
+      "type": "mc",
+      "options": [
+        "동그란 볼",
+        "주머니",
+        "상자",
+        "신발"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "round cheeks — 동그란 볼이에요."
+    },
+    {
+      "question_ko": "돌보는 일은 나를 어떻게 만들었나요?",
+      "type": "mc",
+      "options": [
+        "자랑스럽게",
+        "슬프게",
+        "지치게",
+        "화나게"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "makes me proud — 자랑스럽게 해요."
+    }
+  ]
+}

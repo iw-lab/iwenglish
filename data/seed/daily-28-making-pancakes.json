@@ -1,0 +1,397 @@
+{
+  "slug": "daily-28-making-pancakes",
+  "title": "Making Pancakes",
+  "title_ko": "팬케이크 만들기",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "가족과 팬케이크를 만들며 재료, 순서, 맛 표현을 짧은 문장으로 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Dad and I make pancakes.",
+          "translation_ko": "아빠와 나는 팬케이크를 만들어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 780
+            },
+            {
+              "word": "I",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 780,
+              "endMs": 1200
+            },
+            {
+              "word": "make",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1200,
+              "endMs": 1460
+            },
+            {
+              "word": "pancakes",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 1920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We mix eggs and milk.",
+          "translation_ko": "우리는 달걀과 우유를 섞어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "mix",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 740,
+              "endMs": 960
+            },
+            {
+              "word": "eggs",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1260,
+              "endMs": 1820
+            },
+            {
+              "word": "milk",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1820,
+              "endMs": 1820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I stir the bowl slowly.",
+          "translation_ko": "나는 그릇을 천천히 저어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "stir",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "bowl",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "slowly",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad pours the mix in the pan.",
+          "translation_ko": "아빠가 반죽을 팬에 부어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "pours",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "mix",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "in",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1660,
+              "endMs": 1800
+            },
+            {
+              "word": "pan",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The pancake turns golden.",
+          "translation_ko": "팬케이크가 노릇해져요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "pancake",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "turns",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "golden",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We add fruit on top.",
+          "translation_ko": "우리는 위에 과일을 올려요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "add",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "fruit",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "on",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1260
+            },
+            {
+              "word": "top",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1260,
+              "endMs": 1480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Breakfast smells sweet today.",
+          "translation_ko": "오늘 아침은 달콤한 냄새가 나요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Breakfast",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 940
+            },
+            {
+              "word": "smells",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1320
+            },
+            {
+              "word": "sweet",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1320,
+              "endMs": 1780
+            },
+            {
+              "word": "today",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1780,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "누구와 팬케이크를 만들었나요?",
+      "type": "mc",
+      "options": [
+        "아빠",
+        "선생님",
+        "친구",
+        "혼자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Dad and I — 아빠와 나예요."
+    },
+    {
+      "question_ko": "무엇을 섞었나요?",
+      "type": "mc",
+      "options": [
+        "달걀과 우유",
+        "밥과 물",
+        "차와 설탕",
+        "빵과 소금"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "eggs and milk를 섞었어요."
+    },
+    {
+      "question_ko": "그릇을 어떻게 저었나요?",
+      "type": "mc",
+      "options": [
+        "천천히",
+        "빠르게",
+        "세게",
+        "안 저음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "slowly는 천천히예요."
+    },
+    {
+      "question_ko": "팬케이크 색은 어떻게 변했나요?",
+      "type": "mc",
+      "options": [
+        "검정",
+        "노릇하게",
+        "파랗게",
+        "하얗게"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "golden은 노릇한 색이에요."
+    },
+    {
+      "question_ko": "위에 무엇을 올렸나요?",
+      "type": "mc",
+      "options": [
+        "과일",
+        "연필",
+        "책",
+        "종이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "fruit on top — 과일을 위에 올렸어요."
+    }
+  ]
+}

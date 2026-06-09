@@ -1,0 +1,636 @@
+{
+  "slug": "daily-48-a-rainy-recess",
+  "title": "A Rainy Recess",
+  "title_ko": "비 오는 쉬는 시간",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "비로 밖에 못 나간 쉬는 시간이 즐거운 추억이 된 이야기를 과거형으로 읽어요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "We could not go outside because it rained.",
+          "translation_ko": "비가 와서 우리는 밖에 나갈 수 없었어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "could",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "not",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1220
+            },
+            {
+              "word": "go",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1400
+            },
+            {
+              "word": "outside",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1880
+            },
+            {
+              "word": "because",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2460
+            },
+            {
+              "word": "it",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2840
+            },
+            {
+              "word": "rained",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2840,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At first everyone felt a little bored.",
+          "translation_ko": "처음에는 모두 조금 지루해했어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "first",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 840
+            },
+            {
+              "word": "everyone",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1540
+            },
+            {
+              "word": "felt",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1800,
+              "endMs": 1960
+            },
+            {
+              "word": "little",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "bored",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then our teacher opened a box of games.",
+          "translation_ko": "그때 선생님이 게임 상자를 열었어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "our",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "teacher",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "opened",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 940,
+              "endMs": 1260
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1640
+            },
+            {
+              "word": "box",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1640,
+              "endMs": 1640
+            },
+            {
+              "word": "of",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1640,
+              "endMs": 1840
+            },
+            {
+              "word": "games",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1840,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My friends and I built a tall tower.",
+          "translation_ko": "친구들과 나는 높은 탑을 쌓았어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "friends",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1000
+            },
+            {
+              "word": "I",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "built",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1360
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "tall",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "tower",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1860,
+              "endMs": 2180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When it fell, we all laughed together.",
+          "translation_ko": "탑이 무너지자 우리는 다 같이 웃었어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "it",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "fell",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 740
+            },
+            {
+              "word": "we",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1480
+            },
+            {
+              "word": "all",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1760
+            },
+            {
+              "word": "laughed",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 2060
+            },
+            {
+              "word": "together",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Min drew a funny picture of our class.",
+          "translation_ko": "민이는 우리 반의 웃긴 그림을 그렸어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Min",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 900
+            },
+            {
+              "word": "drew",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "funny",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1420,
+              "endMs": 1620
+            },
+            {
+              "word": "picture",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "of",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2180
+            },
+            {
+              "word": "our",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2180,
+              "endMs": 2320
+            },
+            {
+              "word": "class",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We shared crayons so everyone could join.",
+          "translation_ko": "우리는 크레용을 나눠 모두 함께할 수 있었어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "shared",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "crayons",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1400
+            },
+            {
+              "word": "so",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1640
+            },
+            {
+              "word": "everyone",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1640,
+              "endMs": 2140
+            },
+            {
+              "word": "could",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2140,
+              "endMs": 2460
+            },
+            {
+              "word": "join",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Recess ended before we even noticed.",
+          "translation_ko": "쉬는 시간은 우리가 알아채기도 전에 끝났어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Recess",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "ended",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "before",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1360
+            },
+            {
+              "word": "we",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "even",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "noticed",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1880,
+              "endMs": 2180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A rainy day became a happy memory.",
+          "translation_ko": "비 오는 날이 행복한 추억이 됐어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "rainy",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "day",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1300
+            },
+            {
+              "word": "became",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1800
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1800,
+              "endMs": 2180
+            },
+            {
+              "word": "happy",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 2180,
+              "endMs": 2280
+            },
+            {
+              "word": "memory",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2280,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "왜 밖에 못 나갔나요?",
+      "type": "mc",
+      "options": [
+        "비가 와서",
+        "추워서",
+        "숙제 때문에",
+        "문이 잠겨서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "because it rained — 비가 와서요."
+    },
+    {
+      "question_ko": "선생님은 무엇을 열었나요?",
+      "type": "mc",
+      "options": [
+        "게임 상자",
+        "창문",
+        "도시락",
+        "책가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a box of games — 게임 상자예요."
+    },
+    {
+      "question_ko": "친구들과 무엇을 쌓았나요?",
+      "type": "mc",
+      "options": [
+        "높은 탑",
+        "눈사람",
+        "모래성",
+        "담요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a tall tower — 높은 탑이에요."
+    },
+    {
+      "question_ko": "민이는 무엇을 그렸나요?",
+      "type": "mc",
+      "options": [
+        "우리 반의 웃긴 그림",
+        "지도",
+        "포스터",
+        "만화책"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a funny picture of our class."
+    },
+    {
+      "question_ko": "비 오는 날은 결국 무엇이 됐나요?",
+      "type": "mc",
+      "options": [
+        "행복한 추억",
+        "지루한 하루",
+        "슬픈 날",
+        "긴 시험"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a happy memory — 행복한 추억이 됐어요."
+    }
+  ]
+}

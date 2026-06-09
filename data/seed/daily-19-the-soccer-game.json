@@ -480,6 +480,94 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After the game, our coach says teamwork made the goal possible.",
+          "translation_ko": "경기 뒤에 코치님은 팀워크가 골을 가능하게 했다고 말해요.",
+          "audio": "/seed/daily-19-the-soccer-game/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "game",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "our",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1240
+            },
+            {
+              "word": "coach",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "says",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1460,
+              "endMs": 1760
+            },
+            {
+              "word": "teamwork",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 1760,
+              "endMs": 2380
+            },
+            {
+              "word": "made",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2380,
+              "endMs": 2640
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "goal",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2820,
+              "endMs": 2980
+            },
+            {
+              "word": "possible",
+              "charStart": 54,
+              "charEnd": 62,
+              "startMs": 2980,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -543,6 +631,18 @@
       ],
       "answerIndex": 2,
       "explain_ko": "We win the game — 이겼어요."
+    },
+    {
+      "question_ko": "코치님은 무엇이 골을 가능하게 했다고 했나요?",
+      "type": "mc",
+      "options": [
+        "팀워크",
+        "운",
+        "비",
+        "혼자 뛰기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "teamwork made the goal possible."
     }
   ]
 }

@@ -49,6 +49,8 @@ interface ProgressState {
   todayXp: number;
   dailyGoal: number;
   booksFinished: string[]; // slug
+  bookReads: Record<string, number>; // slug → 완독 도장 횟수(0~10)
+  booksCompleted: string[]; // 10회 도장 달성한 slug
   sessions: ReadSession[]; // 최근 50
   leitner: Record<string, LeitnerCard>; // key: english(lowercase)
   achievements: string[]; // unlocked id
@@ -57,8 +59,12 @@ interface ProgressState {
   recordWord: (english: string, correct: boolean) => void;
   recordReading: (s: Omit<ReadSession, "date">) => void;
   finishBook: (slug: string) => void;
+  addBookRead: (slug: string) => void; // 완독 도장 +1, 10회면 완료
   resetAll: () => void;
 }
+
+/** 완독 완료까지 필요한 읽기(도장) 횟수 */
+export const READS_TO_COMPLETE = 10;
 
 /* ───────── 업적 ───────── */
 export interface Achievement {
@@ -78,6 +84,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   { id: "book-1", title: "첫 완독", emoji: "📖", desc: "책 1권 끝까지 읽기", check: (s) => s.booksFinished.length >= 1 },
   { id: "book-5", title: "책벌레", emoji: "🐛", desc: "책 5권 완독", check: (s) => s.booksFinished.length >= 5 },
   { id: "book-all", title: "서재 정복", emoji: "👑", desc: "10권 모두 완독", check: (s) => s.booksFinished.length >= 10 },
+  { id: "reread-10", title: "열 번 읽기", emoji: "🔁", desc: "한 책을 10번 읽어 완료", check: (s) => (s.booksCompleted?.length ?? 0) >= 1 },
   { id: "xp-500", title: "성장 중", emoji: "🚀", desc: "XP 500 달성", check: (s) => s.xp >= 500 },
   { id: "xp-2000", title: "영어 고수", emoji: "🌟", desc: "XP 2000 달성", check: (s) => s.xp >= 2000 },
 ];
@@ -133,6 +140,8 @@ export const useProgress = create<ProgressState>()(
       todayXp: 0,
       dailyGoal: 10,
       booksFinished: [],
+      bookReads: {},
+      booksCompleted: [],
       sessions: [],
       leitner: {},
       achievements: [],
@@ -196,6 +205,30 @@ export const useProgress = create<ProgressState>()(
           return { ...merged, achievements: unlock(merged) };
         }),
 
+      addBookRead: (slug) =>
+        set((s) => {
+          const reads = s.bookReads ?? {};
+          const completedList = s.booksCompleted ?? [];
+          const prev = reads[slug] ?? 0;
+          if (prev >= READS_TO_COMPLETE) return s; // 이미 완료 — 변화 없음
+          const next = prev + 1;
+          const justCompleted =
+            next >= READS_TO_COMPLETE && !completedList.includes(slug);
+          const day = touchDay(s);
+          const gained = justCompleted ? 30 : 5; // 도장 +5, 완료 보너스 +30
+          const merged: ProgressState = {
+            ...s,
+            ...day,
+            xp: s.xp + gained,
+            todayXp: (day.todayXp ?? s.todayXp) + gained,
+            bookReads: { ...reads, [slug]: next },
+            booksCompleted: justCompleted
+              ? [...completedList, slug]
+              : completedList,
+          };
+          return { ...merged, achievements: unlock(merged) };
+        }),
+
       resetAll: () =>
         set({
           xp: 0,
@@ -206,6 +239,8 @@ export const useProgress = create<ProgressState>()(
           todayWords: 0,
           todayXp: 0,
           booksFinished: [],
+          bookReads: {},
+          booksCompleted: [],
           sessions: [],
           leitner: {},
           achievements: [],

@@ -2,7 +2,7 @@
   "slug": "daily-8-my-toys",
   "title": "My Toys",
   "title_ko": "내 장난감",
-  "level": "preA1",
+  "level": "A1",
   "ageBand": "8-10",
   "stage": 2,
   "collection": "daily",
@@ -381,6 +381,73 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I put my toys back on the shelf.",
+          "translation_ko": "나는 장난감을 다시 선반에 올려요.",
+          "audio": "/seed/daily-8-my-toys/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 640,
+              "endMs": 800
+            },
+            {
+              "word": "my",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "toys",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1280
+            },
+            {
+              "word": "back",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1580
+            },
+            {
+              "word": "on",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1580,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 2080
+            },
+            {
+              "word": "shelf",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2080,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -444,6 +511,18 @@
       ],
       "answerIndex": 0,
       "explain_ko": "Good job은 \"잘했어\"라는 칭찬이에요."
+    },
+    {
+      "question_ko": "장난감은 어디에 다시 두었나요?",
+      "type": "mc",
+      "options": [
+        "선반",
+        "창문",
+        "냉장고",
+        "신발장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "on the shelf — 선반 위예요."
     }
   ]
 }

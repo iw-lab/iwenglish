@@ -708,6 +708,508 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We decide to make a simple plan instead of running in different directions. Dad checks the park gate while I ask the shop owner.",
+          "translation_ko": "우리는 여기저기 뛰어다니는 대신 간단한 계획을 세우기로 해요. 아빠는 공원 문을 확인하고 나는 가게 주인에게 물어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "decide",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 840
+            },
+            {
+              "word": "make",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 960
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 960,
+              "endMs": 1160
+            },
+            {
+              "word": "simple",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "plan",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1440,
+              "endMs": 1820
+            },
+            {
+              "word": "instead",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 1820,
+              "endMs": 2160
+            },
+            {
+              "word": "of",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2160,
+              "endMs": 2440
+            },
+            {
+              "word": "running",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2440,
+              "endMs": 2560
+            },
+            {
+              "word": "in",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 2560,
+              "endMs": 2840
+            },
+            {
+              "word": "different",
+              "charStart": 54,
+              "charEnd": 63,
+              "startMs": 2840,
+              "endMs": 3080
+            },
+            {
+              "word": "directions",
+              "charStart": 64,
+              "charEnd": 74,
+              "startMs": 3080,
+              "endMs": 3640
+            },
+            {
+              "word": "Dad",
+              "charStart": 76,
+              "charEnd": 79,
+              "startMs": 4620,
+              "endMs": 4720
+            },
+            {
+              "word": "checks",
+              "charStart": 80,
+              "charEnd": 86,
+              "startMs": 4720,
+              "endMs": 5020
+            },
+            {
+              "word": "the",
+              "charStart": 87,
+              "charEnd": 90,
+              "startMs": 5020,
+              "endMs": 5300
+            },
+            {
+              "word": "park",
+              "charStart": 91,
+              "charEnd": 95,
+              "startMs": 5300,
+              "endMs": 5480
+            },
+            {
+              "word": "gate",
+              "charStart": 96,
+              "charEnd": 100,
+              "startMs": 5480,
+              "endMs": 5760
+            },
+            {
+              "word": "while",
+              "charStart": 101,
+              "charEnd": 106,
+              "startMs": 5760,
+              "endMs": 6180
+            },
+            {
+              "word": "I",
+              "charStart": 107,
+              "charEnd": 108,
+              "startMs": 6180,
+              "endMs": 6380
+            },
+            {
+              "word": "ask",
+              "charStart": 109,
+              "charEnd": 112,
+              "startMs": 6380,
+              "endMs": 6620
+            },
+            {
+              "word": "the",
+              "charStart": 113,
+              "charEnd": 116,
+              "startMs": 6620,
+              "endMs": 6840
+            },
+            {
+              "word": "shop",
+              "charStart": 117,
+              "charEnd": 121,
+              "startMs": 6840,
+              "endMs": 7020
+            },
+            {
+              "word": "owner",
+              "charStart": 122,
+              "charEnd": 127,
+              "startMs": 7020,
+              "endMs": 7220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The shop owner remembers seeing a small puppy near the bakery. That clue helps us choose the next street to search.",
+          "translation_ko": "가게 주인은 빵집 근처에서 작은 강아지를 본 것을 기억해요. 그 단서 덕분에 다음으로 찾을 거리를 고를 수 있어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "shop",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 180,
+              "endMs": 420
+            },
+            {
+              "word": "owner",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 700
+            },
+            {
+              "word": "remembers",
+              "charStart": 15,
+              "charEnd": 24,
+              "startMs": 700,
+              "endMs": 1180
+            },
+            {
+              "word": "seeing",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "small",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1740,
+              "endMs": 1940
+            },
+            {
+              "word": "puppy",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "near",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 2400,
+              "endMs": 2900
+            },
+            {
+              "word": "bakery",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 2900,
+              "endMs": 2900
+            },
+            {
+              "word": "That",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3480,
+              "endMs": 3660
+            },
+            {
+              "word": "clue",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 3660,
+              "endMs": 3880
+            },
+            {
+              "word": "helps",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 3880,
+              "endMs": 4160
+            },
+            {
+              "word": "us",
+              "charStart": 79,
+              "charEnd": 81,
+              "startMs": 4160,
+              "endMs": 4540
+            },
+            {
+              "word": "choose",
+              "charStart": 82,
+              "charEnd": 88,
+              "startMs": 4540,
+              "endMs": 4620
+            },
+            {
+              "word": "the",
+              "charStart": 89,
+              "charEnd": 92,
+              "startMs": 4620,
+              "endMs": 4840
+            },
+            {
+              "word": "next",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 4840,
+              "endMs": 5020
+            },
+            {
+              "word": "street",
+              "charStart": 98,
+              "charEnd": 104,
+              "startMs": 5020,
+              "endMs": 5240
+            },
+            {
+              "word": "to",
+              "charStart": 105,
+              "charEnd": 107,
+              "startMs": 5240,
+              "endMs": 5500
+            },
+            {
+              "word": "search",
+              "charStart": 108,
+              "charEnd": 114,
+              "startMs": 5500,
+              "endMs": 5700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When Coco finally hears his name, he runs toward us with muddy paws. I learn that calm thinking can solve scary problems.",
+          "translation_ko": "코코가 마침내 자기 이름을 듣자 진흙 묻은 발로 우리에게 달려와요. 나는 차분한 생각이 무서운 문제도 해결할 수 있음을 배워요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Coco",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 680
+            },
+            {
+              "word": "finally",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 680,
+              "endMs": 1220
+            },
+            {
+              "word": "hears",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1540
+            },
+            {
+              "word": "his",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "name",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "he",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "runs",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 2860
+            },
+            {
+              "word": "toward",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3180
+            },
+            {
+              "word": "us",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3180,
+              "endMs": 3420
+            },
+            {
+              "word": "with",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3420,
+              "endMs": 3680
+            },
+            {
+              "word": "muddy",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 3680,
+              "endMs": 3840
+            },
+            {
+              "word": "paws",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3840,
+              "endMs": 4320
+            },
+            {
+              "word": "I",
+              "charStart": 69,
+              "charEnd": 70,
+              "startMs": 5000,
+              "endMs": 5100
+            },
+            {
+              "word": "learn",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 5100,
+              "endMs": 5280
+            },
+            {
+              "word": "that",
+              "charStart": 77,
+              "charEnd": 81,
+              "startMs": 5280,
+              "endMs": 5700
+            },
+            {
+              "word": "calm",
+              "charStart": 82,
+              "charEnd": 86,
+              "startMs": 5700,
+              "endMs": 5860
+            },
+            {
+              "word": "thinking",
+              "charStart": 87,
+              "charEnd": 95,
+              "startMs": 5860,
+              "endMs": 6180
+            },
+            {
+              "word": "can",
+              "charStart": 96,
+              "charEnd": 99,
+              "startMs": 6180,
+              "endMs": 6560
+            },
+            {
+              "word": "solve",
+              "charStart": 100,
+              "charEnd": 105,
+              "startMs": 6560,
+              "endMs": 6760
+            },
+            {
+              "word": "scary",
+              "charStart": 106,
+              "charEnd": 111,
+              "startMs": 6760,
+              "endMs": 7180
+            },
+            {
+              "word": "problems",
+              "charStart": 112,
+              "charEnd": 120,
+              "startMs": 7180,
+              "endMs": 7640
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -771,6 +1273,18 @@
       ],
       "answerIndex": 1,
       "explain_ko": "felt warm inside — 마음이 따뜻해졌어요."
+    },
+    {
+      "question_ko": "가게 주인은 강아지를 어디 근처에서 봤다고 했나요?",
+      "type": "mc",
+      "options": [
+        "빵집",
+        "병원",
+        "학교",
+        "강"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "near the bakery — 빵집 근처예요."
     }
   ]
 }

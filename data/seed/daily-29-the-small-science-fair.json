@@ -1,0 +1,583 @@
+{
+  "slug": "daily-29-the-small-science-fair",
+  "title": "The Small Science Fair",
+  "title_ko": "작은 과학 발표회",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "간단한 씨앗 관찰 발표를 준비하며 이유, 순서, 관찰 표현을 익혀요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our class has a small science fair today.",
+          "translation_ko": "오늘 우리 반에는 작은 과학 발표회가 있어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 940
+            },
+            {
+              "word": "has",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1200,
+              "endMs": 1400
+            },
+            {
+              "word": "small",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1700
+            },
+            {
+              "word": "science",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 2100
+            },
+            {
+              "word": "fair",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "today",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I bring a cup with three bean seeds.",
+          "translation_ko": "나는 콩 씨앗 세 개가 든 컵을 가져와요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "bring",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 120,
+              "endMs": 340
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 540
+            },
+            {
+              "word": "cup",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 740
+            },
+            {
+              "word": "with",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "three",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "bean",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "seeds",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1620,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "First, I show how the roots grew down.",
+          "translation_ko": "먼저 뿌리가 아래로 자란 모습을 보여줘요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "First",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "I",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "show",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "how",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1720,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "roots",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2200,
+              "endMs": 2320
+            },
+            {
+              "word": "grew",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2320,
+              "endMs": 2640
+            },
+            {
+              "word": "down",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2640,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then I explain why the leaves need light.",
+          "translation_ko": "그다음 잎이 왜 빛이 필요한지 설명해요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "explain",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 1060
+            },
+            {
+              "word": "why",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "leaves",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1680,
+              "endMs": 1800
+            },
+            {
+              "word": "need",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1800,
+              "endMs": 2120
+            },
+            {
+              "word": "light",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My chart has pictures from each day.",
+          "translation_ko": "내 표에는 매일 찍은 사진이 있어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "chart",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "has",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "pictures",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "from",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "each",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "day",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1780,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Some seeds grew faster than the others.",
+          "translation_ko": "어떤 씨앗은 다른 씨앗보다 더 빨리 자랐어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "seeds",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "grew",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "faster",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1100,
+              "endMs": 1560
+            },
+            {
+              "word": "than",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1780,
+              "endMs": 2060
+            },
+            {
+              "word": "others",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2060,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My teacher says my notes are clear.",
+          "translation_ko": "선생님은 내 기록이 분명하다고 말해요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "teacher",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "says",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "my",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "notes",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "are",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1300,
+              "endMs": 1520
+            },
+            {
+              "word": "clear",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1520,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I feel like a real young scientist.",
+          "translation_ko": "나는 진짜 어린 과학자가 된 것 같아요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 1020
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "like",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "real",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "young",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 2420,
+              "endMs": 2640
+            },
+            {
+              "word": "scientist",
+              "charStart": 25,
+              "charEnd": 34,
+              "startMs": 2640,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "무슨 행사가 있었나요?",
+      "type": "mc",
+      "options": [
+        "과학 발표회",
+        "운동회",
+        "생일잔치",
+        "소풍"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "science fair는 과학 발표회예요."
+    },
+    {
+      "question_ko": "컵 안에는 무엇이 있었나요?",
+      "type": "mc",
+      "options": [
+        "콩 씨앗",
+        "돌",
+        "연필",
+        "꽃잎"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "three bean seeds가 있었어요."
+    },
+    {
+      "question_ko": "뿌리는 어느 방향으로 자랐나요?",
+      "type": "mc",
+      "options": [
+        "위",
+        "아래",
+        "옆",
+        "동그랗게"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "roots grew down — 아래로 자랐어요."
+    },
+    {
+      "question_ko": "잎에는 무엇이 필요했나요?",
+      "type": "mc",
+      "options": [
+        "빛",
+        "신발",
+        "소금",
+        "장난감"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "leaves need light — 잎은 빛이 필요해요."
+    },
+    {
+      "question_ko": "선생님은 기록이 어떻다고 했나요?",
+      "type": "mc",
+      "options": [
+        "분명하다",
+        "너무 길다",
+        "없다",
+        "틀렸다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "notes are clear — 기록이 분명해요."
+    }
+  ]
+}

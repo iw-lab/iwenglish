@@ -1,0 +1,664 @@
+{
+  "slug": "daily-31-the-bike-ride",
+  "title": "The Bike Ride",
+  "title_ko": "자전거 타는 날",
+  "level": "A2",
+  "ageBand": "8-10",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "새 자전거를 타며 안전 규칙, 순서, 작은 문제 해결을 더 긴 흐름으로 익혀요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "This morning, I practice riding my new bike.",
+          "translation_ko": "오늘 아침 나는 새 자전거 타는 연습을 해요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "morning",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 760
+            },
+            {
+              "word": "I",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1480
+            },
+            {
+              "word": "practice",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1880
+            },
+            {
+              "word": "riding",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2220
+            },
+            {
+              "word": "my",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2520
+            },
+            {
+              "word": "new",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "bike",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2800,
+              "endMs": 3040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom checks my helmet before we leave.",
+          "translation_ko": "출발하기 전에 엄마가 내 헬멧을 확인해요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "checks",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "my",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1420
+            },
+            {
+              "word": "helmet",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1420
+            },
+            {
+              "word": "before",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1900
+            },
+            {
+              "word": "we",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "leave",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2200,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At first, the path feels narrow and bumpy.",
+          "translation_ko": "처음에는 길이 좁고 울퉁불퉁하게 느껴져요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "first",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 640
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "path",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1380,
+              "endMs": 1480
+            },
+            {
+              "word": "feels",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1840
+            },
+            {
+              "word": "narrow",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2640
+            },
+            {
+              "word": "bumpy",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I keep both hands on the handles.",
+          "translation_ko": "나는 양손을 손잡이에 둬요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 900
+            },
+            {
+              "word": "keep",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "both",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "hands",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1420,
+              "endMs": 1700
+            },
+            {
+              "word": "on",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1860,
+              "endMs": 2360
+            },
+            {
+              "word": "handles",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 2360,
+              "endMs": 2360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A small stone makes my wheel shake.",
+          "translation_ko": "작은 돌 때문에 바퀴가 흔들려요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "small",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 640
+            },
+            {
+              "word": "stone",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 1160
+            },
+            {
+              "word": "makes",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1720
+            },
+            {
+              "word": "my",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "wheel",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2360
+            },
+            {
+              "word": "shake",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I slow down instead of stopping suddenly.",
+          "translation_ko": "나는 갑자기 멈추지 않고 속도를 줄여요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "slow",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "down",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1480
+            },
+            {
+              "word": "instead",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1640,
+              "endMs": 2060
+            },
+            {
+              "word": "of",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 2060,
+              "endMs": 2380
+            },
+            {
+              "word": "stopping",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 2380,
+              "endMs": 2800
+            },
+            {
+              "word": "suddenly",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 2800,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom tells me that careful riders stay safe.",
+          "translation_ko": "엄마는 조심하는 사람이 안전하다고 말해요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "tells",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "me",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 860
+            },
+            {
+              "word": "that",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "careful",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "riders",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1420,
+              "endMs": 1800
+            },
+            {
+              "word": "stay",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1800,
+              "endMs": 2160
+            },
+            {
+              "word": "safe",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2160,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Soon I ride all the way around the park.",
+          "translation_ko": "곧 나는 공원을 한 바퀴 끝까지 돌아요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 640,
+              "endMs": 800
+            },
+            {
+              "word": "ride",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "all",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1620
+            },
+            {
+              "word": "way",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "around",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2420
+            },
+            {
+              "word": "park",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My legs are tired, but my smile is wide.",
+          "translation_ko": "다리는 피곤하지만 내 미소는 커요.",
+          "audio": "/seed/daily-31-the-bike-ride/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "legs",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 700,
+              "endMs": 940
+            },
+            {
+              "word": "are",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "tired",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "but",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1900,
+              "endMs": 2000
+            },
+            {
+              "word": "my",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "smile",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "is",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2500,
+              "endMs": 2780
+            },
+            {
+              "word": "wide",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2780,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "무엇을 연습했나요?",
+      "type": "mc",
+      "options": [
+        "자전거 타기",
+        "피아노",
+        "수영",
+        "달리기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "riding my new bike — 새 자전거 타기예요."
+    },
+    {
+      "question_ko": "출발 전 엄마가 확인한 것은?",
+      "type": "mc",
+      "options": [
+        "헬멧",
+        "가방",
+        "양말",
+        "책"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "helmet은 헬멧이에요."
+    },
+    {
+      "question_ko": "처음 길은 어떻게 느껴졌나요?",
+      "type": "mc",
+      "options": [
+        "좁고 울퉁불퉁함",
+        "넓고 부드러움",
+        "젖음",
+        "어두움"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "narrow and bumpy예요."
+    },
+    {
+      "question_ko": "바퀴를 흔든 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 돌",
+        "물",
+        "장갑",
+        "빵"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a small stone이 바퀴를 흔들었어요."
+    },
+    {
+      "question_ko": "갑자기 멈추는 대신 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "속도를 줄임",
+        "소리침",
+        "뛰어내림",
+        "눈 감음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "slow down — 속도를 줄였어요."
+    }
+  ]
+}

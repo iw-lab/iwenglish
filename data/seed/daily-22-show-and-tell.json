@@ -526,6 +526,213 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the end, our teacher says good speakers also make good listeners. I understand that sharing goes both ways, because every special thing has a story behind it.",
+          "translation_ko": "마지막에 선생님은 말을 잘하는 사람은 잘 듣기도 한다고 말해요. 모든 특별한 물건 뒤에는 이야기가 있으므로, 나는 나눔이 서로 오가는 것임을 이해해요.",
+          "audio": "/seed/daily-22-show-and-tell/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 160,
+              "endMs": 400
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 560
+            },
+            {
+              "word": "our",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1140
+            },
+            {
+              "word": "teacher",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1140,
+              "endMs": 1340
+            },
+            {
+              "word": "says",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1340,
+              "endMs": 1640
+            },
+            {
+              "word": "good",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 1980
+            },
+            {
+              "word": "speakers",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 1980,
+              "endMs": 2320
+            },
+            {
+              "word": "also",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2320,
+              "endMs": 2780
+            },
+            {
+              "word": "make",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 3020
+            },
+            {
+              "word": "good",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3020,
+              "endMs": 3280
+            },
+            {
+              "word": "listeners",
+              "charStart": 58,
+              "charEnd": 67,
+              "startMs": 3280,
+              "endMs": 3640
+            },
+            {
+              "word": "I",
+              "charStart": 69,
+              "charEnd": 70,
+              "startMs": 4440,
+              "endMs": 4560
+            },
+            {
+              "word": "understand",
+              "charStart": 71,
+              "charEnd": 81,
+              "startMs": 4560,
+              "endMs": 4920
+            },
+            {
+              "word": "that",
+              "charStart": 82,
+              "charEnd": 86,
+              "startMs": 4920,
+              "endMs": 5260
+            },
+            {
+              "word": "sharing",
+              "charStart": 87,
+              "charEnd": 94,
+              "startMs": 5260,
+              "endMs": 5460
+            },
+            {
+              "word": "goes",
+              "charStart": 95,
+              "charEnd": 99,
+              "startMs": 5460,
+              "endMs": 5680
+            },
+            {
+              "word": "both",
+              "charStart": 100,
+              "charEnd": 104,
+              "startMs": 5680,
+              "endMs": 5980
+            },
+            {
+              "word": "ways",
+              "charStart": 105,
+              "charEnd": 109,
+              "startMs": 5980,
+              "endMs": 6320
+            },
+            {
+              "word": "because",
+              "charStart": 111,
+              "charEnd": 118,
+              "startMs": 6320,
+              "endMs": 6920
+            },
+            {
+              "word": "every",
+              "charStart": 119,
+              "charEnd": 124,
+              "startMs": 6920,
+              "endMs": 7320
+            },
+            {
+              "word": "special",
+              "charStart": 125,
+              "charEnd": 132,
+              "startMs": 7320,
+              "endMs": 7700
+            },
+            {
+              "word": "thing",
+              "charStart": 133,
+              "charEnd": 138,
+              "startMs": 7700,
+              "endMs": 7940
+            },
+            {
+              "word": "has",
+              "charStart": 139,
+              "charEnd": 142,
+              "startMs": 7940,
+              "endMs": 8120
+            },
+            {
+              "word": "a",
+              "charStart": 143,
+              "charEnd": 144,
+              "startMs": 8120,
+              "endMs": 8560
+            },
+            {
+              "word": "story",
+              "charStart": 145,
+              "charEnd": 150,
+              "startMs": 8560,
+              "endMs": 8560
+            },
+            {
+              "word": "behind",
+              "charStart": 151,
+              "charEnd": 157,
+              "startMs": 8560,
+              "endMs": 8860
+            },
+            {
+              "word": "it",
+              "charStart": 158,
+              "charEnd": 160,
+              "startMs": 8860,
+              "endMs": 9100
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -589,6 +796,18 @@
       ],
       "answerIndex": 1,
       "explain_ko": "with a big smile — 활짝 웃으며요."
+    },
+    {
+      "question_ko": "선생님은 좋은 발표자가 무엇도 잘한다고 했나요?",
+      "type": "mc",
+      "options": [
+        "잘 듣기",
+        "빨리 달리기",
+        "그림만 보기",
+        "숨기기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "good listeners — 잘 듣는 사람이기도 해요."
     }
   ]
 }

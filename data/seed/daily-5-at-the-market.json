@@ -2,7 +2,7 @@
   "slug": "daily-5-at-the-market",
   "title": "At the Market",
   "title_ko": "시장에서",
-  "level": "A2",
+  "level": "B1",
   "ageBand": "8-10",
   "stage": 5,
   "collection": "daily",
@@ -529,6 +529,322 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom compares two prices before she buys apples. I learn that some fruit costs more when it is fresh.",
+          "translation_ko": "엄마는 사과를 사기 전에 두 가격을 비교해요. 나는 어떤 과일은 신선할 때 더 비싸다는 걸 배워요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "compares",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 1180
+            },
+            {
+              "word": "two",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1180,
+              "endMs": 1600
+            },
+            {
+              "word": "prices",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1940
+            },
+            {
+              "word": "before",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2340
+            },
+            {
+              "word": "she",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2340,
+              "endMs": 2640
+            },
+            {
+              "word": "buys",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2640,
+              "endMs": 2880
+            },
+            {
+              "word": "apples",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2880,
+              "endMs": 3300
+            },
+            {
+              "word": "I",
+              "charStart": 48,
+              "charEnd": 49,
+              "startMs": 4160,
+              "endMs": 4180
+            },
+            {
+              "word": "learn",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 4180,
+              "endMs": 4400
+            },
+            {
+              "word": "that",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 4400,
+              "endMs": 4680
+            },
+            {
+              "word": "some",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 4680,
+              "endMs": 4900
+            },
+            {
+              "word": "fruit",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 4900,
+              "endMs": 5120
+            },
+            {
+              "word": "costs",
+              "charStart": 72,
+              "charEnd": 77,
+              "startMs": 5120,
+              "endMs": 5480
+            },
+            {
+              "word": "more",
+              "charStart": 78,
+              "charEnd": 82,
+              "startMs": 5480,
+              "endMs": 5840
+            },
+            {
+              "word": "when",
+              "charStart": 83,
+              "charEnd": 87,
+              "startMs": 5840,
+              "endMs": 6060
+            },
+            {
+              "word": "it",
+              "charStart": 88,
+              "charEnd": 90,
+              "startMs": 6060,
+              "endMs": 6160
+            },
+            {
+              "word": "is",
+              "charStart": 91,
+              "charEnd": 93,
+              "startMs": 6160,
+              "endMs": 6400
+            },
+            {
+              "word": "fresh",
+              "charStart": 94,
+              "charEnd": 99,
+              "startMs": 6400,
+              "endMs": 6640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We carry the bags home and count our change. Shopping carefully helps our family save money, and I understand why comparing choices matters.",
+          "translation_ko": "우리는 봉투를 집으로 들고 가며 거스름돈을 세요. 신중하게 장을 보면 가족이 돈을 아낄 수 있고, 나는 선택을 비교하는 일이 왜 중요한지 이해해요.",
+          "audio": "/seed/daily-5-at-the-market/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "carry",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 1040
+            },
+            {
+              "word": "bags",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1040
+            },
+            {
+              "word": "home",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "count",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "our",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "change",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2080,
+              "endMs": 2500
+            },
+            {
+              "word": "Shopping",
+              "charStart": 45,
+              "charEnd": 53,
+              "startMs": 3480,
+              "endMs": 3660
+            },
+            {
+              "word": "carefully",
+              "charStart": 54,
+              "charEnd": 63,
+              "startMs": 3660,
+              "endMs": 4080
+            },
+            {
+              "word": "helps",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 4080,
+              "endMs": 4360
+            },
+            {
+              "word": "our",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 4360,
+              "endMs": 4560
+            },
+            {
+              "word": "family",
+              "charStart": 74,
+              "charEnd": 80,
+              "startMs": 4560,
+              "endMs": 4900
+            },
+            {
+              "word": "save",
+              "charStart": 81,
+              "charEnd": 85,
+              "startMs": 4900,
+              "endMs": 5200
+            },
+            {
+              "word": "money",
+              "charStart": 86,
+              "charEnd": 91,
+              "startMs": 5200,
+              "endMs": 5460
+            },
+            {
+              "word": "and",
+              "charStart": 93,
+              "charEnd": 96,
+              "startMs": 5960,
+              "endMs": 5980
+            },
+            {
+              "word": "I",
+              "charStart": 97,
+              "charEnd": 98,
+              "startMs": 5980,
+              "endMs": 6220
+            },
+            {
+              "word": "understand",
+              "charStart": 99,
+              "charEnd": 109,
+              "startMs": 6220,
+              "endMs": 6620
+            },
+            {
+              "word": "why",
+              "charStart": 110,
+              "charEnd": 113,
+              "startMs": 6620,
+              "endMs": 7040
+            },
+            {
+              "word": "comparing",
+              "charStart": 114,
+              "charEnd": 123,
+              "startMs": 7040,
+              "endMs": 7440
+            },
+            {
+              "word": "choices",
+              "charStart": 124,
+              "charEnd": 131,
+              "startMs": 7440,
+              "endMs": 7920
+            },
+            {
+              "word": "matters",
+              "charStart": 132,
+              "charEnd": 139,
+              "startMs": 7920,
+              "endMs": 8320
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -592,6 +908,18 @@
       ],
       "answerIndex": 2,
       "explain_ko": "heavy bags — 무거운 가방이었어요."
+    },
+    {
+      "question_ko": "엄마는 사과를 사기 전에 무엇을 비교했나요?",
+      "type": "mc",
+      "options": [
+        "두 가격",
+        "신발",
+        "날씨",
+        "책"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "compares two prices — 두 가격을 비교했어요."
     }
   ]
 }

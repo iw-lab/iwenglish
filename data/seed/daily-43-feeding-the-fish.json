@@ -1,0 +1,425 @@
+{
+  "slug": "daily-43-feeding-the-fish",
+  "title": "Feeding the Fish",
+  "title_ko": "물고기 밥 주기",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "작은 어항의 물고기에게 밥을 주며 동사와 형용사를 간단한 문장으로 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "I have a small fish tank.",
+          "translation_ko": "나는 작은 어항이 있어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "small",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "fish",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "tank",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Two orange fish swim inside.",
+          "translation_ko": "주황색 물고기 두 마리가 안에서 헤엄쳐요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Two",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "orange",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "fish",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1260
+            },
+            {
+              "word": "swim",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "inside",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It is time to feed them.",
+          "translation_ko": "밥 줄 시간이에요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 120,
+              "endMs": 340
+            },
+            {
+              "word": "time",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "to",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 980
+            },
+            {
+              "word": "feed",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1120
+            },
+            {
+              "word": "them",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I drop a little food in.",
+          "translation_ko": "나는 먹이를 조금 넣어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "drop",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 440
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "little",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 880
+            },
+            {
+              "word": "food",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "in",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The fish swim up fast.",
+          "translation_ko": "물고기들이 빠르게 올라와요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "fish",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 720
+            },
+            {
+              "word": "swim",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1300
+            },
+            {
+              "word": "up",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1300,
+              "endMs": 1840
+            },
+            {
+              "word": "fast",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1840,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They eat every tiny bit.",
+          "translation_ko": "그들은 작은 알갱이까지 다 먹어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "eat",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "every",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 1160
+            },
+            {
+              "word": "tiny",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1520
+            },
+            {
+              "word": "bit",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1520,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My fish are happy and full.",
+          "translation_ko": "내 물고기는 행복하고 배불러요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "fish",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "are",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "happy",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1820
+            },
+            {
+              "word": "full",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1820,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "나는 무엇을 가지고 있나요?",
+      "type": "mc",
+      "options": [
+        "작은 어항",
+        "강아지",
+        "새장",
+        "공"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a small fish tank — 작은 어항이에요."
+    },
+    {
+      "question_ko": "물고기는 몇 마리인가요?",
+      "type": "mc",
+      "options": [
+        "두 마리",
+        "한 마리",
+        "다섯 마리",
+        "없어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "two fish — 두 마리예요."
+    },
+    {
+      "question_ko": "무엇을 넣었나요?",
+      "type": "mc",
+      "options": [
+        "먹이",
+        "돌",
+        "물감",
+        "모래"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "food를 넣었어요."
+    },
+    {
+      "question_ko": "물고기는 어떻게 올라왔나요?",
+      "type": "mc",
+      "options": [
+        "빠르게",
+        "천천히",
+        "거꾸로",
+        "안 와요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "swim up fast — 빠르게요."
+    },
+    {
+      "question_ko": "마지막에 물고기는 어땠나요?",
+      "type": "mc",
+      "options": [
+        "행복하고 배불러요",
+        "배고파요",
+        "아파요",
+        "슬퍼요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "happy and full — 행복하고 배불러요."
+    }
+  ]
+}

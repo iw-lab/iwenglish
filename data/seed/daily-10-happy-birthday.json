@@ -2,7 +2,7 @@
   "slug": "daily-10-happy-birthday",
   "title": "Happy Birthday!",
   "title_ko": "생일 축하해!",
-  "level": "A1",
+  "level": "A2",
   "ageBand": "8-10",
   "stage": 4,
   "collection": "daily",
@@ -473,6 +473,80 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Before everyone goes home, we take a picture together.",
+          "translation_ko": "모두 집에 가기 전에 우리는 함께 사진을 찍어요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Before",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "everyone",
+              "charStart": 7,
+              "charEnd": 15,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "goes",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1320
+            },
+            {
+              "word": "home",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "we",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1960,
+              "endMs": 2100
+            },
+            {
+              "word": "take",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2240
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2240,
+              "endMs": 2440
+            },
+            {
+              "word": "picture",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2440,
+              "endMs": 2620
+            },
+            {
+              "word": "together",
+              "charStart": 45,
+              "charEnd": 53,
+              "startMs": 2620,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -536,6 +610,18 @@
       ],
       "answerIndex": 0,
       "explain_ko": "Happy birthday는 \"생일 축하해\"예요."
+    },
+    {
+      "question_ko": "집에 가기 전에 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "사진 찍기",
+        "수영하기",
+        "청소만 하기",
+        "잠자기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "take a picture together — 함께 사진을 찍었어요."
     }
   ]
 }

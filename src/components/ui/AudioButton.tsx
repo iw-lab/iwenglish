@@ -43,11 +43,30 @@ export function AudioButton({
       setState("loading");
       const a = audioRef.current ?? new Audio(src);
       audioRef.current = a;
+      a.preload = "auto";
       a.playbackRate = rate;
       a.onplaying = () => setState("playing");
       a.onended = () => setState("idle");
       a.onerror = () => fallback();
-      a.play().catch(fallback);
+      // 첫 재생 거부(autoplay·버퍼링)는 폴백음성(쉰 목소리) 대신 로드 후 1회 재시도
+      let retried = false;
+      const attempt = () => {
+        a.play().catch(() => {
+          if (retried) return setState("idle");
+          retried = true;
+          a.addEventListener(
+            "canplaythrough",
+            () => a.play().catch(() => setState("idle")),
+            { once: true },
+          );
+          try {
+            a.load();
+          } catch {
+            /* noop */
+          }
+        });
+      };
+      attempt();
     } else {
       fallback();
     }

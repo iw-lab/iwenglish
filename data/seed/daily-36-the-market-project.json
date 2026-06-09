@@ -1,0 +1,976 @@
+{
+  "slug": "daily-36-the-market-project",
+  "title": "The Market Project",
+  "title_ko": "시장 조사 프로젝트",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "시장 조사 프로젝트를 통해 가격 비교, 질문, 정리 발표를 풍부한 생활영어로 익혀요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "For our math project, we visit the market to compare fruit prices.",
+          "translation_ko": "수학 프로젝트를 위해 우리는 과일 가격을 비교하러 시장에 가요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "For",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "our",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "math",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "project",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 980,
+              "endMs": 1520
+            },
+            {
+              "word": "we",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2080
+            },
+            {
+              "word": "visit",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2300,
+              "endMs": 2620
+            },
+            {
+              "word": "market",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2620,
+              "endMs": 2760
+            },
+            {
+              "word": "to",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2760,
+              "endMs": 3100
+            },
+            {
+              "word": "compare",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3320
+            },
+            {
+              "word": "fruit",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3320,
+              "endMs": 3640
+            },
+            {
+              "word": "prices",
+              "charStart": 59,
+              "charEnd": 65,
+              "startMs": 3640,
+              "endMs": 3980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Each pair chooses two fruits and writes the prices in a notebook.",
+          "translation_ko": "각 짝은 과일 두 가지를 고르고 가격을 공책에 적어요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "pair",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 740
+            },
+            {
+              "word": "chooses",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 1280
+            },
+            {
+              "word": "two",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1720
+            },
+            {
+              "word": "fruits",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2080
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2080,
+              "endMs": 2820
+            },
+            {
+              "word": "writes",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2820,
+              "endMs": 3040
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 3040,
+              "endMs": 3280
+            },
+            {
+              "word": "prices",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3280,
+              "endMs": 3540
+            },
+            {
+              "word": "in",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 3540,
+              "endMs": 3780
+            },
+            {
+              "word": "a",
+              "charStart": 54,
+              "charEnd": 55,
+              "startMs": 3780,
+              "endMs": 4120
+            },
+            {
+              "word": "notebook",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 4120,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I choose apples because they are sold in many different stalls.",
+          "translation_ko": "나는 사과가 여러 가게에서 팔리기 때문에 사과를 골라요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "choose",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "apples",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 520,
+              "endMs": 840
+            },
+            {
+              "word": "because",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "they",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1340
+            },
+            {
+              "word": "are",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "sold",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1580,
+              "endMs": 1700
+            },
+            {
+              "word": "in",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 1700,
+              "endMs": 1980
+            },
+            {
+              "word": "many",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 1980,
+              "endMs": 2180
+            },
+            {
+              "word": "different",
+              "charStart": 46,
+              "charEnd": 55,
+              "startMs": 2180,
+              "endMs": 2540
+            },
+            {
+              "word": "stalls",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 2540,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Some apples are cheap, but others look fresher and cost more.",
+          "translation_ko": "어떤 사과는 싸지만 다른 사과는 더 신선해 보이고 더 비싸요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "apples",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "are",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "cheap",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "but",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1860,
+              "endMs": 2000
+            },
+            {
+              "word": "others",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "look",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2220,
+              "endMs": 2480
+            },
+            {
+              "word": "fresher",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2480,
+              "endMs": 2900
+            },
+            {
+              "word": "and",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2900,
+              "endMs": 3300
+            },
+            {
+              "word": "cost",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3300,
+              "endMs": 3600
+            },
+            {
+              "word": "more",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3600,
+              "endMs": 3900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We ask the seller why the prices are not the same.",
+          "translation_ko": "우리는 왜 가격이 같지 않은지 판매자에게 물어요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "ask",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 1260
+            },
+            {
+              "word": "seller",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1260
+            },
+            {
+              "word": "why",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1800
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "prices",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "are",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2400,
+              "endMs": 2740
+            },
+            {
+              "word": "not",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2740,
+              "endMs": 2980
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2980,
+              "endMs": 3200
+            },
+            {
+              "word": "same",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3200,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She says size, taste, and season can all change the price.",
+          "translation_ko": "판매자는 크기, 맛, 계절이 모두 가격을 바꿀 수 있다고 말해요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "says",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "size",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 1000
+            },
+            {
+              "word": "taste",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1620,
+              "endMs": 1620
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 2360
+            },
+            {
+              "word": "season",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2360,
+              "endMs": 2360
+            },
+            {
+              "word": "can",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2360,
+              "endMs": 2840
+            },
+            {
+              "word": "all",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2840,
+              "endMs": 3220
+            },
+            {
+              "word": "change",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 3220,
+              "endMs": 3480
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3480,
+              "endMs": 3660
+            },
+            {
+              "word": "price",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3660,
+              "endMs": 3920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Back at school, we make a chart with colors and numbers.",
+          "translation_ko": "학교로 돌아와 우리는 색깔과 숫자가 있는 표를 만들어요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Back",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "at",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 480
+            },
+            {
+              "word": "school",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 480,
+              "endMs": 820
+            },
+            {
+              "word": "we",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "make",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1540
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "chart",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 1880
+            },
+            {
+              "word": "with",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "colors",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2140,
+              "endMs": 2440
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2440,
+              "endMs": 3080
+            },
+            {
+              "word": "numbers",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3080,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My partner explains the cheap apples, and I explain the fresh ones.",
+          "translation_ko": "짝은 싼 사과를 설명하고 나는 신선한 사과를 설명해요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "partner",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 760
+            },
+            {
+              "word": "explains",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 760,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1500,
+              "endMs": 1780
+            },
+            {
+              "word": "cheap",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1780,
+              "endMs": 2020
+            },
+            {
+              "word": "apples",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2780,
+              "endMs": 2860
+            },
+            {
+              "word": "I",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 2860,
+              "endMs": 3100
+            },
+            {
+              "word": "explain",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 3100,
+              "endMs": 3540
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3540,
+              "endMs": 3920
+            },
+            {
+              "word": "fresh",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3920,
+              "endMs": 4000
+            },
+            {
+              "word": "ones",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 4000,
+              "endMs": 4320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Our class learns that the lowest price is not always the best choice.",
+          "translation_ko": "우리 반은 가장 낮은 가격이 항상 최고의 선택은 아니라는 걸 배워요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 980
+            },
+            {
+              "word": "learns",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1400
+            },
+            {
+              "word": "that",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 1940
+            },
+            {
+              "word": "lowest",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "price",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2200,
+              "endMs": 2580
+            },
+            {
+              "word": "is",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2580,
+              "endMs": 2860
+            },
+            {
+              "word": "not",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "always",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3600
+            },
+            {
+              "word": "the",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3600,
+              "endMs": 3940
+            },
+            {
+              "word": "best",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3940,
+              "endMs": 4280
+            },
+            {
+              "word": "choice",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 4280,
+              "endMs": 4700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now I can shop more carefully with my family.",
+          "translation_ko": "이제 나는 가족과 더 신중하게 장을 볼 수 있어요.",
+          "audio": "/seed/daily-36-the-market-project/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "I",
+              "charStart": 4,
+              "charEnd": 5,
+              "startMs": 740,
+              "endMs": 900
+            },
+            {
+              "word": "can",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "shop",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "more",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "carefully",
+              "charStart": 20,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 2080
+            },
+            {
+              "word": "with",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2480
+            },
+            {
+              "word": "my",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2480,
+              "endMs": 2700
+            },
+            {
+              "word": "family",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2700,
+              "endMs": 3020
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "무엇을 비교하러 시장에 갔나요?",
+      "type": "mc",
+      "options": [
+        "과일 가격",
+        "신발 크기",
+        "책 제목",
+        "버스 시간"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "fruit prices를 비교했어요."
+    },
+    {
+      "question_ko": "화자는 어떤 과일을 골랐나요?",
+      "type": "mc",
+      "options": [
+        "사과",
+        "바나나",
+        "포도",
+        "딸기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "I choose apples."
+    },
+    {
+      "question_ko": "판매자는 무엇이 가격을 바꿀 수 있다고 했나요?",
+      "type": "mc",
+      "options": [
+        "크기, 맛, 계절",
+        "색연필",
+        "날씨만",
+        "노래"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "size, taste, and season이에요."
+    },
+    {
+      "question_ko": "학교로 돌아와 만든 것은?",
+      "type": "mc",
+      "options": [
+        "표",
+        "배",
+        "모자",
+        "쿠키"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "make a chart — 표를 만들어요."
+    },
+    {
+      "question_ko": "가장 낮은 가격은 항상 최고인가요?",
+      "type": "mc",
+      "options": [
+        "아니요",
+        "네",
+        "언제나",
+        "모름"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "not always the best choice예요."
+    }
+  ]
+}

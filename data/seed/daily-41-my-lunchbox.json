@@ -1,0 +1,316 @@
+{
+  "slug": "daily-41-my-lunchbox",
+  "title": "My Lunchbox",
+  "title_ko": "내 도시락",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "도시락을 열어 음식을 하나씩 보여주며 가장 쉬운 명사와 표현을 반복해요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "This is my lunchbox.",
+          "translation_ko": "이건 내 도시락이에요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 560
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "lunchbox",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I have rice.",
+          "translation_ko": "나는 밥이 있어요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 760
+            },
+            {
+              "word": "rice",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 760,
+              "endMs": 1240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I have an egg.",
+          "translation_ko": "나는 달걀이 있어요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 660,
+              "endMs": 1060
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "an",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "egg",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1440,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I have a small apple.",
+          "translation_ko": "나는 작은 사과가 있어요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 680,
+              "endMs": 1040
+            },
+            {
+              "word": "small",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1040,
+              "endMs": 1400
+            },
+            {
+              "word": "apple",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The food smells good.",
+          "translation_ko": "음식 냄새가 좋아요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "food",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "smells",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "good",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 980,
+              "endMs": 1260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I eat with my friend.",
+          "translation_ko": "나는 친구와 먹어요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "eat",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 780,
+              "endMs": 980
+            },
+            {
+              "word": "with",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "my",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1160,
+              "endMs": 1380
+            },
+            {
+              "word": "friend",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1620
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "이건 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "도시락",
+        "가방",
+        "신발",
+        "공"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "lunchbox는 도시락이에요."
+    },
+    {
+      "question_ko": "도시락 안에 무엇이 있나요?",
+      "type": "mc",
+      "options": [
+        "밥",
+        "물",
+        "책",
+        "모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "I have rice — 밥이 있어요."
+    },
+    {
+      "question_ko": "사과는 어땠나요?",
+      "type": "mc",
+      "options": [
+        "작아요",
+        "커요",
+        "없어요",
+        "빨개요만"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a small apple — 작은 사과예요."
+    },
+    {
+      "question_ko": "음식 냄새는 어땠나요?",
+      "type": "mc",
+      "options": [
+        "좋아요",
+        "이상해요",
+        "안 나요",
+        "매워요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "smells good — 냄새가 좋아요."
+    },
+    {
+      "question_ko": "누구와 먹나요?",
+      "type": "mc",
+      "options": [
+        "친구",
+        "혼자",
+        "선생님만",
+        "강아지"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "with my friend — 친구와 먹어요."
+    }
+  ]
+}

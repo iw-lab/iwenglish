@@ -806,6 +806,494 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After lunch, we follow a forest path behind the cabin. The signs are easy to miss, so we read them carefully together.",
+          "translation_ko": "점심 뒤에 우리는 오두막 뒤 숲길을 따라가요. 표지판을 놓치기 쉬워서 함께 조심히 읽어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "lunch",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "we",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "follow",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1460
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1800
+            },
+            {
+              "word": "forest",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "path",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2020,
+              "endMs": 2340
+            },
+            {
+              "word": "behind",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2340,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2700,
+              "endMs": 3180
+            },
+            {
+              "word": "cabin",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3180,
+              "endMs": 3180
+            },
+            {
+              "word": "The",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3980,
+              "endMs": 4060
+            },
+            {
+              "word": "signs",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 4060,
+              "endMs": 4320
+            },
+            {
+              "word": "are",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 4320,
+              "endMs": 4520
+            },
+            {
+              "word": "easy",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 4520,
+              "endMs": 4760
+            },
+            {
+              "word": "to",
+              "charStart": 74,
+              "charEnd": 76,
+              "startMs": 4760,
+              "endMs": 5240
+            },
+            {
+              "word": "miss",
+              "charStart": 77,
+              "charEnd": 81,
+              "startMs": 5240,
+              "endMs": 5240
+            },
+            {
+              "word": "so",
+              "charStart": 83,
+              "charEnd": 85,
+              "startMs": 5620,
+              "endMs": 5740
+            },
+            {
+              "word": "we",
+              "charStart": 86,
+              "charEnd": 88,
+              "startMs": 5740,
+              "endMs": 5940
+            },
+            {
+              "word": "read",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 5940,
+              "endMs": 6080
+            },
+            {
+              "word": "them",
+              "charStart": 94,
+              "charEnd": 98,
+              "startMs": 6080,
+              "endMs": 6340
+            },
+            {
+              "word": "carefully",
+              "charStart": 99,
+              "charEnd": 108,
+              "startMs": 6340,
+              "endMs": 6740
+            },
+            {
+              "word": "together",
+              "charStart": 109,
+              "charEnd": 117,
+              "startMs": 6740,
+              "endMs": 7100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When we reach the lookout, the whole valley opens below us. I notice how small the roads look from above.",
+          "translation_ko": "전망대에 도착하자 계곡 전체가 우리 아래로 펼쳐져요. 위에서 보면 길들이 얼마나 작아 보이는지 알아차려요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "we",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "reach",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "lookout",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2340,
+              "endMs": 2420
+            },
+            {
+              "word": "whole",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2420,
+              "endMs": 2720
+            },
+            {
+              "word": "valley",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 2960
+            },
+            {
+              "word": "opens",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2960,
+              "endMs": 3380
+            },
+            {
+              "word": "below",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3380,
+              "endMs": 3640
+            },
+            {
+              "word": "us",
+              "charStart": 56,
+              "charEnd": 58,
+              "startMs": 3640,
+              "endMs": 3980
+            },
+            {
+              "word": "I",
+              "charStart": 60,
+              "charEnd": 61,
+              "startMs": 4660,
+              "endMs": 4740
+            },
+            {
+              "word": "notice",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 4740,
+              "endMs": 5000
+            },
+            {
+              "word": "how",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 5000,
+              "endMs": 5340
+            },
+            {
+              "word": "small",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 5340,
+              "endMs": 5660
+            },
+            {
+              "word": "the",
+              "charStart": 79,
+              "charEnd": 82,
+              "startMs": 5660,
+              "endMs": 6080
+            },
+            {
+              "word": "roads",
+              "charStart": 83,
+              "charEnd": 88,
+              "startMs": 6080,
+              "endMs": 6080
+            },
+            {
+              "word": "look",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 6080,
+              "endMs": 6380
+            },
+            {
+              "word": "from",
+              "charStart": 94,
+              "charEnd": 98,
+              "startMs": 6380,
+              "endMs": 6620
+            },
+            {
+              "word": "above",
+              "charStart": 99,
+              "charEnd": 104,
+              "startMs": 6620,
+              "endMs": 6880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the way home, I write the best moment in my travel notebook. Remembering details helps the trip stay alive in my mind.",
+          "translation_ko": "집으로 가는 길에 나는 여행 공책에 최고의 순간을 써요. 세부 사항을 기억하면 여행이 마음속에 살아 있게 돼요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 340
+            },
+            {
+              "word": "way",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 560
+            },
+            {
+              "word": "home",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "I",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1180
+            },
+            {
+              "word": "write",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1180,
+              "endMs": 1320
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "best",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "moment",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "in",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "my",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2320,
+              "endMs": 2580
+            },
+            {
+              "word": "travel",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 2580,
+              "endMs": 2800
+            },
+            {
+              "word": "notebook",
+              "charStart": 54,
+              "charEnd": 62,
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "word": "Remembering",
+              "charStart": 64,
+              "charEnd": 75,
+              "startMs": 4080,
+              "endMs": 4480
+            },
+            {
+              "word": "details",
+              "charStart": 76,
+              "charEnd": 83,
+              "startMs": 4480,
+              "endMs": 4840
+            },
+            {
+              "word": "helps",
+              "charStart": 84,
+              "charEnd": 89,
+              "startMs": 4840,
+              "endMs": 5160
+            },
+            {
+              "word": "the",
+              "charStart": 90,
+              "charEnd": 93,
+              "startMs": 5160,
+              "endMs": 5360
+            },
+            {
+              "word": "trip",
+              "charStart": 94,
+              "charEnd": 98,
+              "startMs": 5360,
+              "endMs": 5580
+            },
+            {
+              "word": "stay",
+              "charStart": 99,
+              "charEnd": 103,
+              "startMs": 5580,
+              "endMs": 5900
+            },
+            {
+              "word": "alive",
+              "charStart": 104,
+              "charEnd": 109,
+              "startMs": 5900,
+              "endMs": 6320
+            },
+            {
+              "word": "in",
+              "charStart": 110,
+              "charEnd": 112,
+              "startMs": 6320,
+              "endMs": 6660
+            },
+            {
+              "word": "my",
+              "charStart": 113,
+              "charEnd": 115,
+              "startMs": 6660,
+              "endMs": 6880
+            },
+            {
+              "word": "mind",
+              "charStart": 116,
+              "charEnd": 120,
+              "startMs": 6880,
+              "endMs": 7140
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -869,6 +1357,18 @@
       ],
       "answerIndex": 2,
       "explain_ko": "tired but very happy — 피곤했지만 행복했어요."
+    },
+    {
+      "question_ko": "전망대에서는 무엇이 아래로 펼쳐졌나요?",
+      "type": "mc",
+      "options": [
+        "계곡",
+        "교실",
+        "시장",
+        "바다만"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "the whole valley opens below us."
     }
   ]
 }

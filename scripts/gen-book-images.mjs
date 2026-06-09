@@ -24,9 +24,22 @@ const POV =
 const NEG =
   "STRICT: no text/letters in image. 5-finger hands, natural pose. NOT cartoon/anime/manga/chibi, no big anime eyes, NOT sticker on white, NOT comic panel. NOT Chinese/Greek/Roman/Japanese-samurai, NOT historical costume. Korean modern everyday setting.";
 
+const STAGE_VISUAL = {
+  1: "Stage 1 visual difficulty: one clear action, one main object, uncluttered background, close or medium shot, very easy for young learners to read.",
+  2: "Stage 2 visual difficulty: simple everyday scene with 2-3 objects, clear left-to-right action, gentle classroom or home details.",
+  3: "Stage 3 visual difficulty: cause-and-effect scene, 3-4 meaningful objects, visible emotion, slightly richer background details.",
+  4: "Stage 4 visual difficulty: sequential problem-solving moment, clear foreground action plus supporting background clues, balanced medium-wide composition.",
+  5: "Stage 5 visual difficulty: richer B1 story moment with community context, multiple readable visual clues, layered but calm composition.",
+  6: "Stage 6 visual difficulty: advanced B1 spread-like scene with planning, reflection, or cause/effect; more environmental detail while keeping the child protagonist readable.",
+};
+
 const stripQuotes = (s) => s.replace(/[""]/g, '"');
 const sceneFromPage = (p) =>
   p.sentences.map((s) => stripQuotes(s.text)).join(" ").slice(0, 280);
+
+const visualLevel = (b) =>
+  STAGE_VISUAL[b.stage] ??
+  "General picture-book visual difficulty: clear child-centered story scene.";
 
 function runCodex({ dir, out, prompt, anchor }) {
   return new Promise((resolve) => {
@@ -110,7 +123,7 @@ function coverTasks(list) {
       label: `${b.slug} cover`,
       dir,
       out: join(dir, "cover.png"),
-      prompt: `${STYLE}\n${POV}\nScene: Book cover. ${scene} Cheerful, cozy, inviting.\n${NEG}`,
+      prompt: `${STYLE}\n${POV}\n${visualLevel(b)}\nScene: Book cover. ${scene} Cheerful, cozy, inviting.\n${NEG}`,
     };
   });
 }
@@ -126,7 +139,7 @@ function pageTasks(list) {
         dir,
         out: join(dir, `p${i + 1}.png`),
         anchor: cover,
-        prompt: `${STYLE}\n${POV}\nScene: ${sceneFromPage(p)}\nMatch cover character and art style exactly.\n${NEG}`,
+        prompt: `${STYLE}\n${POV}\n${visualLevel(b)}\nScene: ${sceneFromPage(p)}\nMatch cover character and art style exactly.\n${NEG}`,
       });
     });
   }

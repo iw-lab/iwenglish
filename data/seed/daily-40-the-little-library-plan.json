@@ -1,0 +1,2081 @@
+{
+  "slug": "daily-40-the-little-library-plan",
+  "title": "The Little Library Plan",
+  "title_ko": "작은 도서관 계획",
+  "level": "B1",
+  "ageBand": "8-10",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "동네 작은 도서관을 기획하고 실행하며 설득, 계획, 문제 해결을 가장 긴 단계 6 분량으로 읽어요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our apartment lobby has an empty shelf near the mailboxes. Every day I pass it and imagine books waiting there.",
+          "translation_ko": "우리 아파트 로비에는 우편함 근처에 빈 선반이 있어요. 나는 매일 그곳을 지나며 책들이 기다리는 모습을 상상해요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 1020
+            },
+            {
+              "word": "apartment",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 1020,
+              "endMs": 1480
+            },
+            {
+              "word": "lobby",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1480,
+              "endMs": 1760
+            },
+            {
+              "word": "has",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1760,
+              "endMs": 2060
+            },
+            {
+              "word": "an",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "empty",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2360,
+              "endMs": 2580
+            },
+            {
+              "word": "shelf",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2580,
+              "endMs": 2940
+            },
+            {
+              "word": "near",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3160
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3160,
+              "endMs": 3420
+            },
+            {
+              "word": "mailboxes",
+              "charStart": 48,
+              "charEnd": 57,
+              "startMs": 3420,
+              "endMs": 4320
+            },
+            {
+              "word": "Every",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 4880,
+              "endMs": 5040
+            },
+            {
+              "word": "day",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 5040,
+              "endMs": 5180
+            },
+            {
+              "word": "I",
+              "charStart": 69,
+              "charEnd": 70,
+              "startMs": 5180,
+              "endMs": 5360
+            },
+            {
+              "word": "pass",
+              "charStart": 71,
+              "charEnd": 75,
+              "startMs": 5360,
+              "endMs": 5640
+            },
+            {
+              "word": "it",
+              "charStart": 76,
+              "charEnd": 78,
+              "startMs": 5640,
+              "endMs": 5880
+            },
+            {
+              "word": "and",
+              "charStart": 79,
+              "charEnd": 82,
+              "startMs": 5880,
+              "endMs": 6360
+            },
+            {
+              "word": "imagine",
+              "charStart": 83,
+              "charEnd": 90,
+              "startMs": 6360,
+              "endMs": 6720
+            },
+            {
+              "word": "books",
+              "charStart": 91,
+              "charEnd": 96,
+              "startMs": 6720,
+              "endMs": 7060
+            },
+            {
+              "word": "waiting",
+              "charStart": 97,
+              "charEnd": 104,
+              "startMs": 7060,
+              "endMs": 7420
+            },
+            {
+              "word": "there",
+              "charStart": 105,
+              "charEnd": 110,
+              "startMs": 7420,
+              "endMs": 7640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I ask the manager if children can use the shelf as a little library. He says we need a clear plan first.",
+          "translation_ko": "나는 관리인께 아이들이 그 선반을 작은 도서관으로 써도 되는지 물어요. 그는 먼저 분명한 계획이 필요하다고 말해요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "ask",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "manager",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1180
+            },
+            {
+              "word": "if",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "children",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1780
+            },
+            {
+              "word": "can",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1780,
+              "endMs": 2100
+            },
+            {
+              "word": "use",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2660
+            },
+            {
+              "word": "shelf",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2660,
+              "endMs": 2660
+            },
+            {
+              "word": "as",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2660,
+              "endMs": 2900
+            },
+            {
+              "word": "a",
+              "charStart": 51,
+              "charEnd": 52,
+              "startMs": 2900,
+              "endMs": 3000
+            },
+            {
+              "word": "little",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3000,
+              "endMs": 3180
+            },
+            {
+              "word": "library",
+              "charStart": 60,
+              "charEnd": 67,
+              "startMs": 3180,
+              "endMs": 3600
+            },
+            {
+              "word": "He",
+              "charStart": 69,
+              "charEnd": 71,
+              "startMs": 4260,
+              "endMs": 4400
+            },
+            {
+              "word": "says",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 4400,
+              "endMs": 4620
+            },
+            {
+              "word": "we",
+              "charStart": 77,
+              "charEnd": 79,
+              "startMs": 4620,
+              "endMs": 4800
+            },
+            {
+              "word": "need",
+              "charStart": 80,
+              "charEnd": 84,
+              "startMs": 4800,
+              "endMs": 4960
+            },
+            {
+              "word": "a",
+              "charStart": 85,
+              "charEnd": 86,
+              "startMs": 4960,
+              "endMs": 5140
+            },
+            {
+              "word": "clear",
+              "charStart": 87,
+              "charEnd": 92,
+              "startMs": 5140,
+              "endMs": 5360
+            },
+            {
+              "word": "plan",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 5360,
+              "endMs": 5640
+            },
+            {
+              "word": "first",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 5640,
+              "endMs": 6020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At home, I draw a sign that says people can take one book and leave one book. Mom helps me make the words polite.",
+          "translation_ko": "집에서 나는 한 권을 가져가고 한 권을 두라는 표지판을 그려요. 엄마는 말이 예의 바르게 들리도록 도와줘요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 30,
+              "endMs": 281
+            },
+            {
+              "word": "home",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 281,
+              "endMs": 635
+            },
+            {
+              "word": "I",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 635,
+              "endMs": 887
+            },
+            {
+              "word": "draw",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 887,
+              "endMs": 1138
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1138,
+              "endMs": 1390
+            },
+            {
+              "word": "sign",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1390,
+              "endMs": 1641
+            },
+            {
+              "word": "that",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1641,
+              "endMs": 1893
+            },
+            {
+              "word": "says",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1893,
+              "endMs": 2144
+            },
+            {
+              "word": "people",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2144,
+              "endMs": 2396
+            },
+            {
+              "word": "can",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2396,
+              "endMs": 2647
+            },
+            {
+              "word": "take",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2647,
+              "endMs": 2899
+            },
+            {
+              "word": "one",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2899,
+              "endMs": 3150
+            },
+            {
+              "word": "book",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3150,
+              "endMs": 3402
+            },
+            {
+              "word": "and",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 3402,
+              "endMs": 3653
+            },
+            {
+              "word": "leave",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 3653,
+              "endMs": 3905
+            },
+            {
+              "word": "one",
+              "charStart": 68,
+              "charEnd": 71,
+              "startMs": 3905,
+              "endMs": 4156
+            },
+            {
+              "word": "book",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 4156,
+              "endMs": 4576
+            },
+            {
+              "word": "Mom",
+              "charStart": 78,
+              "charEnd": 81,
+              "startMs": 4576,
+              "endMs": 4827
+            },
+            {
+              "word": "helps",
+              "charStart": 82,
+              "charEnd": 87,
+              "startMs": 4827,
+              "endMs": 5079
+            },
+            {
+              "word": "me",
+              "charStart": 88,
+              "charEnd": 90,
+              "startMs": 5079,
+              "endMs": 5330
+            },
+            {
+              "word": "make",
+              "charStart": 91,
+              "charEnd": 95,
+              "startMs": 5330,
+              "endMs": 5582
+            },
+            {
+              "word": "the",
+              "charStart": 96,
+              "charEnd": 99,
+              "startMs": 5582,
+              "endMs": 5833
+            },
+            {
+              "word": "words",
+              "charStart": 100,
+              "charEnd": 105,
+              "startMs": 5833,
+              "endMs": 6085
+            },
+            {
+              "word": "polite",
+              "charStart": 106,
+              "charEnd": 112,
+              "startMs": 6085,
+              "endMs": 6690
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next day, I invite three neighbors to join a planning meeting. We sit on the lobby floor with paper and tape.",
+          "translation_ko": "다음 날 나는 이웃 세 명을 계획 모임에 초대해요. 우리는 종이와 테이프를 들고 로비 바닥에 앉아요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 180,
+              "endMs": 420
+            },
+            {
+              "word": "day",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "I",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1240
+            },
+            {
+              "word": "invite",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "three",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1900
+            },
+            {
+              "word": "neighbors",
+              "charStart": 29,
+              "charEnd": 38,
+              "startMs": 1900,
+              "endMs": 2220
+            },
+            {
+              "word": "to",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2220,
+              "endMs": 2580
+            },
+            {
+              "word": "join",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2580,
+              "endMs": 2720
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2720,
+              "endMs": 2860
+            },
+            {
+              "word": "planning",
+              "charStart": 49,
+              "charEnd": 57,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "meeting",
+              "charStart": 58,
+              "charEnd": 65,
+              "startMs": 3140,
+              "endMs": 3460
+            },
+            {
+              "word": "We",
+              "charStart": 67,
+              "charEnd": 69,
+              "startMs": 4080,
+              "endMs": 4140
+            },
+            {
+              "word": "sit",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 4140,
+              "endMs": 4320
+            },
+            {
+              "word": "on",
+              "charStart": 74,
+              "charEnd": 76,
+              "startMs": 4320,
+              "endMs": 4480
+            },
+            {
+              "word": "the",
+              "charStart": 77,
+              "charEnd": 80,
+              "startMs": 4480,
+              "endMs": 4680
+            },
+            {
+              "word": "lobby",
+              "charStart": 81,
+              "charEnd": 86,
+              "startMs": 4680,
+              "endMs": 4800
+            },
+            {
+              "word": "floor",
+              "charStart": 87,
+              "charEnd": 92,
+              "startMs": 4800,
+              "endMs": 5220
+            },
+            {
+              "word": "with",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 5220,
+              "endMs": 5580
+            },
+            {
+              "word": "paper",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 5580,
+              "endMs": 5820
+            },
+            {
+              "word": "and",
+              "charStart": 104,
+              "charEnd": 107,
+              "startMs": 5820,
+              "endMs": 6280
+            },
+            {
+              "word": "tape",
+              "charStart": 108,
+              "charEnd": 112,
+              "startMs": 6280,
+              "endMs": 6280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jin worries that the shelf may become messy after a week. We add a cleaning schedule so each family has a turn.",
+          "translation_ko": "진이는 일주일 뒤 선반이 지저분해질까 걱정해요. 우리는 각 가족이 차례를 맡도록 청소 일정을 더해요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jin",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "worries",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 980
+            },
+            {
+              "word": "that",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1600
+            },
+            {
+              "word": "shelf",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1600,
+              "endMs": 1600
+            },
+            {
+              "word": "may",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "become",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "messy",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2400
+            },
+            {
+              "word": "after",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2400,
+              "endMs": 2700
+            },
+            {
+              "word": "a",
+              "charStart": 50,
+              "charEnd": 51,
+              "startMs": 2700,
+              "endMs": 3140
+            },
+            {
+              "word": "week",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3140,
+              "endMs": 3140
+            },
+            {
+              "word": "We",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 3760,
+              "endMs": 3860
+            },
+            {
+              "word": "add",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 3860,
+              "endMs": 4060
+            },
+            {
+              "word": "a",
+              "charStart": 65,
+              "charEnd": 66,
+              "startMs": 4060,
+              "endMs": 4240
+            },
+            {
+              "word": "cleaning",
+              "charStart": 67,
+              "charEnd": 75,
+              "startMs": 4240,
+              "endMs": 4480
+            },
+            {
+              "word": "schedule",
+              "charStart": 76,
+              "charEnd": 84,
+              "startMs": 4480,
+              "endMs": 4880
+            },
+            {
+              "word": "so",
+              "charStart": 85,
+              "charEnd": 87,
+              "startMs": 4880,
+              "endMs": 5180
+            },
+            {
+              "word": "each",
+              "charStart": 88,
+              "charEnd": 92,
+              "startMs": 5180,
+              "endMs": 5480
+            },
+            {
+              "word": "family",
+              "charStart": 93,
+              "charEnd": 99,
+              "startMs": 5480,
+              "endMs": 5760
+            },
+            {
+              "word": "has",
+              "charStart": 100,
+              "charEnd": 103,
+              "startMs": 5760,
+              "endMs": 5960
+            },
+            {
+              "word": "a",
+              "charStart": 104,
+              "charEnd": 105,
+              "startMs": 5960,
+              "endMs": 6240
+            },
+            {
+              "word": "turn",
+              "charStart": 106,
+              "charEnd": 110,
+              "startMs": 6240,
+              "endMs": 6340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sora suggests putting picture books on the lower shelf for younger children. Chapter books can stay higher where older readers can reach them.",
+          "translation_ko": "소라는 어린아이들을 위해 그림책을 낮은 칸에 두자고 제안해요. 글이 많은 책은 큰 독자가 닿을 수 있는 위쪽에 둘 수 있어요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sora",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "suggests",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 400,
+              "endMs": 980
+            },
+            {
+              "word": "putting",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "picture",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1720
+            },
+            {
+              "word": "books",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "on",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 1960,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2160,
+              "endMs": 2340
+            },
+            {
+              "word": "lower",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "shelf",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 2620,
+              "endMs": 2880
+            },
+            {
+              "word": "for",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 2880,
+              "endMs": 3160
+            },
+            {
+              "word": "younger",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 3160,
+              "endMs": 3400
+            },
+            {
+              "word": "children",
+              "charStart": 67,
+              "charEnd": 75,
+              "startMs": 3400,
+              "endMs": 3820
+            },
+            {
+              "word": "Chapter",
+              "charStart": 77,
+              "charEnd": 84,
+              "startMs": 4860,
+              "endMs": 4980
+            },
+            {
+              "word": "books",
+              "charStart": 85,
+              "charEnd": 90,
+              "startMs": 4980,
+              "endMs": 5220
+            },
+            {
+              "word": "can",
+              "charStart": 91,
+              "charEnd": 94,
+              "startMs": 5220,
+              "endMs": 5520
+            },
+            {
+              "word": "stay",
+              "charStart": 95,
+              "charEnd": 99,
+              "startMs": 5520,
+              "endMs": 5700
+            },
+            {
+              "word": "higher",
+              "charStart": 100,
+              "charEnd": 106,
+              "startMs": 5700,
+              "endMs": 6040
+            },
+            {
+              "word": "where",
+              "charStart": 107,
+              "charEnd": 112,
+              "startMs": 6040,
+              "endMs": 6340
+            },
+            {
+              "word": "older",
+              "charStart": 113,
+              "charEnd": 118,
+              "startMs": 6340,
+              "endMs": 6700
+            },
+            {
+              "word": "readers",
+              "charStart": 119,
+              "charEnd": 126,
+              "startMs": 6700,
+              "endMs": 6980
+            },
+            {
+              "word": "can",
+              "charStart": 127,
+              "charEnd": 130,
+              "startMs": 6980,
+              "endMs": 7240
+            },
+            {
+              "word": "reach",
+              "charStart": 131,
+              "charEnd": 136,
+              "startMs": 7240,
+              "endMs": 7420
+            },
+            {
+              "word": "them",
+              "charStart": 137,
+              "charEnd": 141,
+              "startMs": 7420,
+              "endMs": 7660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When we show the manager our plan, he reads every line carefully. Then he nods and gives us permission for one month.",
+          "translation_ko": "우리가 관리인께 계획을 보여드리자 그는 모든 줄을 조심히 읽어요. 그런 다음 고개를 끄덕이며 한 달 동안 허락해 주세요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "we",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 460
+            },
+            {
+              "word": "show",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 720
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "manager",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "our",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "plan",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1520,
+              "endMs": 1860
+            },
+            {
+              "word": "he",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2260,
+              "endMs": 2340
+            },
+            {
+              "word": "reads",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "every",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2560,
+              "endMs": 2980
+            },
+            {
+              "word": "line",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2980,
+              "endMs": 3200
+            },
+            {
+              "word": "carefully",
+              "charStart": 55,
+              "charEnd": 64,
+              "startMs": 3200,
+              "endMs": 3660
+            },
+            {
+              "word": "Then",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 4380,
+              "endMs": 4460
+            },
+            {
+              "word": "he",
+              "charStart": 71,
+              "charEnd": 73,
+              "startMs": 4460,
+              "endMs": 4720
+            },
+            {
+              "word": "nods",
+              "charStart": 74,
+              "charEnd": 78,
+              "startMs": 4720,
+              "endMs": 5080
+            },
+            {
+              "word": "and",
+              "charStart": 79,
+              "charEnd": 82,
+              "startMs": 5080,
+              "endMs": 5280
+            },
+            {
+              "word": "gives",
+              "charStart": 83,
+              "charEnd": 88,
+              "startMs": 5280,
+              "endMs": 5420
+            },
+            {
+              "word": "us",
+              "charStart": 89,
+              "charEnd": 91,
+              "startMs": 5420,
+              "endMs": 5660
+            },
+            {
+              "word": "permission",
+              "charStart": 92,
+              "charEnd": 102,
+              "startMs": 5660,
+              "endMs": 5960
+            },
+            {
+              "word": "for",
+              "charStart": 103,
+              "charEnd": 106,
+              "startMs": 5960,
+              "endMs": 6280
+            },
+            {
+              "word": "one",
+              "charStart": 107,
+              "charEnd": 110,
+              "startMs": 6280,
+              "endMs": 6480
+            },
+            {
+              "word": "month",
+              "charStart": 111,
+              "charEnd": 116,
+              "startMs": 6480,
+              "endMs": 6680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Opening day feels more important than I expected. Neighbors bring books with notes about why they loved them.",
+          "translation_ko": "개장 날은 내가 예상한 것보다 더 중요하게 느껴져요. 이웃들은 왜 그 책을 좋아했는지 적은 쪽지와 함께 책을 가져와요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Opening",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "day",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "feels",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1080
+            },
+            {
+              "word": "more",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1080,
+              "endMs": 1460
+            },
+            {
+              "word": "important",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "than",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "I",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2020,
+              "endMs": 2220
+            },
+            {
+              "word": "expected",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2220,
+              "endMs": 2680
+            },
+            {
+              "word": "Neighbors",
+              "charStart": 50,
+              "charEnd": 59,
+              "startMs": 3560,
+              "endMs": 3720
+            },
+            {
+              "word": "bring",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3720,
+              "endMs": 4000
+            },
+            {
+              "word": "books",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 4000,
+              "endMs": 4300
+            },
+            {
+              "word": "with",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 4300,
+              "endMs": 4640
+            },
+            {
+              "word": "notes",
+              "charStart": 77,
+              "charEnd": 82,
+              "startMs": 4640,
+              "endMs": 4820
+            },
+            {
+              "word": "about",
+              "charStart": 83,
+              "charEnd": 88,
+              "startMs": 4820,
+              "endMs": 5140
+            },
+            {
+              "word": "why",
+              "charStart": 89,
+              "charEnd": 92,
+              "startMs": 5140,
+              "endMs": 5400
+            },
+            {
+              "word": "they",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 5400,
+              "endMs": 5600
+            },
+            {
+              "word": "loved",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 5600,
+              "endMs": 5820
+            },
+            {
+              "word": "them",
+              "charStart": 104,
+              "charEnd": 108,
+              "startMs": 5820,
+              "endMs": 6040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A small problem appears when two copies of the same book arrive. Instead of arguing, we decide to keep one and donate one to school.",
+          "translation_ko": "같은 책 두 권이 들어오자 작은 문제가 생겨요. 다투는 대신 우리는 한 권은 남기고 한 권은 학교에 기부하기로 해요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "small",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "problem",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "appears",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "when",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "two",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "copies",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "of",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2320,
+              "endMs": 2500
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2500,
+              "endMs": 2640
+            },
+            {
+              "word": "same",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2640,
+              "endMs": 3000
+            },
+            {
+              "word": "book",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3000,
+              "endMs": 3120
+            },
+            {
+              "word": "arrive",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3120,
+              "endMs": 3540
+            },
+            {
+              "word": "Instead",
+              "charStart": 65,
+              "charEnd": 72,
+              "startMs": 4480,
+              "endMs": 4480
+            },
+            {
+              "word": "of",
+              "charStart": 73,
+              "charEnd": 75,
+              "startMs": 4480,
+              "endMs": 4800
+            },
+            {
+              "word": "arguing",
+              "charStart": 76,
+              "charEnd": 83,
+              "startMs": 4800,
+              "endMs": 5040
+            },
+            {
+              "word": "we",
+              "charStart": 85,
+              "charEnd": 87,
+              "startMs": 5520,
+              "endMs": 5640
+            },
+            {
+              "word": "decide",
+              "charStart": 88,
+              "charEnd": 94,
+              "startMs": 5640,
+              "endMs": 5920
+            },
+            {
+              "word": "to",
+              "charStart": 95,
+              "charEnd": 97,
+              "startMs": 5920,
+              "endMs": 6200
+            },
+            {
+              "word": "keep",
+              "charStart": 98,
+              "charEnd": 102,
+              "startMs": 6200,
+              "endMs": 6320
+            },
+            {
+              "word": "one",
+              "charStart": 103,
+              "charEnd": 106,
+              "startMs": 6320,
+              "endMs": 6640
+            },
+            {
+              "word": "and",
+              "charStart": 107,
+              "charEnd": 110,
+              "startMs": 6640,
+              "endMs": 7100
+            },
+            {
+              "word": "donate",
+              "charStart": 111,
+              "charEnd": 117,
+              "startMs": 7100,
+              "endMs": 7320
+            },
+            {
+              "word": "one",
+              "charStart": 118,
+              "charEnd": 121,
+              "startMs": 7320,
+              "endMs": 7600
+            },
+            {
+              "word": "to",
+              "charStart": 122,
+              "charEnd": 124,
+              "startMs": 7600,
+              "endMs": 7800
+            },
+            {
+              "word": "school",
+              "charStart": 125,
+              "charEnd": 131,
+              "startMs": 7800,
+              "endMs": 8040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "During the first week, I see a shy kindergartener choose a bright picture book. Her brother reads the first page aloud.",
+          "translation_ko": "첫 주에 나는 수줍은 유치원생이 밝은 그림책을 고르는 걸 봐요. 그 아이의 오빠가 첫 페이지를 소리 내어 읽어요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "During",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "first",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "week",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "I",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1740,
+              "endMs": 1880
+            },
+            {
+              "word": "see",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1880,
+              "endMs": 2020
+            },
+            {
+              "word": "a",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 2020,
+              "endMs": 2240
+            },
+            {
+              "word": "shy",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2240,
+              "endMs": 2480
+            },
+            {
+              "word": "kindergartener",
+              "charStart": 35,
+              "charEnd": 49,
+              "startMs": 2480,
+              "endMs": 3120
+            },
+            {
+              "word": "choose",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3120,
+              "endMs": 3420
+            },
+            {
+              "word": "a",
+              "charStart": 57,
+              "charEnd": 58,
+              "startMs": 3420,
+              "endMs": 3660
+            },
+            {
+              "word": "bright",
+              "charStart": 59,
+              "charEnd": 65,
+              "startMs": 3660,
+              "endMs": 3840
+            },
+            {
+              "word": "picture",
+              "charStart": 66,
+              "charEnd": 73,
+              "startMs": 3840,
+              "endMs": 4160
+            },
+            {
+              "word": "book",
+              "charStart": 74,
+              "charEnd": 78,
+              "startMs": 4160,
+              "endMs": 4400
+            },
+            {
+              "word": "Her",
+              "charStart": 80,
+              "charEnd": 83,
+              "startMs": 5060,
+              "endMs": 5160
+            },
+            {
+              "word": "brother",
+              "charStart": 84,
+              "charEnd": 91,
+              "startMs": 5160,
+              "endMs": 5440
+            },
+            {
+              "word": "reads",
+              "charStart": 92,
+              "charEnd": 97,
+              "startMs": 5440,
+              "endMs": 5700
+            },
+            {
+              "word": "the",
+              "charStart": 98,
+              "charEnd": 101,
+              "startMs": 5700,
+              "endMs": 6000
+            },
+            {
+              "word": "first",
+              "charStart": 102,
+              "charEnd": 107,
+              "startMs": 6000,
+              "endMs": 6200
+            },
+            {
+              "word": "page",
+              "charStart": 108,
+              "charEnd": 112,
+              "startMs": 6200,
+              "endMs": 6480
+            },
+            {
+              "word": "aloud",
+              "charStart": 113,
+              "charEnd": 118,
+              "startMs": 6480,
+              "endMs": 6880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By the end of the month, the shelf is still neat and full. The manager says our plan worked because everyone shared responsibility.",
+          "translation_ko": "월말이 되어도 선반은 여전히 깔끔하고 가득 차 있어요. 관리인은 모두가 책임을 나누었기 때문에 계획이 성공했다고 말해요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 660,
+              "endMs": 860
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 940
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1120
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1240
+            },
+            {
+              "word": "month",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2120,
+              "endMs": 2200
+            },
+            {
+              "word": "shelf",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2320
+            },
+            {
+              "word": "is",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2620
+            },
+            {
+              "word": "still",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2620,
+              "endMs": 2800
+            },
+            {
+              "word": "neat",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2800,
+              "endMs": 3100
+            },
+            {
+              "word": "and",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3580
+            },
+            {
+              "word": "full",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3580,
+              "endMs": 3860
+            },
+            {
+              "word": "The",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 4560,
+              "endMs": 4700
+            },
+            {
+              "word": "manager",
+              "charStart": 63,
+              "charEnd": 70,
+              "startMs": 4700,
+              "endMs": 4900
+            },
+            {
+              "word": "says",
+              "charStart": 71,
+              "charEnd": 75,
+              "startMs": 4900,
+              "endMs": 5260
+            },
+            {
+              "word": "our",
+              "charStart": 76,
+              "charEnd": 79,
+              "startMs": 5260,
+              "endMs": 5480
+            },
+            {
+              "word": "plan",
+              "charStart": 80,
+              "charEnd": 84,
+              "startMs": 5480,
+              "endMs": 5720
+            },
+            {
+              "word": "worked",
+              "charStart": 85,
+              "charEnd": 91,
+              "startMs": 5720,
+              "endMs": 6040
+            },
+            {
+              "word": "because",
+              "charStart": 92,
+              "charEnd": 99,
+              "startMs": 6040,
+              "endMs": 6580
+            },
+            {
+              "word": "everyone",
+              "charStart": 100,
+              "charEnd": 108,
+              "startMs": 6580,
+              "endMs": 7060
+            },
+            {
+              "word": "shared",
+              "charStart": 109,
+              "charEnd": 115,
+              "startMs": 7060,
+              "endMs": 7400
+            },
+            {
+              "word": "responsibility",
+              "charStart": 116,
+              "charEnd": 130,
+              "startMs": 7400,
+              "endMs": 8120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now the little library belongs to the whole building. I learn that a good idea becomes real when people make room for it together.",
+          "translation_ko": "이제 작은 도서관은 건물 전체의 것이에요. 좋은 생각은 사람들이 함께 자리를 만들 때 현실이 된다는 걸 배워요.",
+          "audio": "/seed/daily-40-the-little-library-plan/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "little",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "library",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1560
+            },
+            {
+              "word": "belongs",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1560,
+              "endMs": 2000
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2360
+            },
+            {
+              "word": "whole",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "building",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2620,
+              "endMs": 2940
+            },
+            {
+              "word": "I",
+              "charStart": 54,
+              "charEnd": 55,
+              "startMs": 3600,
+              "endMs": 3740
+            },
+            {
+              "word": "learn",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3740,
+              "endMs": 4020
+            },
+            {
+              "word": "that",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 4020,
+              "endMs": 4180
+            },
+            {
+              "word": "a",
+              "charStart": 67,
+              "charEnd": 68,
+              "startMs": 4180,
+              "endMs": 4300
+            },
+            {
+              "word": "good",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 4300,
+              "endMs": 4520
+            },
+            {
+              "word": "idea",
+              "charStart": 74,
+              "charEnd": 78,
+              "startMs": 4520,
+              "endMs": 4800
+            },
+            {
+              "word": "becomes",
+              "charStart": 79,
+              "charEnd": 86,
+              "startMs": 4800,
+              "endMs": 5180
+            },
+            {
+              "word": "real",
+              "charStart": 87,
+              "charEnd": 91,
+              "startMs": 5180,
+              "endMs": 5540
+            },
+            {
+              "word": "when",
+              "charStart": 92,
+              "charEnd": 96,
+              "startMs": 5540,
+              "endMs": 5760
+            },
+            {
+              "word": "people",
+              "charStart": 97,
+              "charEnd": 103,
+              "startMs": 5760,
+              "endMs": 6040
+            },
+            {
+              "word": "make",
+              "charStart": 104,
+              "charEnd": 108,
+              "startMs": 6040,
+              "endMs": 6280
+            },
+            {
+              "word": "room",
+              "charStart": 109,
+              "charEnd": 113,
+              "startMs": 6280,
+              "endMs": 6500
+            },
+            {
+              "word": "for",
+              "charStart": 114,
+              "charEnd": 117,
+              "startMs": 6500,
+              "endMs": 6760
+            },
+            {
+              "word": "it",
+              "charStart": 118,
+              "charEnd": 120,
+              "startMs": 6760,
+              "endMs": 6900
+            },
+            {
+              "word": "together",
+              "charStart": 121,
+              "charEnd": 129,
+              "startMs": 6900,
+              "endMs": 7180
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "빈 선반은 어디에 있었나요?",
+      "type": "mc",
+      "options": [
+        "아파트 로비",
+        "교실",
+        "시장",
+        "버스 안"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "apartment lobby에 있었어요."
+    },
+    {
+      "question_ko": "관리인은 무엇이 먼저 필요하다고 했나요?",
+      "type": "mc",
+      "options": [
+        "분명한 계획",
+        "비싼 책장",
+        "음악",
+        "간식"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "a clear plan first예요."
+    },
+    {
+      "question_ko": "표지판의 규칙은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "한 권 가져가고 한 권 두기",
+        "책 사기만",
+        "아무것도 만지지 않기",
+        "소리 지르기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "take one book and leave one book."
+    },
+    {
+      "question_ko": "선반이 지저분해질 걱정을 해결한 방법은?",
+      "type": "mc",
+      "options": [
+        "청소 일정 만들기",
+        "선반 치우기",
+        "문 잠그기",
+        "책 버리기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "cleaning schedule을 만들었어요."
+    },
+    {
+      "question_ko": "어린아이들을 위해 그림책은 어디에 두었나요?",
+      "type": "mc",
+      "options": [
+        "낮은 칸",
+        "가장 위",
+        "밖",
+        "상자 속"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "lower shelf는 낮은 칸이에요."
+    },
+    {
+      "question_ko": "계획이 성공한 이유는?",
+      "type": "mc",
+      "options": [
+        "모두가 책임을 나눴기 때문",
+        "한 사람만 했기 때문",
+        "아무도 오지 않았기 때문",
+        "책이 없었기 때문"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "everyone shared responsibility."
+    }
+  ]
+}

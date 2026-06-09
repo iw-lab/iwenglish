@@ -624,6 +624,473 @@
           ]
         }
       ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Before hiking, Dad teaches us to pack only what we need. A lighter bag makes the long trail easier and safer.",
+          "translation_ko": "하이킹 전에 아빠는 필요한 것만 챙기는 법을 가르쳐줘요. 가벼운 가방은 긴 길을 더 쉽고 안전하게 해요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Before",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "hiking",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "Dad",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "teaches",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1600,
+              "endMs": 1980
+            },
+            {
+              "word": "us",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1980,
+              "endMs": 2240
+            },
+            {
+              "word": "to",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2240,
+              "endMs": 2420
+            },
+            {
+              "word": "pack",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2420,
+              "endMs": 2620
+            },
+            {
+              "word": "only",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2620,
+              "endMs": 3040
+            },
+            {
+              "word": "what",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3040,
+              "endMs": 3240
+            },
+            {
+              "word": "we",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3240,
+              "endMs": 3400
+            },
+            {
+              "word": "need",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3400,
+              "endMs": 3620
+            },
+            {
+              "word": "A",
+              "charStart": 57,
+              "charEnd": 58,
+              "startMs": 4120,
+              "endMs": 4260
+            },
+            {
+              "word": "lighter",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 4260,
+              "endMs": 4480
+            },
+            {
+              "word": "bag",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 4480,
+              "endMs": 4820
+            },
+            {
+              "word": "makes",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 4820,
+              "endMs": 5060
+            },
+            {
+              "word": "the",
+              "charStart": 77,
+              "charEnd": 80,
+              "startMs": 5060,
+              "endMs": 5260
+            },
+            {
+              "word": "long",
+              "charStart": 81,
+              "charEnd": 85,
+              "startMs": 5260,
+              "endMs": 5600
+            },
+            {
+              "word": "trail",
+              "charStart": 86,
+              "charEnd": 91,
+              "startMs": 5600,
+              "endMs": 5800
+            },
+            {
+              "word": "easier",
+              "charStart": 92,
+              "charEnd": 98,
+              "startMs": 5800,
+              "endMs": 6240
+            },
+            {
+              "word": "and",
+              "charStart": 99,
+              "charEnd": 102,
+              "startMs": 6240,
+              "endMs": 6540
+            },
+            {
+              "word": "safer",
+              "charStart": 103,
+              "charEnd": 108,
+              "startMs": 6540,
+              "endMs": 6760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Clouds gather in the afternoon, so we return to the tent early. Planning ahead keeps the trip comfortable.",
+          "translation_ko": "오후에 구름이 모여서 우리는 일찍 텐트로 돌아와요. 미리 계획하면 여행이 편안해져요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Clouds",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "gather",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "in",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1800
+            },
+            {
+              "word": "afternoon",
+              "charStart": 21,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 1800
+            },
+            {
+              "word": "so",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2380,
+              "endMs": 2440
+            },
+            {
+              "word": "we",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2440,
+              "endMs": 2600
+            },
+            {
+              "word": "return",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2600,
+              "endMs": 2920
+            },
+            {
+              "word": "to",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2920,
+              "endMs": 3060
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3060,
+              "endMs": 3380
+            },
+            {
+              "word": "tent",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3380,
+              "endMs": 3400
+            },
+            {
+              "word": "early",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 3400,
+              "endMs": 3860
+            },
+            {
+              "word": "Planning",
+              "charStart": 64,
+              "charEnd": 72,
+              "startMs": 4660,
+              "endMs": 4680
+            },
+            {
+              "word": "ahead",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 4680,
+              "endMs": 5080
+            },
+            {
+              "word": "keeps",
+              "charStart": 79,
+              "charEnd": 84,
+              "startMs": 5080,
+              "endMs": 5340
+            },
+            {
+              "word": "the",
+              "charStart": 85,
+              "charEnd": 88,
+              "startMs": 5340,
+              "endMs": 5560
+            },
+            {
+              "word": "trip",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 5560,
+              "endMs": 5760
+            },
+            {
+              "word": "comfortable",
+              "charStart": 94,
+              "charEnd": 105,
+              "startMs": 5760,
+              "endMs": 6180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Back home, I draw a map of the campsite and label the lake, trees, and trail. The map helps me retell the adventure.",
+          "translation_ko": "집에 돌아와 나는 캠핑장 지도를 그리고 호수, 나무, 길에 이름을 붙여요. 그 지도는 모험을 다시 말하는 데 도움이 돼요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Back",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "home",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "I",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "draw",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1280,
+              "endMs": 1340
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1340,
+              "endMs": 1720
+            },
+            {
+              "word": "map",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1720,
+              "endMs": 1720
+            },
+            {
+              "word": "of",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "campsite",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2540
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 3020
+            },
+            {
+              "word": "label",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3020,
+              "endMs": 3220
+            },
+            {
+              "word": "the",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3220,
+              "endMs": 3740
+            },
+            {
+              "word": "lake",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3740,
+              "endMs": 3740
+            },
+            {
+              "word": "trees",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 4380,
+              "endMs": 4380
+            },
+            {
+              "word": "and",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 4500,
+              "endMs": 5100
+            },
+            {
+              "word": "trail",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 5100,
+              "endMs": 5100
+            },
+            {
+              "word": "The",
+              "charStart": 78,
+              "charEnd": 81,
+              "startMs": 5740,
+              "endMs": 5860
+            },
+            {
+              "word": "map",
+              "charStart": 82,
+              "charEnd": 85,
+              "startMs": 5860,
+              "endMs": 6060
+            },
+            {
+              "word": "helps",
+              "charStart": 86,
+              "charEnd": 91,
+              "startMs": 6060,
+              "endMs": 6360
+            },
+            {
+              "word": "me",
+              "charStart": 92,
+              "charEnd": 94,
+              "startMs": 6360,
+              "endMs": 6840
+            },
+            {
+              "word": "retell",
+              "charStart": 95,
+              "charEnd": 101,
+              "startMs": 6840,
+              "endMs": 7060
+            },
+            {
+              "word": "the",
+              "charStart": 102,
+              "charEnd": 105,
+              "startMs": 7060,
+              "endMs": 7280
+            },
+            {
+              "word": "adventure",
+              "charStart": 106,
+              "charEnd": 115,
+              "startMs": 7280,
+              "endMs": 7600
+            }
+          ]
+        }
+      ]
     }
   ],
   "words": {},
@@ -687,6 +1154,18 @@
       ],
       "answerIndex": 1,
       "explain_ko": "the sound of frogs — 개구리 소리예요."
+    },
+    {
+      "question_ko": "가벼운 가방은 긴 길을 어떻게 만들어 주나요?",
+      "type": "mc",
+      "options": [
+        "쉽고 안전하게",
+        "더 위험하게",
+        "더 어둡게",
+        "더 시끄럽게"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "easier and safer — 더 쉽고 안전하게요."
     }
   ]
 }

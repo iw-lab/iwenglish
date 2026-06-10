@@ -103,7 +103,9 @@ export default async function BookDetailPage({
           </div>
 
           <Button asChild size="lg" className="w-full">
-            <Link href={`/read/${book.slug}`}>📖 낭독 시작</Link>
+            <Link href={`/read/${book.slug}`} prefetch={false}>
+              📖 낭독 시작
+            </Link>
           </Button>
 
           {book.quiz.length > 0 && (

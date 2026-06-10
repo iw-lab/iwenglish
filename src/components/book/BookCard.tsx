@@ -66,7 +66,7 @@ export function BookCard({
 
   if (comingSoon) return <div className="block">{inner}</div>;
   return (
-    <Link href={`/book/${slug}`} className="block">
+    <Link href={`/book/${slug}`} prefetch={false} className="block">
       {inner}
     </Link>
   );

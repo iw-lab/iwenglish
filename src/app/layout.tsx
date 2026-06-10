@@ -13,12 +13,16 @@ const lexend = Lexend({
   subsets: ["latin"],
   variable: "--font-lexend",
   display: "swap",
+  preload: false, // 읽기/다크 보조 폰트 — 첫 화면 미사용 시 preload 경고 방지
 });
 const gowun = Gowun_Batang({
   weight: ["400", "700"],
   subsets: ["latin"],
   variable: "--font-gowun",
   display: "swap",
+  // 한글 명조 — 유니코드 구간별 100+ woff2 조각이 전부 preload되어 "preloaded but not used"
+  // 경고 118개를 유발. @font-face unicode-range로 필요한 조각만 on-demand 로드(display:swap)
+  preload: false,
 });
 
 export const metadata: Metadata = {

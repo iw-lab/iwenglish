@@ -22,6 +22,19 @@ const BOX_DAYS = [0, 1, 3, 7, 21];
 export const xpForLevel = (xp: number) => Math.floor(xp / 100) + 1;
 export const levelFloor = (lvl: number) => (lvl - 1) * 100;
 
+/** 레벨 칭호 — 게이미피케이션 (레벨 도달 기준, 내림차순 탐색) */
+export const READER_TITLES: { min: number; title: string; emoji: string }[] = [
+  { min: 20, title: "전설의 이야기꾼", emoji: "🐉" },
+  { min: 16, title: "이야기 마스터", emoji: "🏰" },
+  { min: 12, title: "영어 책벌레", emoji: "🦉" },
+  { min: 8, title: "동화 모험가", emoji: "🗺️" },
+  { min: 5, title: "단어 탐험가", emoji: "🔭" },
+  { min: 3, title: "꼬마 이야기꾼", emoji: "🎈" },
+  { min: 1, title: "새싹 독서가", emoji: "🌱" },
+];
+export const readerTitle = (lvl: number) =>
+  READER_TITLES.find((t) => lvl >= t.min) ?? READER_TITLES[READER_TITLES.length - 1];
+
 export interface LeitnerCard {
   box: number; // 1~5
   correct: number;
@@ -85,8 +98,15 @@ export const ACHIEVEMENTS: Achievement[] = [
   { id: "book-5", title: "책벌레", emoji: "🐛", desc: "책 5권 완독", check: (s) => s.booksFinished.length >= 5 },
   { id: "book-all", title: "서재 정복", emoji: "👑", desc: "10권 모두 완독", check: (s) => s.booksFinished.length >= 10 },
   { id: "reread-10", title: "열 번 읽기", emoji: "🔁", desc: "한 책을 10번 읽어 완료", check: (s) => (s.booksCompleted?.length ?? 0) >= 1 },
+  { id: "complete-5", title: "도장 부자", emoji: "🎖️", desc: "5권 완독 도장 완료", check: (s) => (s.booksCompleted?.length ?? 0) >= 5 },
+  { id: "complete-20", title: "도장 대왕", emoji: "🏵️", desc: "20권 완독 도장 완료", check: (s) => (s.booksCompleted?.length ?? 0) >= 20 },
+  { id: "book-30", title: "독서 여행가", emoji: "✈️", desc: "30권 끝까지 읽기", check: (s) => s.booksFinished.length >= 30 },
+  { id: "streak-14", title: "2주 연속", emoji: "🌟", desc: "14일 연속 학습", check: (s) => s.longestStreak >= 14 },
+  { id: "streak-30", title: "한 달 개근", emoji: "🏅", desc: "30일 연속 학습", check: (s) => s.longestStreak >= 30 },
+  { id: "words-300", title: "단어 부자", emoji: "💰", desc: "300개 단어 학습", check: (s) => studiedCount(s) >= 300 },
   { id: "xp-500", title: "성장 중", emoji: "🚀", desc: "XP 500 달성", check: (s) => s.xp >= 500 },
   { id: "xp-2000", title: "영어 고수", emoji: "🌟", desc: "XP 2000 달성", check: (s) => s.xp >= 2000 },
+  { id: "xp-5000", title: "영어 챔피언", emoji: "🏆", desc: "XP 5000 달성", check: (s) => s.xp >= 5000 },
 ];
 
 export const studiedCount = (s: ProgressState) => Object.keys(s.leitner).length;

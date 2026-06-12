@@ -1,0 +1,574 @@
+{
+  "slug": "the-moon-cookie",
+  "title": "The Moon Cookie",
+  "title_ko": "달 쿠키",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "달 모양 쿠키를 만들며 둥근 모양과 나눔의 마음을 배우는 따뜻한 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Mina rolled the dough into a big circle.",
+          "translation_ko": "미나는 반죽을 큰 동그라미로 밀었어요.",
+          "audio": "/seed/the-moon-cookie/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "rolled",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "dough",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "into",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1620
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "big",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "circle",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2120,
+              "endMs": 2440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It looked like the moon on a quiet night.",
+          "translation_ko": "그건 조용한 밤의 달처럼 보였어요.",
+          "audio": "/seed/the-moon-cookie/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "looked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "like",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 800
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1020
+            },
+            {
+              "word": "moon",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1020,
+              "endMs": 1240
+            },
+            {
+              "word": "on",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "quiet",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "night",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 1900,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She added tiny sugar stars on top.",
+          "translation_ko": "미나는 위에 작은 설탕 별들을 올렸어요.",
+          "audio": "/seed/the-moon-cookie/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "added",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 840
+            },
+            {
+              "word": "tiny",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1500
+            },
+            {
+              "word": "sugar",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1500,
+              "endMs": 1840
+            },
+            {
+              "word": "stars",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1840,
+              "endMs": 2260
+            },
+            {
+              "word": "on",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2260,
+              "endMs": 2660
+            },
+            {
+              "word": "top",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2660,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The kitchen smelled warm and sweet.",
+          "translation_ko": "부엌에는 따뜻하고 달콤한 냄새가 났어요.",
+          "audio": "/seed/the-moon-cookie/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "kitchen",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "smelled",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "warm",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1020,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1840
+            },
+            {
+              "word": "sweet",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1840,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The cookie was too big for one plate.",
+          "translation_ko": "쿠키는 접시 하나에 담기엔 너무 컸어요.",
+          "audio": "/seed/the-moon-cookie/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "cookie",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 440
+            },
+            {
+              "word": "was",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 760
+            },
+            {
+              "word": "too",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 760,
+              "endMs": 1100
+            },
+            {
+              "word": "big",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "for",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "one",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "plate",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1860,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina cut it into four soft pieces.",
+          "translation_ko": "미나는 그것을 부드러운 네 조각으로 잘랐어요.",
+          "audio": "/seed/the-moon-cookie/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "cut",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 820,
+              "endMs": 960
+            },
+            {
+              "word": "into",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "four",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1700
+            },
+            {
+              "word": "soft",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 2020
+            },
+            {
+              "word": "pieces",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Everyone had a piece of the moon.",
+          "translation_ko": "모두가 달 한 조각을 먹었어요.",
+          "audio": "/seed/the-moon-cookie/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "had",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 980
+            },
+            {
+              "word": "piece",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "of",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1520
+            },
+            {
+              "word": "moon",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1520,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina thought sharing made it taste brighter.",
+          "translation_ko": "미나는 나누어 먹으니 더 환한 맛이 난다고 생각했어요.",
+          "audio": "/seed/the-moon-cookie/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "thought",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 800
+            },
+            {
+              "word": "sharing",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 800,
+              "endMs": 1340
+            },
+            {
+              "word": "made",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "it",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1780
+            },
+            {
+              "word": "taste",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2120
+            },
+            {
+              "word": "brighter",
+              "charStart": 35,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "달 쿠키에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "달 모양 쿠키",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "달 모양 쿠키이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "따뜻한 부엌",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "따뜻한 부엌에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "쿠키가 혼자 먹기에는 너무 컸어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "쿠키가 혼자 먹기에는 너무 컸어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "가족의 접시",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "가족의 접시이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "함께 나누는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "함께 나누는 마음을 배워요."
+    }
+  ]
+}

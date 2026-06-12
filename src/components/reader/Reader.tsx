@@ -59,6 +59,10 @@ export function Reader({ book }: { book: Book }) {
   );
   // 도장 찍을 때 살짝 튀는 피드백
   const [stampPulse, setStampPulse] = useState(false);
+  // 한 번 읽을 때 도장은 한 번만 — 처음부터 다시 읽어야 재허용
+  const [stampedThisRead, setStampedThisRead] = useState(false);
+  // 콘페티 버스트 (도장 직후 0.9초)
+  const [confetti, setConfetti] = useState(false);
   const sessionStartRef = useRef<number>(0);
   const recordedRef = useRef(false);
   useEffect(() => {
@@ -241,16 +245,20 @@ export function Reader({ book }: { book: Book }) {
     setPageIdx(0);
     setSentIdx(0);
     recordedRef.current = false; // 다시 읽으면 완독 세션 재기록 허용
+    setStampedThisRead(false); // 다시 읽으면 도장 1회 재허용
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  // 완독 도장 1회 — 10회 모이면 '완료'
+  // 완독 도장 — 한 번 읽기에 1회만, 10회 모이면 '완료'
   const onStamp = () => {
-    if (completed) return;
+    if (completed || stampedThisRead) return;
     markFinished(); // 첫 완독 세션 기록(중복 방지됨)
     addBookRead(book.slug);
+    setStampedThisRead(true);
     setStampPulse(true);
-    window.setTimeout(() => setStampPulse(false), 320);
+    setConfetti(true);
+    window.setTimeout(() => setStampPulse(false), 450);
+    window.setTimeout(() => setConfetti(false), 950);
   };
 
   // 읽기 모드는 2개(쭉 읽어주기·한 문장씩)만. 단어 탭·쉐도잉·따라 읽기는 읽기 화면에 통합됨.
@@ -438,8 +446,33 @@ export function Reader({ book }: { book: Book }) {
                     </button>
                   </div>
                 ) : (
-                  <div className="flex flex-col items-center gap-2.5">
-                    <p className="text-base font-bold">📖 완전히 다 읽었어요!</p>
+                  <div className="relative flex flex-col items-center gap-2.5">
+                    {/* 콘페티 버스트 */}
+                    {confetti &&
+                      ["⭐", "🎉", "✨", "💛", "⭐", "🎊", "✨", "💚", "🌟", "🧡"].map(
+                        (e, i) => {
+                          const ang = (i / 10) * Math.PI * 2;
+                          const dist = 70 + (i % 3) * 28;
+                          return (
+                            <span
+                              key={i}
+                              className="stamp-confetti text-xl"
+                              style={
+                                {
+                                  "--cx": `${Math.cos(ang) * dist}px`,
+                                  "--cy": `${Math.sin(ang) * dist - 30}px`,
+                                  "--cr": `${(i % 2 ? 1 : -1) * 180}deg`,
+                                } as React.CSSProperties
+                              }
+                            >
+                              {e}
+                            </span>
+                          );
+                        },
+                      )}
+                    <p className="text-base font-bold">
+                      {stampedThisRead ? "도장 꾹! 🎉" : "📖 완전히 다 읽었어요!"}
+                    </p>
                     <div className="flex flex-wrap justify-center gap-1.5">
                       {Array.from({ length: READS_TO_COMPLETE }).map((_, i) => (
                         <span
@@ -449,6 +482,7 @@ export function Reader({ book }: { book: Book }) {
                             i < readCount
                               ? "bg-accent text-accent-foreground"
                               : "bg-muted text-muted-foreground/40",
+                            stampedThisRead && i === readCount - 1 && "stamp-slam",
                           )}
                         >
                           {i < readCount ? "⭐" : i + 1}
@@ -456,24 +490,37 @@ export function Reader({ book }: { book: Book }) {
                       ))}
                     </div>
                     <p className="font-ko text-xs text-muted-foreground">
-                      {readCount}/{READS_TO_COMPLETE} — 다 읽을 때마다 도장을 찍어요
+                      {stampedThisRead
+                        ? `${readCount}/${READS_TO_COMPLETE} — 또 찍으려면 처음부터 다시 읽어요!`
+                        : `${readCount}/${READS_TO_COMPLETE} — 다 읽을 때마다 도장 1개를 찍어요`}
                     </p>
-                    <button
-                      onClick={onStamp}
-                      className={cn(
-                        "mt-1 inline-flex items-center gap-2 rounded-chip bg-accent px-6 py-3 text-base font-extrabold text-accent-foreground shadow-sm transition active:scale-95",
-                        stampPulse && "scale-110",
-                      )}
-                    >
-                      <Stamp className="h-5 w-5" /> 도장 찍기 (+1)
-                    </button>
-                    {readCount > 0 && (
+                    {stampedThisRead ? (
                       <button
                         onClick={goToStart}
-                        className="inline-flex items-center gap-1 text-xs font-semibold text-primary hover:underline"
+                        className="mt-1 inline-flex items-center gap-2 rounded-chip bg-primary px-6 py-3 text-base font-extrabold text-primary-foreground shadow-sm transition active:scale-95"
                       >
-                        <SkipBack className="h-3.5 w-3.5" /> 처음부터 다시 읽기
+                        <SkipBack className="h-5 w-5" /> 처음부터 다시 읽기
                       </button>
+                    ) : (
+                      <>
+                        <button
+                          onClick={onStamp}
+                          className={cn(
+                            "mt-1 inline-flex items-center gap-2 rounded-chip bg-accent px-6 py-3 text-base font-extrabold text-accent-foreground shadow-sm transition active:scale-95",
+                            stampPulse && "stamp-slam",
+                          )}
+                        >
+                          <Stamp className="h-5 w-5" /> 도장 찍기 (+1)
+                        </button>
+                        {readCount > 0 && (
+                          <button
+                            onClick={goToStart}
+                            className="inline-flex items-center gap-1 text-xs font-semibold text-primary hover:underline"
+                          >
+                            <SkipBack className="h-3.5 w-3.5" /> 처음부터 다시 읽기
+                          </button>
+                        )}
+                      </>
                     )}
                   </div>
                 )}

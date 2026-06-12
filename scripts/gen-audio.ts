@@ -45,6 +45,14 @@ const LEAD_SHIFT = 40;
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
+/** 전 권 누적 실패 목록 — 마지막에 요약 출력 후 exit 1 */
+const FAILED: string[] = [];
+
+/** wordTimings 기본 sanity — 단어수>0 + 마지막 endMs>0 일 때만 저장 */
+function timingsOk(t: WordTiming[] | null | undefined): t is WordTiming[] {
+  return !!t && t.length > 0 && t[t.length - 1].endMs > 0;
+}
+
 interface Sentence {
   text: string;
   translation_ko: string;
@@ -228,14 +236,25 @@ async function processBook(file: string) {
         kept++;
         continue;
       }
-      try {
-        const { ext, dur } = await synth(s.text, join(audioDir, base));
-        s.audio = `/seed/${book.slug}/audio/${base}${ext}`;
-        items.push({ s, abs: join(audioDir, base + ext), dur });
-        process.stdout.write(`\r  음성 ${items.length}/${total}…`);
-      } catch (e) {
-        console.log(`\n  ⚠️ 음성 실패: "${s.text.slice(0, 24)}…" ${(e as Error).message}`);
+      // 실패 시 2회 재시도(백오프) 후 실패 목록에 누적
+      let synthErr = "";
+      for (let attempt = 0; attempt <= 2; attempt++) {
+        try {
+          if (attempt > 0) await sleep(1500 * attempt);
+          const { ext, dur } = await synth(s.text, join(audioDir, base));
+          s.audio = `/seed/${book.slug}/audio/${base}${ext}`;
+          items.push({ s, abs: join(audioDir, base + ext), dur });
+          process.stdout.write(`\r  음성 ${items.length}/${total}…`);
+          synthErr = "";
+          break;
+        } catch (e) {
+          synthErr = (e as Error).message;
+          console.log(
+            `\n  ⚠️ 음성 실패(${attempt + 1}/3): "${s.text.slice(0, 24)}…" ${synthErr}`,
+          );
+        }
       }
+      if (synthErr) FAILED.push(`${book.slug} ${base}: "${s.text.slice(0, 40)}" — ${synthErr}`);
     }
   }
   if (kept) console.log(`  ↩︎ 기존 음성 ${kept}문장 보존 · 신규 ${items.length}문장 생성`);
@@ -266,18 +285,24 @@ async function processBook(file: string) {
   for (const it of items) {
     const oa = oaMap.get(it.abs);
     const fromOa = oa ? alignToTokens(it.s.text, oa) : null;
-    if (fromOa) {
+    if (timingsOk(fromOa)) {
       it.s.wordTimings = fromOa;
       exact++;
       continue;
     }
     const lw = localMap.get(it.abs);
     const fromLw = lw ? alignToTokens(it.s.text, lw) : null;
-    if (fromLw) {
+    if (timingsOk(fromLw)) {
       it.s.wordTimings = fromLw;
       exact++;
     } else {
-      it.s.wordTimings = estimateWordTimings(it.s.text, it.dur);
+      const est = estimateWordTimings(it.s.text, it.dur);
+      if (timingsOk(est)) {
+        it.s.wordTimings = est;
+      } else {
+        delete it.s.wordTimings; // sanity 미통과 타이밍은 저장하지 않음
+        FAILED.push(`${book.slug}: 타이밍 검증 실패 "${it.s.text.slice(0, 40)}"`);
+      }
     }
   }
 
@@ -348,6 +373,11 @@ async function main() {
           : "Edge TTS";
   console.log(`🌱 ${files.length}권 음성+정렬 시작 (${engineLabel} + Whisper)`);
   for (const f of files) await processBook(f);
+  if (FAILED.length > 0) {
+    console.error(`\n❌ 부분 실패 ${FAILED.length}건 — 재실행 필요:`);
+    for (const f of FAILED) console.error(`  - ${f}`);
+    process.exit(1);
+  }
   console.log("\n🎉 완료 — 새로고침하면 정확히 동기화된 낭독이 됩니다.");
 }
 

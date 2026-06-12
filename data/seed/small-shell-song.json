@@ -1,0 +1,377 @@
+{
+  "slug": "small-shell-song",
+  "title": "Small Shell Song",
+  "title_ko": "작은 조개의 노래",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "해변의 작은 조개가 파도 소리를 들으며 자기만의 노래를 찾는 아주 쉬운 그림책이에요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "I see a small shell.",
+          "translation_ko": "나는 작은 조개를 보아요.",
+          "audio": "/seed/small-shell-song/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "see",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 300,
+              "endMs": 500
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 800
+            },
+            {
+              "word": "small",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "shell",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The shell is on warm sand.",
+          "translation_ko": "조개는 따뜻한 모래 위에 있어요.",
+          "audio": "/seed/small-shell-song/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "shell",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "on",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "warm",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1860
+            },
+            {
+              "word": "sand",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The sea goes hush, hush.",
+          "translation_ko": "바다가 쉬, 쉬 소리를 내요.",
+          "audio": "/seed/small-shell-song/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "sea",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "goes",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 1000
+            },
+            {
+              "word": "hush",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1580
+            },
+            {
+              "word": "hush",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 2120,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The shell hums a soft song.",
+          "translation_ko": "조개가 부드러운 노래를 흥얼거려요.",
+          "audio": "/seed/small-shell-song/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "shell",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "hums",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1420
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1420,
+              "endMs": 2060
+            },
+            {
+              "word": "soft",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 2060,
+              "endMs": 2060
+            },
+            {
+              "word": "song",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2060,
+              "endMs": 2440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A little crab stops to listen.",
+          "translation_ko": "작은 게가 멈춰서 들어요.",
+          "audio": "/seed/small-shell-song/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "little",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 840
+            },
+            {
+              "word": "crab",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1240
+            },
+            {
+              "word": "stops",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1960
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1960,
+              "endMs": 2380
+            },
+            {
+              "word": "listen",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2380,
+              "endMs": 2460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The shell sings to the shore.",
+          "translation_ko": "조개는 해변에게 노래해요.",
+          "audio": "/seed/small-shell-song/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "shell",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "sings",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 640,
+              "endMs": 1100
+            },
+            {
+              "word": "to",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1540
+            },
+            {
+              "word": "shore",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1540,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "작은 조개의 노래에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 조개",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 조개이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "따뜻한 해변",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "따뜻한 해변에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "조개가 자기 노래를 찾지 못했어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "조개가 자기 노래를 찾지 못했어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "부드러운 파도",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "부드러운 파도이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 소리도 소중하다는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 소리도 소중하다는 마음을 배워요."
+    }
+  ]
+}

@@ -1,0 +1,1499 @@
+{
+  "slug": "the-windmill-friend",
+  "title": "The Windmill Friend",
+  "title_ko": "풍차 친구",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "마을의 낡은 풍차가 바람이 멈춘 날 아이들의 도움으로 다시 도는 따뜻한 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "An old windmill stood on a hill near the village.",
+          "translation_ko": "낡은 풍차 하나가 마을 근처 언덕 위에 서 있었어요.",
+          "audio": "/seed/the-windmill-friend/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "An",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "old",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 740
+            },
+            {
+              "word": "windmill",
+              "charStart": 7,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1280
+            },
+            {
+              "word": "stood",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1860
+            },
+            {
+              "word": "on",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1860,
+              "endMs": 2040
+            },
+            {
+              "word": "a",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "hill",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2320,
+              "endMs": 2360
+            },
+            {
+              "word": "near",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "village",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2840,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "Every day its big sails turned in the wind.",
+          "translation_ko": "날마다 풍차의 커다란 날개가 바람을 받아 돌았어요.",
+          "audio": "/seed/the-windmill-friend/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "day",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 500,
+              "endMs": 840
+            },
+            {
+              "word": "its",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1160,
+              "endMs": 1320
+            },
+            {
+              "word": "big",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1320,
+              "endMs": 1740
+            },
+            {
+              "word": "sails",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1740,
+              "endMs": 2140
+            },
+            {
+              "word": "turned",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 2140,
+              "endMs": 2580
+            },
+            {
+              "word": "in",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2580,
+              "endMs": 2740
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2740,
+              "endMs": 2880
+            },
+            {
+              "word": "wind",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2880,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The windmill ground the village wheat into soft flour.",
+          "translation_ko": "풍차는 마을의 밀을 갈아 부드러운 밀가루로 만들었어요.",
+          "audio": "/seed/the-windmill-friend/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "windmill",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 1200
+            },
+            {
+              "word": "ground",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "village",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "wheat",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2440
+            },
+            {
+              "word": "into",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2440,
+              "endMs": 2960
+            },
+            {
+              "word": "soft",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2960,
+              "endMs": 3380
+            },
+            {
+              "word": "flour",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3380,
+              "endMs": 3760
+            }
+          ]
+        },
+        {
+          "text": "The children loved its friendly creaking sound.",
+          "translation_ko": "아이들은 풍차가 끼익끼익 내는 정다운 소리를 좋아했어요.",
+          "audio": "/seed/the-windmill-friend/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "children",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 740
+            },
+            {
+              "word": "loved",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 1180
+            },
+            {
+              "word": "its",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1540
+            },
+            {
+              "word": "friendly",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1540,
+              "endMs": 1960
+            },
+            {
+              "word": "creaking",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 1960,
+              "endMs": 2460
+            },
+            {
+              "word": "sound",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2460,
+              "endMs": 2940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One quiet morning, the wind did not come.",
+          "translation_ko": "어느 고요한 아침, 바람이 불어오지 않았어요.",
+          "audio": "/seed/the-windmill-friend/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "quiet",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "morning",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 1500
+            },
+            {
+              "word": "wind",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1680
+            },
+            {
+              "word": "did",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 1920
+            },
+            {
+              "word": "not",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "come",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "The sails hung still, and the windmill went silent.",
+          "translation_ko": "날개는 멈춘 채 매달렸고, 풍차는 조용해졌어요.",
+          "audio": "/seed/the-windmill-friend/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "sails",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 620
+            },
+            {
+              "word": "hung",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "still",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 2040
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2040,
+              "endMs": 2280
+            },
+            {
+              "word": "windmill",
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2620
+            },
+            {
+              "word": "went",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2620,
+              "endMs": 2920
+            },
+            {
+              "word": "silent",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2920,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A girl named Mira ran up the hill to look.",
+          "translation_ko": "미라라는 여자아이가 언덕 위로 달려가 살펴보았어요.",
+          "audio": "/seed/the-windmill-friend/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "girl",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 420
+            },
+            {
+              "word": "named",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "Mira",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1200
+            },
+            {
+              "word": "ran",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1700
+            },
+            {
+              "word": "up",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2180
+            },
+            {
+              "word": "hill",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2180,
+              "endMs": 2260
+            },
+            {
+              "word": "to",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2680
+            },
+            {
+              "word": "look",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2680,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "\"Wake up, old friend,\" she whispered softly.",
+          "translation_ko": "\"일어나, 오랜 친구야.\" 미라가 살며시 속삭였어요.",
+          "audio": "/seed/the-windmill-friend/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Wake",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "up",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 820
+            },
+            {
+              "word": "old",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "friend",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "she",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "whispered",
+              "charStart": 27,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2580
+            },
+            {
+              "word": "softly",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 2940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "But the air was warm and lazy, so nothing moved.",
+          "translation_ko": "하지만 공기는 따뜻하고 나른해서 아무것도 움직이지 않았어요.",
+          "audio": "/seed/the-windmill-friend/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 120,
+              "endMs": 300
+            },
+            {
+              "word": "air",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "was",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 820
+            },
+            {
+              "word": "warm",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 820,
+              "endMs": 1120
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "lazy",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "so",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "nothing",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2560
+            },
+            {
+              "word": "moved",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2560,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "Mira called all her friends to help.",
+          "translation_ko": "미라는 친구들을 모두 불러 도와 달라고 했어요.",
+          "audio": "/seed/the-windmill-friend/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "called",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "all",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1300
+            },
+            {
+              "word": "her",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1540
+            },
+            {
+              "word": "friends",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "to",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "help",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The children waved big fans at the heavy sails.",
+          "translation_ko": "아이들은 커다란 부채로 무거운 날개 쪽을 힘껏 부채질했어요.",
+          "audio": "/seed/the-windmill-friend/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "children",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 220,
+              "endMs": 640
+            },
+            {
+              "word": "waved",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 640,
+              "endMs": 1000
+            },
+            {
+              "word": "big",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1420
+            },
+            {
+              "word": "fans",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1780
+            },
+            {
+              "word": "at",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2200
+            },
+            {
+              "word": "heavy",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2200,
+              "endMs": 2380
+            },
+            {
+              "word": "sails",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2380,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "They blew and puffed, but the sails barely shook.",
+          "translation_ko": "후후 불며 애썼지만, 날개는 겨우 흔들릴 뿐이었어요.",
+          "audio": "/seed/the-windmill-friend/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "blew",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 820
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 820,
+              "endMs": 1180
+            },
+            {
+              "word": "puffed",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1600
+            },
+            {
+              "word": "but",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2140,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "sails",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2480,
+              "endMs": 2840
+            },
+            {
+              "word": "barely",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2840,
+              "endMs": 3380
+            },
+            {
+              "word": "shook",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3380,
+              "endMs": 3740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We cannot make wind by ourselves,\" said a small boy.",
+          "translation_ko": "\"우리끼리는 바람을 만들 수 없어.\" 한 작은 남자아이가 말했어요.",
+          "audio": "/seed/the-windmill-friend/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "cannot",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "make",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "wind",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "by",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "ourselves",
+              "charStart": 24,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 2200
+            },
+            {
+              "word": "said",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2580,
+              "endMs": 2600
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "small",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "boy",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2980,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "So they sat down beside the windmill and waited.",
+          "translation_ko": "그래서 아이들은 풍차 곁에 앉아 기다렸어요.",
+          "audio": "/seed/the-windmill-friend/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "they",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 680,
+              "endMs": 880
+            },
+            {
+              "word": "sat",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "down",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "beside",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "windmill",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 1960,
+              "endMs": 2300
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2740
+            },
+            {
+              "word": "waited",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2740,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They sang an old song while the clouds drifted by.",
+          "translation_ko": "구름이 흘러가는 동안 아이들은 오래된 노래를 불렀어요.",
+          "audio": "/seed/the-windmill-friend/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "sang",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "an",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 860
+            },
+            {
+              "word": "old",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1260
+            },
+            {
+              "word": "song",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1600
+            },
+            {
+              "word": "while",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "clouds",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2460
+            },
+            {
+              "word": "drifted",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2460,
+              "endMs": 3060
+            },
+            {
+              "word": "by",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3360
+            }
+          ]
+        },
+        {
+          "text": "When they finished, a cool breeze touched their cheeks.",
+          "translation_ko": "노래가 끝나자, 시원한 바람이 아이들의 뺨을 스쳤어요.",
+          "audio": "/seed/the-windmill-friend/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "they",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "finished",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 460,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "cool",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "breeze",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1680,
+              "endMs": 2120
+            },
+            {
+              "word": "touched",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2120,
+              "endMs": 2500
+            },
+            {
+              "word": "their",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2500,
+              "endMs": 2780
+            },
+            {
+              "word": "cheeks",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 2780,
+              "endMs": 3100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "As evening came, the breeze grew stronger.",
+          "translation_ko": "저녁이 다가오면서 바람이 점점 세졌어요.",
+          "audio": "/seed/the-windmill-friend/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "As",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "evening",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 960
+            },
+            {
+              "word": "came",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1420
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1700,
+              "endMs": 1920
+            },
+            {
+              "word": "breeze",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2280
+            },
+            {
+              "word": "grew",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2280,
+              "endMs": 2640
+            },
+            {
+              "word": "stronger",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "Slowly the great sails began to turn again.",
+          "translation_ko": "천천히 커다란 날개가 다시 돌기 시작했어요.",
+          "audio": "/seed/the-windmill-friend/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Slowly",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 1340
+            },
+            {
+              "word": "great",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1340,
+              "endMs": 1680
+            },
+            {
+              "word": "sails",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1680,
+              "endMs": 2140
+            },
+            {
+              "word": "began",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 2140,
+              "endMs": 2700
+            },
+            {
+              "word": "to",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2700,
+              "endMs": 3060
+            },
+            {
+              "word": "turn",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 3060,
+              "endMs": 3120
+            },
+            {
+              "word": "again",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 3120,
+              "endMs": 3440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The windmill creaked its happy song, and the whole village cheered.",
+          "translation_ko": "풍차가 행복한 노래를 끼익끼익 부르자, 온 마을이 환호했어요.",
+          "audio": "/seed/the-windmill-friend/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "windmill",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 260,
+              "endMs": 1040
+            },
+            {
+              "word": "creaked",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1500
+            },
+            {
+              "word": "its",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "happy",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2140
+            },
+            {
+              "word": "song",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2140,
+              "endMs": 2560
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3040,
+              "endMs": 3120
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3120,
+              "endMs": 3240
+            },
+            {
+              "word": "whole",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3240,
+              "endMs": 3540
+            },
+            {
+              "word": "village",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 3540,
+              "endMs": 3820
+            },
+            {
+              "word": "cheered",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 3820,
+              "endMs": 4260
+            }
+          ]
+        },
+        {
+          "text": "Mira hugged her old friend, glad they had waited together.",
+          "translation_ko": "미라는 함께 기다려서 기쁜 마음으로 오랜 친구를 꼭 안았어요.",
+          "audio": "/seed/the-windmill-friend/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "hugged",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "her",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 920
+            },
+            {
+              "word": "old",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 920,
+              "endMs": 1280
+            },
+            {
+              "word": "friend",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1280,
+              "endMs": 1580
+            },
+            {
+              "word": "glad",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2200,
+              "endMs": 2200
+            },
+            {
+              "word": "they",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "had",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2400,
+              "endMs": 2540
+            },
+            {
+              "word": "waited",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "together",
+              "charStart": 49,
+              "charEnd": 57,
+              "startMs": 2780,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "풍차는 어디에 서 있었나요?",
+      "type": "mc",
+      "options": [
+        "마을 근처 언덕 위",
+        "강가 다리 옆",
+        "넓은 바다 한가운데",
+        "깊은 숲속 동굴 안"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "낡은 풍차는 마을 근처 언덕 위에 서 있었어요."
+    },
+    {
+      "question_ko": "풍차는 마을을 위해 어떤 일을 했나요?",
+      "type": "mc",
+      "options": [
+        "밀을 갈아 밀가루를 만들었어요",
+        "물고기를 잡았어요",
+        "편지를 배달했어요",
+        "아이들을 가르쳤어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "풍차는 마을의 밀을 갈아 부드러운 밀가루로 만들었어요."
+    },
+    {
+      "question_ko": "어느 아침 풍차가 멈춘 까닭은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "바람이 불지 않아서",
+        "비가 너무 많이 와서",
+        "날개가 부러져서",
+        "사람들이 풍차를 멈춰서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "고요한 아침에 바람이 불어오지 않아서 날개가 멈췄어요."
+    },
+    {
+      "question_ko": "부채질이 잘 안 되자 아이들은 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "곁에 앉아 노래하며 바람을 기다렸어요",
+        "집으로 돌아가 잊어버렸어요",
+        "풍차를 손으로 밀었어요",
+        "어른들에게 화를 냈어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아이들은 풍차 곁에 앉아 노래를 부르며 바람이 불기를 기다렸어요."
+    },
+    {
+      "question_ko": "이 이야기가 전하려는 마음은 무엇일까요?",
+      "type": "mc",
+      "options": [
+        "함께 기다리고 도우면 좋은 일이 찾아와요",
+        "혼자 하는 일이 가장 빨라요",
+        "낡은 것은 버리는 게 나아요",
+        "바람은 늘 무서운 거예요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아이들이 함께 기다리고 마음을 모으자 바람이 불어와 풍차가 다시 돌았어요."
+    }
+  ]
+}

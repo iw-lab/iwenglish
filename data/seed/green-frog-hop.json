@@ -1,0 +1,321 @@
+{
+  "slug": "green-frog-hop",
+  "title": "Green Frog Hop",
+  "title_ko": "초록 개구리 폴짝",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "초록 개구리가 연잎에서 폴짝폴짝 뛰며 숫자와 움직임을 만나는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A green frog sits still.",
+          "translation_ko": "초록 개구리가 가만히 앉아 있어요.",
+          "audio": "/seed/green-frog-hop/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "green",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 740
+            },
+            {
+              "word": "frog",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1200
+            },
+            {
+              "word": "sits",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1800
+            },
+            {
+              "word": "still",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1800,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Hop one, hop two.",
+          "translation_ko": "하나 폴짝, 둘 폴짝.",
+          "audio": "/seed/green-frog-hop/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hop",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "one",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 780
+            },
+            {
+              "word": "hop",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1100,
+              "endMs": 1280
+            },
+            {
+              "word": "two",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1280,
+              "endMs": 1680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The frog lands on a leaf.",
+          "translation_ko": "개구리가 잎 위에 내려앉아요.",
+          "audio": "/seed/green-frog-hop/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "frog",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "lands",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 960
+            },
+            {
+              "word": "on",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1540
+            },
+            {
+              "word": "leaf",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 1580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A dragonfly flies by.",
+          "translation_ko": "잠자리가 날아가요.",
+          "audio": "/seed/green-frog-hop/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "dragonfly",
+              "charStart": 2,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 1180
+            },
+            {
+              "word": "flies",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "by",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1520,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Hop three, splash!",
+          "translation_ko": "셋 폴짝, 첨벙!",
+          "audio": "/seed/green-frog-hop/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hop",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "three",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "splash",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The frog is happy.",
+          "translation_ko": "개구리는 행복해요.",
+          "audio": "/seed/green-frog-hop/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "frog",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "happy",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1300
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "초록 개구리 폴짝에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "초록 개구리",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "초록 개구리이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "작은 연못",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 연못에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "개구리가 건너편 연잎에 가고 싶었어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "개구리가 건너편 연잎에 가고 싶었어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "넓은 연잎",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "넓은 연잎이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "조금씩 뛰면 갈 수 있다는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "조금씩 뛰면 갈 수 있다는 마음을 배워요."
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+[
+  {
+    "slug": "snail-says-hello",
+    "level": "preA1",
+    "pages": 7,
+    "wordTarget": 62,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p1",
+        "severity": "high",
+        "issue": "English uses the adjective/adverb form in \"A little snail goes slow.\" For graded EFL, this models nonstandard grammar.",
+        "suggestion": "Change to \"A little snail goes slowly.\""
+      },
+      {
+        "where": "p7",
+        "severity": "high",
+        "issue": "\"Slow snail says hello to all\" is missing the article before a singular count noun and sounds unnatural.",
+        "suggestion": "Change to \"The slow snail says hello to everyone.\""
+      }
+    ]
+  },
+  {
+    "slug": "blue-fish-blows-bubbles",
+    "level": "preA1",
+    "pages": 7,
+    "wordTarget": 60,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "summary",
+        "severity": "med",
+        "issue": "Korean summary has an unnatural particle: \"바닷속을 노는\".",
+        "suggestion": "Change to \"파란 물고기가 보글보글 거품을 불며 바닷속에서 노는 이야기예요.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-littlest-firefly",
+    "level": "A1",
+    "pages": 9,
+    "wordTarget": 108,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p6",
+        "severity": "med",
+        "issue": "\"Pip came close, so his light helped the beetle\" has an awkward causal link; coming close does not directly mean the light helped.",
+        "suggestion": "Change to \"Pip came close to help the beetle.\""
+      },
+      {
+        "where": "quiz#3",
+        "severity": "med",
+        "issue": "Option \"다른 핍의 친구\" is unnatural and can be read as \"another Pip's friend.\"",
+        "suggestion": "Change the option to \"핍의 다른 친구\" or \"다른 반딧불이 친구\"."
+      }
+    ]
+  },
+  {
+    "slug": "the-singing-frog",
+    "level": "A1",
+    "pages": 9,
+    "wordTarget": 110,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p9",
+        "severity": "med",
+        "issue": "\"sings as one\" is an idiomatic phrase that is too hard for A1 readers.",
+        "suggestion": "Change to \"Every night, all the pond friends sing together.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-fox-and-the-bridge",
+    "level": "A2",
+    "pages": 10,
+    "wordTarget": 170,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p10",
+        "severity": "low",
+        "issue": "\"A bridge of friends\" is poetic but awkward and may confuse A2 readers.",
+        "suggestion": "Change to \"A bridge made by friends is the best bridge.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-garden-detective",
+    "level": "A2",
+    "pages": 10,
+    "wordTarget": 175,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p4",
+        "severity": "high",
+        "issue": "English says \"Near the leaves,\" likely the strawberry plant leaves, but Korean says \"나뭇잎,\" which means tree leaves.",
+        "suggestion": "Change translation_ko to \"딸기 잎 근처에서 작은 회색 깃털 하나가 눈에 띄었어요.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-tide-pool-treasure",
+    "level": "A2",
+    "pages": 11,
+    "wordTarget": 178,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p3",
+        "severity": "med",
+        "issue": "\"They knelt down because the first pool was very still\" gives an odd cause-and-effect, and \"knelt\" is also difficult for A2.",
+        "suggestion": "Change to \"They sat beside the first pool. The water was very still.\""
+      },
+      {
+        "where": "p9",
+        "severity": "med",
+        "issue": "Korean \"살아 있고, 어디서도 살 수 없으니까\" is accurate but potentially confusing because \"살\" repeats with different meanings.",
+        "suggestion": "Change to \"살아 있고, 어디에서도 돈으로 살 수 없으니까.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-last-leaf-of-autumn",
+    "level": "B1",
+    "pages": 12,
+    "wordTarget": 260,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p10",
+        "severity": "high",
+        "issue": "\"It held the ladybug warm\" is not natural English grammar/collocation.",
+        "suggestion": "Change to \"It kept the ladybug warm and stayed with the lonely bird.\""
+      }
+    ]
+  },
+  {
+    "slug": "one-yellow-leaf",
+    "level": "preA1",
+    "pages": 6,
+    "wordTarget": 50,
+    "lengthShort": 50,
+    "issues": [
+      {
+        "where": "p1",
+        "severity": "med",
+        "issue": "\"sits on a tree\" and \"나무에 앉아 있어요\" sound literal for a leaf; the Korean is not natural child-friendly phrasing.",
+        "suggestion": "Use \"One yellow leaf is on a tree.\" / \"노란 잎 하나가 나무에 있어요.\""
+      },
+      {
+        "where": "p2",
+        "severity": "high",
+        "issue": "\"The wind blows soft and low\" uses adjective \"soft\" where standard graded-reader grammar needs an adverb or a simpler adjective phrase.",
+        "suggestion": "Change to \"A soft wind blows.\" and keep \"바람이 살랑살랑 불어와요.\""
+      },
+      {
+        "where": "global",
+        "severity": "med",
+        "issue": "The preA1 text uses several motion verbs above the level: floats, spins, drifts, lands.",
+        "suggestion": "Simplify to repeated preA1 patterns such as \"The leaf goes up. It turns. It goes down. It is on the grass.\""
+      }
+    ]
+  },
+  {
+    "slug": "tiny-mouse-big-cheese",
+    "level": "preA1",
+    "pages": 7,
+    "wordTarget": 66,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p6",
+        "severity": "med",
+        "issue": "\"Now they are two!\" is understandable but not idiomatic English for this meaning.",
+        "suggestion": "Change to \"Now there are two friends!\" / \"이제 친구가 둘이에요!\""
+      },
+      {
+        "where": "quiz#3",
+        "severity": "med",
+        "issue": "The negative question is hard for preA1, and \"치즈에게 한 행동\" uses 에게 with an inanimate object.",
+        "suggestion": "Change to \"쥐는 치즈를 처음에 어떻게 했나요?\" with options [\"밀었어요\", \"먹었어요\", \"숨겼어요\", \"던졌어요\"] and answerIndex 0."
+      }
+    ]
+  },
+  {
+    "slug": "rabbits-rainy-picnic",
+    "level": "A1",
+    "pages": 9,
+    "wordTarget": 110,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p8",
+        "severity": "med",
+        "issue": "The Korean translation repeats 웃- twice: \"다시 웃으며 활짝 웃어요\" sounds awkward.",
+        "suggestion": "Change to \"토끼는 다시 활짝 웃어요.\""
+      },
+      {
+        "where": "p9",
+        "severity": "med",
+        "issue": "\"Rain or sun\" is an unnatural English phrase, even though the meaning is clear.",
+        "suggestion": "Change to \"Rainy or sunny, family is fun.\""
+      }
+    ]
+  },
+  {
+    "slug": "squirrels-acorn-hunt",
+    "level": "A1",
+    "pages": 8,
+    "wordTarget": 102,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "summary",
+        "severity": "high",
+        "issue": "summary_ko says the story is a \"부지런한 하루\", but the plot continues from winter into spring.",
+        "suggestion": "Change to \"겨울을 앞두고 다람쥐가 도토리를 숨기고, 잊힌 도토리가 봄에 새 나무로 자라요.\""
+      },
+      {
+        "where": "p5",
+        "severity": "high",
+        "issue": "\"under the soft ground\" is not natural for burying acorns; the story means in the ground.",
+        "suggestion": "Change to \"She hides the acorns in the soft ground.\""
+      },
+      {
+        "where": "p8",
+        "severity": "high",
+        "issue": "The story is in present tense, but \"was\" switches tense in the final sentence; \"forgotten\" and \"after all\" are also too hard for A1.",
+        "suggestion": "Change to \"The lost acorn is a happy gift.\" / \"잊힌 도토리는 기쁜 선물이에요.\""
+      }
+    ]
+  },
+  {
+    "slug": "little-cloud-and-the-rainbow",
+    "level": "A1",
+    "pages": 8,
+    "wordTarget": 104,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "quiz#3",
+        "severity": "high",
+        "issue": "The question says \"비가 그친 뒤에\", but the story says sunlight shines through the rain; the rain has not clearly stopped.",
+        "suggestion": "Change question_ko to \"비가 내릴 때 무엇이 나왔나요?\""
+      }
+    ]
+  },
+  {
+    "slug": "the-windmill-friend",
+    "level": "A2",
+    "pages": 10,
+    "wordTarget": 168,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p6",
+        "severity": "med",
+        "issue": "\"커다란 부채를 무거운 날개에 마구 부쳤어요\" sounds awkward; the direction and action of fanning are unclear.",
+        "suggestion": "Change to \"아이들은 커다란 부채로 무거운 날개 쪽을 힘껏 부채질했어요.\""
+      },
+      {
+        "where": "p9",
+        "severity": "med",
+        "issue": "\"because the evening was coming\" sounds like a literal explanation rather than natural English narration.",
+        "suggestion": "Change to \"As evening came, the breeze grew stronger.\""
+      }
+    ]
+  },
+  {
+    "slug": "owls-night-school",
+    "level": "A2",
+    "pages": 10,
+    "wordTarget": 170,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p5",
+        "severity": "high",
+        "issue": "\"learn to fly softly\" is unnatural for silent flight, and \"부드럽게 나는 법\" does not match the intended meaning of flying without sound.",
+        "suggestion": "Change to \"Now let's learn to fly quietly,\" / \"이제 소리 없이 나는 법을 배워 보자.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-lighthouse-keepers-promise",
+    "level": "B1",
+    "pages": 12,
+    "wordTarget": 250,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p9",
+        "severity": "high",
+        "issue": "\"a fishing boat was lost and frightened\" incorrectly makes the boat frightened; the sailors are frightened.",
+        "suggestion": "Change to \"Far out on the black water, the sailors on a fishing boat were lost and frightened.\" / \"저 멀리 캄캄한 바다 위에서 고깃배의 뱃사람들이 길을 잃고 겁에 질려 있었어요.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-secret-of-the-tide-clock",
+    "level": "B1",
+    "pages": 13,
+    "wordTarget": 280,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "summary",
+        "severity": "high",
+        "issue": "summary_ko has the wrong or ambiguous subject: it reads as if the tide clock discovers how to read the sea, not Mina.",
+        "suggestion": "Change to \"미나가 바닷가 할아버지의 낡은 조수 시계가 어떻게 바다를 읽는지 알아내고, 다가오는 폭풍에서 배들을 지켜내요.\""
+      },
+      {
+        "where": "p9",
+        "severity": "med",
+        "issue": "The clock hand \"shiver\" warning makes the tide clock seem magical, which conflicts with the ending that the sea is not magic.",
+        "suggestion": "Change to \"Mina ran to the clock and saw the hand point to an unusually high tide.\""
+      },
+      {
+        "where": "p12",
+        "severity": "med",
+        "issue": "\"조용한 자랑스러움으로 따뜻해졌어요\" is literal and unnatural Korean for children.",
+        "suggestion": "Change to \"미나는 조용히 뿌듯해서 두 볼이 따뜻해졌어요.\""
+      },
+      {
+        "where": "p13",
+        "severity": "med",
+        "issue": "\"끈기 있는 비밀\" is a literal and unnatural rendering of \"patient secret\" for Korean children.",
+        "suggestion": "Change to \"바다는 마법이 아니라, 차분히 살피면 읽을 수 있는 비밀이라는 것을 깨달았어요.\""
+      }
+    ]
+  },
+  {
+    "slug": "the-storyteller-of-the-harbor",
+    "level": "B1",
+    "pages": 13,
+    "wordTarget": 300,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "summary",
+        "severity": "med",
+        "issue": "\"바통을 넘기는\" is a borrowed idiom and sounds less child-friendly than the rest of the summary.",
+        "suggestion": "Change to \"항구의 늙은 이야기꾼이 마지막 이야기를 아이들에게 이어 주는 따뜻한 이야기예요.\""
+      },
+      {
+        "where": "p4",
+        "severity": "med",
+        "issue": "The Korean dialogue mirrors the English split quote (\"오늘 밤엔,\" 그가 말했어요, ...) and sounds stiff.",
+        "suggestion": "Change to \"오늘 밤엔 남쪽 바다의 노래하는 고래들 이야기를 들려주마.\" 그가 말했어요."
+      },
+      {
+        "where": "p11",
+        "severity": "med",
+        "issue": "The Korean dialogue again uses a split quote that sounds translated rather than natural.",
+        "suggestion": "Change to \"고래들은 달이 뜰 때까지 노래했어요. 그러고는 길 잃은 배를 집으로 데려다주었지요.\" 미라가 말했어요."
+      }
+    ]
+  },
+  {
+    "slug": "sleepy-bear-yawns",
+    "level": "preA1",
+    "pages": 7,
+    "wordTarget": 58,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "quiz#3",
+        "severity": "high",
+        "issue": "Korean question says '곰이 이로 한 일' which means 'what did the bear do with his teeth/as a tool', so it is misleading for brushing teeth.",
+        "suggestion": "Change question_ko to '곰은 이를 어떻게 했나요?'"
+      }
+    ]
+  },
+  {
+    "slug": "kitten-and-the-yarn",
+    "level": "preA1",
+    "pages": 7,
+    "wordTarget": 64,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "global",
+        "severity": "med",
+        "issue": "preA1 level is stretched by several items at once: 'ball of yarn', 'taps', 'paw', 'wraps around', and 'all tangled up'.",
+        "suggestion": "Simplify p1-p6 vocabulary or raise to A1; e.g. use 'The kitten sees yarn. It taps it. The yarn rolls. The string goes around the kitten.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-lost-mitten",
+    "level": "A1",
+    "pages": 8,
+    "wordTarget": 98,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "summary",
+        "severity": "high",
+        "issue": "summary_ko says Mia finds the mitten together with the animals, but the animals find/use it first and Mia later shares it.",
+        "suggestion": "Change to '눈밭에서 잃어버린 빨간 장갑을 동물 친구들과 함께 나누는 따뜻한 이야기예요.'"
+      },
+      {
+        "where": "p8",
+        "severity": "med",
+        "issue": "'sat by the warm mitten' is awkward and does not clearly explain why nobody felt cold.",
+        "suggestion": "Change to 'So they all shared the warm mitten.' / '그래서 모두 따뜻한 장갑을 함께 썼어요.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-paper-boat",
+    "level": "A1",
+    "pages": 9,
+    "wordTarget": 106,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p5",
+        "severity": "low",
+        "issue": "translation_ko changes 'tall green grass' to '초록 풀밭', which sounds like a grass field rather than tall grass along the stream.",
+        "suggestion": "Change to '배가 키 큰 초록 풀을 지나 나아가요.'"
+      },
+      {
+        "where": "p9",
+        "severity": "med",
+        "issue": "'the boat comes home to her' is unnatural because the boat is on a stream and no homeward route is established.",
+        "suggestion": "Change to 'At last the boat comes back to her.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-mountain-echo",
+    "level": "A2",
+    "pages": 10,
+    "wordTarget": 165,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p7",
+        "severity": "med",
+        "issue": "'Mina was not scared anymore, because she felt curious now' is awkward and over-punctuated.",
+        "suggestion": "Change to 'Mina was not scared anymore. Now she felt curious.'"
+      },
+      {
+        "where": "p10",
+        "severity": "high",
+        "issue": "translation_ko uses '잘 가!' for 'Goodbye!' although Mina is leaving and the hills/echo remain; it sounds like she is sending them away.",
+        "suggestion": "Change to '\"안녕!\" 미나가 외치자 메아리도 작별 인사를 했어요.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-firefly-festival",
+    "level": "A2",
+    "pages": 11,
+    "wordTarget": 182,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p5",
+        "severity": "med",
+        "issue": "translation_ko renders 'held her breath' as '숨을 멈췄어요', which sounds too literal for a moment of wonder.",
+        "suggestion": "Change to '그 모습이 무척 아름다워서 토끼는 숨을 죽였어요.'"
+      },
+      {
+        "where": "p8",
+        "severity": "low",
+        "issue": "'앞발을 마주치며' is stiff for 'clapped her paws'.",
+        "suggestion": "Change to '토끼는 앞발로 박수를 치며 기쁘게 웃었어요.'"
+      },
+      {
+        "where": "quiz#1",
+        "severity": "high",
+        "issue": "Korean question asks where the rabbit heard the news, but the keyed answer '강가' is where the festival is held.",
+        "suggestion": "Change question_ko to '축제는 어디에서 열리기로 했나요?'"
+      }
+    ]
+  },
+  {
+    "slug": "the-runaway-kite",
+    "level": "A2",
+    "pages": 11,
+    "wordTarget": 184,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p7",
+        "severity": "high",
+        "issue": "'The kite slipped away and caught in a tall tree' is ungrammatical; it needs 'got caught' or 'was caught'.",
+        "suggestion": "Change to 'The kite slipped away and got caught in a tall tree.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-mapmakers-daughter",
+    "level": "B1",
+    "pages": 13,
+    "wordTarget": 270,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p2",
+        "severity": "med",
+        "issue": "'sharpened his pens' and '펜을 깎아' are unnatural unless these are quill pens; ordinary pens are not sharpened.",
+        "suggestion": "Change to 'she sharpened his pencils until their points were perfect' / '아버지의 연필을 끝이 뾰족해질 때까지 깎아 두었어요.'"
+      },
+      {
+        "where": "p10",
+        "severity": "high",
+        "issue": "translation_ko mistranslates 'gasped' as '숨을 멈췄어요'; gasping is a sudden sound/intake of breath, not holding breath.",
+        "suggestion": "Change to '그때 안개가 걷히자 미라는 탄성을 질렀어요.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-river-that-changed-its-mind",
+    "level": "B1",
+    "pages": 13,
+    "wordTarget": 275,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p4",
+        "severity": "high",
+        "issue": "translation_ko renders 'Inch by inch' as '한 뼘씩', which is much larger and loses the 'little by little' meaning.",
+        "suggestion": "Change to '강물은 조금씩 조금씩 언덕 쪽으로 흘러갔답니다.'"
+      },
+      {
+        "where": "p11",
+        "severity": "low",
+        "issue": "Korean sentence '비가 내렸어요, 처음엔 보슬보슬, 그러자...' is punctuated like English and sounds stiff.",
+        "suggestion": "Change to '이윽고 비가 내렸어요. 처음에는 보슬보슬 내리더니, 물길이 차오르기 시작했지요.'"
+      },
+      {
+        "where": "quiz#3",
+        "severity": "high",
+        "issue": "Question says villagers acted '강을 되돌리기 위해', but the story's point is adapting by making a new channel, not returning the river to the old bed.",
+        "suggestion": "Change question_ko to '마을 사람들은 강물이 다시 마을 가까이 흐르게 하려고 무엇을 했나요?'"
+      }
+    ]
+  },
+  {
+    "slug": "the-night-market-of-stars",
+    "level": "B1",
+    "pages": 13,
+    "wordTarget": 295,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p3",
+        "severity": "low",
+        "issue": "translation_ko '그 하나가 무척 갖고 싶었어요' is awkward Korean.",
+        "suggestion": "Change to '미나는 그중 하나를 무척 갖고 싶었어요.'"
+      },
+      {
+        "where": "p8",
+        "severity": "low",
+        "issue": "'늙은 황금빛 별' and '인내심 가득한 눈빛' sound stiff for a child-friendly Korean translation.",
+        "suggestion": "Change to '나이 든 황금빛 별이 천천히 내려와 다정히 기다려 주는 눈빛으로 미나의 말을 들어 주었어요.'"
+      }
+    ]
+  },
+  {
+    "slug": "duck-finds-a-puddle",
+    "level": "preA1",
+    "pages": 6,
+    "wordTarget": 54,
+    "lengthShort": 54,
+    "issues": [
+      {
+        "where": "p1",
+        "severity": "med",
+        "issue": "English says the duck 'wants water', which can mean it wants to drink; the Korean and quiz frame it as looking for water.",
+        "suggestion": "Change to 'A little duck looks for water.'"
+      }
+    ]
+  },
+  {
+    "slug": "happy-little-cloud",
+    "level": "preA1",
+    "pages": 6,
+    "wordTarget": 56,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p2",
+        "severity": "high",
+        "issue": "Korean translates the sheep sound 'Baa, baa!' as '음매, 음매', which is a cow sound in Korean.",
+        "suggestion": "Change to '메에, 메에! 나를 보세요.'"
+      },
+      {
+        "where": "global",
+        "severity": "med",
+        "issue": "Several phrases are too figurative or difficult for preA1: 'sail on the wind', 'children below', and 'fluffy hand'.",
+        "suggestion": "Use simpler lines such as 'I float in the wind.', 'I see children.', and 'I wave to them.'"
+      },
+      {
+        "where": "p4",
+        "severity": "med",
+        "issue": "'Now I am a sweet heart' is awkward and can sound like a personality description, not a cloud shape.",
+        "suggestion": "Change to 'Now I am a pretty heart.' or, for simpler preA1, 'Now I am a heart.'"
+      }
+    ]
+  },
+  {
+    "slug": "penguin-learns-to-slide",
+    "level": "A1",
+    "pages": 9,
+    "wordTarget": 112,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p2",
+        "severity": "med",
+        "issue": "'waddles' is above a typical A1 vocabulary load, especially with no word support.",
+        "suggestion": "Change to 'He walks slowly up the hill.' or add 'waddle' to the word support."
+      },
+      {
+        "where": "quiz#4",
+        "severity": "med",
+        "issue": "The question asks what the friend told Pip to do, but the friend says several things in the story: 'Watch me', 'You can try too', and 'Try again'.",
+        "suggestion": "Change the question to '핍이 너무 빨리 멈춘 뒤, 친구가 뭐라고 했나요?'"
+      }
+    ]
+  },
+  {
+    "slug": "hedgehog-shares-apples",
+    "level": "A1",
+    "pages": 8,
+    "wordTarget": 100,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p3",
+        "severity": "med",
+        "issue": "'He rolls on the apples' is less natural for the intended action of rolling across them so they stick to his spines.",
+        "suggestion": "Change to 'He rolls over the apples.'"
+      }
+    ]
+  },
+  {
+    "slug": "puppys-first-snow",
+    "level": "A1",
+    "pages": 8,
+    "wordTarget": 96,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "title_ko",
+        "severity": "low",
+        "issue": "'첫 눈' should be written as '첫눈' when it means first snow.",
+        "suggestion": "Change title_ko to '강아지의 첫눈'."
+      },
+      {
+        "where": "global",
+        "severity": "med",
+        "issue": "For A1, the book stacks several above-level concrete verbs and nouns without support: 'sniffs', 'wags', 'snowflake', 'lands', and 'shakes off'.",
+        "suggestion": "Simplify a few lines or add these items to word support."
+      }
+    ]
+  },
+  {
+    "slug": "captain-otters-river-map",
+    "level": "A2",
+    "pages": 11,
+    "wordTarget": 185,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p8",
+        "severity": "high",
+        "issue": "The bat flies out 'because the sun was bright', which is biologically and logically misleading.",
+        "suggestion": "Change to 'A little bat peeked out of the dark cave.'"
+      },
+      {
+        "where": "quiz#4",
+        "severity": "high",
+        "issue": "The quiz answer says the bat came out because the sun was high, while the story says the sun was bright; the cause is also confusing.",
+        "suggestion": "Replace with a clearer question: '박쥐는 동굴을 어떻게 설명했나요?' with the correct option '시원하고 조용해요'."
+      }
+    ]
+  },
+  {
+    "slug": "the-bakers-tiny-helper",
+    "level": "A2",
+    "pages": 10,
+    "wordTarget": 172,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p7",
+        "severity": "med",
+        "issue": "'The baker wanted to know his secret helper' is awkward; it should mean discovering who the helper is.",
+        "suggestion": "Change to 'The baker wanted to know who his secret helper was.'"
+      },
+      {
+        "where": "p9",
+        "severity": "med",
+        "issue": "'a crumb of cheese' is unnatural and does not match the Korean '치즈 한 조각'.",
+        "suggestion": "Change to 'a small piece of cheese'."
+      },
+      {
+        "where": "p10",
+        "severity": "med",
+        "issue": "Korean '조용한 빵집을 함께 나눴어요' is literal and unnatural for sharing a place/life together.",
+        "suggestion": "Change to '그날부터 둘은 조용한 빵집에서 함께 지냈어요.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-clockwork-sparrow",
+    "level": "B1",
+    "pages": 13,
+    "wordTarget": 280,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "summary",
+        "severity": "high",
+        "issue": "The Korean summary says the sparrow 'lost' its song, but the story says it has not learned or found a tune yet.",
+        "suggestion": "Change to '아직 노래가 없던 태엽 참새가 진짜 새들을 만나 자기만의 소리를 찾아 가는 따뜻한 이야기예요.'"
+      },
+      {
+        "where": "p11",
+        "severity": "med",
+        "issue": "'a gentle metal shimmer' is not idiomatic for sound.",
+        "suggestion": "Change to 'a soft metallic ring' or 'a gentle metallic shimmer'."
+      }
+    ]
+  },
+  {
+    "slug": "the-boy-who-collected-echoes",
+    "level": "B1",
+    "pages": 13,
+    "wordTarget": 285,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p3",
+        "severity": "med",
+        "issue": "'He labelled each jar with careful letters in his notebook' is unclear because jars are labeled on the jar, not in a notebook.",
+        "suggestion": "Change to 'He labeled each jar in careful letters and wrote about it in his notebook.'"
+      }
+    ]
+  },
+  {
+    "slug": "the-bridge-between-two-hills",
+    "level": "B1",
+    "pages": 12,
+    "wordTarget": 265,
+    "lengthShort": null,
+    "issues": [
+      {
+        "where": "p12",
+        "severity": "med",
+        "issue": "'joined by friends' and Korean '친구들로 이어졌어요' are awkward; the intended meaning is friendship/bridge connection.",
+        "suggestion": "Change English to 'were now joined by a bridge and new friendship' and Korean to '이제 두 언덕은 다리와 새 우정으로 이어졌어요.'"
+      }
+    ]
+  }
+]

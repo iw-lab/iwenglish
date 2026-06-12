@@ -1,0 +1,482 @@
+{
+  "slug": "red-ball-rolls",
+  "title": "Red Ball Rolls",
+  "title_ko": "빨간 공이 굴러가요",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "빨간 공이 데굴데굴 굴러가며 강아지와 오리, 고양이를 만나요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Here is a red ball.",
+          "translation_ko": "여기 빨간 공이 있어요.",
+          "audio": "/seed/red-ball-rolls/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Here",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "red",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1020
+            },
+            {
+              "word": "ball",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The red ball rolls down the hill.",
+          "translation_ko": "빨간 공이 언덕 아래로 굴러가요.",
+          "audio": "/seed/red-ball-rolls/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "red",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "ball",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "rolls",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1600
+            },
+            {
+              "word": "down",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2220
+            },
+            {
+              "word": "hill",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It rolls past a dog.",
+          "translation_ko": "공이 강아지를 지나 굴러가요.",
+          "audio": "/seed/red-ball-rolls/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "rolls",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "past",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 1040
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1480
+            },
+            {
+              "word": "dog",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1480,
+              "endMs": 1500
+            }
+          ]
+        },
+        {
+          "text": "Woof, woof!",
+          "translation_ko": "멍멍!",
+          "audio": "/seed/red-ball-rolls/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Woof",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "woof",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 800,
+              "endMs": 1200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It rolls past a duck.",
+          "translation_ko": "공이 오리를 지나 굴러가요.",
+          "audio": "/seed/red-ball-rolls/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "rolls",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "past",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1120
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1500
+            },
+            {
+              "word": "duck",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1500,
+              "endMs": 1520
+            }
+          ]
+        },
+        {
+          "text": "Quack, quack!",
+          "translation_ko": "꽥꽥!",
+          "audio": "/seed/red-ball-rolls/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Quack",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 960
+            },
+            {
+              "word": "quack",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 1640,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It rolls past a cat.",
+          "translation_ko": "공이 고양이를 지나 굴러가요.",
+          "audio": "/seed/red-ball-rolls/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "rolls",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 740
+            },
+            {
+              "word": "past",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "cat",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1340,
+              "endMs": 1640
+            }
+          ]
+        },
+        {
+          "text": "Meow, meow!",
+          "translation_ko": "야옹야옹!",
+          "audio": "/seed/red-ball-rolls/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Meow",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "meow",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 1340,
+              "endMs": 1340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The red ball stops in the basket.",
+          "translation_ko": "빨간 공이 바구니 안에 멈춰요.",
+          "audio": "/seed/red-ball-rolls/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "red",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "ball",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 1040
+            },
+            {
+              "word": "stops",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1760
+            },
+            {
+              "word": "in",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2040,
+              "endMs": 2420
+            },
+            {
+              "word": "basket",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2420,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "Here is the red ball!",
+          "translation_ko": "여기 빨간 공이 있어요!",
+          "audio": "/seed/red-ball-rolls/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Here",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 780
+            },
+            {
+              "word": "red",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 960
+            },
+            {
+              "word": "ball",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1300
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "공은 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "빨간색",
+        "파란색",
+        "노란색",
+        "초록색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이야기에 빨간 공이 나와요."
+    },
+    {
+      "question_ko": "빨간 공은 어디로 굴러갔나요?",
+      "type": "mc",
+      "options": [
+        "언덕 아래로",
+        "하늘 위로",
+        "바다 속으로",
+        "나무 위로"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "공은 언덕 아래로 굴러갔어요."
+    },
+    {
+      "question_ko": "공이 처음 지나간 동물은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "강아지",
+        "오리",
+        "고양이",
+        "토끼"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "공은 먼저 강아지를 지나갔어요."
+    },
+    {
+      "question_ko": "공은 마지막에 어디에서 멈췄나요?",
+      "type": "mc",
+      "options": [
+        "바구니 안",
+        "상자 안",
+        "물 속",
+        "문 앞"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "공은 바구니 안에 멈췄어요."
+    },
+    {
+      "question_ko": "이 이야기는 어떤 느낌을 주나요?",
+      "type": "mc",
+      "options": [
+        "즐겁고 신나요",
+        "무섭고 슬퍼요",
+        "지루하고 답답해요",
+        "화나고 속상해요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "공이 친구들을 만나며 굴러가는 모습이 즐겁고 신나요."
+    }
+  ]
+}

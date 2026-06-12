@@ -1,0 +1,2081 @@
+{
+  "slug": "the-village-that-listened-to-rain",
+  "title": "The Village That Listened to Rain",
+  "title_ko": "비를 듣는 마을",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "비가 너무 세게 내려 걱정하던 마을이 빗소리를 듣고 물길을 새롭게 만드는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Our hillside village used to complain whenever rain arrived. It drummed on roofs, flooded the steps, and turned the lower road into a brown stream.",
+          "translation_ko": "우리 언덕 마을은 비가 올 때마다 불평하곤 했어요. 비는 지붕을 두드리고 계단을 넘치게 하고 아래쪽 길을 갈색 개울로 만들었어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "hillside",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 900
+            },
+            {
+              "word": "village",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "used",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "to",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1760
+            },
+            {
+              "word": "complain",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "whenever",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2080,
+              "endMs": 2460
+            },
+            {
+              "word": "rain",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2460,
+              "endMs": 2840
+            },
+            {
+              "word": "arrived",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 2840,
+              "endMs": 3300
+            },
+            {
+              "word": "It",
+              "charStart": 61,
+              "charEnd": 63,
+              "startMs": 3960,
+              "endMs": 4040
+            },
+            {
+              "word": "drummed",
+              "charStart": 64,
+              "charEnd": 71,
+              "startMs": 4040,
+              "endMs": 4420
+            },
+            {
+              "word": "on",
+              "charStart": 72,
+              "charEnd": 74,
+              "startMs": 4420,
+              "endMs": 5040
+            },
+            {
+              "word": "roofs",
+              "charStart": 75,
+              "charEnd": 80,
+              "startMs": 5040,
+              "endMs": 5040
+            },
+            {
+              "word": "flooded",
+              "charStart": 82,
+              "charEnd": 89,
+              "startMs": 5660,
+              "endMs": 5660
+            },
+            {
+              "word": "the",
+              "charStart": 90,
+              "charEnd": 93,
+              "startMs": 5660,
+              "endMs": 6220
+            },
+            {
+              "word": "steps",
+              "charStart": 94,
+              "charEnd": 99,
+              "startMs": 6220,
+              "endMs": 6220
+            },
+            {
+              "word": "and",
+              "charStart": 101,
+              "charEnd": 104,
+              "startMs": 6640,
+              "endMs": 6860
+            },
+            {
+              "word": "turned",
+              "charStart": 105,
+              "charEnd": 111,
+              "startMs": 6860,
+              "endMs": 7040
+            },
+            {
+              "word": "the",
+              "charStart": 112,
+              "charEnd": 115,
+              "startMs": 7040,
+              "endMs": 7280
+            },
+            {
+              "word": "lower",
+              "charStart": 116,
+              "charEnd": 121,
+              "startMs": 7280,
+              "endMs": 7560
+            },
+            {
+              "word": "road",
+              "charStart": 122,
+              "charEnd": 126,
+              "startMs": 7560,
+              "endMs": 7840
+            },
+            {
+              "word": "into",
+              "charStart": 127,
+              "charEnd": 131,
+              "startMs": 7840,
+              "endMs": 8120
+            },
+            {
+              "word": "a",
+              "charStart": 132,
+              "charEnd": 133,
+              "startMs": 8120,
+              "endMs": 8340
+            },
+            {
+              "word": "brown",
+              "charStart": 134,
+              "charEnd": 139,
+              "startMs": 8340,
+              "endMs": 8660
+            },
+            {
+              "word": "stream",
+              "charStart": 140,
+              "charEnd": 146,
+              "startMs": 8660,
+              "endMs": 9100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One year the storms came earlier than usual, and the wells filled with muddy water. The adults argued about walls, pipes, and whose yard had caused the problem.",
+          "translation_ko": "어느 해 폭풍이 평소보다 일찍 왔고 우물에는 흙탕물이 찼어요. 어른들은 벽과 배수관, 누구의 마당이 문제인지에 대해 다투었어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "year",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1260,
+              "endMs": 1640
+            },
+            {
+              "word": "storms",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1640,
+              "endMs": 1840
+            },
+            {
+              "word": "came",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1840,
+              "endMs": 2220
+            },
+            {
+              "word": "earlier",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2640
+            },
+            {
+              "word": "than",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2640,
+              "endMs": 2940
+            },
+            {
+              "word": "usual",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3280
+            },
+            {
+              "word": "and",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 4100,
+              "endMs": 4160
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 4160,
+              "endMs": 4700
+            },
+            {
+              "word": "wells",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 4700,
+              "endMs": 4700
+            },
+            {
+              "word": "filled",
+              "charStart": 59,
+              "charEnd": 65,
+              "startMs": 4700,
+              "endMs": 5120
+            },
+            {
+              "word": "with",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 5120,
+              "endMs": 5540
+            },
+            {
+              "word": "muddy",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 5540,
+              "endMs": 5700
+            },
+            {
+              "word": "water",
+              "charStart": 77,
+              "charEnd": 82,
+              "startMs": 5700,
+              "endMs": 6080
+            },
+            {
+              "word": "The",
+              "charStart": 84,
+              "charEnd": 87,
+              "startMs": 6880,
+              "endMs": 7100
+            },
+            {
+              "word": "adults",
+              "charStart": 88,
+              "charEnd": 94,
+              "startMs": 7100,
+              "endMs": 7380
+            },
+            {
+              "word": "argued",
+              "charStart": 95,
+              "charEnd": 101,
+              "startMs": 7380,
+              "endMs": 7780
+            },
+            {
+              "word": "about",
+              "charStart": 102,
+              "charEnd": 107,
+              "startMs": 7780,
+              "endMs": 8140
+            },
+            {
+              "word": "walls",
+              "charStart": 108,
+              "charEnd": 113,
+              "startMs": 8140,
+              "endMs": 8540
+            },
+            {
+              "word": "pipes",
+              "charStart": 115,
+              "charEnd": 120,
+              "startMs": 9200,
+              "endMs": 9200
+            },
+            {
+              "word": "and",
+              "charStart": 122,
+              "charEnd": 125,
+              "startMs": 9640,
+              "endMs": 9820
+            },
+            {
+              "word": "whose",
+              "charStart": 126,
+              "charEnd": 131,
+              "startMs": 9820,
+              "endMs": 10080
+            },
+            {
+              "word": "yard",
+              "charStart": 132,
+              "charEnd": 136,
+              "startMs": 10080,
+              "endMs": 10380
+            },
+            {
+              "word": "had",
+              "charStart": 137,
+              "charEnd": 140,
+              "startMs": 10380,
+              "endMs": 10640
+            },
+            {
+              "word": "caused",
+              "charStart": 141,
+              "charEnd": 147,
+              "startMs": 10640,
+              "endMs": 10940
+            },
+            {
+              "word": "the",
+              "charStart": 148,
+              "charEnd": 151,
+              "startMs": 10940,
+              "endMs": 11460
+            },
+            {
+              "word": "problem",
+              "charStart": 152,
+              "charEnd": 159,
+              "startMs": 11460,
+              "endMs": 11460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My grandmother did not argue. She placed six clay bowls under the eaves and asked us to sit quietly.",
+          "translation_ko": "할머니는 다투지 않았어요. 처마 아래에 진흙 그릇 여섯 개를 놓고 우리에게 조용히 앉아 보라고 했어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "grandmother",
+              "charStart": 3,
+              "charEnd": 14,
+              "startMs": 260,
+              "endMs": 740
+            },
+            {
+              "word": "did",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 1080
+            },
+            {
+              "word": "not",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "argue",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "She",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2420,
+              "endMs": 2560
+            },
+            {
+              "word": "placed",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "six",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2860,
+              "endMs": 3280
+            },
+            {
+              "word": "clay",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3280,
+              "endMs": 3540
+            },
+            {
+              "word": "bowls",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3540,
+              "endMs": 3860
+            },
+            {
+              "word": "under",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3860,
+              "endMs": 4120
+            },
+            {
+              "word": "the",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 4120,
+              "endMs": 4600
+            },
+            {
+              "word": "eaves",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 4600,
+              "endMs": 4620
+            },
+            {
+              "word": "and",
+              "charStart": 72,
+              "charEnd": 75,
+              "startMs": 4820,
+              "endMs": 5420
+            },
+            {
+              "word": "asked",
+              "charStart": 76,
+              "charEnd": 81,
+              "startMs": 5420,
+              "endMs": 5640
+            },
+            {
+              "word": "us",
+              "charStart": 82,
+              "charEnd": 84,
+              "startMs": 5640,
+              "endMs": 5860
+            },
+            {
+              "word": "to",
+              "charStart": 85,
+              "charEnd": 87,
+              "startMs": 5860,
+              "endMs": 6100
+            },
+            {
+              "word": "sit",
+              "charStart": 88,
+              "charEnd": 91,
+              "startMs": 6100,
+              "endMs": 6220
+            },
+            {
+              "word": "quietly",
+              "charStart": 92,
+              "charEnd": 99,
+              "startMs": 6220,
+              "endMs": 6660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Each bowl sang a different note as rain fell into it. The high bowl rang sharply, while the cracked bowl made a low warning sound.",
+          "translation_ko": "비가 떨어질 때마다 그릇마다 다른 음을 냈어요. 높은 그릇은 날카롭게 울렸고 금 간 그릇은 낮은 경고음을 냈어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "bowl",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "sang",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "different",
+              "charStart": 17,
+              "charEnd": 26,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "note",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "as",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1620,
+              "endMs": 1900
+            },
+            {
+              "word": "rain",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "fell",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2140,
+              "endMs": 2480
+            },
+            {
+              "word": "into",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2480,
+              "endMs": 2720
+            },
+            {
+              "word": "it",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2720,
+              "endMs": 2940
+            },
+            {
+              "word": "The",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3240,
+              "endMs": 3380
+            },
+            {
+              "word": "high",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3380,
+              "endMs": 3640
+            },
+            {
+              "word": "bowl",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3640,
+              "endMs": 3820
+            },
+            {
+              "word": "rang",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 3820,
+              "endMs": 4180
+            },
+            {
+              "word": "sharply",
+              "charStart": 73,
+              "charEnd": 80,
+              "startMs": 4180,
+              "endMs": 4580
+            },
+            {
+              "word": "while",
+              "charStart": 82,
+              "charEnd": 87,
+              "startMs": 4960,
+              "endMs": 5060
+            },
+            {
+              "word": "the",
+              "charStart": 88,
+              "charEnd": 91,
+              "startMs": 5060,
+              "endMs": 5240
+            },
+            {
+              "word": "cracked",
+              "charStart": 92,
+              "charEnd": 99,
+              "startMs": 5240,
+              "endMs": 5520
+            },
+            {
+              "word": "bowl",
+              "charStart": 100,
+              "charEnd": 104,
+              "startMs": 5520,
+              "endMs": 5760
+            },
+            {
+              "word": "made",
+              "charStart": 105,
+              "charEnd": 109,
+              "startMs": 5760,
+              "endMs": 5980
+            },
+            {
+              "word": "a",
+              "charStart": 110,
+              "charEnd": 111,
+              "startMs": 5980,
+              "endMs": 6220
+            },
+            {
+              "word": "low",
+              "charStart": 112,
+              "charEnd": 115,
+              "startMs": 6220,
+              "endMs": 6440
+            },
+            {
+              "word": "warning",
+              "charStart": 116,
+              "charEnd": 123,
+              "startMs": 6440,
+              "endMs": 6800
+            },
+            {
+              "word": "sound",
+              "charStart": 124,
+              "charEnd": 129,
+              "startMs": 6800,
+              "endMs": 7160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandmother said the village had been fighting the rain without listening to where it wanted to go. So we followed the sounds downhill.",
+          "translation_ko": "할머니는 마을이 비가 어디로 가고 싶은지 듣지 않고 맞서기만 했다고 말했어요. 그래서 우리는 소리를 따라 언덕 아래로 내려갔어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandmother",
+              "charStart": 0,
+              "charEnd": 11,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "said",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "village",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "had",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1340,
+              "endMs": 1520
+            },
+            {
+              "word": "been",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1520,
+              "endMs": 1740
+            },
+            {
+              "word": "fighting",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 1740,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "rain",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 2280,
+              "endMs": 2520
+            },
+            {
+              "word": "without",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 2520,
+              "endMs": 2880
+            },
+            {
+              "word": "listening",
+              "charStart": 64,
+              "charEnd": 73,
+              "startMs": 2880,
+              "endMs": 3300
+            },
+            {
+              "word": "to",
+              "charStart": 74,
+              "charEnd": 76,
+              "startMs": 3300,
+              "endMs": 3560
+            },
+            {
+              "word": "where",
+              "charStart": 77,
+              "charEnd": 82,
+              "startMs": 3560,
+              "endMs": 3680
+            },
+            {
+              "word": "it",
+              "charStart": 83,
+              "charEnd": 85,
+              "startMs": 3680,
+              "endMs": 3900
+            },
+            {
+              "word": "wanted",
+              "charStart": 86,
+              "charEnd": 92,
+              "startMs": 3900,
+              "endMs": 4100
+            },
+            {
+              "word": "to",
+              "charStart": 93,
+              "charEnd": 95,
+              "startMs": 4100,
+              "endMs": 4360
+            },
+            {
+              "word": "go",
+              "charStart": 96,
+              "charEnd": 98,
+              "startMs": 4360,
+              "endMs": 4560
+            },
+            {
+              "word": "So",
+              "charStart": 100,
+              "charEnd": 102,
+              "startMs": 5100,
+              "endMs": 5200
+            },
+            {
+              "word": "we",
+              "charStart": 103,
+              "charEnd": 105,
+              "startMs": 5200,
+              "endMs": 5480
+            },
+            {
+              "word": "followed",
+              "charStart": 106,
+              "charEnd": 114,
+              "startMs": 5480,
+              "endMs": 5680
+            },
+            {
+              "word": "the",
+              "charStart": 115,
+              "charEnd": 118,
+              "startMs": 5680,
+              "endMs": 5960
+            },
+            {
+              "word": "sounds",
+              "charStart": 119,
+              "charEnd": 125,
+              "startMs": 5960,
+              "endMs": 6300
+            },
+            {
+              "word": "downhill",
+              "charStart": 126,
+              "charEnd": 134,
+              "startMs": 6300,
+              "endMs": 6840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We heard fast water under loose stones, slow water behind a blocked gate, and angry water where two paths crashed together.",
+          "translation_ko": "우리는 헐거운 돌 아래 빠른 물, 막힌 문 뒤 느린 물, 두 길이 부딪치는 곳의 성난 물소리를 들었어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "heard",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 440
+            },
+            {
+              "word": "fast",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 980
+            },
+            {
+              "word": "water",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "under",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1200,
+              "endMs": 1620
+            },
+            {
+              "word": "loose",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "stones",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2360
+            },
+            {
+              "word": "slow",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3060,
+              "endMs": 3120
+            },
+            {
+              "word": "water",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3120,
+              "endMs": 3420
+            },
+            {
+              "word": "behind",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 3420,
+              "endMs": 3780
+            },
+            {
+              "word": "a",
+              "charStart": 58,
+              "charEnd": 59,
+              "startMs": 3780,
+              "endMs": 4180
+            },
+            {
+              "word": "blocked",
+              "charStart": 60,
+              "charEnd": 67,
+              "startMs": 4180,
+              "endMs": 4180
+            },
+            {
+              "word": "gate",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4180,
+              "endMs": 4540
+            },
+            {
+              "word": "and",
+              "charStart": 74,
+              "charEnd": 77,
+              "startMs": 5140,
+              "endMs": 5300
+            },
+            {
+              "word": "angry",
+              "charStart": 78,
+              "charEnd": 83,
+              "startMs": 5300,
+              "endMs": 5600
+            },
+            {
+              "word": "water",
+              "charStart": 84,
+              "charEnd": 89,
+              "startMs": 5600,
+              "endMs": 5880
+            },
+            {
+              "word": "where",
+              "charStart": 90,
+              "charEnd": 95,
+              "startMs": 5880,
+              "endMs": 6160
+            },
+            {
+              "word": "two",
+              "charStart": 96,
+              "charEnd": 99,
+              "startMs": 6160,
+              "endMs": 6400
+            },
+            {
+              "word": "paths",
+              "charStart": 100,
+              "charEnd": 105,
+              "startMs": 6400,
+              "endMs": 6760
+            },
+            {
+              "word": "crashed",
+              "charStart": 106,
+              "charEnd": 113,
+              "startMs": 6760,
+              "endMs": 7160
+            },
+            {
+              "word": "together",
+              "charStart": 114,
+              "charEnd": 122,
+              "startMs": 7160,
+              "endMs": 7520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Instead of building one high wall, the villagers dug many small channels. Children lined them with smooth stones and planted reeds along the edges.",
+          "translation_ko": "높은 벽 하나를 세우는 대신 마을 사람들은 작은 물길을 많이 팠어요. 아이들은 매끈한 돌을 깔고 가장자리에 갈대를 심었어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Instead",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "of",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "building",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 820,
+              "endMs": 1040
+            },
+            {
+              "word": "one",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1040,
+              "endMs": 1500
+            },
+            {
+              "word": "high",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1880
+            },
+            {
+              "word": "wall",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2500,
+              "endMs": 2580
+            },
+            {
+              "word": "villagers",
+              "charStart": 39,
+              "charEnd": 48,
+              "startMs": 2580,
+              "endMs": 2960
+            },
+            {
+              "word": "dug",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2960,
+              "endMs": 3300
+            },
+            {
+              "word": "many",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3300,
+              "endMs": 3700
+            },
+            {
+              "word": "small",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3700,
+              "endMs": 4120
+            },
+            {
+              "word": "channels",
+              "charStart": 64,
+              "charEnd": 72,
+              "startMs": 4120,
+              "endMs": 4560
+            },
+            {
+              "word": "Children",
+              "charStart": 74,
+              "charEnd": 82,
+              "startMs": 5540,
+              "endMs": 5540
+            },
+            {
+              "word": "lined",
+              "charStart": 83,
+              "charEnd": 88,
+              "startMs": 5540,
+              "endMs": 5860
+            },
+            {
+              "word": "them",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 5860,
+              "endMs": 6080
+            },
+            {
+              "word": "with",
+              "charStart": 94,
+              "charEnd": 98,
+              "startMs": 6080,
+              "endMs": 6360
+            },
+            {
+              "word": "smooth",
+              "charStart": 99,
+              "charEnd": 105,
+              "startMs": 6360,
+              "endMs": 6620
+            },
+            {
+              "word": "stones",
+              "charStart": 106,
+              "charEnd": 112,
+              "startMs": 6620,
+              "endMs": 7140
+            },
+            {
+              "word": "and",
+              "charStart": 113,
+              "charEnd": 116,
+              "startMs": 7140,
+              "endMs": 7720
+            },
+            {
+              "word": "planted",
+              "charStart": 117,
+              "charEnd": 124,
+              "startMs": 7720,
+              "endMs": 8000
+            },
+            {
+              "word": "reeds",
+              "charStart": 125,
+              "charEnd": 130,
+              "startMs": 8000,
+              "endMs": 8460
+            },
+            {
+              "word": "along",
+              "charStart": 131,
+              "charEnd": 136,
+              "startMs": 8460,
+              "endMs": 8800
+            },
+            {
+              "word": "the",
+              "charStart": 137,
+              "charEnd": 140,
+              "startMs": 8800,
+              "endMs": 9300
+            },
+            {
+              "word": "edges",
+              "charStart": 141,
+              "charEnd": 146,
+              "startMs": 9300,
+              "endMs": 9300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next storm still sounded loud, but it no longer sounded lost. Water moved through the channels like a practiced song.",
+          "translation_ko": "다음 폭풍도 여전히 크게 들렸지만 더 이상 길 잃은 소리는 아니었어요. 물은 연습한 노래처럼 물길을 따라 움직였어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 520
+            },
+            {
+              "word": "storm",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 800
+            },
+            {
+              "word": "still",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 800,
+              "endMs": 1300
+            },
+            {
+              "word": "sounded",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "loud",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1580,
+              "endMs": 1960
+            },
+            {
+              "word": "but",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2180,
+              "endMs": 2780
+            },
+            {
+              "word": "it",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2780,
+              "endMs": 2900
+            },
+            {
+              "word": "no",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2900,
+              "endMs": 3260
+            },
+            {
+              "word": "longer",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3260,
+              "endMs": 3540
+            },
+            {
+              "word": "sounded",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3540,
+              "endMs": 3920
+            },
+            {
+              "word": "lost",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3920,
+              "endMs": 4360
+            },
+            {
+              "word": "Water",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 5480,
+              "endMs": 5500
+            },
+            {
+              "word": "moved",
+              "charStart": 72,
+              "charEnd": 77,
+              "startMs": 5500,
+              "endMs": 5860
+            },
+            {
+              "word": "through",
+              "charStart": 78,
+              "charEnd": 85,
+              "startMs": 5860,
+              "endMs": 6060
+            },
+            {
+              "word": "the",
+              "charStart": 86,
+              "charEnd": 89,
+              "startMs": 6060,
+              "endMs": 6300
+            },
+            {
+              "word": "channels",
+              "charStart": 90,
+              "charEnd": 98,
+              "startMs": 6300,
+              "endMs": 6560
+            },
+            {
+              "word": "like",
+              "charStart": 99,
+              "charEnd": 103,
+              "startMs": 6560,
+              "endMs": 6840
+            },
+            {
+              "word": "a",
+              "charStart": 104,
+              "charEnd": 105,
+              "startMs": 6840,
+              "endMs": 7220
+            },
+            {
+              "word": "practiced",
+              "charStart": 106,
+              "charEnd": 115,
+              "startMs": 7220,
+              "endMs": 7480
+            },
+            {
+              "word": "song",
+              "charStart": 116,
+              "charEnd": 120,
+              "startMs": 7480,
+              "endMs": 7960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The lower road stayed dry enough for the baker to deliver bread. The wells cleared by morning.",
+          "translation_ko": "아래쪽 길은 빵집 아저씨가 빵을 배달할 수 있을 만큼 말라 있었어요. 우물은 아침까지 맑아졌어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "lower",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "road",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "stayed",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 940,
+              "endMs": 1600
+            },
+            {
+              "word": "dry",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1960
+            },
+            {
+              "word": "enough",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 2260
+            },
+            {
+              "word": "for",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2540
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2540,
+              "endMs": 2740
+            },
+            {
+              "word": "baker",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2740,
+              "endMs": 2980
+            },
+            {
+              "word": "to",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2980,
+              "endMs": 3340
+            },
+            {
+              "word": "deliver",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 3340,
+              "endMs": 3580
+            },
+            {
+              "word": "bread",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3580,
+              "endMs": 3940
+            },
+            {
+              "word": "The",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 4560,
+              "endMs": 4680
+            },
+            {
+              "word": "wells",
+              "charStart": 69,
+              "charEnd": 74,
+              "startMs": 4680,
+              "endMs": 5040
+            },
+            {
+              "word": "cleared",
+              "charStart": 75,
+              "charEnd": 82,
+              "startMs": 5040,
+              "endMs": 5500
+            },
+            {
+              "word": "by",
+              "charStart": 83,
+              "charEnd": 85,
+              "startMs": 5500,
+              "endMs": 5800
+            },
+            {
+              "word": "morning",
+              "charStart": 86,
+              "charEnd": 93,
+              "startMs": 5800,
+              "endMs": 6120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After that, every roof kept a rain chain, and every classroom kept a listening bowl. We learned the names of drizzle, hurry-rain, and warning-rain.",
+          "translation_ko": "그 뒤로 지붕마다 빗줄 사슬이 생기고 교실마다 듣는 그릇이 놓였어요. 우리는 이슬비, 서두르는 비, 경고하는 비의 이름을 배웠어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 30,
+              "endMs": 436
+            },
+            {
+              "word": "that",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 436,
+              "endMs": 764
+            },
+            {
+              "word": "every",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 764,
+              "endMs": 1342
+            },
+            {
+              "word": "roof",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1342,
+              "endMs": 1575
+            },
+            {
+              "word": "kept",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1575,
+              "endMs": 1808
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 1808,
+              "endMs": 2041
+            },
+            {
+              "word": "rain",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2041,
+              "endMs": 2274
+            },
+            {
+              "word": "chain",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2274,
+              "endMs": 2602
+            },
+            {
+              "word": "and",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2602,
+              "endMs": 2835
+            },
+            {
+              "word": "every",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2835,
+              "endMs": 3413
+            },
+            {
+              "word": "classroom",
+              "charStart": 52,
+              "charEnd": 61,
+              "startMs": 3413,
+              "endMs": 3819
+            },
+            {
+              "word": "kept",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3819,
+              "endMs": 4052
+            },
+            {
+              "word": "a",
+              "charStart": 67,
+              "charEnd": 68,
+              "startMs": 4052,
+              "endMs": 4285
+            },
+            {
+              "word": "listening",
+              "charStart": 69,
+              "charEnd": 78,
+              "startMs": 4285,
+              "endMs": 4863
+            },
+            {
+              "word": "bowl",
+              "charStart": 79,
+              "charEnd": 83,
+              "startMs": 4863,
+              "endMs": 5252
+            },
+            {
+              "word": "We",
+              "charStart": 85,
+              "charEnd": 87,
+              "startMs": 5252,
+              "endMs": 5485
+            },
+            {
+              "word": "learned",
+              "charStart": 88,
+              "charEnd": 95,
+              "startMs": 5485,
+              "endMs": 5890
+            },
+            {
+              "word": "the",
+              "charStart": 96,
+              "charEnd": 99,
+              "startMs": 5890,
+              "endMs": 6123
+            },
+            {
+              "word": "names",
+              "charStart": 100,
+              "charEnd": 105,
+              "startMs": 6123,
+              "endMs": 6529
+            },
+            {
+              "word": "of",
+              "charStart": 106,
+              "charEnd": 108,
+              "startMs": 6529,
+              "endMs": 6762
+            },
+            {
+              "word": "drizzle",
+              "charStart": 109,
+              "charEnd": 116,
+              "startMs": 6762,
+              "endMs": 7090
+            },
+            {
+              "word": "hurry-rain",
+              "charStart": 118,
+              "charEnd": 128,
+              "startMs": 7090,
+              "endMs": 7763
+            },
+            {
+              "word": "and",
+              "charStart": 130,
+              "charEnd": 133,
+              "startMs": 7763,
+              "endMs": 7996
+            },
+            {
+              "word": "warning-rain",
+              "charStart": 134,
+              "charEnd": 146,
+              "startMs": 7996,
+              "endMs": 8730
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The rain had not become smaller, and our village had not become stronger by force. We had simply become better listeners.",
+          "translation_ko": "비가 작아진 것도 아니고 마을이 힘으로 강해진 것도 아니었어요. 우리는 그저 더 잘 듣는 마을이 되었어요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "rain",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 560
+            },
+            {
+              "word": "had",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "not",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1060
+            },
+            {
+              "word": "become",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1440
+            },
+            {
+              "word": "smaller",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1440,
+              "endMs": 1840
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2080,
+              "endMs": 2420
+            },
+            {
+              "word": "our",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2420,
+              "endMs": 2620
+            },
+            {
+              "word": "village",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2620,
+              "endMs": 2860
+            },
+            {
+              "word": "had",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2860,
+              "endMs": 3080
+            },
+            {
+              "word": "not",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3080,
+              "endMs": 3280
+            },
+            {
+              "word": "become",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3280,
+              "endMs": 3640
+            },
+            {
+              "word": "stronger",
+              "charStart": 64,
+              "charEnd": 72,
+              "startMs": 3640,
+              "endMs": 4000
+            },
+            {
+              "word": "by",
+              "charStart": 73,
+              "charEnd": 75,
+              "startMs": 4000,
+              "endMs": 4300
+            },
+            {
+              "word": "force",
+              "charStart": 76,
+              "charEnd": 81,
+              "startMs": 4300,
+              "endMs": 4700
+            },
+            {
+              "word": "We",
+              "charStart": 83,
+              "charEnd": 85,
+              "startMs": 5200,
+              "endMs": 5280
+            },
+            {
+              "word": "had",
+              "charStart": 86,
+              "charEnd": 89,
+              "startMs": 5280,
+              "endMs": 5480
+            },
+            {
+              "word": "simply",
+              "charStart": 90,
+              "charEnd": 96,
+              "startMs": 5480,
+              "endMs": 5800
+            },
+            {
+              "word": "become",
+              "charStart": 97,
+              "charEnd": 103,
+              "startMs": 5800,
+              "endMs": 6260
+            },
+            {
+              "word": "better",
+              "charStart": 104,
+              "charEnd": 110,
+              "startMs": 6260,
+              "endMs": 6800
+            },
+            {
+              "word": "listeners",
+              "charStart": 111,
+              "charEnd": 120,
+              "startMs": 6800,
+              "endMs": 7120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When new clouds gather now, nobody says, Here comes trouble. We say, Let us hear what the hill needs today.",
+          "translation_ko": "이제 새 구름이 모이면 아무도 문제가 온다고 말하지 않아요. 우리는 오늘 언덕이 무엇을 원하는지 들어 보자고 말해요.",
+          "audio": "/seed/the-village-that-listened-to-rain/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "new",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 600
+            },
+            {
+              "word": "clouds",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "gather",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "now",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1720
+            },
+            {
+              "word": "nobody",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "says",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2780
+            },
+            {
+              "word": "Here",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3060,
+              "endMs": 3180
+            },
+            {
+              "word": "comes",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3180,
+              "endMs": 3500
+            },
+            {
+              "word": "trouble",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3500,
+              "endMs": 3820
+            },
+            {
+              "word": "We",
+              "charStart": 61,
+              "charEnd": 63,
+              "startMs": 4460,
+              "endMs": 4620
+            },
+            {
+              "word": "say",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 4620,
+              "endMs": 4940
+            },
+            {
+              "word": "Let",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 5340,
+              "endMs": 5400
+            },
+            {
+              "word": "us",
+              "charStart": 73,
+              "charEnd": 75,
+              "startMs": 5400,
+              "endMs": 5600
+            },
+            {
+              "word": "hear",
+              "charStart": 76,
+              "charEnd": 80,
+              "startMs": 5600,
+              "endMs": 5800
+            },
+            {
+              "word": "what",
+              "charStart": 81,
+              "charEnd": 85,
+              "startMs": 5800,
+              "endMs": 5980
+            },
+            {
+              "word": "the",
+              "charStart": 86,
+              "charEnd": 89,
+              "startMs": 5980,
+              "endMs": 6200
+            },
+            {
+              "word": "hill",
+              "charStart": 90,
+              "charEnd": 94,
+              "startMs": 6200,
+              "endMs": 6400
+            },
+            {
+              "word": "needs",
+              "charStart": 95,
+              "charEnd": 100,
+              "startMs": 6400,
+              "endMs": 6740
+            },
+            {
+              "word": "today",
+              "charStart": 101,
+              "charEnd": 106,
+              "startMs": 6740,
+              "endMs": 7140
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "비를 듣는 마을에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "빗소리를 듣는 언덕 마을",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "빗소리를 듣는 언덕 마을이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "비가 많은 언덕 마을",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "비가 많은 언덕 마을에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "빗물이 길을 넘치게 했어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "빗물이 길을 넘치게 했어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "빗소리를 구별하는 그릇과 물길",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "빗소리를 구별하는 그릇과 물길이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "자연의 소리를 듣고 함께 바꾸는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "자연의 소리를 듣고 함께 바꾸는 마음을 배워요."
+    }
+  ]
+}

@@ -1,0 +1,1075 @@
+{
+  "slug": "the-singing-frog",
+  "title": "The Singing Frog",
+  "title_ko": "노래하는 개구리",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "밤마다 혼자 노래하던 개구리가 용기를 내어 연못 친구들과 함께 합창을 이끄는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A green frog sat on a lily pad.",
+          "translation_ko": "초록 개구리가 연잎 위에 앉아 있었어요.",
+          "audio": "/seed/the-singing-frog/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "green",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "frog",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 1060
+            },
+            {
+              "word": "sat",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "on",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1460,
+              "endMs": 1660
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1660,
+              "endMs": 1800
+            },
+            {
+              "word": "lily",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "pad",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1980,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "Every night, he sang a quiet song.",
+          "translation_ko": "밤마다 개구리는 조용한 노래를 불렀어요.",
+          "audio": "/seed/the-singing-frog/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "he",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 1020
+            },
+            {
+              "word": "sang",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "quiet",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "song",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 2060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He sang only in the dark.",
+          "translation_ko": "개구리는 어두울 때만 노래했어요.",
+          "audio": "/seed/the-singing-frog/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "sang",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 640
+            },
+            {
+              "word": "only",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 1060
+            },
+            {
+              "word": "in",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1060,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1280,
+              "endMs": 1460
+            },
+            {
+              "word": "dark",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "He was shy, so he sang alone.",
+          "translation_ko": "수줍음이 많아서 혼자서만 노래를 불렀거든요.",
+          "audio": "/seed/the-singing-frog/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 160,
+              "endMs": 360
+            },
+            {
+              "word": "shy",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "so",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1200,
+              "endMs": 1280
+            },
+            {
+              "word": "he",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1280,
+              "endMs": 1560
+            },
+            {
+              "word": "sang",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1560,
+              "endMs": 1660
+            },
+            {
+              "word": "alone",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One night, a fish heard the song.",
+          "translation_ko": "어느 날 밤, 물고기 한 마리가 그 노래를 들었어요.",
+          "audio": "/seed/the-singing-frog/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "night",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1340
+            },
+            {
+              "word": "fish",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1340,
+              "endMs": 1400
+            },
+            {
+              "word": "heard",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "song",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2000,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "\"That is so pretty!\" she said.",
+          "translation_ko": "\"정말 예쁜 노래야!\" 물고기가 말했어요.",
+          "audio": "/seed/the-singing-frog/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 1000
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "so",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1240,
+              "endMs": 1740
+            },
+            {
+              "word": "pretty",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1740,
+              "endMs": 2640
+            },
+            {
+              "word": "she",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2820,
+              "endMs": 3060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The frog stopped and hid his face.",
+          "translation_ko": "개구리는 노래를 멈추고 얼굴을 가렸어요.",
+          "audio": "/seed/the-singing-frog/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "frog",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "stopped",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 960
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1480
+            },
+            {
+              "word": "hid",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "his",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "face",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1900,
+              "endMs": 2220
+            }
+          ]
+        },
+        {
+          "text": "\"Please sing again,\" said the fish.",
+          "translation_ko": "\"다시 불러 줘.\" 물고기가 부탁했어요.",
+          "audio": "/seed/the-singing-frog/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Please",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "sing",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "again",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 700,
+              "endMs": 1260
+            },
+            {
+              "word": "said",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1600
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1780
+            },
+            {
+              "word": "fish",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "So the frog took a deep breath.",
+          "translation_ko": "그래서 개구리는 깊게 숨을 들이쉬었어요.",
+          "audio": "/seed/the-singing-frog/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 380,
+              "endMs": 580
+            },
+            {
+              "word": "frog",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "took",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1460
+            },
+            {
+              "word": "deep",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 1660
+            },
+            {
+              "word": "breath",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "Then he sang, and the fish smiled.",
+          "translation_ko": "그러고는 노래를 불렀고, 물고기는 미소 지었어요.",
+          "audio": "/seed/the-singing-frog/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "he",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "sang",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1580,
+              "endMs": 1740
+            },
+            {
+              "word": "fish",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "smiled",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A bird and a turtle came to listen.",
+          "translation_ko": "새와 거북이도 노래를 들으러 다가왔어요.",
+          "audio": "/seed/the-singing-frog/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "bird",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "and",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1200
+            },
+            {
+              "word": "turtle",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1220
+            },
+            {
+              "word": "came",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1220,
+              "endMs": 1700
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "listen",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2000,
+              "endMs": 2160
+            }
+          ]
+        },
+        {
+          "text": "\"Can we sing with you?\" they asked.",
+          "translation_ko": "\"우리도 같이 불러도 돼?\" 둘이 물었어요.",
+          "audio": "/seed/the-singing-frog/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "we",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 560
+            },
+            {
+              "word": "sing",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 760
+            },
+            {
+              "word": "with",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "you",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1800
+            },
+            {
+              "word": "they",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 1940
+            },
+            {
+              "word": "asked",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The frog felt warm and happy.",
+          "translation_ko": "개구리는 마음이 따뜻하고 행복해졌어요.",
+          "audio": "/seed/the-singing-frog/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "frog",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "felt",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 1080
+            },
+            {
+              "word": "warm",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1460,
+              "endMs": 1800
+            },
+            {
+              "word": "happy",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "\"Yes! Let's sing together,\" he said.",
+          "translation_ko": "\"좋아! 우리 함께 부르자.\" 개구리가 말했어요.",
+          "audio": "/seed/the-singing-frog/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 1080
+            },
+            {
+              "word": "Let's",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 1560,
+              "endMs": 2000
+            },
+            {
+              "word": "sing",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 2000,
+              "endMs": 2200
+            },
+            {
+              "word": "together",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 2200,
+              "endMs": 3020
+            },
+            {
+              "word": "he",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 3020,
+              "endMs": 3180
+            },
+            {
+              "word": "said",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 3180,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The frog led the song.",
+          "translation_ko": "개구리가 노래를 이끌었어요.",
+          "audio": "/seed/the-singing-frog/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "frog",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "led",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "song",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1620,
+              "endMs": 1880
+            }
+          ]
+        },
+        {
+          "text": "The whole pond began to sing.",
+          "translation_ko": "연못 전체가 노래하기 시작했어요.",
+          "audio": "/seed/the-singing-frog/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "whole",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 660
+            },
+            {
+              "word": "pond",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 1080
+            },
+            {
+              "word": "began",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1540
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1900
+            },
+            {
+              "word": "sing",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1900,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now the frog is not shy.",
+          "translation_ko": "이제 개구리는 부끄러워하지 않아요.",
+          "audio": "/seed/the-singing-frog/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "frog",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "not",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1460
+            },
+            {
+              "word": "shy",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 1720
+            }
+          ]
+        },
+        {
+          "text": "Every night, all the pond friends sing together.",
+          "translation_ko": "밤마다 연못 친구들이 모두 함께 노래해요.",
+          "audio": "/seed/the-singing-frog/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "all",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1460
+            },
+            {
+              "word": "pond",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 1560
+            },
+            {
+              "word": "friends",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1560,
+              "endMs": 1920
+            },
+            {
+              "word": "sing",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "together",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2160,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "개구리는 어디에 앉아 있었나요?",
+      "type": "mc",
+      "options": [
+        "연잎 위",
+        "바위 위",
+        "나무 위",
+        "모래 위"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "개구리는 작은 초록 연잎 위에 앉아 노래했어요."
+    },
+    {
+      "question_ko": "개구리는 처음에 언제 노래했나요?",
+      "type": "mc",
+      "options": [
+        "아침에",
+        "낮에",
+        "밤에",
+        "비 올 때"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "개구리는 연못이 어두워지는 밤마다 노래했어요."
+    },
+    {
+      "question_ko": "개구리의 노래를 가장 먼저 들은 동물은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "새",
+        "거북이",
+        "물고기",
+        "오리"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "물고기가 가장 먼저 노래를 듣고 예쁘다고 칭찬했어요."
+    },
+    {
+      "question_ko": "새와 거북이는 개구리에게 무엇을 물었나요?",
+      "type": "mc",
+      "options": [
+        "같이 불러도 되는지",
+        "노래를 멈춰 달라고",
+        "집이 어디인지",
+        "물이 어디인지"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "새와 거북이는 함께 노래해도 되는지 물었어요."
+    },
+    {
+      "question_ko": "이 이야기가 우리에게 알려 주는 것은 무엇일까요?",
+      "type": "mc",
+      "options": [
+        "혼자 있는 게 가장 좋다",
+        "용기를 내면 함께 즐거워진다",
+        "노래는 어렵다",
+        "밤은 무섭다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "부끄러움을 이기고 용기를 내자 모두가 함께 노래하는 기쁨을 나누게 되었어요."
+    }
+  ]
+}

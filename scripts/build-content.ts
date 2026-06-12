@@ -32,11 +32,42 @@ function walkAssets(dir: string, base = "/seed"): string[] {
   return out;
 }
 
+/** 시드 fail-fast 검증 — 깨진 권은 슬러그 명시 에러로 즉시 중단 */
+function validateBook(
+  b: {
+    slug?: string;
+    pages?: { sentences?: { text?: string }[] }[];
+    quiz?: { options?: string[]; answerIndex?: number }[];
+  } & Record<string, unknown>,
+  file: string,
+) {
+  const slug = b.slug || file;
+  const fail = (msg: string): never => {
+    throw new Error(`시드 검증 실패 [${slug}] (${file}): ${msg}`);
+  };
+  for (const k of ["slug", "title", "title_ko", "level", "ageBand", "summary_ko", "words", "quiz"])
+    if (b[k] == null || b[k] === "") fail(`필수 필드 누락: ${k}`);
+  if (!Array.isArray(b.pages) || b.pages.length === 0) fail("pages 빈 배열");
+  b.pages!.forEach((p, pi) => {
+    if (!Array.isArray(p.sentences) || p.sentences.length === 0)
+      fail(`page ${pi + 1} sentences 빈 배열`);
+  });
+  (b.quiz ?? []).forEach((q, qi) => {
+    const n = q.options?.length ?? 0;
+    if (typeof q.answerIndex !== "number" || q.answerIndex < 0 || q.answerIndex >= n)
+      fail(`quiz ${qi + 1} answerIndex(${q.answerIndex}) 범위 초과 (options ${n}개)`);
+  });
+}
+
 function main() {
   const books = readdirSync(SEED_DIR)
     .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
     .sort()
-    .map((f) => JSON.parse(readFileSync(join(SEED_DIR, f), "utf8")));
+    .map((f) => {
+      const b = JSON.parse(readFileSync(join(SEED_DIR, f), "utf8"));
+      validateBook(b, f);
+      return b;
+    });
 
   const dictFile = join(SEED_DIR, "_words.json");
   const dict = existsSync(dictFile)

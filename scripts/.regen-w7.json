@@ -1,0 +1,165 @@
+[
+  {
+    "slug": "blue-fish-blows-bubbles",
+    "p": 3,
+    "char": "a small round blue fish with big eyes",
+    "s": "Underwater scene: ONE single round bubble drifts past a friendly orange CRAB walking on the sandy sea floor; the small round blue fish watches from nearby. The crab is the clear co-subject. NOT a starfish, NO starfish anywhere, not a cluster of many bubbles — one main bubble."
+  },
+  {
+    "slug": "little-cloud-and-the-rainbow",
+    "p": 1,
+    "char": "a small white cloud with a soft happy face",
+    "s": "A small white happy cloud floats high in a bright blue sunny sky above gentle green hills. Light, airy, cheerful opening scene. NO rain, NO raindrops, NO rainbow (the rainbow appears only later in the book), NO grey heavy clouds."
+  },
+  {
+    "slug": "the-lost-mitten",
+    "p": 7,
+    "char": "Mia: a child in a blue winter coat, white pompom hat, beige scarf, brown boots (EXACT match to the cover)",
+    "s": "Mia kneels in the snow, smiling kindly at a SQUIRREL and a RED FOX who are snuggled warm and happy with the one red wool mitten. Mia's hands are BARE or one mitten only on one hand — she is sharing her mitten. STRICT: the animals are ONLY a squirrel and a red fox — NO rabbit, NO mouse, NO chipmunk, NO hedgehog; exactly ONE red mitten in the image."
+  },
+  {
+    "slug": "the-shy-turtle",
+    "p": 5,
+    "char": "a small green turtle with a patterned shell named Tilly",
+    "s": "By the pond: Tilly the small green turtle slowly peeks her head out of her patterned shell, shy but curious; FRED THE GREEN FROG sits right beside her giving a warm friendly smile. STRICT: Fred is a green FROG (same frog design as the rest of the book), NOT a rabbit, NO rabbit anywhere."
+  },
+  {
+    "slug": "morning-rainbow-smiles",
+    "p": 6,
+    "char": "a soft rainbow with a gentle smiling face",
+    "s": "A big friendly close-up of the soft morning rainbow itself smiling warmly across a bright sky, gentle face on the rainbow arc, joyful glowing finale mood. STRICT: composition must be DIFFERENT from p4 — NOT a window view, NO window frame; the smiling rainbow is the clear single subject."
+  },
+  {
+    "slug": "the-bakers-tiny-helper",
+    "p": 10,
+    "anchor": "p2.png",
+    "char": "an OLD baker with WHITE hair (same man as p2: same hat and apron); a tidy little mouse",
+    "s": "Cozy final scene: the OLD white-haired baker and the tiny mouse share the quiet warm bakery together as good friends — the baker works at his table while the mouse sits near him, both content. STRICT: the baker is an OLD man with WHITE hair (NOT young, NOT brown hair), same hat/apron as the reference."
+  },
+  {
+    "slug": "the-island-of-forgotten-songs",
+    "p": 2,
+    "char": "Mara and Theo: two young friends (a girl and a boy, same design as the cover); an old fisherman",
+    "s": "Night on the village dock by the sea: the OLD weathered FISHERMAN leans forward in the lantern light and tells Mara and Theo the legend — pointing out toward the dark sea horizon where, far away, lies an island of forgotten songs; the two children listen wide-eyed, leaning in. STRICT: NIGHT scene with the fisherman actively telling the legend and gesturing to the sea; must be visually DISTINCT from p1 (not a generic evening overview of the village)."
+  },
+  {
+    "slug": "the-lighthouse-keepers-promise",
+    "p": 9,
+    "char": "Elias's tall red-and-white striped lighthouse on the cliff; a small fishing boat with frightened young sailors",
+    "s": "Far out on the BLACK stormy night water: lost, frightened young sailors on a small fishing boat search the dark horizon for any sign of hope — and on the distant cliff the lighthouse TOWER TOP stays completely DARK, with only ONE tiny warm golden LANTERN glow in a small window near its base. STRICT: NO giant rotating beam — the lamp room is dark; only a tiny golden window glow; rough black sea, rain."
+  },
+  {
+    "slug": "the-backyard-camp",
+    "p": 1,
+    "char": "a family (children and Dad) at home, same art style as the cover",
+    "s": "Rainy-day opening indoors: the children and Dad stand at the living-room WINDOW looking out at the rain, disappointed — they could not drive to the forest today; gray wet glass, cozy but wistful indoor light. STRICT: NO tent anywhere in this scene (the blanket tent is built later in the book)."
+  },
+  {
+    "slug": "the-blue-door",
+    "p": 8,
+    "char": "a bright blue door in an old garden wall (same design as the cover)",
+    "s": "Hopeful ending: early next-morning light — the child gazes from a distance toward the bright BLUE DOOR in the garden wall, full of anticipation about visiting the flower path again tomorrow; the door is CLOSED, soft morning glow, longing happy mood. STRICT: the door is closed and seen from afar (or through a morning window); must be visually DISTINCT from p7 (not the same closing-the-door-at-dusk moment)."
+  },
+  {
+    "slug": "the-bridge-between-two-hills",
+    "p": 11,
+    "char": "Pip the young rabbit and Tam the young MOLE (brown velvety fur, tiny eyes, pink nose, shovel-like paws); rabbit and mole villagers (same art style as the cover)",
+    "s": "Joyful crossing: hand in paw, Pip the rabbit and Tam the MOLE walk back and forth across the finished bridge they built together — behind them, rabbits from the west hill and MOLES from the east hill stream onto the bridge, eager to finally meet; bright happy daylight. STRICT: Tam and the east-hill villagers are MOLES (velvety brown, tiny eyes, pink noses), NOT squirrels."
+  },
+  {
+    "slug": "the-wandering-seed-cart",
+    "p": 8,
+    "char": "the village neighbors and the wooden seed cart (same art style as the cover)",
+    "s": "Joyful sharing: several different NEIGHBORS around the village each hold up a small SEED PACKET with a little name-tag label — delighted, showing each other, as if every packet was written just for them; the wooden cart nearby, warm community happiness. STRICT: multiple neighbors each happily HOLDING their own labeled packet (labels are tiny blank tags with NO legible letters); must be visually DISTINCT from p10 (no dusk departure, no thank-you notes in the cart)."
+  },
+  {
+    "slug": "the-mirror-lake-promise",
+    "p": 9,
+    "char": "a mountain lake at night, slowly turning clear again (same art style as the cover)",
+    "s": "Quiet NIGHT on the lake: the MOON's reflection on the dark water — once broken into scattered pieces — now JOINS into one single trembling glowing CIRCLE on the calming surface; reeds silhouetted, deep blue night sky, hopeful stillness. STRICT: a NIGHT scene focused on the moon reflection forming one circle on the water; must be visually DISTINCT from p7 — NO daytime, NO school, NO map, NO planting grass (those belong to p7)."
+  },
+  {
+    "slug": "the-paper-dragon-race",
+    "p": 7,
+    "char": "school children folding colorful paper dragons at classroom desks (same design as the cover)",
+    "s": "Back INDOORS at the classroom desks: the children REFOLD their paper dragons for the second race — making the WINGS noticeably WIDER and the TAILS SHORTER, busy hands creasing paper, scissors and scraps about, determined teamwork energy. STRICT: an INDOOR crafting scene of refolding wider wings and shorter tails — absolutely NO stream, NOT floating on water."
+  },
+  {
+    "slug": "the-littlest-firefly",
+    "p": 7,
+    "char": "a tiny firefly with a faint glowing tail",
+    "s": "Happy night walk home: the tiny firefly flies low and lights the way, step by step, while the small BEETLE walks happily beside it along a soft grassy forest path toward home — the beetle SMILING gratefully up at the firefly, warm gentle glow on the path ahead. STRICT: this page must be visually DISTINCT from p4 (the lost scene) — the beetle is HAPPY and walking home, NOT lost, NOT worried, NOT crouched in deep shadows; a moving-forward homeward journey composition."
+  },
+  {
+    "slug": "the-greenhouse-in-winter",
+    "p": 1,
+    "char": "Mina: a young grandchild in cozy winter clothes (same design as the cover); a small winter farm",
+    "s": "Quiet opening INDOORS at the farmhouse: snow falls softly over the small winter farm, and Mina presses her warm hand flat against the COLD window glass, watching the snowflakes drift outside — faint hand-warmth mist on the pane, hushed wintry light, the snowy garden beyond the window. STRICT: NO greenhouse interior yet — the glass greenhouse does not appear in this scene (at most a distant snowy silhouette outside); this is a child-at-the-window opening, NOT a plant-tending scene."
+  },
+  {
+    "slug": "the-greenhouse-in-winter",
+    "p": 4,
+    "char": "a grandmother and her grandchild Mina tending plants in a glass greenhouse (same design as the cover)",
+    "s": "Inside the warm glass greenhouse while snow falls outside the panes: GRANDMA gently cups a small pot of dark soil and softly tells Mina that the seeds are sleeping now, with spring hiding inside each one — Mina leans close, listening with wonder; rows of pots and dormant seedlings, soft warm light against the white winter outside. STRICT: this is a GREENHOUSE scene with grandmother and child — absolutely NOT a Korean classroom presentation, NO school desks, NO chalkboard, NO students; only Grandma and Mina among the plants."
+  },
+  {
+    "slug": "the-last-train-to-morning",
+    "p": 4,
+    "char": "a small night train glowing softly on silver tracks",
+    "s": "The small night train glides WITHOUT a sound through the dark countryside, passing sleeping houses where small BLUE DREAMS flicker softly in the windows like tiny blue flames — hushed, wordless mood, silver tracks gleaming under the night sky. STRICT: must be visually DISTINCT from p3 (no interior passenger close-ups of the baker/student) — this is an EXTERIOR travelling view of the quiet train passing houses with faint blue dream-light in their windows."
+  },
+  {
+    "slug": "the-last-train-to-morning",
+    "p": 6,
+    "char": "a small night train glowing softly on silver tracks; its passengers inside the warm carriage",
+    "s": "At the second stop inside the warm carriage: the young STUDENT stands and PRACTICES an apology — speaking the words again and again until they stop shaking, one hand pressed to the chest, earnest trembling-but-braver expression — while the other passengers listen kindly; the train lamps glow visibly BRIGHTER around them. STRICT: must be visually DISTINCT from p5 (NOT the baker telling the ruined-loaf story, NO bread, NO flour) — the focus is the student rehearsing the apology and the brightening carriage lights."
+  },
+  {
+    "slug": "the-last-train-to-morning",
+    "p": 11,
+    "char": "a small night train glowing softly on silver tracks; the young narrator passenger",
+    "s": "BRIGHT MORNING arrival: the young passenger steps down from the small train onto the morning PLATFORM bathed in warm golden-pearl DAYLIGHT — standing tall and calm, carrying the once-frightening question lightly now, fresh morning sky, the quiet train resting behind; hopeful unlocked feeling. STRICT: full MORNING DAYLIGHT scene — absolutely NO night sky, NO crescent moon, NO stars; the sky is bright morning gold and pale blue."
+  },
+  {
+    "slug": "the-last-train-to-morning",
+    "p": 12,
+    "char": "a small night train glowing softly on silver tracks; the young narrator passenger and a friend",
+    "s": "NIGHT again behind the clock tower: the young passenger returns knowing the way and steps calmly UP into the softly glowing train — and this time NOT alone, a friend climbing aboard beside them, both smiling gently at the open carriage door; warm window light spilling onto the dark platform. STRICT: a NIGHT re-boarding scene (boarding the train, companions together) — must be visually DISTINCT from p10 (NO pearl-gray dawn sky, NO worries folded on seats, not an interior leaving scene); deep night sky, the moment of getting ON the train."
+  },
+  {
+    "slug": "the-quiet-library-of-clouds",
+    "p": 2,
+    "char": "a floating library made of clouds and paper ladders; the child is a BOY (short hair) — NOT a girl",
+    "s": "The BOY climbs the unfolded PAPER LADDER high above his rooftop toward the floating cloud library — gripping the cool soft paper rungs that are stronger than they look, his house small below, the white cloud balconies waiting above; airy daring ascent. STRICT: the climbing child is a BOY with short hair — NOT a girl; the focus is the boy climbing the paper ladder between roof and cloud library."
+  },
+  {
+    "slug": "the-quiet-library-of-clouds",
+    "p": 4,
+    "char": "a floating library made of clouds and paper ladders; a gentle cloud librarian; the child is a BOY (short hair) — NOT a girl",
+    "s": "Inside the cloud library: the gentle CLOUD LIBRARIAN explains to the BOY that unread stories slowly become MIST — she gestures toward a shelf where a few faint books are softly dissolving into pale fog, forgetting their own shapes; the boy listens with wide thoughtful eyes; drifting shelves like sleeping whales around them. STRICT: the child is a BOY with short hair — NOT a girl; must be visually DISTINCT from p5 (the boy is NOT hiding a book under his coat, NO paling bright book in his hands) — this is the librarian's quiet explaining moment with misting books on the shelf."
+  },
+  {
+    "slug": "the-quiet-library-of-clouds",
+    "p": 6,
+    "char": "a floating library made of clouds and paper ladders; a gentle cloud librarian; the child is a BOY (short hair) — NOT a girl",
+    "s": "The kind cloud librarian — not scolding at all — OPENS a tall window in the cloud library wall, and far BELOW on the wet streets a group of CHILDREN can be seen waiting under eaves for the rain to stop, looking small and gray; the BOY stands beside her, peering down, the bright book still in his hands. STRICT: the child in the library is a BOY with short hair — NOT a girl; the open WINDOW with waiting children visible far below is the clear focus."
+  },
+  {
+    "slug": "the-quiet-library-of-clouds",
+    "p": 8,
+    "char": "a floating library made of clouds and paper ladders; the child is a BOY (short hair) — NOT a girl",
+    "s": "Warm turning point at the open cloud-library window: the CHILDREN far below LOOK UP with brightening faces, and in the BOY's hands the once-pale book grows WARM — its faded cover filling with rich BLUE color again, a soft glow around it; grateful joyful relief on the boy's face. STRICT: the child holding the book is a BOY with short hair — NOT a girl; the book's cover is visibly turning BLUE again; must be visually DISTINCT from p11 (NOT receiving a blank white book from the librarian — this is the boy's own book re-coloring at the window)."
+  },
+  {
+    "slug": "the-quiet-library-of-clouds",
+    "p": 10,
+    "char": "a floating library made of clouds and paper ladders; a gentle cloud librarian; the child is a BOY (short hair) — NOT a girl",
+    "s": "Time to leave the cloud library: the BOY stands before the gentle cloud librarian and ASKS hopefully if he may keep one book — gesturing toward the drifting shelves, an asking pleading posture, the librarian listening with a soft knowing smile; quiet farewell mood among the cloud shelves. STRICT: the child is a BOY with short hair — NOT a girl; this is the ASKING moment (the boy requesting, the librarian not yet handing anything over)."
+  },
+  {
+    "slug": "the-quiet-library-of-clouds",
+    "p": 11,
+    "char": "a floating library made of clouds and paper ladders; a gentle cloud librarian; the child is a BOY (short hair) — NOT a girl",
+    "s": "Gift moment: the cloud librarian gently PLACES a WHITE BOOK with a completely BLANK EMPTY COVER into the BOY's open hands — telling him to fill it with a story someone else can borrow, for that is the only kind that stays; the boy receives it with both hands, moved and thoughtful, soft cloud-light around them. STRICT: the child is a BOY with short hair — NOT a girl; the book being handed over is plain WHITE with a BLANK cover (no color, no pictures, no letters); must be visually DISTINCT from p8 (NOT a blue re-coloring book at a window — this is the librarian handing the empty white book)."
+  }
+]

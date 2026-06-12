@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "sleepy-bear-yawns",
+    "where": "quiz#3",
+    "severity": "high",
+    "issue": "Korean question says '곰이 이로 한 일' which means 'what did the bear do with his teeth/as a tool', so it is misleading for brushing teeth.",
+    "suggestion": "Change question_ko to '곰은 이를 어떻게 했나요?'"
+  },
+  {
+    "slug": "kitten-and-the-yarn",
+    "where": "global",
+    "severity": "med",
+    "issue": "preA1 level is stretched by several items at once: 'ball of yarn', 'taps', 'paw', 'wraps around', and 'all tangled up'.",
+    "suggestion": "Simplify p1-p6 vocabulary or raise to A1; e.g. use 'The kitten sees yarn. It taps it. The yarn rolls. The string goes around the kitten.'"
+  },
+  {
+    "slug": "the-lost-mitten",
+    "where": "summary",
+    "severity": "high",
+    "issue": "summary_ko says Mia finds the mitten together with the animals, but the animals find/use it first and Mia later shares it.",
+    "suggestion": "Change to '눈밭에서 잃어버린 빨간 장갑을 동물 친구들과 함께 나누는 따뜻한 이야기예요.'"
+  },
+  {
+    "slug": "the-lost-mitten",
+    "where": "p8",
+    "severity": "med",
+    "issue": "'sat by the warm mitten' is awkward and does not clearly explain why nobody felt cold.",
+    "suggestion": "Change to 'So they all shared the warm mitten.' / '그래서 모두 따뜻한 장갑을 함께 썼어요.'"
+  },
+  {
+    "slug": "the-paper-boat",
+    "where": "p5",
+    "severity": "low",
+    "issue": "translation_ko changes 'tall green grass' to '초록 풀밭', which sounds like a grass field rather than tall grass along the stream.",
+    "suggestion": "Change to '배가 키 큰 초록 풀을 지나 나아가요.'"
+  },
+  {
+    "slug": "the-paper-boat",
+    "where": "p9",
+    "severity": "med",
+    "issue": "'the boat comes home to her' is unnatural because the boat is on a stream and no homeward route is established.",
+    "suggestion": "Change to 'At last the boat comes back to her.'"
+  },
+  {
+    "slug": "the-mountain-echo",
+    "where": "p7",
+    "severity": "med",
+    "issue": "'Mina was not scared anymore, because she felt curious now' is awkward and over-punctuated.",
+    "suggestion": "Change to 'Mina was not scared anymore. Now she felt curious.'"
+  },
+  {
+    "slug": "the-mountain-echo",
+    "where": "p10",
+    "severity": "high",
+    "issue": "translation_ko uses '잘 가!' for 'Goodbye!' although Mina is leaving and the hills/echo remain; it sounds like she is sending them away.",
+    "suggestion": "Change to '\"안녕!\" 미나가 외치자 메아리도 작별 인사를 했어요.'"
+  },
+  {
+    "slug": "the-firefly-festival",
+    "where": "p5",
+    "severity": "med",
+    "issue": "translation_ko renders 'held her breath' as '숨을 멈췄어요', which sounds too literal for a moment of wonder.",
+    "suggestion": "Change to '그 모습이 무척 아름다워서 토끼는 숨을 죽였어요.'"
+  },
+  {
+    "slug": "the-firefly-festival",
+    "where": "p8",
+    "severity": "low",
+    "issue": "'앞발을 마주치며' is stiff for 'clapped her paws'.",
+    "suggestion": "Change to '토끼는 앞발로 박수를 치며 기쁘게 웃었어요.'"
+  },
+  {
+    "slug": "the-firefly-festival",
+    "where": "quiz#1",
+    "severity": "high",
+    "issue": "Korean question asks where the rabbit heard the news, but the keyed answer '강가' is where the festival is held.",
+    "suggestion": "Change question_ko to '축제는 어디에서 열리기로 했나요?'"
+  },
+  {
+    "slug": "the-runaway-kite",
+    "where": "p7",
+    "severity": "high",
+    "issue": "'The kite slipped away and caught in a tall tree' is ungrammatical; it needs 'got caught' or 'was caught'.",
+    "suggestion": "Change to 'The kite slipped away and got caught in a tall tree.'"
+  },
+  {
+    "slug": "the-mapmakers-daughter",
+    "where": "p2",
+    "severity": "med",
+    "issue": "'sharpened his pens' and '펜을 깎아' are unnatural unless these are quill pens; ordinary pens are not sharpened.",
+    "suggestion": "Change to 'she sharpened his pencils until their points were perfect' / '아버지의 연필을 끝이 뾰족해질 때까지 깎아 두었어요.'"
+  },
+  {
+    "slug": "the-mapmakers-daughter",
+    "where": "p10",
+    "severity": "high",
+    "issue": "translation_ko mistranslates 'gasped' as '숨을 멈췄어요'; gasping is a sudden sound/intake of breath, not holding breath.",
+    "suggestion": "Change to '그때 안개가 걷히자 미라는 탄성을 질렀어요.'"
+  },
+  {
+    "slug": "the-river-that-changed-its-mind",
+    "where": "p4",
+    "severity": "high",
+    "issue": "translation_ko renders 'Inch by inch' as '한 뼘씩', which is much larger and loses the 'little by little' meaning.",
+    "suggestion": "Change to '강물은 조금씩 조금씩 언덕 쪽으로 흘러갔답니다.'"
+  },
+  {
+    "slug": "the-river-that-changed-its-mind",
+    "where": "p11",
+    "severity": "low",
+    "issue": "Korean sentence '비가 내렸어요, 처음엔 보슬보슬, 그러자...' is punctuated like English and sounds stiff.",
+    "suggestion": "Change to '이윽고 비가 내렸어요. 처음에는 보슬보슬 내리더니, 물길이 차오르기 시작했지요.'"
+  },
+  {
+    "slug": "the-river-that-changed-its-mind",
+    "where": "quiz#3",
+    "severity": "high",
+    "issue": "Question says villagers acted '강을 되돌리기 위해', but the story's point is adapting by making a new channel, not returning the river to the old bed.",
+    "suggestion": "Change question_ko to '마을 사람들은 강물이 다시 마을 가까이 흐르게 하려고 무엇을 했나요?'"
+  },
+  {
+    "slug": "the-night-market-of-stars",
+    "where": "p3",
+    "severity": "low",
+    "issue": "translation_ko '그 하나가 무척 갖고 싶었어요' is awkward Korean.",
+    "suggestion": "Change to '미나는 그중 하나를 무척 갖고 싶었어요.'"
+  },
+  {
+    "slug": "the-night-market-of-stars",
+    "where": "p8",
+    "severity": "low",
+    "issue": "'늙은 황금빛 별' and '인내심 가득한 눈빛' sound stiff for a child-friendly Korean translation.",
+    "suggestion": "Change to '나이 든 황금빛 별이 천천히 내려와 다정히 기다려 주는 눈빛으로 미나의 말을 들어 주었어요.'"
+  }
+]

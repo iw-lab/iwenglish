@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "duck-finds-a-puddle",
+    "where": "p1",
+    "severity": "med",
+    "issue": "English says the duck 'wants water', which can mean it wants to drink; the Korean and quiz frame it as looking for water.",
+    "suggestion": "Change to 'A little duck looks for water.'"
+  },
+  {
+    "slug": "happy-little-cloud",
+    "where": "p2",
+    "severity": "high",
+    "issue": "Korean translates the sheep sound 'Baa, baa!' as '음매, 음매', which is a cow sound in Korean.",
+    "suggestion": "Change to '메에, 메에! 나를 보세요.'"
+  },
+  {
+    "slug": "happy-little-cloud",
+    "where": "global",
+    "severity": "med",
+    "issue": "Several phrases are too figurative or difficult for preA1: 'sail on the wind', 'children below', and 'fluffy hand'.",
+    "suggestion": "Use simpler lines such as 'I float in the wind.', 'I see children.', and 'I wave to them.'"
+  },
+  {
+    "slug": "happy-little-cloud",
+    "where": "p4",
+    "severity": "med",
+    "issue": "'Now I am a sweet heart' is awkward and can sound like a personality description, not a cloud shape.",
+    "suggestion": "Change to 'Now I am a pretty heart.' or, for simpler preA1, 'Now I am a heart.'"
+  },
+  {
+    "slug": "penguin-learns-to-slide",
+    "where": "p2",
+    "severity": "med",
+    "issue": "'waddles' is above a typical A1 vocabulary load, especially with no word support.",
+    "suggestion": "Change to 'He walks slowly up the hill.' or add 'waddle' to the word support."
+  },
+  {
+    "slug": "penguin-learns-to-slide",
+    "where": "quiz#4",
+    "severity": "med",
+    "issue": "The question asks what the friend told Pip to do, but the friend says several things in the story: 'Watch me', 'You can try too', and 'Try again'.",
+    "suggestion": "Change the question to '핍이 너무 빨리 멈춘 뒤, 친구가 뭐라고 했나요?'"
+  },
+  {
+    "slug": "hedgehog-shares-apples",
+    "where": "p3",
+    "severity": "med",
+    "issue": "'He rolls on the apples' is less natural for the intended action of rolling across them so they stick to his spines.",
+    "suggestion": "Change to 'He rolls over the apples.'"
+  },
+  {
+    "slug": "puppys-first-snow",
+    "where": "title_ko",
+    "severity": "low",
+    "issue": "'첫 눈' should be written as '첫눈' when it means first snow.",
+    "suggestion": "Change title_ko to '강아지의 첫눈'."
+  },
+  {
+    "slug": "puppys-first-snow",
+    "where": "global",
+    "severity": "med",
+    "issue": "For A1, the book stacks several above-level concrete verbs and nouns without support: 'sniffs', 'wags', 'snowflake', 'lands', and 'shakes off'.",
+    "suggestion": "Simplify a few lines or add these items to word support."
+  },
+  {
+    "slug": "captain-otters-river-map",
+    "where": "p8",
+    "severity": "high",
+    "issue": "The bat flies out 'because the sun was bright', which is biologically and logically misleading.",
+    "suggestion": "Change to 'A little bat peeked out of the dark cave.'"
+  },
+  {
+    "slug": "captain-otters-river-map",
+    "where": "quiz#4",
+    "severity": "high",
+    "issue": "The quiz answer says the bat came out because the sun was high, while the story says the sun was bright; the cause is also confusing.",
+    "suggestion": "Replace with a clearer question: '박쥐는 동굴을 어떻게 설명했나요?' with the correct option '시원하고 조용해요'."
+  },
+  {
+    "slug": "the-bakers-tiny-helper",
+    "where": "p7",
+    "severity": "med",
+    "issue": "'The baker wanted to know his secret helper' is awkward; it should mean discovering who the helper is.",
+    "suggestion": "Change to 'The baker wanted to know who his secret helper was.'"
+  },
+  {
+    "slug": "the-bakers-tiny-helper",
+    "where": "p9",
+    "severity": "med",
+    "issue": "'a crumb of cheese' is unnatural and does not match the Korean '치즈 한 조각'.",
+    "suggestion": "Change to 'a small piece of cheese'."
+  },
+  {
+    "slug": "the-bakers-tiny-helper",
+    "where": "p10",
+    "severity": "med",
+    "issue": "Korean '조용한 빵집을 함께 나눴어요' is literal and unnatural for sharing a place/life together.",
+    "suggestion": "Change to '그날부터 둘은 조용한 빵집에서 함께 지냈어요.'"
+  },
+  {
+    "slug": "the-clockwork-sparrow",
+    "where": "summary",
+    "severity": "high",
+    "issue": "The Korean summary says the sparrow 'lost' its song, but the story says it has not learned or found a tune yet.",
+    "suggestion": "Change to '아직 노래가 없던 태엽 참새가 진짜 새들을 만나 자기만의 소리를 찾아 가는 따뜻한 이야기예요.'"
+  },
+  {
+    "slug": "the-clockwork-sparrow",
+    "where": "p11",
+    "severity": "med",
+    "issue": "'a gentle metal shimmer' is not idiomatic for sound.",
+    "suggestion": "Change to 'a soft metallic ring' or 'a gentle metallic shimmer'."
+  },
+  {
+    "slug": "the-boy-who-collected-echoes",
+    "where": "p3",
+    "severity": "med",
+    "issue": "'He labelled each jar with careful letters in his notebook' is unclear because jars are labeled on the jar, not in a notebook.",
+    "suggestion": "Change to 'He labeled each jar in careful letters and wrote about it in his notebook.'"
+  },
+  {
+    "slug": "the-bridge-between-two-hills",
+    "where": "p12",
+    "severity": "med",
+    "issue": "'joined by friends' and Korean '친구들로 이어졌어요' are awkward; the intended meaning is friendship/bridge connection.",
+    "suggestion": "Change English to 'were now joined by a bridge and new friendship' and Korean to '이제 두 언덕은 다리와 새 우정으로 이어졌어요.'"
+  }
+]

@@ -1,0 +1,974 @@
+{
+  "slug": "the-envelope-of-wishes",
+  "title": "The Envelope of Wishes",
+  "title_ko": "소원을 담은 봉투",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "소원을 적은 봉투가 바람에 날아가자 아이가 이웃들과 함께 찾아가는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Ara wrote three wishes and sealed them in a cream envelope.",
+          "translation_ko": "아라는 소원 세 가지를 쓰고 크림색 봉투에 넣어 붙였어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ara",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 1100
+            },
+            {
+              "word": "three",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1600
+            },
+            {
+              "word": "wishes",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1840,
+              "endMs": 2520
+            },
+            {
+              "word": "sealed",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2520,
+              "endMs": 2680
+            },
+            {
+              "word": "them",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "in",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2940,
+              "endMs": 3060
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 3060,
+              "endMs": 3280
+            },
+            {
+              "word": "cream",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3280,
+              "endMs": 3500
+            },
+            {
+              "word": "envelope",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 3500,
+              "endMs": 3940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When she opened the gate, a sudden wind lifted it away.",
+          "translation_ko": "문을 열자 갑작스러운 바람이 봉투를 들어 올렸어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "she",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "opened",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1060
+            },
+            {
+              "word": "gate",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2080
+            },
+            {
+              "word": "sudden",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2320
+            },
+            {
+              "word": "wind",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2320,
+              "endMs": 2700
+            },
+            {
+              "word": "lifted",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2700,
+              "endMs": 3200
+            },
+            {
+              "word": "it",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3200,
+              "endMs": 3440
+            },
+            {
+              "word": "away",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3440,
+              "endMs": 3640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The envelope skipped over the bakery sign and vanished around the corner.",
+          "translation_ko": "봉투는 빵집 간판 위를 지나 모퉁이 너머로 사라졌어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "envelope",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 260,
+              "endMs": 820
+            },
+            {
+              "word": "skipped",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 820,
+              "endMs": 1660
+            },
+            {
+              "word": "over",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "bakery",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2280,
+              "endMs": 2600
+            },
+            {
+              "word": "sign",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 3040
+            },
+            {
+              "word": "and",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3040,
+              "endMs": 3660
+            },
+            {
+              "word": "vanished",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 3660,
+              "endMs": 4040
+            },
+            {
+              "word": "around",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 4040,
+              "endMs": 4460
+            },
+            {
+              "word": "the",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 4460,
+              "endMs": 4700
+            },
+            {
+              "word": "corner",
+              "charStart": 66,
+              "charEnd": 72,
+              "startMs": 4700,
+              "endMs": 4900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ara asked the baker if he had seen a star-stamped envelope.",
+          "translation_ko": "아라는 빵집 아저씨에게 별 도장 봉투를 보았는지 물었어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ara",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 30,
+              "endMs": 383
+            },
+            {
+              "word": "asked",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 383,
+              "endMs": 737
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 737,
+              "endMs": 939
+            },
+            {
+              "word": "baker",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 939,
+              "endMs": 1293
+            },
+            {
+              "word": "if",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1293,
+              "endMs": 1496
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1496,
+              "endMs": 1699
+            },
+            {
+              "word": "had",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1699,
+              "endMs": 1902
+            },
+            {
+              "word": "seen",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1902,
+              "endMs": 2105
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2105,
+              "endMs": 2307
+            },
+            {
+              "word": "star-stamped",
+              "charStart": 37,
+              "charEnd": 49,
+              "startMs": 2307,
+              "endMs": 2811
+            },
+            {
+              "word": "envelope",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 2811,
+              "endMs": 3450
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He had seen it flutter near the flower cart, so Ara ran there.",
+          "translation_ko": "아저씨는 꽃 수레 근처에서 펄럭이는 걸 봤다고 해서 아라는 그곳으로 뛰어갔어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "had",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 500
+            },
+            {
+              "word": "seen",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 840
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1160
+            },
+            {
+              "word": "flutter",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "near",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1480,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "flower",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2200,
+              "endMs": 2500
+            },
+            {
+              "word": "cart",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2500,
+              "endMs": 2860
+            },
+            {
+              "word": "so",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3220,
+              "endMs": 3400
+            },
+            {
+              "word": "Ara",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3400,
+              "endMs": 3720
+            },
+            {
+              "word": "ran",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3720,
+              "endMs": 4220
+            },
+            {
+              "word": "there",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 4220,
+              "endMs": 4480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The flower seller found one wish stuck to a rose ribbon.",
+          "translation_ko": "꽃집 아주머니는 장미 리본에 붙은 소원 하나를 찾았어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "flower",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 760,
+              "endMs": 1140
+            },
+            {
+              "word": "seller",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "found",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1740
+            },
+            {
+              "word": "one",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 2160
+            },
+            {
+              "word": "wish",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2160,
+              "endMs": 2380
+            },
+            {
+              "word": "stuck",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2700
+            },
+            {
+              "word": "to",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2700,
+              "endMs": 2960
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 2960,
+              "endMs": 3300
+            },
+            {
+              "word": "rose",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3300,
+              "endMs": 3440
+            },
+            {
+              "word": "ribbon",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3440,
+              "endMs": 3680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Soon three neighbors helped collect every small paper wish.",
+          "translation_ko": "곧 이웃 세 명이 작은 소원 종이를 모두 찾도록 도왔어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "three",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 880
+            },
+            {
+              "word": "neighbors",
+              "charStart": 11,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "helped",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "collect",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1480,
+              "endMs": 1820
+            },
+            {
+              "word": "every",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 1820,
+              "endMs": 2260
+            },
+            {
+              "word": "small",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2260,
+              "endMs": 2580
+            },
+            {
+              "word": "paper",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2580,
+              "endMs": 2860
+            },
+            {
+              "word": "wish",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 2860,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ara read the wishes aloud and discovered that everyone had kind hopes.",
+          "translation_ko": "아라는 소원을 소리 내어 읽고 모두에게 다정한 바람이 있음을 알았어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ara",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "read",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1060
+            },
+            {
+              "word": "wishes",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "aloud",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1740
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 2280
+            },
+            {
+              "word": "discovered",
+              "charStart": 30,
+              "charEnd": 40,
+              "startMs": 2280,
+              "endMs": 2640
+            },
+            {
+              "word": "that",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 3000
+            },
+            {
+              "word": "everyone",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 3000,
+              "endMs": 3400
+            },
+            {
+              "word": "had",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3400,
+              "endMs": 3680
+            },
+            {
+              "word": "kind",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3680,
+              "endMs": 4080
+            },
+            {
+              "word": "hopes",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 4080,
+              "endMs": 4400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She put the envelope on the community board instead of hiding it away.",
+          "translation_ko": "아라는 봉투를 숨기지 않고 마을 게시판에 붙였어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "put",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 680,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "envelope",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1640
+            },
+            {
+              "word": "on",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2040
+            },
+            {
+              "word": "community",
+              "charStart": 28,
+              "charEnd": 37,
+              "startMs": 2040,
+              "endMs": 2480
+            },
+            {
+              "word": "board",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2480,
+              "endMs": 2840
+            },
+            {
+              "word": "instead",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2840,
+              "endMs": 3300
+            },
+            {
+              "word": "of",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3300,
+              "endMs": 3680
+            },
+            {
+              "word": "hiding",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3680,
+              "endMs": 3780
+            },
+            {
+              "word": "it",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 3780,
+              "endMs": 4040
+            },
+            {
+              "word": "away",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4040,
+              "endMs": 4240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By evening, more wishes bloomed beside hers like paper flowers.",
+          "translation_ko": "저녁이 되자 더 많은 소원이 종이꽃처럼 아라의 소원 옆에 피어났어요.",
+          "audio": "/seed/the-envelope-of-wishes/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "evening",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 780
+            },
+            {
+              "word": "more",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1580
+            },
+            {
+              "word": "wishes",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1580,
+              "endMs": 1860
+            },
+            {
+              "word": "bloomed",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2360
+            },
+            {
+              "word": "beside",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2360,
+              "endMs": 2840
+            },
+            {
+              "word": "hers",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2840,
+              "endMs": 3280
+            },
+            {
+              "word": "like",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3280,
+              "endMs": 3820
+            },
+            {
+              "word": "paper",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3820,
+              "endMs": 4180
+            },
+            {
+              "word": "flowers",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 4180,
+              "endMs": 4660
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "소원을 담은 봉투에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "별 도장이 찍힌 봉투",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "별 도장이 찍힌 봉투이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "바람 부는 동네 길",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "바람 부는 동네 길에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "소원 봉투가 바람에 날아갔어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "소원 봉투가 바람에 날아갔어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "이웃들의 작은 단서",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이웃들의 작은 단서이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "소원을 나누면 마음이 가까워진다는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "소원을 나누면 마음이 가까워진다는 마음을 배워요."
+    }
+  ]
+}

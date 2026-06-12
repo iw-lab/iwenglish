@@ -65,6 +65,7 @@ async function main() {
 
   const CONC = 6;
   let done = 0;
+  const failed: string[] = []; // 파싱 실패·빈 뜻/IPA — 저장 거부 후 요약 보고
   for (let i = 0; i < todo.length; i += CONC) {
     const batch = todo.slice(i, i + CONC);
     const results = await Promise.all(
@@ -75,7 +76,7 @@ async function main() {
       const audioUrl = existsSync(join(SHARED_AUDIO, `${base}.mp3`))
         ? `/seed/_words/${base}.mp3`
         : (dict[w]?.audioUrl ?? "");
-      if (m) {
+      if (m && m.meaning_ko && m.ipa) {
         dict[w] = {
           ipa: m.ipa,
           pos: m.pos,
@@ -84,8 +85,9 @@ async function main() {
           example_ko: m.example_ko,
           audioUrl,
         };
-      } else if (dict[w]) {
-        dict[w].audioUrl = audioUrl;
+      } else {
+        failed.push(w); // 기존 항목은 보존, 빈/실패 응답으로 덮어쓰지 않음
+        if (dict[w]) dict[w].audioUrl = audioUrl;
       }
       done++;
     }
@@ -105,6 +107,11 @@ async function main() {
   console.log(
     `\n✅ 공유 사전 완료 — ${Object.keys(dict).length}개 → ${DICT_FILE}`,
   );
+  if (failed.length > 0) {
+    console.warn(
+      `⚠️ 스킵 ${failed.length}개(파싱 실패·빈 뜻/IPA — 재실행 시 자동 재시도): ${failed.join(", ")}`,
+    );
+  }
 }
 
 main();

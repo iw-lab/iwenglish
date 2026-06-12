@@ -1,0 +1,640 @@
+{
+  "slug": "sleepy-bear-yawns",
+  "title": "Sleepy Bear Yawns",
+  "title_ko": "졸린 곰이 하품해요",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "졸린 아기 곰이 하품하며 잠잘 준비를 마치고 포근하게 잠드는 밤이에요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "The little bear is sleepy.",
+          "translation_ko": "아기 곰이 졸려요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "little",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "bear",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "is",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "sleepy",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1620
+            }
+          ]
+        },
+        {
+          "text": "He yawns a big yawn.",
+          "translation_ko": "곰이 크게 하품해요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "yawns",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "big",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1020,
+              "endMs": 1300
+            },
+            {
+              "word": "yawn",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear drinks his warm milk.",
+          "translation_ko": "곰이 따뜻한 우유를 마셔요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "drinks",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 940
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1220
+            },
+            {
+              "word": "warm",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1220,
+              "endMs": 1700
+            },
+            {
+              "word": "milk",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "The milk is good.",
+          "translation_ko": "우유가 참 맛있어요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "milk",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "good",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear brushes his teeth.",
+          "translation_ko": "곰이 이를 닦아요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "brushes",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 840
+            },
+            {
+              "word": "his",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "teeth",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1460
+            }
+          ]
+        },
+        {
+          "text": "His teeth are clean.",
+          "translation_ko": "이가 반짝반짝해요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "teeth",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "are",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 1040
+            },
+            {
+              "word": "clean",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear hugs his soft toy.",
+          "translation_ko": "곰이 포근한 인형을 안아요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "hugs",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 540,
+              "endMs": 920
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1320
+            },
+            {
+              "word": "soft",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1320,
+              "endMs": 1680
+            },
+            {
+              "word": "toy",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1680,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "The toy is warm.",
+          "translation_ko": "인형이 따뜻해요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "toy",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "warm",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear climbs into his bed.",
+          "translation_ko": "곰이 침대로 올라가요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "climbs",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 1000
+            },
+            {
+              "word": "into",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1360
+            },
+            {
+              "word": "his",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "bed",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1820
+            }
+          ]
+        },
+        {
+          "text": "The bed is soft.",
+          "translation_ko": "침대가 폭신해요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "bed",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 480
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 820
+            },
+            {
+              "word": "soft",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear yawns one more time.",
+          "translation_ko": "곰이 한 번 더 하품해요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "yawns",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 1420
+            },
+            {
+              "word": "one",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1420,
+              "endMs": 1860
+            },
+            {
+              "word": "more",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "time",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2120,
+              "endMs": 2540
+            }
+          ]
+        },
+        {
+          "text": "He closes his eyes.",
+          "translation_ko": "곰이 눈을 감아요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "closes",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 900,
+              "endMs": 1360
+            },
+            {
+              "word": "eyes",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1360,
+              "endMs": 1800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now the bear is asleep.",
+          "translation_ko": "이제 곰이 잠들었어요.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 620,
+              "endMs": 1240
+            },
+            {
+              "word": "bear",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 1240,
+              "endMs": 1300
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "asleep",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1940
+            }
+          ]
+        },
+        {
+          "text": "Good night, sleepy bear.",
+          "translation_ko": "잘 자요, 졸린 곰아.",
+          "audio": "/seed/sleepy-bear-yawns/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "night",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "sleepy",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1420
+            },
+            {
+              "word": "bear",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "곰은 어떤 기분인가요?",
+      "type": "mc",
+      "options": [
+        "졸려요",
+        "배고파요",
+        "화났어요",
+        "신나요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아기 곰은 졸려서 잠잘 준비를 해요."
+    },
+    {
+      "question_ko": "곰은 무엇을 마셨나요?",
+      "type": "mc",
+      "options": [
+        "따뜻한 우유",
+        "차가운 물",
+        "주스",
+        "차"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "곰은 따뜻한 우유를 마셨어요."
+    },
+    {
+      "question_ko": "곰은 이를 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "이를 닦았어요",
+        "손을 씻었어요",
+        "머리를 빗었어요",
+        "발을 닦았어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "곰은 이를 닦으며 잠잘 준비를 했어요."
+    },
+    {
+      "question_ko": "곰은 무엇을 안았나요?",
+      "type": "mc",
+      "options": [
+        "포근한 인형",
+        "베개",
+        "담요",
+        "공"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "곰은 부드러운 인형을 꼭 안았어요."
+    },
+    {
+      "question_ko": "이 이야기는 어떤 느낌을 주나요?",
+      "type": "mc",
+      "options": [
+        "포근하고 졸린 밤",
+        "무섭고 어두운 밤",
+        "시끄럽고 바쁜 낮",
+        "춥고 외로운 날"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "하나씩 잠잘 준비를 하는 포근하고 졸린 밤 이야기예요."
+    }
+  ]
+}

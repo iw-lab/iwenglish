@@ -1,0 +1,545 @@
+{
+  "slug": "duck-finds-a-puddle",
+  "title": "Duck Finds a Puddle",
+  "title_ko": "오리가 웅덩이를 찾아요",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "아기 오리가 비 온 뒤 웅덩이를 찾아 첨벙첨벙 노는 하루.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A little duck looks for water.",
+          "translation_ko": "작은 오리가 물을 찾아요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "little",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 440
+            },
+            {
+              "word": "duck",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "looks",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 740,
+              "endMs": 1160
+            },
+            {
+              "word": "for",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "water",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1640
+            }
+          ]
+        },
+        {
+          "text": "The duck wants to play.",
+          "translation_ko": "오리는 놀고 싶어요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "duck",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 480
+            },
+            {
+              "word": "wants",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 480,
+              "endMs": 780
+            },
+            {
+              "word": "to",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 980
+            },
+            {
+              "word": "play",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The duck looks and looks.",
+          "translation_ko": "오리가 두리번두리번 살펴봐요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "duck",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "looks",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1660
+            },
+            {
+              "word": "looks",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1660,
+              "endMs": 1920
+            }
+          ]
+        },
+        {
+          "text": "No water here. No water there.",
+          "translation_ko": "여기에도 물이 없고, 저기에도 물이 없어요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "No",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "water",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 680
+            },
+            {
+              "word": "here",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 1200
+            },
+            {
+              "word": "No",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1960
+            },
+            {
+              "word": "water",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1960,
+              "endMs": 2200
+            },
+            {
+              "word": "there",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2200,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Look! A puddle!",
+          "translation_ko": "저기 봐요! 웅덩이예요!",
+          "audio": "/seed/duck-finds-a-puddle/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Look",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "A",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "puddle",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1660,
+              "endMs": 1940
+            }
+          ]
+        },
+        {
+          "text": "The puddle is big.",
+          "translation_ko": "웅덩이가 커요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "puddle",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 700
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 1180
+            },
+            {
+              "word": "big",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The duck jumps in.",
+          "translation_ko": "오리가 풍덩 뛰어들어요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "duck",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "jumps",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "in",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1120
+            }
+          ]
+        },
+        {
+          "text": "Splash, splash!",
+          "translation_ko": "첨벙, 첨벙!",
+          "audio": "/seed/duck-finds-a-puddle/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Splash",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "splash",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1360,
+              "endMs": 1360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The little duck swims.",
+          "translation_ko": "작은 오리가 헤엄을 쳐요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "little",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 960
+            },
+            {
+              "word": "duck",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "swims",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1900
+            }
+          ]
+        },
+        {
+          "text": "Splash, splash, splash!",
+          "translation_ko": "첨벙, 첨벙, 첨벙!",
+          "audio": "/seed/duck-finds-a-puddle/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Splash",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "splash",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1540,
+              "endMs": 1540
+            },
+            {
+              "word": "splash",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 2480,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The duck shakes and shakes.",
+          "translation_ko": "오리가 몸을 부르르 털어요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "duck",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "shakes",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 580,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "shakes",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1760
+            }
+          ]
+        },
+        {
+          "text": "The little duck is happy.",
+          "translation_ko": "작은 오리는 신이 났어요.",
+          "audio": "/seed/duck-finds-a-puddle/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "little",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "duck",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "is",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 840,
+              "endMs": 1380
+            },
+            {
+              "word": "happy",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "오리가 찾던 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "물",
+        "빵",
+        "공",
+        "모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "오리는 물을 찾고 있었어요."
+    },
+    {
+      "question_ko": "오리가 마침내 발견한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "웅덩이",
+        "나무",
+        "돌멩이",
+        "꽃"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "오리는 비 온 뒤 생긴 웅덩이를 찾았어요."
+    },
+    {
+      "question_ko": "웅덩이를 보고 오리는 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "풍덩 뛰어들었어요",
+        "그냥 지나갔어요",
+        "잠을 잤어요",
+        "울었어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "오리는 웅덩이로 풍덩 뛰어들었어요."
+    },
+    {
+      "question_ko": "오리가 물놀이를 끝내고 한 행동은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "몸을 부르르 털었어요",
+        "날아갔어요",
+        "노래했어요",
+        "숨었어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "오리는 젖은 몸을 부르르 털었어요."
+    },
+    {
+      "question_ko": "이야기 끝에서 오리의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "신이 났어요",
+        "무서웠어요",
+        "심심했어요",
+        "화가 났어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "물놀이를 마친 오리는 행복하고 신이 났어요."
+    }
+  ]
+}

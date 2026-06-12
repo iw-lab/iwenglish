@@ -1,0 +1,622 @@
+{
+  "slug": "baby-birds-first-hop",
+  "title": "Baby Bird's First Hop",
+  "title_ko": "아기 새의 첫 폴짝",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "둥지 속 아기 새가 용기를 내어 처음으로 폴짝 뛰어 나뭇가지에 올라서는 따뜻한 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A baby bird sits in a nest.",
+          "translation_ko": "아기 새가 둥지에 앉아 있어요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "baby",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 800,
+              "endMs": 1140
+            },
+            {
+              "word": "bird",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1140,
+              "endMs": 1560
+            },
+            {
+              "word": "sits",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1560,
+              "endMs": 2080
+            },
+            {
+              "word": "in",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 2080,
+              "endMs": 2280
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 2280,
+              "endMs": 2660
+            },
+            {
+              "word": "nest",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2660,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "The nest is warm and soft.",
+          "translation_ko": "둥지는 따뜻하고 폭신해요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "nest",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 1060
+            },
+            {
+              "word": "warm",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "soft",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1760,
+              "endMs": 2060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The baby bird looks down.",
+          "translation_ko": "아기 새가 아래를 내려다봐요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "baby",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "bird",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 1080
+            },
+            {
+              "word": "looks",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1080,
+              "endMs": 1640
+            },
+            {
+              "word": "down",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1640,
+              "endMs": 1980
+            }
+          ]
+        },
+        {
+          "text": "The branch is far away.",
+          "translation_ko": "나뭇가지가 멀리 있어요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "branch",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "far",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "away",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1320,
+              "endMs": 1560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The baby bird is afraid.",
+          "translation_ko": "아기 새는 무서워요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "baby",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 640
+            },
+            {
+              "word": "bird",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "is",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "afraid",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "\"I can do it,\" it says.",
+          "translation_ko": "\"나는 할 수 있어\" 하고 말해요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "can",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 640
+            },
+            {
+              "word": "do",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 820
+            },
+            {
+              "word": "it",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1020
+            },
+            {
+              "word": "it",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "says",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The baby bird flaps its wings.",
+          "translation_ko": "아기 새가 날개를 파닥여요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "baby",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 800
+            },
+            {
+              "word": "bird",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1220
+            },
+            {
+              "word": "flaps",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1700
+            },
+            {
+              "word": "its",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "wings",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2000,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "One, two, three!",
+          "translation_ko": "하나, 둘, 셋!",
+          "audio": "/seed/baby-birds-first-hop/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "two",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 1180
+            },
+            {
+              "word": "three",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1200,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Hop! The baby bird jumps.",
+          "translation_ko": "폴짝! 아기 새가 뛰어요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hop",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "The",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 1280,
+              "endMs": 1460
+            },
+            {
+              "word": "baby",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "bird",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1700,
+              "endMs": 2060
+            },
+            {
+              "word": "jumps",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 2060,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "It lands on the branch.",
+          "translation_ko": "나뭇가지에 살포시 내려앉아요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "lands",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1020,
+              "endMs": 1140
+            },
+            {
+              "word": "branch",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The baby bird is happy.",
+          "translation_ko": "아기 새는 행복해요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "baby",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "bird",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "is",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1120,
+              "endMs": 1500
+            },
+            {
+              "word": "happy",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "\"I did it!\" it sings.",
+          "translation_ko": "\"내가 해냈어!\" 하고 노래해요.",
+          "audio": "/seed/baby-birds-first-hop/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "did",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 740
+            },
+            {
+              "word": "it",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1480,
+              "endMs": 1480
+            },
+            {
+              "word": "sings",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1820
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아기 새는 처음에 어디에 앉아 있었나요?",
+      "type": "mc",
+      "options": [
+        "둥지",
+        "나뭇가지",
+        "땅",
+        "지붕"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아기 새는 따뜻하고 폭신한 둥지에 앉아 있었어요."
+    },
+    {
+      "question_ko": "아기 새가 아래를 보았을 때 무엇이 멀리 있었나요?",
+      "type": "mc",
+      "options": [
+        "나뭇가지",
+        "강물",
+        "꽃밭",
+        "구름"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "내려다보니 나뭇가지가 멀리 있었어요."
+    },
+    {
+      "question_ko": "아기 새는 뛰기 전에 어떤 기분이었나요?",
+      "type": "mc",
+      "options": [
+        "무서웠어요",
+        "졸렸어요",
+        "배고팠어요",
+        "화났어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "가지가 멀어 보여서 아기 새는 무서웠어요."
+    },
+    {
+      "question_ko": "아기 새가 폴짝 뛴 다음 어디에 내려앉았나요?",
+      "type": "mc",
+      "options": [
+        "나뭇가지",
+        "둥지",
+        "물웅덩이",
+        "돌멩이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "폴짝 뛰어서 나뭇가지에 살포시 내려앉았어요."
+    },
+    {
+      "question_ko": "이 이야기가 우리에게 주는 마음은 무엇일까요?",
+      "type": "mc",
+      "options": [
+        "용기를 내면 해낼 수 있어요",
+        "혼자는 위험해요",
+        "낮잠이 제일 좋아요",
+        "높은 곳은 피해야 해요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "무서워도 용기를 내어 도전하면 멋지게 해낼 수 있다는 마음을 전해요."
+    }
+  ]
+}

@@ -53,24 +53,27 @@ function runCodex({ dir, out, prompt, anchor }) {
     if (anchor && existsSync(anchor)) args.push("--image", anchor);
     args.push(
       "--",
-      `$imagegen 다음 조건으로 그림책 일러스트 1장 생성 후 반드시 아래 경로에 PNG로 저장.\n${prompt}\n저장 경로: ${out}\n해상도: ${RES}`,
+      `$imagegen 다음 조건으로 그림책 일러스트 1장 생성 후 반드시 아래 경로에 PNG로 저장.\n${prompt}\n저장 경로: ${out}\n해상도: ${RES}\n작업 규칙(중요): $imagegen 도구를 즉시 1회만 호출하고, 생성 즉시 위 경로에 저장 후 바로 종료할 것.\n- 생성된 이미지를 열어 검사·재평가·재생성하지 말 것(품질 검수는 별도 파이프라인이 수행). 사소한 결점이 보여도 그대로 저장.\n- 스킬 reference 문서나 image_gen.py CLI fallback을 읽거나 사용하지 말 것.\n- 질문·승인 대기 금지. 도구가 서버 오류를 반환한 경우에만 1회 재시도.`,
     );
-    const child = spawn("codex", args, { stdio: "ignore" });
-    const t = setTimeout(() => {
-      try {
-        child.kill("SIGKILL");
-      } catch {
-        /* noop */
-      }
-    }, PER_TIMEOUT);
-    child.on("exit", () => {
-      clearTimeout(t);
-      resolve(existsSync(out));
+    const child = spawn("codex", args, {
+      detached: true,
+      stdio: ["ignore", "pipe", "pipe"],
     });
-    child.on("error", () => {
-      clearTimeout(t);
-      resolve(existsSync(out));
-    });
+    let outBuf = "";
+    // 비활동 워치독 — 새 출력 240초 부재 시 hang(에코 후 침묵) → 조기 킬
+    const killTree = (sig) => {
+      try { process.kill(-child.pid, sig); } catch { try { child.kill(sig); } catch { /* noop */ } }
+    };
+    let lastData = Date.now();
+    const silent = setInterval(() => {
+      if (Date.now() - lastData > 240000) { clearInterval(silent); killTree("SIGTERM"); setTimeout(() => killTree("SIGKILL"), 1500).unref(); }
+    }, 15000);
+    child.stdout.on("data", (d) => { lastData = Date.now(); outBuf += d.toString(); });
+    child.stderr.on("data", (d) => { lastData = Date.now(); outBuf += d.toString(); });
+    const t = setTimeout(() => { killTree("SIGTERM"); setTimeout(() => killTree("SIGKILL"), 1500).unref(); }, PER_TIMEOUT);
+    const fin = () => { clearTimeout(t); clearInterval(silent); resolve(existsSync(out)); };
+    child.on("exit", fin);
+    child.on("error", fin);
   });
 }
 

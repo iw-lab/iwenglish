@@ -1,0 +1,2095 @@
+{
+  "slug": "the-girl-who-fixed-the-sky",
+  "title": "The Girl Who Fixed the Sky",
+  "title_ko": "하늘을 고친 소녀",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "하늘에 난 작은 찢어진 틈을 고치려는 소녀가 사람들의 빛 조각을 모으는 판타지 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Mira first noticed the tear in the sky while hanging socks on the roof. It was no longer than her thumb, but cold blue wind slipped through it.",
+          "translation_ko": "미라는 옥상에서 양말을 널다가 하늘의 찢어진 틈을 처음 보았어요. 엄지손가락보다 길지 않았지만 차가운 파란 바람이 그 사이로 새어 나왔어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "first",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 880
+            },
+            {
+              "word": "noticed",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "tear",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "in",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "sky",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "while",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2380,
+              "endMs": 2920
+            },
+            {
+              "word": "hanging",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2920,
+              "endMs": 3160
+            },
+            {
+              "word": "socks",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3160,
+              "endMs": 3640
+            },
+            {
+              "word": "on",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 3640,
+              "endMs": 3820
+            },
+            {
+              "word": "the",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3820,
+              "endMs": 4180
+            },
+            {
+              "word": "roof",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 4180,
+              "endMs": 4180
+            },
+            {
+              "word": "It",
+              "charStart": 72,
+              "charEnd": 74,
+              "startMs": 4920,
+              "endMs": 4920
+            },
+            {
+              "word": "was",
+              "charStart": 75,
+              "charEnd": 78,
+              "startMs": 4920,
+              "endMs": 5120
+            },
+            {
+              "word": "no",
+              "charStart": 79,
+              "charEnd": 81,
+              "startMs": 5120,
+              "endMs": 5360
+            },
+            {
+              "word": "longer",
+              "charStart": 82,
+              "charEnd": 88,
+              "startMs": 5360,
+              "endMs": 5580
+            },
+            {
+              "word": "than",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 5580,
+              "endMs": 5820
+            },
+            {
+              "word": "her",
+              "charStart": 94,
+              "charEnd": 97,
+              "startMs": 5820,
+              "endMs": 6020
+            },
+            {
+              "word": "thumb",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 6020,
+              "endMs": 6260
+            },
+            {
+              "word": "but",
+              "charStart": 105,
+              "charEnd": 108,
+              "startMs": 6680,
+              "endMs": 6860
+            },
+            {
+              "word": "cold",
+              "charStart": 109,
+              "charEnd": 113,
+              "startMs": 6860,
+              "endMs": 7220
+            },
+            {
+              "word": "blue",
+              "charStart": 114,
+              "charEnd": 118,
+              "startMs": 7220,
+              "endMs": 7500
+            },
+            {
+              "word": "wind",
+              "charStart": 119,
+              "charEnd": 123,
+              "startMs": 7500,
+              "endMs": 7820
+            },
+            {
+              "word": "slipped",
+              "charStart": 124,
+              "charEnd": 131,
+              "startMs": 7820,
+              "endMs": 8160
+            },
+            {
+              "word": "through",
+              "charStart": 132,
+              "charEnd": 139,
+              "startMs": 8160,
+              "endMs": 8400
+            },
+            {
+              "word": "it",
+              "charStart": 140,
+              "charEnd": 142,
+              "startMs": 8400,
+              "endMs": 8640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By noon the tear had widened, and everyone blamed the weather. Mira knew weather did not make a sound like paper ripping.",
+          "translation_ko": "정오가 되자 틈은 더 넓어졌고 모두가 날씨 탓을 했어요. 미라는 날씨가 종이 찢어지는 소리를 내지는 않는다는 걸 알았어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "noon",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 980,
+              "endMs": 1100
+            },
+            {
+              "word": "tear",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "had",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "widened",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1640,
+              "endMs": 2080
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2520,
+              "endMs": 2680
+            },
+            {
+              "word": "everyone",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 3180
+            },
+            {
+              "word": "blamed",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3180,
+              "endMs": 3540
+            },
+            {
+              "word": "the",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3540,
+              "endMs": 3860
+            },
+            {
+              "word": "weather",
+              "charStart": 54,
+              "charEnd": 61,
+              "startMs": 3860,
+              "endMs": 4020
+            },
+            {
+              "word": "Mira",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 5080,
+              "endMs": 5080
+            },
+            {
+              "word": "knew",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 5080,
+              "endMs": 5360
+            },
+            {
+              "word": "weather",
+              "charStart": 73,
+              "charEnd": 80,
+              "startMs": 5360,
+              "endMs": 5660
+            },
+            {
+              "word": "did",
+              "charStart": 81,
+              "charEnd": 84,
+              "startMs": 5660,
+              "endMs": 5920
+            },
+            {
+              "word": "not",
+              "charStart": 85,
+              "charEnd": 88,
+              "startMs": 5920,
+              "endMs": 6120
+            },
+            {
+              "word": "make",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 6120,
+              "endMs": 6280
+            },
+            {
+              "word": "a",
+              "charStart": 94,
+              "charEnd": 95,
+              "startMs": 6280,
+              "endMs": 6480
+            },
+            {
+              "word": "sound",
+              "charStart": 96,
+              "charEnd": 101,
+              "startMs": 6480,
+              "endMs": 6740
+            },
+            {
+              "word": "like",
+              "charStart": 102,
+              "charEnd": 106,
+              "startMs": 6740,
+              "endMs": 7000
+            },
+            {
+              "word": "paper",
+              "charStart": 107,
+              "charEnd": 112,
+              "startMs": 7000,
+              "endMs": 7320
+            },
+            {
+              "word": "ripping",
+              "charStart": 113,
+              "charEnd": 120,
+              "startMs": 7320,
+              "endMs": 7620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She climbed the tallest water tank with a spool of silver thread, but the thread snapped whenever she pulled it near the tear.",
+          "translation_ko": "미라는 은실 한 타래를 들고 가장 높은 물탱크에 올랐지만 틈 가까이 당길 때마다 실이 끊어졌어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "climbed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 900
+            },
+            {
+              "word": "tallest",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 900,
+              "endMs": 1320
+            },
+            {
+              "word": "water",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1720
+            },
+            {
+              "word": "tank",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "with",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2140,
+              "endMs": 2460
+            },
+            {
+              "word": "spool",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "of",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2640,
+              "endMs": 3200
+            },
+            {
+              "word": "silver",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 3200,
+              "endMs": 3200
+            },
+            {
+              "word": "thread",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3200,
+              "endMs": 3460
+            },
+            {
+              "word": "but",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 4300,
+              "endMs": 4360
+            },
+            {
+              "word": "the",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 4360,
+              "endMs": 4600
+            },
+            {
+              "word": "thread",
+              "charStart": 74,
+              "charEnd": 80,
+              "startMs": 4600,
+              "endMs": 4860
+            },
+            {
+              "word": "snapped",
+              "charStart": 81,
+              "charEnd": 88,
+              "startMs": 4860,
+              "endMs": 5320
+            },
+            {
+              "word": "whenever",
+              "charStart": 89,
+              "charEnd": 97,
+              "startMs": 5320,
+              "endMs": 5740
+            },
+            {
+              "word": "she",
+              "charStart": 98,
+              "charEnd": 101,
+              "startMs": 5740,
+              "endMs": 6060
+            },
+            {
+              "word": "pulled",
+              "charStart": 102,
+              "charEnd": 108,
+              "startMs": 6060,
+              "endMs": 6200
+            },
+            {
+              "word": "it",
+              "charStart": 109,
+              "charEnd": 111,
+              "startMs": 6200,
+              "endMs": 6460
+            },
+            {
+              "word": "near",
+              "charStart": 112,
+              "charEnd": 116,
+              "startMs": 6460,
+              "endMs": 6560
+            },
+            {
+              "word": "the",
+              "charStart": 117,
+              "charEnd": 120,
+              "startMs": 6560,
+              "endMs": 6740
+            },
+            {
+              "word": "tear",
+              "charStart": 121,
+              "charEnd": 125,
+              "startMs": 6740,
+              "endMs": 6980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "An old kite maker said the sky could not be mended with thread alone. It needed patches made from things people had almost forgotten to give.",
+          "translation_ko": "늙은 연 장인은 하늘은 실만으로는 고칠 수 없다고 말했어요. 사람들이 줄 뻔하다가 잊은 것들로 만든 조각이 필요하다고 했어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "An",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "old",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 700,
+              "endMs": 1180
+            },
+            {
+              "word": "kite",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "maker",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "said",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2560,
+              "endMs": 2560
+            },
+            {
+              "word": "sky",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "could",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2860,
+              "endMs": 3120
+            },
+            {
+              "word": "not",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3120,
+              "endMs": 3320
+            },
+            {
+              "word": "be",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 3320,
+              "endMs": 3700
+            },
+            {
+              "word": "mended",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3700,
+              "endMs": 3700
+            },
+            {
+              "word": "with",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3700,
+              "endMs": 4080
+            },
+            {
+              "word": "thread",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 4080,
+              "endMs": 4280
+            },
+            {
+              "word": "alone",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 4280,
+              "endMs": 4660
+            },
+            {
+              "word": "It",
+              "charStart": 70,
+              "charEnd": 72,
+              "startMs": 5140,
+              "endMs": 5220
+            },
+            {
+              "word": "needed",
+              "charStart": 73,
+              "charEnd": 79,
+              "startMs": 5220,
+              "endMs": 5460
+            },
+            {
+              "word": "patches",
+              "charStart": 80,
+              "charEnd": 87,
+              "startMs": 5460,
+              "endMs": 5940
+            },
+            {
+              "word": "made",
+              "charStart": 88,
+              "charEnd": 92,
+              "startMs": 5940,
+              "endMs": 6240
+            },
+            {
+              "word": "from",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 6240,
+              "endMs": 6480
+            },
+            {
+              "word": "things",
+              "charStart": 98,
+              "charEnd": 104,
+              "startMs": 6480,
+              "endMs": 6740
+            },
+            {
+              "word": "people",
+              "charStart": 105,
+              "charEnd": 111,
+              "startMs": 6740,
+              "endMs": 7040
+            },
+            {
+              "word": "had",
+              "charStart": 112,
+              "charEnd": 115,
+              "startMs": 7040,
+              "endMs": 7260
+            },
+            {
+              "word": "almost",
+              "charStart": 116,
+              "charEnd": 122,
+              "startMs": 7260,
+              "endMs": 7620
+            },
+            {
+              "word": "forgotten",
+              "charStart": 123,
+              "charEnd": 132,
+              "startMs": 7620,
+              "endMs": 7900
+            },
+            {
+              "word": "to",
+              "charStart": 133,
+              "charEnd": 135,
+              "startMs": 7900,
+              "endMs": 8200
+            },
+            {
+              "word": "give",
+              "charStart": 136,
+              "charEnd": 140,
+              "startMs": 8200,
+              "endMs": 8380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mira began collecting them: an apology a brother finally spoke, a lunch shared with a new student, a lamp left on for a late neighbor.",
+          "translation_ko": "미라는 그것들을 모으기 시작했어요. 형제가 마침내 한 사과, 새 친구와 나눈 점심, 늦게 오는 이웃을 위해 켜 둔 등불이었어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "began",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 960
+            },
+            {
+              "word": "collecting",
+              "charStart": 11,
+              "charEnd": 21,
+              "startMs": 960,
+              "endMs": 1420
+            },
+            {
+              "word": "them",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1420,
+              "endMs": 1760
+            },
+            {
+              "word": "an",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2260,
+              "endMs": 2380
+            },
+            {
+              "word": "apology",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2880
+            },
+            {
+              "word": "a",
+              "charStart": 39,
+              "charEnd": 40,
+              "startMs": 2880,
+              "endMs": 3200
+            },
+            {
+              "word": "brother",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 3200,
+              "endMs": 3400
+            },
+            {
+              "word": "finally",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 3400,
+              "endMs": 4000
+            },
+            {
+              "word": "spoke",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 4000,
+              "endMs": 4380
+            },
+            {
+              "word": "a",
+              "charStart": 64,
+              "charEnd": 65,
+              "startMs": 4920,
+              "endMs": 5080
+            },
+            {
+              "word": "lunch",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 5080,
+              "endMs": 5300
+            },
+            {
+              "word": "shared",
+              "charStart": 72,
+              "charEnd": 78,
+              "startMs": 5300,
+              "endMs": 5620
+            },
+            {
+              "word": "with",
+              "charStart": 79,
+              "charEnd": 83,
+              "startMs": 5620,
+              "endMs": 5780
+            },
+            {
+              "word": "a",
+              "charStart": 84,
+              "charEnd": 85,
+              "startMs": 5780,
+              "endMs": 5940
+            },
+            {
+              "word": "new",
+              "charStart": 86,
+              "charEnd": 89,
+              "startMs": 5940,
+              "endMs": 6160
+            },
+            {
+              "word": "student",
+              "charStart": 90,
+              "charEnd": 97,
+              "startMs": 6160,
+              "endMs": 6520
+            },
+            {
+              "word": "a",
+              "charStart": 99,
+              "charEnd": 100,
+              "startMs": 7100,
+              "endMs": 7280
+            },
+            {
+              "word": "lamp",
+              "charStart": 101,
+              "charEnd": 105,
+              "startMs": 7280,
+              "endMs": 7460
+            },
+            {
+              "word": "left",
+              "charStart": 106,
+              "charEnd": 110,
+              "startMs": 7460,
+              "endMs": 7740
+            },
+            {
+              "word": "on",
+              "charStart": 111,
+              "charEnd": 113,
+              "startMs": 7740,
+              "endMs": 8060
+            },
+            {
+              "word": "for",
+              "charStart": 114,
+              "charEnd": 117,
+              "startMs": 8060,
+              "endMs": 8200
+            },
+            {
+              "word": "a",
+              "charStart": 118,
+              "charEnd": 119,
+              "startMs": 8200,
+              "endMs": 8440
+            },
+            {
+              "word": "late",
+              "charStart": 120,
+              "charEnd": 124,
+              "startMs": 8440,
+              "endMs": 8600
+            },
+            {
+              "word": "neighbor",
+              "charStart": 125,
+              "charEnd": 133,
+              "startMs": 8600,
+              "endMs": 8900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Each kindness became a thin square of light in her basket. None looked strong enough, yet together they warmed her hands.",
+          "translation_ko": "친절 하나하나는 바구니 안에서 얇은 빛 조각이 되었어요. 하나만으로는 튼튼해 보이지 않았지만 함께 있으니 손을 따뜻하게 했어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "kindness",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 340,
+              "endMs": 920
+            },
+            {
+              "word": "became",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1280
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "thin",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "square",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "of",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2540
+            },
+            {
+              "word": "light",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 2720
+            },
+            {
+              "word": "in",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2720,
+              "endMs": 2960
+            },
+            {
+              "word": "her",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2960,
+              "endMs": 3120
+            },
+            {
+              "word": "basket",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 3120,
+              "endMs": 3520
+            },
+            {
+              "word": "None",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 4560,
+              "endMs": 4580
+            },
+            {
+              "word": "looked",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 4580,
+              "endMs": 4880
+            },
+            {
+              "word": "strong",
+              "charStart": 71,
+              "charEnd": 77,
+              "startMs": 4880,
+              "endMs": 5160
+            },
+            {
+              "word": "enough",
+              "charStart": 78,
+              "charEnd": 84,
+              "startMs": 5160,
+              "endMs": 5500
+            },
+            {
+              "word": "yet",
+              "charStart": 86,
+              "charEnd": 89,
+              "startMs": 5860,
+              "endMs": 6000
+            },
+            {
+              "word": "together",
+              "charStart": 90,
+              "charEnd": 98,
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "word": "they",
+              "charStart": 99,
+              "charEnd": 103,
+              "startMs": 6400,
+              "endMs": 6940
+            },
+            {
+              "word": "warmed",
+              "charStart": 104,
+              "charEnd": 110,
+              "startMs": 6940,
+              "endMs": 7160
+            },
+            {
+              "word": "her",
+              "charStart": 111,
+              "charEnd": 114,
+              "startMs": 7160,
+              "endMs": 7440
+            },
+            {
+              "word": "hands",
+              "charStart": 115,
+              "charEnd": 120,
+              "startMs": 7440,
+              "endMs": 7720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At sunset, Mira returned to the roof and pressed the first patch against the tear. This time the silver thread held.",
+          "translation_ko": "해 질 무렵 미라는 옥상으로 돌아와 첫 조각을 틈에 대었어요. 이번에는 은실이 버텼어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "sunset",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 860,
+              "endMs": 1360
+            },
+            {
+              "word": "Mira",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 2000,
+              "endMs": 2060
+            },
+            {
+              "word": "returned",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 2060,
+              "endMs": 2540
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2540,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "roof",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 3080,
+              "endMs": 3080
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3080,
+              "endMs": 3680
+            },
+            {
+              "word": "pressed",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 3680,
+              "endMs": 3880
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3880,
+              "endMs": 4140
+            },
+            {
+              "word": "first",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 4140,
+              "endMs": 4460
+            },
+            {
+              "word": "patch",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 4460,
+              "endMs": 4720
+            },
+            {
+              "word": "against",
+              "charStart": 65,
+              "charEnd": 72,
+              "startMs": 4720,
+              "endMs": 5080
+            },
+            {
+              "word": "the",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 5080,
+              "endMs": 5480
+            },
+            {
+              "word": "tear",
+              "charStart": 77,
+              "charEnd": 81,
+              "startMs": 5480,
+              "endMs": 5900
+            },
+            {
+              "word": "This",
+              "charStart": 83,
+              "charEnd": 87,
+              "startMs": 6500,
+              "endMs": 6640
+            },
+            {
+              "word": "time",
+              "charStart": 88,
+              "charEnd": 92,
+              "startMs": 6640,
+              "endMs": 6900
+            },
+            {
+              "word": "the",
+              "charStart": 93,
+              "charEnd": 96,
+              "startMs": 6900,
+              "endMs": 7160
+            },
+            {
+              "word": "silver",
+              "charStart": 97,
+              "charEnd": 103,
+              "startMs": 7160,
+              "endMs": 7420
+            },
+            {
+              "word": "thread",
+              "charStart": 104,
+              "charEnd": 110,
+              "startMs": 7420,
+              "endMs": 7720
+            },
+            {
+              "word": "held",
+              "charStart": 111,
+              "charEnd": 115,
+              "startMs": 7720,
+              "endMs": 8100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The wind pushed hard, and the patches fluttered like nervous birds. People below saw her struggling and began sending more light upward.",
+          "translation_ko": "바람은 세게 밀었고 조각들은 긴장한 새들처럼 펄럭였어요. 아래 사람들이 미라가 애쓰는 것을 보고 더 많은 빛을 올려 보냈어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "wind",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "pushed",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "hard",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2160,
+              "endMs": 2180
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2180,
+              "endMs": 2360
+            },
+            {
+              "word": "patches",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2360,
+              "endMs": 2640
+            },
+            {
+              "word": "fluttered",
+              "charStart": 38,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 3160
+            },
+            {
+              "word": "like",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3160,
+              "endMs": 3320
+            },
+            {
+              "word": "nervous",
+              "charStart": 53,
+              "charEnd": 60,
+              "startMs": 3320,
+              "endMs": 3580
+            },
+            {
+              "word": "birds",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 3580,
+              "endMs": 4020
+            },
+            {
+              "word": "People",
+              "charStart": 68,
+              "charEnd": 74,
+              "startMs": 4980,
+              "endMs": 5060
+            },
+            {
+              "word": "below",
+              "charStart": 75,
+              "charEnd": 80,
+              "startMs": 5060,
+              "endMs": 5360
+            },
+            {
+              "word": "saw",
+              "charStart": 81,
+              "charEnd": 84,
+              "startMs": 5360,
+              "endMs": 5540
+            },
+            {
+              "word": "her",
+              "charStart": 85,
+              "charEnd": 88,
+              "startMs": 5540,
+              "endMs": 5740
+            },
+            {
+              "word": "struggling",
+              "charStart": 89,
+              "charEnd": 99,
+              "startMs": 5740,
+              "endMs": 6120
+            },
+            {
+              "word": "and",
+              "charStart": 100,
+              "charEnd": 103,
+              "startMs": 6120,
+              "endMs": 6340
+            },
+            {
+              "word": "began",
+              "charStart": 104,
+              "charEnd": 109,
+              "startMs": 6340,
+              "endMs": 6580
+            },
+            {
+              "word": "sending",
+              "charStart": 110,
+              "charEnd": 117,
+              "startMs": 6580,
+              "endMs": 6840
+            },
+            {
+              "word": "more",
+              "charStart": 118,
+              "charEnd": 122,
+              "startMs": 6840,
+              "endMs": 7120
+            },
+            {
+              "word": "light",
+              "charStart": 123,
+              "charEnd": 128,
+              "startMs": 7120,
+              "endMs": 7320
+            },
+            {
+              "word": "upward",
+              "charStart": 129,
+              "charEnd": 135,
+              "startMs": 7320,
+              "endMs": 7640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A teacher forgave a mistake. A shopkeeper returned extra change. Two cousins stopped pretending they were not lonely.",
+          "translation_ko": "선생님은 실수를 용서했어요. 가게 주인은 거스름돈을 더 돌려주었어요. 두 사촌은 외롭지 않은 척하기를 멈췄어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "teacher",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 620
+            },
+            {
+              "word": "forgave",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 1380
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "mistake",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1640,
+              "endMs": 1940
+            },
+            {
+              "word": "A",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 2960,
+              "endMs": 3120
+            },
+            {
+              "word": "shopkeeper",
+              "charStart": 31,
+              "charEnd": 41,
+              "startMs": 3120,
+              "endMs": 3580
+            },
+            {
+              "word": "returned",
+              "charStart": 42,
+              "charEnd": 50,
+              "startMs": 3580,
+              "endMs": 4020
+            },
+            {
+              "word": "extra",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 4020,
+              "endMs": 4440
+            },
+            {
+              "word": "change",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 4440,
+              "endMs": 4900
+            },
+            {
+              "word": "Two",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 5860,
+              "endMs": 6040
+            },
+            {
+              "word": "cousins",
+              "charStart": 69,
+              "charEnd": 76,
+              "startMs": 6040,
+              "endMs": 6440
+            },
+            {
+              "word": "stopped",
+              "charStart": 77,
+              "charEnd": 84,
+              "startMs": 6440,
+              "endMs": 6900
+            },
+            {
+              "word": "pretending",
+              "charStart": 85,
+              "charEnd": 95,
+              "startMs": 6900,
+              "endMs": 7340
+            },
+            {
+              "word": "they",
+              "charStart": 96,
+              "charEnd": 100,
+              "startMs": 7340,
+              "endMs": 7620
+            },
+            {
+              "word": "were",
+              "charStart": 101,
+              "charEnd": 105,
+              "startMs": 7620,
+              "endMs": 7760
+            },
+            {
+              "word": "not",
+              "charStart": 106,
+              "charEnd": 109,
+              "startMs": 7760,
+              "endMs": 8020
+            },
+            {
+              "word": "lonely",
+              "charStart": 110,
+              "charEnd": 116,
+              "startMs": 8020,
+              "endMs": 8240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The tear closed just as the first star appeared. It did not disappear completely; a silver line remained, shining like a careful seam.",
+          "translation_ko": "첫 별이 나타날 때 틈은 닫혔어요. 완전히 사라지지는 않았고 조심스러운 이음선처럼 은빛 줄이 남았어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "tear",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 540
+            },
+            {
+              "word": "closed",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 1040
+            },
+            {
+              "word": "just",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1560
+            },
+            {
+              "word": "as",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 1940
+            },
+            {
+              "word": "first",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1940,
+              "endMs": 2240
+            },
+            {
+              "word": "star",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "appeared",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2500,
+              "endMs": 2900
+            },
+            {
+              "word": "It",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3520,
+              "endMs": 3520
+            },
+            {
+              "word": "did",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3520,
+              "endMs": 3700
+            },
+            {
+              "word": "not",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3700,
+              "endMs": 4000
+            },
+            {
+              "word": "disappear",
+              "charStart": 60,
+              "charEnd": 69,
+              "startMs": 4000,
+              "endMs": 4320
+            },
+            {
+              "word": "completely",
+              "charStart": 70,
+              "charEnd": 80,
+              "startMs": 4320,
+              "endMs": 4840
+            },
+            {
+              "word": "a",
+              "charStart": 82,
+              "charEnd": 83,
+              "startMs": 5440,
+              "endMs": 5600
+            },
+            {
+              "word": "silver",
+              "charStart": 84,
+              "charEnd": 90,
+              "startMs": 5600,
+              "endMs": 5860
+            },
+            {
+              "word": "line",
+              "charStart": 91,
+              "charEnd": 95,
+              "startMs": 5860,
+              "endMs": 6160
+            },
+            {
+              "word": "remained",
+              "charStart": 96,
+              "charEnd": 104,
+              "startMs": 6160,
+              "endMs": 6560
+            },
+            {
+              "word": "shining",
+              "charStart": 106,
+              "charEnd": 113,
+              "startMs": 7280,
+              "endMs": 7280
+            },
+            {
+              "word": "like",
+              "charStart": 114,
+              "charEnd": 118,
+              "startMs": 7280,
+              "endMs": 7520
+            },
+            {
+              "word": "a",
+              "charStart": 119,
+              "charEnd": 120,
+              "startMs": 7520,
+              "endMs": 7740
+            },
+            {
+              "word": "careful",
+              "charStart": 121,
+              "charEnd": 128,
+              "startMs": 7740,
+              "endMs": 7960
+            },
+            {
+              "word": "seam",
+              "charStart": 129,
+              "charEnd": 133,
+              "startMs": 7960,
+              "endMs": 8320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mira worried that a scar meant failure, but the kite maker shook his head. A mended sky remembers who helped hold it together.",
+          "translation_ko": "미라는 흉터가 실패를 뜻하는지 걱정했지만 연 장인은 고개를 저었어요. 고쳐진 하늘은 누가 함께 붙잡아 주었는지 기억한다고 했어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "worried",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "that",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "scar",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "meant",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 1960
+            },
+            {
+              "word": "failure",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1960,
+              "endMs": 2320
+            },
+            {
+              "word": "but",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2800,
+              "endMs": 3020
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3020,
+              "endMs": 3180
+            },
+            {
+              "word": "kite",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3360
+            },
+            {
+              "word": "maker",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3360,
+              "endMs": 3640
+            },
+            {
+              "word": "shook",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3640,
+              "endMs": 3860
+            },
+            {
+              "word": "his",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 3860,
+              "endMs": 4100
+            },
+            {
+              "word": "head",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 4100,
+              "endMs": 4620
+            },
+            {
+              "word": "A",
+              "charStart": 75,
+              "charEnd": 76,
+              "startMs": 5180,
+              "endMs": 5180
+            },
+            {
+              "word": "mended",
+              "charStart": 77,
+              "charEnd": 83,
+              "startMs": 5180,
+              "endMs": 5500
+            },
+            {
+              "word": "sky",
+              "charStart": 84,
+              "charEnd": 87,
+              "startMs": 5500,
+              "endMs": 5940
+            },
+            {
+              "word": "remembers",
+              "charStart": 88,
+              "charEnd": 97,
+              "startMs": 5940,
+              "endMs": 6440
+            },
+            {
+              "word": "who",
+              "charStart": 98,
+              "charEnd": 101,
+              "startMs": 6440,
+              "endMs": 6760
+            },
+            {
+              "word": "helped",
+              "charStart": 102,
+              "charEnd": 108,
+              "startMs": 6760,
+              "endMs": 6980
+            },
+            {
+              "word": "hold",
+              "charStart": 109,
+              "charEnd": 113,
+              "startMs": 6980,
+              "endMs": 7180
+            },
+            {
+              "word": "it",
+              "charStart": 114,
+              "charEnd": 116,
+              "startMs": 7180,
+              "endMs": 7360
+            },
+            {
+              "word": "together",
+              "charStart": 117,
+              "charEnd": 125,
+              "startMs": 7360,
+              "endMs": 7640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After that day, people looked up whenever they chose kindness. The silver line glimmered back, quiet and strong.",
+          "translation_ko": "그날 이후 사람들은 친절을 선택할 때마다 하늘을 올려다보았어요. 은빛 줄은 조용하고 단단하게 다시 반짝였어요.",
+          "audio": "/seed/the-girl-who-fixed-the-sky/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "that",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 820
+            },
+            {
+              "word": "day",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1180
+            },
+            {
+              "word": "people",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1720,
+              "endMs": 1900
+            },
+            {
+              "word": "looked",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "up",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "whenever",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2520,
+              "endMs": 2820
+            },
+            {
+              "word": "they",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2820,
+              "endMs": 3140
+            },
+            {
+              "word": "chose",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3380
+            },
+            {
+              "word": "kindness",
+              "charStart": 53,
+              "charEnd": 61,
+              "startMs": 3380,
+              "endMs": 3940
+            },
+            {
+              "word": "The",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 4620,
+              "endMs": 4800
+            },
+            {
+              "word": "silver",
+              "charStart": 67,
+              "charEnd": 73,
+              "startMs": 4800,
+              "endMs": 5100
+            },
+            {
+              "word": "line",
+              "charStart": 74,
+              "charEnd": 78,
+              "startMs": 5100,
+              "endMs": 5440
+            },
+            {
+              "word": "glimmered",
+              "charStart": 79,
+              "charEnd": 88,
+              "startMs": 5440,
+              "endMs": 5900
+            },
+            {
+              "word": "back",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 5900,
+              "endMs": 6260
+            },
+            {
+              "word": "quiet",
+              "charStart": 95,
+              "charEnd": 100,
+              "startMs": 6920,
+              "endMs": 6920
+            },
+            {
+              "word": "and",
+              "charStart": 101,
+              "charEnd": 104,
+              "startMs": 6920,
+              "endMs": 7420
+            },
+            {
+              "word": "strong",
+              "charStart": 105,
+              "charEnd": 111,
+              "startMs": 7420,
+              "endMs": 7720
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "하늘을 고친 소녀에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "은실을 든 소녀",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "은실을 든 소녀이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "바람이 센 지붕 위",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "바람이 센 지붕 위에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "하늘에 작은 틈이 생겼어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "하늘에 작은 틈이 생겼어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "사람들의 다정한 빛 조각",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "사람들의 다정한 빛 조각이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 친절이 큰 틈을 메운다는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 친절이 큰 틈을 메운다는 마음을 배워요."
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "slug": "blue-fish-blows-bubbles",
+  "title": "Blue Fish Blows Bubbles",
+  "title_ko": "파란 물고기와 거품",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "파란 물고기가 보글보글 거품을 불며 바닷속에서 노는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Blue Fish is small and round.",
+          "translation_ko": "파란 물고기는 작고 동글동글해요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Blue",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Fish",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 680
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 1000
+            },
+            {
+              "word": "small",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1620
+            },
+            {
+              "word": "round",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 1820
+            }
+          ]
+        },
+        {
+          "text": "Blue Fish lives in the blue sea.",
+          "translation_ko": "파란 물고기는 파란 바다에 살아요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Blue",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "Fish",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 1140
+            },
+            {
+              "word": "lives",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 1700
+            },
+            {
+              "word": "in",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1700,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 2020,
+              "endMs": 2160
+            },
+            {
+              "word": "blue",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2160,
+              "endMs": 2480
+            },
+            {
+              "word": "sea",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2480,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Blue Fish blows one bubble.",
+          "translation_ko": "파란 물고기가 거품 하나를 불어요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Blue",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "Fish",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 780,
+              "endMs": 1160
+            },
+            {
+              "word": "blows",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1720
+            },
+            {
+              "word": "one",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1720,
+              "endMs": 2100
+            },
+            {
+              "word": "bubble",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 2100,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "The bubble is big and blue.",
+          "translation_ko": "거품은 크고 파래요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 980
+            },
+            {
+              "word": "bubble",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 980,
+              "endMs": 1220
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1220,
+              "endMs": 1620
+            },
+            {
+              "word": "big",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1920,
+              "endMs": 2400
+            },
+            {
+              "word": "blue",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2400,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bubble goes past a crab.",
+          "translation_ko": "거품이 게 옆을 지나가요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "bubble",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 720
+            },
+            {
+              "word": "goes",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1260
+            },
+            {
+              "word": "past",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1680
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1680,
+              "endMs": 2200
+            },
+            {
+              "word": "crab",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2200,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Blue Fish blows two bubbles.",
+          "translation_ko": "파란 물고기가 거품 두 개를 불어요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Blue",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "Fish",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 800,
+              "endMs": 1300
+            },
+            {
+              "word": "blows",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "two",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1680,
+              "endMs": 2100
+            },
+            {
+              "word": "bubbles",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 2100,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bubbles go past a starfish.",
+          "translation_ko": "거품들이 불가사리 옆을 지나가요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "bubbles",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "go",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "past",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "starfish",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Blue Fish blows three bubbles.",
+          "translation_ko": "파란 물고기가 거품 세 개를 불어요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Blue",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "Fish",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 960
+            },
+            {
+              "word": "blows",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1480
+            },
+            {
+              "word": "three",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 1920
+            },
+            {
+              "word": "bubbles",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bubbles go up to the sun.",
+          "translation_ko": "거품들이 해님까지 올라가요.",
+          "audio": "/seed/blue-fish-blows-bubbles/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "bubbles",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "go",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1160
+            },
+            {
+              "word": "up",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1620
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "sun",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1820,
+              "endMs": 2060
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "파란 물고기는 어떻게 생겼나요?",
+      "type": "mc",
+      "options": [
+        "작고 동글동글해요",
+        "크고 길어요",
+        "납작해요",
+        "뾰족해요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "파란 물고기는 작고 동글동글해요."
+    },
+    {
+      "question_ko": "파란 물고기가 무엇을 불었나요?",
+      "type": "mc",
+      "options": [
+        "거품",
+        "바람",
+        "풍선",
+        "휘파람"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "파란 물고기는 거품을 불었어요."
+    },
+    {
+      "question_ko": "첫 번째 거품은 누구 옆을 지나갔나요?",
+      "type": "mc",
+      "options": [
+        "게",
+        "불가사리",
+        "거북이",
+        "문어"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "첫 번째 거품은 게 옆을 지나갔어요."
+    },
+    {
+      "question_ko": "거품들이 마지막에 어디까지 올라갔나요?",
+      "type": "mc",
+      "options": [
+        "해님",
+        "달님",
+        "구름",
+        "별"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "거품들은 위로 올라가 해님까지 갔어요."
+    },
+    {
+      "question_ko": "이 이야기를 보면 어떤 기분이 드나요?",
+      "type": "mc",
+      "options": [
+        "즐겁고 신나요",
+        "무섭고 떨려요",
+        "슬프고 외로워요",
+        "화나고 답답해요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "파란 물고기가 거품을 불며 노는 모습이 즐겁고 신나요."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "one-yellow-leaf",
+    "where": "p1",
+    "severity": "med",
+    "issue": "\"sits on a tree\" and \"나무에 앉아 있어요\" sound literal for a leaf; the Korean is not natural child-friendly phrasing.",
+    "suggestion": "Use \"One yellow leaf is on a tree.\" / \"노란 잎 하나가 나무에 있어요.\""
+  },
+  {
+    "slug": "one-yellow-leaf",
+    "where": "p2",
+    "severity": "high",
+    "issue": "\"The wind blows soft and low\" uses adjective \"soft\" where standard graded-reader grammar needs an adverb or a simpler adjective phrase.",
+    "suggestion": "Change to \"A soft wind blows.\" and keep \"바람이 살랑살랑 불어와요.\""
+  },
+  {
+    "slug": "one-yellow-leaf",
+    "where": "global",
+    "severity": "med",
+    "issue": "The preA1 text uses several motion verbs above the level: floats, spins, drifts, lands.",
+    "suggestion": "Simplify to repeated preA1 patterns such as \"The leaf goes up. It turns. It goes down. It is on the grass.\""
+  },
+  {
+    "slug": "tiny-mouse-big-cheese",
+    "where": "p6",
+    "severity": "med",
+    "issue": "\"Now they are two!\" is understandable but not idiomatic English for this meaning.",
+    "suggestion": "Change to \"Now there are two friends!\" / \"이제 친구가 둘이에요!\""
+  },
+  {
+    "slug": "tiny-mouse-big-cheese",
+    "where": "quiz#3",
+    "severity": "med",
+    "issue": "The negative question is hard for preA1, and \"치즈에게 한 행동\" uses 에게 with an inanimate object.",
+    "suggestion": "Change to \"쥐는 치즈를 처음에 어떻게 했나요?\" with options [\"밀었어요\", \"먹었어요\", \"숨겼어요\", \"던졌어요\"] and answerIndex 0."
+  },
+  {
+    "slug": "rabbits-rainy-picnic",
+    "where": "p8",
+    "severity": "med",
+    "issue": "The Korean translation repeats 웃- twice: \"다시 웃으며 활짝 웃어요\" sounds awkward.",
+    "suggestion": "Change to \"토끼는 다시 활짝 웃어요.\""
+  },
+  {
+    "slug": "rabbits-rainy-picnic",
+    "where": "p9",
+    "severity": "med",
+    "issue": "\"Rain or sun\" is an unnatural English phrase, even though the meaning is clear.",
+    "suggestion": "Change to \"Rainy or sunny, family is fun.\""
+  },
+  {
+    "slug": "squirrels-acorn-hunt",
+    "where": "summary",
+    "severity": "high",
+    "issue": "summary_ko says the story is a \"부지런한 하루\", but the plot continues from winter into spring.",
+    "suggestion": "Change to \"겨울을 앞두고 다람쥐가 도토리를 숨기고, 잊힌 도토리가 봄에 새 나무로 자라요.\""
+  },
+  {
+    "slug": "squirrels-acorn-hunt",
+    "where": "p5",
+    "severity": "high",
+    "issue": "\"under the soft ground\" is not natural for burying acorns; the story means in the ground.",
+    "suggestion": "Change to \"She hides the acorns in the soft ground.\""
+  },
+  {
+    "slug": "squirrels-acorn-hunt",
+    "where": "p8",
+    "severity": "high",
+    "issue": "The story is in present tense, but \"was\" switches tense in the final sentence; \"forgotten\" and \"after all\" are also too hard for A1.",
+    "suggestion": "Change to \"The lost acorn is a happy gift.\" / \"잊힌 도토리는 기쁜 선물이에요.\""
+  },
+  {
+    "slug": "little-cloud-and-the-rainbow",
+    "where": "quiz#3",
+    "severity": "high",
+    "issue": "The question says \"비가 그친 뒤에\", but the story says sunlight shines through the rain; the rain has not clearly stopped.",
+    "suggestion": "Change question_ko to \"비가 내릴 때 무엇이 나왔나요?\""
+  },
+  {
+    "slug": "the-windmill-friend",
+    "where": "p6",
+    "severity": "med",
+    "issue": "\"커다란 부채를 무거운 날개에 마구 부쳤어요\" sounds awkward; the direction and action of fanning are unclear.",
+    "suggestion": "Change to \"아이들은 커다란 부채로 무거운 날개 쪽을 힘껏 부채질했어요.\""
+  },
+  {
+    "slug": "the-windmill-friend",
+    "where": "p9",
+    "severity": "med",
+    "issue": "\"because the evening was coming\" sounds like a literal explanation rather than natural English narration.",
+    "suggestion": "Change to \"As evening came, the breeze grew stronger.\""
+  },
+  {
+    "slug": "owls-night-school",
+    "where": "p5",
+    "severity": "high",
+    "issue": "\"learn to fly softly\" is unnatural for silent flight, and \"부드럽게 나는 법\" does not match the intended meaning of flying without sound.",
+    "suggestion": "Change to \"Now let's learn to fly quietly,\" / \"이제 소리 없이 나는 법을 배워 보자.\""
+  },
+  {
+    "slug": "the-lighthouse-keepers-promise",
+    "where": "p9",
+    "severity": "high",
+    "issue": "\"a fishing boat was lost and frightened\" incorrectly makes the boat frightened; the sailors are frightened.",
+    "suggestion": "Change to \"Far out on the black water, the sailors on a fishing boat were lost and frightened.\" / \"저 멀리 캄캄한 바다 위에서 고깃배의 뱃사람들이 길을 잃고 겁에 질려 있었어요.\""
+  },
+  {
+    "slug": "the-secret-of-the-tide-clock",
+    "where": "summary",
+    "severity": "high",
+    "issue": "summary_ko has the wrong or ambiguous subject: it reads as if the tide clock discovers how to read the sea, not Mina.",
+    "suggestion": "Change to \"미나가 바닷가 할아버지의 낡은 조수 시계가 어떻게 바다를 읽는지 알아내고, 다가오는 폭풍에서 배들을 지켜내요.\""
+  },
+  {
+    "slug": "the-secret-of-the-tide-clock",
+    "where": "p9",
+    "severity": "med",
+    "issue": "The clock hand \"shiver\" warning makes the tide clock seem magical, which conflicts with the ending that the sea is not magic.",
+    "suggestion": "Change to \"Mina ran to the clock and saw the hand point to an unusually high tide.\""
+  },
+  {
+    "slug": "the-secret-of-the-tide-clock",
+    "where": "p12",
+    "severity": "med",
+    "issue": "\"조용한 자랑스러움으로 따뜻해졌어요\" is literal and unnatural Korean for children.",
+    "suggestion": "Change to \"미나는 조용히 뿌듯해서 두 볼이 따뜻해졌어요.\""
+  },
+  {
+    "slug": "the-secret-of-the-tide-clock",
+    "where": "p13",
+    "severity": "med",
+    "issue": "\"끈기 있는 비밀\" is a literal and unnatural rendering of \"patient secret\" for Korean children.",
+    "suggestion": "Change to \"바다는 마법이 아니라, 차분히 살피면 읽을 수 있는 비밀이라는 것을 깨달았어요.\""
+  },
+  {
+    "slug": "the-storyteller-of-the-harbor",
+    "where": "summary",
+    "severity": "med",
+    "issue": "\"바통을 넘기는\" is a borrowed idiom and sounds less child-friendly than the rest of the summary.",
+    "suggestion": "Change to \"항구의 늙은 이야기꾼이 마지막 이야기를 아이들에게 이어 주는 따뜻한 이야기예요.\""
+  },
+  {
+    "slug": "the-storyteller-of-the-harbor",
+    "where": "p4",
+    "severity": "med",
+    "issue": "The Korean dialogue mirrors the English split quote (\"오늘 밤엔,\" 그가 말했어요, ...) and sounds stiff.",
+    "suggestion": "Change to \"오늘 밤엔 남쪽 바다의 노래하는 고래들 이야기를 들려주마.\" 그가 말했어요."
+  },
+  {
+    "slug": "the-storyteller-of-the-harbor",
+    "where": "p11",
+    "severity": "med",
+    "issue": "The Korean dialogue again uses a split quote that sounds translated rather than natural.",
+    "suggestion": "Change to \"고래들은 달이 뜰 때까지 노래했어요. 그러고는 길 잃은 배를 집으로 데려다주었지요.\" 미라가 말했어요."
+  }
+]

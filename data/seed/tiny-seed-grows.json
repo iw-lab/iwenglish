@@ -1,0 +1,556 @@
+{
+  "slug": "tiny-seed-grows",
+  "title": "Tiny Seed Grows",
+  "title_ko": "작은 씨앗이 자라요",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "작은 씨앗이 햇빛과 비를 받아 노란 꽃으로 자라는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A tiny seed is in the soil. It is small and brown.",
+          "translation_ko": "작은 씨앗이 흙 속에 있어요. 작고 갈색이에요.",
+          "audio": "/seed/tiny-seed-grows/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "tiny",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 580
+            },
+            {
+              "word": "seed",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "is",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "in",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "soil",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "It",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2220,
+              "endMs": 2240
+            },
+            {
+              "word": "is",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "small",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2500,
+              "endMs": 2760
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2760,
+              "endMs": 3240
+            },
+            {
+              "word": "brown",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3240,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The sun is warm. The seed is happy.",
+          "translation_ko": "해님이 따뜻해요. 씨앗은 기분이 좋아요.",
+          "audio": "/seed/tiny-seed-grows/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "sun",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "warm",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "The",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "seed",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 1880
+            },
+            {
+              "word": "is",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1880,
+              "endMs": 2260
+            },
+            {
+              "word": "happy",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2260,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The rain comes down. The seed gets a drink.",
+          "translation_ko": "비가 내려요. 씨앗이 물을 마셔요.",
+          "audio": "/seed/tiny-seed-grows/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "rain",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "comes",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1220
+            },
+            {
+              "word": "down",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1600
+            },
+            {
+              "word": "The",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "seed",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2300,
+              "endMs": 2640
+            },
+            {
+              "word": "gets",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2640,
+              "endMs": 2920
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2920,
+              "endMs": 3140
+            },
+            {
+              "word": "drink",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 3140,
+              "endMs": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A little sprout pushes up.",
+          "translation_ko": "작은 새싹이 쑥 올라와요.",
+          "audio": "/seed/tiny-seed-grows/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "little",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 540
+            },
+            {
+              "word": "sprout",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "pushes",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 940,
+              "endMs": 1440
+            },
+            {
+              "word": "up",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Green leaves grow and grow. The plant is tall now.",
+          "translation_ko": "초록 잎이 쑥쑥 자라요. 이제 식물이 키가 커요.",
+          "audio": "/seed/tiny-seed-grows/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Green",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "leaves",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "grow",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1300
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1660
+            },
+            {
+              "word": "grow",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 1940
+            },
+            {
+              "word": "The",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2600,
+              "endMs": 2740
+            },
+            {
+              "word": "plant",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2740,
+              "endMs": 3000
+            },
+            {
+              "word": "is",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 3000,
+              "endMs": 3340
+            },
+            {
+              "word": "tall",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3340,
+              "endMs": 3600
+            },
+            {
+              "word": "now",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3600,
+              "endMs": 3940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A small bud grows on top.",
+          "translation_ko": "꼭대기에 작은 꽃봉오리가 생겨요.",
+          "audio": "/seed/tiny-seed-grows/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "small",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 760,
+              "endMs": 1100
+            },
+            {
+              "word": "bud",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "grows",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1440,
+              "endMs": 1960
+            },
+            {
+              "word": "on",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1960,
+              "endMs": 2220
+            },
+            {
+              "word": "top",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2220,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bud opens. A yellow flower says hello!",
+          "translation_ko": "봉오리가 열려요. 노란 꽃이 안녕 하고 인사해요!",
+          "audio": "/seed/tiny-seed-grows/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "bud",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "opens",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1400
+            },
+            {
+              "word": "A",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1920,
+              "endMs": 2100
+            },
+            {
+              "word": "yellow",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 2100,
+              "endMs": 2360
+            },
+            {
+              "word": "flower",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 2360,
+              "endMs": 2800
+            },
+            {
+              "word": "says",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2800,
+              "endMs": 3220
+            },
+            {
+              "word": "hello",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3220,
+              "endMs": 3580
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "씨앗은 처음에 어디에 있었나요?",
+      "type": "mc",
+      "options": [
+        "흙 속에",
+        "물속에",
+        "나무 위에",
+        "바위 위에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 씨앗은 흙 속에 있었어요."
+    },
+    {
+      "question_ko": "씨앗을 따뜻하게 해 준 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "바람",
+        "해님",
+        "눈",
+        "달"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "따뜻한 해님이 씨앗을 기분 좋게 해 주었어요."
+    },
+    {
+      "question_ko": "비가 내려서 씨앗은 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "잠을 잤어요",
+        "물을 마셨어요",
+        "날아갔어요",
+        "노래했어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "비가 내려서 씨앗이 물을 마셨어요."
+    },
+    {
+      "question_ko": "마지막에 무슨 색 꽃이 피었나요?",
+      "type": "mc",
+      "options": [
+        "빨간 꽃",
+        "파란 꽃",
+        "노란 꽃",
+        "흰 꽃"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "봉오리가 열리고 노란 꽃이 피었어요."
+    },
+    {
+      "question_ko": "이 이야기가 알려 주는 것은 무엇일까요?",
+      "type": "mc",
+      "options": [
+        "작은 씨앗도 햇빛과 비를 받아 꽃으로 자라요",
+        "꽃은 밤에만 자라요",
+        "씨앗은 자라지 않아요",
+        "물은 꽃에게 나빠요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 씨앗이 햇빛과 비를 받아 예쁜 꽃으로 자랐어요."
+    }
+  ]
+}

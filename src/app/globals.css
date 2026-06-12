@@ -129,6 +129,76 @@
   }
 }
 
+/* 가로 책장 선반 — 스크롤바 숨김 + 스냅 */
+@utility shelf-row {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 0.25rem;
+}
+.shelf-row::-webkit-scrollbar {
+  display: none;
+}
+
+/* 모던 카드 — 색 틴트 소프트 섀도 + 호버 리프트 */
+@utility card-lift {
+  transition:
+    transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1),
+    box-shadow 0.25s ease;
+}
+.card-lift:hover {
+  transform: translateY(-4px) scale(1.015);
+  box-shadow:
+    0 12px 28px -10px oklch(0.62 0.07 155 / 0.25),
+    0 4px 10px -4px oklch(0 0 0 / 0.08);
+}
+
+/* 브랜드 그라디언트 텍스트 */
+@utility text-brand-gradient {
+  background: linear-gradient(120deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* 도장 콘페티 버스트 */
+@keyframes stamp-confetti {
+  0% {
+    transform: translate(0, 0) scale(0.4) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(var(--cx), var(--cy)) scale(1.1) rotate(var(--cr));
+    opacity: 0;
+  }
+}
+.stamp-confetti {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  pointer-events: none;
+  animation: stamp-confetti 0.9s cubic-bezier(0.1, 0.8, 0.3, 1) forwards;
+}
+
+/* 도장 찍기 쾅 효과 */
+@keyframes stamp-slam {
+  0% {
+    transform: scale(1);
+  }
+  35% {
+    transform: scale(1.25) rotate(-6deg);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.stamp-slam {
+  animation: stamp-slam 0.45s cubic-bezier(0.3, 1.6, 0.4, 1);
+}
+
 /* 접근성: 모션 최소화 */
 @media (prefers-reduced-motion: reduce) {
   *,

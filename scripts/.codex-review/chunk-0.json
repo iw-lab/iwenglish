@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "snail-says-hello",
+    "where": "p1",
+    "severity": "high",
+    "issue": "English uses the adjective/adverb form in \"A little snail goes slow.\" For graded EFL, this models nonstandard grammar.",
+    "suggestion": "Change to \"A little snail goes slowly.\""
+  },
+  {
+    "slug": "snail-says-hello",
+    "where": "p7",
+    "severity": "high",
+    "issue": "\"Slow snail says hello to all\" is missing the article before a singular count noun and sounds unnatural.",
+    "suggestion": "Change to \"The slow snail says hello to everyone.\""
+  },
+  {
+    "slug": "blue-fish-blows-bubbles",
+    "where": "summary",
+    "severity": "med",
+    "issue": "Korean summary has an unnatural particle: \"바닷속을 노는\".",
+    "suggestion": "Change to \"파란 물고기가 보글보글 거품을 불며 바닷속에서 노는 이야기예요.\""
+  },
+  {
+    "slug": "the-littlest-firefly",
+    "where": "p6",
+    "severity": "med",
+    "issue": "\"Pip came close, so his light helped the beetle\" has an awkward causal link; coming close does not directly mean the light helped.",
+    "suggestion": "Change to \"Pip came close to help the beetle.\""
+  },
+  {
+    "slug": "the-littlest-firefly",
+    "where": "quiz#3",
+    "severity": "med",
+    "issue": "Option \"다른 핍의 친구\" is unnatural and can be read as \"another Pip's friend.\"",
+    "suggestion": "Change the option to \"핍의 다른 친구\" or \"다른 반딧불이 친구\"."
+  },
+  {
+    "slug": "the-singing-frog",
+    "where": "p9",
+    "severity": "med",
+    "issue": "\"sings as one\" is an idiomatic phrase that is too hard for A1 readers.",
+    "suggestion": "Change to \"Every night, all the pond friends sing together.\""
+  },
+  {
+    "slug": "the-fox-and-the-bridge",
+    "where": "p10",
+    "severity": "low",
+    "issue": "\"A bridge of friends\" is poetic but awkward and may confuse A2 readers.",
+    "suggestion": "Change to \"A bridge made by friends is the best bridge.\""
+  },
+  {
+    "slug": "the-garden-detective",
+    "where": "p4",
+    "severity": "high",
+    "issue": "English says \"Near the leaves,\" likely the strawberry plant leaves, but Korean says \"나뭇잎,\" which means tree leaves.",
+    "suggestion": "Change translation_ko to \"딸기 잎 근처에서 작은 회색 깃털 하나가 눈에 띄었어요.\""
+  },
+  {
+    "slug": "the-tide-pool-treasure",
+    "where": "p3",
+    "severity": "med",
+    "issue": "\"They knelt down because the first pool was very still\" gives an odd cause-and-effect, and \"knelt\" is also difficult for A2.",
+    "suggestion": "Change to \"They sat beside the first pool. The water was very still.\""
+  },
+  {
+    "slug": "the-tide-pool-treasure",
+    "where": "p9",
+    "severity": "med",
+    "issue": "Korean \"살아 있고, 어디서도 살 수 없으니까\" is accurate but potentially confusing because \"살\" repeats with different meanings.",
+    "suggestion": "Change to \"살아 있고, 어디에서도 돈으로 살 수 없으니까.\""
+  },
+  {
+    "slug": "the-last-leaf-of-autumn",
+    "where": "p10",
+    "severity": "high",
+    "issue": "\"It held the ladybug warm\" is not natural English grammar/collocation.",
+    "suggestion": "Change to \"It kept the ladybug warm and stayed with the lonely bird.\""
+  }
+]

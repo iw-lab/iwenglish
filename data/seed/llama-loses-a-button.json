@@ -1,0 +1,497 @@
+{
+  "slug": "llama-loses-a-button",
+  "title": "Llama Loses a Button",
+  "title_ko": "라마가 단추를 잃어버려요",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "빨간 조끼의 단추를 잃어버린 라마가 차분히 되짚어 찾는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Lulu the llama wore a red vest.",
+          "translation_ko": "라마 룰루는 빨간 조끼를 입었어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Lulu",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 1260
+            },
+            {
+              "word": "llama",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1260,
+              "endMs": 1300
+            },
+            {
+              "word": "wore",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1680,
+              "endMs": 2000
+            },
+            {
+              "word": "red",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2000,
+              "endMs": 2180
+            },
+            {
+              "word": "vest",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2180,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One blue button was missing.",
+          "translation_ko": "파란 단추 하나가 없어졌어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "blue",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "button",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "was",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1520
+            },
+            {
+              "word": "missing",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Lulu looked in the hay.",
+          "translation_ko": "룰루는 건초 속을 보았어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Lulu",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "looked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 1060
+            },
+            {
+              "word": "in",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1520
+            },
+            {
+              "word": "hay",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She looked near the water bucket.",
+          "translation_ko": "물통 근처도 보았어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "near",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "water",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1880,
+              "endMs": 2040
+            },
+            {
+              "word": "bucket",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2040,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then she walked back to the fence.",
+          "translation_ko": "그다음 울타리 쪽으로 다시 걸어갔어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "she",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 880
+            },
+            {
+              "word": "walked",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "back",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1480
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 2140
+            },
+            {
+              "word": "fence",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Something blue shone in the grass.",
+          "translation_ko": "풀밭에서 파란 것이 반짝였어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Something",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "blue",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "shone",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1400
+            },
+            {
+              "word": "in",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1740
+            },
+            {
+              "word": "grass",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1740,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Lulu found her button at last.",
+          "translation_ko": "룰루는 마침내 단추를 찾았어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Lulu",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "found",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "her",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "button",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "at",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "last",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She learned to check each step.",
+          "translation_ko": "룰루는 걸어온 길을 하나씩 확인하는 법을 배웠어요.",
+          "audio": "/seed/llama-loses-a-button/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "learned",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "to",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1100
+            },
+            {
+              "word": "check",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "each",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1720
+            },
+            {
+              "word": "step",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1720,
+              "endMs": 1980
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "라마가 단추를 잃어버려요에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "하얀 라마",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "하얀 라마이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "농장 울타리",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "농장 울타리에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "조끼 단추가 사라졌어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "조끼 단추가 사라졌어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "지나온 길을 다시 보기",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "지나온 길을 다시 보기이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "차분히 되짚어 보는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "차분히 되짚어 보는 마음을 배워요."
+    }
+  ]
+}

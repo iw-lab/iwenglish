@@ -1,0 +1,946 @@
+{
+  "slug": "the-library-at-the-end-of-the-lane",
+  "title": "The Library at the End of the Lane",
+  "title_ko": "골목 끝 도서관",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "골목 끝 작은 책장 도서관을 살리기 위해 아이들이 책과 표지판을 준비하는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "At the end of our lane stood a tiny blue library cabinet.",
+          "translation_ko": "우리 골목 끝에는 작은 파란 책장 도서관이 있었어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 900,
+              "endMs": 940
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1060
+            },
+            {
+              "word": "our",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1240
+            },
+            {
+              "word": "lane",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "stood",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "a",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "tiny",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2400
+            },
+            {
+              "word": "blue",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2400,
+              "endMs": 2720
+            },
+            {
+              "word": "library",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2720,
+              "endMs": 3120
+            },
+            {
+              "word": "cabinet",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 3120,
+              "endMs": 3480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Its door hung crooked, and only two dusty books waited inside.",
+          "translation_ko": "문은 비뚤어져 있었고 안에는 먼지 쌓인 책 두 권만 있었어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Its",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "door",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 560
+            },
+            {
+              "word": "hung",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "crooked",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 860,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1860,
+              "endMs": 1940
+            },
+            {
+              "word": "only",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "two",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2660
+            },
+            {
+              "word": "dusty",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2660,
+              "endMs": 2940
+            },
+            {
+              "word": "books",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2940,
+              "endMs": 3340
+            },
+            {
+              "word": "waited",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 3340,
+              "endMs": 3800
+            },
+            {
+              "word": "inside",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3800,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "My friends and I decided to repair it after school.",
+          "translation_ko": "친구들과 나는 방과 후에 그것을 고치기로 했어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "friends",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1120
+            },
+            {
+              "word": "I",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1120,
+              "endMs": 1360
+            },
+            {
+              "word": "decided",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1660
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 1980
+            },
+            {
+              "word": "repair",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2080
+            },
+            {
+              "word": "it",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2080,
+              "endMs": 2400
+            },
+            {
+              "word": "after",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2400,
+              "endMs": 2720
+            },
+            {
+              "word": "school",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2720,
+              "endMs": 3060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sora held the door steady while I tightened the loose screw.",
+          "translation_ko": "소라가 문을 단단히 잡는 동안 나는 헐거운 나사를 조였어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sora",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "held",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 880
+            },
+            {
+              "word": "door",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "steady",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1100,
+              "endMs": 1520
+            },
+            {
+              "word": "while",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1880
+            },
+            {
+              "word": "I",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "tightened",
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2340,
+              "endMs": 2580
+            },
+            {
+              "word": "loose",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2580,
+              "endMs": 2780
+            },
+            {
+              "word": "screw",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2780,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Min drew a sign that said, Take one, leave one.",
+          "translation_ko": "민이는 한 권 가져가고 한 권 놓아 주세요라는 표지판을 그렸어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Min",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "drew",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 840
+            },
+            {
+              "word": "sign",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1020
+            },
+            {
+              "word": "that",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1440
+            },
+            {
+              "word": "said",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1540
+            },
+            {
+              "word": "Take",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2080
+            },
+            {
+              "word": "one",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2080,
+              "endMs": 2420
+            },
+            {
+              "word": "leave",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2840,
+              "endMs": 2900
+            },
+            {
+              "word": "one",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2900,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "We each brought a book we had loved but could share.",
+          "translation_ko": "우리는 각자 좋아했지만 나눌 수 있는 책을 한 권씩 가져왔어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "each",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "brought",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 860
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "book",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1300
+            },
+            {
+              "word": "we",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1640
+            },
+            {
+              "word": "had",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "loved",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "but",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2720
+            },
+            {
+              "word": "could",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2720,
+              "endMs": 2900
+            },
+            {
+              "word": "share",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2900,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next morning, a cookbook appeared beside my adventure book.",
+          "translation_ko": "다음 날 아침 내 모험책 옆에 요리책이 나타났어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 180,
+              "endMs": 520
+            },
+            {
+              "word": "morning",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "cookbook",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1860
+            },
+            {
+              "word": "appeared",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2300
+            },
+            {
+              "word": "beside",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2800
+            },
+            {
+              "word": "my",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2800,
+              "endMs": 3080
+            },
+            {
+              "word": "adventure",
+              "charStart": 48,
+              "charEnd": 57,
+              "startMs": 3080,
+              "endMs": 3420
+            },
+            {
+              "word": "book",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3420,
+              "endMs": 3760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By Friday, the little cabinet was full of different stories.",
+          "translation_ko": "금요일이 되자 작은 책장은 다양한 이야기로 가득 찼어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "Friday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 760
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "little",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1480
+            },
+            {
+              "word": "cabinet",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "was",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1780,
+              "endMs": 2100
+            },
+            {
+              "word": "full",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "of",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2320,
+              "endMs": 2540
+            },
+            {
+              "word": "different",
+              "charStart": 42,
+              "charEnd": 51,
+              "startMs": 2540,
+              "endMs": 2800
+            },
+            {
+              "word": "stories",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 2800,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Neighbors stopped to talk about what they had read.",
+          "translation_ko": "이웃들은 멈춰 서서 자신이 읽은 것에 대해 이야기했어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Neighbors",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "stopped",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 1140
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1580
+            },
+            {
+              "word": "talk",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1860
+            },
+            {
+              "word": "about",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "what",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2280
+            },
+            {
+              "word": "they",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2420
+            },
+            {
+              "word": "had",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2420,
+              "endMs": 2600
+            },
+            {
+              "word": "read",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2600,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The lane felt longer in the best way, because every book opened a new road.",
+          "translation_ko": "책마다 새 길이 열려서 골목은 좋은 의미로 더 길게 느껴졌어요.",
+          "audio": "/seed/the-library-at-the-end-of-the-lane/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "lane",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "felt",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "longer",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "in",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "best",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2080
+            },
+            {
+              "word": "way",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2080,
+              "endMs": 2380
+            },
+            {
+              "word": "because",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2820,
+              "endMs": 2960
+            },
+            {
+              "word": "every",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2960,
+              "endMs": 3320
+            },
+            {
+              "word": "book",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3320,
+              "endMs": 3560
+            },
+            {
+              "word": "opened",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3560,
+              "endMs": 3860
+            },
+            {
+              "word": "a",
+              "charStart": 64,
+              "charEnd": 65,
+              "startMs": 3860,
+              "endMs": 4140
+            },
+            {
+              "word": "new",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 4140,
+              "endMs": 4340
+            },
+            {
+              "word": "road",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4340,
+              "endMs": 4580
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "골목 끝 도서관에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 파란 책장 도서관",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 파란 책장 도서관이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "골목 끝 나무 아래",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "골목 끝 나무 아래에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "책장 문이 고장 나고 책이 거의 없었어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "책장 문이 고장 나고 책이 거의 없었어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "아이들의 수리와 표지판",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아이들의 수리와 표지판이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "함께 돌보면 작은 도서관도 살아난다는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "함께 돌보면 작은 도서관도 살아난다는 마음을 배워요."
+    }
+  ]
+}

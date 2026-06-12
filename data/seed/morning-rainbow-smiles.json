@@ -1,0 +1,321 @@
+{
+  "slug": "morning-rainbow-smiles",
+  "title": "Morning Rainbow Smiles",
+  "title_ko": "아침 무지개가 웃어요",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "비가 그친 아침, 창문 밖 무지개를 보며 색깔을 익히는 그림책이에요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "The rain is gone.",
+          "translation_ko": "비가 그쳤어요.",
+          "audio": "/seed/morning-rainbow-smiles/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "rain",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 1180
+            },
+            {
+              "word": "gone",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1180,
+              "endMs": 1540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I open my window.",
+          "translation_ko": "나는 창문을 열어요.",
+          "audio": "/seed/morning-rainbow-smiles/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "open",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "window",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A rainbow is outside.",
+          "translation_ko": "밖에 무지개가 있어요.",
+          "audio": "/seed/morning-rainbow-smiles/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "rainbow",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 1280
+            },
+            {
+              "word": "outside",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I see red and yellow.",
+          "translation_ko": "나는 빨강과 노랑을 보아요.",
+          "audio": "/seed/morning-rainbow-smiles/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "see",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "red",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1300
+            },
+            {
+              "word": "yellow",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1300,
+              "endMs": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I see green and blue.",
+          "translation_ko": "나는 초록과 파랑을 보아요.",
+          "audio": "/seed/morning-rainbow-smiles/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "see",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "green",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "blue",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1300,
+              "endMs": 1580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The morning rainbow smiles.",
+          "translation_ko": "아침 무지개가 웃어요.",
+          "audio": "/seed/morning-rainbow-smiles/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "morning",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 220,
+              "endMs": 600
+            },
+            {
+              "word": "rainbow",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 600,
+              "endMs": 1040
+            },
+            {
+              "word": "smiles",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1040,
+              "endMs": 1460
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아침 무지개가 웃어요에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "아침 무지개",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아침 무지개이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "창문 옆 방",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "창문 옆 방에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "비가 와서 방이 흐렸어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "비가 와서 방이 흐렸어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "햇빛과 무지개",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "햇빛과 무지개이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "비 뒤에도 밝은 색이 온다는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "비 뒤에도 밝은 색이 온다는 마음을 배워요."
+    }
+  ]
+}

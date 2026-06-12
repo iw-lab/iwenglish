@@ -8,7 +8,14 @@
  */
 import "./_env";
 import { execFileSync } from "node:child_process";
-import { mkdirSync, existsSync, readFileSync, readdirSync } from "node:fs";
+import {
+  mkdirSync,
+  existsSync,
+  readFileSync,
+  readdirSync,
+  rmSync,
+  statSync,
+} from "node:fs";
 import { join } from "node:path";
 
 import { tokenizeWords, normalizeWord, wordAudioBase } from "@/lib/utils";
@@ -48,25 +55,40 @@ function main() {
   console.log(`🔤 고유 단어 ${words.size}개 — Edge(${EDGE_VOICE}) 생성 시작`);
   let made = 0;
   let reused = 0;
-  let failed = 0;
+  const failedWords: string[] = [];
   for (const [base, w] of words) {
     const mp3 = join(SHARED, base + ".mp3");
     if (existsSync(mp3)) {
-      reused++;
-      continue;
+      if (statSync(mp3).size > 0) {
+        reused++;
+        continue;
+      }
+      rmSync(mp3, { force: true }); // 0바이트 파일 → 삭제 후 재생성
     }
-    try {
-      edgeSynth(w, mp3);
+    // 실패/0바이트 산출물은 삭제 후 1회 재시도
+    let ok = false;
+    for (let attempt = 0; attempt < 2 && !ok; attempt++) {
+      try {
+        edgeSynth(w, mp3);
+        if (existsSync(mp3) && statSync(mp3).size > 0) ok = true;
+        else rmSync(mp3, { force: true });
+      } catch {
+        rmSync(mp3, { force: true });
+      }
+    }
+    if (ok) {
       made++;
       if (made % 20 === 0)
         process.stdout.write(`\r  신규 ${made} · 재사용 ${reused}…`);
-    } catch {
-      failed++;
+    } else {
+      failedWords.push(w);
     }
   }
   console.log(
-    `\n✅ 단어 발음 — 신규 ${made} · 재사용 ${reused} · 실패 ${failed} (총 ${words.size})`,
+    `\n✅ 단어 발음 — 신규 ${made} · 재사용 ${reused} · 실패 ${failedWords.length} (총 ${words.size})`,
   );
+  if (failedWords.length > 0)
+    console.warn(`⚠️ 실패 단어(재실행 시 자동 재시도): ${failedWords.join(", ")}`);
 }
 
 main();

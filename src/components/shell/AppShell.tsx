@@ -15,10 +15,10 @@ export function AppShell({
       <header className="sticky top-0 z-30 flex items-center justify-between gap-2 border-b border-border bg-background/80 px-4 py-3 backdrop-blur-md lg:px-8">
         <span className="text-lg font-extrabold tracking-tight">
           {title ?? (
-            <>
-              <span className="text-primary">Echo</span>
-              <span className="text-accent">Tale</span>
-            </>
+            <span className="inline-flex items-center gap-1.5">
+              <span aria-hidden>📚</span>
+              <span className="text-brand-gradient">EchoTale</span>
+            </span>
           )}
         </span>
         <TopNav />

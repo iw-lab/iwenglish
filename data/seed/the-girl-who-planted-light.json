@@ -1,0 +1,2386 @@
+{
+  "slug": "the-girl-who-planted-light",
+  "title": "The Girl Who Planted Light",
+  "title_ko": "빛을 심은 소녀",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "햇빛이 잘 들지 않는 골짜기에 빛나는 꽃을 심고 정성껏 돌보는 소녀의 마음이 온 마을을 따뜻하게 밝혀 가는 이야기입니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Mira lived in a narrow valley where the sun rarely reached the ground.",
+          "translation_ko": "미라는 햇빛이 좀처럼 땅에 닿지 않는 좁은 골짜기에 살았어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "lived",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 960
+            },
+            {
+              "word": "in",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 960,
+              "endMs": 1080
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1620
+            },
+            {
+              "word": "narrow",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 1620
+            },
+            {
+              "word": "valley",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1620,
+              "endMs": 1960
+            },
+            {
+              "word": "where",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2500
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2500,
+              "endMs": 2720
+            },
+            {
+              "word": "sun",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 3060
+            },
+            {
+              "word": "rarely",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3060,
+              "endMs": 3480
+            },
+            {
+              "word": "reached",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 3480,
+              "endMs": 3820
+            },
+            {
+              "word": "the",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 3820,
+              "endMs": 4020
+            },
+            {
+              "word": "ground",
+              "charStart": 63,
+              "charEnd": 69,
+              "startMs": 4020,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "Even at noon, the houses stayed grey and the gardens grew cold.",
+          "translation_ko": "한낮에도 집들은 잿빛이었고 정원은 차갑기만 했지요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Even",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "at",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "noon",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "houses",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "stayed",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 1960
+            },
+            {
+              "word": "grey",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1960,
+              "endMs": 2300
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2620,
+              "endMs": 2720
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2720,
+              "endMs": 3160
+            },
+            {
+              "word": "gardens",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3160,
+              "endMs": 3160
+            },
+            {
+              "word": "grew",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3160,
+              "endMs": 3480
+            },
+            {
+              "word": "cold",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3480,
+              "endMs": 3860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Everyone said nothing bright could ever grow there.",
+          "translation_ko": "다들 그곳에서는 밝은 것이 자랄 수 없다고 말했어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "said",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "nothing",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1400
+            },
+            {
+              "word": "bright",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1800
+            },
+            {
+              "word": "could",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "ever",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "grow",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2400,
+              "endMs": 2600
+            },
+            {
+              "word": "there",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2600,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "But Mira did not believe them.",
+          "translation_ko": "그래도 미라는 그 말을 믿지 않았답니다.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "Mira",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 760
+            },
+            {
+              "word": "did",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 1160
+            },
+            {
+              "word": "not",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1680
+            },
+            {
+              "word": "believe",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1680,
+              "endMs": 2000
+            },
+            {
+              "word": "them",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2000,
+              "endMs": 2240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One evening she found a tiny seed that glowed faintly in her hand.",
+          "translation_ko": "어느 저녁, 손바닥 위에서 희미하게 빛나는 아주 작은 씨앗을 발견했어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "evening",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 760
+            },
+            {
+              "word": "she",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "found",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1580
+            },
+            {
+              "word": "tiny",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1960
+            },
+            {
+              "word": "seed",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2320
+            },
+            {
+              "word": "that",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2320,
+              "endMs": 2800
+            },
+            {
+              "word": "glowed",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2800,
+              "endMs": 3220
+            },
+            {
+              "word": "faintly",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 3220,
+              "endMs": 3600
+            },
+            {
+              "word": "in",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3600,
+              "endMs": 3720
+            },
+            {
+              "word": "her",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3720,
+              "endMs": 3900
+            },
+            {
+              "word": "hand",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3900,
+              "endMs": 4180
+            }
+          ]
+        },
+        {
+          "text": "She decided to plant light, one seed at a time.",
+          "translation_ko": "그래서 한 알씩 빛을 심어 보기로 마음먹었지요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "decided",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 740
+            },
+            {
+              "word": "to",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "plant",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "light",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1260,
+              "endMs": 1620
+            },
+            {
+              "word": "one",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2260
+            },
+            {
+              "word": "seed",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "at",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2460,
+              "endMs": 2600
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 2880
+            },
+            {
+              "word": "time",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2880,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She dug a small hole near her door and tucked the seed inside.",
+          "translation_ko": "문 앞에 작은 구멍을 파고 그 안에 씨앗을 살며시 묻었어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "dug",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 440
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "small",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 1000
+            },
+            {
+              "word": "hole",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "near",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "her",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "door",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1640,
+              "endMs": 1880
+            },
+            {
+              "word": "and",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1880,
+              "endMs": 2400
+            },
+            {
+              "word": "tucked",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2400,
+              "endMs": 2540
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2540,
+              "endMs": 2980
+            },
+            {
+              "word": "seed",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2980,
+              "endMs": 3020
+            },
+            {
+              "word": "inside",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3020,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "Then she carried her lantern close, so the seed would not feel alone.",
+          "translation_ko": "씨앗이 외롭지 않도록 등불을 가까이 들고 있었답니다.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "she",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "carried",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 860
+            },
+            {
+              "word": "her",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 860,
+              "endMs": 1080
+            },
+            {
+              "word": "lantern",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "close",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1360,
+              "endMs": 1820
+            },
+            {
+              "word": "so",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2240,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "seed",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2560,
+              "endMs": 2800
+            },
+            {
+              "word": "would",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "not",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3000,
+              "endMs": 3240
+            },
+            {
+              "word": "feel",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3240,
+              "endMs": 3540
+            },
+            {
+              "word": "alone",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 3540,
+              "endMs": 3860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Every night Mira returned, even when the wind was cold and sharp.",
+          "translation_ko": "바람이 차고 매서운 날에도 미라는 밤마다 다시 찾아왔어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 860
+            },
+            {
+              "word": "Mira",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "returned",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1980
+            },
+            {
+              "word": "even",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2400,
+              "endMs": 2620
+            },
+            {
+              "word": "when",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2620,
+              "endMs": 2780
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2780,
+              "endMs": 3000
+            },
+            {
+              "word": "wind",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3000,
+              "endMs": 3160
+            },
+            {
+              "word": "was",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3160,
+              "endMs": 3480
+            },
+            {
+              "word": "cold",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3480,
+              "endMs": 3840
+            },
+            {
+              "word": "and",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3840,
+              "endMs": 4220
+            },
+            {
+              "word": "sharp",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 4220,
+              "endMs": 4440
+            }
+          ]
+        },
+        {
+          "text": "She gave the seed water and quiet words, and she waited.",
+          "translation_ko": "씨앗에게 물과 조용한 말을 건네며 가만히 기다렸지요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "gave",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "seed",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "water",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1940
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1940,
+              "endMs": 2660
+            },
+            {
+              "word": "quiet",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2660,
+              "endMs": 3100
+            },
+            {
+              "word": "words",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 3100,
+              "endMs": 3640
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3940,
+              "endMs": 4480
+            },
+            {
+              "word": "she",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 4480,
+              "endMs": 4800
+            },
+            {
+              "word": "waited",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 4800,
+              "endMs": 5040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After many days, a thin green shoot pushed through the dark soil.",
+          "translation_ko": "여러 날이 지나자 어두운 흙을 뚫고 가느다란 초록 싹이 돋아났어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "many",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "days",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1420
+            },
+            {
+              "word": "thin",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "green",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 2060
+            },
+            {
+              "word": "shoot",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "pushed",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2340,
+              "endMs": 2760
+            },
+            {
+              "word": "through",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2760,
+              "endMs": 2980
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 2980,
+              "endMs": 3300
+            },
+            {
+              "word": "dark",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3300,
+              "endMs": 3400
+            },
+            {
+              "word": "soil",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3400,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "At its tip a small flower opened, and it shone like a warm star.",
+          "translation_ko": "그 끝에서 작은 꽃이 피어나 따뜻한 별처럼 빛났답니다.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "its",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 620
+            },
+            {
+              "word": "tip",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "small",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "flower",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1940
+            },
+            {
+              "word": "opened",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1940,
+              "endMs": 2440
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2860,
+              "endMs": 2860
+            },
+            {
+              "word": "it",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2860,
+              "endMs": 3200
+            },
+            {
+              "word": "shone",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3200,
+              "endMs": 3240
+            },
+            {
+              "word": "like",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3240,
+              "endMs": 3480
+            },
+            {
+              "word": "a",
+              "charStart": 52,
+              "charEnd": 53,
+              "startMs": 3480,
+              "endMs": 3820
+            },
+            {
+              "word": "warm",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3820,
+              "endMs": 3960
+            },
+            {
+              "word": "star",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3960,
+              "endMs": 4360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The glowing flower lit the path in front of Mira's house.",
+          "translation_ko": "빛나는 꽃이 미라네 집 앞 길을 환하게 밝혀 주었어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "glowing",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "flower",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 760,
+              "endMs": 1180
+            },
+            {
+              "word": "lit",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1900
+            },
+            {
+              "word": "path",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 1940
+            },
+            {
+              "word": "in",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "front",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2180,
+              "endMs": 2300
+            },
+            {
+              "word": "of",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "Mira's",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2560,
+              "endMs": 2920
+            },
+            {
+              "word": "house",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2920,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "Neighbors stopped to look, surprised that such light could live here.",
+          "translation_ko": "이웃들은 이런 빛이 여기에 살 수 있다는 게 놀라워 걸음을 멈췄지요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Neighbors",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "stopped",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "look",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1160,
+              "endMs": 1380
+            },
+            {
+              "word": "surprised",
+              "charStart": 27,
+              "charEnd": 36,
+              "startMs": 2220,
+              "endMs": 2220
+            },
+            {
+              "word": "that",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2220,
+              "endMs": 2580
+            },
+            {
+              "word": "such",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2580,
+              "endMs": 2820
+            },
+            {
+              "word": "light",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2820,
+              "endMs": 3140
+            },
+            {
+              "word": "could",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3140,
+              "endMs": 3400
+            },
+            {
+              "word": "live",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3400,
+              "endMs": 3600
+            },
+            {
+              "word": "here",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 3600,
+              "endMs": 3820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "An old man asked softly if he could grow one too.",
+          "translation_ko": "한 할아버지가 자기도 하나 길러 봐도 되겠냐고 조용히 물었어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "An",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "old",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 520
+            },
+            {
+              "word": "man",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 760
+            },
+            {
+              "word": "asked",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "softly",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1480
+            },
+            {
+              "word": "if",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1640
+            },
+            {
+              "word": "he",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1640,
+              "endMs": 1760
+            },
+            {
+              "word": "could",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 1900
+            },
+            {
+              "word": "grow",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "one",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2140,
+              "endMs": 2440
+            },
+            {
+              "word": "too",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2440,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "Mira smiled and gave him a glowing seed from her hand.",
+          "translation_ko": "미라는 미소 지으며 손에 있던 빛나는 씨앗 하나를 건넸답니다.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "smiled",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 1300
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "gave",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1680,
+              "endMs": 1900
+            },
+            {
+              "word": "him",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2080
+            },
+            {
+              "word": "a",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "glowing",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "seed",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2540,
+              "endMs": 3020
+            },
+            {
+              "word": "from",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3020,
+              "endMs": 3260
+            },
+            {
+              "word": "her",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3260,
+              "endMs": 3460
+            },
+            {
+              "word": "hand",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3460,
+              "endMs": 3760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Soon children and grown-ups were planting seeds along every street.",
+          "translation_ko": "곧 아이들과 어른들이 골목마다 씨앗을 심기 시작했어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 30,
+              "endMs": 288
+            },
+            {
+              "word": "children",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 288,
+              "endMs": 737
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 737,
+              "endMs": 995
+            },
+            {
+              "word": "grown-ups",
+              "charStart": 18,
+              "charEnd": 27,
+              "startMs": 995,
+              "endMs": 1445
+            },
+            {
+              "word": "were",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1445,
+              "endMs": 1703
+            },
+            {
+              "word": "planting",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 1703,
+              "endMs": 2152
+            },
+            {
+              "word": "seeds",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2152,
+              "endMs": 2410
+            },
+            {
+              "word": "along",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2410,
+              "endMs": 2859
+            },
+            {
+              "word": "every",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2859,
+              "endMs": 3500
+            },
+            {
+              "word": "street",
+              "charStart": 60,
+              "charEnd": 66,
+              "startMs": 3500,
+              "endMs": 3930
+            }
+          ]
+        },
+        {
+          "text": "Each one tended a flower at night, just as Mira had taught them.",
+          "translation_ko": "다들 미라가 가르쳐 준 대로 밤이면 꽃을 정성껏 돌봤지요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "one",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 740,
+              "endMs": 1120
+            },
+            {
+              "word": "tended",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "flower",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1720,
+              "endMs": 1900
+            },
+            {
+              "word": "at",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "night",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2420
+            },
+            {
+              "word": "just",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 3000,
+              "endMs": 3160
+            },
+            {
+              "word": "as",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 3160,
+              "endMs": 3360
+            },
+            {
+              "word": "Mira",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3360,
+              "endMs": 3580
+            },
+            {
+              "word": "had",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3580,
+              "endMs": 3820
+            },
+            {
+              "word": "taught",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3820,
+              "endMs": 4040
+            },
+            {
+              "word": "them",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 4040,
+              "endMs": 4220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Little by little, soft light spread across the whole valley.",
+          "translation_ko": "조금씩 부드러운 빛이 골짜기 전체로 번져 갔어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Little",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "by",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 640
+            },
+            {
+              "word": "little",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "soft",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "light",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 1960
+            },
+            {
+              "word": "spread",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2420
+            },
+            {
+              "word": "across",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2420,
+              "endMs": 2800
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "whole",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3000,
+              "endMs": 3300
+            },
+            {
+              "word": "valley",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3300,
+              "endMs": 3560
+            }
+          ]
+        },
+        {
+          "text": "The grey houses turned gold, and the cold gardens grew gentle and warm.",
+          "translation_ko": "잿빛 집들은 금빛으로 물들고, 차갑던 정원은 포근하게 따뜻해졌답니다.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "grey",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 680
+            },
+            {
+              "word": "houses",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 1140
+            },
+            {
+              "word": "turned",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1620
+            },
+            {
+              "word": "gold",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 2100
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2440,
+              "endMs": 2460
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2460,
+              "endMs": 2880
+            },
+            {
+              "word": "cold",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2880,
+              "endMs": 3020
+            },
+            {
+              "word": "gardens",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 3020,
+              "endMs": 3340
+            },
+            {
+              "word": "grew",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3340,
+              "endMs": 3680
+            },
+            {
+              "word": "gentle",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3680,
+              "endMs": 4100
+            },
+            {
+              "word": "and",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 4100,
+              "endMs": 4560
+            },
+            {
+              "word": "warm",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 4560,
+              "endMs": 4760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the brightest night, the valley looked like a sky full of stars.",
+          "translation_ko": "가장 환한 밤이면 골짜기는 별이 가득한 하늘처럼 보였어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 420
+            },
+            {
+              "word": "brightest",
+              "charStart": 7,
+              "charEnd": 16,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "night",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 800,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "valley",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2060,
+              "endMs": 2240
+            },
+            {
+              "word": "looked",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2240,
+              "endMs": 2700
+            },
+            {
+              "word": "like",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2700,
+              "endMs": 2920
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2920,
+              "endMs": 3200
+            },
+            {
+              "word": "sky",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3200,
+              "endMs": 3360
+            },
+            {
+              "word": "full",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3360,
+              "endMs": 3620
+            },
+            {
+              "word": "of",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 3620,
+              "endMs": 4180
+            },
+            {
+              "word": "stars",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 4180,
+              "endMs": 4180
+            }
+          ]
+        },
+        {
+          "text": "People sang together, and no one felt lost in the dark anymore.",
+          "translation_ko": "사람들은 함께 노래했고, 더는 누구도 어둠 속에서 길을 잃지 않았지요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "People",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "sang",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "together",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1300
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1880,
+              "endMs": 1960
+            },
+            {
+              "word": "no",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "one",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2320
+            },
+            {
+              "word": "felt",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2540
+            },
+            {
+              "word": "lost",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2540,
+              "endMs": 2800
+            },
+            {
+              "word": "in",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2800,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2960,
+              "endMs": 3300
+            },
+            {
+              "word": "dark",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3300,
+              "endMs": 3300
+            },
+            {
+              "word": "anymore",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 3300,
+              "endMs": 3660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mira understood that one small light could wake many others.",
+          "translation_ko": "미라는 작은 빛 하나가 수많은 빛을 깨울 수 있다는 걸 깨달았어요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mira",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "understood",
+              "charStart": 5,
+              "charEnd": 15,
+              "startMs": 420,
+              "endMs": 1080
+            },
+            {
+              "word": "that",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1480
+            },
+            {
+              "word": "one",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1860
+            },
+            {
+              "word": "small",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "light",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "could",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2400,
+              "endMs": 2620
+            },
+            {
+              "word": "wake",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2620,
+              "endMs": 2860
+            },
+            {
+              "word": "many",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2860,
+              "endMs": 3220
+            },
+            {
+              "word": "others",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3220,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "Hope, she learned, grows fastest when it is shared.",
+          "translation_ko": "희망은 나눌 때 가장 빨리 자란다는 것도 배웠답니다.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Hope",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "she",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "learned",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1120
+            },
+            {
+              "word": "grows",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1740,
+              "endMs": 1800
+            },
+            {
+              "word": "fastest",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2440
+            },
+            {
+              "word": "when",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2440,
+              "endMs": 2840
+            },
+            {
+              "word": "it",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2840,
+              "endMs": 2960
+            },
+            {
+              "word": "is",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2960,
+              "endMs": 3160
+            },
+            {
+              "word": "shared",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3160,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now the valley that once had no sun glows warmly all year.",
+          "translation_ko": "이제 햇빛 한 줄기 없던 골짜기는 일 년 내내 따뜻하게 빛나요.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 580
+            },
+            {
+              "word": "valley",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "that",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "once",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1120,
+              "endMs": 1440
+            },
+            {
+              "word": "had",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "no",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 2020
+            },
+            {
+              "word": "sun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "glows",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2300,
+              "endMs": 2660
+            },
+            {
+              "word": "warmly",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2660,
+              "endMs": 3280
+            },
+            {
+              "word": "all",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3280,
+              "endMs": 3560
+            },
+            {
+              "word": "year",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3560,
+              "endMs": 3820
+            }
+          ]
+        },
+        {
+          "text": "And somewhere a girl still kneels in the soil, planting a little more light.",
+          "translation_ko": "그리고 어딘가에서는 한 소녀가 여전히 흙에 무릎 꿇고 조금 더 많은 빛을 심고 있답니다.",
+          "audio": "/seed/the-girl-who-planted-light/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "And",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "somewhere",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 280,
+              "endMs": 860
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "girl",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1620
+            },
+            {
+              "word": "still",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 2000
+            },
+            {
+              "word": "kneels",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2340
+            },
+            {
+              "word": "in",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2500
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2500,
+              "endMs": 2700
+            },
+            {
+              "word": "soil",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2700,
+              "endMs": 2960
+            },
+            {
+              "word": "planting",
+              "charStart": 47,
+              "charEnd": 55,
+              "startMs": 3840,
+              "endMs": 3940
+            },
+            {
+              "word": "a",
+              "charStart": 56,
+              "charEnd": 57,
+              "startMs": 3940,
+              "endMs": 4340
+            },
+            {
+              "word": "little",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 4340,
+              "endMs": 4520
+            },
+            {
+              "word": "more",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4520,
+              "endMs": 4820
+            },
+            {
+              "word": "light",
+              "charStart": 70,
+              "charEnd": 75,
+              "startMs": 4820,
+              "endMs": 5180
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "미라가 작은 구멍에 심은 것은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "빛나는 씨앗",
+        "차가운 돌",
+        "작은 등불",
+        "마른 나뭇잎"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미라는 손바닥 위에서 희미하게 빛나던 작은 씨앗을 땅에 심었어요."
+    },
+    {
+      "question_ko": "미라가 살던 골짜기는 처음에 어떤 모습이었나요?",
+      "type": "mc",
+      "options": [
+        "눈이 많이 쌓였어요",
+        "햇빛이 거의 들지 않아 잿빛이었어요",
+        "꽃이 가득했어요",
+        "바다와 맞닿아 있었어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "골짜기는 햇빛이 좀처럼 닿지 않아 집과 정원이 잿빛이고 차가웠어요."
+    },
+    {
+      "question_ko": "할아버지가 미라에게 조용히 물어본 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "꽃을 사도 되는지",
+        "등불을 빌려도 되는지",
+        "자기도 꽃을 길러 봐도 되는지",
+        "골짜기를 떠나도 되는지"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "할아버지는 자기도 빛나는 꽃을 길러 봐도 되겠냐고 물었고, 미라가 씨앗을 건넸어요."
+    },
+    {
+      "question_ko": "마을 사람들이 함께 씨앗을 심은 뒤 골짜기는 어떻게 변했나요?",
+      "type": "mc",
+      "options": [
+        "더 어두워졌어요",
+        "텅 비어 버렸어요",
+        "별이 가득한 하늘처럼 환해졌어요",
+        "물에 잠겼어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "사람들이 함께 꽃을 심고 돌보자 골짜기 전체가 별이 가득한 하늘처럼 빛났어요."
+    },
+    {
+      "question_ko": "이 이야기가 전하려는 마음은 무엇일까요?",
+      "type": "mc",
+      "options": [
+        "희망은 함께 나눌 때 더 크게 자란다",
+        "혼자 있는 것이 가장 편하다",
+        "빛은 사 와야만 얻을 수 있다",
+        "어두운 곳은 그냥 두는 것이 낫다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미라의 작은 빛이 이웃에게 퍼지며 골짜기를 밝혔듯, 희망은 나눌 때 가장 빨리 자란다는 이야기예요."
+    }
+  ]
+}

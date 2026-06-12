@@ -1,0 +1,2428 @@
+{
+  "slug": "the-night-market-of-stars",
+  "title": "The Night Market of Stars",
+  "title_ko": "별들의 밤 시장",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "꿈속 별들의 밤 시장을 거닐며, 가장 소중한 것은 살 수 없고 나눌 때 얻는다는 걸 배우는 따뜻한 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One quiet night, Mina fell asleep while watching the sky.",
+          "translation_ko": "어느 고요한 밤, 미나는 하늘을 바라보다 잠이 들었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "quiet",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "night",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "Mina",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 2000,
+              "endMs": 2060
+            },
+            {
+              "word": "fell",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "asleep",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2340,
+              "endMs": 2740
+            },
+            {
+              "word": "while",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2740,
+              "endMs": 3160
+            },
+            {
+              "word": "watching",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 3160,
+              "endMs": 3400
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3400,
+              "endMs": 3740
+            },
+            {
+              "word": "sky",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3740,
+              "endMs": 3940
+            }
+          ]
+        },
+        {
+          "text": "In her dream, a silver path opened high above the rooftops.",
+          "translation_ko": "꿈속에서 지붕들 위로 은빛 길이 활짝 열렸어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "In",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "her",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 780,
+              "endMs": 980
+            },
+            {
+              "word": "dream",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "silver",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "path",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2360,
+              "endMs": 2800
+            },
+            {
+              "word": "opened",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2800,
+              "endMs": 3160
+            },
+            {
+              "word": "high",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 3160,
+              "endMs": 3640
+            },
+            {
+              "word": "above",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 3640,
+              "endMs": 3820
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3820,
+              "endMs": 4100
+            },
+            {
+              "word": "rooftops",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 4100,
+              "endMs": 4500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She climbed the path until stalls of light appeared all around her.",
+          "translation_ko": "미나는 길을 따라 올라갔고, 어느새 빛으로 만든 가게들이 주위에 펼쳐졌어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "climbed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 960
+            },
+            {
+              "word": "path",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "until",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "stalls",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1680,
+              "endMs": 2160
+            },
+            {
+              "word": "of",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2160,
+              "endMs": 2540
+            },
+            {
+              "word": "light",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2540,
+              "endMs": 2640
+            },
+            {
+              "word": "appeared",
+              "charStart": 43,
+              "charEnd": 51,
+              "startMs": 2640,
+              "endMs": 3140
+            },
+            {
+              "word": "all",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3140,
+              "endMs": 3580
+            },
+            {
+              "word": "around",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 3580,
+              "endMs": 3800
+            },
+            {
+              "word": "her",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 3800,
+              "endMs": 4100
+            }
+          ]
+        },
+        {
+          "text": "It was a night market, and every shopkeeper was a tiny, glowing star.",
+          "translation_ko": "그곳은 밤 시장이었고, 가게 주인들은 모두 작게 반짝이는 별이었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 720,
+              "endMs": 1180
+            },
+            {
+              "word": "night",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "market",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2260,
+              "endMs": 2340
+            },
+            {
+              "word": "every",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2340,
+              "endMs": 2740
+            },
+            {
+              "word": "shopkeeper",
+              "charStart": 33,
+              "charEnd": 43,
+              "startMs": 2740,
+              "endMs": 3280
+            },
+            {
+              "word": "was",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3280,
+              "endMs": 3680
+            },
+            {
+              "word": "a",
+              "charStart": 48,
+              "charEnd": 49,
+              "startMs": 3680,
+              "endMs": 4040
+            },
+            {
+              "word": "tiny",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 4040,
+              "endMs": 4240
+            },
+            {
+              "word": "glowing",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 4240,
+              "endMs": 4580
+            },
+            {
+              "word": "star",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 4580,
+              "endMs": 4980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the first stall, a blue star sold wishes in little glass jars.",
+          "translation_ko": "첫 번째 가게에서는 파란 별이 작은 유리병에 담은 소원을 팔고 있었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 400
+            },
+            {
+              "word": "first",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "stall",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1300
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "blue",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1760,
+              "endMs": 2020
+            },
+            {
+              "word": "star",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2360
+            },
+            {
+              "word": "sold",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2360,
+              "endMs": 2720
+            },
+            {
+              "word": "wishes",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 3160
+            },
+            {
+              "word": "in",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 3160,
+              "endMs": 3500
+            },
+            {
+              "word": "little",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3500,
+              "endMs": 3760
+            },
+            {
+              "word": "glass",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3760,
+              "endMs": 4080
+            },
+            {
+              "word": "jars",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 4080,
+              "endMs": 4460
+            }
+          ]
+        },
+        {
+          "text": "The wishes shimmered like fireflies, and Mina wanted one badly.",
+          "translation_ko": "소원들은 반딧불처럼 일렁였고, 미나는 그중 하나를 무척 갖고 싶었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "wishes",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 720
+            },
+            {
+              "word": "shimmered",
+              "charStart": 11,
+              "charEnd": 20,
+              "startMs": 720,
+              "endMs": 1600
+            },
+            {
+              "word": "like",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1960
+            },
+            {
+              "word": "fireflies",
+              "charStart": 26,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2700
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3240,
+              "endMs": 3340
+            },
+            {
+              "word": "Mina",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3340,
+              "endMs": 3560
+            },
+            {
+              "word": "wanted",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3560,
+              "endMs": 3980
+            },
+            {
+              "word": "one",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3980,
+              "endMs": 4340
+            },
+            {
+              "word": "badly",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 4340,
+              "endMs": 4700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the next stall, an orange star sold songs that no one had ever heard.",
+          "translation_ko": "다음 가게에서는 주황빛 별이 아무도 들어 본 적 없는 노래들을 팔았어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "next",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "stall",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1980
+            },
+            {
+              "word": "an",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 2240,
+              "endMs": 2520
+            },
+            {
+              "word": "orange",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "star",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2800,
+              "endMs": 3340
+            },
+            {
+              "word": "sold",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 3340,
+              "endMs": 3940
+            },
+            {
+              "word": "songs",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 3940,
+              "endMs": 4480
+            },
+            {
+              "word": "that",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 4480,
+              "endMs": 4880
+            },
+            {
+              "word": "no",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 4880,
+              "endMs": 5060
+            },
+            {
+              "word": "one",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 5060,
+              "endMs": 5220
+            },
+            {
+              "word": "had",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 5220,
+              "endMs": 5480
+            },
+            {
+              "word": "ever",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 5480,
+              "endMs": 5980
+            },
+            {
+              "word": "heard",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 5980,
+              "endMs": 6260
+            }
+          ]
+        },
+        {
+          "text": "When she leaned close, a melody warmed her like sunlight.",
+          "translation_ko": "가까이 다가서자, 한 가락의 선율이 햇살처럼 그녀를 따뜻하게 감쌌어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "she",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "leaned",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "close",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1400
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1740,
+              "endMs": 1980
+            },
+            {
+              "word": "melody",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1980,
+              "endMs": 2240
+            },
+            {
+              "word": "warmed",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2240,
+              "endMs": 2680
+            },
+            {
+              "word": "her",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 2900
+            },
+            {
+              "word": "like",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2900,
+              "endMs": 3220
+            },
+            {
+              "word": "sunlight",
+              "charStart": 48,
+              "charEnd": 56,
+              "startMs": 3220,
+              "endMs": 3600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Further along, a soft pink star sold jars of pure kindness.",
+          "translation_ko": "더 안쪽으로 가니, 은은한 분홍빛 별이 순수한 친절을 병에 담아 팔고 있었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Further",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "along",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 360,
+              "endMs": 800
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1220,
+              "endMs": 1400
+            },
+            {
+              "word": "soft",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "pink",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1680,
+              "endMs": 1960
+            },
+            {
+              "word": "star",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2340
+            },
+            {
+              "word": "sold",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2980
+            },
+            {
+              "word": "jars",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2980,
+              "endMs": 3380
+            },
+            {
+              "word": "of",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 3380,
+              "endMs": 3740
+            },
+            {
+              "word": "pure",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3740,
+              "endMs": 3960
+            },
+            {
+              "word": "kindness",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 3960,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "It smelled like fresh bread and a friend's gentle hello.",
+          "translation_ko": "그것에서는 갓 구운 빵과 친구의 다정한 인사 같은 냄새가 났어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "smelled",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "like",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "fresh",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "bread",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2340
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "friend's",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2560,
+              "endMs": 3040
+            },
+            {
+              "word": "gentle",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3040,
+              "endMs": 3180
+            },
+            {
+              "word": "hello",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3180,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina reached into her pockets, but they were completely empty.",
+          "translation_ko": "미나는 주머니를 뒤졌지만, 주머니는 텅 비어 있었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "reached",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "into",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "her",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "pockets",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1200,
+              "endMs": 1560
+            },
+            {
+              "word": "but",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2220
+            },
+            {
+              "word": "they",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2220,
+              "endMs": 2340
+            },
+            {
+              "word": "were",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2340,
+              "endMs": 2500
+            },
+            {
+              "word": "completely",
+              "charStart": 45,
+              "charEnd": 55,
+              "startMs": 2500,
+              "endMs": 2980
+            },
+            {
+              "word": "empty",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 2980,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "She had no coins, no money, and nothing at all to trade.",
+          "translation_ko": "동전도 돈도 없었고, 바꿀 만한 것이라곤 아무것도 없었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 420
+            },
+            {
+              "word": "no",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 680
+            },
+            {
+              "word": "coins",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 1120
+            },
+            {
+              "word": "no",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "money",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2380,
+              "endMs": 2560
+            },
+            {
+              "word": "nothing",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "at",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2760,
+              "endMs": 2940
+            },
+            {
+              "word": "all",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2940,
+              "endMs": 3060
+            },
+            {
+              "word": "to",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3200
+            },
+            {
+              "word": "trade",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3200,
+              "endMs": 3460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Her shoulders dropped, because everything here seemed far beyond her reach.",
+          "translation_ko": "이곳의 모든 것이 자기 손에 닿지 않을 것 같아, 미나는 어깨가 축 처졌어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "shoulders",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "dropped",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 600,
+              "endMs": 1120
+            },
+            {
+              "word": "because",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1120,
+              "endMs": 1700
+            },
+            {
+              "word": "everything",
+              "charStart": 31,
+              "charEnd": 41,
+              "startMs": 1700,
+              "endMs": 2120
+            },
+            {
+              "word": "here",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2120,
+              "endMs": 2560
+            },
+            {
+              "word": "seemed",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 2560,
+              "endMs": 2700
+            },
+            {
+              "word": "far",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 2700,
+              "endMs": 3220
+            },
+            {
+              "word": "beyond",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3220,
+              "endMs": 3440
+            },
+            {
+              "word": "her",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 3440,
+              "endMs": 3740
+            },
+            {
+              "word": "reach",
+              "charStart": 69,
+              "charEnd": 74,
+              "startMs": 3740,
+              "endMs": 4020
+            }
+          ]
+        },
+        {
+          "text": "\"I cannot buy a single thing,\" she whispered sadly.",
+          "translation_ko": "\"하나도 살 수가 없네.\" 미나가 슬프게 속삭였어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "cannot",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 580
+            },
+            {
+              "word": "buy",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "single",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "thing",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1360,
+              "endMs": 2420
+            },
+            {
+              "word": "she",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2540
+            },
+            {
+              "word": "whispered",
+              "charStart": 35,
+              "charEnd": 44,
+              "startMs": 2540,
+              "endMs": 2960
+            },
+            {
+              "word": "sadly",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2960,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "An old golden star floated down and listened to her with patient eyes.",
+          "translation_ko": "나이 든 황금빛 별이 천천히 내려와 다정히 기다려 주는 눈빛으로 미나의 말을 들어 주었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "An",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "old",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 660,
+              "endMs": 1160
+            },
+            {
+              "word": "golden",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "star",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1500,
+              "endMs": 1900
+            },
+            {
+              "word": "floated",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2340
+            },
+            {
+              "word": "down",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2340,
+              "endMs": 2720
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2720,
+              "endMs": 3000
+            },
+            {
+              "word": "listened",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 3000,
+              "endMs": 3160
+            },
+            {
+              "word": "to",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3160,
+              "endMs": 3420
+            },
+            {
+              "word": "her",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3420,
+              "endMs": 3480
+            },
+            {
+              "word": "with",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3480,
+              "endMs": 3760
+            },
+            {
+              "word": "patient",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 3760,
+              "endMs": 4100
+            },
+            {
+              "word": "eyes",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4100,
+              "endMs": 4520
+            }
+          ]
+        },
+        {
+          "text": "\"Child,\" it said kindly, \"the best things here are never sold.\"",
+          "translation_ko": "\"얘야,\" 별이 다정하게 말했어요. \"이곳에서 가장 좋은 것들은 결코 팔지 않는단다.\"",
+          "audio": "/seed/the-night-market-of-stars/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Child",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "said",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1300,
+              "endMs": 1520
+            },
+            {
+              "word": "kindly",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1520,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2520,
+              "endMs": 2600
+            },
+            {
+              "word": "best",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2600,
+              "endMs": 2880
+            },
+            {
+              "word": "things",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2880,
+              "endMs": 3140
+            },
+            {
+              "word": "here",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 3140,
+              "endMs": 3420
+            },
+            {
+              "word": "are",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3420,
+              "endMs": 3660
+            },
+            {
+              "word": "never",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3660,
+              "endMs": 3960
+            },
+            {
+              "word": "sold",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3960,
+              "endMs": 4260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Wishes, songs, and kindness cannot truly be bought with coins.\"",
+          "translation_ko": "\"소원도, 노래도, 친절도 동전으로는 정말로 살 수 없어.\"",
+          "audio": "/seed/the-night-market-of-stars/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Wishes",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 1040
+            },
+            {
+              "word": "songs",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1940,
+              "endMs": 1940
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 2380,
+              "endMs": 2940
+            },
+            {
+              "word": "kindness",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 2940,
+              "endMs": 2940
+            },
+            {
+              "word": "cannot",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2940,
+              "endMs": 3600
+            },
+            {
+              "word": "truly",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3600,
+              "endMs": 3980
+            },
+            {
+              "word": "be",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 3980,
+              "endMs": 4200
+            },
+            {
+              "word": "bought",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 4200,
+              "endMs": 4420
+            },
+            {
+              "word": "with",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 4420,
+              "endMs": 4760
+            },
+            {
+              "word": "coins",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 4760,
+              "endMs": 4960
+            }
+          ]
+        },
+        {
+          "text": "\"The finest gifts are given freely, from one heart to another.\"",
+          "translation_ko": "\"가장 귀한 선물은 한 마음에서 다른 마음으로 거저 건네지는 거란다.\"",
+          "audio": "/seed/the-night-market-of-stars/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "finest",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 760
+            },
+            {
+              "word": "gifts",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1140
+            },
+            {
+              "word": "are",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1500
+            },
+            {
+              "word": "given",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "freely",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1660,
+              "endMs": 2140
+            },
+            {
+              "word": "from",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 2720
+            },
+            {
+              "word": "one",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2720,
+              "endMs": 3000
+            },
+            {
+              "word": "heart",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3000,
+              "endMs": 3260
+            },
+            {
+              "word": "to",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 3260,
+              "endMs": 3640
+            },
+            {
+              "word": "another",
+              "charStart": 54,
+              "charEnd": 61,
+              "startMs": 3640,
+              "endMs": 3920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Just then, a small green star dropped its basket, and bright marbles rolled everywhere.",
+          "translation_ko": "바로 그때, 작은 초록 별이 바구니를 떨어뜨려 환한 구슬들이 사방으로 굴러갔어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Just",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "then",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1080,
+              "endMs": 1260
+            },
+            {
+              "word": "small",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "green",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1560,
+              "endMs": 1920
+            },
+            {
+              "word": "star",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "dropped",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2220,
+              "endMs": 2640
+            },
+            {
+              "word": "its",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 2880
+            },
+            {
+              "word": "basket",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2880,
+              "endMs": 3180
+            },
+            {
+              "word": "and",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3180,
+              "endMs": 3600
+            },
+            {
+              "word": "bright",
+              "charStart": 54,
+              "charEnd": 60,
+              "startMs": 3600,
+              "endMs": 3860
+            },
+            {
+              "word": "marbles",
+              "charStart": 61,
+              "charEnd": 68,
+              "startMs": 3860,
+              "endMs": 4220
+            },
+            {
+              "word": "rolled",
+              "charStart": 69,
+              "charEnd": 75,
+              "startMs": 4220,
+              "endMs": 4640
+            },
+            {
+              "word": "everywhere",
+              "charStart": 76,
+              "charEnd": 86,
+              "startMs": 4640,
+              "endMs": 5200
+            }
+          ]
+        },
+        {
+          "text": "Without thinking, Mina knelt down and gathered every glowing piece.",
+          "translation_ko": "미나는 망설임 없이 무릎을 꿇고 반짝이는 구슬을 하나하나 주워 모았어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Without",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "thinking",
+              "charStart": 8,
+              "charEnd": 16,
+              "startMs": 380,
+              "endMs": 840
+            },
+            {
+              "word": "Mina",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1480
+            },
+            {
+              "word": "knelt",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1800
+            },
+            {
+              "word": "down",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 2200
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2420
+            },
+            {
+              "word": "gathered",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2420,
+              "endMs": 2660
+            },
+            {
+              "word": "every",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2660,
+              "endMs": 3120
+            },
+            {
+              "word": "glowing",
+              "charStart": 53,
+              "charEnd": 60,
+              "startMs": 3120,
+              "endMs": 3380
+            },
+            {
+              "word": "piece",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 3380,
+              "endMs": 3840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She handed the basket back and stayed to help until the stall was tidy again.",
+          "translation_ko": "바구니를 돌려준 뒤에도 가게가 다시 말끔해질 때까지 미나는 곁에서 도왔어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "handed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 1080
+            },
+            {
+              "word": "basket",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1080,
+              "endMs": 1080
+            },
+            {
+              "word": "back",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1440,
+              "endMs": 1780
+            },
+            {
+              "word": "stayed",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 1780,
+              "endMs": 1920
+            },
+            {
+              "word": "to",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "help",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2220,
+              "endMs": 2340
+            },
+            {
+              "word": "until",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 2620,
+              "endMs": 2940
+            },
+            {
+              "word": "stall",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 2940,
+              "endMs": 3100
+            },
+            {
+              "word": "was",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3100,
+              "endMs": 3400
+            },
+            {
+              "word": "tidy",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 3400,
+              "endMs": 3640
+            },
+            {
+              "word": "again",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 3640,
+              "endMs": 3980
+            }
+          ]
+        },
+        {
+          "text": "The little star glowed brighter, grateful for her gentle help.",
+          "translation_ko": "작은 별은 그녀의 다정한 도움이 고마워 더욱 환하게 빛났어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "little",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "star",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "glowed",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1580
+            },
+            {
+              "word": "brighter",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 1900
+            },
+            {
+              "word": "grateful",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2500,
+              "endMs": 2760
+            },
+            {
+              "word": "for",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2760,
+              "endMs": 3100
+            },
+            {
+              "word": "her",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3100,
+              "endMs": 3360
+            },
+            {
+              "word": "gentle",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3360,
+              "endMs": 3700
+            },
+            {
+              "word": "help",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3700,
+              "endMs": 4040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The golden star smiled and placed a warm, living star in Mina's hands.",
+          "translation_ko": "황금빛 별이 미소 지으며, 살아 숨 쉬는 따뜻한 별 하나를 미나의 손에 쥐여 주었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "golden",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 680
+            },
+            {
+              "word": "star",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 1060
+            },
+            {
+              "word": "smiled",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1060,
+              "endMs": 1540
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "placed",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1840,
+              "endMs": 2100
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "warm",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2680
+            },
+            {
+              "word": "living",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 3280,
+              "endMs": 3280
+            },
+            {
+              "word": "star",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3280,
+              "endMs": 3640
+            },
+            {
+              "word": "in",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3640,
+              "endMs": 3880
+            },
+            {
+              "word": "Mina's",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3880,
+              "endMs": 4220
+            },
+            {
+              "word": "hands",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 4220,
+              "endMs": 4540
+            }
+          ]
+        },
+        {
+          "text": "\"You gave without asking for anything, so this is yours to keep.\"",
+          "translation_ko": "\"너는 아무 대가도 바라지 않고 베풀었으니, 이 별은 네 것이란다.\"",
+          "audio": "/seed/the-night-market-of-stars/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "gave",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 820
+            },
+            {
+              "word": "without",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1200
+            },
+            {
+              "word": "asking",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1200,
+              "endMs": 1540
+            },
+            {
+              "word": "for",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1540,
+              "endMs": 1860
+            },
+            {
+              "word": "anything",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2200
+            },
+            {
+              "word": "so",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2620,
+              "endMs": 2720
+            },
+            {
+              "word": "this",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2720,
+              "endMs": 2920
+            },
+            {
+              "word": "is",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2920,
+              "endMs": 3180
+            },
+            {
+              "word": "yours",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3180,
+              "endMs": 3400
+            },
+            {
+              "word": "to",
+              "charStart": 56,
+              "charEnd": 58,
+              "startMs": 3400,
+              "endMs": 3660
+            },
+            {
+              "word": "keep",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3660,
+              "endMs": 3820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina woke at dawn with the soft light still glowing in her chest.",
+          "translation_ko": "미나는 새벽에 잠에서 깼고, 가슴속엔 그 은은한 빛이 여전히 반짝이고 있었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "woke",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "at",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1020
+            },
+            {
+              "word": "dawn",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1340
+            },
+            {
+              "word": "with",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 2040
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2040,
+              "endMs": 2300
+            },
+            {
+              "word": "soft",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2600
+            },
+            {
+              "word": "light",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2600,
+              "endMs": 2960
+            },
+            {
+              "word": "still",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2960,
+              "endMs": 3280
+            },
+            {
+              "word": "glowing",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 3280,
+              "endMs": 3580
+            },
+            {
+              "word": "in",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3580,
+              "endMs": 3760
+            },
+            {
+              "word": "her",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3760,
+              "endMs": 3960
+            },
+            {
+              "word": "chest",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3960,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "She knew now that the kindest gifts are given, never bought, and she smiled.",
+          "translation_ko": "이제 그녀는 가장 다정한 선물은 사는 게 아니라 나누는 것임을 알았고, 가만히 미소 지었어요.",
+          "audio": "/seed/the-night-market-of-stars/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "knew",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 600
+            },
+            {
+              "word": "now",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 1000
+            },
+            {
+              "word": "that",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1560
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "kindest",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 2420
+            },
+            {
+              "word": "gifts",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2420,
+              "endMs": 2640
+            },
+            {
+              "word": "are",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2640,
+              "endMs": 2980
+            },
+            {
+              "word": "given",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2980,
+              "endMs": 3280
+            },
+            {
+              "word": "never",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3840,
+              "endMs": 3980
+            },
+            {
+              "word": "bought",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3980,
+              "endMs": 4300
+            },
+            {
+              "word": "and",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4800,
+              "endMs": 5140
+            },
+            {
+              "word": "she",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 5140,
+              "endMs": 5400
+            },
+            {
+              "word": "smiled",
+              "charStart": 69,
+              "charEnd": 75,
+              "startMs": 5400,
+              "endMs": 5740
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "미나가 꿈속에서 도착한 곳은 어디였나요?",
+      "type": "mc",
+      "options": [
+        "별들이 가게를 여는 밤 시장",
+        "바닷속 진주 동굴",
+        "낮에 열리는 꽃 시장",
+        "구름 위 놀이공원"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 별들이 주인인 밤 시장에 도착했어요."
+    },
+    {
+      "question_ko": "별들이 가게에서 팔던 것은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "빵과 사탕",
+        "소원, 노래, 친절",
+        "장난감과 책",
+        "옷과 신발"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "별들은 유리병에 담은 소원, 노래, 친절을 팔고 있었어요."
+    },
+    {
+      "question_ko": "미나가 주머니를 뒤졌을 때 어땠나요?",
+      "type": "mc",
+      "options": [
+        "은빛 동전이 가득했어요",
+        "작은 구슬이 들어 있었어요",
+        "아무것도 없이 텅 비어 있었어요",
+        "친구의 편지가 있었어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "미나의 주머니는 완전히 비어 있어서 살 수 있는 게 없었어요."
+    },
+    {
+      "question_ko": "미나가 별 하나를 선물로 받게 된 까닭은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "돈을 많이 냈기 때문에",
+        "노래를 잘 불렀기 때문에",
+        "대가 없이 초록 별을 도왔기 때문에",
+        "가장 큰 소원을 골랐기 때문에"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "미나는 아무 대가도 바라지 않고 떨어진 구슬을 주워 도왔기 때문에 별을 받았어요."
+    },
+    {
+      "question_ko": "이 이야기가 전하려는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "가장 소중한 것은 살 수 없고 나눌 때 얻는다",
+        "돈이 많아야 행복하다",
+        "꿈은 금방 잊어버린다",
+        "낯선 곳은 늘 무섭다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "가장 귀한 선물은 사는 것이 아니라 마음에서 마음으로 거저 나누는 것임을 알려 줘요."
+    }
+  ]
+}

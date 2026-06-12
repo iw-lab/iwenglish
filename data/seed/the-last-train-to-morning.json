@@ -1,0 +1,2060 @@
+{
+  "slug": "the-last-train-to-morning",
+  "title": "The Last Train to Morning",
+  "title_ko": "아침으로 가는 마지막 기차",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "밤새 걱정을 싣고 달리는 작은 기차가 승객들을 아침의 용기로 데려가는 상징적인 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "The last train did not leave from the main station. It waited behind the clock tower where people went when they could not sleep.",
+          "translation_ko": "마지막 기차는 큰 역에서 떠나지 않았어요. 잠들 수 없는 사람들이 가는 시계탑 뒤에서 기다렸어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "last",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 580
+            },
+            {
+              "word": "train",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "did",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "not",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "leave",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 1760
+            },
+            {
+              "word": "from",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1960
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1960,
+              "endMs": 2100
+            },
+            {
+              "word": "main",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "station",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2340,
+              "endMs": 2700
+            },
+            {
+              "word": "It",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3180,
+              "endMs": 3280
+            },
+            {
+              "word": "waited",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3280,
+              "endMs": 3500
+            },
+            {
+              "word": "behind",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3500,
+              "endMs": 3940
+            },
+            {
+              "word": "the",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 3940,
+              "endMs": 4180
+            },
+            {
+              "word": "clock",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 4180,
+              "endMs": 4360
+            },
+            {
+              "word": "tower",
+              "charStart": 79,
+              "charEnd": 84,
+              "startMs": 4360,
+              "endMs": 4720
+            },
+            {
+              "word": "where",
+              "charStart": 85,
+              "charEnd": 90,
+              "startMs": 4720,
+              "endMs": 5020
+            },
+            {
+              "word": "people",
+              "charStart": 91,
+              "charEnd": 97,
+              "startMs": 5020,
+              "endMs": 5280
+            },
+            {
+              "word": "went",
+              "charStart": 98,
+              "charEnd": 102,
+              "startMs": 5280,
+              "endMs": 5560
+            },
+            {
+              "word": "when",
+              "charStart": 103,
+              "charEnd": 107,
+              "startMs": 5560,
+              "endMs": 5820
+            },
+            {
+              "word": "they",
+              "charStart": 108,
+              "charEnd": 112,
+              "startMs": 5820,
+              "endMs": 5940
+            },
+            {
+              "word": "could",
+              "charStart": 113,
+              "charEnd": 118,
+              "startMs": 5940,
+              "endMs": 6080
+            },
+            {
+              "word": "not",
+              "charStart": 119,
+              "charEnd": 122,
+              "startMs": 6080,
+              "endMs": 6340
+            },
+            {
+              "word": "sleep",
+              "charStart": 123,
+              "charEnd": 128,
+              "startMs": 6340,
+              "endMs": 6640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Its windows glowed like warm milk, and its conductor never asked for tickets. He asked only what each passenger was carrying.",
+          "translation_ko": "창문은 따뜻한 우유처럼 빛났고 차장은 표를 묻지 않았어요. 그는 승객들이 무엇을 들고 있는지만 물었어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Its",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "windows",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 820
+            },
+            {
+              "word": "glowed",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 820,
+              "endMs": 1380
+            },
+            {
+              "word": "like",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1660
+            },
+            {
+              "word": "warm",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 1980
+            },
+            {
+              "word": "milk",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2260
+            },
+            {
+              "word": "and",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2820,
+              "endMs": 2880
+            },
+            {
+              "word": "its",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2880,
+              "endMs": 3140
+            },
+            {
+              "word": "conductor",
+              "charStart": 43,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3560
+            },
+            {
+              "word": "never",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3560,
+              "endMs": 4040
+            },
+            {
+              "word": "asked",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 4040,
+              "endMs": 4360
+            },
+            {
+              "word": "for",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 4360,
+              "endMs": 4960
+            },
+            {
+              "word": "tickets",
+              "charStart": 69,
+              "charEnd": 76,
+              "startMs": 4960,
+              "endMs": 4960
+            },
+            {
+              "word": "He",
+              "charStart": 78,
+              "charEnd": 80,
+              "startMs": 5640,
+              "endMs": 5780
+            },
+            {
+              "word": "asked",
+              "charStart": 81,
+              "charEnd": 86,
+              "startMs": 5780,
+              "endMs": 6080
+            },
+            {
+              "word": "only",
+              "charStart": 87,
+              "charEnd": 91,
+              "startMs": 6080,
+              "endMs": 6440
+            },
+            {
+              "word": "what",
+              "charStart": 92,
+              "charEnd": 96,
+              "startMs": 6440,
+              "endMs": 6700
+            },
+            {
+              "word": "each",
+              "charStart": 97,
+              "charEnd": 101,
+              "startMs": 6700,
+              "endMs": 7020
+            },
+            {
+              "word": "passenger",
+              "charStart": 102,
+              "charEnd": 111,
+              "startMs": 7020,
+              "endMs": 7420
+            },
+            {
+              "word": "was",
+              "charStart": 112,
+              "charEnd": 115,
+              "startMs": 7420,
+              "endMs": 7760
+            },
+            {
+              "word": "carrying",
+              "charStart": 116,
+              "charEnd": 124,
+              "startMs": 7760,
+              "endMs": 8000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A baker carried the fear of burning tomorrow's bread. A student carried an unfinished apology. I carried a question I was afraid to ask.",
+          "translation_ko": "빵집 주인은 내일 빵을 태울까 봐 두려움을 들고 있었어요. 학생은 끝내지 못한 사과를 들고 있었고, 나는 묻기 두려운 질문을 들고 있었어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "baker",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 620,
+              "endMs": 980
+            },
+            {
+              "word": "carried",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1420
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1420,
+              "endMs": 1640
+            },
+            {
+              "word": "fear",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1640,
+              "endMs": 1880
+            },
+            {
+              "word": "of",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "burning",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "tomorrow's",
+              "charStart": 36,
+              "charEnd": 46,
+              "startMs": 2400,
+              "endMs": 3260
+            },
+            {
+              "word": "bread",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3260,
+              "endMs": 3260
+            },
+            {
+              "word": "A",
+              "charStart": 54,
+              "charEnd": 55,
+              "startMs": 3760,
+              "endMs": 3880
+            },
+            {
+              "word": "student",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 3880,
+              "endMs": 4200
+            },
+            {
+              "word": "carried",
+              "charStart": 64,
+              "charEnd": 71,
+              "startMs": 4200,
+              "endMs": 4520
+            },
+            {
+              "word": "an",
+              "charStart": 72,
+              "charEnd": 74,
+              "startMs": 4520,
+              "endMs": 4780
+            },
+            {
+              "word": "unfinished",
+              "charStart": 75,
+              "charEnd": 85,
+              "startMs": 4780,
+              "endMs": 5180
+            },
+            {
+              "word": "apology",
+              "charStart": 86,
+              "charEnd": 93,
+              "startMs": 5180,
+              "endMs": 5700
+            },
+            {
+              "word": "I",
+              "charStart": 95,
+              "charEnd": 96,
+              "startMs": 6340,
+              "endMs": 6560
+            },
+            {
+              "word": "carried",
+              "charStart": 97,
+              "charEnd": 104,
+              "startMs": 6560,
+              "endMs": 6740
+            },
+            {
+              "word": "a",
+              "charStart": 105,
+              "charEnd": 106,
+              "startMs": 6740,
+              "endMs": 6940
+            },
+            {
+              "word": "question",
+              "charStart": 107,
+              "charEnd": 115,
+              "startMs": 6940,
+              "endMs": 7240
+            },
+            {
+              "word": "I",
+              "charStart": 116,
+              "charEnd": 117,
+              "startMs": 7240,
+              "endMs": 7480
+            },
+            {
+              "word": "was",
+              "charStart": 118,
+              "charEnd": 121,
+              "startMs": 7480,
+              "endMs": 7660
+            },
+            {
+              "word": "afraid",
+              "charStart": 122,
+              "charEnd": 128,
+              "startMs": 7660,
+              "endMs": 7900
+            },
+            {
+              "word": "to",
+              "charStart": 129,
+              "charEnd": 131,
+              "startMs": 7900,
+              "endMs": 8320
+            },
+            {
+              "word": "ask",
+              "charStart": 132,
+              "charEnd": 135,
+              "startMs": 8320,
+              "endMs": 8440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The train moved without noise, passing houses where small blue dreams flickered in windows. Nobody spoke at first.",
+          "translation_ko": "기차는 소리 없이 움직이며 창문에 작은 파란 꿈이 깜박이는 집들을 지나갔어요. 처음에는 아무도 말하지 않았어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "train",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "moved",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "without",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 900,
+              "endMs": 1240
+            },
+            {
+              "word": "noise",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1240,
+              "endMs": 1700
+            },
+            {
+              "word": "passing",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2400
+            },
+            {
+              "word": "houses",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2400,
+              "endMs": 2760
+            },
+            {
+              "word": "where",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2760,
+              "endMs": 3120
+            },
+            {
+              "word": "small",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3120,
+              "endMs": 3500
+            },
+            {
+              "word": "blue",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3500,
+              "endMs": 3800
+            },
+            {
+              "word": "dreams",
+              "charStart": 63,
+              "charEnd": 69,
+              "startMs": 3800,
+              "endMs": 4240
+            },
+            {
+              "word": "flickered",
+              "charStart": 70,
+              "charEnd": 79,
+              "startMs": 4240,
+              "endMs": 4740
+            },
+            {
+              "word": "in",
+              "charStart": 80,
+              "charEnd": 82,
+              "startMs": 4740,
+              "endMs": 5000
+            },
+            {
+              "word": "windows",
+              "charStart": 83,
+              "charEnd": 90,
+              "startMs": 5000,
+              "endMs": 5340
+            },
+            {
+              "word": "Nobody",
+              "charStart": 92,
+              "charEnd": 98,
+              "startMs": 6360,
+              "endMs": 6520
+            },
+            {
+              "word": "spoke",
+              "charStart": 99,
+              "charEnd": 104,
+              "startMs": 6520,
+              "endMs": 6800
+            },
+            {
+              "word": "at",
+              "charStart": 105,
+              "charEnd": 107,
+              "startMs": 6800,
+              "endMs": 7020
+            },
+            {
+              "word": "first",
+              "charStart": 108,
+              "charEnd": 113,
+              "startMs": 7020,
+              "endMs": 7260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the first stop, the baker described the first loaf he had ever ruined. Everyone laughed gently because the story smelled of flour and courage.",
+          "translation_ko": "첫 정거장에서 빵집 주인은 처음 망친 빵 이야기를 했어요. 그 이야기는 밀가루와 용기 냄새가 나서 모두 부드럽게 웃었어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 160,
+              "endMs": 340
+            },
+            {
+              "word": "first",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 720
+            },
+            {
+              "word": "stop",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1560
+            },
+            {
+              "word": "baker",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1560,
+              "endMs": 1740
+            },
+            {
+              "word": "described",
+              "charStart": 29,
+              "charEnd": 38,
+              "startMs": 1740,
+              "endMs": 2200
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2200,
+              "endMs": 2480
+            },
+            {
+              "word": "first",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2480,
+              "endMs": 2800
+            },
+            {
+              "word": "loaf",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "he",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3060,
+              "endMs": 3240
+            },
+            {
+              "word": "had",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3240,
+              "endMs": 3400
+            },
+            {
+              "word": "ever",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3400,
+              "endMs": 3800
+            },
+            {
+              "word": "ruined",
+              "charStart": 66,
+              "charEnd": 72,
+              "startMs": 3800,
+              "endMs": 4080
+            },
+            {
+              "word": "Everyone",
+              "charStart": 74,
+              "charEnd": 82,
+              "startMs": 5060,
+              "endMs": 5240
+            },
+            {
+              "word": "laughed",
+              "charStart": 83,
+              "charEnd": 90,
+              "startMs": 5240,
+              "endMs": 5580
+            },
+            {
+              "word": "gently",
+              "charStart": 91,
+              "charEnd": 97,
+              "startMs": 5580,
+              "endMs": 5980
+            },
+            {
+              "word": "because",
+              "charStart": 98,
+              "charEnd": 105,
+              "startMs": 5980,
+              "endMs": 6300
+            },
+            {
+              "word": "the",
+              "charStart": 106,
+              "charEnd": 109,
+              "startMs": 6300,
+              "endMs": 6580
+            },
+            {
+              "word": "story",
+              "charStart": 110,
+              "charEnd": 115,
+              "startMs": 6580,
+              "endMs": 6820
+            },
+            {
+              "word": "smelled",
+              "charStart": 116,
+              "charEnd": 123,
+              "startMs": 6820,
+              "endMs": 7100
+            },
+            {
+              "word": "of",
+              "charStart": 124,
+              "charEnd": 126,
+              "startMs": 7100,
+              "endMs": 7360
+            },
+            {
+              "word": "flour",
+              "charStart": 127,
+              "charEnd": 132,
+              "startMs": 7360,
+              "endMs": 7620
+            },
+            {
+              "word": "and",
+              "charStart": 133,
+              "charEnd": 136,
+              "startMs": 7620,
+              "endMs": 8000
+            },
+            {
+              "word": "courage",
+              "charStart": 137,
+              "charEnd": 144,
+              "startMs": 8000,
+              "endMs": 8360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the second stop, the student practiced the apology until the words stopped shaking. The train lights grew brighter.",
+          "translation_ko": "두 번째 정거장에서 학생은 말이 떨리지 않을 때까지 사과를 연습했어요. 기차 불빛은 더 밝아졌어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 120,
+              "endMs": 400
+            },
+            {
+              "word": "second",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 400,
+              "endMs": 580
+            },
+            {
+              "word": "stop",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "student",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1440,
+              "endMs": 1680
+            },
+            {
+              "word": "practiced",
+              "charStart": 32,
+              "charEnd": 41,
+              "startMs": 1680,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2160,
+              "endMs": 2400
+            },
+            {
+              "word": "apology",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "word": "until",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2800,
+              "endMs": 3500
+            },
+            {
+              "word": "the",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3500,
+              "endMs": 3720
+            },
+            {
+              "word": "words",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 3720,
+              "endMs": 4040
+            },
+            {
+              "word": "stopped",
+              "charStart": 70,
+              "charEnd": 77,
+              "startMs": 4040,
+              "endMs": 4400
+            },
+            {
+              "word": "shaking",
+              "charStart": 78,
+              "charEnd": 85,
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "word": "The",
+              "charStart": 87,
+              "charEnd": 90,
+              "startMs": 5500,
+              "endMs": 5680
+            },
+            {
+              "word": "train",
+              "charStart": 91,
+              "charEnd": 96,
+              "startMs": 5680,
+              "endMs": 5960
+            },
+            {
+              "word": "lights",
+              "charStart": 97,
+              "charEnd": 103,
+              "startMs": 5960,
+              "endMs": 6340
+            },
+            {
+              "word": "grew",
+              "charStart": 104,
+              "charEnd": 108,
+              "startMs": 6340,
+              "endMs": 6880
+            },
+            {
+              "word": "brighter",
+              "charStart": 109,
+              "charEnd": 117,
+              "startMs": 6880,
+              "endMs": 7220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I kept my question hidden until the tracks crossed a black river. In the water, I saw my own worried face beside many others.",
+          "translation_ko": "나는 선로가 검은 강을 건널 때까지 질문을 숨겼어요. 물속에서 나는 많은 얼굴 옆에 내 걱정스러운 얼굴을 보았어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "kept",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 440
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "question",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 1180
+            },
+            {
+              "word": "hidden",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "until",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1500,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "tracks",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2160,
+              "endMs": 2440
+            },
+            {
+              "word": "crossed",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2440,
+              "endMs": 2780
+            },
+            {
+              "word": "a",
+              "charStart": 51,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 2960
+            },
+            {
+              "word": "black",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 2960,
+              "endMs": 3220
+            },
+            {
+              "word": "river",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3220,
+              "endMs": 3480
+            },
+            {
+              "word": "In",
+              "charStart": 66,
+              "charEnd": 68,
+              "startMs": 4280,
+              "endMs": 4340
+            },
+            {
+              "word": "the",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 4340,
+              "endMs": 4700
+            },
+            {
+              "word": "water",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 4700,
+              "endMs": 4800
+            },
+            {
+              "word": "I",
+              "charStart": 80,
+              "charEnd": 81,
+              "startMs": 5140,
+              "endMs": 5360
+            },
+            {
+              "word": "saw",
+              "charStart": 82,
+              "charEnd": 85,
+              "startMs": 5360,
+              "endMs": 5460
+            },
+            {
+              "word": "my",
+              "charStart": 86,
+              "charEnd": 88,
+              "startMs": 5460,
+              "endMs": 5660
+            },
+            {
+              "word": "own",
+              "charStart": 89,
+              "charEnd": 92,
+              "startMs": 5660,
+              "endMs": 5960
+            },
+            {
+              "word": "worried",
+              "charStart": 93,
+              "charEnd": 100,
+              "startMs": 5960,
+              "endMs": 6220
+            },
+            {
+              "word": "face",
+              "charStart": 101,
+              "charEnd": 105,
+              "startMs": 6220,
+              "endMs": 6560
+            },
+            {
+              "word": "beside",
+              "charStart": 106,
+              "charEnd": 112,
+              "startMs": 6560,
+              "endMs": 6960
+            },
+            {
+              "word": "many",
+              "charStart": 113,
+              "charEnd": 117,
+              "startMs": 6960,
+              "endMs": 7300
+            },
+            {
+              "word": "others",
+              "charStart": 118,
+              "charEnd": 124,
+              "startMs": 7300,
+              "endMs": 7620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "So I asked whether brave people feel scared too. The conductor smiled as if he had been waiting for that question for years.",
+          "translation_ko": "그래서 나는 용감한 사람들도 두려움을 느끼는지 물었어요. 차장은 몇 년 동안 그 질문을 기다린 것처럼 웃었어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "I",
+              "charStart": 3,
+              "charEnd": 4,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "asked",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "whether",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "brave",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1600
+            },
+            {
+              "word": "people",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1960
+            },
+            {
+              "word": "feel",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1960,
+              "endMs": 2340
+            },
+            {
+              "word": "scared",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2340,
+              "endMs": 2640
+            },
+            {
+              "word": "too",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 3060
+            },
+            {
+              "word": "The",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3600,
+              "endMs": 3740
+            },
+            {
+              "word": "conductor",
+              "charStart": 53,
+              "charEnd": 62,
+              "startMs": 3740,
+              "endMs": 4040
+            },
+            {
+              "word": "smiled",
+              "charStart": 63,
+              "charEnd": 69,
+              "startMs": 4040,
+              "endMs": 4620
+            },
+            {
+              "word": "as",
+              "charStart": 70,
+              "charEnd": 72,
+              "startMs": 4620,
+              "endMs": 4880
+            },
+            {
+              "word": "if",
+              "charStart": 73,
+              "charEnd": 75,
+              "startMs": 4880,
+              "endMs": 5000
+            },
+            {
+              "word": "he",
+              "charStart": 76,
+              "charEnd": 78,
+              "startMs": 5000,
+              "endMs": 5160
+            },
+            {
+              "word": "had",
+              "charStart": 79,
+              "charEnd": 82,
+              "startMs": 5160,
+              "endMs": 5300
+            },
+            {
+              "word": "been",
+              "charStart": 83,
+              "charEnd": 87,
+              "startMs": 5300,
+              "endMs": 5520
+            },
+            {
+              "word": "waiting",
+              "charStart": 88,
+              "charEnd": 95,
+              "startMs": 5520,
+              "endMs": 5700
+            },
+            {
+              "word": "for",
+              "charStart": 96,
+              "charEnd": 99,
+              "startMs": 5700,
+              "endMs": 5940
+            },
+            {
+              "word": "that",
+              "charStart": 100,
+              "charEnd": 104,
+              "startMs": 5940,
+              "endMs": 6160
+            },
+            {
+              "word": "question",
+              "charStart": 105,
+              "charEnd": 113,
+              "startMs": 6160,
+              "endMs": 6500
+            },
+            {
+              "word": "for",
+              "charStart": 114,
+              "charEnd": 117,
+              "startMs": 6500,
+              "endMs": 6880
+            },
+            {
+              "word": "years",
+              "charStart": 118,
+              "charEnd": 123,
+              "startMs": 6880,
+              "endMs": 7180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He said the train ran because fear was heavy, not because it was shameful. Sharing it made room for morning.",
+          "translation_ko": "그는 두려움이 부끄러워서가 아니라 무거워서 이 기차가 달린다고 말했어요. 나누면 아침이 들어올 자리가 생긴다고 했어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "said",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 960
+            },
+            {
+              "word": "train",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "ran",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1620
+            },
+            {
+              "word": "because",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1620,
+              "endMs": 2040
+            },
+            {
+              "word": "fear",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2040,
+              "endMs": 2420
+            },
+            {
+              "word": "was",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2700
+            },
+            {
+              "word": "heavy",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2700,
+              "endMs": 2940
+            },
+            {
+              "word": "not",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3640,
+              "endMs": 3780
+            },
+            {
+              "word": "because",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 3780,
+              "endMs": 4200
+            },
+            {
+              "word": "it",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 4200,
+              "endMs": 4380
+            },
+            {
+              "word": "was",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4380,
+              "endMs": 4600
+            },
+            {
+              "word": "shameful",
+              "charStart": 65,
+              "charEnd": 73,
+              "startMs": 4600,
+              "endMs": 4880
+            },
+            {
+              "word": "Sharing",
+              "charStart": 75,
+              "charEnd": 82,
+              "startMs": 5920,
+              "endMs": 5940
+            },
+            {
+              "word": "it",
+              "charStart": 83,
+              "charEnd": 85,
+              "startMs": 5940,
+              "endMs": 6320
+            },
+            {
+              "word": "made",
+              "charStart": 86,
+              "charEnd": 90,
+              "startMs": 6320,
+              "endMs": 6540
+            },
+            {
+              "word": "room",
+              "charStart": 91,
+              "charEnd": 95,
+              "startMs": 6540,
+              "endMs": 6860
+            },
+            {
+              "word": "for",
+              "charStart": 96,
+              "charEnd": 99,
+              "startMs": 6860,
+              "endMs": 7180
+            },
+            {
+              "word": "morning",
+              "charStart": 100,
+              "charEnd": 107,
+              "startMs": 7180,
+              "endMs": 7400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The sky outside softened from black to gray to pearl. One by one, passengers left their worries folded on the seats.",
+          "translation_ko": "밖의 하늘은 검정에서 회색으로, 회색에서 진주빛으로 부드러워졌어요. 승객들은 하나씩 걱정을 접어 좌석에 두고 내렸어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "sky",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 600
+            },
+            {
+              "word": "outside",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 1280
+            },
+            {
+              "word": "softened",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1740
+            },
+            {
+              "word": "from",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 2120
+            },
+            {
+              "word": "black",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2420
+            },
+            {
+              "word": "to",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2820
+            },
+            {
+              "word": "gray",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2820,
+              "endMs": 2960
+            },
+            {
+              "word": "to",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2960,
+              "endMs": 3280
+            },
+            {
+              "word": "pearl",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3280,
+              "endMs": 3600
+            },
+            {
+              "word": "One",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 4580,
+              "endMs": 4600
+            },
+            {
+              "word": "by",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 4600,
+              "endMs": 4820
+            },
+            {
+              "word": "one",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4820,
+              "endMs": 5100
+            },
+            {
+              "word": "passengers",
+              "charStart": 66,
+              "charEnd": 76,
+              "startMs": 5380,
+              "endMs": 5660
+            },
+            {
+              "word": "left",
+              "charStart": 77,
+              "charEnd": 81,
+              "startMs": 5660,
+              "endMs": 5940
+            },
+            {
+              "word": "their",
+              "charStart": 82,
+              "charEnd": 87,
+              "startMs": 5940,
+              "endMs": 6200
+            },
+            {
+              "word": "worries",
+              "charStart": 88,
+              "charEnd": 95,
+              "startMs": 6200,
+              "endMs": 6520
+            },
+            {
+              "word": "folded",
+              "charStart": 96,
+              "charEnd": 102,
+              "startMs": 6520,
+              "endMs": 6900
+            },
+            {
+              "word": "on",
+              "charStart": 103,
+              "charEnd": 105,
+              "startMs": 6900,
+              "endMs": 7140
+            },
+            {
+              "word": "the",
+              "charStart": 106,
+              "charEnd": 109,
+              "startMs": 7140,
+              "endMs": 7420
+            },
+            {
+              "word": "seats",
+              "charStart": 110,
+              "charEnd": 115,
+              "startMs": 7420,
+              "endMs": 7500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When I stepped onto the morning platform, my question was still with me, but it no longer felt locked. I could carry it in daylight.",
+          "translation_ko": "아침 승강장에 내렸을 때 질문은 여전히 나와 있었지만 더 이상 잠겨 있지 않았어요. 나는 그것을 낮빛 속에서 들고 갈 수 있었어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "stepped",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 640,
+              "endMs": 800
+            },
+            {
+              "word": "onto",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1400
+            },
+            {
+              "word": "morning",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1400,
+              "endMs": 1720
+            },
+            {
+              "word": "platform",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 1720,
+              "endMs": 2240
+            },
+            {
+              "word": "my",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "question",
+              "charStart": 45,
+              "charEnd": 53,
+              "startMs": 2820,
+              "endMs": 3260
+            },
+            {
+              "word": "was",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3260,
+              "endMs": 3500
+            },
+            {
+              "word": "still",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3500,
+              "endMs": 3840
+            },
+            {
+              "word": "with",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 3840,
+              "endMs": 4080
+            },
+            {
+              "word": "me",
+              "charStart": 69,
+              "charEnd": 71,
+              "startMs": 4080,
+              "endMs": 4320
+            },
+            {
+              "word": "but",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 4700,
+              "endMs": 4780
+            },
+            {
+              "word": "it",
+              "charStart": 77,
+              "charEnd": 79,
+              "startMs": 4780,
+              "endMs": 5000
+            },
+            {
+              "word": "no",
+              "charStart": 80,
+              "charEnd": 82,
+              "startMs": 5000,
+              "endMs": 5240
+            },
+            {
+              "word": "longer",
+              "charStart": 83,
+              "charEnd": 89,
+              "startMs": 5240,
+              "endMs": 5540
+            },
+            {
+              "word": "felt",
+              "charStart": 90,
+              "charEnd": 94,
+              "startMs": 5540,
+              "endMs": 5900
+            },
+            {
+              "word": "locked",
+              "charStart": 95,
+              "charEnd": 101,
+              "startMs": 5900,
+              "endMs": 6240
+            },
+            {
+              "word": "I",
+              "charStart": 103,
+              "charEnd": 104,
+              "startMs": 6860,
+              "endMs": 7000
+            },
+            {
+              "word": "could",
+              "charStart": 105,
+              "charEnd": 110,
+              "startMs": 7000,
+              "endMs": 7200
+            },
+            {
+              "word": "carry",
+              "charStart": 111,
+              "charEnd": 116,
+              "startMs": 7200,
+              "endMs": 7460
+            },
+            {
+              "word": "it",
+              "charStart": 117,
+              "charEnd": 119,
+              "startMs": 7460,
+              "endMs": 7680
+            },
+            {
+              "word": "in",
+              "charStart": 120,
+              "charEnd": 122,
+              "startMs": 7680,
+              "endMs": 7960
+            },
+            {
+              "word": "daylight",
+              "charStart": 123,
+              "charEnd": 131,
+              "startMs": 7960,
+              "endMs": 8240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That night, if the train came again, I knew the way. I also knew I might not need to ride alone.",
+          "translation_ko": "그날 밤 기차가 다시 온다면 나는 길을 알고 있었어요. 그리고 혼자 탈 필요는 없을지도 모른다는 것도 알았어요.",
+          "audio": "/seed/the-last-train-to-morning/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "night",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "if",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1080
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1280
+            },
+            {
+              "word": "train",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "came",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "again",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1780,
+              "endMs": 2100
+            },
+            {
+              "word": "I",
+              "charStart": 37,
+              "charEnd": 38,
+              "startMs": 2460,
+              "endMs": 2600
+            },
+            {
+              "word": "knew",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2600,
+              "endMs": 2660
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2660,
+              "endMs": 2860
+            },
+            {
+              "word": "way",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2860,
+              "endMs": 3060
+            },
+            {
+              "word": "I",
+              "charStart": 53,
+              "charEnd": 54,
+              "startMs": 3520,
+              "endMs": 3620
+            },
+            {
+              "word": "also",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3620,
+              "endMs": 3960
+            },
+            {
+              "word": "knew",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3960,
+              "endMs": 4140
+            },
+            {
+              "word": "I",
+              "charStart": 65,
+              "charEnd": 66,
+              "startMs": 4140,
+              "endMs": 4420
+            },
+            {
+              "word": "might",
+              "charStart": 67,
+              "charEnd": 72,
+              "startMs": 4420,
+              "endMs": 4560
+            },
+            {
+              "word": "not",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 4560,
+              "endMs": 4760
+            },
+            {
+              "word": "need",
+              "charStart": 77,
+              "charEnd": 81,
+              "startMs": 4760,
+              "endMs": 4920
+            },
+            {
+              "word": "to",
+              "charStart": 82,
+              "charEnd": 84,
+              "startMs": 4920,
+              "endMs": 5140
+            },
+            {
+              "word": "ride",
+              "charStart": 85,
+              "charEnd": 89,
+              "startMs": 5140,
+              "endMs": 5260
+            },
+            {
+              "word": "alone",
+              "charStart": 90,
+              "charEnd": 95,
+              "startMs": 5260,
+              "endMs": 5580
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아침으로 가는 마지막 기차에서 중심이 되는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 밤 기차",
+        "낡은 시계",
+        "빨간 버스",
+        "큰 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "작은 밤 기차이 이야기의 중심이에요."
+    },
+    {
+      "question_ko": "이야기는 주로 어디에서 펼쳐지나요?",
+      "type": "mc",
+      "options": [
+        "은빛 선로와 새벽역",
+        "병원",
+        "기차역",
+        "운동장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "은빛 선로와 새벽역에서 중요한 일이 일어나요."
+    },
+    {
+      "question_ko": "주인공이 만난 문제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "승객들이 밤새 걱정을 내려놓지 못했어요",
+        "간식이 없었어요",
+        "비밀 편지를 잃었어요",
+        "문이 잠겼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "승객들이 밤새 걱정을 내려놓지 못했어요"
+    },
+    {
+      "question_ko": "누가 또는 무엇이 도움을 주었나요?",
+      "type": "mc",
+      "options": [
+        "기차의 조용한 정차와 서로의 이야기",
+        "검은 구름",
+        "빈 상자",
+        "낯선 모자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "기차의 조용한 정차와 서로의 이야기이 해결을 도와요."
+    },
+    {
+      "question_ko": "이야기가 알려 주는 마음은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "걱정을 나누면 아침으로 갈 수 있다는 마음",
+        "빨리 이기는 마음",
+        "혼자 숨는 마음",
+        "아무것도 하지 않는 마음"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "걱정을 나누면 아침으로 갈 수 있다는 마음을 배워요."
+    }
+  ]
+}

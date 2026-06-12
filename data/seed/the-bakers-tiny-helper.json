@@ -1,0 +1,1436 @@
+{
+  "slug": "the-bakers-tiny-helper",
+  "title": "The Baker's Tiny Helper",
+  "title_ko": "빵집의 작은 일꾼",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "빵집에 사는 작은 쥐가 몰래 아저씨를 도우며 따뜻한 우정을 쌓는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A tiny mouse lived in a warm bakery.",
+          "translation_ko": "작은 쥐 한 마리가 따뜻한 빵집에 살았어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "tiny",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 720,
+              "endMs": 1100
+            },
+            {
+              "word": "mouse",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 1100,
+              "endMs": 1480
+            },
+            {
+              "word": "lived",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1480,
+              "endMs": 1960
+            },
+            {
+              "word": "in",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1960,
+              "endMs": 2080
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "warm",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "bakery",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2540,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "He loved the smell of fresh bread.",
+          "translation_ko": "그는 갓 구운 빵 냄새를 무척 좋아했어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "loved",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "smell",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "of",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1460,
+              "endMs": 1980
+            },
+            {
+              "word": "fresh",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1980,
+              "endMs": 2100
+            },
+            {
+              "word": "bread",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2100,
+              "endMs": 2380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Every night the baker worked very hard.",
+          "translation_ko": "밤마다 빵집 아저씨는 아주 열심히 일했어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 860,
+              "endMs": 1260
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1440,
+              "endMs": 1680
+            },
+            {
+              "word": "baker",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1680,
+              "endMs": 1920
+            },
+            {
+              "word": "worked",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "very",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2260,
+              "endMs": 2740
+            },
+            {
+              "word": "hard",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2740,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "But he was old, so he often grew tired.",
+          "translation_ko": "하지만 나이가 많아서 자주 지쳤지요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "he",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "was",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "old",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "so",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1800,
+              "endMs": 1920
+            },
+            {
+              "word": "he",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "often",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "grew",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2480,
+              "endMs": 2740
+            },
+            {
+              "word": "tired",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2740,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When the baker went home, the mouse came out.",
+          "translation_ko": "아저씨가 집으로 돌아가면 쥐가 살금살금 나왔어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 400
+            },
+            {
+              "word": "baker",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 400,
+              "endMs": 680
+            },
+            {
+              "word": "went",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 680,
+              "endMs": 920
+            },
+            {
+              "word": "home",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 920,
+              "endMs": 1260
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "mouse",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "came",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "out",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2320,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "Flour was spilled all over the floor.",
+          "translation_ko": "바닥에는 밀가루가 잔뜩 흩어져 있었어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Flour",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "was",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "spilled",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "all",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1560
+            },
+            {
+              "word": "over",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 2040
+            },
+            {
+              "word": "floor",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2040,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The little mouse swept the flour into a neat pile.",
+          "translation_ko": "작은 쥐는 밀가루를 깔끔하게 한곳으로 쓸어 모았어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "little",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "mouse",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "swept",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 820,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "flour",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1420,
+              "endMs": 1680
+            },
+            {
+              "word": "into",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1680,
+              "endMs": 2040
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2040,
+              "endMs": 2300
+            },
+            {
+              "word": "neat",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2420
+            },
+            {
+              "word": "pile",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2420,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "Then he lined up the loaves of bread.",
+          "translation_ko": "그러고는 빵 덩어리들을 가지런히 줄 세웠어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "he",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 760
+            },
+            {
+              "word": "lined",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "up",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1760
+            },
+            {
+              "word": "loaves",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 1780
+            },
+            {
+              "word": "of",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 2320
+            },
+            {
+              "word": "bread",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2320,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "In the morning, the baker opened the door.",
+          "translation_ko": "아침이 되자 아저씨가 문을 열었어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "In",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 380
+            },
+            {
+              "word": "morning",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 380,
+              "endMs": 680
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1340
+            },
+            {
+              "word": "baker",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "opened",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1580,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "door",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2260,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "He stopped because the bakery was clean and tidy.",
+          "translation_ko": "빵집이 깨끗하고 단정해서 그는 걸음을 멈췄어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "stopped",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 760,
+              "endMs": 1200
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1760,
+              "endMs": 2060
+            },
+            {
+              "word": "bakery",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2060,
+              "endMs": 2240
+            },
+            {
+              "word": "was",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2240,
+              "endMs": 2580
+            },
+            {
+              "word": "clean",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2580,
+              "endMs": 2980
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2980,
+              "endMs": 3560
+            },
+            {
+              "word": "tidy",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3560,
+              "endMs": 3560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Who helped me?\" the baker asked softly.",
+          "translation_ko": "\"누가 나를 도와줬을까?\" 아저씨가 가만히 물었어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Who",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "helped",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "me",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1540
+            },
+            {
+              "word": "baker",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1540,
+              "endMs": 1720
+            },
+            {
+              "word": "asked",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1720,
+              "endMs": 2100
+            },
+            {
+              "word": "softly",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2100,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "He looked around, but no one was there.",
+          "translation_ko": "주위를 둘러봤지만 아무도 없었어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "looked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 420
+            },
+            {
+              "word": "around",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 420,
+              "endMs": 840
+            },
+            {
+              "word": "but",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1080,
+              "endMs": 1480
+            },
+            {
+              "word": "no",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "one",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 1800
+            },
+            {
+              "word": "was",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2000
+            },
+            {
+              "word": "there",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2000,
+              "endMs": 2240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Night after night, the mouse kept helping.",
+          "translation_ko": "밤마다 쥐는 계속해서 일을 도왔어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Night",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "after",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "night",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "mouse",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "kept",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1580,
+              "endMs": 1900
+            },
+            {
+              "word": "helping",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 1900,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "The baker wanted to know who his secret helper was.",
+          "translation_ko": "아저씨는 그 비밀 일꾼이 누구인지 알고 싶었어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "baker",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "wanted",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "know",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1220
+            },
+            {
+              "word": "who",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "his",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "secret",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 1660,
+              "endMs": 1980
+            },
+            {
+              "word": "helper",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 1980,
+              "endMs": 2260
+            },
+            {
+              "word": "was",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2260,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "So one night he hid behind a sack of flour.",
+          "translation_ko": "그래서 어느 밤, 아저씨는 밀가루 자루 뒤에 숨었어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "one",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "night",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 900
+            },
+            {
+              "word": "he",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1380
+            },
+            {
+              "word": "hid",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "behind",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 2060
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 2060,
+              "endMs": 2320
+            },
+            {
+              "word": "sack",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2320,
+              "endMs": 2520
+            },
+            {
+              "word": "of",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2520,
+              "endMs": 2860
+            },
+            {
+              "word": "flour",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2860,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "Soon he saw the tiny mouse sweeping the floor.",
+          "translation_ko": "곧 작은 쥐가 바닥을 쓰는 모습이 보였어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "he",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 640
+            },
+            {
+              "word": "saw",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1120
+            },
+            {
+              "word": "tiny",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1460
+            },
+            {
+              "word": "mouse",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "sweeping",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 1820,
+              "endMs": 2420
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2640
+            },
+            {
+              "word": "floor",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The baker smiled and left a small piece of cheese.",
+          "translation_ko": "아저씨는 빙그레 웃으며 치즈 한 조각을 놓아 두었어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "baker",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 540
+            },
+            {
+              "word": "smiled",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 1020
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1520
+            },
+            {
+              "word": "left",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1620
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "small",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "piece",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2400
+            },
+            {
+              "word": "of",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2400,
+              "endMs": 2900
+            },
+            {
+              "word": "cheese",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2900,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "The mouse nibbled it happily and felt thankful.",
+          "translation_ko": "쥐는 그것을 기쁘게 갉아 먹으며 고마워했어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "mouse",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "nibbled",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "it",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1580,
+              "endMs": 1800
+            },
+            {
+              "word": "happily",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2120
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2800
+            },
+            {
+              "word": "felt",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2800,
+              "endMs": 2940
+            },
+            {
+              "word": "thankful",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2940,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "From that day, they shared the quiet bakery together.",
+          "translation_ko": "그날부터 둘은 조용한 빵집에서 함께 지냈어요.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "From",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "that",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 460
+            },
+            {
+              "word": "day",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "they",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "shared",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1160,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "quiet",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1580,
+              "endMs": 1900
+            },
+            {
+              "word": "bakery",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 1900,
+              "endMs": 2220
+            },
+            {
+              "word": "together",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2220,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "A baker and his tiny helper became good friends.",
+          "translation_ko": "빵집 아저씨와 작은 일꾼은 좋은 친구가 되었답니다.",
+          "audio": "/seed/the-bakers-tiny-helper/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "baker",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 860,
+              "endMs": 1080
+            },
+            {
+              "word": "and",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1340,
+              "endMs": 1540
+            },
+            {
+              "word": "tiny",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1540,
+              "endMs": 1880
+            },
+            {
+              "word": "helper",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "became",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2700
+            },
+            {
+              "word": "good",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2700,
+              "endMs": 3160
+            },
+            {
+              "word": "friends",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 3160,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "작은 쥐는 어디에 살았나요?",
+      "type": "mc",
+      "options": [
+        "따뜻한 빵집",
+        "추운 숲속",
+        "큰 도시",
+        "강가의 집"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "쥐는 따뜻한 빵집에 살면서 빵 냄새를 좋아했어요."
+    },
+    {
+      "question_ko": "쥐는 아저씨가 집에 간 뒤에 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "빵을 먹기만 했어요",
+        "밀가루를 쓸고 빵을 줄 세웠어요",
+        "밖으로 도망쳤어요",
+        "잠을 잤어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "쥐는 흩어진 밀가루를 모으고 빵을 가지런히 정리했어요."
+    },
+    {
+      "question_ko": "아저씨는 비밀 일꾼을 알아내려고 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "문을 잠갔어요",
+        "친구에게 물어봤어요",
+        "밀가루 자루 뒤에 숨었어요",
+        "불을 껐어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아저씨는 밀가루 자루 뒤에 숨어서 쥐를 직접 보았어요."
+    },
+    {
+      "question_ko": "아저씨는 쥐를 위해 무엇을 남겼나요?",
+      "type": "mc",
+      "options": [
+        "치즈 한 조각",
+        "빵 한 덩어리",
+        "물 한 컵",
+        "꽃 한 송이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아저씨는 고마운 마음으로 치즈 한 조각을 놓아 두었어요."
+    },
+    {
+      "question_ko": "이 이야기가 주는 가장 큰 느낌은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "욕심을 부려야 해요",
+        "작은 친절이 우정을 만들어요",
+        "혼자 있는 게 좋아요",
+        "빵은 위험해요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "쥐의 조용한 친절이 아저씨와의 따뜻한 우정으로 이어졌어요."
+    }
+  ]
+}

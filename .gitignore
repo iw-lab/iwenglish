@@ -50,3 +50,6 @@ src/data/content.generated.ts
 
 # 그림 원본 PNG는 커밋/배포 제외 — 앱은 webp만 사용(webp는 커밋함)
 public/seed/**/*.png
+
+# 비전 QA 임시 변환·codex out 캐시
+.vqa-tmp/

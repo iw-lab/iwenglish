@@ -3,6 +3,7 @@ import { BookCard } from "@/components/book/BookCard";
 import { SetupNotice } from "@/components/shell/SetupNotice";
 import { LibraryHero } from "@/components/home/LibraryHero";
 import { CompletedShelf, type ShelfBook } from "@/components/home/CompletedShelf";
+import { ShelfRow } from "@/components/home/ShelfRow";
 import { PLANNED_BOOKS } from "@/lib/data/plannedBooks";
 import { featureAvailability } from "@/lib/env";
 import type { CefrLevel } from "@/types/book";
@@ -83,7 +84,7 @@ export default async function LibraryPage() {
                     {grade} · {level} · {inLevel.length}권
                   </span>
                 </div>
-                <div className="shelf-row -mx-4 px-4 lg:-mx-8 lg:px-8">
+                <ShelfRow>
                   {inLevel.map((b) => (
                     <BookCard
                       key={b.id}
@@ -97,7 +98,7 @@ export default async function LibraryPage() {
                       shelf
                     />
                   ))}
-                </div>
+                </ShelfRow>
               </section>
             );
           })}
@@ -128,7 +129,7 @@ export default async function LibraryPage() {
                     {grade} · {inStage.length}권
                   </span>
                 </div>
-                <div className="shelf-row -mx-4 px-4 lg:-mx-8 lg:px-8">
+                <ShelfRow>
                   {inStage.map((b) => (
                     <BookCard
                       key={b.id}
@@ -142,7 +143,7 @@ export default async function LibraryPage() {
                       shelf
                     />
                   ))}
-                </div>
+                </ShelfRow>
               </section>
             );
           })}
@@ -155,7 +156,7 @@ export default async function LibraryPage() {
           <h2 className="text-sm font-bold text-muted-foreground">
             출간 예정 · {upcoming.length}권
           </h2>
-          <div className="shelf-row -mx-4 px-4 lg:-mx-8 lg:px-8">
+          <ShelfRow>
             {upcoming.map((b) => (
               <BookCard
                 key={b.slug}
@@ -169,7 +170,7 @@ export default async function LibraryPage() {
                 shelf
               />
             ))}
-          </div>
+          </ShelfRow>
         </section>
       )}
     </div>

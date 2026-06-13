@@ -55,9 +55,9 @@ export function SettingsPanel() {
           <div className="flex items-center gap-2">
             <Type className="h-5 w-5 text-primary" />
             <div>
-              <p className="font-semibold">난독증 친화 폰트</p>
+              <p className="font-semibold">읽기 편한 글꼴</p>
               <p className="font-ko text-xs text-muted-foreground">
-                Lexend · 자간/줄간 확대
+                글자가 또렷하고 자간·줄간이 넓어져요
               </p>
             </div>
           </div>

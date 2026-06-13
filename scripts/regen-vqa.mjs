@@ -2,10 +2,11 @@
  * regen-vqa.mjs — Codex 비전 QA가 적발하고 Opus가 확정한 실결함만 격리 재생성 (2026-06-13).
  * w7 dedup 엔진 일반화: out/anchor를 파라미터화해 cover도 재생성 가능. md5 self-verify + 재시도 5.
  *
- * 대상(Opus 이중확인 완료):
- *  1) the-clever-crow/p5 — 까마귀 날개가 갈고리 손/팔로 그려짐(해부학) → 정상 날개로
- *  2) the-windmill-friend/cover — 표지=소년인데 텍스트·전 페이지가 소녀 Mira → 소녀로(앵커=p5,p10)
- *  3) daily-14-my-cat-nabi/p3 — 고양이만 흰색(다수 6컷 태비) → 태비로(텍스트도 grey로 별도 수정)
+ * VQA 확정 결함 격리 재생성 스크립트(TARGETS만 교체해 재사용). 처리 이력:
+ *  1차: the-clever-crow/p5(날개=손 해부학) · the-windmill-friend/cover(소년→소녀 Mira) · daily-14/p3(흰→태비 고양이)
+ *  2차(windmill Mira 소년→소녀 전권 통일): p1·p3·p4·p8·p9 — 표지 교정 후 codex 재검증이 남은 off-model 소년 컷을 순차 적발.
+ *       (p2·p6=그룹 혼합 정상, p7=텍스트 "a small boy" 근거 소년)
+ * 아래 TARGETS는 마지막 배치(2차) 기록. 재실행 시 해당 컷이 재생성됨(md5 self-verify).
  *
  *   node scripts/regen-vqa.mjs
  */
@@ -27,32 +28,19 @@ const NEG_BASE =
   "NOT historical drama, NOT sageuk/hanbok, NOT Greek/Roman/toga, NOT samurai, NOT modern brand logos. NO celebrity likeness. " +
   "Match the reference image's character design, colors and art style EXACTLY (no drift).";
 
+// 2차: windmill 주인공 Mira 성별/외형 드리프트 — p3·p9는 소년, p4는 다른 의상.
+// 텍스트 "A girl named Mira" + 하루(아침→저녁) 이야기 → 전부 같은 소녀 한 의상으로 통일.
+// 정본 Mira = 표지(소녀)/p5/p10: 갈색 땋은머리 + 파란 조끼 + rust-red 치마 + 부츠.
+const MIRA = "Mira, a young girl with brown hair in two braids, wearing a blue vest over a white blouse, a rust-red skirt and brown boots (EXACTLY match the girl Mira on the cover and reference pages — same girl, same outfit)";
+const MIRA_NEG = "STRICT: the child is a GIRL named Mira — brown braided hair, blue vest, white blouse, rust-red skirt, boots. NOT a boy, NOT short curly hair with suspenders, NOT a white shirt with brown shorts, NOT a shoulder satchel boy. Same girl and same outfit as the reference images EXACTLY (this is one single day, so her clothes do not change). One friendly old stone windmill with a gentle smiling face. Soft watercolor picture-book style.";
+const WIN_ANCHOR = ["cover.png", "p5.png", "p10.png"];
+const WIN = (out, s) => ({ slug: "the-windmill-friend", out, anchor: WIN_ANCHOR, char: MIRA, s, neg: MIRA_NEG });
 const TARGETS = [
-  {
-    slug: "the-clever-crow",
-    out: "p5.png",
-    anchor: ["cover.png"],
-    char: "a glossy black crow with CORRECT bird anatomy — two feathered wings folded at its sides, two legs with taloned feet, one beak",
-    s: "In a golden dry field, the glossy black crow stands beside a tall narrow glass jug of water and tries to push the heavy jug with its body and beak, looking puzzled. Its wings stay folded at its sides as normal feathered bird wings.",
-    neg: "STRICT: the crow's wings are NORMAL feathered bird wings folded at its sides — NOT arms, NOT hands, NOT clawed fingers, NOT gripping the jug with a wing-hand. A crow has no hands; it interacts using only its beak and body. Exactly two legs, two wings, one beak. Match the reference crow design and watercolor style EXACTLY.",
-  },
-  {
-    slug: "the-windmill-friend",
-    out: "cover.png",
-    anchor: ["p5.png", "p10.png"],
-    char: "Mira, a young girl with brown hair in braids, wearing a rust-red dress with a pinafore apron and boots (EXACTLY match the girl Mira in the reference images)",
-    s: "Book cover composition: Mira the young girl stands on a grassy hill at warm golden sunset, looking up with wonder at a big old friendly stone windmill with turning sails; a small village and rolling hills below, wildflowers around.",
-    neg: "STRICT: the child is a GIRL named Mira — brown braided hair, rust-red dress with apron, boots. NOT a boy, NOT suspenders, NOT a white shirt with short trousers. Match the girl in the reference images EXACTLY. One friendly old stone windmill. Soft watercolor picture-book style.",
-  },
-  {
-    slug: "daily-14-my-cat-nabi",
-    out: "p3.png",
-    anchor: ["cover.png"],
-    char: "Jun (a cheerful Korean boy about 8, short tousled black hair, red t-shirt, blue shorts) gently cuddling Nabi — a soft GREY TABBY kitten with grey-brown tabby stripes and a white chest (EXACTLY match the kitten on the cover)",
-    s: "In a cozy modern Korean living room, Jun sits on the floor and gently hugs his soft grey tabby kitten Nabi close to his chest; warm, tender everyday moment.",
-    neg: "STRICT: Nabi is a GREY TABBY kitten (grey-brown tabby stripes, white chest and paws) EXACTLY like the kitten on the cover — NOT an all-white cat, NOT a fluffy white cat, NOT a different color. Korean modern everyday home (NOT fantasy). Boy has 5-finger hands. Match the cover's cat fur, markings and art style EXACTLY.",
-    style: "Warm, cozy modern Korean everyday watercolor children's-book illustration, soft natural light, wholesome.",
-  },
+  WIN("p1.png", "Establishing scene: a big old friendly stone windmill with a gentle smiling face stands on a green hill near a small village, its big sails turning in the wind. Mira the girl walks up the path toward it, looking up fondly. Bright cheerful daytime."),
+  WIN("p3.png", "One quiet morning, the wind has stopped. Mira the girl stands on the hill looking up with concern at the big old stone windmill whose sails hang completely still and silent. Calm soft morning light."),
+  WIN("p4.png", "Mira the girl runs up the grassy hill toward the still windmill, one hand cupped near her mouth as she calls out 'Wake up, old friend'. Warm daylight, wildflowers on the slope."),
+  WIN("p8.png", "Mira the girl sits on the grassy hill beside the old stone windmill, singing an old song with a happy peaceful face, eyes gently closed; soft clouds drift by and a light breeze lifts a few leaves and her braids. Warm afternoon light."),
+  WIN("p9.png", "As evening comes, a breeze returns and the great windmill sails slowly begin to turn again. Mira the girl watches happily, hair and skirt lifting in the wind, golden sunset sky."),
 ];
 
 const md5 = (p) => createHash("md5").update(readFileSync(p)).digest("hex");

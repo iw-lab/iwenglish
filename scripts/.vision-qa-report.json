@@ -4355,14 +4355,14 @@
   "subjects": [
    {
     "kind": "human",
-    "label": "Jun, Korean boy in red t-shirt and blue shorts",
-    "limbs": "2 arms and 2 legs visible/indicated; visible hands do not show more than 5 fingers; face appears normal.",
+    "label": "Jun, cheerful Korean boy in red t-shirt and blue shorts",
+    "limbs": "2 arms and 2 legs visible/represented; visible hands and feet are painterly but do not show clear extra, floating, duplicated, fused, or missing limbs/fingers",
     "anatomy_ok": true
    },
    {
     "kind": "animal",
-    "label": "grey-and-white tabby kitten",
-    "limbs": "Cat body is partly held by the boy; visible paws/legs are natural with no extra, duplicated, or floating limbs.",
+    "label": "grey tabby-and-white kitten",
+    "limbs": "Cat body with natural visible front paws/legs; no clear extra or duplicated legs, heads, or floating limbs",
     "anatomy_ok": true
    }
   ],
@@ -4374,20 +4374,20 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "Clean cover image: Jun matches the intended look, the kitten remains a cat with consistent grey tabby coloring, and no clear anatomy errors or readable text are visible."
+  "summary": "Clean cover: Jun matches the intended Korean boy look with red t-shirt and blue shorts, the kitten remains a cat with grey tabby/white markings, and no real anatomy errors or readable text are visible."
  },
  "daily-14-my-cat-nabi/p2": {
   "subjects": [
    {
     "kind": "human",
     "label": "Jun",
-    "limbs": "2 arms and 2 legs visible/ implied; both hands have no clear extra fingers; face normal",
+    "limbs": "2 arms, 2 legs visible/partly visible; both visible hands have at most 5 fingers",
     "anatomy_ok": true
    },
    {
     "kind": "animal",
     "label": "Nabi the cat",
-    "limbs": "4 legs for a cat, with one tail; no duplicated head or floating limbs",
+    "limbs": "4 legs appropriate for a cat, with no extra or duplicated limbs",
     "anatomy_ok": true
    }
   ],
@@ -4399,20 +4399,20 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "Page shows Jun as the same cheerful Korean boy with short black hair, red t-shirt, and blue shorts, with Nabi as a grey tabby cat matching the reference. No clear anatomy errors or text are visible."
+  "summary": "Page shows Jun with the same red t-shirt, blue shorts, short black hair, and friendly face as the reference. Nabi remains a grey tabby-and-white cat. No anatomy errors or in-image text are visible."
  },
  "daily-14-my-cat-nabi/p4": {
   "subjects": [
    {
     "kind": "human",
-    "label": "Jun, Korean boy in red t-shirt and blue shorts",
-    "limbs": "2 arms and 2 legs visible; both hands are painterly but do not show a clear extra finger; face is normal.",
+    "label": "Jun",
+    "limbs": "2 arms and 2 legs visible/indicated; visible hands have no clear extra or malformed fingers",
     "anatomy_ok": true
    },
    {
     "kind": "animal",
-    "label": "grey tabby kitten",
-    "limbs": "4 legs are implied/visible in natural cat anatomy; no extra head, floating limb, or duplicated limb visible.",
+    "label": "Nabi the cat",
+    "limbs": "4 legs visible/indicated in a natural kitten play pose; no duplicated limbs or extra head",
     "anatomy_ok": true
    }
   ],
@@ -4424,20 +4424,20 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows Jun with the correct red shirt, blue shorts, black tousled hair, and friendly face, alongside the same grey tabby kitten. Anatomy appears clean for both boy and cat, with no clear extra or missing limbs and no visible text."
+  "summary": "Jun matches the reference look with short black hair, red t-shirt, and blue shorts. Nabi remains a grey tabby-and-white kitten playing with a ball. No clear anatomy errors or text are present."
  },
  "daily-14-my-cat-nabi/p5": {
   "subjects": [
    {
     "kind": "human",
     "label": "Jun",
-    "limbs": "2 arms and 2 legs visible/depicted; visible hands are painterly but do not show more than 5 fingers; no extra or floating limbs; face normal.",
+    "limbs": "2 arms and 2 legs visible/partly visible; hands are painterly with no clear extra or duplicated fingers",
     "anatomy_ok": true
    },
    {
     "kind": "animal",
-    "label": "grey tabby cat",
-    "limbs": "Natural cat body with visible front paws and hind area; no extra legs, duplicated limbs, or extra head visible.",
+    "label": "grey tabby-and-white cat Nabi",
+    "limbs": "lying cat with natural visible paws/legs; no extra legs, duplicated limbs, or second head",
     "anatomy_ok": true
    }
   ],
@@ -4449,20 +4449,20 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "Page shows Jun as a Korean boy with short black hair, red t-shirt, and blue shorts, consistent with the cover. The grey tabby cat remains a cat with matching markings. No clear anatomy errors or in-image text are visible."
+  "summary": "Jun matches the reference look with short tousled black hair, red t-shirt, and blue shorts. Nabi remains a grey tabby-and-white cat sleeping on the bed. No clear anatomy errors or text are visible."
  },
  "daily-14-my-cat-nabi/p6": {
   "subjects": [
    {
     "kind": "human",
-    "label": "Jun, Korean boy in red t-shirt and blue shorts",
-    "limbs": "2 arms and 2 legs visible/indicated; visible hands and feet do not show a clear extra, missing, floating, or duplicated limb issue.",
+    "label": "Jun",
+    "limbs": "2 arms and 2 legs visible/consistent; visible hands are painterly but do not show a clear extra, missing, or fused-finger anatomy error",
     "anatomy_ok": true
    },
    {
     "kind": "animal",
-    "label": "grey tabby-and-white cat",
-    "limbs": "Natural cat body with visible front paws and hind area/tail; no clear extra legs, duplicated limbs, or malformed head.",
+    "label": "Nabi the cat",
+    "limbs": "cat body with natural 4-leg anatomy implied; visible paws/legs are consistent, with some limbs obscured by being held",
     "anatomy_ok": true
    }
   ],
@@ -4474,7 +4474,7 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows Jun matching the reference: cheerful Korean boy, short black hair, red t-shirt, blue shorts, holding a grey tabby-and-white cat. No clear anatomy errors, species/color drift, or readable text are visible."
+  "summary": "Page matches the cover: Jun remains a cheerful Korean boy with short black hair, red t-shirt, and blue shorts, holding the same grey-and-white tabby cat Nabi. No clear anatomy errors or unexplained color/species drift are visible."
  },
  "daily-15-at-the-playground/cover": {
   "subjects": [
@@ -4855,14 +4855,14 @@
   "subjects": [
    {
     "kind": "human",
-    "label": "Jun",
-    "limbs": "2 arms, 2 legs; visible hands and feet are painterly but within normal count",
+    "label": "Jun, Korean boy in red t-shirt and blue shorts",
+    "limbs": "2 arms and 2 legs visible/indicated; visible hands do not show more than 5 fingers; no extra or floating limbs",
     "anatomy_ok": true
    },
    {
     "kind": "animal",
     "label": "small grey tabby-and-white cat",
-    "limbs": "cat body with natural visible paws/legs; no extra, missing, floating, or duplicated limbs apparent",
+    "limbs": "natural cat body with visible front paws and hind legs partly hidden; no extra legs, duplicated limbs, or second head",
     "anatomy_ok": true
    }
   ],
@@ -4874,7 +4874,7 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "Page shows Jun matching the cover: Korean boy with tousled black hair, red t-shirt, blue shorts, holding the same grey tabby-and-white cat. No anatomy errors, no species/color drift, and no text is drawn in the image."
+  "summary": "The page matches the reference: Jun has the same black hair, red t-shirt, blue shorts, and friendly face, and the grey tabby-and-white cat remains a cat. No clear anatomy errors or in-image text are visible."
  },
  "daily-16-a-rainy-day/cover": {
   "subjects": [
@@ -28695,8 +28695,8 @@
   "subjects": [
    {
     "kind": "bird",
-    "label": "glossy black crow",
-    "limbs": "2 visible legs, 2 wings, one head; wings are folded against the body",
+    "label": "glossy black crow beside a tall narrow jug of water",
+    "limbs": "2 legs visible, 2 wings implied/visible as folded wings; no extra head or duplicated limbs",
     "anatomy_ok": true
    }
   ],
@@ -28708,7 +28708,7 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The cover shows a glossy black crow beside a tall narrow jug of water. The crow has natural bird anatomy with two legs and folded wings, no duplicated limbs or malformed head. No text is visible in the illustration."
+  "summary": "The cover shows a glossy black crow beside a tall narrow water jug. The crow anatomy appears natural for a bird, with two legs and folded wings, and there is no visible text or species/color drift."
  },
  "the-broken-compass/p10": {
   "subjects": [
@@ -28756,9 +28756,9 @@
  "the-clever-crow/p2": {
   "subjects": [
    {
-    "kind": "animal",
-    "label": "glossy black crow",
-    "limbs": "2 visible legs, 2 wings implied with one main folded wing clearly visible; no extra heads or duplicated limbs",
+    "kind": "bird",
+    "label": "glossy black crow beside a tall narrow jug of water",
+    "limbs": "2 visible legs, 2 wings, one head",
     "anatomy_ok": true
    }
   ],
@@ -28770,33 +28770,33 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows a glossy black crow beside a tall narrow jug of water. Anatomy appears natural for a bird, with no visible extra or malformed limbs, and the crow matches the reference in species and color."
+  "summary": "The page shows the intended glossy black crow beside a tall narrow jug near an old house. Species, color, and form match the reference, with no visible anatomy errors and no text drawn in the illustration."
  },
  "the-clever-crow/p1": {
   "subjects": [
    {
     "kind": "bird",
-    "label": "glossy black crow flying over a dry landscape",
-    "limbs": "2 wings visible; legs/feet not visible, likely tucked or hidden by the body in flight; no extra wings, heads, or duplicated limbs visible",
+    "label": "glossy black crow",
+    "limbs": "2 wings visible; legs not visible, likely tucked/obscured in flight; one head; no duplicated limbs",
     "anatomy_ok": true
    }
   ],
   "anatomy_pass": true,
   "expected_character_present": true,
-  "matches_reference": false,
+  "matches_reference": true,
   "color_or_species_drift": false,
-  "drift_detail": "The page shows the same species and color: a glossy black crow. However, the tall narrow jug of water from the intended description/reference is absent, and the crow is flying rather than beside the jug.",
+  "drift_detail": "",
   "text_in_image": false,
-  "severity": "low",
+  "severity": "none",
   "verdict": "PASS",
-  "summary": "Anatomy appears acceptable for a flying crow, with two wings and no duplicated parts. The crow's species and color match the reference, but the signature jug prop is missing."
+  "summary": "Page shows a black crow flying over dry fields, consistent with the reference crow and story context. No anatomy errors, species/color drift, or text are visible."
  },
  "the-clever-crow/p3": {
   "subjects": [
    {
     "kind": "bird",
     "label": "glossy black crow beside a tall narrow jug of water",
-    "limbs": "2 visible legs, 2 wings implied/visible as natural folded wings; no extra heads or duplicated/floating limbs",
+    "limbs": "2 visible legs, 2 wings implied/visible with one prominent folded wing and the other obscured by body pose; one head, one beak",
     "anatomy_ok": true
    }
   ],
@@ -28808,14 +28808,20 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows a glossy black crow beside a tall narrow water jug, matching the reference character and intended description. Anatomy appears natural for a bird with no visible extra or malformed limbs, and there is no text in the illustration."
+  "summary": "The page shows the intended glossy black crow beside a tall narrow jug with a little water at the bottom. The crow remains the same species and base color as the reference, with no visible extra limbs or malformed anatomy."
  },
  "the-clever-crow/p4": {
   "subjects": [
    {
     "kind": "bird",
-    "label": "glossy black crow beside a tall narrow jug of water",
-    "limbs": "2 visible legs, 2 wings/body wings; no extra or duplicated limbs visible",
+    "label": "glossy black crow",
+    "limbs": "2 visible legs, 2 wings, one head, one beak; no duplicated or floating limbs",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "prop",
+    "label": "tall narrow jug of water",
+    "limbs": "not applicable",
     "anatomy_ok": true
    }
   ],
@@ -28827,14 +28833,14 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "Page shows the intended glossy black crow beside a tall narrow water jug, consistent with the reference. Anatomy appears natural for a bird with no visible extra limbs, duplicated parts, or malformed body."
+  "summary": "The page shows the intended glossy black crow with natural bird anatomy beside a tall narrow jug of water. The crow's species and color match the reference, and no text is drawn in the illustration."
  },
  "the-clever-crow/p6": {
   "subjects": [
    {
     "kind": "bird",
-    "label": "glossy black crow beside a tall narrow jug of water",
-    "limbs": "2 legs/feet visible; wings appear natural with one main folded wing visible and the opposite wing/body side obscured by pose; no extra heads or duplicated limbs",
+    "label": "glossy black crow",
+    "limbs": "2 visible legs/feet with claws; wings appear natural with one main folded wing visible and the other obscured by body pose",
     "anatomy_ok": true
    }
   ],
@@ -28846,14 +28852,14 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows the intended glossy black crow beside a tall narrow water jug. Anatomy appears natural for a bird, with no visible extra or malformed limbs, and the character matches the reference in species and color."
+  "summary": "The page shows the intended glossy black crow beside a tall narrow water jug, with many small pebbles near her feet. Anatomy appears natural for a bird, and there is no species or color drift from the reference."
  },
  "the-clever-crow/p7": {
   "subjects": [
    {
-    "kind": "animal",
+    "kind": "bird",
     "label": "glossy black crow",
-    "limbs": "2 visible legs with talons; 2 wings implied, one large folded wing clearly visible and the far wing obscured by body; one head and beak",
+    "limbs": "2 legs visible, 2 wings/body wings naturally drawn; no extra heads or duplicated limbs",
     "anatomy_ok": true
    }
   ],
@@ -28865,14 +28871,14 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows a glossy black crow beside a tall narrow water jug, consistent with the reference cover. No anatomy errors, species/color drift, or text are visible."
+  "summary": "The page shows the intended glossy black crow beside a tall narrow jug of water, matching the reference in species and color. The crow anatomy appears natural with two legs and wings, and no text is drawn in the illustration."
  },
  "the-clever-crow/p8": {
   "subjects": [
    {
-    "kind": "bird",
-    "label": "glossy black crow",
-    "limbs": "2 visible legs, 1 visible wing with the other wing hidden by side view; no extra heads or duplicated/floating limbs",
+    "kind": "animal",
+    "label": "glossy black crow beside a tall narrow jug of water",
+    "limbs": "2 legs visible, 1 visible wing with the other implied/hidden by body; no extra heads or duplicated limbs",
     "anatomy_ok": true
    }
   ],
@@ -28884,14 +28890,14 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows the intended glossy black crow beside a tall narrow water jug. Anatomy appears natural for a side-view bird, with no visible extra limbs, duplicated wings, malformed head, or species/color drift."
+  "summary": "The page shows the intended glossy black crow with a tall narrow water jug and pebbles. The crow remains the same species and color as the reference, and no anatomy errors or text are visible."
  },
  "the-clever-crow/p9": {
   "subjects": [
    {
     "kind": "bird",
     "label": "glossy black crow",
-    "limbs": "2 visible legs, 2 wings indicated by feathered body/wing shapes; no extra heads or duplicated limbs",
+    "limbs": "2 visible legs, 2 wings, one head; beak leaning into jug",
     "anatomy_ok": true
    }
   ],
@@ -28903,14 +28909,14 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows a glossy black crow beside a tall narrow water jug, matching the reference species and color. Anatomy appears natural for a bird with two legs and wings, and no text is visible."
+  "summary": "Page shows the intended glossy black crow beside a tall narrow jug with water and stones. Anatomy and character consistency are clean."
  },
  "the-clever-crow/p10": {
   "subjects": [
    {
     "kind": "bird",
     "label": "glossy black crow",
-    "limbs": "2 visible legs and 2 wings; no extra, floating, or duplicated limbs visible",
+    "limbs": "2 legs visible, wings appear natural for a side-view crow with no duplicated or floating limbs",
     "anatomy_ok": true
    }
   ],
@@ -28922,7 +28928,7 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows the intended glossy black crow beside a tall narrow water jug. The crow remains the same species and color as the reference, with natural bird anatomy and no visible text."
+  "summary": "The page shows the intended glossy black crow beside a tall narrow water jug. Species, black coloration, and story props match the cover reference; anatomy appears normal and no text is drawn in the illustration."
  },
  "the-clock-on-the-hill/cover": {
   "subjects": [
@@ -45546,21 +45552,15 @@
  "the-windmill-friend/p1": {
   "subjects": [
    {
+    "kind": "anthropomorphic object",
+    "label": "old friendly windmill with turning sails",
+    "limbs": "four windmill sails/blades visible, no biological limbs",
+    "anatomy_ok": true
+   },
+   {
     "kind": "human",
     "label": "village child",
-    "limbs": "2 arms and 2 legs visible; hands are loosely painted with no clear extra fingers; face is in side/back profile and not malformed",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "anthropomorphic windmill",
-    "label": "old friendly windmill",
-    "limbs": "4 windmill sails attached to central hub; painted smiling face on tower; no duplicated or floating parts",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "birds",
-    "label": "tiny distant bird-like marks/leaves in sky",
-    "limbs": "too small/indistinct to verify anatomy; no clear malformed animal anatomy visible",
+    "limbs": "2 arms and 2 legs visible/partly visible; visible hand is painterly with no clear extra fingers",
     "anatomy_ok": true
    }
   ],
@@ -45572,20 +45572,20 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows the intended friendly windmill and village child consistent with the cover. No clear anatomy errors, species/color drift, or text are visible."
+  "summary": "The page shows the same friendly stone windmill and village child as the cover, with consistent colors and outfit. No clear anatomy errors or in-image text are visible."
  },
  "the-windmill-friend/p3": {
   "subjects": [
    {
-    "kind": "human",
-    "label": "village child",
-    "limbs": "Two legs visible; one arm/hand visible at side and the other arm appears occluded by body/bag. No extra or duplicated limbs; fingers are not clearly drawn enough to count but no clear abnormality.",
+    "kind": "anthropomorphic windmill",
+    "label": "old friendly windmill",
+    "limbs": "four sails visible; no extra duplicated sails or malformed face",
     "anatomy_ok": true
    },
    {
-    "kind": "anthropomorphic object",
-    "label": "old friendly windmill",
-    "limbs": "Windmill body with four sails/blades and a simple face; no biological limb anatomy issue.",
+    "kind": "human",
+    "label": "village child",
+    "limbs": "2 legs visible, 1 arm/hand visible with the other arm mostly obscured by pose/body; no extra or floating limbs",
     "anatomy_ok": true
    }
   ],
@@ -45597,49 +45597,148 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "The page shows the intended windmill and village child in a consistent watercolor style. No clear anatomy errors, species/color drift, or text are visible."
+  "summary": "The page shows the same friendly stone windmill and village child as the reference, with consistent colors, outfit, and form. No clear anatomy errors or in-image text are visible."
  },
  "the-windmill-friend/p2": {
   "subjects": [
    {
     "kind": "object",
-    "label": "friendly windmill",
-    "limbs": "4 sails visible, no extra duplicated parts; smiling face on stone body",
+    "label": "old friendly windmill",
+    "limbs": "four turning sails visible; no biological anatomy issues",
     "anatomy_ok": true
    },
    {
     "kind": "human",
-    "label": "central village child matching cover boy",
-    "limbs": "2 arms and 2 legs visible; hands are painterly but no clear extra fingers",
+    "label": "left village girl holding basket",
+    "limbs": "2 arms and 2 legs/feet apparent, hands painterly but no extra fingers visible",
     "anatomy_ok": true
    },
    {
     "kind": "human",
-    "label": "left girl holding basket",
-    "limbs": "2 arms and 2 legs visible; hands are small/painterly with no clear extra fingers",
+    "label": "central village boy facing windmill",
+    "limbs": "2 arms and 2 legs visible, hands not malformed",
     "anatomy_ok": true
    },
    {
     "kind": "human",
-    "label": "right child pouring grain",
-    "limbs": "2 arms visible; legs partly obscured but no extra or floating limbs; hands are painterly with no clear extra fingers",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "human",
-    "label": "right kneeling girl",
-    "limbs": "2 arms visible; legs partly obscured; hands are painterly with no clear extra fingers",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "human",
-    "label": "seated child near flour sacks",
-    "limbs": "2 arms and 2 legs visible; hands are painterly with no clear extra fingers",
+    "label": "seated blond child near flour sacks",
+    "limbs": "2 arms and 2 legs implied/visible, no duplicated limbs",
     "anatomy_ok": true
    },
    {
     "kind": "human",
     "label": "seated child at lower right",
+    "limbs": "2 arms and 2 legs implied/visible, no duplicated limbs",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "standing girl with headscarf",
+    "limbs": "2 arms and 2 legs implied/visible, hands not malformed",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "boy pouring grain at right",
+    "limbs": "2 arms and 2 legs implied/visible, hands not malformed",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "The page shows the friendly old windmill grinding wheat with several village children. Human anatomy appears acceptable, the windmill remains the same friendly stone windmill with sails, and no text is drawn in the illustration."
+ },
+ "the-windmill-friend/p4": {
+  "subjects": [
+   {
+    "kind": "human",
+    "label": "Mira, village girl",
+    "limbs": "2 arms, 2 legs; hands are cupped near mouth with painterly/indistinct fingers but no clear extra or missing fingers",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "anthropomorphic object",
+    "label": "old friendly windmill",
+    "limbs": "four windmill sails/blades attached at hub; no biological limbs; smiling face on tower",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "The page shows the same friendly stone windmill and the same village girl in matching outfit/colors from the cover. No clear anatomy errors or unexplained character drift are visible."
+ },
+ "the-windmill-friend/p6": {
+  "subjects": [
+   {
+    "kind": "windmill",
+    "label": "old friendly windmill",
+    "limbs": "four visible sails; no biological limbs",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "left boy with large fan",
+    "limbs": "2 arms, 2 legs visible/consistent; hands partly painterly but no clear extra fingers",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "small girl in orange dress",
+    "limbs": "2 arms, 2 legs visible/consistent; hands simplified by fan grip",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "center boy with fan",
+    "limbs": "2 arms, 2 legs visible/consistent",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "small background child",
+    "limbs": "tiny figure, limbs appear consistent; no clear extra or floating limbs",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "right girl with large fan",
+    "limbs": "2 arms implied/visible, 2 legs implied by dress; no clear anatomy error",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "The page shows the same friendly stone windmill and village children helping with fans. No clear anatomy errors, species/color drift, or text are visible."
+ },
+ "the-windmill-friend/p7": {
+  "subjects": [
+   {
+    "kind": "object/character",
+    "label": "old friendly windmill",
+    "limbs": "four windmill sails visible; face/windows drawn on stone body",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "small village boy",
     "limbs": "2 arms and 2 legs visible; hands are painterly with no clear extra fingers",
     "anatomy_ok": true
    }
@@ -45652,144 +45751,45 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "Page shows the intended friendly windmill and village child consistent with the cover. No clear anatomy errors, species/color drift, or text are visible."
+  "summary": "The page shows the friendly stone windmill and a village child waiting beside it. No clear anatomy errors, no unexplained species/color drift, and no visible text inside the illustration."
  },
- "the-windmill-friend/p4": {
+ "the-windmill-friend/p8": {
   "subjects": [
    {
-    "kind": "object",
-    "label": "friendly old windmill",
-    "limbs": "four visible windmill sails; no biological limbs",
+    "kind": "anthropomorphic windmill",
+    "label": "old friendly windmill",
+    "limbs": "four windmill sails visible; smiling face on stone tower; no biological limbs",
     "anatomy_ok": true
    },
    {
     "kind": "human",
     "label": "village child",
-    "limbs": "2 arms and 2 legs visible; hands are cupped near mouth with no clear extra fingers",
+    "limbs": "2 arms, 2 legs; both hands visible with no clear extra fingers",
     "anatomy_ok": true
    }
   ],
   "anatomy_pass": true,
   "expected_character_present": true,
   "matches_reference": false,
-  "color_or_species_drift": false,
-  "drift_detail": "No species or color drift: the page shows a human village child and the same old smiling windmill. However, the child does not match the reference outfit/props: cover child wears shirt, suspenders, green trousers, boots, and a satchel; page child wears a dress/skirt and vest with braided hair and no satchel.",
+  "color_or_species_drift": true,
+  "drift_detail": "The windmill matches the reference, but the village child does not: the cover shows a brown-haired girl with braided hair, blue vest, and rust skirt, while this page shows a short-haired boy in a cream shirt, suspenders/green pants, and a satchel. The story text does not explain this identity/outfit change.",
   "text_in_image": false,
-  "severity": "low",
-  "verdict": "PASS",
-  "summary": "Anatomy appears clean. The intended windmill and child are present, with no text. Main issue is character consistency: the child’s outfit/props and presentation differ from the reference cover, but there is no clear species/color drift."
- },
- "the-windmill-friend/p6": {
-  "subjects": [
-   {
-    "kind": "object",
-    "label": "old friendly windmill",
-    "limbs": "four visible windmill sails, no biological limbs",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "human",
-    "label": "large boy at left holding fan",
-    "limbs": "2 arms and 2 legs visible; hands are painterly but no clear extra fingers",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "human",
-    "label": "small girl in orange dress near left-center",
-    "limbs": "2 arms visible; legs mostly hidden by dress/grass; no extra or floating limbs",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "human",
-    "label": "small child in background near center-left",
-    "limbs": "2 arms and 2 legs suggested; no clear extra or malformed limbs",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "human",
-    "label": "boy near center holding fan",
-    "limbs": "2 arms and 2 legs visible; no extra or duplicated limbs",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "human",
-    "label": "girl at right holding fan",
-    "limbs": "2 arms visible/partly visible; legs hidden by dress/foreground flowers; no extra or duplicated limbs",
-    "anatomy_ok": true
-   }
-  ],
-  "anatomy_pass": true,
-  "expected_character_present": true,
-  "matches_reference": true,
-  "color_or_species_drift": false,
-  "drift_detail": "",
-  "text_in_image": false,
-  "severity": "none",
-  "verdict": "PASS",
-  "summary": "The page shows the friendly stone windmill with a smiling face and village children in a consistent watercolor style. No clear anatomy errors, species/color drift, or in-image text are visible."
- },
- "the-windmill-friend/p7": {
-  "subjects": [
-   {
-    "kind": "human",
-    "label": "village child",
-    "limbs": "2 arms and 2 legs visible; hands are small/painterly with no clear extra fingers; face appears normal in profile",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "anthropomorphic object",
-    "label": "old friendly windmill",
-    "limbs": "windmill has four sails and a simple smiling face; no biological limb issue",
-    "anatomy_ok": true
-   }
-  ],
-  "anatomy_pass": true,
-  "expected_character_present": true,
-  "matches_reference": true,
-  "color_or_species_drift": false,
-  "drift_detail": "",
-  "text_in_image": false,
-  "severity": "none",
-  "verdict": "PASS",
-  "summary": "The page shows the intended friendly windmill and village child in a consistent watercolor style. No clear anatomy errors, species/color drift, or in-image text are visible."
- },
- "the-windmill-friend/p8": {
-  "subjects": [
-   {
-    "kind": "human",
-    "label": "village child",
-    "limbs": "2 arms, 2 legs, two visible hands; fingers appear within normal count, no extra or floating limbs",
-    "anatomy_ok": true
-   },
-   {
-    "kind": "object/anthropomorphic building",
-    "label": "friendly windmill",
-    "limbs": "windmill body with four sails and a smiling face; no biological limb anatomy issue",
-    "anatomy_ok": true
-   }
-  ],
-  "anatomy_pass": true,
-  "expected_character_present": true,
-  "matches_reference": true,
-  "color_or_species_drift": false,
-  "drift_detail": "",
-  "text_in_image": false,
-  "severity": "none",
-  "verdict": "PASS",
-  "summary": "The page shows the intended friendly windmill and village child matching the cover. No clear anatomy errors, species/color drift, or text are visible."
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "Anatomy is clean, but the page fails character consistency because the village child differs from the canonical cover character."
  },
  "the-windmill-friend/p9": {
   "subjects": [
    {
-    "kind": "anthropomorphic windmill",
+    "kind": "personified object",
     "label": "old friendly windmill",
-    "limbs": "four windmill sails, smiling face, windows and door; no biological limbs",
+    "limbs": "four windmill sails visible, no biological limbs; smiling face on tower",
     "anatomy_ok": true
    },
    {
     "kind": "human",
     "label": "village child",
-    "limbs": "2 arms, 2 legs; visible hands are small/painterly with no clear extra fingers or duplicated limbs",
+    "limbs": "2 arms visible/indicated, 2 legs visible, hands mostly obscured with no extra or malformed fingers visible",
     "anatomy_ok": true
    }
   ],
@@ -45801,7 +45801,7 @@
   "text_in_image": false,
   "severity": "none",
   "verdict": "PASS",
-  "summary": "Page shows the intended friendly windmill and village child matching the cover; no clear anatomy errors, species/color drift, or text are visible."
+  "summary": "The page shows the same friendly windmill and village child as the cover, with consistent outfit, colors, and forms. No clear anatomy errors or text are visible."
  },
  "tigers-first-school-day/p1": {
   "subjects": [
@@ -46723,5 +46723,136 @@
   "severity": "low",
   "verdict": "PASS",
   "summary": "No clear anatomy errors or species/color drift. The only consistency issue is the bear wearing a red hat despite being bareheaded on the reference cover."
+ },
+ "daily-14-my-cat-nabi/p3": {
+  "subjects": [
+   {
+    "kind": "human",
+    "label": "Jun",
+    "limbs": "2 arms and 2 legs visible/represented; visible hands do not show more than 5 fingers; face normal",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "animal",
+    "label": "Nabi the gray tabby cat",
+    "limbs": "Cat body is partially held, with natural visible paws/legs and no extra, duplicated, or floating limbs",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "Page shows Jun matching the reference: Korean boy with tousled black hair, red t-shirt, and blue shorts, holding a gray tabby cat. No clear anatomy errors, species/color drift, or text are visible."
+ },
+ "the-clever-crow/p5": {
+  "subjects": [
+   {
+    "kind": "bird",
+    "label": "glossy black crow",
+    "limbs": "2 legs visible, 1 visible wing with the other wing hidden by body angle; no extra heads or duplicated limbs",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "The page shows the intended glossy black crow beside a tall narrow jug of water. The crow remains the same species and base color as the reference, with natural bird anatomy and no visible text in the illustration."
+ },
+ "the-windmill-friend/cover": {
+  "subjects": [
+   {
+    "kind": "anthropomorphic windmill",
+    "label": "old friendly windmill with turning sails",
+    "limbs": "four windmill sails visible; no biological limbs",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "village child",
+    "limbs": "2 legs visible; 1 arm clearly visible and the other appears hidden by the body/angle; visible hand is painterly without extra fingers",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "birds",
+    "label": "distant flying birds",
+    "limbs": "wings shown as distant silhouettes; no clear abnormal duplicated limbs",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "The cover shows the intended friendly windmill and village child. No clear anatomy errors, species/color drift, or embedded text are visible."
+ },
+ "the-windmill-friend/p5": {
+  "subjects": [
+   {
+    "kind": "human",
+    "label": "village child / Mira",
+    "limbs": "2 arms, 2 legs; both hands are raised near the mouth with no clear extra fingers visible",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "anthropomorphic object",
+    "label": "old friendly windmill",
+    "limbs": "windmill body with four sails; no human/animal limbs",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "The page shows the intended old friendly windmill and village child in a consistent watercolor style. The child's outfit and appearance match the reference, the windmill remains the same character, and no anatomy errors or drawn text are visible."
+ },
+ "the-windmill-friend/p10": {
+  "subjects": [
+   {
+    "kind": "windmill",
+    "label": "old friendly windmill",
+    "limbs": "four turning sails visible; no animal/human limbs",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "human",
+    "label": "Mira / village child hugging the windmill",
+    "limbs": "2 arms and 2 legs apparent, with some limbs partly obscured by pose/clothing",
+    "anatomy_ok": true
+   },
+   {
+    "kind": "humans",
+    "label": "cheering villagers and children",
+    "limbs": "visible arms, legs, and hands are painterly but do not show clear extra/floating/duplicated limbs or definite 6-finger hands",
+    "anatomy_ok": true
+   }
+  ],
+  "anatomy_pass": true,
+  "expected_character_present": true,
+  "matches_reference": true,
+  "color_or_species_drift": false,
+  "drift_detail": "",
+  "text_in_image": false,
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "The page shows the old smiling windmill turning and Mira in the same general look as the cover, hugging it while villagers cheer. No clear anatomy errors, species/color drift, or embedded text are visible."
  }
 }

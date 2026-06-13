@@ -40,9 +40,12 @@ export function ShelfRow({ children }: { children: React.ReactNode }) {
     el.scrollBy({ left: dir * el.clientWidth * 0.85, behavior: "smooth" });
   };
 
+  // 떠 있는 원형 버튼만 — 배경 띠(그라디언트) 없음. 커버 이미지 세로 중앙(약 38%)에 위치.
   const arrowBase =
-    "absolute top-0 bottom-1 z-20 hidden w-11 place-items-center bg-gradient-to-r " +
-    "text-foreground/80 transition-opacity duration-200 hover:text-foreground";
+    "absolute top-[38%] z-20 hidden h-9 w-9 -translate-y-1/2 place-items-center " +
+    "rounded-full border border-border/60 bg-card/90 text-foreground/70 shadow-md " +
+    "backdrop-blur-sm transition hover:scale-110 hover:bg-card hover:text-foreground " +
+    "opacity-0 group-hover/shelf:opacity-100 focus-visible:opacity-100";
 
   return (
     <div className="group/shelf relative">
@@ -53,13 +56,11 @@ export function ShelfRow({ children }: { children: React.ReactNode }) {
         onClick={() => scroll(-1)}
         className={cn(
           arrowBase,
-          "left-0 justify-start from-background via-background/80 to-transparent pl-1",
+          "left-1",
           canLeft ? "md:grid" : "md:hidden",
         )}
       >
-        <span className="grid h-9 w-9 place-items-center rounded-full border border-border/60 bg-card/95 shadow-md backdrop-blur-sm transition group-hover/shelf:scale-100 hover:scale-110">
-          <ChevronLeft className="h-5 w-5" />
-        </span>
+        <ChevronLeft className="h-5 w-5" />
       </button>
 
       <div ref={ref} className="shelf-row -mx-4 px-4 lg:-mx-8 lg:px-8">
@@ -73,13 +74,11 @@ export function ShelfRow({ children }: { children: React.ReactNode }) {
         onClick={() => scroll(1)}
         className={cn(
           arrowBase,
-          "right-0 justify-end from-transparent via-background/80 to-background pr-1",
+          "right-1",
           canRight ? "md:grid" : "md:hidden",
         )}
       >
-        <span className="grid h-9 w-9 place-items-center rounded-full border border-border/60 bg-card/95 shadow-md backdrop-blur-sm transition group-hover/shelf:scale-100 hover:scale-110">
-          <ChevronRight className="h-5 w-5" />
-        </span>
+        <ChevronRight className="h-5 w-5" />
       </button>
     </div>
   );

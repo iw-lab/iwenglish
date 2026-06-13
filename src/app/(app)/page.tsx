@@ -4,6 +4,7 @@ import { SetupNotice } from "@/components/shell/SetupNotice";
 import { LibraryHero } from "@/components/home/LibraryHero";
 import { CompletedShelf, type ShelfBook } from "@/components/home/CompletedShelf";
 import { ShelfRow } from "@/components/home/ShelfRow";
+import { ShelfSection } from "@/components/home/ShelfSection";
 import { PLANNED_BOOKS } from "@/lib/data/plannedBooks";
 import { featureAvailability } from "@/lib/env";
 import type { CefrLevel } from "@/types/book";
@@ -75,31 +76,26 @@ export default async function LibraryPage() {
             const inLevel = pictureBooks.filter((b) => b.level === level);
             if (inLevel.length === 0) return null;
             return (
-              <section key={level} className="space-y-2">
-                <div className="flex items-baseline gap-2">
-                  <h3 className="text-base font-extrabold">
-                    {emoji} {label}
-                  </h3>
-                  <span className="text-[11px] font-semibold text-muted-foreground">
-                    {grade} · {level} · {inLevel.length}권
-                  </span>
-                </div>
-                <ShelfRow>
-                  {inLevel.map((b) => (
-                    <BookCard
-                      key={b.id}
-                      slug={b.slug}
-                      title={b.title}
-                      title_ko={b.title_ko}
-                      level={b.level}
-                      summary_ko={b.summary_ko}
-                      coverUrl={b.coverUrl}
-                      meta={`${b.wordCount} words`}
-                      shelf
-                    />
-                  ))}
-                </ShelfRow>
-              </section>
+              <ShelfSection
+                key={level}
+                emoji={emoji}
+                label={label}
+                meta={`${grade} · ${level} · ${inLevel.length}권`}
+              >
+                {inLevel.map((b) => (
+                  <BookCard
+                    key={b.id}
+                    slug={b.slug}
+                    title={b.title}
+                    title_ko={b.title_ko}
+                    level={b.level}
+                    summary_ko={b.summary_ko}
+                    coverUrl={b.coverUrl}
+                    meta={`${b.wordCount} words`}
+                    shelf
+                  />
+                ))}
+              </ShelfSection>
             );
           })}
         </section>
@@ -120,31 +116,26 @@ export default async function LibraryPage() {
             const inStage = daily.filter((b) => b.stage === stage);
             if (inStage.length === 0) return null;
             return (
-              <section key={stage} className="space-y-2">
-                <div className="flex items-baseline gap-2">
-                  <h3 className="text-base font-extrabold">
-                    {emoji} {label}
-                  </h3>
-                  <span className="text-[11px] font-semibold text-muted-foreground">
-                    {grade} · {inStage.length}권
-                  </span>
-                </div>
-                <ShelfRow>
-                  {inStage.map((b) => (
-                    <BookCard
-                      key={b.id}
-                      slug={b.slug}
-                      title={b.title}
-                      title_ko={b.title_ko}
-                      level={b.level}
-                      summary_ko={b.summary_ko}
-                      coverUrl={b.coverUrl}
-                      meta={`${b.wordCount} words`}
-                      shelf
-                    />
-                  ))}
-                </ShelfRow>
-              </section>
+              <ShelfSection
+                key={stage}
+                emoji={emoji}
+                label={label}
+                meta={`${grade} · ${inStage.length}권`}
+              >
+                {inStage.map((b) => (
+                  <BookCard
+                    key={b.id}
+                    slug={b.slug}
+                    title={b.title}
+                    title_ko={b.title_ko}
+                    level={b.level}
+                    summary_ko={b.summary_ko}
+                    coverUrl={b.coverUrl}
+                    meta={`${b.wordCount} words`}
+                    shelf
+                  />
+                ))}
+              </ShelfSection>
             );
           })}
         </section>

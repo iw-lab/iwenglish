@@ -96,29 +96,28 @@
     {
       "sentences": [
         {
-          "text": "Nabi is soft and white.",
-          "translation_ko": "나비는 보드랍고 하얘요.",
-          "audio": "/seed/daily-14-my-cat-nabi/audio/p3-s1.mp3",
+          "text": "Nabi is soft and gray.",
+          "translation_ko": "나비는 보드랍고 회색이에요.",
           "wordTimings": [
             {
               "word": "Nabi",
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 380
             },
             {
               "word": "is",
               "charStart": 5,
               "charEnd": 7,
-              "startMs": 360,
-              "endMs": 880
+              "startMs": 380,
+              "endMs": 840
             },
             {
               "word": "soft",
               "charStart": 8,
               "charEnd": 12,
-              "startMs": 880,
+              "startMs": 840,
               "endMs": 1200
             },
             {
@@ -126,16 +125,17 @@
               "charStart": 13,
               "charEnd": 16,
               "startMs": 1200,
-              "endMs": 1520
+              "endMs": 1660
             },
             {
-              "word": "white",
+              "word": "gray",
               "charStart": 17,
-              "charEnd": 22,
-              "startMs": 1520,
-              "endMs": 1740
+              "charEnd": 21,
+              "startMs": 1660,
+              "endMs": 1840
             }
-          ]
+          ],
+          "audio": "/seed/daily-14-my-cat-nabi/audio/p3-s1.mp3"
         }
       ]
     },

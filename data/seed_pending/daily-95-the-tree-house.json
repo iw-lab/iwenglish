@@ -1,0 +1,1571 @@
+{
+  "slug": "daily-95-the-tree-house",
+  "title": "The Tree House",
+  "title_ko": "나무 위 오두막",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "Jun이 아빠, 친구 Mina와 함께 나무 위 오두막을 직접 만들면서 협동과 뿌듯함을 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun looked up at the big oak tree in the yard.",
+          "translation_ko": "준은 마당의 커다란 참나무를 올려다봤어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 960
+            },
+            {
+              "word": "at",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1120
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1280
+            },
+            {
+              "word": "big",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1560
+            },
+            {
+              "word": "oak",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "tree",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1940
+            },
+            {
+              "word": "in",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2140,
+              "endMs": 2240
+            },
+            {
+              "word": "yard",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2240,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "\"Dad, can we build a tree house up there?\"",
+          "translation_ko": "\"아빠, 저기에 나무 위 오두막 만들 수 있어요?\"",
+          "audio": "/seed/daily-95-the-tree-house/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "can",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 1620,
+              "endMs": 1740
+            },
+            {
+              "word": "we",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1740,
+              "endMs": 1940
+            },
+            {
+              "word": "build",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1940,
+              "endMs": 2140
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 2140,
+              "endMs": 2400
+            },
+            {
+              "word": "tree",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 2400,
+              "endMs": 2580
+            },
+            {
+              "word": "house",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2580,
+              "endMs": 2780
+            },
+            {
+              "word": "up",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "there",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2980,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad smiled because he had always wanted to build one too.",
+          "translation_ko": "아빠는 미소 지었어요. 사실 아빠도 늘 오두막을 만들고 싶었거든요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 880
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1420
+            },
+            {
+              "word": "he",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1580
+            },
+            {
+              "word": "had",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "always",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2200
+            },
+            {
+              "word": "wanted",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "to",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2520,
+              "endMs": 2780
+            },
+            {
+              "word": "build",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 2940
+            },
+            {
+              "word": "one",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2940,
+              "endMs": 3260
+            },
+            {
+              "word": "too",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3320,
+              "endMs": 3400
+            }
+          ]
+        },
+        {
+          "text": "\"Let's do it together,\" said Dad.",
+          "translation_ko": "\"같이 만들어 보자.\" 아빠가 말했어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "do",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 620
+            },
+            {
+              "word": "it",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 620,
+              "endMs": 860
+            },
+            {
+              "word": "together",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 860,
+              "endMs": 1580
+            },
+            {
+              "word": "said",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1680
+            },
+            {
+              "word": "Dad",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 1960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun called Mina because she was great at drawing plans.",
+          "translation_ko": "준은 미나에게 전화했어요. 미나가 설계도 그리기를 잘하거든요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "called",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "Mina",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "because",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1780
+            },
+            {
+              "word": "she",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "was",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1980,
+              "endMs": 2200
+            },
+            {
+              "word": "great",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "at",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2520,
+              "endMs": 2920
+            },
+            {
+              "word": "drawing",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2920,
+              "endMs": 3000
+            },
+            {
+              "word": "plans",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3000,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "Mina came over with paper and a pencil.",
+          "translation_ko": "미나는 종이와 연필을 들고 달려왔어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "came",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "over",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "with",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "paper",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1560,
+              "endMs": 1920
+            },
+            {
+              "word": "a",
+              "charStart": 30,
+              "charEnd": 31,
+              "startMs": 1920,
+              "endMs": 2040
+            },
+            {
+              "word": "pencil",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2040,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They drew a plan and chose the best branches.",
+          "translation_ko": "셋은 함께 설계도를 그리고 쓸 가지를 골랐어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "drew",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 560
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 1100
+            },
+            {
+              "word": "plan",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1660
+            },
+            {
+              "word": "chose",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "best",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2140,
+              "endMs": 2500
+            },
+            {
+              "word": "branches",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2500,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "Jun felt excited when he saw the drawing on paper.",
+          "translation_ko": "준은 종이 위의 그림을 보자 마음이 설렜어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 700
+            },
+            {
+              "word": "excited",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 700,
+              "endMs": 1260
+            },
+            {
+              "word": "when",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "saw",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1840,
+              "endMs": 2040
+            },
+            {
+              "word": "drawing",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2040,
+              "endMs": 2340
+            },
+            {
+              "word": "on",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2340,
+              "endMs": 2680
+            },
+            {
+              "word": "paper",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2680,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad carried the boards because they were too heavy for the kids.",
+          "translation_ko": "아빠가 판자를 날랐어요. 아이들이 들기에 너무 무거웠거든요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "carried",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "boards",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "because",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1420,
+              "endMs": 1840
+            },
+            {
+              "word": "they",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1840,
+              "endMs": 2000
+            },
+            {
+              "word": "were",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "too",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2220,
+              "endMs": 2560
+            },
+            {
+              "word": "heavy",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "for",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 2760,
+              "endMs": 3040
+            },
+            {
+              "word": "the",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3040,
+              "endMs": 3160
+            },
+            {
+              "word": "kids",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3160,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina passed the nails and held the boards steady.",
+          "translation_ko": "준과 미나는 못을 건네고 판자를 꽉 잡았어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 840
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "passed",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "nails",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2240
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2240,
+              "endMs": 2840
+            },
+            {
+              "word": "held",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2840,
+              "endMs": 3000
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 3000,
+              "endMs": 3240
+            },
+            {
+              "word": "boards",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3240,
+              "endMs": 3460
+            },
+            {
+              "word": "steady",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3460,
+              "endMs": 3840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When Dad hit a nail wrong, he laughed and tried again.",
+          "translation_ko": "아빠가 못을 잘못 박았을 때, 아빠는 웃으며 다시 했어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "Dad",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "hit",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 620,
+              "endMs": 800
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "nail",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1080,
+              "endMs": 1200
+            },
+            {
+              "word": "wrong",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "word": "he",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2060,
+              "endMs": 2220
+            },
+            {
+              "word": "laughed",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2220,
+              "endMs": 2580
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2580,
+              "endMs": 3200
+            },
+            {
+              "word": "tried",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3200,
+              "endMs": 3420
+            },
+            {
+              "word": "again",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3420,
+              "endMs": 3780
+            }
+          ]
+        },
+        {
+          "text": "\"Mistakes are okay because we learn from them,\" Dad said.",
+          "translation_ko": "\"실수해도 괜찮아. 그 덕에 배우는 거야.\" 아빠가 말했어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mistakes",
+              "charStart": 1,
+              "charEnd": 9,
+              "startMs": 1000,
+              "endMs": 1480
+            },
+            {
+              "word": "are",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "okay",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1680,
+              "endMs": 2100
+            },
+            {
+              "word": "because",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 2100,
+              "endMs": 2460
+            },
+            {
+              "word": "we",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "learn",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2680,
+              "endMs": 2860
+            },
+            {
+              "word": "from",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2860,
+              "endMs": 3080
+            },
+            {
+              "word": "them",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3080,
+              "endMs": 3280
+            },
+            {
+              "word": "Dad",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3700,
+              "endMs": 3820
+            },
+            {
+              "word": "said",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3820,
+              "endMs": 4080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By afternoon, the floor and walls were done.",
+          "translation_ko": "오후가 되자 바닥과 벽이 완성됐어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "afternoon",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1540
+            },
+            {
+              "word": "floor",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1540
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1900
+            },
+            {
+              "word": "walls",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "were",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2420
+            },
+            {
+              "word": "done",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2420,
+              "endMs": 2640
+            }
+          ]
+        },
+        {
+          "text": "Jun climbed up first because he could not wait.",
+          "translation_ko": "준이 제일 먼저 올라갔어요. 더는 기다릴 수 없었거든요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "climbed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 840
+            },
+            {
+              "word": "up",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "first",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1500
+            },
+            {
+              "word": "because",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1900
+            },
+            {
+              "word": "he",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "could",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "not",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2300,
+              "endMs": 2620
+            },
+            {
+              "word": "wait",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2620,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina climbed up next and gasped at the view.",
+          "translation_ko": "미나가 다음으로 올라갔고 눈앞 풍경에 탄성을 질렀어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "climbed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 960
+            },
+            {
+              "word": "up",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "next",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1580
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1580,
+              "endMs": 2180
+            },
+            {
+              "word": "gasped",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2180,
+              "endMs": 2640
+            },
+            {
+              "word": "at",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2820,
+              "endMs": 2940
+            },
+            {
+              "word": "view",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "\"We can see the whole neighborhood from here!\"",
+          "translation_ko": "\"여기서 동네 전체가 다 보여!\"",
+          "audio": "/seed/daily-95-the-tree-house/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "can",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 700,
+              "endMs": 900
+            },
+            {
+              "word": "see",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 900,
+              "endMs": 1040
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "whole",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "neighborhood",
+              "charStart": 22,
+              "charEnd": 34,
+              "startMs": 1560,
+              "endMs": 1940
+            },
+            {
+              "word": "from",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2660
+            },
+            {
+              "word": "here",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2660,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad climbed up and hugged them both.",
+          "translation_ko": "아빠도 올라와 두 아이를 꼭 안았어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "climbed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "up",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "hugged",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "them",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1720,
+              "endMs": 1940
+            },
+            {
+              "word": "both",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1940,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "Jun felt proud because they built it with their own hands.",
+          "translation_ko": "준은 뿌듯했어요. 자기 손으로 직접 만들었으니까요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 1000
+            },
+            {
+              "word": "proud",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1520
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 2020
+            },
+            {
+              "word": "they",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "built",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2260,
+              "endMs": 2520
+            },
+            {
+              "word": "it",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2520,
+              "endMs": 2720
+            },
+            {
+              "word": "with",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2720,
+              "endMs": 3020
+            },
+            {
+              "word": "their",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3020,
+              "endMs": 3180
+            },
+            {
+              "word": "own",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3180,
+              "endMs": 3580
+            },
+            {
+              "word": "hands",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3580,
+              "endMs": 3960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That evening they watched the sunset from the tree house.",
+          "translation_ko": "그날 저녁, 셋은 오두막에서 노을을 바라봤어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 30,
+              "endMs": 272
+            },
+            {
+              "word": "evening",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 272,
+              "endMs": 873
+            },
+            {
+              "word": "they",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 873,
+              "endMs": 1115
+            },
+            {
+              "word": "watched",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1115,
+              "endMs": 1537
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1537,
+              "endMs": 1779
+            },
+            {
+              "word": "sunset",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1779,
+              "endMs": 2200
+            },
+            {
+              "word": "from",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2200,
+              "endMs": 2442
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2442,
+              "endMs": 2684
+            },
+            {
+              "word": "tree",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2684,
+              "endMs": 2926
+            },
+            {
+              "word": "house",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2926,
+              "endMs": 3330
+            }
+          ]
+        },
+        {
+          "text": "\"Best day ever,\" said Jun, and Mina smiled.",
+          "translation_ko": "\"오늘이 최고의 날이야.\" 준이 말하자 미나가 활짝 웃었어요.",
+          "audio": "/seed/daily-95-the-tree-house/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Best",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "day",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "ever",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1180
+            },
+            {
+              "word": "said",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1540
+            },
+            {
+              "word": "Jun",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2460,
+              "endMs": 2600
+            },
+            {
+              "word": "Mina",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "smiled",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2780,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 누구와 함께 나무 위 오두막을 만들었나요?",
+      "type": "mc",
+      "options": [
+        "아빠와 친구 미나",
+        "엄마와 선생님",
+        "형과 이웃 아저씨",
+        "혼자서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 아빠와 친구 미나와 함께 나무 위 오두막을 만들었어요."
+    },
+    {
+      "question_ko": "미나가 불려온 이유는 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "설계도 그리기를 잘해서",
+        "나무를 잘 타서",
+        "못 박기를 잘해서",
+        "판자를 잘 날라서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 미나를 부른 건 미나가 설계도 그리기를 잘했기 때문이에요."
+    },
+    {
+      "question_ko": "아빠가 못을 잘못 박았을 때 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "웃으며 다시 시도했다",
+        "화를 내며 포기했다",
+        "준에게 대신 하라고 했다",
+        "집 안으로 들어갔다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아빠는 실수해도 괜찮다고 하며 웃고 다시 시도했어요."
+    },
+    {
+      "question_ko": "오두막에 제일 먼저 올라간 사람은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "준",
+        "미나",
+        "아빠",
+        "셋이 동시에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "더 기다릴 수 없었던 준이 제일 먼저 오두막에 올라갔어요."
+    },
+    {
+      "question_ko": "준이 오두막을 완성하고 느낀 감정은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "뿌듯함",
+        "무서움",
+        "외로움",
+        "지루함"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "자기 손으로 직접 무언가를 만들었기 때문에 준은 뿌듯함을 느꼈어요."
+    }
+  ]
+}

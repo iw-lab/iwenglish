@@ -1,0 +1,1042 @@
+{
+  "slug": "daily-72-the-puddle-walk",
+  "title": "The Puddle Walk",
+  "title_ko": "물웅덩이 산책",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "비가 갠 뒤 준과 미나가 물웅덩이를 첨벙첨벙 밟으며 즐거운 산책을 하는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "The rain stopped and the sun came out.",
+          "translation_ko": "비가 그치고 해가 나왔어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "rain",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "stopped",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 560,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1580,
+              "endMs": 1800
+            },
+            {
+              "word": "sun",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "came",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2280
+            },
+            {
+              "word": "out",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "Jun looked out the window and smiled.",
+          "translation_ko": "준은 창밖을 바라보며 싱긋 웃었어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "out",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1360
+            },
+            {
+              "word": "window",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1360
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1700
+            },
+            {
+              "word": "smiled",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1700,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He called his friend Mina.",
+          "translation_ko": "준은 친구 미나에게 전화했어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "called",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "friend",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "Mina",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1680
+            }
+          ]
+        },
+        {
+          "text": "\"Let's go for a walk!\" he said.",
+          "translation_ko": "\"산책하러 가자!\" 준이 말했어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "go",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 820,
+              "endMs": 1000
+            },
+            {
+              "word": "for",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1120
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1480
+            },
+            {
+              "word": "walk",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1820
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1980,
+              "endMs": 2180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina grabbed her yellow boots and ran outside.",
+          "translation_ko": "미나는 노란 장화를 들고 뛰어나왔어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "grabbed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 780
+            },
+            {
+              "word": "her",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "yellow",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1000,
+              "endMs": 1300
+            },
+            {
+              "word": "boots",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1300,
+              "endMs": 1600
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "word": "ran",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2120
+            },
+            {
+              "word": "outside",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2120,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The street was wet and full of puddles.",
+          "translation_ko": "거리는 축축하고 물웅덩이가 가득했어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 1060
+            },
+            {
+              "word": "street",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "was",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "wet",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1880,
+              "endMs": 2480
+            },
+            {
+              "word": "full",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2480,
+              "endMs": 2560
+            },
+            {
+              "word": "of",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "puddles",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2860,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "\"Look at that big puddle!\" said Mina.",
+          "translation_ko": "\"저 커다란 웅덩이 봐!\" 미나가 말했어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Look",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "at",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 840
+            },
+            {
+              "word": "that",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "big",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1660
+            },
+            {
+              "word": "puddle",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1660,
+              "endMs": 2540
+            },
+            {
+              "word": "said",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2540,
+              "endMs": 2620
+            },
+            {
+              "word": "Mina",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2620,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun ran and jumped into it.",
+          "translation_ko": "준이 달려가 웅덩이 안으로 풍덩 뛰어들었어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "and",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "word": "jumped",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1400
+            },
+            {
+              "word": "into",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1720
+            },
+            {
+              "word": "it",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1720,
+              "endMs": 1980
+            }
+          ]
+        },
+        {
+          "text": "Splash! Water flew up high.",
+          "translation_ko": "첨벙! 물이 높이 튀었어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Splash",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 560,
+              "endMs": 1080
+            },
+            {
+              "word": "Water",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1300,
+              "endMs": 1640
+            },
+            {
+              "word": "flew",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1640,
+              "endMs": 1900
+            },
+            {
+              "word": "up",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1900,
+              "endMs": 2160
+            },
+            {
+              "word": "high",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2160,
+              "endMs": 2380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina laughed and jumped in too.",
+          "translation_ko": "미나도 웃으며 함께 뛰어들었어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "laughed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 900
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1380
+            },
+            {
+              "word": "jumped",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1560
+            },
+            {
+              "word": "in",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1960
+            },
+            {
+              "word": "too",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2160,
+              "endMs": 2160
+            }
+          ]
+        },
+        {
+          "text": "\"This is so fun!\" she shouted.",
+          "translation_ko": "\"너무 신난다!\" 미나가 소리쳤어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 680
+            },
+            {
+              "word": "so",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 1000
+            },
+            {
+              "word": "fun",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1440
+            },
+            {
+              "word": "she",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1860,
+              "endMs": 1900
+            },
+            {
+              "word": "shouted",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They walked down the street and found more puddles.",
+          "translation_ko": "둘은 길을 따라 걸으며 웅덩이를 더 찾았어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "walked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "down",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1180
+            },
+            {
+              "word": "street",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1400,
+              "endMs": 1920
+            },
+            {
+              "word": "found",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1920,
+              "endMs": 2100
+            },
+            {
+              "word": "more",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2100,
+              "endMs": 2480
+            },
+            {
+              "word": "puddles",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2480,
+              "endMs": 2840
+            }
+          ]
+        },
+        {
+          "text": "Big ones, small ones, round ones.",
+          "translation_ko": "큰 것, 작은 것, 동그란 것도 있었어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Big",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "ones",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "small",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1280
+            },
+            {
+              "word": "ones",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "round",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2160,
+              "endMs": 2240
+            },
+            {
+              "word": "ones",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2240,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They splashed every puddle on the way home.",
+          "translation_ko": "집으로 돌아오는 길에 웅덩이를 모조리 밟았어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "splashed",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "every",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1660
+            },
+            {
+              "word": "puddle",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "on",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2000,
+              "endMs": 2420
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2420,
+              "endMs": 2580
+            },
+            {
+              "word": "way",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2580,
+              "endMs": 2740
+            },
+            {
+              "word": "home",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2740,
+              "endMs": 3000
+            }
+          ]
+        },
+        {
+          "text": "Their boots were muddy but they did not care.",
+          "translation_ko": "장화가 진흙투성이가 됐지만 둘은 전혀 신경 쓰지 않았어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "boots",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "were",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 860
+            },
+            {
+              "word": "muddy",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "but",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1560
+            },
+            {
+              "word": "they",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "did",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1720,
+              "endMs": 1900
+            },
+            {
+              "word": "not",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "care",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2140,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Rainy days are the best,\" said Jun.",
+          "translation_ko": "\"비 오는 날이 최고야.\" 준이 말했어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Rainy",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "days",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "are",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1300
+            },
+            {
+              "word": "best",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "said",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2180,
+              "endMs": 2260
+            },
+            {
+              "word": "Jun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2540
+            }
+          ]
+        },
+        {
+          "text": "Mina nodded and smiled.",
+          "translation_ko": "미나는 고개를 끄덕이며 방긋 웃었어요.",
+          "audio": "/seed/daily-72-the-puddle-walk/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "nodded",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 780
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 1180
+            },
+            {
+              "word": "smiled",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1480
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "비가 그친 뒤 준은 제일 먼저 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "미나에게 전화했다",
+        "그냥 집에서 놀았다",
+        "우산을 챙겼다",
+        "책을 읽었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 창밖을 보고 기뻐하며 친구 미나에게 산책하러 가자고 전화했어요."
+    },
+    {
+      "question_ko": "미나가 산책을 나올 때 챙긴 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "노란 장화",
+        "빨간 우산",
+        "파란 모자",
+        "초록 가방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 노란 장화를 들고 뛰어나왔어요."
+    },
+    {
+      "question_ko": "준이 큰 웅덩이로 달려가서 뛰어들었을 때 어떻게 됐나요?",
+      "type": "mc",
+      "options": [
+        "물이 높이 튀었다",
+        "준이 넘어졌다",
+        "웅덩이가 사라졌다",
+        "미나가 도망쳤다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 첨벙 뛰어들자 물이 높이 튀어올랐어요."
+    },
+    {
+      "question_ko": "준과 미나가 찾은 웅덩이는 어떤 종류였나요?",
+      "type": "mc",
+      "options": [
+        "큰 것, 작은 것, 동그란 것",
+        "깊은 것, 얕은 것, 차가운 것",
+        "빨간 것, 파란 것, 노란 것",
+        "하나밖에 없었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "길을 걸으며 큰 것, 작은 것, 동그란 것 등 다양한 웅덩이를 찾았어요."
+    },
+    {
+      "question_ko": "집으로 돌아올 때 장화가 어떻게 됐나요?",
+      "type": "mc",
+      "options": [
+        "진흙투성이가 됐다",
+        "벗겨졌다",
+        "더 반짝반짝해졌다",
+        "젖지 않았다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "웅덩이를 신나게 밟다 보니 장화가 진흙투성이가 됐지만, 둘은 전혀 신경 쓰지 않았어요."
+    }
+  ]
+}

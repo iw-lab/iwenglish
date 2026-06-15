@@ -1,0 +1,586 @@
+{
+  "slug": "daily-57-the-big-bus",
+  "title": "The Big Bus",
+  "title_ko": "큰 버스",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "준이 처음으로 큰 노란 버스를 보고 타는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun is at the bus stop. He waits.",
+          "translation_ko": "준은 버스 정류장에 있어요. 준은 기다려요.",
+          "audio": "/seed/daily-57-the-big-bus/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "at",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1040,
+              "endMs": 1180
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "bus",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1500,
+              "endMs": 1560
+            },
+            {
+              "word": "stop",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "He",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2420,
+              "endMs": 2560
+            },
+            {
+              "word": "waits",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2560,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun sees a big yellow bus. It is very big!",
+          "translation_ko": "준은 크고 노란 버스를 봐요. 정말 엄청 크네요!",
+          "audio": "/seed/daily-57-the-big-bus/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "sees",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "big",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1080,
+              "endMs": 1400
+            },
+            {
+              "word": "yellow",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "bus",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1620,
+              "endMs": 2000
+            },
+            {
+              "word": "It",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2440,
+              "endMs": 2480
+            },
+            {
+              "word": "is",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2480,
+              "endMs": 2760
+            },
+            {
+              "word": "very",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2760,
+              "endMs": 3080
+            },
+            {
+              "word": "big",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 3080,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bus stops here. The door opens.",
+          "translation_ko": "버스가 여기에 서요. 문이 열려요.",
+          "audio": "/seed/daily-57-the-big-bus/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "bus",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "stops",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "here",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1440
+            },
+            {
+              "word": "The",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1960,
+              "endMs": 2080
+            },
+            {
+              "word": "door",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2080,
+              "endMs": 2220
+            },
+            {
+              "word": "opens",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun gets on the bus. He says thank you.",
+          "translation_ko": "준은 버스에 타요. 준은 감사합니다 하고 말해요.",
+          "audio": "/seed/daily-57-the-big-bus/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "gets",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 700
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "bus",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1300
+            },
+            {
+              "word": "He",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1800,
+              "endMs": 2000
+            },
+            {
+              "word": "says",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "thank",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2740
+            },
+            {
+              "word": "you",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2740,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun finds a good seat. He sits down.",
+          "translation_ko": "준은 좋은 자리를 찾아요. 준은 앉아요.",
+          "audio": "/seed/daily-57-the-big-bus/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "finds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 760,
+              "endMs": 960
+            },
+            {
+              "word": "good",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "seat",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1460
+            },
+            {
+              "word": "He",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1940,
+              "endMs": 2080
+            },
+            {
+              "word": "sits",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "down",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun looks out the window. He sees the street.",
+          "translation_ko": "준은 창밖을 내다봐요. 거리가 보여요.",
+          "audio": "/seed/daily-57-the-big-bus/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 640
+            },
+            {
+              "word": "out",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1360
+            },
+            {
+              "word": "window",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1360
+            },
+            {
+              "word": "He",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2120
+            },
+            {
+              "word": "sees",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "street",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2600,
+              "endMs": 2880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The big yellow bus goes down the road. Jun is happy.",
+          "translation_ko": "크고 노란 버스가 길을 달려가요. 준은 기분이 좋아요.",
+          "audio": "/seed/daily-57-the-big-bus/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "big",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 700
+            },
+            {
+              "word": "yellow",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1020
+            },
+            {
+              "word": "bus",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "goes",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "down",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2220
+            },
+            {
+              "word": "road",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "Jun",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 3140,
+              "endMs": 3180
+            },
+            {
+              "word": "is",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3180,
+              "endMs": 3460
+            },
+            {
+              "word": "happy",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3460,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "버스는 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "노란색",
+        "파란색",
+        "빨간색",
+        "초록색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이야기에서 'a big yellow bus'라고 했어요. 버스는 노란색이에요."
+    },
+    {
+      "question_ko": "준은 버스에 타기 전에 어디에 있었나요?",
+      "type": "mc",
+      "options": [
+        "버스 정류장",
+        "학교",
+        "집",
+        "공원"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'준 is at the bus stop.'이라고 했어요. 준은 버스 정류장에 있었어요."
+    },
+    {
+      "question_ko": "버스가 서자 가장 먼저 어떤 일이 생겼나요?",
+      "type": "mc",
+      "options": [
+        "문이 열렸어요.",
+        "준이 뛰어 올랐어요.",
+        "버스가 경적을 울렸어요.",
+        "운전기사가 내렸어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'The door opens.'이라고 했어요. 버스가 서고 문이 열렸어요."
+    },
+    {
+      "question_ko": "준은 버스에서 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "자리를 찾아 앉았어요.",
+        "춤을 췄어요.",
+        "소리를 질렀어요.",
+        "잠을 잤어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'준 finds a good seat. He sits down.'이라고 했어요. 준은 자리를 찾아 앉았어요."
+    },
+    {
+      "question_ko": "이야기 마지막에 준의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "기분이 좋았어요.",
+        "무서웠어요.",
+        "슬펐어요.",
+        "배가 고팠어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'준 is happy.'라고 했어요. 준은 기분이 좋았어요."
+    }
+  ]
+}

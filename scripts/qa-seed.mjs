@@ -25,8 +25,8 @@ const LEVELS = new Set(["preA1", "A1", "A2", "B1"]);
 const REQUIRED = ["slug", "title", "title_ko", "level", "ageBand", "summary_ko", "pages", "words", "quiz"];
 // 스토리북 레벨별 총 단어수 밴드(실측 p10~max 기반 느슨하게)
 const STORY_BAND = { preA1: [20, 90], A1: [40, 135], A2: [80, 215], B1: [200, 340] };
-// daily stage별 평균 ±60%
-const DAILY_AVG = { 1: 28, 2: 42, 3: 59, 4: 68, 5: 102, 6: 201 };
+// daily stage별 평균 ±60% (2026-06 통일 사다리로 증량 — 기존 50권+신규 100권 공통)
+const DAILY_AVG = { 1: 60, 2: 113, 3: 180, 4: 192, 5: 300, 6: 318 };
 
 const enWordCount = (s) => (s.match(/[A-Za-z']+/g) || []).length;
 // src/lib/utils.ts tokenizeWords/normalizeWord 정합 — dict.json 키가 하이픈·아포스트로피 보존(grown-ups 등)

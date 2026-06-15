@@ -20,28 +20,70 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 580
+              "endMs": 180
             },
             {
               "word": "is",
               "charStart": 3,
               "charEnd": 5,
-              "startMs": 580,
-              "endMs": 1000
+              "startMs": 180,
+              "endMs": 440
             },
             {
               "word": "snowy",
               "charStart": 6,
               "charEnd": 11,
-              "startMs": 1000,
-              "endMs": 1500
+              "startMs": 440,
+              "endMs": 880
             },
             {
               "word": "today",
               "charStart": 12,
               "charEnd": 17,
-              "startMs": 1500,
-              "endMs": 1820
+              "startMs": 880,
+              "endMs": 1220
+            }
+          ]
+        },
+        {
+          "text": "Snow falls from the sky.",
+          "translation_ko": "하늘에서 눈이 내려요.",
+          "audio": "/seed/daily-26-snowy-morning/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Snow",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "falls",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 760,
+              "endMs": 1140
+            },
+            {
+              "word": "from",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "sky",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1620,
+              "endMs": 1840
             }
           ]
         }
@@ -50,8 +92,8 @@
     {
       "sentences": [
         {
-          "text": "I see white snow.",
-          "translation_ko": "나는 하얀 눈을 봐요.",
+          "text": "I look out the window.",
+          "translation_ko": "나는 창문 밖을 내다봐요.",
           "audio": "/seed/daily-26-snowy-morning/audio/p2-s1.mp3",
           "wordTimings": [
             {
@@ -59,28 +101,91 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 940
+              "endMs": 300
+            },
+            {
+              "word": "look",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "out",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 700
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1000
+            },
+            {
+              "word": "window",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1000,
+              "endMs": 1120
+            }
+          ]
+        },
+        {
+          "text": "I see white snow on the ground.",
+          "translation_ko": "나는 땅 위에 하얀 눈을 봐요.",
+          "audio": "/seed/daily-26-snowy-morning/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
             },
             {
               "word": "see",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 940,
-              "endMs": 1200
+              "startMs": 300,
+              "endMs": 500
             },
             {
               "word": "white",
               "charStart": 6,
               "charEnd": 11,
-              "startMs": 1200,
-              "endMs": 1580
+              "startMs": 500,
+              "endMs": 1000
             },
             {
               "word": "snow",
               "charStart": 12,
               "charEnd": 16,
-              "startMs": 1580,
-              "endMs": 1880
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "on",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1740
+            },
+            {
+              "word": "ground",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1740,
+              "endMs": 2000
             }
           ]
         }
@@ -98,35 +203,84 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 200
             },
             {
               "word": "put",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 300,
-              "endMs": 740
+              "startMs": 200,
+              "endMs": 320
             },
             {
               "word": "on",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 740,
-              "endMs": 1200
+              "startMs": 320,
+              "endMs": 520
             },
             {
               "word": "my",
               "charStart": 9,
               "charEnd": 11,
-              "startMs": 1200,
-              "endMs": 1520
+              "startMs": 520,
+              "endMs": 700
             },
             {
               "word": "coat",
               "charStart": 12,
               "charEnd": 16,
+              "startMs": 700,
+              "endMs": 940
+            }
+          ]
+        },
+        {
+          "text": "The coat is red and warm.",
+          "translation_ko": "코트는 빨갛고 따뜻해요.",
+          "audio": "/seed/daily-26-snowy-morning/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "coat",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1520
+            },
+            {
+              "word": "red",
+              "charStart": 12,
+              "charEnd": 15,
               "startMs": 1520,
-              "endMs": 1780
+              "endMs": 1820
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1820,
+              "endMs": 2580
+            },
+            {
+              "word": "warm",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2580,
+              "endMs": 2860
             }
           ]
         }
@@ -144,35 +298,84 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 200
+              "endMs": 260
             },
             {
               "word": "put",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 200,
-              "endMs": 380
+              "startMs": 260,
+              "endMs": 520
             },
             {
               "word": "on",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 380,
-              "endMs": 720
+              "startMs": 520,
+              "endMs": 820
             },
             {
               "word": "my",
               "charStart": 9,
               "charEnd": 11,
-              "startMs": 720,
-              "endMs": 980
+              "startMs": 820,
+              "endMs": 1080
             },
             {
               "word": "hat",
               "charStart": 12,
               "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1360
+            }
+          ]
+        },
+        {
+          "text": "I put on my gloves too.",
+          "translation_ko": "나는 장갑도 껴요.",
+          "audio": "/seed/daily-26-snowy-morning/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 420,
+              "endMs": 980
+            },
+            {
+              "word": "on",
+              "charStart": 6,
+              "charEnd": 8,
               "startMs": 980,
-              "endMs": 1180
+              "endMs": 1200
+            },
+            {
+              "word": "my",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1200,
+              "endMs": 1460
+            },
+            {
+              "word": "gloves",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1460,
+              "endMs": 1780
+            },
+            {
+              "word": "too",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1780,
+              "endMs": 2220
             }
           ]
         }
@@ -190,28 +393,84 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 280
             },
             {
               "word": "hands",
               "charStart": 3,
               "charEnd": 8,
-              "startMs": 320,
-              "endMs": 760
+              "startMs": 280,
+              "endMs": 620
             },
             {
               "word": "are",
               "charStart": 9,
               "charEnd": 12,
-              "startMs": 760,
-              "endMs": 1080
+              "startMs": 620,
+              "endMs": 940
             },
             {
               "word": "warm",
               "charStart": 13,
               "charEnd": 17,
-              "startMs": 1080,
-              "endMs": 1400
+              "startMs": 940,
+              "endMs": 1240
+            }
+          ]
+        },
+        {
+          "text": "My face feels cold, but I smile.",
+          "translation_ko": "얼굴은 차갑지만, 나는 미소 지어요.",
+          "audio": "/seed/daily-26-snowy-morning/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "face",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "feels",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "cold",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "but",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1580
+            },
+            {
+              "word": "I",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "smile",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2100
             }
           ]
         }
@@ -229,28 +488,112 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 660
+              "endMs": 600
             },
             {
               "word": "days",
               "charStart": 6,
               "charEnd": 10,
-              "startMs": 660,
-              "endMs": 960
+              "startMs": 600,
+              "endMs": 920
             },
             {
               "word": "are",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 960,
-              "endMs": 1340
+              "startMs": 920,
+              "endMs": 1440
             },
             {
               "word": "bright",
               "charStart": 15,
               "charEnd": 21,
-              "startMs": 1340,
-              "endMs": 1620
+              "startMs": 1440,
+              "endMs": 1720
+            }
+          ]
+        },
+        {
+          "text": "The snow sparkles in the light.",
+          "translation_ko": "눈이 햇빛에 반짝여요.",
+          "audio": "/seed/daily-26-snowy-morning/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "snow",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 780
+            },
+            {
+              "word": "sparkles",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1780
+            },
+            {
+              "word": "in",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1980,
+              "endMs": 2160
+            },
+            {
+              "word": "light",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2160,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "I love snowy mornings!",
+          "translation_ko": "나는 눈 오는 아침이 좋아요!",
+          "audio": "/seed/daily-26-snowy-morning/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "love",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 740
+            },
+            {
+              "word": "snowy",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1320
+            },
+            {
+              "word": "mornings",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1480
             }
           ]
         }
@@ -302,22 +645,22 @@
         "모자",
         "신발",
         "가방",
-        "장갑"
+        "우산"
       ],
       "answerIndex": 0,
       "explain_ko": "hat은 모자예요."
     },
     {
-      "question_ko": "손은 어땠나요?",
+      "question_ko": "눈 오는 날은 어떤가요?",
       "type": "mc",
       "options": [
-        "차가웠어요",
-        "따뜻했어요",
-        "아팠어요",
-        "더러웠어요"
+        "어두워요",
+        "밝아요",
+        "더워요",
+        "시끄러워요"
       ],
       "answerIndex": 1,
-      "explain_ko": "warm은 따뜻하다는 뜻이에요."
+      "explain_ko": "bright는 밝다는 뜻이에요. 눈 오는 날은 환하게 빛나요."
     }
   ]
 }

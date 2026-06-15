@@ -19,50 +19,155 @@
               "word": "Today",
               "charStart": 0,
               "charEnd": 5,
-              "startMs": 560,
-              "endMs": 1000
+              "startMs": 0,
+              "endMs": 520
             },
             {
               "word": "I",
               "charStart": 6,
               "charEnd": 7,
-              "startMs": 1160,
-              "endMs": 1220
+              "startMs": 660,
+              "endMs": 780
             },
             {
               "word": "want",
               "charStart": 8,
               "charEnd": 12,
-              "startMs": 1220,
-              "endMs": 1420
+              "startMs": 780,
+              "endMs": 940
             },
             {
               "word": "to",
               "charStart": 13,
               "charEnd": 15,
-              "startMs": 1420,
-              "endMs": 1640
+              "startMs": 940,
+              "endMs": 1200
             },
             {
               "word": "help",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1640,
-              "endMs": 1760
+              "startMs": 1200,
+              "endMs": 1220
             },
             {
               "word": "my",
               "charStart": 21,
               "charEnd": 23,
-              "startMs": 1760,
-              "endMs": 2000
+              "startMs": 1220,
+              "endMs": 1480
             },
             {
               "word": "family",
               "charStart": 24,
               "charEnd": 30,
-              "startMs": 2000,
-              "endMs": 2300
+              "startMs": 1480,
+              "endMs": 1720
+            }
+          ]
+        },
+        {
+          "text": "There are many things to do at home.",
+          "translation_ko": "집에는 해야 할 일이 많아요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "There",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "are",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "many",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 640,
+              "endMs": 980
+            },
+            {
+              "word": "things",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1360
+            },
+            {
+              "word": "to",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "do",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "at",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2280
+            },
+            {
+              "word": "home",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2280,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "I am ready to start!",
+          "translation_ko": "나는 시작할 준비가 됐어요!",
+          "audio": "/seed/daily-18-helping-at-home/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 360,
+              "endMs": 640
+            },
+            {
+              "word": "ready",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 920
+            },
+            {
+              "word": "to",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1320
+            },
+            {
+              "word": "start",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 1520
             }
           ]
         }
@@ -80,49 +185,175 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 780
+              "endMs": 660
             },
             {
               "word": "make",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 780,
-              "endMs": 1180
+              "startMs": 660,
+              "endMs": 860
             },
             {
               "word": "my",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 1180,
-              "endMs": 1520
+              "startMs": 860,
+              "endMs": 1120
             },
             {
               "word": "bed",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 1520,
-              "endMs": 1820
+              "startMs": 1120,
+              "endMs": 1300
             },
             {
               "word": "in",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 1820,
-              "endMs": 2120
+              "startMs": 1300,
+              "endMs": 1480
             },
             {
               "word": "the",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 2120,
-              "endMs": 2380
+              "startMs": 1480,
+              "endMs": 1640
             },
             {
               "word": "morning",
               "charStart": 21,
               "charEnd": 28,
-              "startMs": 2380,
+              "startMs": 1640,
+              "endMs": 1820
+            }
+          ]
+        },
+        {
+          "text": "I pull up the blanket and fix the pillow.",
+          "translation_ko": "이불을 올리고 베개도 바로잡아요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "pull",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "up",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 580,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1400
+            },
+            {
+              "word": "blanket",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1960
+            },
+            {
+              "word": "fix",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1960,
+              "endMs": 2200
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2200,
               "endMs": 2500
+            },
+            {
+              "word": "pillow",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2500,
+              "endMs": 2620
+            }
+          ]
+        },
+        {
+          "text": "Now my room looks neat and tidy.",
+          "translation_ko": "이제 방이 깔끔하고 정돈되어 보여요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "my",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "room",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "looks",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1520
+            },
+            {
+              "word": "neat",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1880
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1880,
+              "endMs": 2380
+            },
+            {
+              "word": "tidy",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2380,
+              "endMs": 2580
             }
           ]
         }
@@ -140,42 +371,189 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 480
+              "endMs": 420
             },
             {
               "word": "help",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 480,
-              "endMs": 860
+              "startMs": 420,
+              "endMs": 760
             },
             {
               "word": "Mom",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 860,
-              "endMs": 1460
+              "startMs": 760,
+              "endMs": 1360
             },
             {
               "word": "set",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 1460,
-              "endMs": 2080
+              "startMs": 1360,
+              "endMs": 1820
             },
             {
               "word": "the",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 2080,
-              "endMs": 2520
+              "startMs": 1820,
+              "endMs": 2200
             },
             {
               "word": "table",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 2520,
+              "startMs": 2200,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "I carry the plates and put them in the right place.",
+          "translation_ko": "접시를 가져다가 제자리에 놓아요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "carry",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 720
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "plates",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1680
+            },
+            {
+              "word": "put",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1680,
+              "endMs": 1840
+            },
+            {
+              "word": "them",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2040
+            },
+            {
+              "word": "in",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2040,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2140,
+              "endMs": 2280
+            },
+            {
+              "word": "right",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2280,
+              "endMs": 2500
+            },
+            {
+              "word": "place",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2500,
+              "endMs": 2840
+            }
+          ]
+        },
+        {
+          "text": "\"Good job!\" says Mom with a big smile.",
+          "translation_ko": "\"잘했어!\" 엄마가 환하게 웃으며 말해요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "job",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 1580
+            },
+            {
+              "word": "says",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1580,
+              "endMs": 1720
+            },
+            {
+              "word": "Mom",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "with",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 2200,
+              "endMs": 2320
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 2320,
               "endMs": 2520
+            },
+            {
+              "word": "big",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2520,
+              "endMs": 2820
+            },
+            {
+              "word": "smile",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2820,
+              "endMs": 3140
             }
           ]
         }
@@ -193,42 +571,196 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 400
             },
             {
               "word": "dinner",
               "charStart": 6,
               "charEnd": 12,
-              "startMs": 300,
-              "endMs": 580
+              "startMs": 400,
+              "endMs": 740
             },
             {
               "word": "I",
               "charStart": 14,
               "charEnd": 15,
-              "startMs": 840,
-              "endMs": 1340
+              "startMs": 880,
+              "endMs": 1600
             },
             {
               "word": "wash",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1340,
-              "endMs": 1380
+              "startMs": 1600,
+              "endMs": 1660
             },
             {
               "word": "the",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1380,
-              "endMs": 1880
+              "startMs": 1660,
+              "endMs": 2200
             },
             {
               "word": "dishes",
               "charStart": 25,
               "charEnd": 31,
-              "startMs": 1880,
-              "endMs": 1880
+              "startMs": 2200,
+              "endMs": 2200
+            }
+          ]
+        },
+        {
+          "text": "I use soap and warm water to clean them well.",
+          "translation_ko": "비누와 따뜻한 물로 깨끗이 닦아요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "use",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 640,
+              "endMs": 900
+            },
+            {
+              "word": "soap",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 900,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1220,
+              "endMs": 1620
+            },
+            {
+              "word": "warm",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1620,
+              "endMs": 1900
+            },
+            {
+              "word": "water",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1900,
+              "endMs": 2160
+            },
+            {
+              "word": "to",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2160,
+              "endMs": 2460
+            },
+            {
+              "word": "clean",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "them",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2640,
+              "endMs": 2840
+            },
+            {
+              "word": "well",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2840,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "I rinse each dish and put it on the rack.",
+          "translation_ko": "접시를 하나씩 헹궈 건조대에 올려요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "rinse",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "each",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 1080,
+              "endMs": 1520
+            },
+            {
+              "word": "dish",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1780,
+              "endMs": 2160
+            },
+            {
+              "word": "put",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2160,
+              "endMs": 2320
+            },
+            {
+              "word": "it",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2320,
+              "endMs": 2440
+            },
+            {
+              "word": "on",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2440,
+              "endMs": 2560
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2560,
+              "endMs": 2900
+            },
+            {
+              "word": "rack",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2900,
+              "endMs": 2900
             }
           ]
         }
@@ -246,49 +778,189 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 380
+              "endMs": 220
             },
             {
               "word": "water",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 380,
-              "endMs": 620
+              "startMs": 220,
+              "endMs": 420
             },
             {
               "word": "the",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 620,
-              "endMs": 860
+              "startMs": 420,
+              "endMs": 600
             },
             {
               "word": "plants",
               "charStart": 12,
               "charEnd": 18,
-              "startMs": 860,
-              "endMs": 1140
+              "startMs": 600,
+              "endMs": 860
             },
             {
               "word": "by",
               "charStart": 19,
               "charEnd": 21,
-              "startMs": 1140,
-              "endMs": 1380
+              "startMs": 860,
+              "endMs": 1080
             },
             {
               "word": "the",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 1380,
-              "endMs": 1760
+              "startMs": 1080,
+              "endMs": 1340
             },
             {
               "word": "window",
               "charStart": 26,
               "charEnd": 32,
-              "startMs": 1760,
-              "endMs": 1760
+              "startMs": 1340,
+              "endMs": 1460
+            }
+          ]
+        },
+        {
+          "text": "The leaves are green and they look thirsty.",
+          "translation_ko": "잎이 초록색인데 목마른 것 같아요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "leaves",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "are",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "green",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1620
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1880,
+              "endMs": 2260
+            },
+            {
+              "word": "they",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "look",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2600
+            },
+            {
+              "word": "thirsty",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "I give each plant just the right amount of water.",
+          "translation_ko": "화분마다 딱 알맞은 양의 물을 줘요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "give",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "each",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "plant",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1320
+            },
+            {
+              "word": "just",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1320,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1920,
+              "endMs": 2180
+            },
+            {
+              "word": "right",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2180,
+              "endMs": 2380
+            },
+            {
+              "word": "amount",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2380,
+              "endMs": 2620
+            },
+            {
+              "word": "of",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2620,
+              "endMs": 3120
+            },
+            {
+              "word": "water",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3120,
+              "endMs": 3120
             }
           ]
         }
@@ -305,57 +977,211 @@
               "word": "I",
               "charStart": 0,
               "charEnd": 1,
-              "startMs": 500,
-              "endMs": 940
+              "startMs": 0,
+              "endMs": 200
             },
             {
               "word": "put",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 940,
-              "endMs": 1060
+              "startMs": 200,
+              "endMs": 300
             },
             {
               "word": "my",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 1060,
-              "endMs": 1320
+              "startMs": 300,
+              "endMs": 560
             },
             {
               "word": "toys",
               "charStart": 9,
               "charEnd": 13,
-              "startMs": 1320,
-              "endMs": 1540
+              "startMs": 560,
+              "endMs": 760
             },
             {
               "word": "back",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 1540,
-              "endMs": 1880
+              "startMs": 760,
+              "endMs": 1040
             },
             {
               "word": "in",
               "charStart": 19,
               "charEnd": 21,
-              "startMs": 1880,
-              "endMs": 2020
+              "startMs": 1040,
+              "endMs": 1180
             },
             {
               "word": "the",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 2020,
-              "endMs": 2120
+              "startMs": 1180,
+              "endMs": 1300
             },
             {
               "word": "box",
               "charStart": 26,
               "charEnd": 29,
-              "startMs": 2120,
-              "endMs": 2380
+              "startMs": 1300,
+              "endMs": 1540
+            }
+          ]
+        },
+        {
+          "text": "I sort the small toys from the big ones.",
+          "translation_ko": "작은 장난감과 큰 장난감을 나눠 정리해요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "sort",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 440
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 720
+            },
+            {
+              "word": "small",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "toys",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "from",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1480,
+              "endMs": 1620
+            },
+            {
+              "word": "big",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "ones",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1800,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "The floor is clean and there is more room to walk.",
+          "translation_ko": "바닥이 깨끗해지고 걸어 다닐 공간도 생겼어요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "floor",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 580,
+              "endMs": 780
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1080
+            },
+            {
+              "word": "clean",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1540
+            },
+            {
+              "word": "there",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1540,
+              "endMs": 1640
+            },
+            {
+              "word": "is",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1640,
+              "endMs": 1800
+            },
+            {
+              "word": "more",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "room",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2020,
+              "endMs": 2200
+            },
+            {
+              "word": "to",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "walk",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2460,
+              "endMs": 2640
             }
           ]
         }
@@ -373,42 +1199,140 @@
               "charStart": 1,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 460
             },
             {
               "word": "you",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 260,
-              "endMs": 400
+              "startMs": 460,
+              "endMs": 700
             },
             {
               "word": "for",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 400,
-              "endMs": 600
+              "startMs": 700,
+              "endMs": 900
             },
             {
               "word": "helping",
               "charStart": 15,
               "charEnd": 22,
-              "startMs": 600,
-              "endMs": 1600
+              "startMs": 900,
+              "endMs": 1260
             },
             {
               "word": "says",
               "charStart": 25,
               "charEnd": 29,
-              "startMs": 1600,
-              "endMs": 1600
+              "startMs": 1640,
+              "endMs": 1800
             },
             {
               "word": "Mom",
               "charStart": 30,
               "charEnd": 33,
-              "startMs": 1600,
-              "endMs": 1860
+              "startMs": 1800,
+              "endMs": 2060
+            }
+          ]
+        },
+        {
+          "text": "\"You worked so hard today.\"",
+          "translation_ko": "\"오늘 정말 열심히 했구나.\"",
+          "audio": "/seed/daily-18-helping-at-home/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "worked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 760
+            },
+            {
+              "word": "so",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1200
+            },
+            {
+              "word": "hard",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "today",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "I feel proud when Mom thanks me.",
+          "translation_ko": "엄마가 고맙다고 하면 뿌듯한 기분이 들어요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 560
+            },
+            {
+              "word": "proud",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 920
+            },
+            {
+              "word": "when",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "Mom",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "thanks",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 1840
+            },
+            {
+              "word": "me",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2060
             }
           ]
         }
@@ -426,20 +1350,20 @@
               "charStart": 0,
               "charEnd": 7,
               "startMs": 0,
-              "endMs": 400
+              "endMs": 360
             },
             {
               "word": "my",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 400,
-              "endMs": 700
+              "startMs": 360,
+              "endMs": 660
             },
             {
               "word": "family",
               "charStart": 11,
               "charEnd": 17,
-              "startMs": 700,
+              "startMs": 660,
               "endMs": 1080
             },
             {
@@ -447,21 +1371,140 @@
               "charStart": 18,
               "charEnd": 23,
               "startMs": 1080,
-              "endMs": 1440
+              "endMs": 1580
             },
             {
               "word": "me",
               "charStart": 24,
               "charEnd": 26,
-              "startMs": 1440,
-              "endMs": 1700
+              "startMs": 1580,
+              "endMs": 1840
             },
             {
               "word": "happy",
               "charStart": 27,
               "charEnd": 32,
-              "startMs": 1700,
-              "endMs": 1960
+              "startMs": 1840,
+              "endMs": 2100
+            }
+          ]
+        },
+        {
+          "text": "When everyone works together, the home feels warm.",
+          "translation_ko": "모두 함께 일하면 집이 따뜻하게 느껴져요.",
+          "audio": "/seed/daily-18-helping-at-home/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "everyone",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 280,
+              "endMs": 820
+            },
+            {
+              "word": "works",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 820,
+              "endMs": 1140
+            },
+            {
+              "word": "together",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1140,
+              "endMs": 1560
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "home",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2140,
+              "endMs": 2400
+            },
+            {
+              "word": "feels",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2400,
+              "endMs": 2840
+            },
+            {
+              "word": "warm",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2840,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "I will help at home again tomorrow!",
+          "translation_ko": "내일도 집안일을 도울 거예요!",
+          "audio": "/seed/daily-18-helping-at-home/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "will",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "help",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "at",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1200
+            },
+            {
+              "word": "home",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "again",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1920
+            },
+            {
+              "word": "tomorrow",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1920,
+              "endMs": 2240
             }
           ]
         }

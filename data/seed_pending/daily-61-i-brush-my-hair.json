@@ -1,0 +1,663 @@
+{
+  "slug": "daily-61-i-brush-my-hair",
+  "title": "I Brush My Hair",
+  "title_ko": "머리를 빗어요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "준이 아침마다 거울 앞에서 머리를 빗는 모습을 담은 그림책이에요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun wakes up in the morning.",
+          "translation_ko": "준은 아침에 일어나요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "wakes",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 700
+            },
+            {
+              "word": "up",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 920
+            },
+            {
+              "word": "in",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "morning",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1160,
+              "endMs": 1360
+            }
+          ]
+        },
+        {
+          "text": "He goes to the bathroom.",
+          "translation_ko": "그는 화장실로 가요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "goes",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 580,
+              "endMs": 820
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 820,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1540
+            },
+            {
+              "word": "bathroom",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun looks in the mirror.",
+          "translation_ko": "준은 거울을 봐요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 500,
+              "endMs": 800
+            },
+            {
+              "word": "in",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "mirror",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1380
+            }
+          ]
+        },
+        {
+          "text": "He sees his face.",
+          "translation_ko": "그는 자신의 얼굴을 봐요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "sees",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "his",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 880
+            },
+            {
+              "word": "face",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "His hair is messy.",
+          "translation_ko": "머리가 헝클어져 있어요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "hair",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 640
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "messy",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1240
+            }
+          ]
+        },
+        {
+          "text": "It goes up and down.",
+          "translation_ko": "머리카락이 위아래로 삐쳐 있어요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "goes",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 480
+            },
+            {
+              "word": "up",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 900
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1480
+            },
+            {
+              "word": "down",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1480,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun picks up his brush.",
+          "translation_ko": "준은 빗을 집어요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "picks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 940
+            },
+            {
+              "word": "up",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 940,
+              "endMs": 1160
+            },
+            {
+              "word": "his",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1380
+            },
+            {
+              "word": "brush",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1660
+            }
+          ]
+        },
+        {
+          "text": "The brush is blue.",
+          "translation_ko": "빗은 파란색이에요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "brush",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "blue",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He brushes his hair slowly.",
+          "translation_ko": "그는 천천히 머리를 빗어요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "brushes",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "hair",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 860,
+              "endMs": 1200
+            },
+            {
+              "word": "slowly",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1200,
+              "endMs": 1640
+            }
+          ]
+        },
+        {
+          "text": "One, two, three strokes.",
+          "translation_ko": "하나, 둘, 셋.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "two",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 620,
+              "endMs": 860
+            },
+            {
+              "word": "three",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "strokes",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now his hair looks nice.",
+          "translation_ko": "이제 머리가 깔끔해 보여요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "his",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "hair",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "looks",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "nice",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1580
+            }
+          ]
+        },
+        {
+          "text": "Jun smiles at the mirror.",
+          "translation_ko": "준은 거울을 보며 웃어요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 1080
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1080,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1440
+            },
+            {
+              "word": "mirror",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun is ready for the day.",
+          "translation_ko": "준은 하루를 시작할 준비가 됐어요.",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 420,
+              "endMs": 680
+            },
+            {
+              "word": "ready",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 880
+            },
+            {
+              "word": "for",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1240
+            },
+            {
+              "word": "day",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1520
+            }
+          ]
+        },
+        {
+          "text": "He feels great!",
+          "translation_ko": "기분이 너무 좋아요!",
+          "audio": "/seed/daily-61-i-brush-my-hair/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "feels",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "great",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 960
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 아침에 어디로 갔나요?",
+      "type": "mc",
+      "options": [
+        "화장실",
+        "부엌",
+        "학교",
+        "거실"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 아침에 일어나서 화장실로 갔어요."
+    },
+    {
+      "question_ko": "준의 머리는 처음에 어떤 상태였나요?",
+      "type": "mc",
+      "options": [
+        "헝클어져 있었어요",
+        "깔끔했어요",
+        "젖어 있었어요",
+        "짧았어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "거울을 봤을 때 준의 머리는 헝클어져 있었어요."
+    },
+    {
+      "question_ko": "준의 빗은 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "파란색",
+        "빨간색",
+        "노란색",
+        "초록색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "책에서 준의 빗은 파란색이라고 했어요."
+    },
+    {
+      "question_ko": "준은 머리를 어떻게 빗었나요?",
+      "type": "mc",
+      "options": [
+        "천천히",
+        "빠르게",
+        "친구와 함께",
+        "엄마가 빗겨줬어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 머리를 천천히(slowly) 빗었어요."
+    },
+    {
+      "question_ko": "머리를 다 빗은 뒤 준의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "기분이 너무 좋았어요",
+        "피곤했어요",
+        "배가 고팠어요",
+        "슬펐어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "머리를 빗고 나서 준은 기분이 너무 좋았어요."
+    }
+  ]
+}

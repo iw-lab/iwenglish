@@ -20,56 +20,189 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 680
+              "endMs": 560
             },
             {
               "word": "could",
               "charStart": 3,
               "charEnd": 8,
-              "startMs": 680,
-              "endMs": 900
+              "startMs": 560,
+              "endMs": 720
             },
             {
               "word": "not",
               "charStart": 9,
               "charEnd": 12,
-              "startMs": 900,
-              "endMs": 1220
+              "startMs": 720,
+              "endMs": 1000
             },
             {
               "word": "go",
               "charStart": 13,
               "charEnd": 15,
-              "startMs": 1220,
-              "endMs": 1400
+              "startMs": 1000,
+              "endMs": 1160
             },
             {
               "word": "outside",
               "charStart": 16,
               "charEnd": 23,
-              "startMs": 1400,
-              "endMs": 1880
+              "startMs": 1160,
+              "endMs": 1660
             },
             {
               "word": "because",
               "charStart": 24,
               "charEnd": 31,
-              "startMs": 1880,
-              "endMs": 2460
+              "startMs": 1660,
+              "endMs": 2160
             },
             {
               "word": "it",
               "charStart": 32,
               "charEnd": 34,
-              "startMs": 2460,
-              "endMs": 2840
+              "startMs": 2160,
+              "endMs": 2420
             },
             {
               "word": "rained",
               "charStart": 35,
               "charEnd": 41,
-              "startMs": 2840,
-              "endMs": 3000
+              "startMs": 2420,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "Big raindrops hit the window one by one.",
+          "translation_ko": "큰 빗방울이 창문을 하나씩 두드렸어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Big",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "raindrops",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 400,
+              "endMs": 940
+            },
+            {
+              "word": "hit",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1260
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1760
+            },
+            {
+              "word": "window",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 1760
+            },
+            {
+              "word": "one",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2100
+            },
+            {
+              "word": "by",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "one",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2320,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "We pressed our faces to the glass and watched.",
+          "translation_ko": "우리는 유리에 얼굴을 대고 바라보았어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "pressed",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "our",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "faces",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 2060
+            },
+            {
+              "word": "glass",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2060
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2520
+            },
+            {
+              "word": "watched",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2520,
+              "endMs": 2820
             }
           ]
         }
@@ -87,49 +220,175 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 420
+              "endMs": 240
             },
             {
               "word": "first",
               "charStart": 3,
               "charEnd": 8,
-              "startMs": 420,
-              "endMs": 840
+              "startMs": 240,
+              "endMs": 600
             },
             {
               "word": "everyone",
               "charStart": 9,
               "charEnd": 17,
-              "startMs": 1220,
-              "endMs": 1540
+              "startMs": 800,
+              "endMs": 1140
             },
             {
               "word": "felt",
               "charStart": 18,
               "charEnd": 22,
-              "startMs": 1540,
-              "endMs": 1800
+              "startMs": 1140,
+              "endMs": 1440
             },
             {
               "word": "a",
               "charStart": 23,
               "charEnd": 24,
-              "startMs": 1800,
-              "endMs": 1960
+              "startMs": 1440,
+              "endMs": 1660
             },
             {
               "word": "little",
               "charStart": 25,
               "charEnd": 31,
-              "startMs": 1960,
-              "endMs": 2140
+              "startMs": 1660,
+              "endMs": 1860
             },
             {
               "word": "bored",
               "charStart": 32,
               "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2140
+            }
+          ]
+        },
+        {
+          "text": "Some friends put their chins on their desks and sighed.",
+          "translation_ko": "몇몇 친구들은 책상에 턱을 괴고 한숨을 쉬었어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "friends",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 1040
+            },
+            {
+              "word": "put",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1160
+            },
+            {
+              "word": "their",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "chins",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1760
+            },
+            {
+              "word": "on",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "their",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1920,
+              "endMs": 2140
+            },
+            {
+              "word": "desks",
+              "charStart": 38,
+              "charEnd": 43,
               "startMs": 2140,
-              "endMs": 2400
+              "endMs": 2560
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2560,
+              "endMs": 2880
+            },
+            {
+              "word": "sighed",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 2880,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "Nobody knew what to do indoors.",
+          "translation_ko": "실내에서 무엇을 해야 할지 아무도 몰랐어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Nobody",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "knew",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "what",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "do",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 1740
+            },
+            {
+              "word": "indoors",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1740,
+              "endMs": 2160
             }
           ]
         }
@@ -138,8 +397,8 @@
     {
       "sentences": [
         {
-          "text": "Then our teacher opened a box of games.",
-          "translation_ko": "그때 선생님이 게임 상자를 열었어요.",
+          "text": "Then our teacher opened a big box of games.",
+          "translation_ko": "그때 선생님이 큰 게임 상자를 열었어요.",
           "audio": "/seed/daily-48-a-rainy-recess/audio/p3-s1.mp3",
           "wordTimings": [
             {
@@ -147,13 +406,13 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 360
             },
             {
               "word": "our",
               "charStart": 5,
               "charEnd": 8,
-              "startMs": 340,
+              "startMs": 360,
               "endMs": 660
             },
             {
@@ -161,42 +420,175 @@
               "charStart": 9,
               "charEnd": 16,
               "startMs": 660,
-              "endMs": 940
+              "endMs": 980
             },
             {
               "word": "opened",
               "charStart": 17,
               "charEnd": 23,
-              "startMs": 940,
-              "endMs": 1260
+              "startMs": 980,
+              "endMs": 1340
             },
             {
               "word": "a",
               "charStart": 24,
               "charEnd": 25,
-              "startMs": 1260,
-              "endMs": 1640
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "big",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1920
             },
             {
               "word": "box",
-              "charStart": 26,
-              "charEnd": 29,
-              "startMs": 1640,
-              "endMs": 1640
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1920,
+              "endMs": 2180
             },
             {
               "word": "of",
-              "charStart": 30,
-              "charEnd": 32,
-              "startMs": 1640,
-              "endMs": 1840
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2180,
+              "endMs": 2440
             },
             {
               "word": "games",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2440,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "She smiled and said, \"Let's have fun today.\"",
+          "translation_ko": "선생님은 웃으며 말했어요. \"오늘은 신나게 놀자.\"",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 780
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1200
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1320
+            },
+            {
+              "word": "Let's",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1960
+            },
+            {
+              "word": "have",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 2160
+            },
+            {
+              "word": "fun",
               "charStart": 33,
-              "charEnd": 38,
-              "startMs": 1840,
-              "endMs": 2080
+              "charEnd": 36,
+              "startMs": 2160,
+              "endMs": 2440
+            },
+            {
+              "word": "today",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2440,
+              "endMs": 2780
+            }
+          ]
+        },
+        {
+          "text": "Everyone jumped up and rushed over to look.",
+          "translation_ko": "모두 벌떡 일어나 달려와 구경했어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "jumped",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "up",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1780
+            },
+            {
+              "word": "rushed",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1780,
+              "endMs": 1780
+            },
+            {
+              "word": "over",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2100
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "look",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2320,
+              "endMs": 2480
             }
           ]
         }
@@ -205,8 +597,8 @@
     {
       "sentences": [
         {
-          "text": "My friends and I built a tall tower.",
-          "translation_ko": "친구들과 나는 높은 탑을 쌓았어요.",
+          "text": "My friends and I found building blocks in the box.",
+          "translation_ko": "친구들과 나는 상자 안에서 블록을 발견했어요.",
           "audio": "/seed/daily-48-a-rainy-recess/audio/p4-s1.mp3",
           "wordTimings": [
             {
@@ -214,56 +606,196 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 620
+              "endMs": 700
             },
             {
               "word": "friends",
               "charStart": 3,
               "charEnd": 10,
-              "startMs": 620,
-              "endMs": 880
+              "startMs": 700,
+              "endMs": 1040
             },
             {
               "word": "and",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 880,
-              "endMs": 1000
+              "startMs": 1040,
+              "endMs": 1240
             },
             {
               "word": "I",
               "charStart": 15,
               "charEnd": 16,
-              "startMs": 1000,
-              "endMs": 1220
+              "startMs": 1240,
+              "endMs": 1980
+            },
+            {
+              "word": "found",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1980,
+              "endMs": 2320
+            },
+            {
+              "word": "building",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 2320,
+              "endMs": 2700
+            },
+            {
+              "word": "blocks",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2700,
+              "endMs": 3040
+            },
+            {
+              "word": "in",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 3040,
+              "endMs": 3540
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3540,
+              "endMs": 3680
+            },
+            {
+              "word": "box",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3680,
+              "endMs": 3980
+            }
+          ]
+        },
+        {
+          "text": "We worked together and built a tall tower.",
+          "translation_ko": "우리는 힘을 합쳐 높은 탑을 쌓았어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "worked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "together",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1400
             },
             {
               "word": "built",
-              "charStart": 17,
-              "charEnd": 22,
-              "startMs": 1220,
-              "endMs": 1360
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1520
             },
             {
               "word": "a",
-              "charStart": 23,
-              "charEnd": 24,
-              "startMs": 1360,
-              "endMs": 1620
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 1520,
+              "endMs": 1800
             },
             {
               "word": "tall",
-              "charStart": 25,
-              "charEnd": 29,
-              "startMs": 1620,
-              "endMs": 1860
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1800,
+              "endMs": 2100
             },
             {
               "word": "tower",
-              "charStart": 30,
-              "charEnd": 35,
-              "startMs": 1860,
-              "endMs": 2180
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2100,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "It grew taller with every piece we added.",
+          "translation_ko": "블록을 쌓을수록 탑은 점점 높아졌어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "grew",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "taller",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 1080
+            },
+            {
+              "word": "with",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1080,
+              "endMs": 1520
+            },
+            {
+              "word": "every",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 2020
+            },
+            {
+              "word": "piece",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "we",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "added",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2560,
+              "endMs": 2780
             }
           ]
         }
@@ -281,49 +813,203 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 220
             },
             {
               "word": "it",
               "charStart": 5,
               "charEnd": 7,
-              "startMs": 260,
-              "endMs": 500
+              "startMs": 220,
+              "endMs": 420
             },
             {
               "word": "fell",
               "charStart": 8,
               "charEnd": 12,
-              "startMs": 500,
-              "endMs": 740
+              "startMs": 420,
+              "endMs": 680
             },
             {
               "word": "we",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 920,
-              "endMs": 1480
+              "startMs": 800,
+              "endMs": 1320
             },
             {
               "word": "all",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1480,
-              "endMs": 1760
+              "startMs": 1320,
+              "endMs": 1600
             },
             {
               "word": "laughed",
               "charStart": 21,
               "charEnd": 28,
-              "startMs": 1760,
-              "endMs": 2060
+              "startMs": 1600,
+              "endMs": 1900
             },
             {
               "word": "together",
               "charStart": 29,
               "charEnd": 37,
-              "startMs": 2060,
+              "startMs": 1900,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "Blocks scattered all over the floor with a loud crash.",
+          "translation_ko": "블록들이 쿵 소리를 내며 바닥 곳곳에 흩어졌어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Blocks",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "scattered",
+              "charStart": 7,
+              "charEnd": 16,
+              "startMs": 500,
+              "endMs": 920
+            },
+            {
+              "word": "all",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1260
+            },
+            {
+              "word": "over",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "floor",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1620,
+              "endMs": 1780
+            },
+            {
+              "word": "with",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1780,
+              "endMs": 2000
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2000,
+              "endMs": 2340
+            },
+            {
+              "word": "loud",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2340,
+              "endMs": 2400
+            },
+            {
+              "word": "crash",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2400,
+              "endMs": 2900
+            }
+          ]
+        },
+        {
+          "text": "We looked at each other and started to build again.",
+          "translation_ko": "우리는 서로를 바라보며 다시 쌓기 시작했어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "looked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "at",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 820
+            },
+            {
+              "word": "each",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1000
+            },
+            {
+              "word": "other",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1220,
+              "endMs": 1660
+            },
+            {
+              "word": "started",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1660,
+              "endMs": 1920
+            },
+            {
+              "word": "to",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "build",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2260,
               "endMs": 2440
+            },
+            {
+              "word": "again",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2440,
+              "endMs": 2800
             }
           ]
         }
@@ -341,56 +1027,175 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 900
+              "endMs": 360
             },
             {
               "word": "drew",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 900,
-              "endMs": 1160
+              "startMs": 360,
+              "endMs": 700
             },
             {
               "word": "a",
               "charStart": 9,
               "charEnd": 10,
-              "startMs": 1160,
-              "endMs": 1420
+              "startMs": 700,
+              "endMs": 1060
             },
             {
               "word": "funny",
               "charStart": 11,
               "charEnd": 16,
-              "startMs": 1420,
-              "endMs": 1620
+              "startMs": 1060,
+              "endMs": 1240
             },
             {
               "word": "picture",
               "charStart": 17,
               "charEnd": 24,
-              "startMs": 1620,
-              "endMs": 1920
+              "startMs": 1240,
+              "endMs": 1600
             },
             {
               "word": "of",
               "charStart": 25,
               "charEnd": 27,
-              "startMs": 1920,
-              "endMs": 2180
+              "startMs": 1600,
+              "endMs": 1900
             },
             {
               "word": "our",
               "charStart": 28,
               "charEnd": 31,
-              "startMs": 2180,
-              "endMs": 2320
+              "startMs": 1900,
+              "endMs": 2100
             },
             {
               "word": "class",
               "charStart": 32,
               "charEnd": 37,
-              "startMs": 2320,
-              "endMs": 2680
+              "startMs": 2100,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "She gave everyone big eyes and wide smiles.",
+          "translation_ko": "민이는 모두에게 큰 눈과 환한 미소를 그려 넣었어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "gave",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 740
+            },
+            {
+              "word": "everyone",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 1360
+            },
+            {
+              "word": "big",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1760
+            },
+            {
+              "word": "eyes",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1760,
+              "endMs": 2140
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2140,
+              "endMs": 2460
+            },
+            {
+              "word": "wide",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2460,
+              "endMs": 2760
+            },
+            {
+              "word": "smiles",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2760,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "We crowded around her desk and giggled.",
+          "translation_ko": "우리는 민이의 책상 주위에 모여 킥킥댔어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "crowded",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "around",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "her",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1260
+            },
+            {
+              "word": "desk",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1560,
+              "endMs": 1920
+            },
+            {
+              "word": "giggled",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2220
             }
           ]
         }
@@ -422,35 +1227,175 @@
               "charStart": 10,
               "charEnd": 17,
               "startMs": 780,
-              "endMs": 1400
+              "endMs": 1420
             },
             {
               "word": "so",
               "charStart": 18,
               "charEnd": 20,
-              "startMs": 1400,
-              "endMs": 1640
+              "startMs": 1420,
+              "endMs": 1840
             },
             {
               "word": "everyone",
               "charStart": 21,
               "charEnd": 29,
-              "startMs": 1640,
-              "endMs": 2140
+              "startMs": 1840,
+              "endMs": 2420
             },
             {
               "word": "could",
               "charStart": 30,
               "charEnd": 35,
-              "startMs": 2140,
-              "endMs": 2460
+              "startMs": 2420,
+              "endMs": 2720
             },
             {
               "word": "join",
               "charStart": 36,
               "charEnd": 40,
-              "startMs": 2460,
-              "endMs": 2680
+              "startMs": 2720,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "Some friends colored the sky, and others drew the rain.",
+          "translation_ko": "어떤 친구들은 하늘을 색칠하고 어떤 친구들은 비를 그렸어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "friends",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 640
+            },
+            {
+              "word": "colored",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "sky",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1500,
+              "endMs": 1940
+            },
+            {
+              "word": "others",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "drew",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2180,
+              "endMs": 2360
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "rain",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2620,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "The classroom felt warm even with rain outside.",
+          "translation_ko": "밖에 비가 내려도 교실 안은 따뜻하게 느껴졌어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "classroom",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 1100
+            },
+            {
+              "word": "felt",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "warm",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1440,
+              "endMs": 1860
+            },
+            {
+              "word": "even",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2320,
+              "endMs": 2400
+            },
+            {
+              "word": "with",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2400,
+              "endMs": 2660
+            },
+            {
+              "word": "rain",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2660,
+              "endMs": 2860
+            },
+            {
+              "word": "outside",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2860,
+              "endMs": 3340
             }
           ]
         }
@@ -468,42 +1413,182 @@
               "charStart": 0,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 600
+              "endMs": 500
             },
             {
               "word": "ended",
               "charStart": 7,
               "charEnd": 12,
-              "startMs": 600,
-              "endMs": 980
+              "startMs": 500,
+              "endMs": 860
             },
             {
               "word": "before",
               "charStart": 13,
               "charEnd": 19,
-              "startMs": 980,
-              "endMs": 1360
+              "startMs": 860,
+              "endMs": 1240
             },
             {
               "word": "we",
               "charStart": 20,
               "charEnd": 22,
-              "startMs": 1360,
-              "endMs": 1580
+              "startMs": 1240,
+              "endMs": 1460
             },
             {
               "word": "even",
               "charStart": 23,
               "charEnd": 27,
-              "startMs": 1580,
-              "endMs": 1880
+              "startMs": 1460,
+              "endMs": 1800
             },
             {
               "word": "noticed",
               "charStart": 28,
               "charEnd": 35,
-              "startMs": 1880,
-              "endMs": 2180
+              "startMs": 1800,
+              "endMs": 2140
+            }
+          ]
+        },
+        {
+          "text": "The bell rang and we all said, \"Already?\"",
+          "translation_ko": "종이 울리자 우리는 모두 \"벌써요?\"라고 말했어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "bell",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "rang",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1160
+            },
+            {
+              "word": "we",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "all",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 1600
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1940
+            },
+            {
+              "word": "Already",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "We put everything away and sat back at our desks.",
+          "translation_ko": "우리는 모두 정리하고 자리로 돌아가 앉았어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "put",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 480
+            },
+            {
+              "word": "everything",
+              "charStart": 7,
+              "charEnd": 17,
+              "startMs": 480,
+              "endMs": 960
+            },
+            {
+              "word": "away",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 960,
+              "endMs": 1360
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1360,
+              "endMs": 1860
+            },
+            {
+              "word": "sat",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "back",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2400
+            },
+            {
+              "word": "at",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2400,
+              "endMs": 2620
+            },
+            {
+              "word": "our",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "desks",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2840,
+              "endMs": 3220
             }
           ]
         }
@@ -521,49 +1606,189 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 640
+              "endMs": 280
             },
             {
               "word": "rainy",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 640,
-              "endMs": 880
+              "startMs": 280,
+              "endMs": 480
             },
             {
               "word": "day",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 880,
-              "endMs": 1300
+              "startMs": 480,
+              "endMs": 940
             },
             {
               "word": "became",
               "charStart": 12,
               "charEnd": 18,
-              "startMs": 1300,
-              "endMs": 1800
+              "startMs": 940,
+              "endMs": 1400
             },
             {
               "word": "a",
               "charStart": 19,
               "charEnd": 20,
-              "startMs": 1800,
-              "endMs": 2180
+              "startMs": 1400,
+              "endMs": 1980
             },
             {
               "word": "happy",
               "charStart": 21,
               "charEnd": 26,
-              "startMs": 2180,
-              "endMs": 2280
+              "startMs": 1980,
+              "endMs": 2000
             },
             {
               "word": "memory",
               "charStart": 27,
               "charEnd": 33,
-              "startMs": 2280,
-              "endMs": 2600
+              "startMs": 2000,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "I hope it rains again at recess.",
+          "translation_ko": "다음 쉬는 시간에도 비가 내리면 좋겠다고 생각했어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "hope",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "it",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 920
+            },
+            {
+              "word": "rains",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "again",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1600
+            },
+            {
+              "word": "at",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1760
+            },
+            {
+              "word": "recess",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1760,
+              "endMs": 1980
+            }
+          ]
+        },
+        {
+          "text": "Rainy days inside can be just as fun as sunny days.",
+          "translation_ko": "실내에서 보내는 비 오는 날도 맑은 날만큼 즐거울 수 있어요.",
+          "audio": "/seed/daily-48-a-rainy-recess/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Rainy",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "days",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 800,
+              "endMs": 800
+            },
+            {
+              "word": "inside",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 1360
+            },
+            {
+              "word": "can",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1600
+            },
+            {
+              "word": "be",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1800
+            },
+            {
+              "word": "just",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "as",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2100,
+              "endMs": 2520
+            },
+            {
+              "word": "fun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2520,
+              "endMs": 2540
+            },
+            {
+              "word": "as",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2540,
+              "endMs": 2940
+            },
+            {
+              "word": "sunny",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2940,
+              "endMs": 3080
+            },
+            {
+              "word": "days",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3080,
+              "endMs": 3460
             }
           ]
         }
@@ -594,7 +1819,7 @@
         "책가방"
       ],
       "answerIndex": 0,
-      "explain_ko": "a box of games — 게임 상자예요."
+      "explain_ko": "a big box of games — 큰 게임 상자예요."
     },
     {
       "question_ko": "친구들과 무엇을 쌓았나요?",

@@ -20,56 +20,175 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 640
+              "endMs": 320
             },
             {
               "word": "class",
               "charStart": 4,
               "charEnd": 9,
-              "startMs": 640,
-              "endMs": 940
+              "startMs": 320,
+              "endMs": 640
             },
             {
               "word": "has",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 940,
-              "endMs": 1200
+              "startMs": 640,
+              "endMs": 920
             },
             {
               "word": "a",
               "charStart": 14,
               "charEnd": 15,
-              "startMs": 1200,
-              "endMs": 1400
+              "startMs": 920,
+              "endMs": 1100
             },
             {
               "word": "small",
               "charStart": 16,
               "charEnd": 21,
-              "startMs": 1400,
-              "endMs": 1700
+              "startMs": 1100,
+              "endMs": 1420
             },
             {
               "word": "science",
               "charStart": 22,
               "charEnd": 29,
-              "startMs": 1700,
-              "endMs": 2100
+              "startMs": 1420,
+              "endMs": 1800
             },
             {
               "word": "fair",
               "charStart": 30,
               "charEnd": 34,
-              "startMs": 2100,
-              "endMs": 2300
+              "startMs": 1800,
+              "endMs": 2000
             },
             {
               "word": "today",
               "charStart": 35,
               "charEnd": 40,
-              "startMs": 2300,
+              "startMs": 2000,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "Everyone brings a project to show the class.",
+          "translation_ko": "모두들 반 친구들에게 보여 줄 프로젝트를 가져와요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "brings",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1560
+            },
+            {
+              "word": "project",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "to",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2020
+            },
+            {
+              "word": "show",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2340
+            },
+            {
+              "word": "class",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2340,
               "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "I am nervous, but I am ready.",
+          "translation_ko": "조금 떨리지만 나는 준비가 되어 있어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 140,
+              "endMs": 340
+            },
+            {
+              "word": "nervous",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 720
+            },
+            {
+              "word": "but",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1140
+            },
+            {
+              "word": "I",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1240
+            },
+            {
+              "word": "am",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1420
+            },
+            {
+              "word": "ready",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1420,
+              "endMs": 1600
             }
           ]
         }
@@ -87,56 +206,203 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 120
+              "endMs": 220
             },
             {
               "word": "bring",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 120,
-              "endMs": 340
+              "startMs": 220,
+              "endMs": 460
             },
             {
               "word": "a",
               "charStart": 8,
               "charEnd": 9,
-              "startMs": 340,
-              "endMs": 540
+              "startMs": 460,
+              "endMs": 820
             },
             {
               "word": "cup",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 540,
-              "endMs": 740
+              "startMs": 820,
+              "endMs": 880
             },
             {
               "word": "with",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 740,
-              "endMs": 1020
+              "startMs": 880,
+              "endMs": 1180
             },
             {
               "word": "three",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 1020,
-              "endMs": 1320
+              "startMs": 1180,
+              "endMs": 1520
             },
             {
               "word": "bean",
               "charStart": 25,
               "charEnd": 29,
-              "startMs": 1320,
-              "endMs": 1620
+              "startMs": 1520,
+              "endMs": 1820
             },
             {
               "word": "seeds",
               "charStart": 30,
               "charEnd": 35,
-              "startMs": 1620,
-              "endMs": 1940
+              "startMs": 1820,
+              "endMs": 2120
+            }
+          ]
+        },
+        {
+          "text": "I planted them one week ago and watched them grow.",
+          "translation_ko": "일주일 전에 심고 자라는 것을 지켜봤어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "planted",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "them",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 540,
+              "endMs": 820
+            },
+            {
+              "word": "one",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 820,
+              "endMs": 1120
+            },
+            {
+              "word": "week",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1360
+            },
+            {
+              "word": "ago",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 2060
+            },
+            {
+              "word": "watched",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "them",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2360,
+              "endMs": 2600
+            },
+            {
+              "word": "grow",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2600,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "Now the tiny green sprouts are standing up straight.",
+          "translation_ko": "이제 작고 초록색인 새싹이 똑바로 서 있어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 540
+            },
+            {
+              "word": "tiny",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "green",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1280
+            },
+            {
+              "word": "sprouts",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1280,
+              "endMs": 1640
+            },
+            {
+              "word": "are",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 2000
+            },
+            {
+              "word": "standing",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 2000,
+              "endMs": 2280
+            },
+            {
+              "word": "up",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2580
+            },
+            {
+              "word": "straight",
+              "charStart": 43,
+              "charEnd": 51,
+              "startMs": 2580,
+              "endMs": 2840
             }
           ]
         }
@@ -154,56 +420,154 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 880
+              "endMs": 420
             },
             {
               "word": "I",
               "charStart": 7,
               "charEnd": 8,
-              "startMs": 1200,
-              "endMs": 1520
+              "startMs": 780,
+              "endMs": 1100
             },
             {
               "word": "show",
               "charStart": 9,
               "charEnd": 13,
-              "startMs": 1520,
-              "endMs": 1720
+              "startMs": 1100,
+              "endMs": 1300
             },
             {
               "word": "how",
               "charStart": 14,
               "charEnd": 17,
-              "startMs": 1720,
-              "endMs": 1880
+              "startMs": 1300,
+              "endMs": 1480
             },
             {
               "word": "the",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1880,
-              "endMs": 2200
+              "startMs": 1480,
+              "endMs": 1760
             },
             {
               "word": "roots",
               "charStart": 22,
               "charEnd": 27,
-              "startMs": 2200,
-              "endMs": 2320
+              "startMs": 1760,
+              "endMs": 1920
             },
             {
               "word": "grew",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 2320,
-              "endMs": 2640
+              "startMs": 1920,
+              "endMs": 2240
             },
             {
               "word": "down",
               "charStart": 33,
               "charEnd": 37,
-              "startMs": 2640,
-              "endMs": 2980
+              "startMs": 2240,
+              "endMs": 2620
+            }
+          ]
+        },
+        {
+          "text": "The roots look like thin white strings, and I point to each one.",
+          "translation_ko": "뿌리는 가느다란 하얀 실처럼 보이고, 나는 하나하나 가리켜요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "roots",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "look",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 1100
+            },
+            {
+              "word": "like",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "thin",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "white",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 1960
+            },
+            {
+              "word": "strings",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1960,
+              "endMs": 2440
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2920,
+              "endMs": 2960
+            },
+            {
+              "word": "I",
+              "charStart": 44,
+              "charEnd": 45,
+              "startMs": 2960,
+              "endMs": 3220
+            },
+            {
+              "word": "point",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3220,
+              "endMs": 3340
+            },
+            {
+              "word": "to",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3340,
+              "endMs": 3540
+            },
+            {
+              "word": "each",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3540,
+              "endMs": 3840
+            },
+            {
+              "word": "one",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3840,
+              "endMs": 4080
             }
           ]
         }
@@ -221,56 +585,147 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 660
             },
             {
               "word": "I",
               "charStart": 5,
               "charEnd": 6,
-              "startMs": 340,
-              "endMs": 580
+              "startMs": 660,
+              "endMs": 900
             },
             {
               "word": "explain",
               "charStart": 7,
               "charEnd": 14,
-              "startMs": 580,
-              "endMs": 1060
+              "startMs": 900,
+              "endMs": 1360
             },
             {
               "word": "why",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 1060,
-              "endMs": 1360
+              "startMs": 1360,
+              "endMs": 1620
             },
             {
               "word": "the",
               "charStart": 19,
               "charEnd": 22,
-              "startMs": 1360,
-              "endMs": 1680
+              "startMs": 1620,
+              "endMs": 1960
             },
             {
               "word": "leaves",
               "charStart": 23,
               "charEnd": 29,
-              "startMs": 1680,
-              "endMs": 1800
+              "startMs": 1960,
+              "endMs": 2020
             },
             {
               "word": "need",
               "charStart": 30,
               "charEnd": 34,
-              "startMs": 1800,
-              "endMs": 2120
+              "startMs": 2020,
+              "endMs": 2320
             },
             {
               "word": "light",
               "charStart": 35,
               "charEnd": 40,
-              "startMs": 2120,
-              "endMs": 2400
+              "startMs": 2320,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "Leaves use sunlight to make food, and without light they turn yellow.",
+          "translation_ko": "잎은 햇빛으로 먹이를 만들고, 빛이 없으면 노랗게 변해요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Leaves",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "use",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "sunlight",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "make",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1700
+            },
+            {
+              "word": "food",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 2040
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2520,
+              "endMs": 2640
+            },
+            {
+              "word": "without",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 2900
+            },
+            {
+              "word": "light",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2900,
+              "endMs": 3140
+            },
+            {
+              "word": "they",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3140,
+              "endMs": 3400
+            },
+            {
+              "word": "turn",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3400,
+              "endMs": 3620
+            },
+            {
+              "word": "yellow",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3620,
+              "endMs": 3920
             }
           ]
         }
@@ -288,49 +743,203 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 400
             },
             {
               "word": "chart",
               "charStart": 3,
               "charEnd": 8,
-              "startMs": 280,
-              "endMs": 520
+              "startMs": 400,
+              "endMs": 660
             },
             {
               "word": "has",
               "charStart": 9,
               "charEnd": 12,
-              "startMs": 520,
-              "endMs": 880
+              "startMs": 660,
+              "endMs": 1000
             },
             {
               "word": "pictures",
               "charStart": 13,
               "charEnd": 21,
-              "startMs": 880,
-              "endMs": 1200
+              "startMs": 1000,
+              "endMs": 1460
             },
             {
               "word": "from",
               "charStart": 22,
               "charEnd": 26,
-              "startMs": 1200,
-              "endMs": 1520
+              "startMs": 1460,
+              "endMs": 1800
             },
             {
               "word": "each",
               "charStart": 27,
               "charEnd": 31,
-              "startMs": 1520,
-              "endMs": 1780
+              "startMs": 1800,
+              "endMs": 2120
             },
             {
               "word": "day",
               "charStart": 32,
               "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2420
+            }
+          ]
+        },
+        {
+          "text": "On day one, the seeds were still small and hard.",
+          "translation_ko": "첫날에는 씨앗이 아직 작고 딱딱했어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "day",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "one",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 800
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "seeds",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1520
+            },
+            {
+              "word": "were",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "still",
+              "charStart": 27,
+              "charEnd": 32,
               "startMs": 1780,
-              "endMs": 2040
+              "endMs": 2120
+            },
+            {
+              "word": "small",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2520
+            },
+            {
+              "word": "and",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2520,
+              "endMs": 3040
+            },
+            {
+              "word": "hard",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3040,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "By day seven, the sprouts were almost five centimeters tall.",
+          "translation_ko": "일곱째 날에는 새싹이 거의 5센티미터나 자랐어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "day",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 160,
+              "endMs": 480
+            },
+            {
+              "word": "seven",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "sprouts",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1600
+            },
+            {
+              "word": "were",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1600,
+              "endMs": 1900
+            },
+            {
+              "word": "almost",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 1900,
+              "endMs": 2260
+            },
+            {
+              "word": "five",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2260,
+              "endMs": 2720
+            },
+            {
+              "word": "centimeters",
+              "charStart": 43,
+              "charEnd": 54,
+              "startMs": 2720,
+              "endMs": 3200
+            },
+            {
+              "word": "tall",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3200,
+              "endMs": 3560
             }
           ]
         }
@@ -348,27 +957,27 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 480
+              "endMs": 420
             },
             {
               "word": "seeds",
               "charStart": 5,
               "charEnd": 10,
-              "startMs": 480,
-              "endMs": 800
+              "startMs": 420,
+              "endMs": 780
             },
             {
               "word": "grew",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 800,
-              "endMs": 1100
+              "startMs": 780,
+              "endMs": 1080
             },
             {
               "word": "faster",
               "charStart": 16,
               "charEnd": 22,
-              "startMs": 1100,
+              "startMs": 1080,
               "endMs": 1560
             },
             {
@@ -383,14 +992,168 @@
               "charStart": 28,
               "charEnd": 31,
               "startMs": 1780,
-              "endMs": 2060
+              "endMs": 1980
             },
             {
               "word": "others",
               "charStart": 32,
               "charEnd": 38,
-              "startMs": 2060,
-              "endMs": 2280
+              "startMs": 1980,
+              "endMs": 2240
+            }
+          ]
+        },
+        {
+          "text": "I think the seed near the window got more sunlight.",
+          "translation_ko": "창문 가까이 있던 씨앗이 햇빛을 더 많이 받은 것 같아요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "think",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 340
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "seed",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 800
+            },
+            {
+              "word": "near",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 980,
+              "endMs": 1440
+            },
+            {
+              "word": "window",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1440,
+              "endMs": 1440
+            },
+            {
+              "word": "got",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1440,
+              "endMs": 1840
+            },
+            {
+              "word": "more",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 1840,
+              "endMs": 2100
+            },
+            {
+              "word": "sunlight",
+              "charStart": 42,
+              "charEnd": 50,
+              "startMs": 2100,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "That is why it grew the tallest of the three.",
+          "translation_ko": "그래서 세 개 중에서 가장 키가 컸어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 540
+            },
+            {
+              "word": "why",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 720
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 940
+            },
+            {
+              "word": "grew",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "tallest",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1260,
+              "endMs": 1660
+            },
+            {
+              "word": "of",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1660,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1940,
+              "endMs": 2160
+            },
+            {
+              "word": "three",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2160,
+              "endMs": 2300
             }
           ]
         }
@@ -408,49 +1171,203 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 800
             },
             {
               "word": "teacher",
               "charStart": 3,
               "charEnd": 10,
-              "startMs": 220,
-              "endMs": 500
+              "startMs": 800,
+              "endMs": 1100
             },
             {
               "word": "says",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 500,
-              "endMs": 900
+              "startMs": 1100,
+              "endMs": 1420
             },
             {
               "word": "my",
               "charStart": 16,
               "charEnd": 18,
-              "startMs": 900,
-              "endMs": 1100
+              "startMs": 1420,
+              "endMs": 1620
             },
             {
               "word": "notes",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 1100,
-              "endMs": 1300
+              "startMs": 1620,
+              "endMs": 1800
             },
             {
               "word": "are",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 1300,
-              "endMs": 1520
+              "startMs": 1800,
+              "endMs": 2020
             },
             {
               "word": "clear",
               "charStart": 29,
               "charEnd": 34,
-              "startMs": 1520,
-              "endMs": 1780
+              "startMs": 2020,
+              "endMs": 2240
+            }
+          ]
+        },
+        {
+          "text": "She likes that I wrote the date and height.",
+          "translation_ko": "선생님은 내가 날짜와 키를 적은 것을 마음에 들어하세요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "likes",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "that",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 780
+            },
+            {
+              "word": "I",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "wrote",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1080
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "date",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1360,
+              "endMs": 1600
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "height",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 1880,
+              "endMs": 2060
+            }
+          ]
+        },
+        {
+          "text": "She asks me to share my chart with the whole class.",
+          "translation_ko": "선생님은 나에게 반 친구들 모두에게 표를 보여 달라고 해요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "asks",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "me",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 960
+            },
+            {
+              "word": "to",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1400
+            },
+            {
+              "word": "share",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1540
+            },
+            {
+              "word": "my",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "chart",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2080
+            },
+            {
+              "word": "with",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2420
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2520
+            },
+            {
+              "word": "whole",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2520,
+              "endMs": 2780
+            },
+            {
+              "word": "class",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2780,
+              "endMs": 3100
             }
           ]
         }
@@ -468,49 +1385,196 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 1020
+              "endMs": 340
             },
             {
               "word": "feel",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 1020,
-              "endMs": 1260
+              "startMs": 340,
+              "endMs": 600
             },
             {
               "word": "like",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 1260,
-              "endMs": 1440
+              "startMs": 600,
+              "endMs": 840
             },
             {
               "word": "a",
               "charStart": 12,
               "charEnd": 13,
-              "startMs": 1440,
-              "endMs": 1660
+              "startMs": 840,
+              "endMs": 1060
             },
             {
               "word": "real",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 1660,
-              "endMs": 2000
+              "startMs": 1060,
+              "endMs": 1380
             },
             {
               "word": "young",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 2420,
-              "endMs": 2640
+              "startMs": 1380,
+              "endMs": 1720
             },
             {
               "word": "scientist",
               "charStart": 25,
               "charEnd": 34,
-              "startMs": 2640,
-              "endMs": 3000
+              "startMs": 1720,
+              "endMs": 2060
+            }
+          ]
+        },
+        {
+          "text": "I learned that seeds need water, light, and time to grow.",
+          "translation_ko": "씨앗이 자라려면 물과 빛과 시간이 필요하다는 것을 배웠어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "learned",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 420
+            },
+            {
+              "word": "that",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 840
+            },
+            {
+              "word": "seeds",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "need",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1080,
+              "endMs": 1460
+            },
+            {
+              "word": "water",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "light",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2420
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2780,
+              "endMs": 2940
+            },
+            {
+              "word": "time",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 3180
+            },
+            {
+              "word": "to",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3180,
+              "endMs": 3480
+            },
+            {
+              "word": "grow",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3480,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "Next time, I want to try growing sunflowers.",
+          "translation_ko": "다음에는 해바라기를 키워 보고 싶어요.",
+          "audio": "/seed/daily-29-the-small-science-fair/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Next",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "time",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 720
+            },
+            {
+              "word": "I",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1160,
+              "endMs": 1260
+            },
+            {
+              "word": "want",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1580
+            },
+            {
+              "word": "try",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "growing",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2200
+            },
+            {
+              "word": "sunflowers",
+              "charStart": 33,
+              "charEnd": 43,
+              "startMs": 2200,
+              "endMs": 2920
             }
           ]
         }

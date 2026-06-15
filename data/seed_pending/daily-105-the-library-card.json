@@ -1,0 +1,1564 @@
+{
+  "slug": "daily-105-the-library-card",
+  "title": "The Library Card",
+  "title_ko": "도서관 카드",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "준이 처음으로 도서관 카드를 만들고 스스로 책을 빌리는 설레는 하루 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun's class went to the school library today.",
+          "translation_ko": "오늘 준의 반은 학교 도서관에 갔어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun's",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "class",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 900
+            },
+            {
+              "word": "went",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "school",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1520,
+              "endMs": 1740
+            },
+            {
+              "word": "library",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1740,
+              "endMs": 2140
+            },
+            {
+              "word": "today",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2140,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "Jun had never made a library card before.",
+          "translation_ko": "준은 도서관 카드를 한 번도 만들어 본 적이 없었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 660
+            },
+            {
+              "word": "never",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 960
+            },
+            {
+              "word": "made",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "library",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "card",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1660,
+              "endMs": 1940
+            },
+            {
+              "word": "before",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1940,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park explained how the library works.",
+          "translation_ko": "박 선생님이 도서관 이용 방법을 설명해 주었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 900
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "explained",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 2220
+            },
+            {
+              "word": "how",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 2220,
+              "endMs": 2440
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2440,
+              "endMs": 3040
+            },
+            {
+              "word": "library",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 3040,
+              "endMs": 3040
+            },
+            {
+              "word": "works",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 3040,
+              "endMs": 3500
+            }
+          ]
+        },
+        {
+          "text": "\"You need a library card to borrow books,\" she said.",
+          "translation_ko": "\"책을 빌리려면 도서관 카드가 필요해,\" 선생님이 말했어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "need",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 940
+            },
+            {
+              "word": "library",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "card",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1200,
+              "endMs": 1540
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1780
+            },
+            {
+              "word": "borrow",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 1960
+            },
+            {
+              "word": "books",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 1960,
+              "endMs": 2760
+            },
+            {
+              "word": "she",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2760,
+              "endMs": 2860
+            },
+            {
+              "word": "said",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2860,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park handed Jun an application form.",
+          "translation_ko": "박 선생님이 준에게 신청서를 건네주었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 540
+            },
+            {
+              "word": "handed",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "Jun",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "an",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "application",
+              "charStart": 23,
+              "charEnd": 34,
+              "startMs": 1460,
+              "endMs": 1920
+            },
+            {
+              "word": "form",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1920,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "\"Write your name and student number,\" she said.",
+          "translation_ko": "\"이름이랑 학번을 써 넣어,\" 선생님이 말했어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Write",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "your",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 640
+            },
+            {
+              "word": "name",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "student",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "number",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1620,
+              "endMs": 2360
+            },
+            {
+              "word": "she",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2360,
+              "endMs": 2500
+            },
+            {
+              "word": "said",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2500,
+              "endMs": 2740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun wrote his name carefully in the small boxes.",
+          "translation_ko": "준은 작은 칸에 이름을 또박또박 적었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1080
+            },
+            {
+              "word": "name",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1320
+            },
+            {
+              "word": "carefully",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1320,
+              "endMs": 1820
+            },
+            {
+              "word": "in",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2380
+            },
+            {
+              "word": "small",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2380,
+              "endMs": 2600
+            },
+            {
+              "word": "boxes",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2600,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "His hand shook because he was so excited.",
+          "translation_ko": "너무 설레서 손이 떨렸어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "hand",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 860
+            },
+            {
+              "word": "shook",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1200
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1780
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1780,
+              "endMs": 1960
+            },
+            {
+              "word": "was",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1960,
+              "endMs": 2120
+            },
+            {
+              "word": "so",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2500
+            },
+            {
+              "word": "excited",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2500,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The librarian smiled and gave Jun a blue card.",
+          "translation_ko": "사서 선생님이 미소를 지으며 준에게 파란 카드를 건네주었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "librarian",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 240,
+              "endMs": 780
+            },
+            {
+              "word": "smiled",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 780,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 2080
+            },
+            {
+              "word": "gave",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "Jun",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2260,
+              "endMs": 2680
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 2680,
+              "endMs": 3160
+            },
+            {
+              "word": "blue",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3160,
+              "endMs": 3400
+            },
+            {
+              "word": "card",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3400,
+              "endMs": 3680
+            }
+          ]
+        },
+        {
+          "text": "\"This is your library card. Take good care of it,\" she said.",
+          "translation_ko": "\"이게 네 도서관 카드야. 잘 간직하렴,\" 사서 선생님이 말했어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 760
+            },
+            {
+              "word": "your",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "library",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "card",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "Take",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2700,
+              "endMs": 2800
+            },
+            {
+              "word": "good",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2800,
+              "endMs": 3080
+            },
+            {
+              "word": "care",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3080,
+              "endMs": 3280
+            },
+            {
+              "word": "of",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3280,
+              "endMs": 3440
+            },
+            {
+              "word": "it",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3440,
+              "endMs": 3920
+            },
+            {
+              "word": "she",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3920,
+              "endMs": 4080
+            },
+            {
+              "word": "said",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 4080,
+              "endMs": 4320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun held the card tightly and walked to the shelves.",
+          "translation_ko": "준은 카드를 꼭 쥐고 책장 쪽으로 걸어갔어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "held",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 720,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 940,
+              "endMs": 1120
+            },
+            {
+              "word": "card",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "tightly",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1680,
+              "endMs": 2160
+            },
+            {
+              "word": "walked",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2160,
+              "endMs": 2360
+            },
+            {
+              "word": "to",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2520,
+              "endMs": 2960
+            },
+            {
+              "word": "shelves",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2960,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "He found a book about space because he loves stars.",
+          "translation_ko": "별을 좋아하기 때문에 우주에 관한 책을 골랐어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "found",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 460
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 660
+            },
+            {
+              "word": "book",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 780
+            },
+            {
+              "word": "about",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 780,
+              "endMs": 1100
+            },
+            {
+              "word": "space",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1100,
+              "endMs": 1460
+            },
+            {
+              "word": "because",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "he",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "loves",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "stars",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2280,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun brought the book to the desk and showed his card.",
+          "translation_ko": "준은 책을 들고 카운터로 가서 카드를 내밀었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "brought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "book",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1220
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1400,
+              "endMs": 1740
+            },
+            {
+              "word": "desk",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1740,
+              "endMs": 1840
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1840,
+              "endMs": 2240
+            },
+            {
+              "word": "showed",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2240,
+              "endMs": 2440
+            },
+            {
+              "word": "his",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2440,
+              "endMs": 2660
+            },
+            {
+              "word": "card",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2660,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "The librarian scanned it and stamped the due date.",
+          "translation_ko": "사서 선생님이 카드를 스캔하고 반납일 도장을 찍어 주었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "librarian",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 420,
+              "endMs": 1000
+            },
+            {
+              "word": "scanned",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1000,
+              "endMs": 1480
+            },
+            {
+              "word": "it",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1740,
+              "endMs": 2300
+            },
+            {
+              "word": "stamped",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2300,
+              "endMs": 2580
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2580,
+              "endMs": 2780
+            },
+            {
+              "word": "due",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2780,
+              "endMs": 2920
+            },
+            {
+              "word": "date",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2920,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"How do you feel?\" Ms. Park asked.",
+          "translation_ko": "\"어때?\" 박 선생님이 물었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "How",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "do",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 400
+            },
+            {
+              "word": "you",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 620
+            },
+            {
+              "word": "feel",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 620,
+              "endMs": 900
+            },
+            {
+              "word": "Ms",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1540,
+              "endMs": 1880
+            },
+            {
+              "word": "Park",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "asked",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "\"I feel like I can read every book here!\" Jun said with a big smile.",
+          "translation_ko": "\"여기 있는 책을 다 읽을 수 있을 것 같아요!\" 준이 활짝 웃으며 말했어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "feel",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 780
+            },
+            {
+              "word": "like",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1020
+            },
+            {
+              "word": "I",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 1020,
+              "endMs": 1220
+            },
+            {
+              "word": "can",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "read",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "every",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 2260
+            },
+            {
+              "word": "book",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "here",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2480,
+              "endMs": 3320
+            },
+            {
+              "word": "Jun",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3320,
+              "endMs": 3400
+            },
+            {
+              "word": "said",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3400,
+              "endMs": 3700
+            },
+            {
+              "word": "with",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3700,
+              "endMs": 3860
+            },
+            {
+              "word": "a",
+              "charStart": 56,
+              "charEnd": 57,
+              "startMs": 3860,
+              "endMs": 4080
+            },
+            {
+              "word": "big",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 4080,
+              "endMs": 4320
+            },
+            {
+              "word": "smile",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 4320,
+              "endMs": 4680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun put the card in his wallet so he would not lose it.",
+          "translation_ko": "잃어버리지 않으려고 지갑에 카드를 넣었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "put",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 860,
+              "endMs": 1080
+            },
+            {
+              "word": "card",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "in",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "his",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1580,
+              "endMs": 1800
+            },
+            {
+              "word": "wallet",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 2060
+            },
+            {
+              "word": "so",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2620
+            },
+            {
+              "word": "he",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2620,
+              "endMs": 2820
+            },
+            {
+              "word": "would",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2820,
+              "endMs": 2960
+            },
+            {
+              "word": "not",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2960,
+              "endMs": 3220
+            },
+            {
+              "word": "lose",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3220,
+              "endMs": 3420
+            },
+            {
+              "word": "it",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3420,
+              "endMs": 3620
+            }
+          ]
+        },
+        {
+          "text": "He could not wait to borrow more books next time.",
+          "translation_ko": "다음에 또 책을 빌리고 싶어 벌써 설레었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "could",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 420
+            },
+            {
+              "word": "not",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 740
+            },
+            {
+              "word": "wait",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 980
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 980,
+              "endMs": 1220
+            },
+            {
+              "word": "borrow",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1220,
+              "endMs": 1340
+            },
+            {
+              "word": "more",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1340,
+              "endMs": 1720
+            },
+            {
+              "word": "books",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1720,
+              "endMs": 1940
+            },
+            {
+              "word": "next",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 1940,
+              "endMs": 2260
+            },
+            {
+              "word": "time",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2260,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That night, Jun read three chapters before bed.",
+          "translation_ko": "그날 밤, 준은 잠들기 전에 세 챕터를 읽었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "night",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "Jun",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "read",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1460
+            },
+            {
+              "word": "three",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1840
+            },
+            {
+              "word": "chapters",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 1840,
+              "endMs": 2180
+            },
+            {
+              "word": "before",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2180,
+              "endMs": 2560
+            },
+            {
+              "word": "bed",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2560,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "He decided to visit the library every week.",
+          "translation_ko": "매주 도서관에 오기로 마음먹었어요.",
+          "audio": "/seed/daily-105-the-library-card/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "decided",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1240
+            },
+            {
+              "word": "visit",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1780
+            },
+            {
+              "word": "library",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1780,
+              "endMs": 2180
+            },
+            {
+              "word": "every",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2800
+            },
+            {
+              "word": "week",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2800,
+              "endMs": 3040
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 도서관 카드를 만들기 위해 신청서에 쓴 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "이름과 학번",
+        "전화번호와 주소",
+        "부모님 이름",
+        "좋아하는 책 제목"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님이 신청서에 이름과 학번을 써 넣으라고 알려 주었어요."
+    },
+    {
+      "question_ko": "준이 도서관에서 고른 책은 무엇에 관한 책인가요?",
+      "type": "mc",
+      "options": [
+        "우주",
+        "동물",
+        "요리",
+        "스포츠"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 별을 좋아하기 때문에 우주에 관한 책을 골랐어요."
+    },
+    {
+      "question_ko": "사서 선생님이 준에게 건네준 도서관 카드는 무슨 색이었나요?",
+      "type": "mc",
+      "options": [
+        "파란색",
+        "빨간색",
+        "초록색",
+        "노란색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "사서 선생님이 준에게 파란 도서관 카드를 주었어요."
+    },
+    {
+      "question_ko": "준은 도서관 카드를 어디에 넣어 보관했나요?",
+      "type": "mc",
+      "options": [
+        "지갑",
+        "책가방 앞주머니",
+        "필통",
+        "교과서 안쪽"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "잃어버리지 않으려고 지갑에 카드를 넣었어요."
+    },
+    {
+      "question_ko": "그날 밤 준은 잠들기 전에 몇 챕터를 읽었나요?",
+      "type": "mc",
+      "options": [
+        "세 챕터",
+        "한 챕터",
+        "다섯 챕터",
+        "두 챕터"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 잠들기 전에 세 챕터를 읽었어요."
+    }
+  ]
+}

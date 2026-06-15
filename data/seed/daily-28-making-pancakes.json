@@ -20,35 +20,140 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 460
+              "endMs": 560
             },
             {
               "word": "and",
               "charStart": 4,
               "charEnd": 7,
-              "startMs": 460,
-              "endMs": 780
+              "startMs": 560,
+              "endMs": 880
             },
             {
               "word": "I",
               "charStart": 8,
               "charEnd": 9,
-              "startMs": 780,
-              "endMs": 1200
+              "startMs": 880,
+              "endMs": 1180
             },
             {
               "word": "make",
               "charStart": 10,
               "charEnd": 14,
-              "startMs": 1200,
-              "endMs": 1460
+              "startMs": 1180,
+              "endMs": 1420
             },
             {
               "word": "pancakes",
               "charStart": 15,
               "charEnd": 23,
-              "startMs": 1460,
-              "endMs": 1920
+              "startMs": 1420,
+              "endMs": 1940
+            }
+          ]
+        },
+        {
+          "text": "We put on our aprons and get ready.",
+          "translation_ko": "우리는 앞치마를 두르고 준비를 해요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "put",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "on",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "our",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "aprons",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1220,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1720,
+              "endMs": 2220
+            },
+            {
+              "word": "get",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2220,
+              "endMs": 2460
+            },
+            {
+              "word": "ready",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "This is our weekend fun!",
+          "translation_ko": "이건 우리의 주말 즐거움이에요!",
+          "audio": "/seed/daily-28-making-pancakes/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "our",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 900
+            },
+            {
+              "word": "weekend",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1240
+            },
+            {
+              "word": "fun",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1580
             }
           ]
         }
@@ -66,35 +171,119 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 740
+              "endMs": 260
             },
             {
               "word": "mix",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 740,
-              "endMs": 960
+              "startMs": 260,
+              "endMs": 540
             },
             {
               "word": "eggs",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 960,
-              "endMs": 1260
+              "startMs": 540,
+              "endMs": 920
             },
             {
               "word": "and",
               "charStart": 12,
               "charEnd": 15,
-              "startMs": 1260,
-              "endMs": 1820
+              "startMs": 920,
+              "endMs": 1380
             },
             {
               "word": "milk",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1820,
-              "endMs": 1820
+              "startMs": 1380,
+              "endMs": 1580
+            }
+          ]
+        },
+        {
+          "text": "Dad adds some flour too.",
+          "translation_ko": "아빠가 밀가루도 넣어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "adds",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "some",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1160
+            },
+            {
+              "word": "flour",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1320
+            },
+            {
+              "word": "too",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "The batter smells good already.",
+          "translation_ko": "반죽이 벌써 좋은 냄새가 나요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "batter",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "smells",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 1020
+            },
+            {
+              "word": "good",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "already",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1400,
+              "endMs": 1900
             }
           ]
         }
@@ -112,35 +301,112 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 880
+              "endMs": 600
             },
             {
               "word": "stir",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 880,
-              "endMs": 1080
+              "startMs": 600,
+              "endMs": 780
             },
             {
               "word": "the",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 1080,
-              "endMs": 1380
+              "startMs": 780,
+              "endMs": 1060
             },
             {
               "word": "bowl",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 1380,
-              "endMs": 1620
+              "startMs": 1060,
+              "endMs": 1360
             },
             {
               "word": "slowly",
               "charStart": 16,
               "charEnd": 22,
-              "startMs": 1620,
-              "endMs": 2040
+              "startMs": 1360,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "I go round and round.",
+          "translation_ko": "나는 빙글빙글 돌려요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "go",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 460,
+              "endMs": 700
+            },
+            {
+              "word": "round",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1700
+            },
+            {
+              "word": "round",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1700,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "Dad says, \"Good job!\"",
+          "translation_ko": "아빠가 \"잘했어!\"라고 말해요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "says",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "Good",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1680
+            },
+            {
+              "word": "job",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1680,
+              "endMs": 2080
             }
           ]
         }
@@ -158,13 +424,13 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 440
+              "endMs": 480
             },
             {
               "word": "pours",
               "charStart": 4,
               "charEnd": 9,
-              "startMs": 440,
+              "startMs": 480,
               "endMs": 940
             },
             {
@@ -172,35 +438,126 @@
               "charStart": 10,
               "charEnd": 13,
               "startMs": 940,
-              "endMs": 1140
+              "endMs": 1080
             },
             {
               "word": "mix",
               "charStart": 14,
               "charEnd": 17,
-              "startMs": 1140,
-              "endMs": 1420
+              "startMs": 1080,
+              "endMs": 1400
             },
             {
               "word": "in",
               "charStart": 18,
               "charEnd": 20,
-              "startMs": 1420,
-              "endMs": 1660
+              "startMs": 1400,
+              "endMs": 1780
             },
             {
               "word": "the",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1660,
-              "endMs": 1800
+              "startMs": 1780,
+              "endMs": 1940
             },
             {
               "word": "pan",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 1800,
-              "endMs": 2020
+              "startMs": 1940,
+              "endMs": 2200
+            }
+          ]
+        },
+        {
+          "text": "It makes a sizzling sound.",
+          "translation_ko": "지글지글 소리가 나요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "makes",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 900,
+              "endMs": 1240
+            },
+            {
+              "word": "sizzling",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "sound",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1940
+            }
+          ]
+        },
+        {
+          "text": "I watch it bubble up slowly.",
+          "translation_ko": "나는 천천히 부풀어 오르는 걸 지켜봐요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "watch",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "it",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 1140
+            },
+            {
+              "word": "bubble",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "up",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1780
+            },
+            {
+              "word": "slowly",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1780,
+              "endMs": 2060
             }
           ]
         }
@@ -218,28 +575,119 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 200
             },
             {
               "word": "pancake",
               "charStart": 4,
               "charEnd": 11,
-              "startMs": 260,
-              "endMs": 660
+              "startMs": 200,
+              "endMs": 780
             },
             {
               "word": "turns",
               "charStart": 12,
               "charEnd": 17,
-              "startMs": 660,
-              "endMs": 1100
+              "startMs": 780,
+              "endMs": 1360
             },
             {
               "word": "golden",
               "charStart": 18,
               "charEnd": 24,
-              "startMs": 1100,
-              "endMs": 1420
+              "startMs": 1360,
+              "endMs": 1720
+            }
+          ]
+        },
+        {
+          "text": "Dad flips it over with care.",
+          "translation_ko": "아빠가 조심스럽게 뒤집어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "flips",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "it",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "over",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1300
+            },
+            {
+              "word": "with",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1620
+            },
+            {
+              "word": "care",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 1900
+            }
+          ]
+        },
+        {
+          "text": "The other side cooks too.",
+          "translation_ko": "반대편도 익어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "other",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "side",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "cooks",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "too",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1480
             }
           ]
         }
@@ -257,35 +705,133 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 380
             },
             {
               "word": "add",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 260,
-              "endMs": 600
+              "startMs": 380,
+              "endMs": 800
             },
             {
               "word": "fruit",
               "charStart": 7,
               "charEnd": 12,
-              "startMs": 600,
-              "endMs": 920
+              "startMs": 800,
+              "endMs": 1200
             },
             {
               "word": "on",
               "charStart": 13,
               "charEnd": 15,
-              "startMs": 920,
-              "endMs": 1260
+              "startMs": 1200,
+              "endMs": 1620
             },
             {
               "word": "top",
               "charStart": 16,
               "charEnd": 19,
-              "startMs": 1260,
-              "endMs": 1480
+              "startMs": 1620,
+              "endMs": 1860
+            }
+          ]
+        },
+        {
+          "text": "I put strawberries and bananas on my pancake.",
+          "translation_ko": "나는 내 팬케이크에 딸기랑 바나나를 올려요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "strawberries",
+              "charStart": 6,
+              "charEnd": 18,
+              "startMs": 660,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1840
+            },
+            {
+              "word": "bananas",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "on",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2500
+            },
+            {
+              "word": "my",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2500,
+              "endMs": 2740
+            },
+            {
+              "word": "pancake",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2740,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "It looks so colorful!",
+          "translation_ko": "정말 알록달록해요!",
+          "audio": "/seed/daily-28-making-pancakes/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "looks",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "so",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 740,
+              "endMs": 1240
+            },
+            {
+              "word": "colorful",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1660
             }
           ]
         }
@@ -303,28 +849,161 @@
               "charStart": 0,
               "charEnd": 9,
               "startMs": 0,
-              "endMs": 940
+              "endMs": 580
             },
             {
               "word": "smells",
               "charStart": 10,
               "charEnd": 16,
-              "startMs": 940,
-              "endMs": 1320
+              "startMs": 580,
+              "endMs": 1020
             },
             {
               "word": "sweet",
               "charStart": 17,
               "charEnd": 22,
-              "startMs": 1320,
-              "endMs": 1780
+              "startMs": 1020,
+              "endMs": 1380
             },
             {
               "word": "today",
               "charStart": 23,
               "charEnd": 28,
-              "startMs": 1780,
-              "endMs": 2120
+              "startMs": 1380,
+              "endMs": 1760
+            }
+          ]
+        },
+        {
+          "text": "I take a big bite.",
+          "translation_ko": "나는 크게 한 입 베어 물어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "take",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "big",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "bite",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1620,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "It is warm and yummy.",
+          "translation_ko": "따뜻하고 맛있어요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "warm",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1320
+            },
+            {
+              "word": "yummy",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1560
+            }
+          ]
+        },
+        {
+          "text": "I love making pancakes with Dad.",
+          "translation_ko": "아빠와 팬케이크 만드는 게 정말 좋아요.",
+          "audio": "/seed/daily-28-making-pancakes/audio/p7-s4.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "love",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 680
+            },
+            {
+              "word": "making",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 1060
+            },
+            {
+              "word": "pancakes",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1060,
+              "endMs": 1560
+            },
+            {
+              "word": "with",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1860
+            },
+            {
+              "word": "Dad",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2100
             }
           ]
         }

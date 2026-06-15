@@ -20,42 +20,154 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 220
             },
             {
               "word": "have",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 320,
-              "endMs": 620
+              "startMs": 220,
+              "endMs": 460
             },
             {
               "word": "a",
               "charStart": 7,
               "charEnd": 8,
-              "startMs": 620,
-              "endMs": 880
+              "startMs": 460,
+              "endMs": 700
             },
             {
               "word": "small",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 880,
-              "endMs": 1180
+              "startMs": 700,
+              "endMs": 1060
             },
             {
               "word": "fish",
               "charStart": 15,
               "charEnd": 19,
-              "startMs": 1180,
-              "endMs": 1480
+              "startMs": 1060,
+              "endMs": 1320
             },
             {
               "word": "tank",
               "charStart": 20,
               "charEnd": 24,
-              "startMs": 1480,
-              "endMs": 1740
+              "startMs": 1320,
+              "endMs": 1560
+            }
+          ]
+        },
+        {
+          "text": "I keep it clean every day.",
+          "translation_ko": "나는 매일 어항을 깨끗하게 해요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "keep",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "it",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "clean",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "every",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1600
+            },
+            {
+              "word": "day",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1860
+            }
+          ]
+        },
+        {
+          "text": "It sits on my desk by the window.",
+          "translation_ko": "어항은 창가 내 책상 위에 있어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "sits",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "on",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 760
+            },
+            {
+              "word": "my",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "desk",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1200
+            },
+            {
+              "word": "by",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "window",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1640,
+              "endMs": 1760
             }
           ]
         }
@@ -73,35 +185,126 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 520
+              "endMs": 920
             },
             {
               "word": "orange",
               "charStart": 4,
               "charEnd": 10,
-              "startMs": 520,
-              "endMs": 940
+              "startMs": 920,
+              "endMs": 1300
             },
             {
               "word": "fish",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 940,
-              "endMs": 1260
+              "startMs": 1300,
+              "endMs": 1600
             },
             {
               "word": "swim",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1260,
-              "endMs": 1540
+              "startMs": 1600,
+              "endMs": 1900
             },
             {
               "word": "inside",
               "charStart": 21,
               "charEnd": 27,
-              "startMs": 1540,
-              "endMs": 2000
+              "startMs": 1900,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "They have bright, shiny scales.",
+          "translation_ko": "물고기들은 밝고 반짝이는 비늘을 가지고 있어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "have",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 440
+            },
+            {
+              "word": "bright",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 440,
+              "endMs": 920
+            },
+            {
+              "word": "shiny",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1400
+            },
+            {
+              "word": "scales",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1400,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "I love to watch them move.",
+          "translation_ko": "나는 물고기들이 움직이는 것을 보는 게 좋아요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "love",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "to",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "watch",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1100
+            },
+            {
+              "word": "them",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "move",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1640
             }
           ]
         }
@@ -119,42 +322,140 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 120
+              "endMs": 160
             },
             {
               "word": "is",
               "charStart": 3,
               "charEnd": 5,
-              "startMs": 120,
-              "endMs": 340
+              "startMs": 160,
+              "endMs": 440
             },
             {
               "word": "time",
               "charStart": 6,
               "charEnd": 10,
-              "startMs": 340,
-              "endMs": 680
+              "startMs": 440,
+              "endMs": 900
             },
             {
               "word": "to",
               "charStart": 11,
               "charEnd": 13,
-              "startMs": 680,
-              "endMs": 980
+              "startMs": 900,
+              "endMs": 1340
             },
             {
               "word": "feed",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 980,
-              "endMs": 1120
+              "startMs": 1340,
+              "endMs": 1600
             },
             {
               "word": "them",
               "charStart": 19,
               "charEnd": 23,
-              "startMs": 1120,
-              "endMs": 1320
+              "startMs": 1600,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "I pick up the small food jar.",
+          "translation_ko": "나는 작은 먹이 통을 집어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "pick",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 420,
+              "endMs": 700
+            },
+            {
+              "word": "up",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "small",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1260,
+              "endMs": 1620
+            },
+            {
+              "word": "food",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "jar",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1920,
+              "endMs": 2180
+            }
+          ]
+        },
+        {
+          "text": "I open the lid slowly.",
+          "translation_ko": "나는 뚜껑을 천천히 열어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "open",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 440,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 1240,
+              "endMs": 1940
+            },
+            {
+              "word": "lid",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1940,
+              "endMs": 1960
+            },
+            {
+              "word": "slowly",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1960,
+              "endMs": 2600
             }
           ]
         }
@@ -172,13 +473,13 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 180
+              "endMs": 200
             },
             {
               "word": "drop",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 180,
+              "startMs": 200,
               "endMs": 440
             },
             {
@@ -193,21 +494,126 @@
               "charStart": 9,
               "charEnd": 15,
               "startMs": 700,
-              "endMs": 880
+              "endMs": 920
             },
             {
               "word": "food",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 880,
-              "endMs": 1240
+              "startMs": 920,
+              "endMs": 1200
             },
             {
               "word": "in",
               "charStart": 21,
               "charEnd": 23,
-              "startMs": 1240,
-              "endMs": 1520
+              "startMs": 1200,
+              "endMs": 1460
+            }
+          ]
+        },
+        {
+          "text": "The tiny flakes float on the water.",
+          "translation_ko": "작은 먹이 조각들이 물 위에 둥둥 떠요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "tiny",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 640
+            },
+            {
+              "word": "flakes",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 640,
+              "endMs": 980
+            },
+            {
+              "word": "float",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1360
+            },
+            {
+              "word": "on",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1640
+            },
+            {
+              "word": "water",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1640,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "I watch and wait for them.",
+          "translation_ko": "나는 물고기들을 바라보며 기다려요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "watch",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "and",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 840,
+              "endMs": 1180
+            },
+            {
+              "word": "wait",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1180,
+              "endMs": 1280
+            },
+            {
+              "word": "for",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "them",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1640
             }
           ]
         }
@@ -225,35 +631,119 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 300
             },
             {
               "word": "fish",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 280,
-              "endMs": 720
+              "startMs": 300,
+              "endMs": 680
             },
             {
               "word": "swim",
               "charStart": 9,
               "charEnd": 13,
-              "startMs": 720,
-              "endMs": 1300
+              "startMs": 680,
+              "endMs": 1280
             },
             {
               "word": "up",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 1300,
-              "endMs": 1840
+              "startMs": 1280,
+              "endMs": 1580
             },
             {
               "word": "fast",
               "charStart": 17,
               "charEnd": 21,
-              "startMs": 1840,
-              "endMs": 2200
+              "startMs": 1580,
+              "endMs": 1960
+            }
+          ]
+        },
+        {
+          "text": "Their little mouths open and close.",
+          "translation_ko": "물고기들의 작은 입이 뻐끔뻐끔 움직여요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "little",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 760
+            },
+            {
+              "word": "mouths",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 760,
+              "endMs": 1160
+            },
+            {
+              "word": "open",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2340
+            },
+            {
+              "word": "close",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2340,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "They look very excited.",
+          "translation_ko": "물고기들이 정말 신나 보여요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "look",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "very",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 500,
+              "endMs": 1000
+            },
+            {
+              "word": "excited",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1500
             }
           ]
         }
@@ -263,7 +753,7 @@
       "sentences": [
         {
           "text": "They eat every tiny bit.",
-          "translation_ko": "그들은 작은 알갱이까지 다 먹어요.",
+          "translation_ko": "물고기들은 작은 알갱이까지 다 먹어요.",
           "audio": "/seed/daily-43-feeding-the-fish/audio/p6-s1.mp3",
           "wordTimings": [
             {
@@ -271,13 +761,13 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 280
             },
             {
               "word": "eat",
               "charStart": 5,
               "charEnd": 8,
-              "startMs": 300,
+              "startMs": 280,
               "endMs": 580
             },
             {
@@ -285,21 +775,105 @@
               "charStart": 9,
               "charEnd": 14,
               "startMs": 580,
-              "endMs": 1160
+              "endMs": 1100
             },
             {
               "word": "tiny",
               "charStart": 15,
               "charEnd": 19,
-              "startMs": 1160,
-              "endMs": 1520
+              "startMs": 1100,
+              "endMs": 1420
             },
             {
               "word": "bit",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 1520,
-              "endMs": 1780
+              "startMs": 1420,
+              "endMs": 1640
+            }
+          ]
+        },
+        {
+          "text": "Not one piece is left.",
+          "translation_ko": "먹이가 한 조각도 남지 않아요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Not",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "one",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "piece",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "is",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "left",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1300
+            }
+          ]
+        },
+        {
+          "text": "They are very good eaters.",
+          "translation_ko": "물고기들은 정말 잘 먹어요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "are",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "very",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "good",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "eaters",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1760
             }
           ]
         }
@@ -317,42 +891,126 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 380
             },
             {
               "word": "fish",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 340,
-              "endMs": 740
+              "startMs": 380,
+              "endMs": 840
             },
             {
               "word": "are",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 740,
-              "endMs": 1040
+              "startMs": 840,
+              "endMs": 1100
             },
             {
               "word": "happy",
               "charStart": 12,
               "charEnd": 17,
-              "startMs": 1040,
-              "endMs": 1340
+              "startMs": 1100,
+              "endMs": 1460
             },
             {
               "word": "and",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1340,
-              "endMs": 1820
+              "startMs": 1460,
+              "endMs": 2160
             },
             {
               "word": "full",
               "charStart": 22,
               "charEnd": 26,
-              "startMs": 1820,
-              "endMs": 2000
+              "startMs": 2160,
+              "endMs": 2340
+            }
+          ]
+        },
+        {
+          "text": "They swim slowly around the tank.",
+          "translation_ko": "물고기들은 어항 안을 천천히 헤엄쳐요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "swim",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 980
+            },
+            {
+              "word": "slowly",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1540
+            },
+            {
+              "word": "around",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1960
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1960,
+              "endMs": 2220
+            },
+            {
+              "word": "tank",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2420
+            }
+          ]
+        },
+        {
+          "text": "I am happy too.",
+          "translation_ko": "나도 기분이 좋아요.",
+          "audio": "/seed/daily-43-feeding-the-fish/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "happy",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "too",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1320
             }
           ]
         }

@@ -1,0 +1,1070 @@
+{
+  "slug": "daily-69-the-morning-bus",
+  "title": "The Morning Bus",
+  "title_ko": "아침 버스",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "Jun은 아침에 버스 정류장에서 친구 Mina를 만나 함께 버스를 탄다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun woke up early and looked outside.",
+          "translation_ko": "준은 일찍 일어나 창밖을 내다봤어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "woke",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "up",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "early",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1960
+            },
+            {
+              "word": "looked",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "outside",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2140,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "The sky was bright and blue.",
+          "translation_ko": "하늘이 맑고 파랬어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "sky",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "was",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 1040
+            },
+            {
+              "word": "bright",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 2060
+            },
+            {
+              "word": "blue",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2060,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun put on his backpack and said goodbye to Mom.",
+          "translation_ko": "준은 가방을 메고 엄마한테 인사했어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "put",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 660
+            },
+            {
+              "word": "on",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 840
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "backpack",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1040,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1780
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1780,
+              "endMs": 1920
+            },
+            {
+              "word": "goodbye",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 1920,
+              "endMs": 2320
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "Mom",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2600,
+              "endMs": 2800
+            }
+          ]
+        },
+        {
+          "text": "\"Have a good day!\" said Mom.",
+          "translation_ko": "\"좋은 하루 보내렴!\" 엄마가 말했어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Have",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "good",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 780
+            },
+            {
+              "word": "day",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1700
+            },
+            {
+              "word": "said",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1700,
+              "endMs": 1720
+            },
+            {
+              "word": "Mom",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun walked to the bus stop.",
+          "translation_ko": "준은 버스 정류장으로 걸어갔어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "walked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 580,
+              "endMs": 1100
+            },
+            {
+              "word": "to",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1340,
+              "endMs": 1640
+            },
+            {
+              "word": "bus",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1640,
+              "endMs": 1660
+            },
+            {
+              "word": "stop",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 1920
+            }
+          ]
+        },
+        {
+          "text": "It was a little cold but not too cold.",
+          "translation_ko": "조금 쌀쌀했지만 그렇게 춥지는 않았어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 420,
+              "endMs": 820
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 820,
+              "endMs": 980
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "little",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "cold",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1780
+            },
+            {
+              "word": "but",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1960,
+              "endMs": 2120
+            },
+            {
+              "word": "not",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "too",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2360,
+              "endMs": 2600
+            },
+            {
+              "word": "cold",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2600,
+              "endMs": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina was already at the bus stop.",
+          "translation_ko": "미나는 벌써 버스 정류장에 와 있었어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "was",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "already",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1440
+            },
+            {
+              "word": "at",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1800
+            },
+            {
+              "word": "bus",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1800,
+              "endMs": 1960
+            },
+            {
+              "word": "stop",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 2180
+            }
+          ]
+        },
+        {
+          "text": "She waved and smiled.",
+          "translation_ko": "미나는 손을 흔들며 웃었어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "waved",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 1080
+            },
+            {
+              "word": "smiled",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Hi, Jun! Did you eat breakfast?\" asked Mina.",
+          "translation_ko": "\"안녕, 준! 아침 먹었어?\" 미나가 물었어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hi",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "Jun",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "Did",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1900,
+              "endMs": 1980
+            },
+            {
+              "word": "you",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1980,
+              "endMs": 2140
+            },
+            {
+              "word": "eat",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "breakfast",
+              "charStart": 22,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2780
+            },
+            {
+              "word": "asked",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 3340,
+              "endMs": 3400
+            },
+            {
+              "word": "Mina",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3400,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "\"Yes, I had rice and eggs,\" said Jun.",
+          "translation_ko": "\"응, 밥이랑 달걀 먹었어.\" 준이 말했어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "I",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "had",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "rice",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1580,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1860,
+              "endMs": 2440
+            },
+            {
+              "word": "eggs",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 2440,
+              "endMs": 2440
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2980,
+              "endMs": 3060
+            },
+            {
+              "word": "Jun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 3060,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They heard the bus coming.",
+          "translation_ko": "버스 오는 소리가 들렸어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "heard",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1360
+            },
+            {
+              "word": "bus",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1360,
+              "endMs": 1480
+            },
+            {
+              "word": "coming",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1920
+            }
+          ]
+        },
+        {
+          "text": "\"Here it is!\" said Mina.",
+          "translation_ko": "\"왔다!\" 미나가 외쳤어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Here",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "it",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 340
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 1140
+            },
+            {
+              "word": "said",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1160
+            },
+            {
+              "word": "Mina",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They got on the bus together.",
+          "translation_ko": "두 사람은 함께 버스에 올라탔어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "got",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 420
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 840
+            },
+            {
+              "word": "bus",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1060
+            },
+            {
+              "word": "together",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1060,
+              "endMs": 1420
+            }
+          ]
+        },
+        {
+          "text": "Jun sat next to Mina.",
+          "translation_ko": "준은 미나 옆에 앉았어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "sat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "next",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "Mina",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I like riding with you,\" said Jun.",
+          "translation_ko": "\"너랑 같이 타니까 좋다.\" 준이 말했어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "like",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 560,
+              "endMs": 920
+            },
+            {
+              "word": "riding",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1300
+            },
+            {
+              "word": "with",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1640
+            },
+            {
+              "word": "you",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 2860
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2860,
+              "endMs": 2860
+            },
+            {
+              "word": "Jun",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2860,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "\"Me too!\" said Mina, and they laughed.",
+          "translation_ko": "\"나도!\" 미나도 말하고, 둘은 함께 웃었어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Me",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "too",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 1220
+            },
+            {
+              "word": "said",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1220,
+              "endMs": 1340
+            },
+            {
+              "word": "Mina",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1780,
+              "endMs": 2140
+            },
+            {
+              "word": "they",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2140,
+              "endMs": 2320
+            },
+            {
+              "word": "laughed",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bus stopped at school.",
+          "translation_ko": "버스가 학교 앞에 멈췄어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "bus",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 520
+            },
+            {
+              "word": "stopped",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 520,
+              "endMs": 1080
+            },
+            {
+              "word": "at",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1500
+            },
+            {
+              "word": "school",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1820
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina got off and walked in.",
+          "translation_ko": "준과 미나는 내려서 함께 학교로 들어갔어요.",
+          "audio": "/seed/daily-69-the-morning-bus/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 820
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "got",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1500
+            },
+            {
+              "word": "off",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1500,
+              "endMs": 1760
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "walked",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "in",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2260,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 아침에 무엇을 먹었나요?",
+      "type": "mc",
+      "options": [
+        "밥과 달걀",
+        "빵과 우유",
+        "시리얼",
+        "과일"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 \"I had rice and eggs\"라고 말했어요. 밥과 달걀을 먹었어요."
+    },
+    {
+      "question_ko": "버스 정류장에 먼저 도착한 사람은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "미나",
+        "준",
+        "둘이 동시에",
+        "엄마"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "\"미나 was already at the bus stop\"이라고 했어요. 미나가 먼저 와 있었어요."
+    },
+    {
+      "question_ko": "버스 정류장에서 날씨는 어떠했나요?",
+      "type": "mc",
+      "options": [
+        "조금 쌀쌀했어요",
+        "매우 추웠어요",
+        "따뜻하고 더웠어요",
+        "비가 왔어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "\"It was a little cold but not too cold\"라고 했어요. 조금 쌀쌀했지만 많이 춥지는 않았어요."
+    },
+    {
+      "question_ko": "버스 안에서 준은 어디에 앉았나요?",
+      "type": "mc",
+      "options": [
+        "미나 옆에",
+        "창문 쪽 혼자",
+        "버스 맨 앞에",
+        "운전기사 옆에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "\"준 sat next to 미나\"라고 했어요. 준은 미나 옆에 앉았어요."
+    },
+    {
+      "question_ko": "이 이야기는 어디에서 끝나나요?",
+      "type": "mc",
+      "options": [
+        "학교 앞",
+        "버스 정류장",
+        "준의 집",
+        "공원"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "버스가 학교 앞에 멈추고, 준과 미나는 함께 학교로 들어갔어요."
+    }
+  ]
+}

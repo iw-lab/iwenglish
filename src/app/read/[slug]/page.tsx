@@ -1,8 +1,5 @@
-import { notFound } from "next/navigation";
-import Link from "next/link";
-import { getBook } from "@/lib/data/books";
 import { getStaticBooks } from "@/lib/data/staticBooks";
-import { Reader } from "@/components/reader/Reader";
+import { ReaderLoader } from "@/components/reader/ReaderLoader";
 
 // 모든 책을 빌드 타임에 정적 생성 → 읽기 페이지 0 Functions
 export function generateStaticParams() {
@@ -15,24 +12,6 @@ export default async function ReadPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const book = await getBook(slug);
-
-  if (!book) {
-    return (
-      <div className="mx-auto flex min-h-dvh max-w-md flex-col items-center justify-center gap-3 px-6 text-center">
-        <p className="font-ko text-muted-foreground">
-          이 책은 아직 낭독 콘텐츠가 준비되지 않았어요.
-        </p>
-        <Link
-          href={`/book/${slug}`}
-          className="rounded-chip bg-primary px-5 py-2.5 text-sm font-semibold text-primary-foreground"
-        >
-          책 정보로 돌아가기
-        </Link>
-      </div>
-    );
-  }
-
-  if (book.pages.length === 0) notFound();
-  return <Reader book={book} />;
+  // 본문(pages·타이밍·퀴즈)은 /seed/<slug>/book.json 에서 런타임 fetch — 워커 번들 경량화
+  return <ReaderLoader slug={slug} />;
 }

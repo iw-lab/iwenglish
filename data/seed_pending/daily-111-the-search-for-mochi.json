@@ -1,0 +1,1585 @@
+{
+  "slug": "daily-111-the-search-for-mochi",
+  "title": "The Search for Mochi",
+  "title_ko": "모치를 찾아서",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "사라진 고양이 모치를 단서 하나하나 따라가며 준과 미나가 함께 찾아가는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun ran to the living room because he could not find his cat, Mochi.",
+          "translation_ko": "준은 고양이 모치를 찾을 수 없어서 거실로 달려왔어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 720,
+              "endMs": 1040
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "living",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1620
+            },
+            {
+              "word": "room",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "because",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "he",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2360
+            },
+            {
+              "word": "could",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2360,
+              "endMs": 2580
+            },
+            {
+              "word": "not",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2580,
+              "endMs": 2900
+            },
+            {
+              "word": "find",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2900,
+              "endMs": 3120
+            },
+            {
+              "word": "his",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3120,
+              "endMs": 3300
+            },
+            {
+              "word": "cat",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3300,
+              "endMs": 3660
+            },
+            {
+              "word": "Mochi",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 4020,
+              "endMs": 4300
+            }
+          ]
+        },
+        {
+          "text": "\"Mochi is gone!\" he shouted.",
+          "translation_ko": "\"모치가 없어졌어!\" 준이 소리쳤어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mochi",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "is",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "gone",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1440
+            },
+            {
+              "word": "he",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1880
+            },
+            {
+              "word": "shouted",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "His friend Mina came over when she heard the news.",
+          "translation_ko": "소식을 들은 친구 미나가 달려왔어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "friend",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "Mina",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 1000
+            },
+            {
+              "word": "came",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1380
+            },
+            {
+              "word": "over",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "when",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 1980
+            },
+            {
+              "word": "she",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2160
+            },
+            {
+              "word": "heard",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2160,
+              "endMs": 2360
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2360,
+              "endMs": 2540
+            },
+            {
+              "word": "news",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2540,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "\"Let's look for clues,\" she said calmly.",
+          "translation_ko": "\"단서를 찾아보자,\" 미나가 차분하게 말했어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "look",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 620
+            },
+            {
+              "word": "for",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 1320
+            },
+            {
+              "word": "clues",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1920
+            },
+            {
+              "word": "she",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2060,
+              "endMs": 2280
+            },
+            {
+              "word": "calmly",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They found a bowl of cat food near the front door.",
+          "translation_ko": "현관 근처에서 고양이 밥그릇을 발견했어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "found",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "bowl",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1020
+            },
+            {
+              "word": "of",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1240
+            },
+            {
+              "word": "cat",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "food",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1700
+            },
+            {
+              "word": "near",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1700,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "front",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "door",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2300,
+              "endMs": 2580
+            }
+          ]
+        },
+        {
+          "text": "\"She must be hungry because she did not eat,\" he said.",
+          "translation_ko": "\"밥을 안 먹었으니까 모치가 배고플 거야,\" 준이 말했어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "must",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 660
+            },
+            {
+              "word": "be",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "hungry",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "because",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1200,
+              "endMs": 1740
+            },
+            {
+              "word": "she",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 2020
+            },
+            {
+              "word": "did",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2020,
+              "endMs": 2200
+            },
+            {
+              "word": "not",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "eat",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2460,
+              "endMs": 3100
+            },
+            {
+              "word": "he",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3100,
+              "endMs": 3300
+            },
+            {
+              "word": "said",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3300,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina found a small patch of orange fur on the balcony door.",
+          "translation_ko": "미나가 베란다 문에서 주황색 털 뭉치를 발견했어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "found",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 1040
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1040,
+              "endMs": 1280
+            },
+            {
+              "word": "small",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1820
+            },
+            {
+              "word": "patch",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1820,
+              "endMs": 2160
+            },
+            {
+              "word": "of",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2160,
+              "endMs": 2740
+            },
+            {
+              "word": "orange",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2740,
+              "endMs": 2740
+            },
+            {
+              "word": "fur",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2740,
+              "endMs": 3080
+            },
+            {
+              "word": "on",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 3080,
+              "endMs": 3460
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3460,
+              "endMs": 3760
+            },
+            {
+              "word": "balcony",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 3760,
+              "endMs": 3940
+            },
+            {
+              "word": "door",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3940,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "\"She went outside!\" Mina said.",
+          "translation_ko": "\"모치가 밖으로 나갔구나!\" 미나가 말했어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "went",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "outside",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 1200
+            },
+            {
+              "word": "Mina",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1720,
+              "endMs": 1720
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They stepped onto the balcony and looked around.",
+          "translation_ko": "두 사람은 베란다로 나가 주위를 살펴봤어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "stepped",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 560
+            },
+            {
+              "word": "onto",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 560,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1280
+            },
+            {
+              "word": "balcony",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1500,
+              "endMs": 2040
+            },
+            {
+              "word": "looked",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2040,
+              "endMs": 2180
+            },
+            {
+              "word": "around",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2180,
+              "endMs": 2540
+            }
+          ]
+        },
+        {
+          "text": "Jun noticed tiny paw prints on the dusty floor.",
+          "translation_ko": "준은 먼지 쌓인 바닥에서 작은 발자국을 발견했어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "noticed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 1080
+            },
+            {
+              "word": "tiny",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1600
+            },
+            {
+              "word": "paw",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "prints",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "on",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2320,
+              "endMs": 2480
+            },
+            {
+              "word": "dusty",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2480,
+              "endMs": 2760
+            },
+            {
+              "word": "floor",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2760,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The paw prints led them to a big flower pot in the corner.",
+          "translation_ko": "발자국은 구석에 있는 커다란 화분으로 이어졌어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "paw",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "prints",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 720
+            },
+            {
+              "word": "led",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "them",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "to",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1200,
+              "endMs": 1360
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1360,
+              "endMs": 1600
+            },
+            {
+              "word": "big",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1600,
+              "endMs": 1920
+            },
+            {
+              "word": "flower",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 1920,
+              "endMs": 2300
+            },
+            {
+              "word": "pot",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "in",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2540,
+              "endMs": 2720
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2720,
+              "endMs": 2900
+            },
+            {
+              "word": "corner",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 2900,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "\"Maybe Mochi is hiding behind it,\" Jun whispered.",
+          "translation_ko": "\"아마 모치가 뒤에 숨어 있을 거야,\" 준이 속삭였어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Maybe",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "Mochi",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1280
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1280,
+              "endMs": 1520
+            },
+            {
+              "word": "hiding",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1840
+            },
+            {
+              "word": "behind",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2260
+            },
+            {
+              "word": "it",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "Jun",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2840,
+              "endMs": 2980
+            },
+            {
+              "word": "whispered",
+              "charStart": 39,
+              "charEnd": 48,
+              "startMs": 2980,
+              "endMs": 3440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They heard a soft sound when they moved closer.",
+          "translation_ko": "조금 더 다가가자 작은 소리가 들렸어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "heard",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 1120
+            },
+            {
+              "word": "soft",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "sound",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1820
+            },
+            {
+              "word": "when",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "they",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "moved",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2420
+            },
+            {
+              "word": "closer",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2420,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "\"That sounds like Mochi!\" Mina said, her eyes wide.",
+          "translation_ko": "\"모치 소리다!\" 미나가 눈을 크게 뜨며 말했어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "sounds",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "like",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 1180
+            },
+            {
+              "word": "Mochi",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 2280
+            },
+            {
+              "word": "Mina",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2280,
+              "endMs": 2340
+            },
+            {
+              "word": "said",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2340,
+              "endMs": 2680
+            },
+            {
+              "word": "her",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3060,
+              "endMs": 3240
+            },
+            {
+              "word": "eyes",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3240,
+              "endMs": 3540
+            },
+            {
+              "word": "wide",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3540,
+              "endMs": 4020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun moved the pot and found Mochi curled up behind it.",
+          "translation_ko": "준이 화분을 옮기자 뒤에 웅크린 모치가 나타났어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "moved",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1160
+            },
+            {
+              "word": "pot",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1740
+            },
+            {
+              "word": "found",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 1940
+            },
+            {
+              "word": "Mochi",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1940,
+              "endMs": 2300
+            },
+            {
+              "word": "curled",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2680
+            },
+            {
+              "word": "up",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 2980
+            },
+            {
+              "word": "behind",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2980,
+              "endMs": 3220
+            },
+            {
+              "word": "it",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 3220,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "She was sleeping because the warm corner felt safe and cozy.",
+          "translation_ko": "따뜻하고 아늑한 구석이 편안했기 때문에 잠들어 있었어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "sleeping",
+              "charStart": 8,
+              "charEnd": 16,
+              "startMs": 460,
+              "endMs": 900
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 900,
+              "endMs": 1320
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "warm",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1540,
+              "endMs": 1880
+            },
+            {
+              "word": "corner",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1880,
+              "endMs": 2220
+            },
+            {
+              "word": "felt",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2220,
+              "endMs": 2680
+            },
+            {
+              "word": "safe",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2680,
+              "endMs": 3080
+            },
+            {
+              "word": "and",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3080,
+              "endMs": 3480
+            },
+            {
+              "word": "cozy",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3480,
+              "endMs": 3720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"You were hiding here the whole time!\" Jun laughed with relief.",
+          "translation_ko": "\"여기 있었던 거야!\" 준은 안도하며 웃었어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "were",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "hiding",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 860
+            },
+            {
+              "word": "here",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "whole",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1440,
+              "endMs": 1760
+            },
+            {
+              "word": "time",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1760,
+              "endMs": 2880
+            },
+            {
+              "word": "Jun",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2880,
+              "endMs": 2980
+            },
+            {
+              "word": "laughed",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2980,
+              "endMs": 3300
+            },
+            {
+              "word": "with",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3300,
+              "endMs": 3720
+            },
+            {
+              "word": "relief",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 3720,
+              "endMs": 3940
+            }
+          ]
+        },
+        {
+          "text": "Mochi opened one eye and purred quietly.",
+          "translation_ko": "모치는 눈을 하나 뜨고 조용히 그르렁거렸어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mochi",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "opened",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "one",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1160
+            },
+            {
+              "word": "eye",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1880
+            },
+            {
+              "word": "purred",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "quietly",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina picked up Mochi and carried her back inside.",
+          "translation_ko": "미나가 모치를 안아서 집 안으로 데리고 들어갔어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "picked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "up",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "Mochi",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1900
+            },
+            {
+              "word": "carried",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "her",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2140,
+              "endMs": 2340
+            },
+            {
+              "word": "back",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2340,
+              "endMs": 2640
+            },
+            {
+              "word": "inside",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2640,
+              "endMs": 3080
+            }
+          ]
+        },
+        {
+          "text": "\"Next time, let's check the balcony first!\" they both laughed.",
+          "translation_ko": "\"다음엔 베란다를 제일 먼저 확인하자!\" 둘 다 깔깔 웃었어요.",
+          "audio": "/seed/daily-111-the-search-for-mochi/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Next",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "time",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "let's",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1260
+            },
+            {
+              "word": "check",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1960
+            },
+            {
+              "word": "balcony",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 1960
+            },
+            {
+              "word": "first",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 1960,
+              "endMs": 3320
+            },
+            {
+              "word": "they",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3320,
+              "endMs": 3420
+            },
+            {
+              "word": "both",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3420,
+              "endMs": 3660
+            },
+            {
+              "word": "laughed",
+              "charStart": 54,
+              "charEnd": 61,
+              "startMs": 3660,
+              "endMs": 3980
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 왜 거실로 달려왔나요?",
+      "type": "mc",
+      "options": [
+        "고양이 모치를 찾을 수 없어서",
+        "밥을 먹으러",
+        "미나를 만나러",
+        "베란다 문을 열려고"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "첫 번째 페이지에서 준은 모치를 찾을 수 없어서 거실로 달려왔다고 나와요."
+    },
+    {
+      "question_ko": "미나가 베란다 문에서 발견한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "고양이 발자국",
+        "주황색 털 뭉치",
+        "고양이 밥그릇",
+        "모치의 장난감"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미나는 베란다 문에서 주황색 털 뭉치(orange fur)를 발견했어요."
+    },
+    {
+      "question_ko": "모치는 어디에 숨어 있었나요?",
+      "type": "mc",
+      "options": [
+        "침대 밑",
+        "냉장고 뒤",
+        "큰 화분 뒤",
+        "현관 앞"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "모치는 베란다 구석에 있는 커다란 화분 뒤에 웅크리고 있었어요."
+    },
+    {
+      "question_ko": "모치가 구석에서 잠들어 있었던 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "배가 불러서",
+        "따뜻하고 아늑했기 때문에",
+        "겁이 났기 때문에",
+        "아파서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "이야기에서 'the warm corner felt safe and cozy'라고 했어요. 따뜻하고 아늑해서 잠들었답니다."
+    },
+    {
+      "question_ko": "이야기 마지막에 미나가 한 말은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "다음엔 모치를 집에 두지 말자",
+        "다음엔 베란다를 제일 먼저 확인하자",
+        "다음엔 화분을 치우자",
+        "다음엔 문을 잠그자"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미나는 \"Next time, we will check the balcony first!\"라고 말했어요. 다음엔 베란다를 먼저 확인하자고 했답니다."
+    }
+  ]
+}

@@ -19,78 +19,162 @@
               "word": "Let's",
               "charStart": 1,
               "charEnd": 6,
-              "startMs": 420,
-              "endMs": 820
+              "startMs": 0,
+              "endMs": 500
             },
             {
               "word": "take",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 820,
-              "endMs": 960
+              "startMs": 500,
+              "endMs": 640
             },
             {
               "word": "a",
               "charStart": 12,
               "charEnd": 13,
-              "startMs": 960,
-              "endMs": 1160
+              "startMs": 640,
+              "endMs": 820
             },
             {
               "word": "trip",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 1160,
-              "endMs": 1300
+              "startMs": 820,
+              "endMs": 1060
             },
             {
               "word": "this",
               "charStart": 19,
               "charEnd": 23,
-              "startMs": 1300,
-              "endMs": 1560
+              "startMs": 1060,
+              "endMs": 1280
             },
             {
               "word": "weekend",
               "charStart": 24,
               "charEnd": 31,
-              "startMs": 1560,
-              "endMs": 2280
+              "startMs": 1280,
+              "endMs": 2080
             },
             {
               "word": "my",
               "charStart": 34,
               "charEnd": 36,
-              "startMs": 2280,
-              "endMs": 2400
+              "startMs": 2080,
+              "endMs": 2160
             },
             {
               "word": "dad",
               "charStart": 37,
               "charEnd": 40,
-              "startMs": 2400,
-              "endMs": 2660
+              "startMs": 2160,
+              "endMs": 2440
             },
             {
               "word": "said",
               "charStart": 41,
               "charEnd": 45,
-              "startMs": 2660,
-              "endMs": 2900
+              "startMs": 2440,
+              "endMs": 2700
             },
             {
               "word": "at",
               "charStart": 46,
               "charEnd": 48,
-              "startMs": 2900,
-              "endMs": 3100
+              "startMs": 2700,
+              "endMs": 2920
             },
             {
               "word": "dinner",
               "charStart": 49,
               "charEnd": 55,
-              "startMs": 3100,
-              "endMs": 3220
+              "startMs": 2920,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "He smiled and looked at each of us with bright eyes.",
+          "translation_ko": "아빠는 환한 눈으로 우리 한 명씩 바라봤어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "smiled",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 760
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1240
+            },
+            {
+              "word": "looked",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1340
+            },
+            {
+              "word": "at",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "each",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 1840
+            },
+            {
+              "word": "of",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2100
+            },
+            {
+              "word": "us",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2200
+            },
+            {
+              "word": "with",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2440
+            },
+            {
+              "word": "bright",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "eyes",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2640,
+              "endMs": 2980
             }
           ]
         }
@@ -108,56 +192,140 @@
               "charStart": 1,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 760
+              "endMs": 280
             },
             {
               "word": "should",
               "charStart": 7,
               "charEnd": 13,
-              "startMs": 760,
-              "endMs": 960
+              "startMs": 280,
+              "endMs": 460
             },
             {
               "word": "we",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 960,
-              "endMs": 1180
+              "startMs": 460,
+              "endMs": 660
             },
             {
               "word": "go",
               "charStart": 17,
               "charEnd": 19,
-              "startMs": 1180,
-              "endMs": 1360
+              "startMs": 660,
+              "endMs": 920
             },
             {
               "word": "I",
               "charStart": 22,
               "charEnd": 23,
-              "startMs": 1820,
-              "endMs": 2000
+              "startMs": 1300,
+              "endMs": 1600
             },
             {
               "word": "asked",
               "charStart": 24,
               "charEnd": 29,
-              "startMs": 2000,
-              "endMs": 2260
+              "startMs": 1600,
+              "endMs": 1840
             },
             {
               "word": "feeling",
               "charStart": 31,
               "charEnd": 38,
-              "startMs": 2640,
-              "endMs": 2820
+              "startMs": 2200,
+              "endMs": 2420
             },
             {
               "word": "excited",
               "charStart": 39,
               "charEnd": 46,
-              "startMs": 2820,
-              "endMs": 3220
+              "startMs": 2420,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "I could hardly wait to find out where we would go.",
+          "translation_ko": "어디로 갈지 너무 궁금해서 기다리기 힘들었어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "could",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 380
+            },
+            {
+              "word": "hardly",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "wait",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 780,
+              "endMs": 1160
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "find",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1600
+            },
+            {
+              "word": "out",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "where",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1880,
+              "endMs": 2060
+            },
+            {
+              "word": "we",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2220
+            },
+            {
+              "word": "would",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "go",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2400,
+              "endMs": 2640
             }
           ]
         }
@@ -175,62 +343,62 @@
               "charStart": 1,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 340
             },
             {
               "word": "about",
               "charStart": 5,
               "charEnd": 10,
-              "startMs": 300,
-              "endMs": 600
+              "startMs": 340,
+              "endMs": 840
             },
             {
               "word": "the",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 600,
-              "endMs": 840
+              "startMs": 840,
+              "endMs": 1080
             },
             {
               "word": "sea",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 840,
-              "endMs": 1080
+              "startMs": 1080,
+              "endMs": 1360
             },
             {
               "word": "We",
               "charStart": 20,
               "charEnd": 22,
-              "startMs": 1960,
-              "endMs": 2100
+              "startMs": 1880,
+              "endMs": 2000
             },
             {
               "word": "can",
               "charStart": 23,
               "charEnd": 26,
-              "startMs": 2100,
-              "endMs": 2300
+              "startMs": 2000,
+              "endMs": 2240
             },
             {
               "word": "take",
               "charStart": 27,
               "charEnd": 31,
-              "startMs": 2300,
-              "endMs": 2500
+              "startMs": 2240,
+              "endMs": 2460
             },
             {
               "word": "the",
               "charStart": 32,
               "charEnd": 35,
-              "startMs": 2500,
-              "endMs": 2700
+              "startMs": 2460,
+              "endMs": 2660
             },
             {
               "word": "early",
               "charStart": 36,
               "charEnd": 41,
-              "startMs": 2700,
+              "startMs": 2660,
               "endMs": 2980
             },
             {
@@ -238,21 +406,98 @@
               "charStart": 42,
               "charEnd": 47,
               "startMs": 2980,
-              "endMs": 4100
+              "endMs": 3400
             },
             {
               "word": "Mom",
               "charStart": 50,
               "charEnd": 53,
-              "startMs": 4100,
-              "endMs": 4240
+              "startMs": 3820,
+              "endMs": 3940
             },
             {
               "word": "said",
               "charStart": 54,
               "charEnd": 58,
-              "startMs": 4240,
-              "endMs": 4560
+              "startMs": 3940,
+              "endMs": 4260
+            }
+          ]
+        },
+        {
+          "text": "\"Yes! Let's go!\" my little sister and I shouted together.",
+          "translation_ko": "\"좋아요! 가요!\" 나와 여동생이 함께 소리쳤어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "Let's",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "go",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1120,
+              "endMs": 1460
+            },
+            {
+              "word": "my",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1940,
+              "endMs": 2100
+            },
+            {
+              "word": "little",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "sister",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2280,
+              "endMs": 2600
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2600,
+              "endMs": 2740
+            },
+            {
+              "word": "I",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2740,
+              "endMs": 2960
+            },
+            {
+              "word": "shouted",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2960,
+              "endMs": 3180
+            },
+            {
+              "word": "together",
+              "charStart": 48,
+              "charEnd": 56,
+              "startMs": 3180,
+              "endMs": 3520
             }
           ]
         }
@@ -269,85 +514,176 @@
               "word": "On",
               "charStart": 0,
               "charEnd": 2,
-              "startMs": 0,
-              "endMs": 300
+              "startMs": 520,
+              "endMs": 1000
             },
             {
               "word": "Saturday",
               "charStart": 3,
               "charEnd": 11,
-              "startMs": 300,
-              "endMs": 620
+              "startMs": 1000,
+              "endMs": 1320
             },
             {
               "word": "morning",
               "charStart": 12,
               "charEnd": 19,
-              "startMs": 620,
-              "endMs": 1040
+              "startMs": 1320,
+              "endMs": 1720
             },
             {
               "word": "we",
               "charStart": 21,
               "charEnd": 23,
-              "startMs": 1320,
-              "endMs": 1520
+              "startMs": 1980,
+              "endMs": 2200
             },
             {
               "word": "packed",
               "charStart": 24,
               "charEnd": 30,
-              "startMs": 1520,
-              "endMs": 1720
+              "startMs": 2200,
+              "endMs": 2380
             },
             {
               "word": "our",
               "charStart": 31,
               "charEnd": 34,
-              "startMs": 1720,
-              "endMs": 2260
+              "startMs": 2380,
+              "endMs": 2920
             },
             {
               "word": "bags",
               "charStart": 35,
               "charEnd": 39,
-              "startMs": 2260,
-              "endMs": 2260
+              "startMs": 2920,
+              "endMs": 2920
             },
             {
               "word": "and",
               "charStart": 40,
               "charEnd": 43,
-              "startMs": 2260,
-              "endMs": 2500
+              "startMs": 2920,
+              "endMs": 3200
             },
             {
               "word": "hurried",
               "charStart": 44,
               "charEnd": 51,
-              "startMs": 2500,
-              "endMs": 2780
+              "startMs": 3200,
+              "endMs": 3340
             },
             {
               "word": "to",
               "charStart": 52,
               "charEnd": 54,
-              "startMs": 2780,
-              "endMs": 2960
+              "startMs": 3340,
+              "endMs": 3520
             },
             {
               "word": "the",
               "charStart": 55,
               "charEnd": 58,
-              "startMs": 2960,
-              "endMs": 3120
+              "startMs": 3520,
+              "endMs": 3660
             },
             {
               "word": "station",
               "charStart": 59,
               "charEnd": 66,
-              "startMs": 3120,
-              "endMs": 3380
+              "startMs": 3660,
+              "endMs": 3900
+            }
+          ]
+        },
+        {
+          "text": "I carried a small backpack with sunscreen, snacks, and my favorite hat.",
+          "translation_ko": "나는 선크림, 간식, 그리고 내가 제일 좋아하는 모자를 넣은 작은 배낭을 메고 갔어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "carried",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 720
+            },
+            {
+              "word": "small",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 1040
+            },
+            {
+              "word": "backpack",
+              "charStart": 18,
+              "charEnd": 26,
+              "startMs": 1040,
+              "endMs": 1520
+            },
+            {
+              "word": "with",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 2020
+            },
+            {
+              "word": "sunscreen",
+              "charStart": 32,
+              "charEnd": 41,
+              "startMs": 2020,
+              "endMs": 2540
+            },
+            {
+              "word": "snacks",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3020,
+              "endMs": 3300
+            },
+            {
+              "word": "and",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3640,
+              "endMs": 3680
+            },
+            {
+              "word": "my",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3680,
+              "endMs": 3880
+            },
+            {
+              "word": "favorite",
+              "charStart": 58,
+              "charEnd": 66,
+              "startMs": 3880,
+              "endMs": 4160
+            },
+            {
+              "word": "hat",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 4160,
+              "endMs": 4440
             }
           ]
         }
@@ -365,77 +701,175 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 640
+              "endMs": 240
             },
             {
               "word": "train",
               "charStart": 4,
               "charEnd": 9,
-              "startMs": 640,
-              "endMs": 900
+              "startMs": 240,
+              "endMs": 600
             },
             {
               "word": "moved",
               "charStart": 10,
               "charEnd": 15,
-              "startMs": 900,
-              "endMs": 1160
+              "startMs": 600,
+              "endMs": 920
             },
             {
               "word": "fast",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1160,
-              "endMs": 1680
+              "startMs": 920,
+              "endMs": 1480
             },
             {
               "word": "and",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 1680,
-              "endMs": 2480
+              "startMs": 1940,
+              "endMs": 2080
             },
             {
               "word": "green",
               "charStart": 26,
               "charEnd": 31,
-              "startMs": 2480,
-              "endMs": 2780
+              "startMs": 2080,
+              "endMs": 2420
             },
             {
               "word": "fields",
               "charStart": 32,
               "charEnd": 38,
-              "startMs": 2780,
-              "endMs": 3060
+              "startMs": 2420,
+              "endMs": 2820
             },
             {
               "word": "rushed",
               "charStart": 39,
               "charEnd": 45,
-              "startMs": 3060,
-              "endMs": 3480
+              "startMs": 2820,
+              "endMs": 3200
             },
             {
               "word": "past",
               "charStart": 46,
               "charEnd": 50,
-              "startMs": 3480,
-              "endMs": 3840
+              "startMs": 3200,
+              "endMs": 3540
             },
             {
               "word": "the",
               "charStart": 51,
               "charEnd": 54,
-              "startMs": 3840,
-              "endMs": 4060
+              "startMs": 3540,
+              "endMs": 3820
             },
             {
               "word": "window",
               "charStart": 55,
               "charEnd": 61,
-              "startMs": 4060,
-              "endMs": 4240
+              "startMs": 3820,
+              "endMs": 4000
+            }
+          ]
+        },
+        {
+          "text": "Soon I could see the deep blue of the ocean in the distance.",
+          "translation_ko": "이내 저 멀리 짙은 파란 바다가 보이기 시작했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "could",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "see",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "deep",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1680,
+              "endMs": 1900
+            },
+            {
+              "word": "blue",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "of",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2300
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "ocean",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2520,
+              "endMs": 2780
+            },
+            {
+              "word": "in",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2780,
+              "endMs": 3080
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3080,
+              "endMs": 3240
+            },
+            {
+              "word": "distance",
+              "charStart": 51,
+              "charEnd": 59,
+              "startMs": 3240,
+              "endMs": 3600
             }
           ]
         }
@@ -453,63 +887,161 @@
               "charStart": 1,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 220
             },
             {
               "word": "can",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 320,
-              "endMs": 680
+              "startMs": 220,
+              "endMs": 560
             },
             {
               "word": "smell",
               "charStart": 7,
               "charEnd": 12,
-              "startMs": 680,
-              "endMs": 1000
+              "startMs": 560,
+              "endMs": 860
             },
             {
               "word": "the",
               "charStart": 13,
               "charEnd": 16,
-              "startMs": 1000,
-              "endMs": 1260
+              "startMs": 860,
+              "endMs": 1100
             },
             {
               "word": "ocean",
               "charStart": 17,
               "charEnd": 22,
-              "startMs": 1260,
-              "endMs": 2100
+              "startMs": 1100,
+              "endMs": 1980
             },
             {
               "word": "my",
               "charStart": 25,
               "charEnd": 27,
-              "startMs": 2100,
-              "endMs": 2240
+              "startMs": 1980,
+              "endMs": 2100
             },
             {
               "word": "little",
               "charStart": 28,
               "charEnd": 34,
-              "startMs": 2240,
-              "endMs": 2500
+              "startMs": 2100,
+              "endMs": 2360
             },
             {
               "word": "sister",
               "charStart": 35,
               "charEnd": 41,
-              "startMs": 2500,
-              "endMs": 2800
+              "startMs": 2360,
+              "endMs": 2660
             },
             {
               "word": "shouted",
               "charStart": 42,
               "charEnd": 49,
+              "startMs": 2660,
+              "endMs": 3040
+            }
+          ]
+        },
+        {
+          "text": "I laughed and told her we still had one more stop to go.",
+          "translation_ko": "나는 웃으며 아직 한 정거장 더 가야 한다고 알려줬어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "laughed",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "told",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1380
+            },
+            {
+              "word": "her",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1520
+            },
+            {
+              "word": "we",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1820
+            },
+            {
+              "word": "still",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 2060
+            },
+            {
+              "word": "had",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2240
+            },
+            {
+              "word": "one",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2520
+            },
+            {
+              "word": "more",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "stop",
+              "charStart": 45,
+              "charEnd": 49,
               "startMs": 2800,
-              "endMs": 3140
+              "endMs": 3040
+            },
+            {
+              "word": "to",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 3040,
+              "endMs": 3240
+            },
+            {
+              "word": "go",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3240,
+              "endMs": 3420
             }
           ]
         }
@@ -534,84 +1066,252 @@
               "charStart": 3,
               "charEnd": 6,
               "startMs": 280,
-              "endMs": 580
+              "endMs": 500
             },
             {
               "word": "across",
               "charStart": 7,
               "charEnd": 13,
-              "startMs": 580,
-              "endMs": 940
+              "startMs": 500,
+              "endMs": 880
             },
             {
               "word": "the",
               "charStart": 14,
               "charEnd": 17,
-              "startMs": 940,
-              "endMs": 1240
+              "startMs": 880,
+              "endMs": 1140
             },
             {
               "word": "warm",
               "charStart": 18,
               "charEnd": 22,
-              "startMs": 1240,
-              "endMs": 1560
+              "startMs": 1140,
+              "endMs": 1460
             },
             {
               "word": "sand",
               "charStart": 23,
               "charEnd": 27,
-              "startMs": 1560,
-              "endMs": 1960
+              "startMs": 1460,
+              "endMs": 1820
             },
             {
               "word": "and",
               "charStart": 28,
               "charEnd": 31,
-              "startMs": 1960,
-              "endMs": 2400
+              "startMs": 1820,
+              "endMs": 2280
             },
             {
               "word": "let",
               "charStart": 32,
               "charEnd": 35,
-              "startMs": 2400,
-              "endMs": 2520
+              "startMs": 2280,
+              "endMs": 2440
             },
             {
               "word": "the",
               "charStart": 36,
               "charEnd": 39,
-              "startMs": 2520,
-              "endMs": 2720
+              "startMs": 2440,
+              "endMs": 2660
             },
             {
               "word": "waves",
               "charStart": 40,
               "charEnd": 45,
-              "startMs": 2720,
-              "endMs": 3020
+              "startMs": 2660,
+              "endMs": 2960
             },
             {
               "word": "touch",
               "charStart": 46,
               "charEnd": 51,
-              "startMs": 3020,
-              "endMs": 3360
+              "startMs": 2960,
+              "endMs": 3300
             },
             {
               "word": "our",
               "charStart": 52,
               "charEnd": 55,
-              "startMs": 3360,
-              "endMs": 3640
+              "startMs": 3300,
+              "endMs": 3600
             },
             {
               "word": "feet",
               "charStart": 56,
               "charEnd": 60,
-              "startMs": 3640,
-              "endMs": 3820
+              "startMs": 3600,
+              "endMs": 3800
+            }
+          ]
+        },
+        {
+          "text": "The water was cool and refreshing after the long train ride.",
+          "translation_ko": "오랜 기차 여행 후에 물이 시원하고 상쾌하게 느껴졌어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "water",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 860
+            },
+            {
+              "word": "was",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "cool",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1740
+            },
+            {
+              "word": "refreshing",
+              "charStart": 23,
+              "charEnd": 33,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "after",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2660
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2660,
+              "endMs": 2900
+            },
+            {
+              "word": "long",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2900,
+              "endMs": 3140
+            },
+            {
+              "word": "train",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3140,
+              "endMs": 3420
+            },
+            {
+              "word": "ride",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3420,
+              "endMs": 3600
+            }
+          ]
+        },
+        {
+          "text": "Dad built a sandcastle while Mom sat nearby, reading her book.",
+          "translation_ko": "아빠는 모래성을 쌓고, 엄마는 근처에 앉아 책을 읽었어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "built",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "sandcastle",
+              "charStart": 12,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1860
+            },
+            {
+              "word": "while",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2280
+            },
+            {
+              "word": "Mom",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2280,
+              "endMs": 2640
+            },
+            {
+              "word": "sat",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2640,
+              "endMs": 2940
+            },
+            {
+              "word": "nearby",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3420
+            },
+            {
+              "word": "reading",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3860,
+              "endMs": 3940
+            },
+            {
+              "word": "her",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3940,
+              "endMs": 4200
+            },
+            {
+              "word": "book",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 4200,
+              "endMs": 4380
             }
           ]
         }
@@ -629,91 +1329,287 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 380
             },
             {
               "word": "is",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 300,
-              "endMs": 520
+              "startMs": 380,
+              "endMs": 720
             },
             {
               "word": "the",
               "charStart": 9,
               "charEnd": 12,
-              "startMs": 520,
-              "endMs": 720
+              "startMs": 720,
+              "endMs": 920
             },
             {
               "word": "best",
               "charStart": 13,
               "charEnd": 17,
-              "startMs": 720,
-              "endMs": 1020
+              "startMs": 920,
+              "endMs": 1180
             },
             {
               "word": "day",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1020,
-              "endMs": 1420
+              "startMs": 1180,
+              "endMs": 1440
             },
             {
               "word": "ever",
               "charStart": 22,
               "charEnd": 26,
-              "startMs": 1420,
-              "endMs": 1860
+              "startMs": 1440,
+              "endMs": 1800
             },
             {
               "word": "I",
               "charStart": 29,
               "charEnd": 30,
-              "startMs": 2240,
-              "endMs": 2440
+              "startMs": 2060,
+              "endMs": 2160
             },
             {
               "word": "thought",
               "charStart": 31,
               "charEnd": 38,
-              "startMs": 2440,
-              "endMs": 2660
+              "startMs": 2160,
+              "endMs": 2380
             },
             {
               "word": "watching",
               "charStart": 40,
               "charEnd": 48,
-              "startMs": 2960,
-              "endMs": 3280
+              "startMs": 2760,
+              "endMs": 2980
             },
             {
               "word": "the",
               "charStart": 49,
               "charEnd": 52,
-              "startMs": 3280,
-              "endMs": 3560
+              "startMs": 2980,
+              "endMs": 3200
             },
             {
               "word": "sun",
               "charStart": 53,
               "charEnd": 56,
-              "startMs": 3560,
-              "endMs": 3740
+              "startMs": 3200,
+              "endMs": 3360
             },
             {
               "word": "go",
               "charStart": 57,
               "charEnd": 59,
-              "startMs": 3740,
-              "endMs": 3980
+              "startMs": 3360,
+              "endMs": 3580
             },
             {
               "word": "down",
               "charStart": 60,
               "charEnd": 64,
-              "startMs": 3980,
-              "endMs": 4240
+              "startMs": 3580,
+              "endMs": 3780
+            }
+          ]
+        },
+        {
+          "text": "The sky turned orange and pink, and everything looked like a painting.",
+          "translation_ko": "하늘이 주황빛과 분홍빛으로 물들어 모든 것이 그림처럼 보였어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "sky",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 640
+            },
+            {
+              "word": "turned",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "orange",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1660
+            },
+            {
+              "word": "pink",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2360,
+              "endMs": 2440
+            },
+            {
+              "word": "everything",
+              "charStart": 36,
+              "charEnd": 46,
+              "startMs": 2440,
+              "endMs": 2880
+            },
+            {
+              "word": "looked",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 2880,
+              "endMs": 3140
+            },
+            {
+              "word": "like",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3140,
+              "endMs": 3340
+            },
+            {
+              "word": "a",
+              "charStart": 59,
+              "charEnd": 60,
+              "startMs": 3340,
+              "endMs": 3500
+            },
+            {
+              "word": "painting",
+              "charStart": 61,
+              "charEnd": 69,
+              "startMs": 3500,
+              "endMs": 3720
+            }
+          ]
+        },
+        {
+          "text": "I took a deep breath and tried to remember every detail of that moment.",
+          "translation_ko": "나는 깊이 숨을 들이쉬고 그 순간의 모든 것을 기억하려고 애썼어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "took",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 740,
+              "endMs": 1080
+            },
+            {
+              "word": "deep",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "breath",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1760,
+              "endMs": 2400
+            },
+            {
+              "word": "tried",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2400,
+              "endMs": 2660
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2660,
+              "endMs": 3220
+            },
+            {
+              "word": "remember",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 3220,
+              "endMs": 3220
+            },
+            {
+              "word": "every",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3220,
+              "endMs": 3760
+            },
+            {
+              "word": "detail",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3760,
+              "endMs": 4180
+            },
+            {
+              "word": "of",
+              "charStart": 56,
+              "charEnd": 58,
+              "startMs": 4180,
+              "endMs": 4700
+            },
+            {
+              "word": "that",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 4700,
+              "endMs": 4940
+            },
+            {
+              "word": "moment",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 4940,
+              "endMs": 5200
             }
           ]
         }
@@ -731,77 +1627,259 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 180
             },
             {
               "word": "the",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 220,
-              "endMs": 440
+              "startMs": 180,
+              "endMs": 340
             },
             {
               "word": "train",
               "charStart": 7,
               "charEnd": 12,
-              "startMs": 440,
-              "endMs": 620
+              "startMs": 340,
+              "endMs": 580
             },
             {
               "word": "back",
               "charStart": 13,
               "charEnd": 17,
-              "startMs": 620,
-              "endMs": 940
+              "startMs": 580,
+              "endMs": 880
             },
             {
               "word": "home",
               "charStart": 18,
               "charEnd": 22,
-              "startMs": 940,
-              "endMs": 1220
+              "startMs": 880,
+              "endMs": 1160
             },
             {
               "word": "we",
               "charStart": 24,
               "charEnd": 26,
-              "startMs": 1580,
-              "endMs": 1660
+              "startMs": 1400,
+              "endMs": 1500
             },
             {
               "word": "were",
               "charStart": 27,
               "charEnd": 31,
-              "startMs": 1660,
-              "endMs": 1860
+              "startMs": 1500,
+              "endMs": 1680
             },
             {
               "word": "tired",
               "charStart": 32,
               "charEnd": 37,
-              "startMs": 1860,
-              "endMs": 2160
+              "startMs": 1680,
+              "endMs": 2020
             },
             {
               "word": "but",
               "charStart": 38,
               "charEnd": 41,
-              "startMs": 2160,
-              "endMs": 2400
+              "startMs": 2020,
+              "endMs": 2280
             },
             {
               "word": "very",
               "charStart": 42,
               "charEnd": 46,
-              "startMs": 2400,
-              "endMs": 2820
+              "startMs": 2280,
+              "endMs": 2620
             },
             {
               "word": "happy",
               "charStart": 47,
               "charEnd": 52,
-              "startMs": 2820,
-              "endMs": 3080
+              "startMs": 2620,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "My sister fell asleep on Mom's shoulder, still holding a small shell she had found.",
+          "translation_ko": "여동생은 발견한 작은 조개를 손에 쥔 채로 엄마 어깨에 기대어 잠들었어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "sister",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 740
+            },
+            {
+              "word": "fell",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "asleep",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1060,
+              "endMs": 1520
+            },
+            {
+              "word": "on",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1800
+            },
+            {
+              "word": "Mom's",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 2460
+            },
+            {
+              "word": "shoulder",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 2460,
+              "endMs": 2460
+            },
+            {
+              "word": "still",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2940,
+              "endMs": 3140
+            },
+            {
+              "word": "holding",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 3140,
+              "endMs": 3400
+            },
+            {
+              "word": "a",
+              "charStart": 55,
+              "charEnd": 56,
+              "startMs": 3400,
+              "endMs": 3640
+            },
+            {
+              "word": "small",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 3640,
+              "endMs": 3960
+            },
+            {
+              "word": "shell",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 3960,
+              "endMs": 4160
+            },
+            {
+              "word": "she",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 4160,
+              "endMs": 4380
+            },
+            {
+              "word": "had",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 4380,
+              "endMs": 4600
+            },
+            {
+              "word": "found",
+              "charStart": 77,
+              "charEnd": 82,
+              "startMs": 4600,
+              "endMs": 4860
+            }
+          ]
+        },
+        {
+          "text": "Dad and I talked quietly about our next trip.",
+          "translation_ko": "아빠와 나는 다음 여행에 대해 조용히 이야기했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "I",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 940,
+              "endMs": 1280
+            },
+            {
+              "word": "talked",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "quietly",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 2120
+            },
+            {
+              "word": "about",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2120,
+              "endMs": 2900
+            },
+            {
+              "word": "our",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2900,
+              "endMs": 3120
+            },
+            {
+              "word": "next",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 3120,
+              "endMs": 3460
+            },
+            {
+              "word": "trip",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3460,
+              "endMs": 3700
             }
           ]
         }
@@ -810,8 +1888,8 @@
     {
       "sentences": [
         {
-          "text": "After lunch, we follow a forest path behind the cabin. The signs are easy to miss, so we read them carefully together.",
-          "translation_ko": "점심 뒤에 우리는 오두막 뒤 숲길을 따라가요. 표지판을 놓치기 쉬워서 함께 조심히 읽어요.",
+          "text": "After dinner, we looked at the photos we had taken at the beach.",
+          "translation_ko": "저녁 식사 후, 우리는 해변에서 찍은 사진들을 함께 봤어요.",
           "audio": "/seed/daily-6-a-weekend-trip/audio/p10-s1.mp3",
           "wordTimings": [
             {
@@ -819,305 +1897,182 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 380
             },
             {
-              "word": "lunch",
+              "word": "dinner",
               "charStart": 6,
-              "charEnd": 11,
-              "startMs": 300,
-              "endMs": 640
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 700
             },
             {
               "word": "we",
-              "charStart": 13,
-              "charEnd": 15,
-              "startMs": 1060,
-              "endMs": 1300
-            },
-            {
-              "word": "follow",
-              "charStart": 16,
-              "charEnd": 22,
-              "startMs": 1300,
-              "endMs": 1460
-            },
-            {
-              "word": "a",
-              "charStart": 23,
-              "charEnd": 24,
-              "startMs": 1460,
-              "endMs": 1800
-            },
-            {
-              "word": "forest",
-              "charStart": 25,
-              "charEnd": 31,
-              "startMs": 1800,
-              "endMs": 2020
-            },
-            {
-              "word": "path",
-              "charStart": 32,
-              "charEnd": 36,
-              "startMs": 2020,
-              "endMs": 2340
-            },
-            {
-              "word": "behind",
-              "charStart": 37,
-              "charEnd": 43,
-              "startMs": 2340,
-              "endMs": 2700
-            },
-            {
-              "word": "the",
-              "charStart": 44,
-              "charEnd": 47,
-              "startMs": 2700,
-              "endMs": 3180
-            },
-            {
-              "word": "cabin",
-              "charStart": 48,
-              "charEnd": 53,
-              "startMs": 3180,
-              "endMs": 3180
-            },
-            {
-              "word": "The",
-              "charStart": 55,
-              "charEnd": 58,
-              "startMs": 3980,
-              "endMs": 4060
-            },
-            {
-              "word": "signs",
-              "charStart": 59,
-              "charEnd": 64,
-              "startMs": 4060,
-              "endMs": 4320
-            },
-            {
-              "word": "are",
-              "charStart": 65,
-              "charEnd": 68,
-              "startMs": 4320,
-              "endMs": 4520
-            },
-            {
-              "word": "easy",
-              "charStart": 69,
-              "charEnd": 73,
-              "startMs": 4520,
-              "endMs": 4760
-            },
-            {
-              "word": "to",
-              "charStart": 74,
-              "charEnd": 76,
-              "startMs": 4760,
-              "endMs": 5240
-            },
-            {
-              "word": "miss",
-              "charStart": 77,
-              "charEnd": 81,
-              "startMs": 5240,
-              "endMs": 5240
-            },
-            {
-              "word": "so",
-              "charStart": 83,
-              "charEnd": 85,
-              "startMs": 5620,
-              "endMs": 5740
-            },
-            {
-              "word": "we",
-              "charStart": 86,
-              "charEnd": 88,
-              "startMs": 5740,
-              "endMs": 5940
-            },
-            {
-              "word": "read",
-              "charStart": 89,
-              "charEnd": 93,
-              "startMs": 5940,
-              "endMs": 6080
-            },
-            {
-              "word": "them",
-              "charStart": 94,
-              "charEnd": 98,
-              "startMs": 6080,
-              "endMs": 6340
-            },
-            {
-              "word": "carefully",
-              "charStart": 99,
-              "charEnd": 108,
-              "startMs": 6340,
-              "endMs": 6740
-            },
-            {
-              "word": "together",
-              "charStart": 109,
-              "charEnd": 117,
-              "startMs": 6740,
-              "endMs": 7100
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "text": "When we reach the lookout, the whole valley opens below us. I notice how small the roads look from above.",
-          "translation_ko": "전망대에 도착하자 계곡 전체가 우리 아래로 펼쳐져요. 위에서 보면 길들이 얼마나 작아 보이는지 알아차려요.",
-          "audio": "/seed/daily-6-a-weekend-trip/audio/p11-s1.mp3",
-          "wordTimings": [
-            {
-              "word": "When",
-              "charStart": 0,
-              "charEnd": 4,
-              "startMs": 0,
-              "endMs": 740
-            },
-            {
-              "word": "we",
-              "charStart": 5,
-              "charEnd": 7,
-              "startMs": 740,
-              "endMs": 1060
-            },
-            {
-              "word": "reach",
-              "charStart": 8,
-              "charEnd": 13,
-              "startMs": 1060,
-              "endMs": 1320
-            },
-            {
-              "word": "the",
               "charStart": 14,
-              "charEnd": 17,
-              "startMs": 1320,
-              "endMs": 1620
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1340
             },
             {
-              "word": "lookout",
-              "charStart": 18,
-              "charEnd": 25,
-              "startMs": 1620,
-              "endMs": 1820
+              "word": "looked",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1340,
+              "endMs": 1480
+            },
+            {
+              "word": "at",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1640
             },
             {
               "word": "the",
               "charStart": 27,
               "charEnd": 30,
-              "startMs": 2340,
-              "endMs": 2420
+              "startMs": 1640,
+              "endMs": 1820
             },
             {
-              "word": "whole",
+              "word": "photos",
               "charStart": 31,
-              "charEnd": 36,
-              "startMs": 2420,
-              "endMs": 2720
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 2100
             },
             {
-              "word": "valley",
-              "charStart": 37,
-              "charEnd": 43,
-              "startMs": 2720,
-              "endMs": 2960
+              "word": "we",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2300
             },
             {
-              "word": "opens",
-              "charStart": 44,
-              "charEnd": 49,
-              "startMs": 2960,
-              "endMs": 3380
+              "word": "had",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2500
             },
             {
-              "word": "below",
-              "charStart": 50,
-              "charEnd": 55,
-              "startMs": 3380,
-              "endMs": 3640
+              "word": "taken",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2500,
+              "endMs": 2700
             },
             {
-              "word": "us",
-              "charStart": 56,
-              "charEnd": 58,
-              "startMs": 3640,
-              "endMs": 3980
-            },
-            {
-              "word": "I",
-              "charStart": 60,
-              "charEnd": 61,
-              "startMs": 4660,
-              "endMs": 4740
-            },
-            {
-              "word": "notice",
-              "charStart": 62,
-              "charEnd": 68,
-              "startMs": 4740,
-              "endMs": 5000
-            },
-            {
-              "word": "how",
-              "charStart": 69,
-              "charEnd": 72,
-              "startMs": 5000,
-              "endMs": 5340
-            },
-            {
-              "word": "small",
-              "charStart": 73,
-              "charEnd": 78,
-              "startMs": 5340,
-              "endMs": 5660
+              "word": "at",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 2700,
+              "endMs": 2920
             },
             {
               "word": "the",
-              "charStart": 79,
-              "charEnd": 82,
-              "startMs": 5660,
-              "endMs": 6080
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 2920,
+              "endMs": 3060
             },
             {
-              "word": "roads",
-              "charStart": 83,
-              "charEnd": 88,
-              "startMs": 6080,
-              "endMs": 6080
+              "word": "beach",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3060,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "\"Let's print this one and put it on the wall,\" I said.",
+          "translation_ko": "\"이건 인쇄해서 벽에 붙이자,\" 내가 말했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 540
             },
             {
-              "word": "look",
-              "charStart": 89,
-              "charEnd": 93,
-              "startMs": 6080,
-              "endMs": 6380
+              "word": "print",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 800
             },
             {
-              "word": "from",
-              "charStart": 94,
-              "charEnd": 98,
-              "startMs": 6380,
-              "endMs": 6620
+              "word": "this",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 1080
             },
             {
-              "word": "above",
-              "charStart": 99,
-              "charEnd": 104,
-              "startMs": 6620,
-              "endMs": 6880
+              "word": "one",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1760
+            },
+            {
+              "word": "put",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "it",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "on",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2340
+            },
+            {
+              "word": "wall",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2340,
+              "endMs": 2960
+            },
+            {
+              "word": "I",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2960,
+              "endMs": 3180
+            },
+            {
+              "word": "said",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3180,
+              "endMs": 3340
             }
           ]
         }
@@ -1126,8 +2081,306 @@
     {
       "sentences": [
         {
-          "text": "On the way home, I write the best moment in my travel notebook. Remembering details helps the trip stay alive in my mind.",
-          "translation_ko": "집으로 가는 길에 나는 여행 공책에 최고의 순간을 써요. 세부 사항을 기억하면 여행이 마음속에 살아 있게 돼요.",
+          "text": "Before bed, I told my parents what I liked most about the trip.",
+          "translation_ko": "자기 전에 나는 부모님께 여행에서 가장 좋았던 것이 뭔지 말했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Before",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "bed",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "I",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1280,
+              "endMs": 1520
+            },
+            {
+              "word": "told",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1520,
+              "endMs": 1640
+            },
+            {
+              "word": "my",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1640,
+              "endMs": 1880
+            },
+            {
+              "word": "parents",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "what",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2180,
+              "endMs": 2440
+            },
+            {
+              "word": "I",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2440,
+              "endMs": 2660
+            },
+            {
+              "word": "liked",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2660,
+              "endMs": 2780
+            },
+            {
+              "word": "most",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2780,
+              "endMs": 3180
+            },
+            {
+              "word": "about",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3180,
+              "endMs": 3420
+            },
+            {
+              "word": "the",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3420,
+              "endMs": 3560
+            },
+            {
+              "word": "trip",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3560,
+              "endMs": 3760
+            }
+          ]
+        },
+        {
+          "text": "\"I loved feeling the waves and watching the sunset together,\" I said.",
+          "translation_ko": "\"파도를 느끼고 함께 노을을 본 게 가장 좋았어요,\" 내가 말했어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "loved",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "feeling",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 1100
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1620
+            },
+            {
+              "word": "waves",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1620
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 1940
+            },
+            {
+              "word": "watching",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2220,
+              "endMs": 2520
+            },
+            {
+              "word": "sunset",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2520,
+              "endMs": 2820
+            },
+            {
+              "word": "together",
+              "charStart": 51,
+              "charEnd": 59,
+              "startMs": 2820,
+              "endMs": 3700
+            },
+            {
+              "word": "I",
+              "charStart": 62,
+              "charEnd": 63,
+              "startMs": 3700,
+              "endMs": 4300
+            },
+            {
+              "word": "said",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 4300,
+              "endMs": 4500
+            }
+          ]
+        },
+        {
+          "text": "Mom hugged me and said, \"That is exactly why we travel as a family.\"",
+          "translation_ko": "엄마가 나를 안아주며 말했어요, \"그게 바로 우리가 가족으로 여행하는 이유야.\"",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "hugged",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 840
+            },
+            {
+              "word": "me",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "said",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "That",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "is",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2340
+            },
+            {
+              "word": "exactly",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2340,
+              "endMs": 2820
+            },
+            {
+              "word": "why",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2820,
+              "endMs": 3100
+            },
+            {
+              "word": "we",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3100,
+              "endMs": 3320
+            },
+            {
+              "word": "travel",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 3320,
+              "endMs": 3560
+            },
+            {
+              "word": "as",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3560,
+              "endMs": 3780
+            },
+            {
+              "word": "a",
+              "charStart": 58,
+              "charEnd": 59,
+              "startMs": 3780,
+              "endMs": 4060
+            },
+            {
+              "word": "family",
+              "charStart": 60,
+              "charEnd": 66,
+              "startMs": 4060,
+              "endMs": 4200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the way home, I write the best moment in my travel notebook.",
+          "translation_ko": "집으로 가는 길에 나는 여행 공책에 최고의 순간을 써요.",
           "audio": "/seed/daily-6-a-weekend-trip/audio/p12-s1.mp3",
           "wordTimings": [
             {
@@ -1135,161 +2388,308 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 200
             },
             {
               "word": "the",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 220,
-              "endMs": 340
+              "startMs": 200,
+              "endMs": 320
             },
             {
               "word": "way",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 340,
-              "endMs": 560
+              "startMs": 320,
+              "endMs": 520
             },
             {
               "word": "home",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 560,
-              "endMs": 800
+              "startMs": 520,
+              "endMs": 740
             },
             {
               "word": "I",
               "charStart": 17,
               "charEnd": 18,
-              "startMs": 1100,
-              "endMs": 1180
+              "startMs": 900,
+              "endMs": 980
             },
             {
               "word": "write",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 1180,
-              "endMs": 1320
+              "startMs": 980,
+              "endMs": 1100
             },
             {
               "word": "the",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 1320,
-              "endMs": 1540
+              "startMs": 1100,
+              "endMs": 1320
             },
             {
               "word": "best",
               "charStart": 29,
               "charEnd": 33,
-              "startMs": 1540,
-              "endMs": 1840
+              "startMs": 1320,
+              "endMs": 1660
             },
             {
               "word": "moment",
               "charStart": 34,
               "charEnd": 40,
-              "startMs": 1840,
-              "endMs": 2120
+              "startMs": 1660,
+              "endMs": 1980
             },
             {
               "word": "in",
               "charStart": 41,
               "charEnd": 43,
-              "startMs": 2120,
-              "endMs": 2320
+              "startMs": 1980,
+              "endMs": 2160
             },
             {
               "word": "my",
               "charStart": 44,
               "charEnd": 46,
-              "startMs": 2320,
-              "endMs": 2580
+              "startMs": 2160,
+              "endMs": 2400
             },
             {
               "word": "travel",
               "charStart": 47,
               "charEnd": 53,
-              "startMs": 2580,
-              "endMs": 2800
+              "startMs": 2400,
+              "endMs": 2680
             },
             {
               "word": "notebook",
               "charStart": 54,
               "charEnd": 62,
-              "startMs": 2800,
-              "endMs": 3200
+              "startMs": 2680,
+              "endMs": 3080
+            }
+          ]
+        },
+        {
+          "text": "I describe the color of the sky, the sound of the waves, and the smell of the salt air.",
+          "translation_ko": "하늘의 색깔, 파도 소리, 바닷바람의 냄새를 자세히 적어요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 360
             },
             {
-              "word": "Remembering",
-              "charStart": 64,
-              "charEnd": 75,
-              "startMs": 4080,
-              "endMs": 4480
-            },
-            {
-              "word": "details",
-              "charStart": 76,
-              "charEnd": 83,
-              "startMs": 4480,
-              "endMs": 4840
-            },
-            {
-              "word": "helps",
-              "charStart": 84,
-              "charEnd": 89,
-              "startMs": 4840,
-              "endMs": 5160
+              "word": "describe",
+              "charStart": 2,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 840
             },
             {
               "word": "the",
-              "charStart": 90,
-              "charEnd": 93,
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "color",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1400
+            },
+            {
+              "word": "of",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1740
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 1880
+            },
+            {
+              "word": "sky",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2660,
+              "endMs": 2860
+            },
+            {
+              "word": "sound",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2860,
+              "endMs": 3020
+            },
+            {
+              "word": "of",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3020,
+              "endMs": 3220
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3220,
+              "endMs": 3640
+            },
+            {
+              "word": "waves",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3640,
+              "endMs": 3640
+            },
+            {
+              "word": "and",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 4160,
+              "endMs": 4220
+            },
+            {
+              "word": "the",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4220,
+              "endMs": 4660
+            },
+            {
+              "word": "smell",
+              "charStart": 65,
+              "charEnd": 70,
+              "startMs": 4660,
+              "endMs": 4680
+            },
+            {
+              "word": "of",
+              "charStart": 71,
+              "charEnd": 73,
+              "startMs": 4680,
+              "endMs": 4920
+            },
+            {
+              "word": "the",
+              "charStart": 74,
+              "charEnd": 77,
+              "startMs": 4920,
+              "endMs": 5160
+            },
+            {
+              "word": "salt",
+              "charStart": 78,
+              "charEnd": 82,
               "startMs": 5160,
               "endMs": 5360
             },
             {
-              "word": "trip",
-              "charStart": 94,
-              "charEnd": 98,
+              "word": "air",
+              "charStart": 83,
+              "charEnd": 86,
               "startMs": 5360,
-              "endMs": 5580
+              "endMs": 5640
+            }
+          ]
+        },
+        {
+          "text": "Remembering details helps the trip stay alive in my mind.",
+          "translation_ko": "세부 사항을 기억하면 여행이 마음속에 살아 있게 돼요.",
+          "audio": "/seed/daily-6-a-weekend-trip/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Remembering",
+              "charStart": 0,
+              "charEnd": 11,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "details",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1380
+            },
+            {
+              "word": "helps",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "trip",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2360
             },
             {
               "word": "stay",
-              "charStart": 99,
-              "charEnd": 103,
-              "startMs": 5580,
-              "endMs": 5900
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2680
             },
             {
               "word": "alive",
-              "charStart": 104,
-              "charEnd": 109,
-              "startMs": 5900,
-              "endMs": 6320
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2680,
+              "endMs": 3120
             },
             {
               "word": "in",
-              "charStart": 110,
-              "charEnd": 112,
-              "startMs": 6320,
-              "endMs": 6660
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3120,
+              "endMs": 3360
             },
             {
               "word": "my",
-              "charStart": 113,
-              "charEnd": 115,
-              "startMs": 6660,
-              "endMs": 6880
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3360,
+              "endMs": 3560
             },
             {
               "word": "mind",
-              "charStart": 116,
-              "charEnd": 120,
-              "startMs": 6880,
-              "endMs": 7140
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3560,
+              "endMs": 3860
             }
           ]
         }
@@ -1323,7 +2723,7 @@
       "explain_ko": "hurried to the station — 서둘러 역으로 갔어요."
     },
     {
-      "question_ko": "여동생이 무엇을 느꼈나요?",
+      "question_ko": "여동생이 기차에서 무엇을 느꼈나요?",
       "type": "mc",
       "options": [
         "비 냄새",
@@ -1335,16 +2735,16 @@
       "explain_ko": "I can smell the ocean — 바다 냄새를 맡았어요."
     },
     {
-      "question_ko": "바닷가에서 무엇을 했나요?",
+      "question_ko": "바닷가에서 아빠는 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "모래밭을 달렸다",
+        "모래성을 쌓았다",
         "낮잠을 잤다",
         "그림을 그렸다",
         "책을 읽었다"
       ],
       "answerIndex": 0,
-      "explain_ko": "ran across the warm sand — 모래밭을 달렸어요."
+      "explain_ko": "Dad built a sandcastle — 아빠가 모래성을 쌓았어요."
     },
     {
       "question_ko": "집에 돌아올 때 가족의 기분은?",
@@ -1357,18 +2757,6 @@
       ],
       "answerIndex": 2,
       "explain_ko": "tired but very happy — 피곤했지만 행복했어요."
-    },
-    {
-      "question_ko": "전망대에서는 무엇이 아래로 펼쳐졌나요?",
-      "type": "mc",
-      "options": [
-        "계곡",
-        "교실",
-        "시장",
-        "바다만"
-      ],
-      "answerIndex": 0,
-      "explain_ko": "the whole valley opens below us."
     }
   ]
 }

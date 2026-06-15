@@ -20,35 +20,140 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 180
+              "endMs": 280
             },
             {
               "word": "look",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 180,
-              "endMs": 420
+              "startMs": 280,
+              "endMs": 560
             },
             {
               "word": "out",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 420,
-              "endMs": 620
+              "startMs": 560,
+              "endMs": 740
             },
             {
               "word": "the",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 620,
-              "endMs": 820
+              "startMs": 740,
+              "endMs": 1080
             },
             {
               "word": "window",
               "charStart": 15,
               "charEnd": 21,
-              "startMs": 820,
-              "endMs": 1040
+              "startMs": 1080,
+              "endMs": 1180
+            }
+          ]
+        },
+        {
+          "text": "The sky is dark and grey.",
+          "translation_ko": "하늘이 어둡고 잿빛이에요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "sky",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "dark",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "grey",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1580
+            }
+          ]
+        },
+        {
+          "text": "I see little drops on the glass.",
+          "translation_ko": "유리창에 작은 물방울들이 보여요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "see",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "little",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 880
+            },
+            {
+              "word": "drops",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "on",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1560
+            },
+            {
+              "word": "glass",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 1860
             }
           ]
         }
@@ -66,28 +171,140 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 780
             },
             {
               "word": "is",
               "charStart": 3,
               "charEnd": 5,
-              "startMs": 220,
-              "endMs": 540
+              "startMs": 780,
+              "endMs": 1000
             },
             {
               "word": "raining",
               "charStart": 6,
               "charEnd": 13,
-              "startMs": 540,
-              "endMs": 860
+              "startMs": 1000,
+              "endMs": 1320
             },
             {
               "word": "today",
               "charStart": 14,
               "charEnd": 19,
-              "startMs": 860,
-              "endMs": 1260
+              "startMs": 1320,
+              "endMs": 1680
+            }
+          ]
+        },
+        {
+          "text": "I can hear the rain on the roof.",
+          "translation_ko": "지붕 위로 빗소리가 들려요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "hear",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 760
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "rain",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "on",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 2020
+            },
+            {
+              "word": "roof",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "The rain taps the window softly.",
+          "translation_ko": "비가 창문을 살살 두드려요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "rain",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "taps",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "window",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "softly",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 2000
             }
           ]
         }
@@ -105,42 +322,154 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 380
             },
             {
               "word": "put",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 260,
-              "endMs": 460
+              "startMs": 380,
+              "endMs": 600
             },
             {
               "word": "on",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 460,
-              "endMs": 800
+              "startMs": 600,
+              "endMs": 880
             },
             {
               "word": "my",
               "charStart": 9,
               "charEnd": 11,
-              "startMs": 800,
-              "endMs": 1100
+              "startMs": 880,
+              "endMs": 1220
             },
             {
               "word": "yellow",
               "charStart": 12,
               "charEnd": 18,
-              "startMs": 1100,
-              "endMs": 1340
+              "startMs": 1220,
+              "endMs": 1460
             },
             {
               "word": "raincoat",
               "charStart": 19,
               "charEnd": 27,
-              "startMs": 1340,
-              "endMs": 1880
+              "startMs": 1460,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "I button it all the way up.",
+          "translation_ko": "단추를 끝까지 다 잠가요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "button",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 700
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1100
+            },
+            {
+              "word": "all",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1400,
+              "endMs": 1600
+            },
+            {
+              "word": "way",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "up",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1840,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "Now I am ready for the rain.",
+          "translation_ko": "이제 비를 맞을 준비가 됐어요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 560,
+              "endMs": 1040
+            },
+            {
+              "word": "I",
+              "charStart": 4,
+              "charEnd": 5,
+              "startMs": 1040,
+              "endMs": 1280
+            },
+            {
+              "word": "am",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "ready",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1500,
+              "endMs": 1740
+            },
+            {
+              "word": "for",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1740,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 2020,
+              "endMs": 2180
+            },
+            {
+              "word": "rain",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2180,
+              "endMs": 2480
             }
           ]
         }
@@ -158,42 +487,154 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 200
             },
             {
               "word": "take",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 280,
-              "endMs": 740
+              "startMs": 200,
+              "endMs": 560
             },
             {
               "word": "my",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 740,
-              "endMs": 1120
+              "startMs": 560,
+              "endMs": 840
             },
             {
               "word": "umbrella",
               "charStart": 10,
               "charEnd": 18,
-              "startMs": 1120,
-              "endMs": 1500
+              "startMs": 840,
+              "endMs": 1140
             },
             {
               "word": "and",
               "charStart": 19,
               "charEnd": 22,
-              "startMs": 1500,
-              "endMs": 2220
+              "startMs": 1140,
+              "endMs": 1520
             },
             {
               "word": "boots",
               "charStart": 23,
               "charEnd": 28,
-              "startMs": 2220,
-              "endMs": 2520
+              "startMs": 1520,
+              "endMs": 1740
+            }
+          ]
+        },
+        {
+          "text": "I open my umbrella with a pop.",
+          "translation_ko": "우산을 탁 펼쳐요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "open",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "umbrella",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "with",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1560
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1920
+            },
+            {
+              "word": "pop",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 1960
+            }
+          ]
+        },
+        {
+          "text": "I pull on my red boots tight.",
+          "translation_ko": "빨간 장화를 꽉 신어요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "pull",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 580,
+              "endMs": 800
+            },
+            {
+              "word": "on",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 800,
+              "endMs": 1000
+            },
+            {
+              "word": "my",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "red",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "boots",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "tight",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 2080
             }
           ]
         }
@@ -202,8 +643,8 @@
     {
       "sentences": [
         {
-          "text": "I jump in the puddles. Splash!",
-          "translation_ko": "물웅덩이에서 첨벙 뛰어요!",
+          "text": "I jump in the puddles.",
+          "translation_ko": "물웅덩이에서 첨벙 뛰어요.",
           "audio": "/seed/daily-16-a-rainy-day/audio/p5-s1.mp3",
           "wordTimings": [
             {
@@ -211,42 +652,112 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 600
             },
             {
               "word": "jump",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 340,
-              "endMs": 620
+              "startMs": 600,
+              "endMs": 880
             },
             {
               "word": "in",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 620,
-              "endMs": 760
+              "startMs": 880,
+              "endMs": 1140
             },
             {
               "word": "the",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 760,
-              "endMs": 900
+              "startMs": 1140,
+              "endMs": 1380
             },
             {
               "word": "puddles",
               "charStart": 14,
               "charEnd": 21,
-              "startMs": 900,
-              "endMs": 1320
-            },
+              "startMs": 1380,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "Splash! Water flies everywhere.",
+          "translation_ko": "첨벙! 물이 사방으로 튀어요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p5-s2.mp3",
+          "wordTimings": [
             {
               "word": "Splash",
-              "charStart": 23,
-              "charEnd": 29,
-              "startMs": 1980,
-              "endMs": 2380
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 1100
+            },
+            {
+              "word": "Water",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "flies",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 2120,
+              "endMs": 2720
+            },
+            {
+              "word": "everywhere",
+              "charStart": 20,
+              "charEnd": 30,
+              "startMs": 2720,
+              "endMs": 3400
+            }
+          ]
+        },
+        {
+          "text": "I laugh and jump again.",
+          "translation_ko": "나는 웃으면서 또 뛰어요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "laugh",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "and",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 980
+            },
+            {
+              "word": "jump",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "again",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1500
             }
           ]
         }
@@ -264,49 +775,161 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 160
+              "endMs": 220
             },
             {
               "word": "rain",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 160,
-              "endMs": 500
+              "startMs": 220,
+              "endMs": 620
             },
             {
               "word": "feels",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 500,
-              "endMs": 880
+              "startMs": 620,
+              "endMs": 1080
             },
             {
               "word": "cool",
               "charStart": 15,
               "charEnd": 19,
-              "startMs": 880,
-              "endMs": 1280
+              "startMs": 1080,
+              "endMs": 1560
             },
             {
               "word": "on",
               "charStart": 20,
               "charEnd": 22,
-              "startMs": 1280,
-              "endMs": 1660
+              "startMs": 1560,
+              "endMs": 1880
             },
             {
               "word": "my",
               "charStart": 23,
               "charEnd": 25,
-              "startMs": 1660,
-              "endMs": 1860
+              "startMs": 1880,
+              "endMs": 2100
             },
             {
               "word": "hands",
               "charStart": 26,
               "charEnd": 31,
-              "startMs": 1860,
-              "endMs": 2200
+              "startMs": 2100,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "I hold out my hand to catch drops.",
+          "translation_ko": "손을 내밀어 빗방울을 받아요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "hold",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 420,
+              "endMs": 700
+            },
+            {
+              "word": "out",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "my",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "hand",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1640
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1640,
+              "endMs": 2140
+            },
+            {
+              "word": "catch",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2140,
+              "endMs": 2400
+            },
+            {
+              "word": "drops",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2400,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "The drops are soft and cold.",
+          "translation_ko": "빗방울은 부드럽고 차가워요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "drops",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "are",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 1040
+            },
+            {
+              "word": "soft",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "cold",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 1980
             }
           ]
         }
@@ -324,42 +947,147 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 560
             },
             {
               "word": "days",
               "charStart": 6,
               "charEnd": 10,
-              "startMs": 500,
-              "endMs": 720
+              "startMs": 560,
+              "endMs": 760
             },
             {
               "word": "can",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 720,
-              "endMs": 940
+              "startMs": 760,
+              "endMs": 1020
             },
             {
               "word": "be",
               "charStart": 15,
               "charEnd": 17,
-              "startMs": 940,
-              "endMs": 1220
+              "startMs": 1020,
+              "endMs": 1300
             },
             {
               "word": "fun",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1220,
-              "endMs": 1400
+              "startMs": 1300,
+              "endMs": 1460
             },
             {
               "word": "too",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 1660,
-              "endMs": 1720
+              "startMs": 1700,
+              "endMs": 1760
+            }
+          ]
+        },
+        {
+          "text": "I love to play in the rain.",
+          "translation_ko": "나는 빗속에서 노는 것을 좋아해요.",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "love",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 740,
+              "endMs": 1260
+            },
+            {
+              "word": "to",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "play",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1560,
+              "endMs": 1740
+            },
+            {
+              "word": "in",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1740,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1880,
+              "endMs": 2000
+            },
+            {
+              "word": "rain",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2000,
+              "endMs": 2240
+            }
+          ]
+        },
+        {
+          "text": "I hope it rains again tomorrow!",
+          "translation_ko": "내일도 비가 왔으면 좋겠어요!",
+          "audio": "/seed/daily-16-a-rainy-day/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "hope",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "it",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 1020
+            },
+            {
+              "word": "rains",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1020,
+              "endMs": 1020
+            },
+            {
+              "word": "again",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "tomorrow",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1380,
+              "endMs": 1700
             }
           ]
         }

@@ -1,13 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getBook } from "@/lib/data/books";
 import { PLANNED_BOOKS } from "@/lib/data/plannedBooks";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { LevelBadge } from "@/components/ui/LevelBadge";
 import { SetupNotice } from "@/components/shell/SetupNotice";
 import { BookOpen, ArrowLeft } from "lucide-react";
-import { getStaticBooks } from "@/lib/data/staticBooks";
+import { getStaticBooks, getStaticBookMeta } from "@/lib/data/staticBooks";
 
 // 모든 책 상세를 빌드 타임에 정적 생성 → 0 Functions
 export function generateStaticParams() {
@@ -20,7 +19,7 @@ export default async function BookDetailPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const book = await getBook(slug);
+  const book = getStaticBookMeta(slug);
 
   // 시드 전: 출간 예정 카탈로그로 폴백
   if (!book) {
@@ -81,7 +80,7 @@ export default async function BookDetailPage({
             </p>
             <p className="font-ko text-sm">{book.summary_ko}</p>
             <p className="text-xs text-muted-foreground">
-              {book.pages.length}쪽 · {book.wordCount} words
+              {book.pageCount ?? 0}쪽 · {book.wordCount} words
             </p>
           </div>
         </Card>
@@ -98,7 +97,7 @@ export default async function BookDetailPage({
             </p>
             <p className="font-ko">{book.summary_ko}</p>
             <p className="text-sm text-muted-foreground">
-              {book.pages.length}쪽 · {book.wordCount} words
+              {book.pageCount ?? 0}쪽 · {book.wordCount} words
             </p>
           </div>
 
@@ -108,9 +107,9 @@ export default async function BookDetailPage({
             </Link>
           </Button>
 
-          {book.quiz.length > 0 && (
+          {(book.quizCount ?? 0) > 0 && (
             <p className="text-center text-xs text-muted-foreground">
-              다 읽으면 {book.quiz.length}문항 이해 퀴즈가 기다려요.
+              다 읽으면 {book.quizCount}문항 이해 퀴즈가 기다려요.
             </p>
           )}
         </div>

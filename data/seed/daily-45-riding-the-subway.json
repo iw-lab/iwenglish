@@ -20,49 +20,189 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 820
             },
             {
               "word": "I",
               "charStart": 6,
               "charEnd": 7,
-              "startMs": 680,
-              "endMs": 1040
+              "startMs": 1020,
+              "endMs": 1160
             },
             {
               "word": "ride",
               "charStart": 8,
               "charEnd": 12,
-              "startMs": 1040,
-              "endMs": 1140
+              "startMs": 1160,
+              "endMs": 1440
             },
             {
               "word": "the",
               "charStart": 13,
               "charEnd": 16,
-              "startMs": 1140,
-              "endMs": 1380
+              "startMs": 1440,
+              "endMs": 1860
             },
             {
               "word": "subway",
               "charStart": 17,
               "charEnd": 23,
-              "startMs": 1380,
-              "endMs": 1740
+              "startMs": 1860,
+              "endMs": 2160
             },
             {
               "word": "with",
               "charStart": 24,
               "charEnd": 28,
-              "startMs": 1740,
-              "endMs": 2220
+              "startMs": 2160,
+              "endMs": 2460
             },
             {
               "word": "Mom",
               "charStart": 29,
               "charEnd": 32,
-              "startMs": 2220,
-              "endMs": 2480
+              "startMs": 2460,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "We leave the house early in the morning.",
+          "translation_ko": "우리는 아침 일찍 집을 나서요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "leave",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 880,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "house",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "early",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "in",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1920,
+              "endMs": 2080
+            },
+            {
+              "word": "morning",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2080,
+              "endMs": 2220
+            }
+          ]
+        },
+        {
+          "text": "I hold Mom's hand as we walk to the station.",
+          "translation_ko": "역으로 걸어가면서 나는 엄마 손을 잡아요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "hold",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "Mom's",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1200
+            },
+            {
+              "word": "hand",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "as",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "we",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1700,
+              "endMs": 1940
+            },
+            {
+              "word": "walk",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1940,
+              "endMs": 2060
+            },
+            {
+              "word": "to",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2240
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2560
+            },
+            {
+              "word": "station",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 2680
             }
           ]
         }
@@ -80,49 +220,168 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 300
             },
             {
               "word": "tap",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 340,
-              "endMs": 700
+              "startMs": 300,
+              "endMs": 640
             },
             {
               "word": "our",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 700,
-              "endMs": 1020
+              "startMs": 640,
+              "endMs": 920
             },
             {
               "word": "cards",
               "charStart": 11,
               "charEnd": 16,
-              "startMs": 1020,
-              "endMs": 1420
+              "startMs": 920,
+              "endMs": 1280
             },
             {
               "word": "at",
               "charStart": 17,
               "charEnd": 19,
-              "startMs": 1420,
-              "endMs": 1780
+              "startMs": 1280,
+              "endMs": 1460
             },
             {
               "word": "the",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 1780,
-              "endMs": 1900
+              "startMs": 1460,
+              "endMs": 1540
             },
             {
               "word": "gate",
               "charStart": 24,
               "charEnd": 28,
-              "startMs": 1900,
-              "endMs": 2180
+              "startMs": 1540,
+              "endMs": 1840
+            }
+          ]
+        },
+        {
+          "text": "The gate beeps and opens for us.",
+          "translation_ko": "개찰구가 삐 소리를 내며 열려요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "gate",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "beeps",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1480,
+              "endMs": 2120
+            },
+            {
+              "word": "opens",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "for",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2380,
+              "endMs": 2680
+            },
+            {
+              "word": "us",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2680,
+              "endMs": 2900
+            }
+          ]
+        },
+        {
+          "text": "Mom says, \"Always tap before you go through.\"",
+          "translation_ko": "엄마가 \"통과하기 전에 항상 찍어야 해\"라고 말해요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "says",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "Always",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1520
+            },
+            {
+              "word": "tap",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1520,
+              "endMs": 1860
+            },
+            {
+              "word": "before",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2200
+            },
+            {
+              "word": "you",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2200,
+              "endMs": 2440
+            },
+            {
+              "word": "go",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2440,
+              "endMs": 2680
+            },
+            {
+              "word": "through",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 2860
             }
           ]
         }
@@ -131,9 +390,128 @@
     {
       "sentences": [
         {
+          "text": "We walk down to the platform and wait.",
+          "translation_ko": "우리는 승강장으로 내려가서 기다려요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "walk",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "down",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1100
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1400
+            },
+            {
+              "word": "platform",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1840
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1840,
+              "endMs": 2520
+            },
+            {
+              "word": "wait",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2520,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
           "text": "The train arrives with a loud hum.",
           "translation_ko": "기차가 큰 소리를 내며 들어와요.",
-          "audio": "/seed/daily-45-riding-the-subway/audio/p3-s1.mp3",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "train",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "arrives",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1280
+            },
+            {
+              "word": "with",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1940
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2400
+            },
+            {
+              "word": "loud",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2400,
+              "endMs": 2400
+            },
+            {
+              "word": "hum",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2400,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "The doors slide open and people step out first.",
+          "translation_ko": "문이 열리고 사람들이 먼저 내려요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p3-s3.mp3",
           "wordTimings": [
             {
               "word": "The",
@@ -143,46 +521,60 @@
               "endMs": 480
             },
             {
-              "word": "train",
+              "word": "doors",
               "charStart": 4,
               "charEnd": 9,
               "startMs": 480,
-              "endMs": 780
+              "endMs": 800
             },
             {
-              "word": "arrives",
+              "word": "slide",
               "charStart": 10,
-              "charEnd": 17,
-              "startMs": 780,
-              "endMs": 1200
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1180
             },
             {
-              "word": "with",
-              "charStart": 18,
-              "charEnd": 22,
-              "startMs": 1200,
-              "endMs": 1440
+              "word": "open",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1560
             },
             {
-              "word": "a",
-              "charStart": 23,
+              "word": "and",
+              "charStart": 21,
               "charEnd": 24,
-              "startMs": 1440,
-              "endMs": 1900
+              "startMs": 1560,
+              "endMs": 2240
             },
             {
-              "word": "loud",
+              "word": "people",
               "charStart": 25,
-              "charEnd": 29,
-              "startMs": 1900,
-              "endMs": 1920
+              "charEnd": 31,
+              "startMs": 2240,
+              "endMs": 2560
             },
             {
-              "word": "hum",
-              "charStart": 30,
-              "charEnd": 33,
-              "startMs": 1920,
-              "endMs": 2160
+              "word": "step",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "out",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "first",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3140,
+              "endMs": 3520
             }
           ]
         }
@@ -191,8 +583,8 @@
     {
       "sentences": [
         {
-          "text": "We find two empty seats and sit.",
-          "translation_ko": "우리는 빈자리 두 개를 찾아 앉아요.",
+          "text": "We step inside and look around.",
+          "translation_ko": "우리는 안으로 들어가 둘러봐요.",
           "audio": "/seed/daily-45-riding-the-subway/audio/p4-s1.mp3",
           "wordTimings": [
             {
@@ -200,109 +592,168 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 300
+            },
+            {
+              "word": "step",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "inside",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1280
+            },
+            {
+              "word": "look",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1440
+            },
+            {
+              "word": "around",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1440,
+              "endMs": 1740
+            }
+          ]
+        },
+        {
+          "text": "We find two empty seats and sit.",
+          "translation_ko": "우리는 빈자리 두 개를 찾아 앉아요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
             },
             {
               "word": "find",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 280,
-              "endMs": 580
+              "startMs": 220,
+              "endMs": 540
             },
             {
               "word": "two",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 580,
-              "endMs": 1040
+              "startMs": 540,
+              "endMs": 940
             },
             {
               "word": "empty",
               "charStart": 12,
               "charEnd": 17,
-              "startMs": 1040,
-              "endMs": 1400
+              "startMs": 940,
+              "endMs": 1200
             },
             {
               "word": "seats",
               "charStart": 18,
               "charEnd": 23,
-              "startMs": 1400,
-              "endMs": 1780
+              "startMs": 1200,
+              "endMs": 1560
             },
             {
               "word": "and",
               "charStart": 24,
               "charEnd": 27,
-              "startMs": 1780,
-              "endMs": 2360
+              "startMs": 1560,
+              "endMs": 2000
             },
             {
               "word": "sit",
               "charStart": 28,
               "charEnd": 31,
-              "startMs": 2360,
-              "endMs": 2600
+              "startMs": 2000,
+              "endMs": 2220
             }
           ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+        },
         {
-          "text": "I watch the dark tunnel rush by.",
-          "translation_ko": "나는 어두운 터널이 빠르게 지나가는 걸 봐요.",
-          "audio": "/seed/daily-45-riding-the-subway/audio/p5-s1.mp3",
+          "text": "I put my bag on my lap and smile.",
+          "translation_ko": "나는 가방을 무릎 위에 올리고 미소 지어요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p4-s3.mp3",
           "wordTimings": [
             {
               "word": "I",
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 700
+              "endMs": 580
             },
             {
-              "word": "watch",
+              "word": "put",
               "charStart": 2,
-              "charEnd": 7,
-              "startMs": 700,
+              "charEnd": 5,
+              "startMs": 580,
+              "endMs": 740
+            },
+            {
+              "word": "my",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 740,
               "endMs": 1000
             },
             {
-              "word": "the",
-              "charStart": 8,
-              "charEnd": 11,
+              "word": "bag",
+              "charStart": 9,
+              "charEnd": 12,
               "startMs": 1000,
-              "endMs": 1280
+              "endMs": 1200
             },
             {
-              "word": "dark",
-              "charStart": 12,
-              "charEnd": 16,
-              "startMs": 1280,
-              "endMs": 1560
+              "word": "on",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1200,
+              "endMs": 1360
             },
             {
-              "word": "tunnel",
-              "charStart": 17,
-              "charEnd": 23,
-              "startMs": 1560,
-              "endMs": 1860
+              "word": "my",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1360,
+              "endMs": 1540
             },
             {
-              "word": "rush",
-              "charStart": 24,
-              "charEnd": 28,
-              "startMs": 1860,
-              "endMs": 2160
+              "word": "lap",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1540,
+              "endMs": 1780
             },
             {
-              "word": "by",
-              "charStart": 29,
-              "charEnd": 31,
-              "startMs": 2160,
-              "endMs": 2540
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1780,
+              "endMs": 2100
+            },
+            {
+              "word": "smile",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2100,
+              "endMs": 2420
             }
           ]
         }
@@ -311,118 +762,426 @@
     {
       "sentences": [
         {
-          "text": "A kind man gives his seat to others.",
-          "translation_ko": "친절한 아저씨가 다른 사람에게 자리를 양보해요.",
+          "text": "The train moves faster and faster.",
+          "translation_ko": "기차가 점점 더 빠르게 달려요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "train",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "moves",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "faster",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 960,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1840
+            },
+            {
+              "word": "faster",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1840,
+              "endMs": 2140
+            }
+          ]
+        },
+        {
+          "text": "I watch the dark tunnel rush by.",
+          "translation_ko": "나는 어두운 터널이 빠르게 지나가는 걸 봐요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "watch",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "dark",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "tunnel",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1460
+            },
+            {
+              "word": "rush",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1880
+            },
+            {
+              "word": "by",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "It feels a little like flying underground.",
+          "translation_ko": "마치 지하에서 날아가는 것 같은 느낌이에요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "feels",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 180,
+              "endMs": 540
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 780
+            },
+            {
+              "word": "little",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 840
+            },
+            {
+              "word": "like",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "flying",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1200,
+              "endMs": 1540
+            },
+            {
+              "word": "underground",
+              "charStart": 30,
+              "charEnd": 41,
+              "startMs": 1540,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "An older woman gets on at the next stop.",
+          "translation_ko": "다음 정거장에서 할머니 한 분이 타세요.",
           "audio": "/seed/daily-45-riding-the-subway/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "An",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "older",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "woman",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 960
+            },
+            {
+              "word": "gets",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "on",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1620
+            },
+            {
+              "word": "at",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1620,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1980,
+              "endMs": 2100
+            },
+            {
+              "word": "next",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2420
+            },
+            {
+              "word": "stop",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "A kind man gives his seat to her.",
+          "translation_ko": "친절한 아저씨가 할머니께 자리를 양보해요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p6-s2.mp3",
           "wordTimings": [
             {
               "word": "A",
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 740
             },
             {
               "word": "kind",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 260,
-              "endMs": 660
+              "startMs": 740,
+              "endMs": 1020
             },
             {
               "word": "man",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 660,
-              "endMs": 1080
+              "startMs": 1020,
+              "endMs": 1320
             },
             {
               "word": "gives",
               "charStart": 11,
               "charEnd": 16,
-              "startMs": 1080,
-              "endMs": 1380
+              "startMs": 1320,
+              "endMs": 1540
             },
             {
               "word": "his",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1380,
-              "endMs": 1660
+              "startMs": 1540,
+              "endMs": 1760
             },
             {
               "word": "seat",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1660,
-              "endMs": 1880
+              "startMs": 1760,
+              "endMs": 1940
             },
             {
               "word": "to",
               "charStart": 26,
               "charEnd": 28,
-              "startMs": 1880,
+              "startMs": 1940,
               "endMs": 2140
             },
             {
-              "word": "others",
+              "word": "her",
               "charStart": 29,
-              "charEnd": 35,
+              "charEnd": 32,
               "startMs": 2140,
-              "endMs": 2400
+              "endMs": 2240
             }
           ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+        },
         {
-          "text": "Mom says our stop is next.",
-          "translation_ko": "엄마가 다음이 우리 정거장이라고 말해요.",
-          "audio": "/seed/daily-45-riding-the-subway/audio/p7-s1.mp3",
+          "text": "She nods and says, \"Thank you so much.\"",
+          "translation_ko": "할머니가 고개를 끄덕이며 \"정말 감사합니다\"라고 말씀하세요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "nods",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 820
+            },
+            {
+              "word": "and",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "says",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "Thank",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "you",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "so",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2400,
+              "endMs": 2600
+            },
+            {
+              "word": "much",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2600,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "Mom whispers to me, \"That is very kind.\"",
+          "translation_ko": "엄마가 나에게 속삭여요, \"참 친절하구나.\"",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p6-s4.mp3",
           "wordTimings": [
             {
               "word": "Mom",
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 800
+              "endMs": 440
             },
             {
-              "word": "says",
+              "word": "whispers",
               "charStart": 4,
-              "charEnd": 8,
-              "startMs": 800,
-              "endMs": 1140
-            },
-            {
-              "word": "our",
-              "charStart": 9,
               "charEnd": 12,
-              "startMs": 1140,
-              "endMs": 1460
+              "startMs": 440,
+              "endMs": 820
             },
             {
-              "word": "stop",
+              "word": "to",
               "charStart": 13,
-              "charEnd": 17,
-              "startMs": 1460,
-              "endMs": 1700
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1100
             },
             {
-              "word": "is",
-              "charStart": 18,
-              "charEnd": 20,
-              "startMs": 1700,
+              "word": "me",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "That",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1600,
               "endMs": 1960
             },
             {
-              "word": "next",
-              "charStart": 21,
-              "charEnd": 25,
+              "word": "is",
+              "charStart": 26,
+              "charEnd": 28,
               "startMs": 1960,
               "endMs": 2200
+            },
+            {
+              "word": "very",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "kind",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2520,
+              "endMs": 2880
             }
           ]
         }
@@ -431,9 +1190,107 @@
     {
       "sentences": [
         {
-          "text": "We step off and climb the stairs.",
-          "translation_ko": "우리는 내려서 계단을 올라가요.",
-          "audio": "/seed/daily-45-riding-the-subway/audio/p8-s1.mp3",
+          "text": "The train slows down and stops.",
+          "translation_ko": "기차가 속도를 줄이며 멈춰요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "train",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 640
+            },
+            {
+              "word": "slows",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 640,
+              "endMs": 1000
+            },
+            {
+              "word": "down",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1840
+            },
+            {
+              "word": "stops",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2140
+            }
+          ]
+        },
+        {
+          "text": "Mom says our stop is next.",
+          "translation_ko": "엄마가 다음이 우리 정거장이라고 말해요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "says",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "our",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "stop",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "is",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "next",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1840,
+              "endMs": 2100
+            }
+          ]
+        },
+        {
+          "text": "We stand up and move toward the door.",
+          "translation_ko": "우리는 일어나서 문 쪽으로 이동해요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p7-s3.mp3",
           "wordTimings": [
             {
               "word": "We",
@@ -443,46 +1300,358 @@
               "endMs": 280
             },
             {
-              "word": "step",
+              "word": "stand",
               "charStart": 3,
-              "charEnd": 7,
+              "charEnd": 8,
               "startMs": 280,
-              "endMs": 480
+              "endMs": 620
             },
             {
-              "word": "off",
-              "charStart": 8,
+              "word": "up",
+              "charStart": 9,
               "charEnd": 11,
-              "startMs": 480,
-              "endMs": 760
+              "startMs": 620,
+              "endMs": 900
             },
             {
               "word": "and",
               "charStart": 12,
               "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1280
+            },
+            {
+              "word": "move",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1440
+            },
+            {
+              "word": "toward",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 1880
+            },
+            {
+              "word": "door",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1880,
+              "endMs": 2080
+            }
+          ]
+        },
+        {
+          "text": "I hold the handrail so I don't fall.",
+          "translation_ko": "넘어지지 않으려고 손잡이를 꼭 잡아요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p7-s4.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "hold",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 760
+            },
+            {
+              "word": "handrail",
+              "charStart": 11,
+              "charEnd": 19,
               "startMs": 760,
-              "endMs": 1200
+              "endMs": 1180
+            },
+            {
+              "word": "so",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "I",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "don't",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 2060
+            },
+            {
+              "word": "fall",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The doors open and we step off.",
+          "translation_ko": "문이 열리고 우리는 내려요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "doors",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "open",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 1000
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1560
+            },
+            {
+              "word": "we",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1560,
+              "endMs": 1900
+            },
+            {
+              "word": "step",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2040
+            },
+            {
+              "word": "off",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2040,
+              "endMs": 2340
+            }
+          ]
+        },
+        {
+          "text": "We step off and climb the stairs.",
+          "translation_ko": "우리는 내려서 계단을 올라가요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "step",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "off",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1240,
+              "endMs": 1660
             },
             {
               "word": "climb",
               "charStart": 16,
               "charEnd": 21,
-              "startMs": 1200,
-              "endMs": 1220
+              "startMs": 1660,
+              "endMs": 1900
             },
             {
               "word": "the",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 1220,
-              "endMs": 1520
+              "startMs": 1900,
+              "endMs": 2220
             },
             {
               "word": "stairs",
               "charStart": 26,
               "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "The warm sunlight meets us at the top.",
+          "translation_ko": "계단 위에서 따뜻한 햇빛이 우리를 맞이해요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "warm",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 620
+            },
+            {
+              "word": "sunlight",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 1000
+            },
+            {
+              "word": "meets",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "us",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1320,
+              "endMs": 1520
+            },
+            {
+              "word": "at",
+              "charStart": 27,
+              "charEnd": 29,
               "startMs": 1520,
-              "endMs": 1720
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "top",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "\"We made it!\" I say, and Mom laughs.",
+          "translation_ko": "\"다 왔다!\" 내가 외치자 엄마가 웃어요.",
+          "audio": "/seed/daily-45-riding-the-subway/audio/p8-s4.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "made",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1060,
+              "endMs": 1800
+            },
+            {
+              "word": "I",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "say",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2780,
+              "endMs": 2960
+            },
+            {
+              "word": "Mom",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2960,
+              "endMs": 3240
+            },
+            {
+              "word": "laughs",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 3240,
+              "endMs": 3700
             }
           ]
         }
@@ -528,16 +1697,16 @@
       "explain_ko": "two empty seats — 빈자리 두 개예요."
     },
     {
-      "question_ko": "친절한 아저씨는 무엇을 했나요?",
+      "question_ko": "친절한 아저씨는 누구에게 자리를 양보했나요?",
       "type": "mc",
       "options": [
-        "자리를 양보했어요",
-        "소리쳤어요",
-        "잤어요",
-        "내렸어요"
+        "할머니",
+        "아이",
+        "아저씨",
+        "엄마"
       ],
       "answerIndex": 0,
-      "explain_ko": "gives his seat — 자리를 양보해요."
+      "explain_ko": "gives his seat to her — 할머니께 자리를 양보해요."
     },
     {
       "question_ko": "마지막에 무엇을 올라갔나요?",

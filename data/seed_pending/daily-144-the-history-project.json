@@ -1,0 +1,2619 @@
+{
+  "slug": "daily-144-the-history-project",
+  "title": "The History Project",
+  "title_ko": "역사 프로젝트",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 할아버지의 옛이야기를 듣고 기록하며 가족 역사를 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun's teacher gave the class a special project.",
+          "translation_ko": "준의 선생님이 반 아이들에게 특별한 과제를 내주셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun's",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "teacher",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 960
+            },
+            {
+              "word": "gave",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "class",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1640,
+              "endMs": 1940
+            },
+            {
+              "word": "a",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2340
+            },
+            {
+              "word": "special",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "project",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2620,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "\"Interview someone older in your family and record their stories,\" she said.",
+          "translation_ko": "\"가족 어른을 인터뷰하고 이야기를 기록해 보세요\"라고 선생님이 말씀하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Interview",
+              "charStart": 1,
+              "charEnd": 10,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "someone",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 500,
+              "endMs": 960
+            },
+            {
+              "word": "older",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 960,
+              "endMs": 1320
+            },
+            {
+              "word": "in",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1480
+            },
+            {
+              "word": "your",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1480,
+              "endMs": 1640
+            },
+            {
+              "word": "family",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 1640,
+              "endMs": 2000
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "record",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2260,
+              "endMs": 2620
+            },
+            {
+              "word": "their",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2620,
+              "endMs": 2880
+            },
+            {
+              "word": "stories",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 2880,
+              "endMs": 3200
+            },
+            {
+              "word": "she",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 3340,
+              "endMs": 3460
+            },
+            {
+              "word": "said",
+              "charStart": 71,
+              "charEnd": 75,
+              "startMs": 3460,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun called Mina after school.",
+          "translation_ko": "준은 방과 후 미나에게 전화했어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "called",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "Mina",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "after",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1500,
+              "endMs": 1960
+            },
+            {
+              "word": "school",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "\"Come interview my grandpa with me,\" he said.",
+          "translation_ko": "\"나랑 같이 우리 할아버지 인터뷰하러 가자\"라고 했어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Come",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "interview",
+              "charStart": 6,
+              "charEnd": 15,
+              "startMs": 400,
+              "endMs": 880
+            },
+            {
+              "word": "my",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "grandpa",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "word": "with",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "me",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "he",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2140,
+              "endMs": 2280
+            },
+            {
+              "word": "said",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2280,
+              "endMs": 2540
+            }
+          ]
+        },
+        {
+          "text": "Mina agreed because she loved old stories.",
+          "translation_ko": "미나는 옛이야기를 좋아했기 때문에 가겠다고 했어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "agreed",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 1160
+            },
+            {
+              "word": "because",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1600
+            },
+            {
+              "word": "she",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1980
+            },
+            {
+              "word": "loved",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1980,
+              "endMs": 2280
+            },
+            {
+              "word": "old",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2280,
+              "endMs": 2740
+            },
+            {
+              "word": "stories",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2740,
+              "endMs": 3100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Saturday, Jun and Mina arrived at Grandpa's apartment.",
+          "translation_ko": "토요일에 준과 미나는 할아버지 아파트에 도착했어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "Saturday",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "Jun",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "Mina",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "arrived",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 2340
+            },
+            {
+              "word": "at",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2520
+            },
+            {
+              "word": "Grandpa's",
+              "charStart": 37,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 3060
+            },
+            {
+              "word": "apartment",
+              "charStart": 47,
+              "charEnd": 56,
+              "startMs": 3060,
+              "endMs": 3340
+            }
+          ]
+        },
+        {
+          "text": "They brought a notebook and a small recorder.",
+          "translation_ko": "둘은 공책과 작은 녹음기를 가져왔어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "brought",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 760
+            },
+            {
+              "word": "notebook",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 760,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1240,
+              "endMs": 1800
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 2000
+            },
+            {
+              "word": "small",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "recorder",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2260,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "Grandpa was waiting with barley tea on the table.",
+          "translation_ko": "할아버지는 식탁에 보리차를 준비해 두고 기다리고 계셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "was",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "waiting",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "with",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "barley",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1120,
+              "endMs": 1440
+            },
+            {
+              "word": "tea",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1440,
+              "endMs": 1780
+            },
+            {
+              "word": "on",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 1780,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 1940,
+              "endMs": 2060
+            },
+            {
+              "word": "table",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2060,
+              "endMs": 2360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Grandpa, what was life like when you were young?\" Jun asked.",
+          "translation_ko": "\"할아버지, 어렸을 때 어떤 생활을 하셨어요?\" 하고 준이 여쭤봤어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "what",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1200
+            },
+            {
+              "word": "was",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "life",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "like",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 1880
+            },
+            {
+              "word": "when",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2000
+            },
+            {
+              "word": "you",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2140
+            },
+            {
+              "word": "were",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2140,
+              "endMs": 2360
+            },
+            {
+              "word": "young",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2360,
+              "endMs": 2580
+            },
+            {
+              "word": "Jun",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3040,
+              "endMs": 3140
+            },
+            {
+              "word": "asked",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3140,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "Grandpa smiled and leaned back.",
+          "translation_ko": "할아버지는 미소를 지으며 의자에 등을 기대셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "smiled",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 500,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1540
+            },
+            {
+              "word": "leaned",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1620
+            },
+            {
+              "word": "back",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "\"I grew up in a small village in the mountains,\" he said.",
+          "translation_ko": "\"나는 산속의 작은 마을에서 자랐단다\"라고 할아버지가 말씀하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "grew",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 800,
+              "endMs": 1000
+            },
+            {
+              "word": "up",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "in",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "small",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1660,
+              "endMs": 1960
+            },
+            {
+              "word": "village",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1960,
+              "endMs": 2320
+            },
+            {
+              "word": "in",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2320,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2520,
+              "endMs": 3140
+            },
+            {
+              "word": "mountains",
+              "charStart": 37,
+              "charEnd": 46,
+              "startMs": 3140,
+              "endMs": 3440
+            },
+            {
+              "word": "he",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3440,
+              "endMs": 3600
+            },
+            {
+              "word": "said",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3600,
+              "endMs": 3840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandpa explained that his village had no electricity.",
+          "translation_ko": "할아버지는 마을에 전기가 없었다고 설명하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "explained",
+              "charStart": 8,
+              "charEnd": 17,
+              "startMs": 660,
+              "endMs": 1240
+            },
+            {
+              "word": "that",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "his",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1740
+            },
+            {
+              "word": "village",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 1920
+            },
+            {
+              "word": "had",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2140
+            },
+            {
+              "word": "no",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "electricity",
+              "charStart": 42,
+              "charEnd": 53,
+              "startMs": 2420,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "\"We used oil lamps to read at night,\" he said.",
+          "translation_ko": "\"밤에는 기름 등잔을 켜고 책을 읽었지\"라고 하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "used",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 700
+            },
+            {
+              "word": "oil",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 1100
+            },
+            {
+              "word": "lamps",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1460
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1460,
+              "endMs": 1880
+            },
+            {
+              "word": "read",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1880,
+              "endMs": 2040
+            },
+            {
+              "word": "at",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2040,
+              "endMs": 2240
+            },
+            {
+              "word": "night",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2800
+            },
+            {
+              "word": "he",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2800,
+              "endMs": 2940
+            },
+            {
+              "word": "said",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2940,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "Mina could not imagine studying without lights.",
+          "translation_ko": "미나는 전등도 없이 공부한다는 게 상상이 안 됐어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "could",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "not",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 1180
+            },
+            {
+              "word": "imagine",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1620
+            },
+            {
+              "word": "studying",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1620,
+              "endMs": 2040
+            },
+            {
+              "word": "without",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2040,
+              "endMs": 2480
+            },
+            {
+              "word": "lights",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2480,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"What did you do for fun back then?\" Mina asked.",
+          "translation_ko": "\"그때는 뭐 하고 노셨어요?\" 하고 미나가 물었어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "did",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 780
+            },
+            {
+              "word": "you",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 980
+            },
+            {
+              "word": "do",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "for",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1540
+            },
+            {
+              "word": "fun",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 1880
+            },
+            {
+              "word": "back",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1880,
+              "endMs": 2160
+            },
+            {
+              "word": "then",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2460
+            },
+            {
+              "word": "Mina",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 3080,
+              "endMs": 3180
+            },
+            {
+              "word": "asked",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3180,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "Grandpa laughed and said the children played outside all day, even in winter.",
+          "translation_ko": "할아버지는 웃으시며 아이들이 겨울에도 하루 종일 밖에서 놀았다고 하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "laughed",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "children",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1460,
+              "endMs": 1720
+            },
+            {
+              "word": "played",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 1720,
+              "endMs": 2040
+            },
+            {
+              "word": "outside",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2040,
+              "endMs": 2500
+            },
+            {
+              "word": "all",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 2500,
+              "endMs": 2840
+            },
+            {
+              "word": "day",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 2840,
+              "endMs": 3120
+            },
+            {
+              "word": "even",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3620,
+              "endMs": 3780
+            },
+            {
+              "word": "in",
+              "charStart": 67,
+              "charEnd": 69,
+              "startMs": 3780,
+              "endMs": 4040
+            },
+            {
+              "word": "winter",
+              "charStart": 70,
+              "charEnd": 76,
+              "startMs": 4040,
+              "endMs": 4200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandpa described the one small school all the village children shared.",
+          "translation_ko": "할아버지는 마을 아이들이 모두 함께 다닌 작은 학교 이야기를 해주셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "described",
+              "charStart": 8,
+              "charEnd": 17,
+              "startMs": 500,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1240
+            },
+            {
+              "word": "one",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1620
+            },
+            {
+              "word": "small",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1620,
+              "endMs": 1940
+            },
+            {
+              "word": "school",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1940,
+              "endMs": 2300
+            },
+            {
+              "word": "all",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2300,
+              "endMs": 2840
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2840,
+              "endMs": 3040
+            },
+            {
+              "word": "village",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 3040,
+              "endMs": 3320
+            },
+            {
+              "word": "children",
+              "charStart": 55,
+              "charEnd": 63,
+              "startMs": 3320,
+              "endMs": 3780
+            },
+            {
+              "word": "shared",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 3780,
+              "endMs": 4160
+            }
+          ]
+        },
+        {
+          "text": "\"One teacher taught every grade,\" he said.",
+          "translation_ko": "\"선생님 한 분이 전 학년을 가르쳐 주셨단다\"라고 하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "teacher",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "taught",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 820,
+              "endMs": 1220
+            },
+            {
+              "word": "every",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1680
+            },
+            {
+              "word": "grade",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "he",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2420
+            },
+            {
+              "word": "said",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2420,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "Jun thought it sounded hard but interesting.",
+          "translation_ko": "준은 힘들었겠지만 재미있었을 것 같다고 생각했어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "thought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1180
+            },
+            {
+              "word": "sounded",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "hard",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1400,
+              "endMs": 1900
+            },
+            {
+              "word": "but",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2120,
+              "endMs": 2260
+            },
+            {
+              "word": "interesting",
+              "charStart": 32,
+              "charEnd": 43,
+              "startMs": 2260,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then Grandpa's voice became quieter.",
+          "translation_ko": "그러자 할아버지의 목소리가 조용해졌어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Grandpa's",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 360,
+              "endMs": 960
+            },
+            {
+              "word": "voice",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "became",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1280,
+              "endMs": 1660
+            },
+            {
+              "word": "quieter",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1660,
+              "endMs": 2100
+            }
+          ]
+        },
+        {
+          "text": "\"When I was twelve, my father brought us to Seoul to find better work,\" he said.",
+          "translation_ko": "\"내가 열두 살 때 아버지가 더 좋은 일을 찾아 우리를 서울로 데려가셨단다\"라고 하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "I",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 420
+            },
+            {
+              "word": "was",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 640
+            },
+            {
+              "word": "twelve",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 640,
+              "endMs": 1060
+            },
+            {
+              "word": "my",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1560,
+              "endMs": 1780
+            },
+            {
+              "word": "father",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1780,
+              "endMs": 2000
+            },
+            {
+              "word": "brought",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2320
+            },
+            {
+              "word": "us",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2540
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 2940
+            },
+            {
+              "word": "Seoul",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2940,
+              "endMs": 2960
+            },
+            {
+              "word": "to",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2960,
+              "endMs": 3200
+            },
+            {
+              "word": "find",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3200,
+              "endMs": 3440
+            },
+            {
+              "word": "better",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3440,
+              "endMs": 3740
+            },
+            {
+              "word": "work",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 3740,
+              "endMs": 4500
+            },
+            {
+              "word": "he",
+              "charStart": 72,
+              "charEnd": 74,
+              "startMs": 4500,
+              "endMs": 4700
+            },
+            {
+              "word": "said",
+              "charStart": 75,
+              "charEnd": 79,
+              "startMs": 4700,
+              "endMs": 4900
+            }
+          ]
+        },
+        {
+          "text": "\"Leaving the village was the hardest thing I had ever done.\"",
+          "translation_ko": "\"고향을 떠나는 게 그때까지 살면서 가장 힘든 일이었어.\"",
+          "audio": "/seed/daily-144-the-history-project/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Leaving",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "village",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "was",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1980,
+              "endMs": 2340
+            },
+            {
+              "word": "hardest",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2480
+            },
+            {
+              "word": "thing",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2480,
+              "endMs": 2820
+            },
+            {
+              "word": "I",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 2820,
+              "endMs": 3000
+            },
+            {
+              "word": "had",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3000,
+              "endMs": 3160
+            },
+            {
+              "word": "ever",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3160,
+              "endMs": 3580
+            },
+            {
+              "word": "done",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3580,
+              "endMs": 3780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Did you feel sad, Grandpa?\" Jun asked softly.",
+          "translation_ko": "\"슬프셨어요, 할아버지?\" 하고 준이 조용히 여쭤봤어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Did",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "you",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "feel",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1160
+            },
+            {
+              "word": "sad",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1620
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2660
+            },
+            {
+              "word": "Jun",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2660,
+              "endMs": 3360
+            },
+            {
+              "word": "asked",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 3360,
+              "endMs": 3740
+            },
+            {
+              "word": "softly",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 3740,
+              "endMs": 4400
+            }
+          ]
+        },
+        {
+          "text": "\"Very sad,\" Grandpa said, \"but Seoul gave our family new chances.\"",
+          "translation_ko": "\"많이 슬펐지\"라고 할아버지가 말씀하셨어요. \"하지만 서울이 우리 가족에게 새로운 기회를 줬단다.\"",
+          "audio": "/seed/daily-144-the-history-project/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Very",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "sad",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 1280
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1960
+            },
+            {
+              "word": "but",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "Seoul",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2680,
+              "endMs": 2920
+            },
+            {
+              "word": "gave",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2920,
+              "endMs": 3200
+            },
+            {
+              "word": "our",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3200,
+              "endMs": 3440
+            },
+            {
+              "word": "family",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3440,
+              "endMs": 3700
+            },
+            {
+              "word": "new",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3700,
+              "endMs": 4060
+            },
+            {
+              "word": "chances",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 4060,
+              "endMs": 4380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina asked, \"What do you wish young people today knew about the past?\"",
+          "translation_ko": "미나가 물었어요. \"요즘 젊은 사람들이 옛날에 대해 꼭 알았으면 하는 게 있으세요?\"",
+          "audio": "/seed/daily-144-the-history-project/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "asked",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 820
+            },
+            {
+              "word": "What",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "do",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1420
+            },
+            {
+              "word": "you",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "wish",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 1760
+            },
+            {
+              "word": "young",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "people",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2040,
+              "endMs": 2340
+            },
+            {
+              "word": "today",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2340,
+              "endMs": 2640
+            },
+            {
+              "word": "knew",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2640,
+              "endMs": 2880
+            },
+            {
+              "word": "about",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2880,
+              "endMs": 3100
+            },
+            {
+              "word": "the",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3100,
+              "endMs": 3260
+            },
+            {
+              "word": "past",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 3260,
+              "endMs": 3620
+            }
+          ]
+        },
+        {
+          "text": "Grandpa thought for a moment.",
+          "translation_ko": "할아버지는 잠시 생각하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 900
+            },
+            {
+              "word": "thought",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1420
+            },
+            {
+              "word": "for",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1420,
+              "endMs": 1640
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1640,
+              "endMs": 2020
+            },
+            {
+              "word": "moment",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 2020,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "\"Every generation worked hard so the next could live better.\"",
+          "translation_ko": "\"모든 세대가 다음 세대가 더 잘 살 수 있도록 열심히 일했단다.\"",
+          "audio": "/seed/daily-144-the-history-project/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "generation",
+              "charStart": 7,
+              "charEnd": 17,
+              "startMs": 380,
+              "endMs": 980
+            },
+            {
+              "word": "worked",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "hard",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1660
+            },
+            {
+              "word": "so",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1660,
+              "endMs": 2120
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "next",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "could",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2560,
+              "endMs": 2800
+            },
+            {
+              "word": "live",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "better",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3000,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By the time they finished, the sun was setting.",
+          "translation_ko": "인터뷰가 끝날 무렵, 해가 지고 있었어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 400
+            },
+            {
+              "word": "time",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "they",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "finished",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 980,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1720,
+              "endMs": 1940
+            },
+            {
+              "word": "sun",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2160
+            },
+            {
+              "word": "was",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2160,
+              "endMs": 2520
+            },
+            {
+              "word": "setting",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "Jun had filled six pages of notes.",
+          "translation_ko": "준은 공책 여섯 페이지를 빼곡히 채웠어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 600
+            },
+            {
+              "word": "filled",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "six",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 860,
+              "endMs": 1440
+            },
+            {
+              "word": "pages",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1760
+            },
+            {
+              "word": "of",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "notes",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "He had never known so much about his family before.",
+          "translation_ko": "준은 자기 가족에 대해 이렇게 많이 알게 된 건 처음이었어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "had",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 380
+            },
+            {
+              "word": "never",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 800
+            },
+            {
+              "word": "known",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "so",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "much",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "about",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "his",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "family",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2020,
+              "endMs": 2340
+            },
+            {
+              "word": "before",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2340,
+              "endMs": 2680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandpa walked them to the door and smiled.",
+          "translation_ko": "할아버지는 문까지 배웅하시며 웃으셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "walked",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "them",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1040,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "door",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1500,
+              "endMs": 1580
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1580,
+              "endMs": 2040
+            },
+            {
+              "word": "smiled",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2040,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "\"You asked great questions today,\" he said.",
+          "translation_ko": "\"오늘 참 좋은 질문을 했구나\"라고 하셨어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "asked",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 820
+            },
+            {
+              "word": "great",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1300
+            },
+            {
+              "word": "questions",
+              "charStart": 17,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1740
+            },
+            {
+              "word": "today",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1740,
+              "endMs": 2480
+            },
+            {
+              "word": "he",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2480,
+              "endMs": 2640
+            },
+            {
+              "word": "said",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2640,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "\"Come back anytime and I will tell you more.\"",
+          "translation_ko": "\"언제든 다시 오렴, 이야기 더 해줄게.\"",
+          "audio": "/seed/daily-144-the-history-project/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Come",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "back",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "anytime",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 580,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1440
+            },
+            {
+              "word": "I",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1540
+            },
+            {
+              "word": "will",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "tell",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 1960
+            },
+            {
+              "word": "you",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1960,
+              "endMs": 2200
+            },
+            {
+              "word": "more",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2200,
+              "endMs": 2380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the way home, Mina said, \"History isn't just in books, is it?\"",
+          "translation_ko": "집에 가는 길에 미나가 말했어요. \"역사가 책 속에만 있는 게 아니지?\"",
+          "audio": "/seed/daily-144-the-history-project/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 300
+            },
+            {
+              "word": "way",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "home",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "Mina",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "said",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1660
+            },
+            {
+              "word": "History",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2140,
+              "endMs": 2480
+            },
+            {
+              "word": "isn't",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2480,
+              "endMs": 2800
+            },
+            {
+              "word": "just",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "in",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3060,
+              "endMs": 3540
+            },
+            {
+              "word": "books",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3540,
+              "endMs": 3540
+            },
+            {
+              "word": "is",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 3860,
+              "endMs": 3940
+            },
+            {
+              "word": "it",
+              "charStart": 61,
+              "charEnd": 63,
+              "startMs": 3940,
+              "endMs": 4120
+            }
+          ]
+        },
+        {
+          "text": "Jun nodded and smiled.",
+          "translation_ko": "준은 고개를 끄덕이며 미소 지었어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1320
+            },
+            {
+              "word": "smiled",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1620
+            }
+          ]
+        },
+        {
+          "text": "\"It's in our families, too,\" he said.",
+          "translation_ko": "\"우리 가족 안에도 있어\"라고 준이 말했어요.",
+          "audio": "/seed/daily-144-the-history-project/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "It's",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "in",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 840
+            },
+            {
+              "word": "our",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1300
+            },
+            {
+              "word": "families",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1600
+            },
+            {
+              "word": "too",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1800,
+              "endMs": 2540
+            },
+            {
+              "word": "he",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2540,
+              "endMs": 2740
+            },
+            {
+              "word": "said",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2740,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "선생님이 내준 과제는 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "가족 어른을 인터뷰하고 이야기 기록하기",
+        "역사책을 읽고 독서 감상문 쓰기",
+        "가족 사진첩 만들기",
+        "마을 지도 그리기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "선생님은 가족 중 어른을 인터뷰하고 그분의 이야기를 기록하라고 하셨어요."
+    },
+    {
+      "question_ko": "할아버지는 어린 시절 어디서 자랐나요?",
+      "type": "mc",
+      "options": [
+        "산속의 작은 마을",
+        "서울의 큰 아파트",
+        "바닷가 근처 도시",
+        "외국의 학교 근처"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "할아버지는 산속의 작은 마을에서 자랐다고 말씀하셨어요."
+    },
+    {
+      "question_ko": "할아버지 어린 시절 마을에 없었던 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "전기",
+        "학교",
+        "선생님",
+        "보리차"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "할아버지는 마을에 전기가 없어서 밤에 기름 등잔을 켜고 책을 읽었다고 하셨어요."
+    },
+    {
+      "question_ko": "할아버지 가족이 서울로 이사한 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "아버지가 더 좋은 일을 찾기 위해",
+        "학교가 더 가까웠기 때문에",
+        "친척들이 서울에 살았기 때문에",
+        "마을에 전기가 없었기 때문에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "할아버지의 아버지가 더 좋은 일을 찾기 위해 가족을 서울로 데려가셨어요."
+    },
+    {
+      "question_ko": "집에 가는 길에 미나가 깨달은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "역사는 책뿐 아니라 가족 안에도 있다",
+        "할아버지 이야기가 너무 슬펐다",
+        "녹음기가 더 필요하다",
+        "과제가 너무 어려웠다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 역사가 책 속에만 있는 게 아니라 우리 가족 안에도 있다고 깨달았어요."
+    }
+  ]
+}

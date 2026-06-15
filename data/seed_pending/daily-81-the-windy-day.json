@@ -1,0 +1,937 @@
+{
+  "slug": "daily-81-the-windy-day",
+  "title": "The Windy Day",
+  "title_ko": "바람 부는 날",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "바람이 세게 부는 날, Jun과 Mina는 날아가는 모자와 나뭇잎을 쫓으며 신나는 하루를 보냅니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "It is a windy day.",
+          "translation_ko": "바람이 많이 부는 날이에요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 700,
+              "endMs": 860
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "windy",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "day",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1380,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina walk to the park.",
+          "translation_ko": "준과 미나는 공원으로 걸어가요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "walk",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1540
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1540,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "park",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The wind blows hard.",
+          "translation_ko": "바람이 세게 불어요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "wind",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 800,
+              "endMs": 1180
+            },
+            {
+              "word": "blows",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1180,
+              "endMs": 1640
+            },
+            {
+              "word": "hard",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1640,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "Jun holds his hat.",
+          "translation_ko": "준은 모자를 꽉 잡아요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "holds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 920,
+              "endMs": 1320
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1320,
+              "endMs": 1580
+            },
+            {
+              "word": "hat",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1580,
+              "endMs": 1900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Whoosh! The wind takes Jun's hat.",
+          "translation_ko": "휙! 바람이 준의 모자를 가져가요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Whoosh",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 1080,
+              "endMs": 1680
+            },
+            {
+              "word": "The",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 2020,
+              "endMs": 2180
+            },
+            {
+              "word": "wind",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 2180,
+              "endMs": 2420
+            },
+            {
+              "word": "takes",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 2420,
+              "endMs": 2780
+            },
+            {
+              "word": "Jun's",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 2780,
+              "endMs": 3420
+            },
+            {
+              "word": "hat",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 3420,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "The hat flies up and up.",
+          "translation_ko": "모자가 위로 높이 날아올라요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "hat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 540
+            },
+            {
+              "word": "flies",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 1080
+            },
+            {
+              "word": "up",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1860
+            },
+            {
+              "word": "up",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1860,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"My hat!\" Jun shouts.",
+          "translation_ko": "\"내 모자!\" 준이 소리쳐요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "hat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 820
+            },
+            {
+              "word": "Jun",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1260,
+              "endMs": 1380
+            },
+            {
+              "word": "shouts",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1740
+            }
+          ]
+        },
+        {
+          "text": "He runs after it.",
+          "translation_ko": "준은 모자를 쫓아 달려요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "runs",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "after",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 920
+            },
+            {
+              "word": "it",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina laughs and runs, too.",
+          "translation_ko": "미나도 웃으며 함께 달려요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "laughs",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "runs",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "too",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1640,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "Leaves fly all around them.",
+          "translation_ko": "나뭇잎이 두 사람 주위에서 날아다녀요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Leaves",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "fly",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 920
+            },
+            {
+              "word": "all",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "around",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "them",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The hat lands on a tree.",
+          "translation_ko": "모자가 나무 위에 걸렸어요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "hat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 520
+            },
+            {
+              "word": "lands",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "on",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1260
+            },
+            {
+              "word": "tree",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1460
+            }
+          ]
+        },
+        {
+          "text": "Jun cannot reach it.",
+          "translation_ko": "준은 손이 닿지 않아요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "cannot",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 1260
+            },
+            {
+              "word": "reach",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1520
+            },
+            {
+              "word": "it",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1520,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I have an idea,\" says Mina.",
+          "translation_ko": "\"내게 좋은 생각이 있어,\" 미나가 말해요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "have",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "an",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "idea",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1780
+            },
+            {
+              "word": "says",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1780,
+              "endMs": 1800
+            },
+            {
+              "word": "Mina",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1800,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "She finds a long stick.",
+          "translation_ko": "미나는 긴 막대기를 찾아요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "finds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 800
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1240
+            },
+            {
+              "word": "long",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1240,
+              "endMs": 1760
+            },
+            {
+              "word": "stick",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1760,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina uses the stick and gets the hat down.",
+          "translation_ko": "미나는 막대기로 모자를 끌어내려요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "uses",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "stick",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1760
+            },
+            {
+              "word": "gets",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "hat",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "down",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2320,
+              "endMs": 2680
+            }
+          ]
+        },
+        {
+          "text": "\"Thank you, Mina!\" says Jun.",
+          "translation_ko": "\"고마워, 미나!\" 준이 말해요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 840
+            },
+            {
+              "word": "Mina",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1820
+            },
+            {
+              "word": "says",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1820,
+              "endMs": 1920
+            },
+            {
+              "word": "Jun",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun puts on his hat, but the wind blows again.",
+          "translation_ko": "준이 모자를 쓰는데 바람이 또 불어요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "puts",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1200
+            },
+            {
+              "word": "hat",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "but",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2000
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2200
+            },
+            {
+              "word": "wind",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "blows",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "word": "again",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2800,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "They laugh and run together.",
+          "translation_ko": "두 사람은 함께 웃으며 달려요.",
+          "audio": "/seed/daily-81-the-windy-day/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "laugh",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 1120
+            },
+            {
+              "word": "run",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1320
+            },
+            {
+              "word": "together",
+              "charStart": 19,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준의 모자는 어디로 날아갔나요?",
+      "type": "mc",
+      "options": [
+        "나무 위",
+        "연못 속",
+        "집 지붕 위",
+        "버스 위"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "바람이 세게 불어 준의 모자가 나무 위에 걸렸어요."
+    },
+    {
+      "question_ko": "미나는 모자를 꺼내려고 무엇을 사용했나요?",
+      "type": "mc",
+      "options": [
+        "긴 막대기",
+        "우산",
+        "가방",
+        "줄넘기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 긴 막대기를 찾아 모자를 끌어내렸어요."
+    },
+    {
+      "question_ko": "이 이야기의 배경은 어디인가요?",
+      "type": "mc",
+      "options": [
+        "공원",
+        "학교",
+        "슈퍼마켓",
+        "수영장"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준과 미나는 공원으로 걸어가다가 바람을 만났어요."
+    },
+    {
+      "question_ko": "바람이 불 때 하늘에 날아다닌 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "나뭇잎과 모자",
+        "공과 풍선",
+        "우산과 가방",
+        "새와 연"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "바람이 세게 불어 나뭇잎과 준의 모자가 날아다녔어요."
+    },
+    {
+      "question_ko": "이야기의 마지막에 준과 미나는 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "함께 웃으며 달렸어요",
+        "집으로 돌아갔어요",
+        "나무 아래 앉았어요",
+        "모자를 버렸어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "바람이 또 불었지만 두 사람은 웃으며 함께 달렸어요."
+    }
+  ]
+}

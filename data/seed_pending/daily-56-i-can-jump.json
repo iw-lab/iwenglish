@@ -1,0 +1,537 @@
+{
+  "slug": "daily-56-i-can-jump",
+  "title": "I Can Jump",
+  "title_ko": "나는 뛸 수 있어요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "Jun이 뛰고, 달리고, 박수 치며 신나게 몸을 움직이는 하루를 보내요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "I am Jun. I like to move!",
+          "translation_ko": "나는 준이에요. 나는 움직이는 걸 좋아해요!",
+          "audio": "/seed/daily-56-i-can-jump/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 220,
+              "endMs": 400
+            },
+            {
+              "word": "Jun",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 740
+            },
+            {
+              "word": "I",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "like",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1680,
+              "endMs": 1920
+            },
+            {
+              "word": "move",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1920,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I can jump. I jump up high!",
+          "translation_ko": "나는 뛸 수 있어요. 높이높이 뛰어요!",
+          "audio": "/seed/daily-56-i-can-jump/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 200,
+              "endMs": 440
+            },
+            {
+              "word": "jump",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 720
+            },
+            {
+              "word": "I",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1400,
+              "endMs": 1600
+            },
+            {
+              "word": "jump",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1600,
+              "endMs": 1760
+            },
+            {
+              "word": "up",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "high",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2080,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I can run. I run so fast!",
+          "translation_ko": "나는 달릴 수 있어요. 아주 빠르게 달려요!",
+          "audio": "/seed/daily-56-i-can-jump/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 300,
+              "endMs": 480
+            },
+            {
+              "word": "run",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "I",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1540,
+              "endMs": 1720
+            },
+            {
+              "word": "run",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1720,
+              "endMs": 1880
+            },
+            {
+              "word": "so",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1880,
+              "endMs": 2260
+            },
+            {
+              "word": "fast",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2260,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I can clap my hands. Clap, clap, clap!",
+          "translation_ko": "나는 손뼉을 칠 수 있어요. 짝, 짝, 짝!",
+          "audio": "/seed/daily-56-i-can-jump/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "clap",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 840
+            },
+            {
+              "word": "my",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1260
+            },
+            {
+              "word": "hands",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1260,
+              "endMs": 1720
+            },
+            {
+              "word": "Clap",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 2260,
+              "endMs": 2540
+            },
+            {
+              "word": "clap",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2840,
+              "endMs": 2840
+            },
+            {
+              "word": "clap",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 3220,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I can spin around and around.",
+          "translation_ko": "나는 빙글빙글 돌 수 있어요.",
+          "audio": "/seed/daily-56-i-can-jump/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "spin",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 760,
+              "endMs": 960
+            },
+            {
+              "word": "around",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1700
+            },
+            {
+              "word": "around",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I can hop on one foot. Hop, hop, hop!",
+          "translation_ko": "나는 한 발로 깡충 뛸 수 있어요. 깡충, 깡충, 깡충!",
+          "audio": "/seed/daily-56-i-can-jump/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "hop",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "on",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1140
+            },
+            {
+              "word": "one",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1140,
+              "endMs": 1460
+            },
+            {
+              "word": "foot",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1460,
+              "endMs": 1720
+            },
+            {
+              "word": "Hop",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2480,
+              "endMs": 2500
+            },
+            {
+              "word": "hop",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2700,
+              "endMs": 2700
+            },
+            {
+              "word": "hop",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2960,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "I can jump. I can run. I can do it all!",
+          "translation_ko": "나는 뛸 수 있어요. 달릴 수 있어요. 뭐든 다 할 수 있어요!",
+          "audio": "/seed/daily-56-i-can-jump/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "jump",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 780
+            },
+            {
+              "word": "I",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1260,
+              "endMs": 1360
+            },
+            {
+              "word": "can",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "run",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "I",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 2300,
+              "endMs": 2400
+            },
+            {
+              "word": "can",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2400,
+              "endMs": 2620
+            },
+            {
+              "word": "do",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2620,
+              "endMs": 2780
+            },
+            {
+              "word": "it",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2780,
+              "endMs": 3000
+            },
+            {
+              "word": "all",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 3000,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 가장 먼저 할 수 있다고 한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "뛰기",
+        "달리기",
+        "박수 치기",
+        "빙글 돌기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "책에서 준은 'I can jump.'라고 가장 먼저 말했어요. jump는 '뛰다'라는 뜻이에요."
+    },
+    {
+      "question_ko": "'I can run so fast!'에서 fast는 무슨 뜻인가요?",
+      "type": "mc",
+      "options": [
+        "빠른",
+        "느린",
+        "높은",
+        "강한"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "fast는 '빠른, 빠르게'라는 뜻이에요. 준은 아주 빠르게 달릴 수 있다고 했어요."
+    },
+    {
+      "question_ko": "'clap'은 어떤 동작인가요?",
+      "type": "mc",
+      "options": [
+        "손뼉 치기",
+        "뛰기",
+        "빙글 돌기",
+        "깡충 뛰기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "clap은 손뼉을 마주쳐서 소리를 내는 '박수 치기'예요."
+    },
+    {
+      "question_ko": "준이 'hop'을 할 때 어떻게 뛰나요?",
+      "type": "mc",
+      "options": [
+        "한 발로 뛰어요.",
+        "두 발로 뛰어요.",
+        "손으로 짚으며 뛰어요.",
+        "뒤로 뛰어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "책에서 'hop on one foot'이라고 했어요. one foot은 '한 발'이라는 뜻이에요."
+    },
+    {
+      "question_ko": "이 책에서 준이 마지막 페이지에서 한 말은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "I can do it all!",
+        "I can hop!",
+        "I can jump up high!",
+        "I like to move!"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "마지막 페이지에서 준은 'I can do it all!'이라고 외쳤어요. '뭐든 다 할 수 있어요!'라는 뜻이에요."
+    }
+  ]
+}

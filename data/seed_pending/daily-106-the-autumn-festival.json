@@ -1,0 +1,1585 @@
+{
+  "slug": "daily-106-the-autumn-festival",
+  "title": "The Autumn Festival",
+  "title_ko": "가을 축제",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 엄마와 함께 가을 축제에 가서 다양한 부스를 돌며 즐거운 하루를 보내는 이야기입니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Today is the autumn festival, and Jun is excited.",
+          "translation_ko": "오늘은 가을 축제 날이라 준은 잔뜩 설레었어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 680
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 920
+            },
+            {
+              "word": "autumn",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 920,
+              "endMs": 1120
+            },
+            {
+              "word": "festival",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1120,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "Jun",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2620
+            },
+            {
+              "word": "is",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2620,
+              "endMs": 3020
+            },
+            {
+              "word": "excited",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 3020,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "He goes with Mina and Mom to the park.",
+          "translation_ko": "준은 미나, 엄마와 함께 공원으로 향했어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "goes",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 480
+            },
+            {
+              "word": "with",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "Mina",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "Mom",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "to",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "park",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2020,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The park is full of colorful decorations and fun booths.",
+          "translation_ko": "공원에는 알록달록한 장식과 재미있는 부스들이 가득했어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 920
+            },
+            {
+              "word": "full",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "of",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1460
+            },
+            {
+              "word": "colorful",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1760
+            },
+            {
+              "word": "decorations",
+              "charStart": 29,
+              "charEnd": 40,
+              "startMs": 1760,
+              "endMs": 2340
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2340,
+              "endMs": 2820
+            },
+            {
+              "word": "fun",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2820,
+              "endMs": 3100
+            },
+            {
+              "word": "booths",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3100,
+              "endMs": 3600
+            }
+          ]
+        },
+        {
+          "text": "Jun can smell sweet snacks from far away.",
+          "translation_ko": "준은 멀리서도 달콤한 간식 냄새를 맡을 수 있었어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "can",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 980
+            },
+            {
+              "word": "smell",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "sweet",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1260,
+              "endMs": 1800
+            },
+            {
+              "word": "snacks",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1800,
+              "endMs": 2200
+            },
+            {
+              "word": "from",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2200,
+              "endMs": 2740
+            },
+            {
+              "word": "far",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2740,
+              "endMs": 3100
+            },
+            {
+              "word": "away",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3100,
+              "endMs": 3360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The first booth has a ring toss game.",
+          "translation_ko": "첫 번째 부스에는 고리 던지기 게임이 있었어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "first",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 680
+            },
+            {
+              "word": "booth",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 1040
+            },
+            {
+              "word": "has",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1620
+            },
+            {
+              "word": "ring",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "toss",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "game",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2100,
+              "endMs": 2480
+            }
+          ]
+        },
+        {
+          "text": "He tosses the rings, but only one lands on the bottle.",
+          "translation_ko": "고리를 던졌는데 하나만 병 위에 걸렸어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "tosses",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1060
+            },
+            {
+              "word": "rings",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "but",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2020,
+              "endMs": 2160
+            },
+            {
+              "word": "only",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2160,
+              "endMs": 2380
+            },
+            {
+              "word": "one",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2380,
+              "endMs": 2800
+            },
+            {
+              "word": "lands",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2800,
+              "endMs": 3020
+            },
+            {
+              "word": "on",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 3020,
+              "endMs": 3220
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3220,
+              "endMs": 3440
+            },
+            {
+              "word": "bottle",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3440,
+              "endMs": 3560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina laughs and says, \"Don't worry. Let's try together!\"",
+          "translation_ko": "미나가 웃으며 말했어요. \"걱정 마. 같이 해 보자!\"",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "laughs",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 1020,
+              "endMs": 1160
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "says",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "Don't",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 2280,
+              "endMs": 2460
+            },
+            {
+              "word": "worry",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2720
+            },
+            {
+              "word": "Let's",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3300,
+              "endMs": 3540
+            },
+            {
+              "word": "try",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3540,
+              "endMs": 3760
+            },
+            {
+              "word": "together",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 3760,
+              "endMs": 4160
+            }
+          ]
+        },
+        {
+          "text": "They toss more rings together and win a small prize.",
+          "translation_ko": "둘이서 고리를 더 던져서 작은 상품을 받았어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "toss",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "more",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "rings",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1160
+            },
+            {
+              "word": "together",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1160,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1560,
+              "endMs": 2160
+            },
+            {
+              "word": "win",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2240
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "small",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2460,
+              "endMs": 2760
+            },
+            {
+              "word": "prize",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2760,
+              "endMs": 3100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Next, they walk to the painting booth because Mina loves art.",
+          "translation_ko": "다음으로, 미나가 미술을 좋아하기 때문에 페인팅 부스로 갔어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Next",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "they",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 920
+            },
+            {
+              "word": "walk",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "to",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "painting",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "booth",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1740,
+              "endMs": 2080
+            },
+            {
+              "word": "because",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2080,
+              "endMs": 2740
+            },
+            {
+              "word": "Mina",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2740,
+              "endMs": 3020
+            },
+            {
+              "word": "loves",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3020,
+              "endMs": 3460
+            },
+            {
+              "word": "art",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3460,
+              "endMs": 3840
+            }
+          ]
+        },
+        {
+          "text": "They paint leaves in red, orange, and yellow.",
+          "translation_ko": "빨강, 주황, 노랑으로 나뭇잎을 색칠했어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "paint",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 540
+            },
+            {
+              "word": "leaves",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 540,
+              "endMs": 1020
+            },
+            {
+              "word": "in",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1460
+            },
+            {
+              "word": "red",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1580
+            },
+            {
+              "word": "orange",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 2240
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2400,
+              "endMs": 2620
+            },
+            {
+              "word": "yellow",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2620,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun asks Mom, \"Can we keep our leaf paintings?\"",
+          "translation_ko": "준이 엄마에게 물었어요. \"나뭇잎 그림 가져가도 돼요?\"",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "asks",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 820
+            },
+            {
+              "word": "Mom",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1160
+            },
+            {
+              "word": "Can",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "we",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1740,
+              "endMs": 1980
+            },
+            {
+              "word": "keep",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1980,
+              "endMs": 2100
+            },
+            {
+              "word": "our",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "leaf",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2320,
+              "endMs": 2500
+            },
+            {
+              "word": "paintings",
+              "charStart": 36,
+              "charEnd": 45,
+              "startMs": 2500,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "Mom smiles and says, \"Of course! They are beautiful.\"",
+          "translation_ko": "엄마가 웃으며 말했어요. \"물론이죠! 정말 예쁘다.\"",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1100
+            },
+            {
+              "word": "says",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "Of",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1840
+            },
+            {
+              "word": "course",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2280
+            },
+            {
+              "word": "They",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2460,
+              "endMs": 2860
+            },
+            {
+              "word": "are",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2860,
+              "endMs": 3040
+            },
+            {
+              "word": "beautiful",
+              "charStart": 42,
+              "charEnd": 51,
+              "startMs": 3040,
+              "endMs": 3440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When they feel hungry, they visit the food booth.",
+          "translation_ko": "배가 고파질 때쯤 음식 부스로 갔어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "they",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 160,
+              "endMs": 360
+            },
+            {
+              "word": "feel",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 360,
+              "endMs": 560
+            },
+            {
+              "word": "hungry",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "they",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1200,
+              "endMs": 1340
+            },
+            {
+              "word": "visit",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1340,
+              "endMs": 1620
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1620,
+              "endMs": 1940
+            },
+            {
+              "word": "food",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "booth",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2120,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "Jun chooses hotteok because it smells warm and sweet.",
+          "translation_ko": "따뜻하고 달콤한 냄새에 준은 호떡을 골랐어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 1100
+            },
+            {
+              "word": "chooses",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 1100,
+              "endMs": 1800
+            },
+            {
+              "word": "hotteok",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1800,
+              "endMs": 2360
+            },
+            {
+              "word": "because",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 2360,
+              "endMs": 2740
+            },
+            {
+              "word": "it",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2740,
+              "endMs": 3060
+            },
+            {
+              "word": "smells",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 3060,
+              "endMs": 3260
+            },
+            {
+              "word": "warm",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3260,
+              "endMs": 3780
+            },
+            {
+              "word": "and",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3780,
+              "endMs": 4340
+            },
+            {
+              "word": "sweet",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 4340,
+              "endMs": 4580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina orders roasted chestnuts and shares them with Jun.",
+          "translation_ko": "미나는 군밤을 시켜서 준과 나눠 먹었어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "orders",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 920
+            },
+            {
+              "word": "roasted",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 920,
+              "endMs": 1440
+            },
+            {
+              "word": "chestnuts",
+              "charStart": 20,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 2060
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "shares",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "them",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "with",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2840,
+              "endMs": 3000
+            },
+            {
+              "word": "Jun",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3000,
+              "endMs": 3380
+            }
+          ]
+        },
+        {
+          "text": "\"Autumn food is the best,\" says Jun happily.",
+          "translation_ko": "준이 신나게 말했어요. \"가을 음식이 최고야.\"",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Autumn",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "food",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 1060
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "best",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1980
+            },
+            {
+              "word": "says",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2500,
+              "endMs": 2580
+            },
+            {
+              "word": "Jun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2580,
+              "endMs": 2860
+            },
+            {
+              "word": "happily",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2860,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After eating, they find a photo zone with a scarecrow.",
+          "translation_ko": "먹고 나서 허수아비가 있는 포토존을 발견했어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "eating",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "they",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1620
+            },
+            {
+              "word": "find",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "photo",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2340
+            },
+            {
+              "word": "zone",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2640
+            },
+            {
+              "word": "with",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 3040
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 3040,
+              "endMs": 3300
+            },
+            {
+              "word": "scarecrow",
+              "charStart": 44,
+              "charEnd": 53,
+              "startMs": 3300,
+              "endMs": 3640
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina stand beside it while Mom takes a photo.",
+          "translation_ko": "준과 미나가 허수아비 옆에 서고 엄마가 사진을 찍어 주었어요.",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "stand",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1600
+            },
+            {
+              "word": "beside",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "word": "it",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2200
+            },
+            {
+              "word": "while",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2560
+            },
+            {
+              "word": "Mom",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2560,
+              "endMs": 2900
+            },
+            {
+              "word": "takes",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2900,
+              "endMs": 3220
+            },
+            {
+              "word": "a",
+              "charStart": 45,
+              "charEnd": 46,
+              "startMs": 3220,
+              "endMs": 3440
+            },
+            {
+              "word": "photo",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3440,
+              "endMs": 3640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the way home, Jun says, \"I want to come back next year!\"",
+          "translation_ko": "집으로 돌아오는 길에 준이 말했어요. \"내년에도 꼭 오고 싶어!\"",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 440
+            },
+            {
+              "word": "way",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 760
+            },
+            {
+              "word": "home",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 1140
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "says",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1960,
+              "endMs": 2420
+            },
+            {
+              "word": "I",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 3160,
+              "endMs": 3220
+            },
+            {
+              "word": "want",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 3220,
+              "endMs": 3400
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 3400,
+              "endMs": 3620
+            },
+            {
+              "word": "come",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3620,
+              "endMs": 3720
+            },
+            {
+              "word": "back",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3720,
+              "endMs": 4000
+            },
+            {
+              "word": "next",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 4000,
+              "endMs": 4300
+            },
+            {
+              "word": "year",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 4300,
+              "endMs": 4560
+            }
+          ]
+        },
+        {
+          "text": "Mina nods and says, \"Me too. Today was so fun!\"",
+          "translation_ko": "미나도 고개를 끄덕이며 말했어요. \"나도! 오늘 정말 재미있었어!\"",
+          "audio": "/seed/daily-106-the-autumn-festival/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "nods",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 940
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "says",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "Me",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "too",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 2420,
+              "endMs": 2660
+            },
+            {
+              "word": "Today",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 3360,
+              "endMs": 3500
+            },
+            {
+              "word": "was",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 3500,
+              "endMs": 3760
+            },
+            {
+              "word": "so",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 3760,
+              "endMs": 4080
+            },
+            {
+              "word": "fun",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 4080,
+              "endMs": 4300
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준과 미나는 첫 번째 부스에서 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "고리 던지기 게임을 했어요.",
+        "나뭇잎 그림을 그렸어요.",
+        "호떡을 먹었어요.",
+        "사진을 찍었어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "첫 번째 부스에서 준과 미나는 고리 던지기 게임을 하고 작은 상품을 받았어요."
+    },
+    {
+      "question_ko": "미나가 페인팅 부스로 가고 싶었던 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "미나는 미술을 좋아하기 때문이에요.",
+        "음식이 맛있기 때문이에요.",
+        "상품을 받고 싶었기 때문이에요.",
+        "엄마가 시켰기 때문이에요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나가 미술(art)을 좋아하기 때문에 페인팅 부스로 갔어요."
+    },
+    {
+      "question_ko": "준이 음식 부스에서 고른 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "호떡",
+        "군밤",
+        "사탕",
+        "떡볶이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 따뜻하고 달콤한 냄새에 호떡(hotteok)을 골랐어요."
+    },
+    {
+      "question_ko": "포토존에서 엄마는 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "준과 미나의 사진을 찍어 주었어요.",
+        "고리 던지기를 했어요.",
+        "나뭇잎을 색칠했어요.",
+        "군밤을 샀어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "허수아비 옆에 선 준과 미나를 엄마가 사진으로 찍어 주었어요."
+    },
+    {
+      "question_ko": "집으로 돌아오는 길에 준은 뭐라고 말했나요?",
+      "type": "mc",
+      "options": [
+        "내년에도 꼭 오고 싶다고 했어요.",
+        "가을 음식이 맛없다고 했어요.",
+        "상품이 마음에 안 든다고 했어요.",
+        "다음엔 혼자 오겠다고 했어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 축제가 너무 즐거워서 내년에도 다시 오고 싶다고 말했어요."
+    }
+  ]
+}

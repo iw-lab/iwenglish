@@ -1,0 +1,1571 @@
+{
+  "slug": "daily-114-the-field-day",
+  "title": "The Field Day",
+  "title_ko": "운동회",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "운동회에서 Jun과 Mina가 이어달리기와 줄다리기를 함께 하며 협동의 힘을 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Today is field day at Jun's school.",
+          "translation_ko": "오늘은 준의 학교 운동회 날이에요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 840,
+              "endMs": 1260
+            },
+            {
+              "word": "field",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1260,
+              "endMs": 1580
+            },
+            {
+              "word": "day",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "at",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "Jun's",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2180,
+              "endMs": 2920
+            },
+            {
+              "word": "school",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2920,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina are excited because they will run the relay race.",
+          "translation_ko": "준과 미나는 이어달리기를 해서 설레요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "are",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1520
+            },
+            {
+              "word": "excited",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1880
+            },
+            {
+              "word": "because",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 2540,
+              "endMs": 2640
+            },
+            {
+              "word": "they",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2640,
+              "endMs": 2920
+            },
+            {
+              "word": "will",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2920,
+              "endMs": 3140
+            },
+            {
+              "word": "run",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3140,
+              "endMs": 3340
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3340,
+              "endMs": 3580
+            },
+            {
+              "word": "relay",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3580,
+              "endMs": 3780
+            },
+            {
+              "word": "race",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3780,
+              "endMs": 4100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park says, \"You must pass the baton quickly.\"",
+          "translation_ko": "박 선생님이 말했어요. \"배턴을 빠르게 넘겨야 해요.\"",
+          "audio": "/seed/daily-114-the-field-day/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 980,
+              "endMs": 1060
+            },
+            {
+              "word": "says",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1060,
+              "endMs": 1440
+            },
+            {
+              "word": "You",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 2000,
+              "endMs": 2040
+            },
+            {
+              "word": "must",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "pass",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2600,
+              "endMs": 2800
+            },
+            {
+              "word": "baton",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "quickly",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 3060,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "\"Work together and do your best!\" she adds.",
+          "translation_ko": "\"함께 힘을 합쳐서 최선을 다해요!\" 선생님이 덧붙였어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Work",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "together",
+              "charStart": 6,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1900
+            },
+            {
+              "word": "do",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1900,
+              "endMs": 2080
+            },
+            {
+              "word": "your",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2080,
+              "endMs": 2320
+            },
+            {
+              "word": "best",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2320,
+              "endMs": 2660
+            },
+            {
+              "word": "she",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 3060,
+              "endMs": 3200
+            },
+            {
+              "word": "adds",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3200,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun stands at the starting line and takes a breath.",
+          "translation_ko": "준은 출발선에 서서 숨을 고르었어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "stands",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 980
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "starting",
+              "charStart": 18,
+              "charEnd": 26,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "line",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1660,
+              "endMs": 2080
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2080,
+              "endMs": 2380
+            },
+            {
+              "word": "takes",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2380,
+              "endMs": 2580
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 3000
+            },
+            {
+              "word": "breath",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3000,
+              "endMs": 3040
+            }
+          ]
+        },
+        {
+          "text": "He feels nervous, but he thinks about his teammates.",
+          "translation_ko": "긴장이 됐지만, 팀 친구들을 생각했어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "feels",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 140,
+              "endMs": 380
+            },
+            {
+              "word": "nervous",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 380,
+              "endMs": 900
+            },
+            {
+              "word": "but",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1500
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1740
+            },
+            {
+              "word": "thinks",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 1860
+            },
+            {
+              "word": "about",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "his",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "teammates",
+              "charStart": 42,
+              "charEnd": 51,
+              "startMs": 2320,
+              "endMs": 2740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The whistle blows and Jun runs as fast as he can.",
+          "translation_ko": "호루라기가 울리자 준은 힘껏 달렸어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "whistle",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 920
+            },
+            {
+              "word": "blows",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1980,
+              "endMs": 2220
+            },
+            {
+              "word": "Jun",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2220,
+              "endMs": 2340
+            },
+            {
+              "word": "runs",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2340,
+              "endMs": 2700
+            },
+            {
+              "word": "as",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "fast",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 3080,
+              "endMs": 3300
+            },
+            {
+              "word": "as",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 3300,
+              "endMs": 3500
+            },
+            {
+              "word": "he",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 3500,
+              "endMs": 3600
+            },
+            {
+              "word": "can",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3600,
+              "endMs": 3900
+            }
+          ]
+        },
+        {
+          "text": "He passes the baton to Mina when he reaches her.",
+          "translation_ko": "미나에게 도착했을 때 배턴을 넘겨주었어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "passes",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1300
+            },
+            {
+              "word": "baton",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "Mina",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "when",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2060,
+              "endMs": 2560
+            },
+            {
+              "word": "he",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2560,
+              "endMs": 2720
+            },
+            {
+              "word": "reaches",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 2960
+            },
+            {
+              "word": "her",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2960,
+              "endMs": 3200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina grabs the baton and races to the finish line.",
+          "translation_ko": "미나는 배턴을 잡고 결승선을 향해 달렸어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "grabs",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 920
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "baton",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 2200
+            },
+            {
+              "word": "races",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2200,
+              "endMs": 2300
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2300,
+              "endMs": 2580
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2580,
+              "endMs": 2760
+            },
+            {
+              "word": "finish",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2760,
+              "endMs": 2940
+            },
+            {
+              "word": "line",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2940,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Their class finishes second, and everyone cheers.",
+          "translation_ko": "반이 2등으로 들어오자 모두가 환호했어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "class",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "finishes",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "second",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 960,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2040,
+              "endMs": 2180
+            },
+            {
+              "word": "everyone",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2180,
+              "endMs": 2620
+            },
+            {
+              "word": "cheers",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2620,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Good run!\" says Ms. Park with a big smile.",
+          "translation_ko": "\"잘 달렸어요!\" 박 선생님이 활짝 웃으며 말했어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "run",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 820
+            },
+            {
+              "word": "says",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "Ms",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "Park",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1960,
+              "endMs": 2040
+            },
+            {
+              "word": "with",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2040,
+              "endMs": 2420
+            },
+            {
+              "word": "a",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 2420,
+              "endMs": 2680
+            },
+            {
+              "word": "big",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "smile",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2940,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina high-five each other because they are proud.",
+          "translation_ko": "준과 미나는 뿌듯해서 서로 하이파이브를 했어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 30,
+              "endMs": 272
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 272,
+              "endMs": 514
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 514,
+              "endMs": 936
+            },
+            {
+              "word": "high-five",
+              "charStart": 13,
+              "charEnd": 22,
+              "startMs": 936,
+              "endMs": 1357
+            },
+            {
+              "word": "each",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1357,
+              "endMs": 1599
+            },
+            {
+              "word": "other",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1599,
+              "endMs": 2021
+            },
+            {
+              "word": "because",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2021,
+              "endMs": 2442
+            },
+            {
+              "word": "they",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2442,
+              "endMs": 2684
+            },
+            {
+              "word": "are",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2684,
+              "endMs": 2926
+            },
+            {
+              "word": "proud",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2926,
+              "endMs": 3330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Next is the tug-of-war, and Jun's class gets ready.",
+          "translation_ko": "다음은 줄다리기예요. 준의 반이 준비했어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Next",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 30,
+              "endMs": 269
+            },
+            {
+              "word": "is",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 269,
+              "endMs": 508
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 508,
+              "endMs": 747
+            },
+            {
+              "word": "tug-of-war",
+              "charStart": 12,
+              "charEnd": 22,
+              "startMs": 747,
+              "endMs": 1438
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1438,
+              "endMs": 1677
+            },
+            {
+              "word": "Jun's",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1677,
+              "endMs": 1916
+            },
+            {
+              "word": "class",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1916,
+              "endMs": 2155
+            },
+            {
+              "word": "gets",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2155,
+              "endMs": 2394
+            },
+            {
+              "word": "ready",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2394,
+              "endMs": 2970
+            }
+          ]
+        },
+        {
+          "text": "\"Hold the rope tight and pull together!\" Jun shouts.",
+          "translation_ko": "\"줄을 꼭 잡고 같이 당겨!\" 준이 외쳤어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Hold",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 920
+            },
+            {
+              "word": "rope",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1060
+            },
+            {
+              "word": "tight",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 2040
+            },
+            {
+              "word": "pull",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2040,
+              "endMs": 2300
+            },
+            {
+              "word": "together",
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 2300,
+              "endMs": 3660
+            },
+            {
+              "word": "Jun",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3660,
+              "endMs": 3760
+            },
+            {
+              "word": "shouts",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3760,
+              "endMs": 4100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina slips and almost falls, but Jun helps her hold on.",
+          "translation_ko": "미나가 미끄러질 뻔했지만 준이 붙잡아 주었어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "slips",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1360
+            },
+            {
+              "word": "almost",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1780
+            },
+            {
+              "word": "falls",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1780,
+              "endMs": 2160
+            },
+            {
+              "word": "but",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2780,
+              "endMs": 2920
+            },
+            {
+              "word": "Jun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2920,
+              "endMs": 3260
+            },
+            {
+              "word": "helps",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 3260,
+              "endMs": 3580
+            },
+            {
+              "word": "her",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3580,
+              "endMs": 3820
+            },
+            {
+              "word": "hold",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3820,
+              "endMs": 3980
+            },
+            {
+              "word": "on",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3980,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "They pull harder because they want to win together.",
+          "translation_ko": "함께 이기고 싶어서 더욱 힘껏 당겼어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "pull",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "harder",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 980,
+              "endMs": 1500
+            },
+            {
+              "word": "they",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1760
+            },
+            {
+              "word": "want",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1760,
+              "endMs": 1940
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "win",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2180,
+              "endMs": 2300
+            },
+            {
+              "word": "together",
+              "charStart": 42,
+              "charEnd": 50,
+              "startMs": 2300,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The other team falls, and Jun's class wins the tug-of-war!",
+          "translation_ko": "상대팀이 넘어지고, 준의 반이 줄다리기에서 이겼어요!",
+          "audio": "/seed/daily-114-the-field-day/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 30,
+              "endMs": 283
+            },
+            {
+              "word": "other",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 283,
+              "endMs": 723
+            },
+            {
+              "word": "team",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 723,
+              "endMs": 975
+            },
+            {
+              "word": "falls",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 975,
+              "endMs": 1331
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1331,
+              "endMs": 1584
+            },
+            {
+              "word": "Jun's",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1584,
+              "endMs": 1836
+            },
+            {
+              "word": "class",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1836,
+              "endMs": 2089
+            },
+            {
+              "word": "wins",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2089,
+              "endMs": 2342
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2342,
+              "endMs": 2594
+            },
+            {
+              "word": "tug-of-war",
+              "charStart": 47,
+              "charEnd": 57,
+              "startMs": 2594,
+              "endMs": 3390
+            }
+          ]
+        },
+        {
+          "text": "Everyone jumps and laughs when they hear the result.",
+          "translation_ko": "결과를 듣자 모두 펄쩍 뛰며 웃었어요.",
+          "audio": "/seed/daily-114-the-field-day/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "jumps",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1860
+            },
+            {
+              "word": "laughs",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 1860
+            },
+            {
+              "word": "when",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2260
+            },
+            {
+              "word": "they",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "hear",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "result",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 2940,
+              "endMs": 3200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun tells Mina, \"We did it because we helped each other.\"",
+          "translation_ko": "준이 미나에게 말했어요. \"서로 도왔기 때문에 해낼 수 있었어.\"",
+          "audio": "/seed/daily-114-the-field-day/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "tells",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "Mina",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "We",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1740,
+              "endMs": 1860
+            },
+            {
+              "word": "did",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1860,
+              "endMs": 2020
+            },
+            {
+              "word": "it",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2020,
+              "endMs": 2140
+            },
+            {
+              "word": "because",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2140,
+              "endMs": 2440
+            },
+            {
+              "word": "we",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "helped",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 2840
+            },
+            {
+              "word": "each",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2840,
+              "endMs": 3020
+            },
+            {
+              "word": "other",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3020,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "Mina smiles and says, \"That's the best part!\"",
+          "translation_ko": "미나가 웃으며 말했어요. \"그게 바로 가장 좋은 점이야!\"",
+          "audio": "/seed/daily-114-the-field-day/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "smiles",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 1140
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "says",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "That's",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "best",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2600,
+              "endMs": 2860
+            },
+            {
+              "word": "part",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2860,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준과 미나의 반이 처음으로 참가한 경기는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "이어달리기",
+        "줄다리기",
+        "공 던지기",
+        "달리기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이야기 처음에 준과 미나의 반은 이어달리기(relay race)에 참가했어요."
+    },
+    {
+      "question_ko": "박 선생님이 이어달리기 전에 한 말은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "배턴을 빠르게 넘기고 함께 최선을 다하라고 했어요.",
+        "천천히 달려도 괜찮다고 했어요.",
+        "혼자 힘으로 이겨야 한다고 했어요.",
+        "오늘은 연습이니까 긴장하지 말라고 했어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 배턴을 빠르게 넘기고 함께 힘을 합쳐 최선을 다하라고 말했어요."
+    },
+    {
+      "question_ko": "줄다리기 중 미나에게 무슨 일이 생겼나요?",
+      "type": "mc",
+      "options": [
+        "미끄러져서 넘어질 뻔했어요.",
+        "줄을 놓쳐서 넘어졌어요.",
+        "다리가 아파서 멈췄어요.",
+        "줄을 잘못 잡아서 포기했어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 줄다리기 중 미끄러질 뻔했고, 준이 붙잡아 주었어요."
+    },
+    {
+      "question_ko": "이어달리기에서 준의 반은 몇 등으로 들어왔나요?",
+      "type": "mc",
+      "options": [
+        "2등",
+        "1등",
+        "3등",
+        "4등"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이어달리기에서 준의 반은 2등으로 들어왔어요."
+    },
+    {
+      "question_ko": "운동회가 끝난 후 준이 말한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "서로 도왔기 때문에 해낼 수 있었다고 했어요.",
+        "더 빨리 달렸어야 한다고 했어요.",
+        "내일 다시 연습하자고 했어요.",
+        "혼자 달렸으면 더 좋았을 거라고 했어요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 서로 도왔기 때문에 해낼 수 있었다고 말했어요. 협동의 중요성을 깨달은 것이에요."
+    }
+  ]
+}

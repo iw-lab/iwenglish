@@ -1,0 +1,1585 @@
+{
+  "slug": "daily-115-the-puppet-show",
+  "title": "The Puppet Show",
+  "title_ko": "인형극",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 양말 인형을 함께 만들어 즐거운 인형극을 공연하는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina wanted to do something fun after school.",
+          "translation_ko": "준과 미나는 방과 후에 재미있는 것을 하고 싶었어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "wanted",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1660
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "do",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 1980
+            },
+            {
+              "word": "something",
+              "charStart": 26,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2340
+            },
+            {
+              "word": "fun",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2340,
+              "endMs": 2760
+            },
+            {
+              "word": "after",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2760,
+              "endMs": 3100
+            },
+            {
+              "word": "school",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "\"Let's make a puppet show!\" said Mina.",
+          "translation_ko": "\"인형극을 만들어 보자!\" 미나가 말했어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "make",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "puppet",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1080
+            },
+            {
+              "word": "show",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1080,
+              "endMs": 1960
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 2060
+            },
+            {
+              "word": "Mina",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun looked around his room because he had no puppets.",
+          "translation_ko": "준은 인형이 없어서 방 안을 두리번거렸어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 1000
+            },
+            {
+              "word": "around",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "his",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "room",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1780
+            },
+            {
+              "word": "because",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2140
+            },
+            {
+              "word": "he",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "had",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2300,
+              "endMs": 2480
+            },
+            {
+              "word": "no",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2480,
+              "endMs": 2760
+            },
+            {
+              "word": "puppets",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2760,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "He found two old socks on the shelf.",
+          "translation_ko": "선반 위에서 낡은 양말 두 개를 찾았어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 960
+            },
+            {
+              "word": "found",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "two",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "old",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1480,
+              "endMs": 1860
+            },
+            {
+              "word": "socks",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "on",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2380,
+              "endMs": 2600
+            },
+            {
+              "word": "shelf",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2600,
+              "endMs": 2780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We can make sock puppets!\" said Jun.",
+          "translation_ko": "\"양말 인형을 만들 수 있어!\" 준이 말했어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "can",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "make",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 720
+            },
+            {
+              "word": "sock",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 1120
+            },
+            {
+              "word": "puppets",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1120,
+              "endMs": 2020
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2080
+            },
+            {
+              "word": "Jun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2080,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "Mina clapped her hands because the idea was great.",
+          "translation_ko": "아이디어가 너무 좋아서 미나가 손뼉을 쳤어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "clapped",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 880
+            },
+            {
+              "word": "her",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "hands",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1440
+            },
+            {
+              "word": "because",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1440,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "idea",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1980,
+              "endMs": 2340
+            },
+            {
+              "word": "was",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "great",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2620,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They glued on buttons for eyes and cut paper for ears.",
+          "translation_ko": "단추로 눈을 붙이고 종이를 잘라 귀를 만들었어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "glued",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "on",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1140,
+              "endMs": 1520
+            },
+            {
+              "word": "buttons",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1520,
+              "endMs": 1680
+            },
+            {
+              "word": "for",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1680,
+              "endMs": 2360
+            },
+            {
+              "word": "eyes",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2360,
+              "endMs": 2360
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2960
+            },
+            {
+              "word": "cut",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2960,
+              "endMs": 3200
+            },
+            {
+              "word": "paper",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 3200,
+              "endMs": 3420
+            },
+            {
+              "word": "for",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3420,
+              "endMs": 4060
+            },
+            {
+              "word": "ears",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 4060,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "Jun drew a big smile on his puppet.",
+          "translation_ko": "준은 자기 인형에 큰 웃음을 그렸어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "drew",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 960
+            },
+            {
+              "word": "big",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "smile",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "on",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "his",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2020
+            },
+            {
+              "word": "puppet",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When the puppets were ready, they needed a stage.",
+          "translation_ko": "인형이 다 완성되자 무대가 필요했어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 440
+            },
+            {
+              "word": "puppets",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "were",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 780,
+              "endMs": 980
+            },
+            {
+              "word": "ready",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "they",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1920,
+              "endMs": 1980
+            },
+            {
+              "word": "needed",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1980,
+              "endMs": 2260
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2260,
+              "endMs": 2520
+            },
+            {
+              "word": "stage",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2520,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "They put a box on the floor and covered it with a blanket.",
+          "translation_ko": "상자를 바닥에 놓고 담요로 덮었어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "put",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 500
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "box",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1040
+            },
+            {
+              "word": "on",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1720
+            },
+            {
+              "word": "floor",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 2460
+            },
+            {
+              "word": "covered",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2460,
+              "endMs": 2660
+            },
+            {
+              "word": "it",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2660,
+              "endMs": 2880
+            },
+            {
+              "word": "with",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2880,
+              "endMs": 3060
+            },
+            {
+              "word": "a",
+              "charStart": 48,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3500
+            },
+            {
+              "word": "blanket",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 3500,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun's puppet was a brave knight and Mina's was a clever dragon.",
+          "translation_ko": "준의 인형은 용감한 기사였고, 미나의 인형은 영리한 용이었어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun's",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "puppet",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 800
+            },
+            {
+              "word": "was",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1260
+            },
+            {
+              "word": "brave",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "knight",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1500,
+              "endMs": 1900
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2500,
+              "endMs": 2680
+            },
+            {
+              "word": "Mina's",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 3000
+            },
+            {
+              "word": "was",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3000,
+              "endMs": 3140
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 3140,
+              "endMs": 3380
+            },
+            {
+              "word": "clever",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3380,
+              "endMs": 3540
+            },
+            {
+              "word": "dragon",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 3540,
+              "endMs": 3920
+            }
+          ]
+        },
+        {
+          "text": "\"I am not afraid of you!\" said the knight.",
+          "translation_ko": "\"나는 네가 하나도 안 무서워!\" 기사가 말했어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "am",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "not",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "afraid",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "of",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1460,
+              "endMs": 1660
+            },
+            {
+              "word": "you",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1660,
+              "endMs": 2460
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2460,
+              "endMs": 2460
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "knight",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I don't want to fight. I just want a friend,\" said the dragon.",
+          "translation_ko": "\"나는 싸우기 싫어. 그냥 친구가 갖고 싶어.\" 용이 말했어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "don't",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 560
+            },
+            {
+              "word": "want",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 760
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "fight",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "I",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "just",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2180
+            },
+            {
+              "word": "want",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2180,
+              "endMs": 2320
+            },
+            {
+              "word": "a",
+              "charStart": 36,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2760
+            },
+            {
+              "word": "friend",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2760,
+              "endMs": 3260
+            },
+            {
+              "word": "said",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3260,
+              "endMs": 3300
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3300,
+              "endMs": 3460
+            },
+            {
+              "word": "dragon",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 3460,
+              "endMs": 3700
+            }
+          ]
+        },
+        {
+          "text": "The knight was surprised when he heard that.",
+          "translation_ko": "기사는 그 말을 듣고 깜짝 놀랐어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "knight",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 820
+            },
+            {
+              "word": "was",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1280
+            },
+            {
+              "word": "surprised",
+              "charStart": 15,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1840
+            },
+            {
+              "word": "when",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2080
+            },
+            {
+              "word": "he",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2080,
+              "endMs": 2280
+            },
+            {
+              "word": "heard",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2480
+            },
+            {
+              "word": "that",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2480,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "In the end, the knight and the dragon became best friends.",
+          "translation_ko": "결국 기사와 용은 가장 친한 친구가 되었어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "In",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 380
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "knight",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1700,
+              "endMs": 2160
+            },
+            {
+              "word": "dragon",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2160
+            },
+            {
+              "word": "became",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2160,
+              "endMs": 2700
+            },
+            {
+              "word": "best",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2700,
+              "endMs": 3060
+            },
+            {
+              "word": "friends",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 3060,
+              "endMs": 3400
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina cheered because it was a happy ending.",
+          "translation_ko": "해피엔딩으로 끝나서 준과 미나는 환호성을 질렀어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "cheered",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1520
+            },
+            {
+              "word": "because",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1980,
+              "endMs": 2080
+            },
+            {
+              "word": "it",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2080,
+              "endMs": 2160
+            },
+            {
+              "word": "was",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2320
+            },
+            {
+              "word": "a",
+              "charStart": 36,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2480
+            },
+            {
+              "word": "happy",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2480,
+              "endMs": 2760
+            },
+            {
+              "word": "ending",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2760,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun's parents watched the whole show from the sofa.",
+          "translation_ko": "준의 부모님은 소파에서 공연을 끝까지 보았어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun's",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 1040
+            },
+            {
+              "word": "parents",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1040
+            },
+            {
+              "word": "watched",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "whole",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "show",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2020,
+              "endMs": 2240
+            },
+            {
+              "word": "from",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2240,
+              "endMs": 2480
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2480,
+              "endMs": 2860
+            },
+            {
+              "word": "sofa",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2860,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "They clapped loudly when the show was over.",
+          "translation_ko": "공연이 끝나자 크게 박수를 쳐 주었어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "clapped",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "loudly",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 640,
+              "endMs": 1140
+            },
+            {
+              "word": "when",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1600
+            },
+            {
+              "word": "show",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1600,
+              "endMs": 1780
+            },
+            {
+              "word": "was",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1780,
+              "endMs": 2040
+            },
+            {
+              "word": "over",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2040,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"That was amazing!\" said Jun's mom.",
+          "translation_ko": "\"정말 대단한데!\" 준의 엄마가 말했어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "was",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "amazing",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 580,
+              "endMs": 1260
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1860,
+              "endMs": 1940
+            },
+            {
+              "word": "Jun's",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2380
+            },
+            {
+              "word": "mom",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2380,
+              "endMs": 2580
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina smiled because making it together was the best part.",
+          "translation_ko": "함께 만든 것이 최고였기 때문에 준과 미나는 환하게 웃었어요.",
+          "audio": "/seed/daily-115-the-puppet-show/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 760
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "smiled",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1780
+            },
+            {
+              "word": "because",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "making",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2480,
+              "endMs": 2800
+            },
+            {
+              "word": "it",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2800,
+              "endMs": 3040
+            },
+            {
+              "word": "together",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 3040,
+              "endMs": 3340
+            },
+            {
+              "word": "was",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3340,
+              "endMs": 3580
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3580,
+              "endMs": 3800
+            },
+            {
+              "word": "best",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3800,
+              "endMs": 4100
+            },
+            {
+              "word": "part",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 4100,
+              "endMs": 4420
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준과 미나는 인형을 무엇으로 만들었나요?",
+      "type": "mc",
+      "options": [
+        "양말",
+        "종이",
+        "나무",
+        "천"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 선반에서 낡은 양말 두 개를 찾아 양말 인형을 만들었어요."
+    },
+    {
+      "question_ko": "인형극의 무대는 무엇으로 만들었나요?",
+      "type": "mc",
+      "options": [
+        "상자와 담요",
+        "책상과 커튼",
+        "의자와 이불",
+        "문과 보자기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "큰 상자를 탁자 위에 올리고 담요로 덮어 무대를 만들었어요."
+    },
+    {
+      "question_ko": "용은 기사와 왜 싸우기 싫다고 했나요?",
+      "type": "mc",
+      "options": [
+        "친구가 갖고 싶어서",
+        "너무 배가 고파서",
+        "날개가 아파서",
+        "집에 가고 싶어서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "용은 싸우는 것이 싫고 친구를 갖고 싶다고 말했어요."
+    },
+    {
+      "question_ko": "준과 미나의 인형극을 끝까지 본 사람은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "준의 엄마와 아빠",
+        "미나의 언니",
+        "준의 선생님",
+        "동네 친구들"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준의 엄마와 아빠가 소파에 앉아 공연을 끝까지 보았어요."
+    },
+    {
+      "question_ko": "인형극에서 기사와 용은 어떻게 되었나요?",
+      "type": "mc",
+      "options": [
+        "가장 친한 친구가 되었다",
+        "싸워서 헤어졌다",
+        "함께 여행을 떠났다",
+        "잠이 들었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "기사와 용은 서로 싸우지 않고 결국 가장 친한 친구가 되었어요."
+    }
+  ]
+}

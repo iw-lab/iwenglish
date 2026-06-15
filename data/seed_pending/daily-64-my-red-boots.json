@@ -1,0 +1,562 @@
+{
+  "slug": "daily-64-my-red-boots",
+  "title": "My Red Boots",
+  "title_ko": "내 빨간 장화",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "준이 빨간 장화를 신고 빗속에서 물웅덩이를 첨벙첨벙 뛰어다니는 신나는 하루 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun has a pair of red boots.",
+          "translation_ko": "준에게는 빨간 장화 한 켤레가 있어요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "has",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 560
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 700
+            },
+            {
+              "word": "pair",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "of",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "red",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "boots",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Today is a rainy day.",
+          "translation_ko": "오늘은 비가 오는 날이에요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 940
+            },
+            {
+              "word": "rainy",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "day",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun puts on his red boots and goes outside.",
+          "translation_ko": "준은 빨간 장화를 신고 밖으로 나가요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "puts",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "red",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1480
+            },
+            {
+              "word": "boots",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 2280
+            },
+            {
+              "word": "goes",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2280,
+              "endMs": 2520
+            },
+            {
+              "word": "outside",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2520,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He sees a big puddle on the road.",
+          "translation_ko": "준은 길 위에 커다란 물웅덩이를 발견해요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "sees",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 460
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 660
+            },
+            {
+              "word": "big",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "puddle",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "on",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1640
+            },
+            {
+              "word": "road",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1640,
+              "endMs": 1820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He runs and jumps into the puddle.",
+          "translation_ko": "준이 달려가서 물웅덩이 안으로 폴짝 뛰어들어요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "runs",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 780
+            },
+            {
+              "word": "and",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1320
+            },
+            {
+              "word": "jumps",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "into",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1540,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "puddle",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Splash! Water goes up all around him.",
+          "translation_ko": "첨벙! 물이 사방으로 높이 튀어올라요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Splash",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "Water",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1180,
+              "endMs": 1460
+            },
+            {
+              "word": "goes",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1460,
+              "endMs": 1740
+            },
+            {
+              "word": "up",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "all",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2000,
+              "endMs": 2420
+            },
+            {
+              "word": "around",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2420,
+              "endMs": 2680
+            },
+            {
+              "word": "him",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2680,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun laughs and jumps again and again.",
+          "translation_ko": "준은 깔깔 웃으며 몇 번이고 또 뛰어요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "laughs",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1460
+            },
+            {
+              "word": "jumps",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1460,
+              "endMs": 1460
+            },
+            {
+              "word": "again",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1900
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2220
+            },
+            {
+              "word": "again",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2220,
+              "endMs": 2460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He loves his red boots so much.",
+          "translation_ko": "준은 빨간 장화가 정말 너무 좋아요.",
+          "audio": "/seed/daily-64-my-red-boots/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "loves",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 480
+            },
+            {
+              "word": "his",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "red",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1020
+            },
+            {
+              "word": "boots",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "so",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1860
+            },
+            {
+              "word": "much",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준의 장화는 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "빨간색",
+        "파란색",
+        "노란색",
+        "초록색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준의 장화는 빨간색이에요. 제목도 'My Red Boots(내 빨간 장화)'예요."
+    },
+    {
+      "question_ko": "이야기에서 날씨는 어땠나요?",
+      "type": "mc",
+      "options": [
+        "비가 왔다",
+        "눈이 왔다",
+        "바람이 불었다",
+        "맑고 화창했다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "비가 오는 날(a rainy day)이었어요."
+    },
+    {
+      "question_ko": "준이 물웅덩이에 뛰어들었을 때 어떤 일이 생겼나요?",
+      "type": "mc",
+      "options": [
+        "물이 사방으로 튀어올랐다",
+        "장화가 벗겨졌다",
+        "준이 넘어졌다",
+        "물웅덩이가 사라졌다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Splash! Water goes up all around him. 첨벙 소리와 함께 물이 사방으로 튀어올랐어요."
+    },
+    {
+      "question_ko": "준은 물웅덩이에 몇 번 뛰었나요?",
+      "type": "mc",
+      "options": [
+        "여러 번 계속 뛰었다",
+        "딱 한 번만 뛰었다",
+        "뛰지 않았다",
+        "두 번 뛰었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준 jumps again and again. 준이 몇 번이고 계속해서 뛰었어요."
+    },
+    {
+      "question_ko": "이야기의 끝에서 준의 기분은 어떠했나요?",
+      "type": "mc",
+      "options": [
+        "빨간 장화가 너무 좋다고 느꼈다",
+        "장화가 마음에 들지 않았다",
+        "집에 돌아가고 싶었다",
+        "비가 싫다고 느꼈다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "He loves his red boots so much. 준은 빨간 장화가 너무너무 좋다고 했어요."
+    }
+  ]
+}

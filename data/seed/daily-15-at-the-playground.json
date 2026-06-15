@@ -20,49 +20,147 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 360
             },
             {
               "word": "school",
               "charStart": 6,
               "charEnd": 12,
-              "startMs": 340,
+              "startMs": 360,
               "endMs": 760
             },
             {
               "word": "I",
               "charStart": 14,
               "charEnd": 15,
-              "startMs": 1120,
-              "endMs": 1260
+              "startMs": 1220,
+              "endMs": 1440
             },
             {
               "word": "go",
               "charStart": 16,
               "charEnd": 18,
-              "startMs": 1260,
-              "endMs": 1380
+              "startMs": 1440,
+              "endMs": 1580
             },
             {
               "word": "to",
               "charStart": 19,
               "charEnd": 21,
-              "startMs": 1380,
-              "endMs": 1500
+              "startMs": 1580,
+              "endMs": 1720
             },
             {
               "word": "the",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 1500,
-              "endMs": 1640
+              "startMs": 1720,
+              "endMs": 1940
             },
             {
               "word": "playground",
               "charStart": 26,
               "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2160
+            }
+          ]
+        },
+        {
+          "text": "The sun is still bright and warm.",
+          "translation_ko": "해가 아직 밝고 따뜻해요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "sun",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 960
+            },
+            {
+              "word": "still",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "bright",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 2060
+            },
+            {
+              "word": "warm",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2060,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "I feel happy and free.",
+          "translation_ko": "나는 행복하고 자유로운 기분이에요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 560
+            },
+            {
+              "word": "happy",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 1000
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1640
+            },
+            {
+              "word": "free",
+              "charStart": 17,
+              "charEnd": 21,
               "startMs": 1640,
-              "endMs": 1940
+              "endMs": 1840
             }
           ]
         }
@@ -80,35 +178,133 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 320
             },
             {
               "word": "friends",
               "charStart": 3,
               "charEnd": 10,
-              "startMs": 240,
-              "endMs": 520
+              "startMs": 320,
+              "endMs": 660
             },
             {
               "word": "are",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 520,
-              "endMs": 680
+              "startMs": 660,
+              "endMs": 940
             },
             {
               "word": "there",
               "charStart": 15,
               "charEnd": 20,
-              "startMs": 680,
-              "endMs": 820
+              "startMs": 940,
+              "endMs": 1120
             },
             {
               "word": "too",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 820,
-              "endMs": 1120
+              "startMs": 1320,
+              "endMs": 1400
+            }
+          ]
+        },
+        {
+          "text": "They wave at me and smile.",
+          "translation_ko": "친구들이 나를 향해 손을 흔들고 웃어요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "wave",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "at",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1140
+            },
+            {
+              "word": "me",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1400,
+              "endMs": 2060
+            },
+            {
+              "word": "smile",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 2060,
+              "endMs": 2420
+            }
+          ]
+        },
+        {
+          "text": "\"Come play with us!\" they call.",
+          "translation_ko": "\"우리랑 같이 놀자!\" 친구들이 불러요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Come",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "play",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "with",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "us",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "they",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 1940
+            },
+            {
+              "word": "call",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2240
             }
           ]
         }
@@ -126,42 +322,140 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 340
             },
             {
               "word": "climb",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 240,
-              "endMs": 480
+              "startMs": 340,
+              "endMs": 700
             },
             {
               "word": "up",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 480,
-              "endMs": 740
+              "startMs": 700,
+              "endMs": 1040
             },
             {
               "word": "and",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 740,
-              "endMs": 1060
+              "startMs": 1040,
+              "endMs": 1640
             },
             {
               "word": "slide",
               "charStart": 15,
               "charEnd": 20,
-              "startMs": 1060,
-              "endMs": 1320
+              "startMs": 1640,
+              "endMs": 1940
             },
             {
               "word": "down",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1320,
-              "endMs": 1640
+              "startMs": 1940,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "The slide is fast and smooth.",
+          "translation_ko": "미끄럼틀은 빠르고 매끄러워요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "slide",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 480
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "fast",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1720
+            },
+            {
+              "word": "smooth",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "I go down again and again.",
+          "translation_ko": "나는 몇 번이고 또 타요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "go",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "down",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "again",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1400,
+              "endMs": 1860
+            },
+            {
+              "word": "again",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 2060
             }
           ]
         }
@@ -186,35 +480,133 @@
               "charStart": 3,
               "charEnd": 7,
               "startMs": 340,
-              "endMs": 640
+              "endMs": 700
             },
             {
               "word": "on",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 640,
-              "endMs": 880
+              "startMs": 700,
+              "endMs": 920
             },
             {
               "word": "the",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 880,
-              "endMs": 1100
+              "startMs": 920,
+              "endMs": 1120
             },
             {
               "word": "swings",
               "charStart": 15,
               "charEnd": 21,
-              "startMs": 1100,
-              "endMs": 1460
+              "startMs": 1120,
+              "endMs": 1440
             },
             {
               "word": "together",
               "charStart": 22,
               "charEnd": 30,
-              "startMs": 1460,
-              "endMs": 1860
+              "startMs": 1440,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "I kick my legs up high.",
+          "translation_ko": "나는 발을 높이 차 올려요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "kick",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 740,
+              "endMs": 1080
+            },
+            {
+              "word": "legs",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1080,
+              "endMs": 1400
+            },
+            {
+              "word": "up",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1400,
+              "endMs": 1780
+            },
+            {
+              "word": "high",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1780,
+              "endMs": 2060
+            }
+          ]
+        },
+        {
+          "text": "The wind blows in my face.",
+          "translation_ko": "바람이 얼굴에 시원하게 불어요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "wind",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 140,
+              "endMs": 420
+            },
+            {
+              "word": "blows",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 740
+            },
+            {
+              "word": "in",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 880
+            },
+            {
+              "word": "my",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "face",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1100,
+              "endMs": 1360
             }
           ]
         }
@@ -232,35 +624,147 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 480
+              "endMs": 280
             },
             {
               "word": "me",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 480,
-              "endMs": 1220
+              "startMs": 280,
+              "endMs": 580
             },
             {
               "word": "higher",
               "charStart": 9,
               "charEnd": 15,
-              "startMs": 1220,
-              "endMs": 1660
+              "startMs": 580,
+              "endMs": 920
             },
             {
               "word": "I",
               "charStart": 18,
               "charEnd": 19,
-              "startMs": 2260,
-              "endMs": 2420
+              "startMs": 1240,
+              "endMs": 1420
             },
             {
               "word": "say",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 2420,
-              "endMs": 2640
+              "startMs": 1420,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "My friend pushes the swing hard.",
+          "translation_ko": "친구가 그네를 힘차게 밀어줘요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "friend",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "pushes",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 620,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "swing",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "hard",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 1920
+            }
+          ]
+        },
+        {
+          "text": "I feel like I can touch the sky.",
+          "translation_ko": "하늘에 닿을 것 같은 기분이에요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 460
+            },
+            {
+              "word": "like",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 680
+            },
+            {
+              "word": "I",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 840
+            },
+            {
+              "word": "can",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1000
+            },
+            {
+              "word": "touch",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1000,
+              "endMs": 1200
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "sky",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1480,
+              "endMs": 1720
             }
           ]
         }
@@ -278,56 +782,154 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 480
+              "endMs": 280
             },
             {
               "word": "run",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 480,
-              "endMs": 860
+              "startMs": 280,
+              "endMs": 680
             },
             {
               "word": "and",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 860,
-              "endMs": 1620
+              "startMs": 680,
+              "endMs": 1220
             },
             {
               "word": "laugh",
               "charStart": 11,
               "charEnd": 16,
-              "startMs": 1620,
-              "endMs": 1940
+              "startMs": 1220,
+              "endMs": 1320
             },
             {
               "word": "for",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1940,
-              "endMs": 2300
+              "startMs": 1320,
+              "endMs": 1520
             },
             {
               "word": "a",
               "charStart": 21,
               "charEnd": 22,
-              "startMs": 2300,
-              "endMs": 2520
+              "startMs": 1520,
+              "endMs": 1720
             },
             {
               "word": "long",
               "charStart": 23,
               "charEnd": 27,
-              "startMs": 2520,
-              "endMs": 2860
+              "startMs": 1720,
+              "endMs": 1960
             },
             {
               "word": "time",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 2860,
-              "endMs": 3220
+              "startMs": 1960,
+              "endMs": 2320
+            }
+          ]
+        },
+        {
+          "text": "We play tag around the big tree.",
+          "translation_ko": "큰 나무 주위에서 술래잡기를 해요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "play",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "tag",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "around",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "big",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1720
+            },
+            {
+              "word": "tree",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 1980
+            }
+          ]
+        },
+        {
+          "text": "Everyone is sweaty and happy.",
+          "translation_ko": "모두 땀을 흘리고 행복해요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "sweaty",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1820
+            },
+            {
+              "word": "happy",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1820,
+              "endMs": 2040
             }
           ]
         }
@@ -345,49 +947,147 @@
               "charStart": 0,
               "charEnd": 7,
               "startMs": 0,
-              "endMs": 680
+              "endMs": 440
             },
             {
               "word": "with",
               "charStart": 8,
               "charEnd": 12,
-              "startMs": 680,
-              "endMs": 960
+              "startMs": 440,
+              "endMs": 700
             },
             {
               "word": "friends",
               "charStart": 13,
               "charEnd": 20,
-              "startMs": 960,
-              "endMs": 1220
+              "startMs": 700,
+              "endMs": 1060
             },
             {
               "word": "is",
               "charStart": 21,
               "charEnd": 23,
-              "startMs": 1220,
-              "endMs": 1540
+              "startMs": 1060,
+              "endMs": 1260
             },
             {
               "word": "so",
               "charStart": 24,
               "charEnd": 26,
-              "startMs": 1540,
-              "endMs": 1760
+              "startMs": 1260,
+              "endMs": 1580
             },
             {
               "word": "much",
               "charStart": 27,
               "charEnd": 31,
-              "startMs": 1760,
-              "endMs": 1980
+              "startMs": 1580,
+              "endMs": 1860
             },
             {
               "word": "fun",
               "charStart": 32,
               "charEnd": 35,
-              "startMs": 1980,
-              "endMs": 2200
+              "startMs": 1860,
+              "endMs": 2120
+            }
+          ]
+        },
+        {
+          "text": "I want to come back tomorrow.",
+          "translation_ko": "내일도 또 오고 싶어요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "want",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 140,
+              "endMs": 380
+            },
+            {
+              "word": "to",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 560
+            },
+            {
+              "word": "come",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 720
+            },
+            {
+              "word": "back",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 720,
+              "endMs": 1020
+            },
+            {
+              "word": "tomorrow",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1020,
+              "endMs": 1380
+            }
+          ]
+        },
+        {
+          "text": "The playground is my favorite place.",
+          "translation_ko": "놀이터는 내가 제일 좋아하는 곳이에요.",
+          "audio": "/seed/daily-15-at-the-playground/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "playground",
+              "charStart": 4,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1160
+            },
+            {
+              "word": "is",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "my",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1760
+            },
+            {
+              "word": "favorite",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1760,
+              "endMs": 2060
+            },
+            {
+              "word": "place",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2400
             }
           ]
         }

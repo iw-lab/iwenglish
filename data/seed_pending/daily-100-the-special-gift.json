@@ -1,0 +1,1578 @@
+{
+  "slug": "daily-100-the-special-gift",
+  "title": "The Special Gift",
+  "title_ko": "특별한 선물",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "준이 할아버지 생신을 맞아 직접 만든 선물을 드리고 따뜻한 마음을 나누는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun's grandpa has a birthday next Sunday.",
+          "translation_ko": "준의 할아버지 생신이 다음 일요일이에요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun's",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "grandpa",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "has",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "birthday",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "next",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "Sunday",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2360
+            }
+          ]
+        },
+        {
+          "text": "Jun wants to give him something special because he loves Grandpa.",
+          "translation_ko": "준은 할아버지를 사랑하기 때문에 특별한 선물을 드리고 싶어요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "wants",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 960
+            },
+            {
+              "word": "give",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1120
+            },
+            {
+              "word": "him",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "something",
+              "charStart": 22,
+              "charEnd": 31,
+              "startMs": 1300,
+              "endMs": 1660
+            },
+            {
+              "word": "special",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 1660,
+              "endMs": 2180
+            },
+            {
+              "word": "because",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2180,
+              "endMs": 2740
+            },
+            {
+              "word": "he",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2740,
+              "endMs": 3020
+            },
+            {
+              "word": "loves",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3020,
+              "endMs": 3240
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 3240,
+              "endMs": 3620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun looks at the store, but he does not have enough money.",
+          "translation_ko": "준은 가게를 둘러보지만 돈이 충분하지 않아요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 30,
+              "endMs": 261
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 261,
+              "endMs": 492
+            },
+            {
+              "word": "at",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 492,
+              "endMs": 723
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 723,
+              "endMs": 953
+            },
+            {
+              "word": "store",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 953,
+              "endMs": 1278
+            },
+            {
+              "word": "but",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1278,
+              "endMs": 1509
+            },
+            {
+              "word": "he",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1509,
+              "endMs": 1740
+            },
+            {
+              "word": "does",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1740,
+              "endMs": 1971
+            },
+            {
+              "word": "not",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 1971,
+              "endMs": 2202
+            },
+            {
+              "word": "have",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2202,
+              "endMs": 2432
+            },
+            {
+              "word": "enough",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 2432,
+              "endMs": 2834
+            },
+            {
+              "word": "money",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 2834,
+              "endMs": 3390
+            }
+          ]
+        },
+        {
+          "text": "He feels sad when he sees the price tags.",
+          "translation_ko": "가격표를 보자 준은 슬퍼져요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "feels",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "sad",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 940
+            },
+            {
+              "word": "when",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "he",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1300,
+              "endMs": 1460
+            },
+            {
+              "word": "sees",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 1880
+            },
+            {
+              "word": "price",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "tags",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2140,
+              "endMs": 2460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then Jun gets a great idea.",
+          "translation_ko": "그때 준에게 좋은 생각이 떠올라요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 980
+            },
+            {
+              "word": "Jun",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 1280,
+              "endMs": 1560
+            },
+            {
+              "word": "gets",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "great",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1980,
+              "endMs": 2300
+            },
+            {
+              "word": "idea",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2300,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "\"I will make a gift with my own hands!\" he says.",
+          "translation_ko": "\"내 손으로 직접 선물을 만들겠어!\" 준이 말해요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "will",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 480
+            },
+            {
+              "word": "make",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 620
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 880
+            },
+            {
+              "word": "gift",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 880,
+              "endMs": 1060
+            },
+            {
+              "word": "with",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1060,
+              "endMs": 1280
+            },
+            {
+              "word": "my",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "own",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1500,
+              "endMs": 1900
+            },
+            {
+              "word": "hands",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1900,
+              "endMs": 2560
+            },
+            {
+              "word": "he",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "says",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2760,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun finds an old photo of Grandpa and him at the park.",
+          "translation_ko": "준은 공원에서 할아버지와 함께 찍은 오래된 사진을 찾아요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "finds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 1020
+            },
+            {
+              "word": "an",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1020,
+              "endMs": 1220
+            },
+            {
+              "word": "old",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1220,
+              "endMs": 1600
+            },
+            {
+              "word": "photo",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1600,
+              "endMs": 1860
+            },
+            {
+              "word": "of",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 2140
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2560
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2560,
+              "endMs": 3000
+            },
+            {
+              "word": "him",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 3000,
+              "endMs": 3240
+            },
+            {
+              "word": "at",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 3240,
+              "endMs": 3440
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3440,
+              "endMs": 3620
+            },
+            {
+              "word": "park",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3620,
+              "endMs": 3800
+            }
+          ]
+        },
+        {
+          "text": "He puts it in a frame made from cardboard.",
+          "translation_ko": "준은 그 사진을 골판지로 만든 액자에 넣어요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "puts",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "it",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 1000
+            },
+            {
+              "word": "in",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1140
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "frame",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "made",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "from",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "cardboard",
+              "charStart": 32,
+              "charEnd": 41,
+              "startMs": 2260,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun draws flowers around the frame because Grandpa loves flowers.",
+          "translation_ko": "할아버지가 꽃을 좋아하셔서 준은 액자 주변에 꽃을 그려요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "draws",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "flowers",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1440
+            },
+            {
+              "word": "around",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1780,
+              "endMs": 2000
+            },
+            {
+              "word": "frame",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2000,
+              "endMs": 2280
+            },
+            {
+              "word": "because",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2760
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2760,
+              "endMs": 3220
+            },
+            {
+              "word": "loves",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3220,
+              "endMs": 3560
+            },
+            {
+              "word": "flowers",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 3560,
+              "endMs": 4020
+            }
+          ]
+        },
+        {
+          "text": "His hands get tired, but he keeps going.",
+          "translation_ko": "손이 피곤해지지만 준은 계속 그려요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "hands",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "get",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "tired",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 880,
+              "endMs": 1320
+            },
+            {
+              "word": "but",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1860
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2060
+            },
+            {
+              "word": "keeps",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2260
+            },
+            {
+              "word": "going",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2260,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun also writes a short letter to put inside.",
+          "translation_ko": "준은 선물 안에 넣을 짧은 편지도 써요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "also",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 940
+            },
+            {
+              "word": "writes",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "short",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1640
+            },
+            {
+              "word": "letter",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 1840
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1840,
+              "endMs": 2040
+            },
+            {
+              "word": "put",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2040,
+              "endMs": 2200
+            },
+            {
+              "word": "inside",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2200,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "\"Dear Grandpa, thank you for always being there for me.\"",
+          "translation_ko": "\"할아버지께, 항상 제 곁에 있어 주셔서 감사해요.\"",
+          "audio": "/seed/daily-100-the-special-gift/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dear",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 1080
+            },
+            {
+              "word": "thank",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1680
+            },
+            {
+              "word": "you",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1680,
+              "endMs": 1780
+            },
+            {
+              "word": "for",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "always",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2340
+            },
+            {
+              "word": "being",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "there",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "for",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2780,
+              "endMs": 2960
+            },
+            {
+              "word": "me",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 2960,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Sunday, Jun goes to Grandpa's house with the gift behind his back.",
+          "translation_ko": "일요일에 준은 등 뒤에 선물을 숨기고 할아버지 댁으로 가요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Sunday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "Jun",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1260,
+              "endMs": 1320
+            },
+            {
+              "word": "goes",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "Grandpa's",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2400
+            },
+            {
+              "word": "house",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2400,
+              "endMs": 2640
+            },
+            {
+              "word": "with",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2640,
+              "endMs": 2880
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2880,
+              "endMs": 3120
+            },
+            {
+              "word": "gift",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3120,
+              "endMs": 3260
+            },
+            {
+              "word": "behind",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3260,
+              "endMs": 3700
+            },
+            {
+              "word": "his",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3700,
+              "endMs": 3960
+            },
+            {
+              "word": "back",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 3960,
+              "endMs": 4240
+            }
+          ]
+        },
+        {
+          "text": "His heart beats fast because he feels nervous.",
+          "translation_ko": "긴장되어서 준의 심장이 빠르게 뛰어요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "heart",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "beats",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "fast",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 740,
+              "endMs": 1200
+            },
+            {
+              "word": "because",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1700
+            },
+            {
+              "word": "he",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 1920
+            },
+            {
+              "word": "feels",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1920,
+              "endMs": 2140
+            },
+            {
+              "word": "nervous",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2140,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Happy birthday, Grandpa!\" Jun shouts at the door.",
+          "translation_ko": "\"생신 축하해요, 할아버지!\" 준이 문 앞에서 외쳐요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Happy",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "birthday",
+              "charStart": 7,
+              "charEnd": 15,
+              "startMs": 400,
+              "endMs": 900
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 2140
+            },
+            {
+              "word": "Jun",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2140,
+              "endMs": 2240
+            },
+            {
+              "word": "shouts",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2600
+            },
+            {
+              "word": "at",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 2840
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2840,
+              "endMs": 2980
+            },
+            {
+              "word": "door",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2980,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "He holds out the frame with both hands.",
+          "translation_ko": "준은 두 손으로 액자를 내밀어요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "holds",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "out",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1640
+            },
+            {
+              "word": "frame",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1640,
+              "endMs": 1680
+            },
+            {
+              "word": "with",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1680,
+              "endMs": 1960
+            },
+            {
+              "word": "both",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 2220
+            },
+            {
+              "word": "hands",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2220,
+              "endMs": 2660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandpa opens the gift and his eyes grow wide.",
+          "translation_ko": "할아버지는 선물을 여시더니 눈이 동그래지세요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "opens",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 1040
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1560
+            },
+            {
+              "word": "gift",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1560,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1960,
+              "endMs": 2000
+            },
+            {
+              "word": "his",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "eyes",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2480
+            },
+            {
+              "word": "grow",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2480,
+              "endMs": 2780
+            },
+            {
+              "word": "wide",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2780,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "\"Jun, this is the most beautiful gift ever,\" he says.",
+          "translation_ko": "\"준아, 이건 세상에서 가장 아름다운 선물이구나.\" 할아버지가 말씀하세요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "this",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 1020,
+              "endMs": 1140
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1140,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "most",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1760
+            },
+            {
+              "word": "beautiful",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2280
+            },
+            {
+              "word": "gift",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2560
+            },
+            {
+              "word": "ever",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2560,
+              "endMs": 3280
+            },
+            {
+              "word": "he",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3280,
+              "endMs": 3400
+            },
+            {
+              "word": "says",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3400,
+              "endMs": 3660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun feels warm inside because he made Grandpa happy.",
+          "translation_ko": "준은 할아버지를 기쁘게 해드렸기 때문에 마음속이 따뜻해져요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "feels",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "warm",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1180
+            },
+            {
+              "word": "inside",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1640
+            },
+            {
+              "word": "because",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1640,
+              "endMs": 2340
+            },
+            {
+              "word": "he",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2340,
+              "endMs": 2540
+            },
+            {
+              "word": "made",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2780,
+              "endMs": 3280
+            },
+            {
+              "word": "happy",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3280,
+              "endMs": 3640
+            }
+          ]
+        },
+        {
+          "text": "The best gifts come from the heart, not a store.",
+          "translation_ko": "최고의 선물은 가게가 아니라 마음에서 나온다는 것을 준은 알게 돼요.",
+          "audio": "/seed/daily-100-the-special-gift/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "best",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 860,
+              "endMs": 1240
+            },
+            {
+              "word": "gifts",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "come",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1560,
+              "endMs": 1900
+            },
+            {
+              "word": "from",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2080
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2080,
+              "endMs": 2360
+            },
+            {
+              "word": "heart",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2500
+            },
+            {
+              "word": "not",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 3020,
+              "endMs": 3140
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 3140,
+              "endMs": 3420
+            },
+            {
+              "word": "store",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3420,
+              "endMs": 3620
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 왜 특별한 선물을 드리고 싶었나요?",
+      "type": "mc",
+      "options": [
+        "할아버지를 사랑하기 때문에",
+        "할아버지가 먼저 부탁하셨기 때문에",
+        "친구들이 선물하라고 했기 때문에",
+        "학교 숙제였기 때문에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 할아버지를 사랑하기 때문에 특별한 선물을 드리고 싶었어요."
+    },
+    {
+      "question_ko": "준은 가게에서 선물을 살 수 없었던 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "돈이 충분하지 않아서",
+        "가게가 문을 닫아서",
+        "원하는 물건이 없어서",
+        "가게가 너무 멀어서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 가게를 둘러봤지만 돈이 충분하지 않아서 살 수 없었어요."
+    },
+    {
+      "question_ko": "준이 만든 선물은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "꽃이 그려진 골판지 사진 액자",
+        "색종이로 만든 책",
+        "점토로 만든 컵",
+        "나무로 만든 상자"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 골판지로 액자를 만들고 꽃을 그린 다음, 할아버지와 찍은 사진을 넣었어요."
+    },
+    {
+      "question_ko": "선물을 받으신 할아버지의 반응은 어떠했나요?",
+      "type": "mc",
+      "options": [
+        "눈이 동그래지며 가장 아름다운 선물이라고 하셨다",
+        "별로 좋아하지 않으셨다",
+        "선물을 열어보지 않으셨다",
+        "선물을 돌려주셨다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "할아버지는 눈이 동그래지시며 받아본 선물 중 가장 아름답다고 말씀하셨어요."
+    },
+    {
+      "question_ko": "이 이야기에서 준이 깨달은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "최고의 선물은 마음에서 나온다",
+        "비싼 선물일수록 더 좋다",
+        "선물은 꼭 돈으로 사야 한다",
+        "선물은 생신에만 드리는 것이다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 마음을 담아 만든 선물이 할아버지를 가장 기쁘게 했고, 최고의 선물은 마음에서 나온다는 것을 깨달았어요."
+    }
+  ]
+}

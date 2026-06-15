@@ -1,0 +1,2524 @@
+{
+  "slug": "daily-131-the-weather-club",
+  "title": "The Weather Club",
+  "title_ko": "날씨 동아리",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina는 날씨 동아리를 만들어 매일 날씨를 기록하고, 계절의 변화를 통해 자연을 이해하는 즐거움을 발견한다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun had always been curious about the weather.",
+          "translation_ko": "준은 항상 날씨에 대해 궁금한 게 많았다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 760
+            },
+            {
+              "word": "always",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1260
+            },
+            {
+              "word": "been",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "curious",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1920
+            },
+            {
+              "word": "about",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2220,
+              "endMs": 2360
+            },
+            {
+              "word": "weather",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2360,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "He wondered if there was a pattern behind sunny days and cold, gray ones.",
+          "translation_ko": "화창한 날과 흐리고 추운 날 사이에 어떤 규칙이 있는지 궁금했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "wondered",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "if",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 980
+            },
+            {
+              "word": "there",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 980,
+              "endMs": 1120
+            },
+            {
+              "word": "was",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1120,
+              "endMs": 1280
+            },
+            {
+              "word": "a",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "pattern",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1600,
+              "endMs": 1800
+            },
+            {
+              "word": "behind",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 1800,
+              "endMs": 2240
+            },
+            {
+              "word": "sunny",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2240,
+              "endMs": 2620
+            },
+            {
+              "word": "days",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2620,
+              "endMs": 2980
+            },
+            {
+              "word": "and",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 2980,
+              "endMs": 3280
+            },
+            {
+              "word": "cold",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3280,
+              "endMs": 3600
+            },
+            {
+              "word": "gray",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3920,
+              "endMs": 3920
+            },
+            {
+              "word": "ones",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 3920,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One afternoon, Jun told Mina his idea: a club that recorded the weather every day.",
+          "translation_ko": "어느 날 오후, 준은 미나에게 매일 날씨를 기록하는 동아리를 만들자고 제안했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "afternoon",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 320,
+              "endMs": 840
+            },
+            {
+              "word": "Jun",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1580,
+              "endMs": 1720
+            },
+            {
+              "word": "told",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "Mina",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "his",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2500
+            },
+            {
+              "word": "idea",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2500,
+              "endMs": 2820
+            },
+            {
+              "word": "a",
+              "charStart": 39,
+              "charEnd": 40,
+              "startMs": 3440,
+              "endMs": 3580
+            },
+            {
+              "word": "club",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3580,
+              "endMs": 3760
+            },
+            {
+              "word": "that",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3760,
+              "endMs": 4000
+            },
+            {
+              "word": "recorded",
+              "charStart": 51,
+              "charEnd": 59,
+              "startMs": 4000,
+              "endMs": 4280
+            },
+            {
+              "word": "the",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 4280,
+              "endMs": 4500
+            },
+            {
+              "word": "weather",
+              "charStart": 64,
+              "charEnd": 71,
+              "startMs": 4500,
+              "endMs": 4640
+            },
+            {
+              "word": "every",
+              "charStart": 72,
+              "charEnd": 77,
+              "startMs": 4640,
+              "endMs": 5040
+            },
+            {
+              "word": "day",
+              "charStart": 78,
+              "charEnd": 81,
+              "startMs": 5040,
+              "endMs": 5260
+            }
+          ]
+        },
+        {
+          "text": "Mina's eyes lit up. \"That sounds like a real science project!\"",
+          "translation_ko": "미나의 눈이 반짝였다. \"진짜 과학 프로젝트 같은데!\"",
+          "audio": "/seed/daily-131-the-weather-club/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina's",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "eyes",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "lit",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "up",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1420
+            },
+            {
+              "word": "That",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 2200,
+              "endMs": 2380
+            },
+            {
+              "word": "sounds",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2380,
+              "endMs": 2640
+            },
+            {
+              "word": "like",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2820,
+              "endMs": 3060
+            },
+            {
+              "word": "real",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3060,
+              "endMs": 3360
+            },
+            {
+              "word": "science",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3360,
+              "endMs": 3740
+            },
+            {
+              "word": "project",
+              "charStart": 53,
+              "charEnd": 60,
+              "startMs": 3740,
+              "endMs": 4160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They decided to meet at the rooftop of Jun's apartment every morning before school.",
+          "translation_ko": "둘은 매일 학교에 가기 전 준의 아파트 옥상에서 만나기로 했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "decided",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 260,
+              "endMs": 700
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "meet",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1160
+            },
+            {
+              "word": "at",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1320
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1480
+            },
+            {
+              "word": "rooftop",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1480,
+              "endMs": 1920
+            },
+            {
+              "word": "of",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2200
+            },
+            {
+              "word": "Jun's",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2200,
+              "endMs": 2580
+            },
+            {
+              "word": "apartment",
+              "charStart": 45,
+              "charEnd": 54,
+              "startMs": 2580,
+              "endMs": 2820
+            },
+            {
+              "word": "every",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 2820,
+              "endMs": 3340
+            },
+            {
+              "word": "morning",
+              "charStart": 61,
+              "charEnd": 68,
+              "startMs": 3340,
+              "endMs": 3640
+            },
+            {
+              "word": "before",
+              "charStart": 69,
+              "charEnd": 75,
+              "startMs": 3640,
+              "endMs": 4000
+            },
+            {
+              "word": "school",
+              "charStart": 76,
+              "charEnd": 82,
+              "startMs": 4000,
+              "endMs": 4340
+            }
+          ]
+        },
+        {
+          "text": "Mina made a chart for temperature, cloud, and wind — they called it the Weather Log.",
+          "translation_ko": "미나는 기온·구름·바람을 적는 표를 만들었고, 둘은 그것을 '날씨 기록장'이라 불렀다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "made",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 660
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 1040
+            },
+            {
+              "word": "chart",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1040
+            },
+            {
+              "word": "for",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1360
+            },
+            {
+              "word": "temperature",
+              "charStart": 22,
+              "charEnd": 33,
+              "startMs": 1360,
+              "endMs": 1820
+            },
+            {
+              "word": "cloud",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2520,
+              "endMs": 2520
+            },
+            {
+              "word": "and",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 3240
+            },
+            {
+              "word": "wind",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3240,
+              "endMs": 3320
+            },
+            {
+              "word": "they",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3600,
+              "endMs": 3740
+            },
+            {
+              "word": "called",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3740,
+              "endMs": 3960
+            },
+            {
+              "word": "it",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 3960,
+              "endMs": 4200
+            },
+            {
+              "word": "the",
+              "charStart": 68,
+              "charEnd": 71,
+              "startMs": 4200,
+              "endMs": 4400
+            },
+            {
+              "word": "Weather",
+              "charStart": 72,
+              "charEnd": 79,
+              "startMs": 4400,
+              "endMs": 4620
+            },
+            {
+              "word": "Log",
+              "charStart": 80,
+              "charEnd": 83,
+              "startMs": 4620,
+              "endMs": 4940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the first morning, the air felt sharp and the thermometer read eight degrees.",
+          "translation_ko": "첫날 아침, 공기가 서늘했고 온도계는 8도를 가리켰다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 380
+            },
+            {
+              "word": "first",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "morning",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 780,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1680
+            },
+            {
+              "word": "air",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1680,
+              "endMs": 1980
+            },
+            {
+              "word": "felt",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2260
+            },
+            {
+              "word": "sharp",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2260,
+              "endMs": 2640
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 3060
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3060,
+              "endMs": 3280
+            },
+            {
+              "word": "thermometer",
+              "charStart": 49,
+              "charEnd": 60,
+              "startMs": 3280,
+              "endMs": 3620
+            },
+            {
+              "word": "read",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3620,
+              "endMs": 3980
+            },
+            {
+              "word": "eight",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 3980,
+              "endMs": 4360
+            },
+            {
+              "word": "degrees",
+              "charStart": 72,
+              "charEnd": 79,
+              "startMs": 4360,
+              "endMs": 4780
+            }
+          ]
+        },
+        {
+          "text": "Jun called out the number and Mina wrote it down neatly.",
+          "translation_ko": "준이 숫자를 불러 주자 미나가 단정하게 적었다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 30,
+              "endMs": 251
+            },
+            {
+              "word": "called",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 251,
+              "endMs": 637
+            },
+            {
+              "word": "out",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 637,
+              "endMs": 858
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 858,
+              "endMs": 1080
+            },
+            {
+              "word": "number",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1080,
+              "endMs": 1465
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1465,
+              "endMs": 1687
+            },
+            {
+              "word": "Mina",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1687,
+              "endMs": 2072
+            },
+            {
+              "word": "wrote",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2072,
+              "endMs": 2294
+            },
+            {
+              "word": "it",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2294,
+              "endMs": 2515
+            },
+            {
+              "word": "down",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2515,
+              "endMs": 2737
+            },
+            {
+              "word": "neatly",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 2737,
+              "endMs": 3270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By the end of the first week, they had seven days of data.",
+          "translation_ko": "첫 주가 끝날 무렵, 둘에게는 7일치 자료가 생겼다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 540,
+              "endMs": 800
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 800,
+              "endMs": 880
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1180
+            },
+            {
+              "word": "first",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "week",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "they",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1960,
+              "endMs": 2040
+            },
+            {
+              "word": "had",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2040,
+              "endMs": 2240
+            },
+            {
+              "word": "seven",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2240,
+              "endMs": 2540
+            },
+            {
+              "word": "days",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "of",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 3040
+            },
+            {
+              "word": "data",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3040,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "Mina noticed the temperature had dropped each day. \"Winter is really coming,\" she said.",
+          "translation_ko": "미나는 기온이 매일 낮아졌다는 것을 알아챘다. \"겨울이 정말 오고 있네.\" 미나가 말했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "noticed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "temperature",
+              "charStart": 17,
+              "charEnd": 28,
+              "startMs": 1280,
+              "endMs": 1740
+            },
+            {
+              "word": "had",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1740,
+              "endMs": 2100
+            },
+            {
+              "word": "dropped",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "each",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2400,
+              "endMs": 2780
+            },
+            {
+              "word": "day",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3100
+            },
+            {
+              "word": "Winter",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3660,
+              "endMs": 3920
+            },
+            {
+              "word": "is",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 3920,
+              "endMs": 4280
+            },
+            {
+              "word": "really",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 4280,
+              "endMs": 4800
+            },
+            {
+              "word": "coming",
+              "charStart": 69,
+              "charEnd": 75,
+              "startMs": 4800,
+              "endMs": 5080
+            },
+            {
+              "word": "she",
+              "charStart": 78,
+              "charEnd": 81,
+              "startMs": 5220,
+              "endMs": 5380
+            },
+            {
+              "word": "said",
+              "charStart": 82,
+              "charEnd": 86,
+              "startMs": 5380,
+              "endMs": 5600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On a rainy Tuesday they watched from Jun's window instead of the rooftop.",
+          "translation_ko": "비 오는 화요일에는 옥상 대신 준의 방 창문에서 비를 바라보았다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "a",
+              "charStart": 3,
+              "charEnd": 4,
+              "startMs": 180,
+              "endMs": 420
+            },
+            {
+              "word": "rainy",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 720
+            },
+            {
+              "word": "Tuesday",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 720,
+              "endMs": 1280
+            },
+            {
+              "word": "they",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1900,
+              "endMs": 2020
+            },
+            {
+              "word": "watched",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2320
+            },
+            {
+              "word": "from",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2320,
+              "endMs": 2620
+            },
+            {
+              "word": "Jun's",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2620,
+              "endMs": 3440
+            },
+            {
+              "word": "window",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3440,
+              "endMs": 3440
+            },
+            {
+              "word": "instead",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 3440,
+              "endMs": 3980
+            },
+            {
+              "word": "of",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 3980,
+              "endMs": 4160
+            },
+            {
+              "word": "the",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4160,
+              "endMs": 4320
+            },
+            {
+              "word": "rooftop",
+              "charStart": 65,
+              "charEnd": 72,
+              "startMs": 4320,
+              "endMs": 4540
+            }
+          ]
+        },
+        {
+          "text": "Jun timed the rain at forty-two minutes, and they added a new column: rainfall.",
+          "translation_ko": "준은 비가 42분 동안 내렸다는 것을 재고, 강수량이라는 새 항목을 추가했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "timed",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "rain",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "at",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "forty-two",
+              "charStart": 22,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 2000
+            },
+            {
+              "word": "minutes",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2000,
+              "endMs": 2420
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2900,
+              "endMs": 2920
+            },
+            {
+              "word": "they",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2920,
+              "endMs": 3140
+            },
+            {
+              "word": "added",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3140,
+              "endMs": 3280
+            },
+            {
+              "word": "a",
+              "charStart": 56,
+              "charEnd": 57,
+              "startMs": 3280,
+              "endMs": 3460
+            },
+            {
+              "word": "new",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 3460,
+              "endMs": 3680
+            },
+            {
+              "word": "column",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3680,
+              "endMs": 3980
+            },
+            {
+              "word": "rainfall",
+              "charStart": 70,
+              "charEnd": 78,
+              "startMs": 4740,
+              "endMs": 4980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Their teacher, Ms. Park, heard about the club and invited them to present to the class.",
+          "translation_ko": "박 선생님이 동아리 이야기를 듣고, 반 아이들에게 자료를 발표해 보라고 권해 주셨다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "teacher",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "Ms",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "Park",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1100,
+              "endMs": 1480
+            },
+            {
+              "word": "heard",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 1920
+            },
+            {
+              "word": "about",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2160,
+              "endMs": 2320
+            },
+            {
+              "word": "club",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2320,
+              "endMs": 2520
+            },
+            {
+              "word": "and",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2520,
+              "endMs": 2740
+            },
+            {
+              "word": "invited",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 2740,
+              "endMs": 3020
+            },
+            {
+              "word": "them",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3020,
+              "endMs": 3220
+            },
+            {
+              "word": "to",
+              "charStart": 63,
+              "charEnd": 65,
+              "startMs": 3220,
+              "endMs": 3680
+            },
+            {
+              "word": "present",
+              "charStart": 66,
+              "charEnd": 73,
+              "startMs": 3680,
+              "endMs": 3680
+            },
+            {
+              "word": "to",
+              "charStart": 74,
+              "charEnd": 76,
+              "startMs": 3680,
+              "endMs": 3920
+            },
+            {
+              "word": "the",
+              "charStart": 77,
+              "charEnd": 80,
+              "startMs": 3920,
+              "endMs": 4020
+            },
+            {
+              "word": "class",
+              "charStart": 81,
+              "charEnd": 86,
+              "startMs": 4020,
+              "endMs": 4340
+            }
+          ]
+        },
+        {
+          "text": "Jun felt nervous, but Mina said, \"The data will do the talking.\"",
+          "translation_ko": "준은 긴장했지만, 미나가 \"자료가 알아서 말해 줄 거야\"라고 다독여 주었다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 660
+            },
+            {
+              "word": "nervous",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "but",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1620,
+              "endMs": 1720
+            },
+            {
+              "word": "Mina",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "said",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1920,
+              "endMs": 2300
+            },
+            {
+              "word": "The",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2760,
+              "endMs": 2900
+            },
+            {
+              "word": "data",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2900,
+              "endMs": 3160
+            },
+            {
+              "word": "will",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3160,
+              "endMs": 3420
+            },
+            {
+              "word": "do",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3420,
+              "endMs": 3540
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3540,
+              "endMs": 4020
+            },
+            {
+              "word": "talking",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 4020,
+              "endMs": 4020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun drew a temperature graph on the board while Mina explained the trends.",
+          "translation_ko": "준이 칠판에 기온 그래프를 그리는 동안 미나가 변화 추이를 설명했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "drew",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "temperature",
+              "charStart": 11,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1280
+            },
+            {
+              "word": "graph",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1280,
+              "endMs": 1620
+            },
+            {
+              "word": "on",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1620,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1780,
+              "endMs": 1940
+            },
+            {
+              "word": "board",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "while",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 2800
+            },
+            {
+              "word": "Mina",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "explained",
+              "charStart": 53,
+              "charEnd": 62,
+              "startMs": 3060,
+              "endMs": 3680
+            },
+            {
+              "word": "the",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 3680,
+              "endMs": 4260
+            },
+            {
+              "word": "trends",
+              "charStart": 67,
+              "charEnd": 73,
+              "startMs": 4260,
+              "endMs": 4260
+            }
+          ]
+        },
+        {
+          "text": "\"Temperature drops about one degree every three days,\" Mina said, and Ms. Park looked impressed.",
+          "translation_ko": "\"기온이 사흘마다 약 1도씩 낮아지고 있어요.\" 미나가 말하자 박 선생님도 감탄한 표정이었다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Temperature",
+              "charStart": 1,
+              "charEnd": 12,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "drops",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "about",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 820,
+              "endMs": 1220
+            },
+            {
+              "word": "one",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1220,
+              "endMs": 1480
+            },
+            {
+              "word": "degree",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1480,
+              "endMs": 1800
+            },
+            {
+              "word": "every",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 1800,
+              "endMs": 2200
+            },
+            {
+              "word": "three",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2200,
+              "endMs": 2500
+            },
+            {
+              "word": "days",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2500,
+              "endMs": 2860
+            },
+            {
+              "word": "Mina",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3500,
+              "endMs": 3500
+            },
+            {
+              "word": "said",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3500,
+              "endMs": 3800
+            },
+            {
+              "word": "and",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 4280,
+              "endMs": 4360
+            },
+            {
+              "word": "Ms",
+              "charStart": 70,
+              "charEnd": 72,
+              "startMs": 4360,
+              "endMs": 4580
+            },
+            {
+              "word": "Park",
+              "charStart": 74,
+              "charEnd": 78,
+              "startMs": 4740,
+              "endMs": 4840
+            },
+            {
+              "word": "looked",
+              "charStart": 79,
+              "charEnd": 85,
+              "startMs": 4840,
+              "endMs": 5100
+            },
+            {
+              "word": "impressed",
+              "charStart": 86,
+              "charEnd": 95,
+              "startMs": 5100,
+              "endMs": 5500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After the presentation, several classmates asked if they could join the Weather Club.",
+          "translation_ko": "발표가 끝나자 반 친구 몇 명이 날씨 동아리에 들어도 되냐고 물었다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "presentation",
+              "charStart": 10,
+              "charEnd": 22,
+              "startMs": 520,
+              "endMs": 1000
+            },
+            {
+              "word": "several",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "classmates",
+              "charStart": 32,
+              "charEnd": 42,
+              "startMs": 1720,
+              "endMs": 2200
+            },
+            {
+              "word": "asked",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2200,
+              "endMs": 2580
+            },
+            {
+              "word": "if",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 2580,
+              "endMs": 2780
+            },
+            {
+              "word": "they",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 2780,
+              "endMs": 2900
+            },
+            {
+              "word": "could",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 2900,
+              "endMs": 3120
+            },
+            {
+              "word": "join",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3120,
+              "endMs": 3320
+            },
+            {
+              "word": "the",
+              "charStart": 68,
+              "charEnd": 71,
+              "startMs": 3320,
+              "endMs": 3520
+            },
+            {
+              "word": "Weather",
+              "charStart": 72,
+              "charEnd": 79,
+              "startMs": 3520,
+              "endMs": 3740
+            },
+            {
+              "word": "Club",
+              "charStart": 80,
+              "charEnd": 84,
+              "startMs": 3740,
+              "endMs": 4040
+            }
+          ]
+        },
+        {
+          "text": "\"The more observers we have, the better our data will be,\" Jun said with a smile.",
+          "translation_ko": "\"관찰하는 사람이 많을수록 자료가 더 좋아지겠지.\" 준이 웃으며 말했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "more",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 180,
+              "endMs": 660
+            },
+            {
+              "word": "observers",
+              "charStart": 10,
+              "charEnd": 19,
+              "startMs": 660,
+              "endMs": 1120
+            },
+            {
+              "word": "we",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1440
+            },
+            {
+              "word": "have",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2340
+            },
+            {
+              "word": "better",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "our",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 2900
+            },
+            {
+              "word": "data",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2900,
+              "endMs": 3040
+            },
+            {
+              "word": "will",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3040,
+              "endMs": 3260
+            },
+            {
+              "word": "be",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3260,
+              "endMs": 4000
+            },
+            {
+              "word": "Jun",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 4000,
+              "endMs": 4140
+            },
+            {
+              "word": "said",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 4140,
+              "endMs": 4380
+            },
+            {
+              "word": "with",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4380,
+              "endMs": 4520
+            },
+            {
+              "word": "a",
+              "charStart": 73,
+              "charEnd": 74,
+              "startMs": 4520,
+              "endMs": 4740
+            },
+            {
+              "word": "smile",
+              "charStart": 75,
+              "charEnd": 80,
+              "startMs": 4740,
+              "endMs": 4980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The club grew to six members, and they divided the tasks.",
+          "translation_ko": "동아리는 여섯 명으로 늘었고, 역할을 나눠 맡았다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "club",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 680
+            },
+            {
+              "word": "grew",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 920
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1180
+            },
+            {
+              "word": "six",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1420
+            },
+            {
+              "word": "members",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1420,
+              "endMs": 1800
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2220,
+              "endMs": 2260
+            },
+            {
+              "word": "they",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "divided",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2460,
+              "endMs": 2760
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2760,
+              "endMs": 3020
+            },
+            {
+              "word": "tasks",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3020,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "Some measured temperature while others recorded cloud types or wind direction.",
+          "translation_ko": "어떤 친구들은 기온을 재고, 다른 친구들은 구름 모양이나 바람 방향을 기록했다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "measured",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "temperature",
+              "charStart": 14,
+              "charEnd": 25,
+              "startMs": 780,
+              "endMs": 1340
+            },
+            {
+              "word": "while",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 1840
+            },
+            {
+              "word": "others",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "recorded",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2120,
+              "endMs": 2560
+            },
+            {
+              "word": "cloud",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2560,
+              "endMs": 2980
+            },
+            {
+              "word": "types",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2980,
+              "endMs": 3300
+            },
+            {
+              "word": "or",
+              "charStart": 60,
+              "charEnd": 62,
+              "startMs": 3300,
+              "endMs": 3580
+            },
+            {
+              "word": "wind",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3580,
+              "endMs": 3740
+            },
+            {
+              "word": "direction",
+              "charStart": 68,
+              "charEnd": 77,
+              "startMs": 3740,
+              "endMs": 4180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By the end of December, they had filled two whole notebooks.",
+          "translation_ko": "12월이 끝날 무렵, 둘은 공책 두 권을 가득 채웠다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 700,
+              "endMs": 940
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 940,
+              "endMs": 1000
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1520
+            },
+            {
+              "word": "December",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1520
+            },
+            {
+              "word": "they",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 1880
+            },
+            {
+              "word": "had",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "filled",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2140,
+              "endMs": 2280
+            },
+            {
+              "word": "two",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2740
+            },
+            {
+              "word": "whole",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2740,
+              "endMs": 3040
+            },
+            {
+              "word": "notebooks",
+              "charStart": 50,
+              "charEnd": 59,
+              "startMs": 3040,
+              "endMs": 3400
+            }
+          ]
+        },
+        {
+          "text": "Looking back through the pages, he could see exactly how autumn had turned into winter.",
+          "translation_ko": "준은 지난 페이지를 돌아보며 가을이 겨울로 바뀌는 과정을 정확히 알 수 있었다.",
+          "audio": "/seed/daily-131-the-weather-club/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Looking",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "back",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 1100
+            },
+            {
+              "word": "through",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1800
+            },
+            {
+              "word": "pages",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 1800
+            },
+            {
+              "word": "he",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2440
+            },
+            {
+              "word": "could",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2440,
+              "endMs": 2600
+            },
+            {
+              "word": "see",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2600,
+              "endMs": 2860
+            },
+            {
+              "word": "exactly",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2860,
+              "endMs": 3240
+            },
+            {
+              "word": "how",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3240,
+              "endMs": 3580
+            },
+            {
+              "word": "autumn",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3580,
+              "endMs": 3840
+            },
+            {
+              "word": "had",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3840,
+              "endMs": 4140
+            },
+            {
+              "word": "turned",
+              "charStart": 68,
+              "charEnd": 74,
+              "startMs": 4140,
+              "endMs": 4340
+            },
+            {
+              "word": "into",
+              "charStart": 75,
+              "charEnd": 79,
+              "startMs": 4340,
+              "endMs": 4620
+            },
+            {
+              "word": "winter",
+              "charStart": 80,
+              "charEnd": 86,
+              "startMs": 4620,
+              "endMs": 4880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the last day of the year, Mina said, \"I used to think weather just happened to you.\"",
+          "translation_ko": "한 해의 마지막 날, 미나가 말했다. \"예전엔 날씨가 그냥 일어나는 일인 줄만 알았어.\"",
+          "audio": "/seed/daily-131-the-weather-club/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 400
+            },
+            {
+              "word": "last",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "day",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1000
+            },
+            {
+              "word": "of",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1120
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1360
+            },
+            {
+              "word": "year",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1540
+            },
+            {
+              "word": "Mina",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2100,
+              "endMs": 2120
+            },
+            {
+              "word": "said",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2500
+            },
+            {
+              "word": "I",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 3100,
+              "endMs": 3200
+            },
+            {
+              "word": "used",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3200,
+              "endMs": 3420
+            },
+            {
+              "word": "to",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3420,
+              "endMs": 3740
+            },
+            {
+              "word": "think",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3740,
+              "endMs": 3800
+            },
+            {
+              "word": "weather",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 3800,
+              "endMs": 4240
+            },
+            {
+              "word": "just",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4240,
+              "endMs": 4700
+            },
+            {
+              "word": "happened",
+              "charStart": 70,
+              "charEnd": 78,
+              "startMs": 4700,
+              "endMs": 5000
+            },
+            {
+              "word": "to",
+              "charStart": 79,
+              "charEnd": 81,
+              "startMs": 5000,
+              "endMs": 5240
+            },
+            {
+              "word": "you",
+              "charStart": 82,
+              "charEnd": 85,
+              "startMs": 5240,
+              "endMs": 5400
+            }
+          ]
+        },
+        {
+          "text": "Jun wrote in the log: \"Day 87. Clear sky. Cold but hopeful.\"",
+          "translation_ko": "준은 기록장에 썼다. \"87일째. 맑은 하늘. 춥지만 기대가 된다.\"",
+          "audio": "/seed/daily-131-the-weather-club/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "in",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1040
+            },
+            {
+              "word": "log",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1320
+            },
+            {
+              "word": "Day",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "87",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2060,
+              "endMs": 2660
+            },
+            {
+              "word": "Clear",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 3420,
+              "endMs": 3460
+            },
+            {
+              "word": "sky",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3460,
+              "endMs": 3900
+            },
+            {
+              "word": "Cold",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 4640,
+              "endMs": 4700
+            },
+            {
+              "word": "but",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 4700,
+              "endMs": 5100
+            },
+            {
+              "word": "hopeful",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 5100,
+              "endMs": 5400
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 날씨 동아리를 만들고 싶었던 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "날씨에 규칙이 있는지 궁금해서",
+        "날씨 예보 방송에 나오고 싶어서",
+        "선생님이 과제로 내 주셔서",
+        "미나가 먼저 제안해서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 화창한 날과 추운 날 사이에 어떤 규칙이 있는지 궁금해서 날씨 동아리를 만들자고 제안했습니다."
+    },
+    {
+      "question_ko": "준과 미나가 날씨를 기록하기로 한 장소는 어디인가요?",
+      "type": "mc",
+      "options": [
+        "준의 아파트 옥상",
+        "학교 과학실",
+        "동네 공원 벤치",
+        "미나의 집 마당"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "둘은 학교에 가기 전 준의 아파트 옥상에서 만나기로 했습니다."
+    },
+    {
+      "question_ko": "비 오는 날 기록장에 새로 추가한 항목은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "강수량(rainfall)",
+        "풍속(wind speed)",
+        "습도(humidity)",
+        "일출 시간(sunrise time)"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 비가 내린 시간을 잰 뒤, 둘은 표에 강수량(rainfall) 항목을 새로 추가했습니다."
+    },
+    {
+      "question_ko": "발표 날 미나가 설명한 기온 변화는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "사흘마다 약 1도씩 낮아진다",
+        "일주일마다 5도씩 낮아진다",
+        "매일 2도씩 높아진다",
+        "날씨에 따라 불규칙하게 변한다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 \"The temperature falls about one degree every three days\"라고 설명했습니다."
+    },
+    {
+      "question_ko": "동아리가 여섯 명으로 늘어난 뒤 회원들이 한 일은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "기온 측정, 구름 모양·바람 방향 기록 등 역할을 나눠 맡았다",
+        "모두 함께 매일 옥상에서 기온만 쟀다",
+        "선생님 대신 날씨 발표를 준비했다",
+        "날씨 관련 그림 그리기 대회를 열었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "회원들은 역할을 나눠, 어떤 친구들은 기온을 재고 다른 친구들은 구름 모양이나 바람 방향을 기록했습니다."
+    }
+  ]
+}

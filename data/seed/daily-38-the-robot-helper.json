@@ -11,8 +11,8 @@
     {
       "sentences": [
         {
-          "text": "During invention week, our team decides to build a small helper robot. We want it to carry pencils across the table.",
-          "translation_ko": "발명 주간 동안 우리 팀은 작은 도움 로봇을 만들기로 해요. 우리는 로봇이 책상 위에서 연필을 옮기길 원해요.",
+          "text": "During invention week, our team decides to build a small helper robot. We want it to carry pencils across the table. Everyone is excited when we write our idea on the board.",
+          "translation_ko": "발명 주간 동안 우리 팀은 작은 도움 로봇을 만들기로 해요. 우리는 로봇이 책상 위에서 연필을 옮기길 원해요. 우리가 칠판에 아이디어를 적을 때 모두가 신이 나요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p1-s1.mp3",
           "wordTimings": [
             {
@@ -20,147 +20,224 @@
               "charStart": 0,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 440
             },
             {
               "word": "invention",
               "charStart": 7,
               "charEnd": 16,
-              "startMs": 500,
-              "endMs": 1040
+              "startMs": 440,
+              "endMs": 980
             },
             {
               "word": "week",
               "charStart": 17,
               "charEnd": 21,
-              "startMs": 1040,
-              "endMs": 1380
+              "startMs": 980,
+              "endMs": 1300
             },
             {
               "word": "our",
               "charStart": 23,
               "charEnd": 26,
-              "startMs": 1780,
-              "endMs": 1980
+              "startMs": 1640,
+              "endMs": 1860
             },
             {
               "word": "team",
               "charStart": 27,
               "charEnd": 31,
-              "startMs": 1980,
-              "endMs": 2240
+              "startMs": 1860,
+              "endMs": 2060
             },
             {
               "word": "decides",
               "charStart": 32,
               "charEnd": 39,
-              "startMs": 2240,
-              "endMs": 2700
+              "startMs": 2060,
+              "endMs": 2460
             },
             {
               "word": "to",
               "charStart": 40,
               "charEnd": 42,
-              "startMs": 2700,
-              "endMs": 3000
+              "startMs": 2460,
+              "endMs": 2740
             },
             {
               "word": "build",
               "charStart": 43,
               "charEnd": 48,
-              "startMs": 3000,
-              "endMs": 3100
+              "startMs": 2740,
+              "endMs": 2840
             },
             {
               "word": "a",
               "charStart": 49,
               "charEnd": 50,
-              "startMs": 3100,
-              "endMs": 3360
+              "startMs": 2840,
+              "endMs": 3100
             },
             {
               "word": "small",
               "charStart": 51,
               "charEnd": 56,
-              "startMs": 3360,
-              "endMs": 3700
+              "startMs": 3100,
+              "endMs": 3420
             },
             {
               "word": "helper",
               "charStart": 57,
               "charEnd": 63,
-              "startMs": 3700,
-              "endMs": 4020
+              "startMs": 3420,
+              "endMs": 3720
             },
             {
               "word": "robot",
               "charStart": 64,
               "charEnd": 69,
-              "startMs": 4020,
-              "endMs": 4440
+              "startMs": 3720,
+              "endMs": 4120
             },
             {
               "word": "We",
               "charStart": 71,
               "charEnd": 73,
-              "startMs": 5140,
-              "endMs": 5220
+              "startMs": 4880,
+              "endMs": 4980
             },
             {
               "word": "want",
               "charStart": 74,
               "charEnd": 78,
-              "startMs": 5220,
-              "endMs": 5420
+              "startMs": 4980,
+              "endMs": 5180
             },
             {
               "word": "it",
               "charStart": 79,
               "charEnd": 81,
-              "startMs": 5420,
-              "endMs": 5580
+              "startMs": 5180,
+              "endMs": 5340
             },
             {
               "word": "to",
               "charStart": 82,
               "charEnd": 84,
-              "startMs": 5580,
-              "endMs": 5820
+              "startMs": 5340,
+              "endMs": 5680
             },
             {
               "word": "carry",
               "charStart": 85,
               "charEnd": 90,
-              "startMs": 5820,
-              "endMs": 5940
+              "startMs": 5680,
+              "endMs": 5680
             },
             {
               "word": "pencils",
               "charStart": 91,
               "charEnd": 98,
-              "startMs": 5940,
-              "endMs": 6380
+              "startMs": 5680,
+              "endMs": 6060
             },
             {
               "word": "across",
               "charStart": 99,
               "charEnd": 105,
-              "startMs": 6380,
-              "endMs": 6740
+              "startMs": 6060,
+              "endMs": 6440
             },
             {
               "word": "the",
               "charStart": 106,
               "charEnd": 109,
-              "startMs": 6740,
-              "endMs": 6980
+              "startMs": 6440,
+              "endMs": 6940
             },
             {
               "word": "table",
               "charStart": 110,
               "charEnd": 115,
-              "startMs": 6980,
-              "endMs": 7200
+              "startMs": 6940,
+              "endMs": 6940
+            },
+            {
+              "word": "Everyone",
+              "charStart": 117,
+              "charEnd": 125,
+              "startMs": 7880,
+              "endMs": 7980
+            },
+            {
+              "word": "is",
+              "charStart": 126,
+              "charEnd": 128,
+              "startMs": 7980,
+              "endMs": 8300
+            },
+            {
+              "word": "excited",
+              "charStart": 129,
+              "charEnd": 136,
+              "startMs": 8300,
+              "endMs": 8640
+            },
+            {
+              "word": "when",
+              "charStart": 137,
+              "charEnd": 141,
+              "startMs": 8640,
+              "endMs": 9020
+            },
+            {
+              "word": "we",
+              "charStart": 142,
+              "charEnd": 144,
+              "startMs": 9020,
+              "endMs": 9180
+            },
+            {
+              "word": "write",
+              "charStart": 145,
+              "charEnd": 150,
+              "startMs": 9180,
+              "endMs": 9400
+            },
+            {
+              "word": "our",
+              "charStart": 151,
+              "charEnd": 154,
+              "startMs": 9400,
+              "endMs": 9600
+            },
+            {
+              "word": "idea",
+              "charStart": 155,
+              "charEnd": 159,
+              "startMs": 9600,
+              "endMs": 9840
+            },
+            {
+              "word": "on",
+              "charStart": 160,
+              "charEnd": 162,
+              "startMs": 9840,
+              "endMs": 10120
+            },
+            {
+              "word": "the",
+              "charStart": 163,
+              "charEnd": 166,
+              "startMs": 10120,
+              "endMs": 10240
+            },
+            {
+              "word": "board",
+              "charStart": 167,
+              "charEnd": 172,
+              "startMs": 10240,
+              "endMs": 10400
             }
           ]
         }
@@ -169,8 +246,8 @@
     {
       "sentences": [
         {
-          "text": "The first design looks exciting in our notebook. However, the wheels are too weak to move the pencil box.",
-          "translation_ko": "첫 설계는 공책에서 멋져 보여요. 하지만 바퀴가 너무 약해서 연필통을 움직일 수 없어요.",
+          "text": "The first design looks exciting in our notebook. However, the wheels are too weak to move the pencil box. We stare at the drawing and wonder what went wrong.",
+          "translation_ko": "첫 설계는 공책에서 멋져 보여요. 하지만 바퀴가 너무 약해서 연필통을 움직일 수 없어요. 우리는 그림을 바라보며 무엇이 잘못되었는지 궁금해해요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p2-s1.mp3",
           "wordTimings": [
             {
@@ -185,126 +262,196 @@
               "charStart": 4,
               "charEnd": 9,
               "startMs": 220,
-              "endMs": 580
+              "endMs": 560
             },
             {
               "word": "design",
               "charStart": 10,
               "charEnd": 16,
-              "startMs": 580,
-              "endMs": 1060
+              "startMs": 560,
+              "endMs": 940
             },
             {
               "word": "looks",
               "charStart": 17,
               "charEnd": 22,
-              "startMs": 1060,
-              "endMs": 1380
+              "startMs": 940,
+              "endMs": 1220
             },
             {
               "word": "exciting",
               "charStart": 23,
               "charEnd": 31,
-              "startMs": 1380,
-              "endMs": 1880
+              "startMs": 1220,
+              "endMs": 1720
             },
             {
               "word": "in",
               "charStart": 32,
               "charEnd": 34,
-              "startMs": 1880,
-              "endMs": 2040
+              "startMs": 1720,
+              "endMs": 1880
             },
             {
               "word": "our",
               "charStart": 35,
               "charEnd": 38,
-              "startMs": 2040,
-              "endMs": 2240
+              "startMs": 1880,
+              "endMs": 2040
             },
             {
               "word": "notebook",
               "charStart": 39,
               "charEnd": 47,
-              "startMs": 2240,
-              "endMs": 2580
+              "startMs": 2040,
+              "endMs": 2400
             },
             {
               "word": "However",
               "charStart": 49,
               "charEnd": 56,
               "startMs": 3160,
-              "endMs": 3440
+              "endMs": 3260
             },
             {
               "word": "the",
               "charStart": 58,
               "charEnd": 61,
-              "startMs": 3860,
-              "endMs": 4040
+              "startMs": 3360,
+              "endMs": 3540
             },
             {
               "word": "wheels",
               "charStart": 62,
               "charEnd": 68,
-              "startMs": 4040,
-              "endMs": 4180
+              "startMs": 3540,
+              "endMs": 3760
             },
             {
               "word": "are",
               "charStart": 69,
               "charEnd": 72,
-              "startMs": 4180,
-              "endMs": 4440
+              "startMs": 3760,
+              "endMs": 4000
             },
             {
               "word": "too",
               "charStart": 73,
               "charEnd": 76,
-              "startMs": 4440,
-              "endMs": 4680
+              "startMs": 4000,
+              "endMs": 4380
             },
             {
               "word": "weak",
               "charStart": 77,
               "charEnd": 81,
-              "startMs": 4680,
-              "endMs": 4900
+              "startMs": 4380,
+              "endMs": 4620
             },
             {
               "word": "to",
               "charStart": 82,
               "charEnd": 84,
-              "startMs": 4900,
-              "endMs": 5140
+              "startMs": 4620,
+              "endMs": 4880
             },
             {
               "word": "move",
               "charStart": 85,
               "charEnd": 89,
-              "startMs": 5140,
-              "endMs": 5260
+              "startMs": 4880,
+              "endMs": 5100
             },
             {
               "word": "the",
               "charStart": 90,
               "charEnd": 93,
-              "startMs": 5260,
-              "endMs": 5560
+              "startMs": 5100,
+              "endMs": 5340
             },
             {
               "word": "pencil",
               "charStart": 94,
               "charEnd": 100,
-              "startMs": 5560,
-              "endMs": 5700
+              "startMs": 5340,
+              "endMs": 5600
             },
             {
               "word": "box",
               "charStart": 101,
               "charEnd": 104,
-              "startMs": 5700,
-              "endMs": 6100
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "word": "We",
+              "charStart": 106,
+              "charEnd": 108,
+              "startMs": 6720,
+              "endMs": 6960
+            },
+            {
+              "word": "stare",
+              "charStart": 109,
+              "charEnd": 114,
+              "startMs": 6960,
+              "endMs": 7160
+            },
+            {
+              "word": "at",
+              "charStart": 115,
+              "charEnd": 117,
+              "startMs": 7160,
+              "endMs": 7320
+            },
+            {
+              "word": "the",
+              "charStart": 118,
+              "charEnd": 121,
+              "startMs": 7320,
+              "endMs": 7740
+            },
+            {
+              "word": "drawing",
+              "charStart": 122,
+              "charEnd": 129,
+              "startMs": 7740,
+              "endMs": 7740
+            },
+            {
+              "word": "and",
+              "charStart": 130,
+              "charEnd": 133,
+              "startMs": 7740,
+              "endMs": 8260
+            },
+            {
+              "word": "wonder",
+              "charStart": 134,
+              "charEnd": 140,
+              "startMs": 8260,
+              "endMs": 8260
+            },
+            {
+              "word": "what",
+              "charStart": 141,
+              "charEnd": 145,
+              "startMs": 8260,
+              "endMs": 8640
+            },
+            {
+              "word": "went",
+              "charStart": 146,
+              "charEnd": 150,
+              "startMs": 8640,
+              "endMs": 8920
+            },
+            {
+              "word": "wrong",
+              "charStart": 151,
+              "charEnd": 156,
+              "startMs": 8920,
+              "endMs": 9260
             }
           ]
         }
@@ -313,8 +460,8 @@
     {
       "sentences": [
         {
-          "text": "Instead of giving up, we test each part again. Min checks the wheels while Sora measures the box.",
-          "translation_ko": "포기하는 대신 우리는 각 부품을 다시 시험해요. 민이는 바퀴를 확인하고 소라는 상자를 재요.",
+          "text": "Instead of giving up, we test each part again. Min checks the wheels while Sora measures the box. We write down every result so we do not forget anything.",
+          "translation_ko": "포기하는 대신 우리는 각 부품을 다시 시험해요. 민이는 바퀴를 확인하고 소라는 상자를 재요. 우리는 아무것도 잊지 않으려고 결과를 모두 적어요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p3-s1.mp3",
           "wordTimings": [
             {
@@ -322,126 +469,203 @@
               "charStart": 0,
               "charEnd": 7,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 400
             },
             {
               "word": "of",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 500,
-              "endMs": 840
+              "startMs": 400,
+              "endMs": 640
             },
             {
               "word": "giving",
               "charStart": 11,
               "charEnd": 17,
-              "startMs": 840,
-              "endMs": 1020
+              "startMs": 640,
+              "endMs": 820
             },
             {
               "word": "up",
               "charStart": 18,
               "charEnd": 20,
-              "startMs": 1020,
-              "endMs": 1320
+              "startMs": 820,
+              "endMs": 1120
             },
             {
               "word": "we",
               "charStart": 22,
               "charEnd": 24,
-              "startMs": 1880,
-              "endMs": 2000
+              "startMs": 1440,
+              "endMs": 1540
             },
             {
               "word": "test",
               "charStart": 25,
               "charEnd": 29,
-              "startMs": 2000,
-              "endMs": 2320
+              "startMs": 1540,
+              "endMs": 1800
             },
             {
               "word": "each",
               "charStart": 30,
               "charEnd": 34,
-              "startMs": 2320,
-              "endMs": 2760
+              "startMs": 1800,
+              "endMs": 2180
             },
             {
               "word": "part",
               "charStart": 35,
               "charEnd": 39,
-              "startMs": 2760,
-              "endMs": 3040
+              "startMs": 2180,
+              "endMs": 2420
             },
             {
               "word": "again",
               "charStart": 40,
               "charEnd": 45,
-              "startMs": 3040,
-              "endMs": 3620
+              "startMs": 2420,
+              "endMs": 2740
             },
             {
               "word": "Min",
               "charStart": 47,
               "charEnd": 50,
-              "startMs": 4700,
-              "endMs": 4700
+              "startMs": 3380,
+              "endMs": 3380
             },
             {
               "word": "checks",
               "charStart": 51,
               "charEnd": 57,
-              "startMs": 4700,
-              "endMs": 5000
+              "startMs": 3380,
+              "endMs": 3700
             },
             {
               "word": "the",
               "charStart": 58,
               "charEnd": 61,
-              "startMs": 5000,
-              "endMs": 5560
+              "startMs": 3700,
+              "endMs": 4020
             },
             {
               "word": "wheels",
               "charStart": 62,
               "charEnd": 68,
-              "startMs": 5560,
-              "endMs": 5560
+              "startMs": 4020,
+              "endMs": 4140
             },
             {
               "word": "while",
               "charStart": 69,
               "charEnd": 74,
-              "startMs": 5560,
-              "endMs": 6200
+              "startMs": 4140,
+              "endMs": 4440
             },
             {
               "word": "Sora",
               "charStart": 75,
               "charEnd": 79,
-              "startMs": 6200,
-              "endMs": 6480
+              "startMs": 4440,
+              "endMs": 4700
             },
             {
               "word": "measures",
               "charStart": 80,
               "charEnd": 88,
-              "startMs": 6480,
-              "endMs": 6900
+              "startMs": 4700,
+              "endMs": 5100
             },
             {
               "word": "the",
               "charStart": 89,
               "charEnd": 92,
-              "startMs": 6900,
-              "endMs": 7160
+              "startMs": 5100,
+              "endMs": 5300
             },
             {
               "word": "box",
               "charStart": 93,
               "charEnd": 96,
-              "startMs": 7160,
-              "endMs": 7480
+              "startMs": 5300,
+              "endMs": 5620
+            },
+            {
+              "word": "We",
+              "charStart": 98,
+              "charEnd": 100,
+              "startMs": 6160,
+              "endMs": 6280
+            },
+            {
+              "word": "write",
+              "charStart": 101,
+              "charEnd": 106,
+              "startMs": 6280,
+              "endMs": 6460
+            },
+            {
+              "word": "down",
+              "charStart": 107,
+              "charEnd": 111,
+              "startMs": 6460,
+              "endMs": 6760
+            },
+            {
+              "word": "every",
+              "charStart": 112,
+              "charEnd": 117,
+              "startMs": 6760,
+              "endMs": 7120
+            },
+            {
+              "word": "result",
+              "charStart": 118,
+              "charEnd": 124,
+              "startMs": 7120,
+              "endMs": 7440
+            },
+            {
+              "word": "so",
+              "charStart": 125,
+              "charEnd": 127,
+              "startMs": 7820,
+              "endMs": 7920
+            },
+            {
+              "word": "we",
+              "charStart": 128,
+              "charEnd": 130,
+              "startMs": 7920,
+              "endMs": 8080
+            },
+            {
+              "word": "do",
+              "charStart": 131,
+              "charEnd": 133,
+              "startMs": 8080,
+              "endMs": 8240
+            },
+            {
+              "word": "not",
+              "charStart": 134,
+              "charEnd": 137,
+              "startMs": 8240,
+              "endMs": 8400
+            },
+            {
+              "word": "forget",
+              "charStart": 138,
+              "charEnd": 144,
+              "startMs": 8400,
+              "endMs": 8680
+            },
+            {
+              "word": "anything",
+              "charStart": 145,
+              "charEnd": 153,
+              "startMs": 8680,
+              "endMs": 9020
             }
           ]
         }
@@ -450,8 +674,8 @@
     {
       "sentences": [
         {
-          "text": "I notice that the robot turns better when the load is lighter. We remove extra decorations from the top.",
-          "translation_ko": "나는 짐이 가벼울 때 로봇이 더 잘 돈다는 걸 알아차려요. 우리는 위쪽의 불필요한 장식을 떼어내요.",
+          "text": "I notice that the robot turns better when the load is lighter. We remove extra decorations from the top. After that, the robot spins around much more smoothly.",
+          "translation_ko": "나는 짐이 가벼울 때 로봇이 더 잘 돈다는 걸 알아차려요. 우리는 위쪽의 불필요한 장식을 떼어내요. 그러자 로봇이 훨씬 더 부드럽게 돌아요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p4-s1.mp3",
           "wordTimings": [
             {
@@ -459,76 +683,76 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 200
+              "endMs": 220
             },
             {
               "word": "notice",
               "charStart": 2,
               "charEnd": 8,
-              "startMs": 200,
-              "endMs": 660
+              "startMs": 220,
+              "endMs": 500
             },
             {
               "word": "that",
               "charStart": 9,
               "charEnd": 13,
-              "startMs": 660,
-              "endMs": 860
+              "startMs": 500,
+              "endMs": 720
             },
             {
               "word": "the",
               "charStart": 14,
               "charEnd": 17,
-              "startMs": 860,
-              "endMs": 1120
+              "startMs": 720,
+              "endMs": 1020
             },
             {
               "word": "robot",
               "charStart": 18,
               "charEnd": 23,
-              "startMs": 1120,
-              "endMs": 1360
+              "startMs": 1020,
+              "endMs": 1200
             },
             {
               "word": "turns",
               "charStart": 24,
               "charEnd": 29,
-              "startMs": 1360,
-              "endMs": 1760
+              "startMs": 1200,
+              "endMs": 1580
             },
             {
               "word": "better",
               "charStart": 30,
               "charEnd": 36,
-              "startMs": 1760,
-              "endMs": 2100
+              "startMs": 1580,
+              "endMs": 1940
             },
             {
               "word": "when",
               "charStart": 37,
               "charEnd": 41,
-              "startMs": 2100,
-              "endMs": 2380
+              "startMs": 1940,
+              "endMs": 2320
             },
             {
               "word": "the",
               "charStart": 42,
               "charEnd": 45,
-              "startMs": 2380,
-              "endMs": 2580
+              "startMs": 2320,
+              "endMs": 2560
             },
             {
               "word": "load",
               "charStart": 46,
               "charEnd": 50,
-              "startMs": 2580,
-              "endMs": 2720
+              "startMs": 2560,
+              "endMs": 2640
             },
             {
               "word": "is",
               "charStart": 51,
               "charEnd": 53,
-              "startMs": 2720,
+              "startMs": 2640,
               "endMs": 3160
             },
             {
@@ -542,21 +766,21 @@
               "word": "We",
               "charStart": 63,
               "charEnd": 65,
-              "startMs": 3900,
-              "endMs": 4020
+              "startMs": 3920,
+              "endMs": 3980
             },
             {
               "word": "remove",
               "charStart": 66,
               "charEnd": 72,
-              "startMs": 4020,
-              "endMs": 4380
+              "startMs": 3980,
+              "endMs": 4320
             },
             {
               "word": "extra",
               "charStart": 73,
               "charEnd": 78,
-              "startMs": 4380,
+              "startMs": 4320,
               "endMs": 4820
             },
             {
@@ -571,21 +795,84 @@
               "charStart": 91,
               "charEnd": 95,
               "startMs": 5300,
-              "endMs": 5600
+              "endMs": 5640
             },
             {
               "word": "the",
               "charStart": 96,
               "charEnd": 99,
-              "startMs": 5600,
-              "endMs": 5740
+              "startMs": 5640,
+              "endMs": 5820
             },
             {
               "word": "top",
               "charStart": 100,
               "charEnd": 103,
-              "startMs": 5740,
-              "endMs": 5980
+              "startMs": 5820,
+              "endMs": 6080
+            },
+            {
+              "word": "After",
+              "charStart": 105,
+              "charEnd": 110,
+              "startMs": 6880,
+              "endMs": 6940
+            },
+            {
+              "word": "that",
+              "charStart": 111,
+              "charEnd": 115,
+              "startMs": 6940,
+              "endMs": 7260
+            },
+            {
+              "word": "the",
+              "charStart": 117,
+              "charEnd": 120,
+              "startMs": 7640,
+              "endMs": 7840
+            },
+            {
+              "word": "robot",
+              "charStart": 121,
+              "charEnd": 126,
+              "startMs": 7840,
+              "endMs": 8060
+            },
+            {
+              "word": "spins",
+              "charStart": 127,
+              "charEnd": 132,
+              "startMs": 8060,
+              "endMs": 8440
+            },
+            {
+              "word": "around",
+              "charStart": 133,
+              "charEnd": 139,
+              "startMs": 8440,
+              "endMs": 8900
+            },
+            {
+              "word": "much",
+              "charStart": 140,
+              "charEnd": 144,
+              "startMs": 8900,
+              "endMs": 9200
+            },
+            {
+              "word": "more",
+              "charStart": 145,
+              "charEnd": 149,
+              "startMs": 9200,
+              "endMs": 9520
+            },
+            {
+              "word": "smoothly",
+              "charStart": 150,
+              "charEnd": 158,
+              "startMs": 9520,
+              "endMs": 9820
             }
           ]
         }
@@ -594,8 +881,8 @@
     {
       "sentences": [
         {
-          "text": "Our teacher asks us to explain the problem before changing the design. That makes our ideas clearer.",
-          "translation_ko": "선생님은 설계를 바꾸기 전에 문제를 설명하라고 하세요. 그러자 우리의 생각이 더 분명해져요.",
+          "text": "Our teacher asks us to explain the problem before changing the design. That makes our ideas clearer. I feel more confident once I say the problem out loud.",
+          "translation_ko": "선생님은 설계를 바꾸기 전에 문제를 설명하라고 하세요. 그러자 우리의 생각이 더 분명해져요. 문제를 큰 소리로 말하고 나니 더 자신 있어져요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p5-s1.mp3",
           "wordTimings": [
             {
@@ -603,119 +890,196 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 880
+              "endMs": 260
             },
             {
               "word": "teacher",
               "charStart": 4,
               "charEnd": 11,
-              "startMs": 880,
-              "endMs": 1220
+              "startMs": 260,
+              "endMs": 560
             },
             {
               "word": "asks",
               "charStart": 12,
               "charEnd": 16,
-              "startMs": 1220,
-              "endMs": 1620
+              "startMs": 560,
+              "endMs": 940
             },
             {
               "word": "us",
               "charStart": 17,
               "charEnd": 19,
-              "startMs": 1620,
-              "endMs": 1900
+              "startMs": 940,
+              "endMs": 1220
             },
             {
               "word": "to",
               "charStart": 20,
               "charEnd": 22,
-              "startMs": 1900,
-              "endMs": 2260
+              "startMs": 1220,
+              "endMs": 1540
             },
             {
               "word": "explain",
               "charStart": 23,
               "charEnd": 30,
-              "startMs": 2260,
-              "endMs": 2540
+              "startMs": 1540,
+              "endMs": 1800
             },
             {
               "word": "the",
               "charStart": 31,
               "charEnd": 34,
-              "startMs": 2540,
-              "endMs": 2880
+              "startMs": 1800,
+              "endMs": 2120
             },
             {
               "word": "problem",
               "charStart": 35,
               "charEnd": 42,
-              "startMs": 2880,
-              "endMs": 3060
+              "startMs": 2120,
+              "endMs": 2300
             },
             {
               "word": "before",
               "charStart": 43,
               "charEnd": 49,
-              "startMs": 3060,
-              "endMs": 3420
+              "startMs": 2300,
+              "endMs": 2720
             },
             {
               "word": "changing",
               "charStart": 50,
               "charEnd": 58,
-              "startMs": 3420,
-              "endMs": 3800
+              "startMs": 2720,
+              "endMs": 3100
             },
             {
               "word": "the",
               "charStart": 59,
               "charEnd": 62,
-              "startMs": 3800,
-              "endMs": 4100
+              "startMs": 3100,
+              "endMs": 3380
             },
             {
               "word": "design",
               "charStart": 63,
               "charEnd": 69,
-              "startMs": 4100,
-              "endMs": 4420
+              "startMs": 3380,
+              "endMs": 3700
             },
             {
               "word": "That",
               "charStart": 71,
               "charEnd": 75,
-              "startMs": 5260,
-              "endMs": 5400
+              "startMs": 4600,
+              "endMs": 4700
             },
             {
               "word": "makes",
               "charStart": 76,
               "charEnd": 81,
-              "startMs": 5400,
-              "endMs": 5620
+              "startMs": 4700,
+              "endMs": 4880
             },
             {
               "word": "our",
               "charStart": 82,
               "charEnd": 85,
-              "startMs": 5620,
-              "endMs": 5940
+              "startMs": 4880,
+              "endMs": 5140
             },
             {
               "word": "ideas",
               "charStart": 86,
               "charEnd": 91,
-              "startMs": 5940,
-              "endMs": 6220
+              "startMs": 5140,
+              "endMs": 5400
             },
             {
               "word": "clearer",
               "charStart": 92,
               "charEnd": 99,
-              "startMs": 6220,
-              "endMs": 6700
+              "startMs": 5400,
+              "endMs": 5800
+            },
+            {
+              "word": "I",
+              "charStart": 101,
+              "charEnd": 102,
+              "startMs": 6440,
+              "endMs": 6620
+            },
+            {
+              "word": "feel",
+              "charStart": 103,
+              "charEnd": 107,
+              "startMs": 6620,
+              "endMs": 6740
+            },
+            {
+              "word": "more",
+              "charStart": 108,
+              "charEnd": 112,
+              "startMs": 6740,
+              "endMs": 7020
+            },
+            {
+              "word": "confident",
+              "charStart": 113,
+              "charEnd": 122,
+              "startMs": 7020,
+              "endMs": 7400
+            },
+            {
+              "word": "once",
+              "charStart": 123,
+              "charEnd": 127,
+              "startMs": 7400,
+              "endMs": 7820
+            },
+            {
+              "word": "I",
+              "charStart": 128,
+              "charEnd": 129,
+              "startMs": 7820,
+              "endMs": 7980
+            },
+            {
+              "word": "say",
+              "charStart": 130,
+              "charEnd": 133,
+              "startMs": 7980,
+              "endMs": 8100
+            },
+            {
+              "word": "the",
+              "charStart": 134,
+              "charEnd": 137,
+              "startMs": 8100,
+              "endMs": 8520
+            },
+            {
+              "word": "problem",
+              "charStart": 138,
+              "charEnd": 145,
+              "startMs": 8520,
+              "endMs": 8520
+            },
+            {
+              "word": "out",
+              "charStart": 146,
+              "charEnd": 149,
+              "startMs": 8520,
+              "endMs": 8880
+            },
+            {
+              "word": "loud",
+              "charStart": 150,
+              "charEnd": 154,
+              "startMs": 8880,
+              "endMs": 8920
             }
           ]
         }
@@ -724,8 +1088,8 @@
     {
       "sentences": [
         {
-          "text": "We replace the small wheels with wider ones from an old toy car. The robot finally rolls forward without shaking.",
-          "translation_ko": "우리는 작은 바퀴를 오래된 장난감 자동차의 넓은 바퀴로 바꿔요. 로봇은 마침내 흔들리지 않고 앞으로 굴러가요.",
+          "text": "We replace the small wheels with wider ones from an old toy car. The robot finally rolls forward without shaking. We cheer together, and Sora gives a big thumbs up.",
+          "translation_ko": "우리는 작은 바퀴를 오래된 장난감 자동차의 넓은 바퀴로 바꿔요. 로봇은 마침내 흔들리지 않고 앞으로 굴러가요. 우리는 함께 환호하고 소라는 엄지손가락을 들어 올려요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p6-s1.mp3",
           "wordTimings": [
             {
@@ -733,140 +1097,210 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 640
             },
             {
               "word": "replace",
               "charStart": 3,
               "charEnd": 10,
-              "startMs": 220,
-              "endMs": 640
+              "startMs": 640,
+              "endMs": 1020
             },
             {
               "word": "the",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 640,
-              "endMs": 900
+              "startMs": 1020,
+              "endMs": 1320
             },
             {
               "word": "small",
               "charStart": 15,
               "charEnd": 20,
-              "startMs": 900,
-              "endMs": 1180
+              "startMs": 1320,
+              "endMs": 1620
             },
             {
               "word": "wheels",
               "charStart": 21,
               "charEnd": 27,
-              "startMs": 1180,
-              "endMs": 1440
+              "startMs": 1620,
+              "endMs": 1860
             },
             {
               "word": "with",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 1440,
-              "endMs": 1780
+              "startMs": 1860,
+              "endMs": 2160
             },
             {
               "word": "wider",
               "charStart": 33,
               "charEnd": 38,
-              "startMs": 1780,
-              "endMs": 2120
+              "startMs": 2160,
+              "endMs": 2480
             },
             {
               "word": "ones",
               "charStart": 39,
               "charEnd": 43,
-              "startMs": 2120,
-              "endMs": 2400
+              "startMs": 2480,
+              "endMs": 2780
             },
             {
               "word": "from",
               "charStart": 44,
               "charEnd": 48,
-              "startMs": 2400,
-              "endMs": 2580
+              "startMs": 2780,
+              "endMs": 2980
             },
             {
               "word": "an",
               "charStart": 49,
               "charEnd": 51,
-              "startMs": 2580,
-              "endMs": 2740
+              "startMs": 2980,
+              "endMs": 3180
             },
             {
               "word": "old",
               "charStart": 52,
               "charEnd": 55,
-              "startMs": 2740,
-              "endMs": 3060
+              "startMs": 3180,
+              "endMs": 3560
             },
             {
               "word": "toy",
               "charStart": 56,
               "charEnd": 59,
-              "startMs": 3060,
-              "endMs": 3280
+              "startMs": 3560,
+              "endMs": 3800
             },
             {
               "word": "car",
               "charStart": 60,
               "charEnd": 63,
-              "startMs": 3280,
-              "endMs": 3600
+              "startMs": 3800,
+              "endMs": 4140
             },
             {
               "word": "The",
               "charStart": 65,
               "charEnd": 68,
-              "startMs": 4160,
-              "endMs": 4300
+              "startMs": 4980,
+              "endMs": 5100
             },
             {
               "word": "robot",
               "charStart": 69,
               "charEnd": 74,
-              "startMs": 4300,
-              "endMs": 4600
+              "startMs": 5100,
+              "endMs": 5320
             },
             {
               "word": "finally",
               "charStart": 75,
               "charEnd": 82,
-              "startMs": 4600,
-              "endMs": 5120
+              "startMs": 5320,
+              "endMs": 5820
             },
             {
               "word": "rolls",
               "charStart": 83,
               "charEnd": 88,
-              "startMs": 5120,
-              "endMs": 5420
+              "startMs": 5820,
+              "endMs": 6060
             },
             {
               "word": "forward",
               "charStart": 89,
               "charEnd": 96,
-              "startMs": 5420,
-              "endMs": 5880
+              "startMs": 6060,
+              "endMs": 6460
             },
             {
               "word": "without",
               "charStart": 97,
               "charEnd": 104,
-              "startMs": 5880,
-              "endMs": 6260
+              "startMs": 6460,
+              "endMs": 6820
             },
             {
               "word": "shaking",
               "charStart": 105,
               "charEnd": 112,
-              "startMs": 6260,
-              "endMs": 6600
+              "startMs": 6820,
+              "endMs": 7120
+            },
+            {
+              "word": "We",
+              "charStart": 114,
+              "charEnd": 116,
+              "startMs": 7920,
+              "endMs": 8020
+            },
+            {
+              "word": "cheer",
+              "charStart": 117,
+              "charEnd": 122,
+              "startMs": 8020,
+              "endMs": 8240
+            },
+            {
+              "word": "together",
+              "charStart": 123,
+              "charEnd": 131,
+              "startMs": 8240,
+              "endMs": 8680
+            },
+            {
+              "word": "and",
+              "charStart": 133,
+              "charEnd": 136,
+              "startMs": 9200,
+              "endMs": 9420
+            },
+            {
+              "word": "Sora",
+              "charStart": 137,
+              "charEnd": 141,
+              "startMs": 9420,
+              "endMs": 9600
+            },
+            {
+              "word": "gives",
+              "charStart": 142,
+              "charEnd": 147,
+              "startMs": 9600,
+              "endMs": 9880
+            },
+            {
+              "word": "a",
+              "charStart": 148,
+              "charEnd": 149,
+              "startMs": 9880,
+              "endMs": 10060
+            },
+            {
+              "word": "big",
+              "charStart": 150,
+              "charEnd": 153,
+              "startMs": 10060,
+              "endMs": 10340
+            },
+            {
+              "word": "thumbs",
+              "charStart": 154,
+              "charEnd": 160,
+              "startMs": 10340,
+              "endMs": 10560
+            },
+            {
+              "word": "up",
+              "charStart": 161,
+              "charEnd": 163,
+              "startMs": 10560,
+              "endMs": 10800
             }
           ]
         }
@@ -875,8 +1309,8 @@
     {
       "sentences": [
         {
-          "text": "The next problem is steering around a stack of books. We build a simple cardboard ramp to guide it.",
-          "translation_ko": "다음 문제는 책 더미를 피해 방향을 잡는 것이에요. 우리는 로봇을 안내할 간단한 종이 경사로를 만들어요.",
+          "text": "The next problem is steering around a stack of books. We build a simple cardboard ramp to guide it. It takes three tries before the robot follows the path correctly.",
+          "translation_ko": "다음 문제는 책 더미를 피해 방향을 잡는 것이에요. 우리는 로봇을 안내할 간단한 종이 경사로를 만들어요. 로봇이 경로를 제대로 따르기까지 세 번이나 시도해요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p7-s1.mp3",
           "wordTimings": [
             {
@@ -884,133 +1318,210 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 160
             },
             {
               "word": "next",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 220,
-              "endMs": 640
+              "startMs": 160,
+              "endMs": 520
             },
             {
               "word": "problem",
               "charStart": 9,
               "charEnd": 16,
-              "startMs": 640,
-              "endMs": 1060
+              "startMs": 520,
+              "endMs": 880
             },
             {
               "word": "is",
               "charStart": 17,
               "charEnd": 19,
-              "startMs": 1060,
-              "endMs": 1480
+              "startMs": 880,
+              "endMs": 1180
             },
             {
               "word": "steering",
               "charStart": 20,
               "charEnd": 28,
-              "startMs": 1480,
-              "endMs": 1880
+              "startMs": 1180,
+              "endMs": 1460
             },
             {
               "word": "around",
               "charStart": 29,
               "charEnd": 35,
-              "startMs": 1880,
-              "endMs": 2260
+              "startMs": 1460,
+              "endMs": 1820
             },
             {
               "word": "a",
               "charStart": 36,
               "charEnd": 37,
-              "startMs": 2260,
-              "endMs": 2700
+              "startMs": 1820,
+              "endMs": 2080
             },
             {
               "word": "stack",
               "charStart": 38,
               "charEnd": 43,
-              "startMs": 2700,
-              "endMs": 2700
+              "startMs": 2080,
+              "endMs": 2220
             },
             {
               "word": "of",
               "charStart": 44,
               "charEnd": 46,
-              "startMs": 2700,
-              "endMs": 3220
+              "startMs": 2220,
+              "endMs": 2740
             },
             {
               "word": "books",
               "charStart": 47,
               "charEnd": 52,
-              "startMs": 3220,
-              "endMs": 3220
+              "startMs": 2740,
+              "endMs": 2740
             },
             {
               "word": "We",
               "charStart": 54,
               "charEnd": 56,
-              "startMs": 3760,
-              "endMs": 3900
+              "startMs": 3120,
+              "endMs": 3180
             },
             {
               "word": "build",
               "charStart": 57,
               "charEnd": 62,
-              "startMs": 3900,
-              "endMs": 4120
+              "startMs": 3180,
+              "endMs": 3360
             },
             {
               "word": "a",
               "charStart": 63,
               "charEnd": 64,
-              "startMs": 4120,
-              "endMs": 4460
+              "startMs": 3360,
+              "endMs": 3620
             },
             {
               "word": "simple",
               "charStart": 65,
               "charEnd": 71,
-              "startMs": 4460,
-              "endMs": 4700
+              "startMs": 3620,
+              "endMs": 3840
             },
             {
               "word": "cardboard",
               "charStart": 72,
               "charEnd": 81,
-              "startMs": 4700,
-              "endMs": 5180
+              "startMs": 3840,
+              "endMs": 4280
             },
             {
               "word": "ramp",
               "charStart": 82,
               "charEnd": 86,
-              "startMs": 5180,
-              "endMs": 5520
+              "startMs": 4280,
+              "endMs": 4580
             },
             {
               "word": "to",
               "charStart": 87,
               "charEnd": 89,
-              "startMs": 5520,
-              "endMs": 5940
+              "startMs": 4580,
+              "endMs": 4800
             },
             {
               "word": "guide",
               "charStart": 90,
               "charEnd": 95,
-              "startMs": 5940,
-              "endMs": 6060
+              "startMs": 4800,
+              "endMs": 5000
             },
             {
               "word": "it",
               "charStart": 96,
               "charEnd": 98,
-              "startMs": 6060,
-              "endMs": 6260
+              "startMs": 5000,
+              "endMs": 5140
+            },
+            {
+              "word": "It",
+              "charStart": 100,
+              "charEnd": 102,
+              "startMs": 5560,
+              "endMs": 5640
+            },
+            {
+              "word": "takes",
+              "charStart": 103,
+              "charEnd": 108,
+              "startMs": 5640,
+              "endMs": 5860
+            },
+            {
+              "word": "three",
+              "charStart": 109,
+              "charEnd": 114,
+              "startMs": 5860,
+              "endMs": 6200
+            },
+            {
+              "word": "tries",
+              "charStart": 115,
+              "charEnd": 120,
+              "startMs": 6200,
+              "endMs": 6520
+            },
+            {
+              "word": "before",
+              "charStart": 121,
+              "charEnd": 127,
+              "startMs": 6520,
+              "endMs": 6840
+            },
+            {
+              "word": "the",
+              "charStart": 128,
+              "charEnd": 131,
+              "startMs": 6840,
+              "endMs": 7300
+            },
+            {
+              "word": "robot",
+              "charStart": 132,
+              "charEnd": 137,
+              "startMs": 7300,
+              "endMs": 7300
+            },
+            {
+              "word": "follows",
+              "charStart": 138,
+              "charEnd": 145,
+              "startMs": 7300,
+              "endMs": 7620
+            },
+            {
+              "word": "the",
+              "charStart": 146,
+              "charEnd": 149,
+              "startMs": 7620,
+              "endMs": 7860
+            },
+            {
+              "word": "path",
+              "charStart": 150,
+              "charEnd": 154,
+              "startMs": 7860,
+              "endMs": 8100
+            },
+            {
+              "word": "correctly",
+              "charStart": 155,
+              "charEnd": 164,
+              "startMs": 8100,
+              "endMs": 8540
             }
           ]
         }
@@ -1019,8 +1530,8 @@
     {
       "sentences": [
         {
-          "text": "When the robot carries three pencils, everyone holds their breath. It moves slowly, but it does not drop them.",
-          "translation_ko": "로봇이 연필 세 자루를 옮길 때 모두가 숨을 죽여요. 로봇은 천천히 움직이지만 떨어뜨리지 않아요.",
+          "text": "When the robot carries three pencils, everyone holds their breath. It moves slowly, but it does not drop them. A big smile spreads across every face in the room.",
+          "translation_ko": "로봇이 연필 세 자루를 옮길 때 모두가 숨을 죽여요. 로봇은 천천히 움직이지만 떨어뜨리지 않아요. 방 안 모두의 얼굴에 환한 미소가 번져요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p8-s1.mp3",
           "wordTimings": [
             {
@@ -1028,133 +1539,203 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 220
             },
             {
               "word": "the",
               "charStart": 5,
               "charEnd": 8,
-              "startMs": 360,
-              "endMs": 640
+              "startMs": 220,
+              "endMs": 480
             },
             {
               "word": "robot",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 640,
-              "endMs": 1060
+              "startMs": 480,
+              "endMs": 840
             },
             {
               "word": "carries",
               "charStart": 15,
               "charEnd": 22,
-              "startMs": 1060,
-              "endMs": 1540
+              "startMs": 840,
+              "endMs": 1280
             },
             {
               "word": "three",
               "charStart": 23,
               "charEnd": 28,
-              "startMs": 1540,
-              "endMs": 1980
+              "startMs": 1280,
+              "endMs": 1720
             },
             {
               "word": "pencils",
               "charStart": 29,
               "charEnd": 36,
-              "startMs": 1980,
-              "endMs": 2420
+              "startMs": 1720,
+              "endMs": 2120
             },
             {
               "word": "everyone",
               "charStart": 38,
               "charEnd": 46,
-              "startMs": 3100,
-              "endMs": 3360
+              "startMs": 2740,
+              "endMs": 3020
             },
             {
               "word": "holds",
               "charStart": 47,
               "charEnd": 52,
-              "startMs": 3360,
-              "endMs": 3680
+              "startMs": 3020,
+              "endMs": 3360
             },
             {
               "word": "their",
               "charStart": 53,
               "charEnd": 58,
-              "startMs": 3680,
-              "endMs": 3960
+              "startMs": 3360,
+              "endMs": 3640
             },
             {
               "word": "breath",
               "charStart": 59,
               "charEnd": 65,
-              "startMs": 3960,
-              "endMs": 4240
+              "startMs": 3640,
+              "endMs": 3900
             },
             {
               "word": "It",
               "charStart": 67,
               "charEnd": 69,
-              "startMs": 5100,
-              "endMs": 5120
+              "startMs": 4680,
+              "endMs": 4720
             },
             {
               "word": "moves",
               "charStart": 70,
               "charEnd": 75,
-              "startMs": 5120,
-              "endMs": 5400
+              "startMs": 4720,
+              "endMs": 5020
             },
             {
               "word": "slowly",
               "charStart": 76,
               "charEnd": 82,
-              "startMs": 5400,
-              "endMs": 5880
+              "startMs": 5020,
+              "endMs": 5480
             },
             {
               "word": "but",
               "charStart": 84,
               "charEnd": 87,
-              "startMs": 6040,
-              "endMs": 6280
+              "startMs": 5840,
+              "endMs": 5940
             },
             {
               "word": "it",
               "charStart": 88,
               "charEnd": 90,
-              "startMs": 6280,
-              "endMs": 6520
+              "startMs": 5940,
+              "endMs": 6100
             },
             {
               "word": "does",
               "charStart": 91,
               "charEnd": 95,
-              "startMs": 6520,
-              "endMs": 6660
+              "startMs": 6100,
+              "endMs": 6260
             },
             {
               "word": "not",
               "charStart": 96,
               "charEnd": 99,
-              "startMs": 6660,
-              "endMs": 6920
+              "startMs": 6260,
+              "endMs": 6580
             },
             {
               "word": "drop",
               "charStart": 100,
               "charEnd": 104,
-              "startMs": 6920,
-              "endMs": 7120
+              "startMs": 6580,
+              "endMs": 6780
             },
             {
               "word": "them",
               "charStart": 105,
               "charEnd": 109,
-              "startMs": 7120,
-              "endMs": 7340
+              "startMs": 6780,
+              "endMs": 7020
+            },
+            {
+              "word": "A",
+              "charStart": 111,
+              "charEnd": 112,
+              "startMs": 7560,
+              "endMs": 7680
+            },
+            {
+              "word": "big",
+              "charStart": 113,
+              "charEnd": 116,
+              "startMs": 7680,
+              "endMs": 8000
+            },
+            {
+              "word": "smile",
+              "charStart": 117,
+              "charEnd": 122,
+              "startMs": 8000,
+              "endMs": 8380
+            },
+            {
+              "word": "spreads",
+              "charStart": 123,
+              "charEnd": 130,
+              "startMs": 8380,
+              "endMs": 8720
+            },
+            {
+              "word": "across",
+              "charStart": 131,
+              "charEnd": 137,
+              "startMs": 8720,
+              "endMs": 9060
+            },
+            {
+              "word": "every",
+              "charStart": 138,
+              "charEnd": 143,
+              "startMs": 9060,
+              "endMs": 9460
+            },
+            {
+              "word": "face",
+              "charStart": 144,
+              "charEnd": 148,
+              "startMs": 9460,
+              "endMs": 9700
+            },
+            {
+              "word": "in",
+              "charStart": 149,
+              "charEnd": 151,
+              "startMs": 9700,
+              "endMs": 9860
+            },
+            {
+              "word": "the",
+              "charStart": 152,
+              "charEnd": 155,
+              "startMs": 9860,
+              "endMs": 10100
+            },
+            {
+              "word": "room",
+              "charStart": 156,
+              "charEnd": 160,
+              "startMs": 10100,
+              "endMs": 10100
             }
           ]
         }
@@ -1163,8 +1744,8 @@
     {
       "sentences": [
         {
-          "text": "On presentation day, our robot is not the fastest machine in the room. Still, it solves the task we chose.",
-          "translation_ko": "발표 날 우리 로봇은 교실에서 가장 빠른 기계는 아니에요. 그래도 우리가 고른 과제를 해결해요.",
+          "text": "On presentation day, our robot is not the fastest machine in the room. Still, it solves the task we chose. The audience claps when the robot delivers the pencils safely.",
+          "translation_ko": "발표 날 우리 로봇은 교실에서 가장 빠른 기계는 아니에요. 그래도 우리가 고른 과제를 해결해요. 로봇이 연필을 안전하게 전달하자 관중이 박수를 쳐요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p9-s1.mp3",
           "wordTimings": [
             {
@@ -1172,111 +1753,111 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 400
             },
             {
               "word": "presentation",
               "charStart": 3,
               "charEnd": 15,
-              "startMs": 240,
-              "endMs": 820
+              "startMs": 400,
+              "endMs": 920
             },
             {
               "word": "day",
               "charStart": 16,
               "charEnd": 19,
-              "startMs": 820,
-              "endMs": 1200
+              "startMs": 920,
+              "endMs": 1260
             },
             {
               "word": "our",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1500,
-              "endMs": 1680
+              "startMs": 1680,
+              "endMs": 1900
             },
             {
               "word": "robot",
               "charStart": 25,
               "charEnd": 30,
-              "startMs": 1680,
-              "endMs": 1920
+              "startMs": 1900,
+              "endMs": 2140
             },
             {
               "word": "is",
               "charStart": 31,
               "charEnd": 33,
-              "startMs": 1920,
-              "endMs": 2180
+              "startMs": 2140,
+              "endMs": 2360
             },
             {
               "word": "not",
               "charStart": 34,
               "charEnd": 37,
-              "startMs": 2180,
-              "endMs": 2440
+              "startMs": 2360,
+              "endMs": 2560
             },
             {
               "word": "the",
               "charStart": 38,
               "charEnd": 41,
-              "startMs": 2440,
-              "endMs": 3040
+              "startMs": 2560,
+              "endMs": 2740
             },
             {
               "word": "fastest",
               "charStart": 42,
               "charEnd": 49,
-              "startMs": 3040,
-              "endMs": 3040
+              "startMs": 2740,
+              "endMs": 3140
             },
             {
               "word": "machine",
               "charStart": 50,
               "charEnd": 57,
-              "startMs": 3040,
-              "endMs": 3420
+              "startMs": 3140,
+              "endMs": 3480
             },
             {
               "word": "in",
               "charStart": 58,
               "charEnd": 60,
-              "startMs": 3420,
-              "endMs": 3560
+              "startMs": 3480,
+              "endMs": 3640
             },
             {
               "word": "the",
               "charStart": 61,
               "charEnd": 64,
-              "startMs": 3560,
-              "endMs": 3900
+              "startMs": 3640,
+              "endMs": 3980
             },
             {
               "word": "room",
               "charStart": 65,
               "charEnd": 69,
-              "startMs": 3900,
-              "endMs": 3900
+              "startMs": 3980,
+              "endMs": 3980
             },
             {
               "word": "Still",
               "charStart": 71,
               "charEnd": 76,
-              "startMs": 4640,
-              "endMs": 4680
+              "startMs": 4900,
+              "endMs": 4900
             },
             {
               "word": "it",
               "charStart": 78,
               "charEnd": 80,
-              "startMs": 5040,
-              "endMs": 5200
+              "startMs": 5080,
+              "endMs": 5220
             },
             {
               "word": "solves",
               "charStart": 81,
               "charEnd": 87,
-              "startMs": 5200,
+              "startMs": 5220,
               "endMs": 5460
             },
             {
@@ -1284,28 +1865,98 @@
               "charStart": 88,
               "charEnd": 91,
               "startMs": 5460,
-              "endMs": 5700
+              "endMs": 5680
             },
             {
               "word": "task",
               "charStart": 92,
               "charEnd": 96,
-              "startMs": 5700,
-              "endMs": 6020
+              "startMs": 5680,
+              "endMs": 5940
             },
             {
               "word": "we",
               "charStart": 97,
               "charEnd": 99,
-              "startMs": 6020,
-              "endMs": 6280
+              "startMs": 5940,
+              "endMs": 6180
             },
             {
               "word": "chose",
               "charStart": 100,
               "charEnd": 105,
-              "startMs": 6280,
-              "endMs": 6580
+              "startMs": 6180,
+              "endMs": 6460
+            },
+            {
+              "word": "The",
+              "charStart": 107,
+              "charEnd": 110,
+              "startMs": 7080,
+              "endMs": 7220
+            },
+            {
+              "word": "audience",
+              "charStart": 111,
+              "charEnd": 119,
+              "startMs": 7220,
+              "endMs": 7540
+            },
+            {
+              "word": "claps",
+              "charStart": 120,
+              "charEnd": 125,
+              "startMs": 7540,
+              "endMs": 7900
+            },
+            {
+              "word": "when",
+              "charStart": 126,
+              "charEnd": 130,
+              "startMs": 7900,
+              "endMs": 8080
+            },
+            {
+              "word": "the",
+              "charStart": 131,
+              "charEnd": 134,
+              "startMs": 8080,
+              "endMs": 8500
+            },
+            {
+              "word": "robot",
+              "charStart": 135,
+              "charEnd": 140,
+              "startMs": 8500,
+              "endMs": 8500
+            },
+            {
+              "word": "delivers",
+              "charStart": 141,
+              "charEnd": 149,
+              "startMs": 8500,
+              "endMs": 8880
+            },
+            {
+              "word": "the",
+              "charStart": 150,
+              "charEnd": 153,
+              "startMs": 8880,
+              "endMs": 9460
+            },
+            {
+              "word": "pencils",
+              "charStart": 154,
+              "charEnd": 161,
+              "startMs": 9460,
+              "endMs": 9460
+            },
+            {
+              "word": "safely",
+              "charStart": 162,
+              "charEnd": 168,
+              "startMs": 9460,
+              "endMs": 9860
             }
           ]
         }
@@ -1314,8 +1965,8 @@
     {
       "sentences": [
         {
-          "text": "We show our failed drawings next to the final model. The class can see how each mistake taught us something.",
-          "translation_ko": "우리는 최종 모형 옆에 실패한 그림들도 보여줘요. 반 친구들은 각 실수가 우리에게 무언가를 가르쳤다는 걸 볼 수 있어요.",
+          "text": "We show our failed drawings next to the final model. The class can see how each mistake taught us something. One classmate says she wants to try the same project next year.",
+          "translation_ko": "우리는 최종 모형 옆에 실패한 그림들도 보여줘요. 반 친구들은 각 실수가 우리에게 무언가를 가르쳤다는 걸 볼 수 있어요. 한 친구가 내년에 같은 과제에 도전하고 싶다고 말해요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p10-s1.mp3",
           "wordTimings": [
             {
@@ -1323,140 +1974,224 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 200
             },
             {
               "word": "show",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 220,
-              "endMs": 540
+              "startMs": 200,
+              "endMs": 420
             },
             {
               "word": "our",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 540,
-              "endMs": 920
+              "startMs": 420,
+              "endMs": 700
             },
             {
               "word": "failed",
               "charStart": 12,
               "charEnd": 18,
-              "startMs": 920,
-              "endMs": 1220
+              "startMs": 700,
+              "endMs": 960
             },
             {
               "word": "drawings",
               "charStart": 19,
               "charEnd": 27,
-              "startMs": 1220,
-              "endMs": 1660
+              "startMs": 960,
+              "endMs": 1360
             },
             {
               "word": "next",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 1660,
-              "endMs": 1960
+              "startMs": 1360,
+              "endMs": 1660
             },
             {
               "word": "to",
               "charStart": 33,
               "charEnd": 35,
-              "startMs": 1960,
-              "endMs": 2160
+              "startMs": 1660,
+              "endMs": 1840
             },
             {
               "word": "the",
               "charStart": 36,
               "charEnd": 39,
-              "startMs": 2160,
-              "endMs": 2280
+              "startMs": 1840,
+              "endMs": 1980
             },
             {
               "word": "final",
               "charStart": 40,
               "charEnd": 45,
-              "startMs": 2280,
-              "endMs": 2580
+              "startMs": 1980,
+              "endMs": 2220
             },
             {
               "word": "model",
               "charStart": 46,
               "charEnd": 51,
-              "startMs": 2580,
-              "endMs": 2880
+              "startMs": 2220,
+              "endMs": 2520
             },
             {
               "word": "The",
               "charStart": 53,
               "charEnd": 56,
-              "startMs": 3620,
-              "endMs": 3720
+              "startMs": 2940,
+              "endMs": 3020
             },
             {
               "word": "class",
               "charStart": 57,
               "charEnd": 62,
-              "startMs": 3720,
-              "endMs": 4020
+              "startMs": 3020,
+              "endMs": 3240
             },
             {
               "word": "can",
               "charStart": 63,
               "charEnd": 66,
-              "startMs": 4020,
-              "endMs": 4320
+              "startMs": 3240,
+              "endMs": 3520
             },
             {
               "word": "see",
               "charStart": 67,
               "charEnd": 70,
-              "startMs": 4320,
-              "endMs": 4480
+              "startMs": 3520,
+              "endMs": 3680
             },
             {
               "word": "how",
               "charStart": 71,
               "charEnd": 74,
-              "startMs": 4480,
-              "endMs": 4680
+              "startMs": 3680,
+              "endMs": 3900
             },
             {
               "word": "each",
               "charStart": 75,
               "charEnd": 79,
-              "startMs": 4680,
-              "endMs": 4940
+              "startMs": 3900,
+              "endMs": 4220
             },
             {
               "word": "mistake",
               "charStart": 80,
               "charEnd": 87,
-              "startMs": 4940,
-              "endMs": 5340
+              "startMs": 4220,
+              "endMs": 4640
             },
             {
               "word": "taught",
               "charStart": 88,
               "charEnd": 94,
-              "startMs": 5340,
-              "endMs": 5660
+              "startMs": 4640,
+              "endMs": 4980
             },
             {
               "word": "us",
               "charStart": 95,
               "charEnd": 97,
-              "startMs": 5660,
-              "endMs": 5880
+              "startMs": 4980,
+              "endMs": 5160
             },
             {
               "word": "something",
               "charStart": 98,
               "charEnd": 107,
-              "startMs": 5880,
-              "endMs": 6120
+              "startMs": 5160,
+              "endMs": 5500
+            },
+            {
+              "word": "One",
+              "charStart": 109,
+              "charEnd": 112,
+              "startMs": 6160,
+              "endMs": 6300
+            },
+            {
+              "word": "classmate",
+              "charStart": 113,
+              "charEnd": 122,
+              "startMs": 6300,
+              "endMs": 6820
+            },
+            {
+              "word": "says",
+              "charStart": 123,
+              "charEnd": 127,
+              "startMs": 6820,
+              "endMs": 7120
+            },
+            {
+              "word": "she",
+              "charStart": 128,
+              "charEnd": 131,
+              "startMs": 7120,
+              "endMs": 7640
+            },
+            {
+              "word": "wants",
+              "charStart": 132,
+              "charEnd": 137,
+              "startMs": 7640,
+              "endMs": 7820
+            },
+            {
+              "word": "to",
+              "charStart": 138,
+              "charEnd": 140,
+              "startMs": 7820,
+              "endMs": 8000
+            },
+            {
+              "word": "try",
+              "charStart": 141,
+              "charEnd": 144,
+              "startMs": 8000,
+              "endMs": 8120
+            },
+            {
+              "word": "the",
+              "charStart": 145,
+              "charEnd": 148,
+              "startMs": 8120,
+              "endMs": 8320
+            },
+            {
+              "word": "same",
+              "charStart": 149,
+              "charEnd": 153,
+              "startMs": 8320,
+              "endMs": 8600
+            },
+            {
+              "word": "project",
+              "charStart": 154,
+              "charEnd": 161,
+              "startMs": 8600,
+              "endMs": 8960
+            },
+            {
+              "word": "next",
+              "charStart": 162,
+              "charEnd": 166,
+              "startMs": 8960,
+              "endMs": 9300
+            },
+            {
+              "word": "year",
+              "charStart": 167,
+              "charEnd": 171,
+              "startMs": 9300,
+              "endMs": 9500
             }
           ]
         }
@@ -1465,8 +2200,8 @@
     {
       "sentences": [
         {
-          "text": "I used to think inventors had perfect ideas at once. Now I know they improve ideas by testing them.",
-          "translation_ko": "나는 예전에는 발명가가 한 번에 완벽한 생각을 한다고 여겼어요. 이제는 시험하며 생각을 개선한다는 걸 알아요.",
+          "text": "I used to think inventors had perfect ideas at once. Now I know they improve ideas by testing them. Every failure is really just one more step toward a better answer.",
+          "translation_ko": "나는 예전에는 발명가가 한 번에 완벽한 생각을 한다고 여겼어요. 이제는 시험하며 생각을 개선한다는 걸 알아요. 모든 실패는 사실 더 나은 답을 향한 한 걸음이에요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p11-s1.mp3",
           "wordTimings": [
             {
@@ -1474,133 +2209,217 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 440
+              "endMs": 200
             },
             {
               "word": "used",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 440,
-              "endMs": 740
+              "startMs": 200,
+              "endMs": 320
             },
             {
               "word": "to",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 740,
-              "endMs": 1160
+              "startMs": 320,
+              "endMs": 640
             },
             {
               "word": "think",
               "charStart": 10,
               "charEnd": 15,
-              "startMs": 1160,
-              "endMs": 1260
+              "startMs": 640,
+              "endMs": 660
             },
             {
               "word": "inventors",
               "charStart": 16,
               "charEnd": 25,
-              "startMs": 1260,
-              "endMs": 1860
+              "startMs": 660,
+              "endMs": 1200
             },
             {
               "word": "had",
               "charStart": 26,
               "charEnd": 29,
-              "startMs": 1860,
-              "endMs": 2140
+              "startMs": 1200,
+              "endMs": 1440
             },
             {
               "word": "perfect",
               "charStart": 30,
               "charEnd": 37,
-              "startMs": 2140,
-              "endMs": 2640
+              "startMs": 1440,
+              "endMs": 1840
             },
             {
               "word": "ideas",
               "charStart": 38,
               "charEnd": 43,
-              "startMs": 2640,
-              "endMs": 3020
+              "startMs": 1840,
+              "endMs": 2200
             },
             {
               "word": "at",
               "charStart": 44,
               "charEnd": 46,
-              "startMs": 3020,
-              "endMs": 3320
+              "startMs": 2200,
+              "endMs": 2480
             },
             {
               "word": "once",
               "charStart": 47,
               "charEnd": 51,
-              "startMs": 3320,
-              "endMs": 3600
+              "startMs": 2480,
+              "endMs": 2740
             },
             {
               "word": "Now",
               "charStart": 53,
               "charEnd": 56,
-              "startMs": 4440,
-              "endMs": 4620
+              "startMs": 3280,
+              "endMs": 3380
             },
             {
               "word": "I",
               "charStart": 57,
               "charEnd": 58,
-              "startMs": 4620,
-              "endMs": 4840
+              "startMs": 3380,
+              "endMs": 3580
             },
             {
               "word": "know",
               "charStart": 59,
               "charEnd": 63,
-              "startMs": 4840,
-              "endMs": 5000
+              "startMs": 3580,
+              "endMs": 3680
             },
             {
               "word": "they",
               "charStart": 64,
               "charEnd": 68,
-              "startMs": 5000,
-              "endMs": 5280
+              "startMs": 3680,
+              "endMs": 3900
             },
             {
               "word": "improve",
               "charStart": 69,
               "charEnd": 76,
-              "startMs": 5280,
-              "endMs": 5700
+              "startMs": 3900,
+              "endMs": 4300
             },
             {
               "word": "ideas",
               "charStart": 77,
               "charEnd": 82,
-              "startMs": 5700,
-              "endMs": 6220
+              "startMs": 4300,
+              "endMs": 4720
             },
             {
               "word": "by",
               "charStart": 83,
               "charEnd": 85,
-              "startMs": 6220,
-              "endMs": 6580
+              "startMs": 4720,
+              "endMs": 5020
             },
             {
               "word": "testing",
               "charStart": 86,
               "charEnd": 93,
-              "startMs": 6580,
-              "endMs": 6920
+              "startMs": 5020,
+              "endMs": 5300
             },
             {
               "word": "them",
               "charStart": 94,
               "charEnd": 98,
-              "startMs": 6920,
+              "startMs": 5300,
+              "endMs": 5580
+            },
+            {
+              "word": "Every",
+              "charStart": 100,
+              "charEnd": 105,
+              "startMs": 6040,
+              "endMs": 6260
+            },
+            {
+              "word": "failure",
+              "charStart": 106,
+              "charEnd": 113,
+              "startMs": 6260,
+              "endMs": 6560
+            },
+            {
+              "word": "is",
+              "charStart": 114,
+              "charEnd": 116,
+              "startMs": 6560,
+              "endMs": 6840
+            },
+            {
+              "word": "really",
+              "charStart": 117,
+              "charEnd": 123,
+              "startMs": 6840,
               "endMs": 7160
+            },
+            {
+              "word": "just",
+              "charStart": 124,
+              "charEnd": 128,
+              "startMs": 7160,
+              "endMs": 7420
+            },
+            {
+              "word": "one",
+              "charStart": 129,
+              "charEnd": 132,
+              "startMs": 7420,
+              "endMs": 7680
+            },
+            {
+              "word": "more",
+              "charStart": 133,
+              "charEnd": 137,
+              "startMs": 7680,
+              "endMs": 7980
+            },
+            {
+              "word": "step",
+              "charStart": 138,
+              "charEnd": 142,
+              "startMs": 7980,
+              "endMs": 8220
+            },
+            {
+              "word": "toward",
+              "charStart": 143,
+              "charEnd": 149,
+              "startMs": 8220,
+              "endMs": 8540
+            },
+            {
+              "word": "a",
+              "charStart": 150,
+              "charEnd": 151,
+              "startMs": 8540,
+              "endMs": 8740
+            },
+            {
+              "word": "better",
+              "charStart": 152,
+              "charEnd": 158,
+              "startMs": 8740,
+              "endMs": 8940
+            },
+            {
+              "word": "answer",
+              "charStart": 159,
+              "charEnd": 165,
+              "startMs": 8940,
+              "endMs": 9240
             }
           ]
         }
@@ -1609,8 +2428,8 @@
     {
       "sentences": [
         {
-          "text": "After school, I write a new plan for a robot that waters plants. The next invention begins with another question.",
-          "translation_ko": "방과 후 나는 식물에 물을 주는 로봇 계획을 새로 써요. 다음 발명은 또 다른 질문에서 시작돼요.",
+          "text": "After school, I write a new plan for a robot that waters plants. The next invention begins with another question. I cannot wait to find out what this robot will teach me.",
+          "translation_ko": "방과 후 나는 식물에 물을 주는 로봇 계획을 새로 써요. 다음 발명은 또 다른 질문에서 시작돼요. 이 로봇이 나에게 무엇을 가르쳐 줄지 기대돼요.",
           "audio": "/seed/daily-38-the-robot-helper/audio/p12-s1.mp3",
           "wordTimings": [
             {
@@ -1625,97 +2444,97 @@
               "charStart": 6,
               "charEnd": 12,
               "startMs": 300,
-              "endMs": 700
+              "endMs": 680
             },
             {
               "word": "I",
               "charStart": 14,
               "charEnd": 15,
-              "startMs": 1160,
-              "endMs": 1360
+              "startMs": 960,
+              "endMs": 1140
             },
             {
               "word": "write",
               "charStart": 16,
               "charEnd": 21,
-              "startMs": 1360,
-              "endMs": 1480
+              "startMs": 1140,
+              "endMs": 1260
             },
             {
               "word": "a",
               "charStart": 22,
               "charEnd": 23,
-              "startMs": 1480,
-              "endMs": 1660
+              "startMs": 1260,
+              "endMs": 1440
             },
             {
               "word": "new",
               "charStart": 24,
               "charEnd": 27,
-              "startMs": 1660,
-              "endMs": 1820
+              "startMs": 1440,
+              "endMs": 1640
             },
             {
               "word": "plan",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 1820,
-              "endMs": 2080
+              "startMs": 1640,
+              "endMs": 1860
             },
             {
               "word": "for",
               "charStart": 33,
               "charEnd": 36,
-              "startMs": 2080,
-              "endMs": 2320
+              "startMs": 1860,
+              "endMs": 2080
             },
             {
               "word": "a",
               "charStart": 37,
               "charEnd": 38,
-              "startMs": 2320,
-              "endMs": 2760
+              "startMs": 2080,
+              "endMs": 2300
             },
             {
               "word": "robot",
               "charStart": 39,
               "charEnd": 44,
-              "startMs": 2760,
-              "endMs": 2760
+              "startMs": 2300,
+              "endMs": 2420
             },
             {
               "word": "that",
               "charStart": 45,
               "charEnd": 49,
-              "startMs": 2760,
-              "endMs": 3080
+              "startMs": 2420,
+              "endMs": 2760
             },
             {
               "word": "waters",
               "charStart": 50,
               "charEnd": 56,
-              "startMs": 3080,
-              "endMs": 3320
+              "startMs": 2760,
+              "endMs": 3000
             },
             {
               "word": "plants",
               "charStart": 57,
               "charEnd": 63,
-              "startMs": 3320,
-              "endMs": 3800
+              "startMs": 3000,
+              "endMs": 3480
             },
             {
               "word": "The",
               "charStart": 65,
               "charEnd": 68,
-              "startMs": 4580,
-              "endMs": 4660
+              "startMs": 4560,
+              "endMs": 4640
             },
             {
               "word": "next",
               "charStart": 69,
               "charEnd": 73,
-              "startMs": 4660,
+              "startMs": 4640,
               "endMs": 4940
             },
             {
@@ -1723,35 +2542,119 @@
               "charStart": 74,
               "charEnd": 83,
               "startMs": 4940,
-              "endMs": 5360
+              "endMs": 5320
             },
             {
               "word": "begins",
               "charStart": 84,
               "charEnd": 90,
-              "startMs": 5360,
-              "endMs": 5780
+              "startMs": 5320,
+              "endMs": 5720
             },
             {
               "word": "with",
               "charStart": 91,
               "charEnd": 95,
-              "startMs": 5780,
-              "endMs": 6020
+              "startMs": 5720,
+              "endMs": 5960
             },
             {
               "word": "another",
               "charStart": 96,
               "charEnd": 103,
-              "startMs": 6020,
-              "endMs": 6300
+              "startMs": 5960,
+              "endMs": 6220
             },
             {
               "word": "question",
               "charStart": 104,
               "charEnd": 112,
-              "startMs": 6300,
-              "endMs": 6680
+              "startMs": 6220,
+              "endMs": 6660
+            },
+            {
+              "word": "I",
+              "charStart": 114,
+              "charEnd": 115,
+              "startMs": 7460,
+              "endMs": 7600
+            },
+            {
+              "word": "cannot",
+              "charStart": 116,
+              "charEnd": 122,
+              "startMs": 7600,
+              "endMs": 7840
+            },
+            {
+              "word": "wait",
+              "charStart": 123,
+              "charEnd": 127,
+              "startMs": 7840,
+              "endMs": 8040
+            },
+            {
+              "word": "to",
+              "charStart": 128,
+              "charEnd": 130,
+              "startMs": 8040,
+              "endMs": 8360
+            },
+            {
+              "word": "find",
+              "charStart": 131,
+              "charEnd": 135,
+              "startMs": 8360,
+              "endMs": 8420
+            },
+            {
+              "word": "out",
+              "charStart": 136,
+              "charEnd": 139,
+              "startMs": 8420,
+              "endMs": 8660
+            },
+            {
+              "word": "what",
+              "charStart": 140,
+              "charEnd": 144,
+              "startMs": 8660,
+              "endMs": 8840
+            },
+            {
+              "word": "this",
+              "charStart": 145,
+              "charEnd": 149,
+              "startMs": 8840,
+              "endMs": 9100
+            },
+            {
+              "word": "robot",
+              "charStart": 150,
+              "charEnd": 155,
+              "startMs": 9100,
+              "endMs": 9320
+            },
+            {
+              "word": "will",
+              "charStart": 156,
+              "charEnd": 160,
+              "startMs": 9320,
+              "endMs": 9540
+            },
+            {
+              "word": "teach",
+              "charStart": 161,
+              "charEnd": 166,
+              "startMs": 9540,
+              "endMs": 9780
+            },
+            {
+              "word": "me",
+              "charStart": 167,
+              "charEnd": 169,
+              "startMs": 9780,
+              "endMs": 9980
             }
           ]
         }
@@ -1819,18 +2722,6 @@
       ],
       "answerIndex": 0,
       "explain_ko": "each mistake taught us something."
-    },
-    {
-      "question_ko": "화자가 발명에 대해 새로 알게 된 것은?",
-      "type": "mc",
-      "options": [
-        "시험하며 개선한다",
-        "항상 처음부터 완벽하다",
-        "혼자만 해야 한다",
-        "질문이 필요 없다"
-      ],
-      "answerIndex": 0,
-      "explain_ko": "improve ideas by testing them."
     }
   ]
 }

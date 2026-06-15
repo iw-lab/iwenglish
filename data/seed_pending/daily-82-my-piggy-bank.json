@@ -1,0 +1,1042 @@
+{
+  "slug": "daily-82-my-piggy-bank",
+  "title": "My Piggy Bank",
+  "title_ko": "내 돼지 저금통",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "준이 동전을 하나씩 모아 돼지 저금통에 넣으며 저축의 즐거움을 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun has a pink piggy bank.",
+          "translation_ko": "준에게는 분홍색 돼지 저금통이 있어요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "has",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "pink",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1140,
+              "endMs": 1320
+            },
+            {
+              "word": "piggy",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "bank",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1860
+            }
+          ]
+        },
+        {
+          "text": "It sits on his desk.",
+          "translation_ko": "저금통은 준의 책상 위에 놓여 있어요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "sits",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 560
+            },
+            {
+              "word": "on",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1040
+            },
+            {
+              "word": "desk",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad gives Jun some coins.",
+          "translation_ko": "아빠가 준에게 동전을 몇 개 줘요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 920
+            },
+            {
+              "word": "gives",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 920,
+              "endMs": 1680
+            },
+            {
+              "word": "Jun",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1680,
+              "endMs": 2180
+            },
+            {
+              "word": "some",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 2180,
+              "endMs": 2840
+            },
+            {
+              "word": "coins",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 2840,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "\"These are for you,\" says Dad.",
+          "translation_ko": "\"이건 네 거야.\" 아빠가 말해요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "These",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "are",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 620
+            },
+            {
+              "word": "for",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 960
+            },
+            {
+              "word": "you",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "says",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1780,
+              "endMs": 1860
+            },
+            {
+              "word": "Dad",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1860,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun looks at the coins.",
+          "translation_ko": "준이 동전들을 바라봐요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "at",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1140
+            },
+            {
+              "word": "coins",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1420
+            }
+          ]
+        },
+        {
+          "text": "He sees a ten-won coin and a fifty-won coin.",
+          "translation_ko": "10원짜리 동전 하나와 50원짜리 동전 하나가 보여요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 30,
+              "endMs": 242
+            },
+            {
+              "word": "sees",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 242,
+              "endMs": 454
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 454,
+              "endMs": 666
+            },
+            {
+              "word": "ten-won",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 666,
+              "endMs": 1035
+            },
+            {
+              "word": "coin",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1035,
+              "endMs": 1247
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1247,
+              "endMs": 1459
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1459,
+              "endMs": 1671
+            },
+            {
+              "word": "fifty-won",
+              "charStart": 29,
+              "charEnd": 38,
+              "startMs": 1671,
+              "endMs": 2197
+            },
+            {
+              "word": "coin",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2197,
+              "endMs": 2550
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun puts the coins into his piggy bank.",
+          "translation_ko": "준이 동전들을 저금통에 넣어요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "puts",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1060
+            },
+            {
+              "word": "coins",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "into",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "his",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "piggy",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2180
+            },
+            {
+              "word": "bank",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2180,
+              "endMs": 2480
+            }
+          ]
+        },
+        {
+          "text": "Clink, clink!",
+          "translation_ko": "딸깍, 딸깍!",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Clink",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "clink",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 1100,
+              "endMs": 1140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Can I have more coins?\" Jun asks.",
+          "translation_ko": "\"동전 더 받을 수 있어요?\" 준이 물어봐요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 160,
+              "endMs": 400
+            },
+            {
+              "word": "have",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 560
+            },
+            {
+              "word": "more",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "coins",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "Jun",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "asks",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2420
+            }
+          ]
+        },
+        {
+          "text": "\"Yes, but you must save them,\" says Dad.",
+          "translation_ko": "\"응, 하지만 모아 두어야 해.\" 아빠가 말해요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "but",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 960,
+              "endMs": 1240
+            },
+            {
+              "word": "you",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "must",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1460,
+              "endMs": 1860
+            },
+            {
+              "word": "save",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1860,
+              "endMs": 2320
+            },
+            {
+              "word": "them",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "says",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 3160,
+              "endMs": 3240
+            },
+            {
+              "word": "Dad",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 3240,
+              "endMs": 3580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun finds a coin on the floor.",
+          "translation_ko": "준이 바닥에서 동전 하나를 찾아요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "finds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1100
+            },
+            {
+              "word": "coin",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1240
+            },
+            {
+              "word": "on",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "floor",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 1860
+            }
+          ]
+        },
+        {
+          "text": "He drops it into the piggy bank, too.",
+          "translation_ko": "준은 그것도 저금통에 넣어요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "drops",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 700
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1200
+            },
+            {
+              "word": "into",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "piggy",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "bank",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "too",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2100,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Every day, Jun puts one coin in.",
+          "translation_ko": "준은 매일 동전 하나씩 넣어요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "day",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 740
+            },
+            {
+              "word": "Jun",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "puts",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "one",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1440,
+              "endMs": 1800
+            },
+            {
+              "word": "coin",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2060
+            },
+            {
+              "word": "in",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "The piggy bank gets heavy.",
+          "translation_ko": "저금통이 점점 무거워져요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "piggy",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "bank",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "gets",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "heavy",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 1960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One day, Jun shakes the piggy bank.",
+          "translation_ko": "어느 날, 준이 저금통을 흔들어 봐요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "day",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "Jun",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "shakes",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1560,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "piggy",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "bank",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2260,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "It is so full and heavy!",
+          "translation_ko": "가득 차서 정말 무거워요!",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 200,
+              "endMs": 440
+            },
+            {
+              "word": "so",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 660
+            },
+            {
+              "word": "full",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1280
+            },
+            {
+              "word": "heavy",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I saved so many coins!\" Jun says.",
+          "translation_ko": "\"동전을 이렇게 많이 모았어요!\" 준이 말해요.",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "saved",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "so",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 1120
+            },
+            {
+              "word": "many",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "coins",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 2540
+            },
+            {
+              "word": "Jun",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2540,
+              "endMs": 2620
+            },
+            {
+              "word": "says",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2620,
+              "endMs": 2980
+            }
+          ]
+        },
+        {
+          "text": "Dad smiles and says, \"Good job, Jun!\"",
+          "translation_ko": "아빠가 웃으며 말해요. \"잘했어, 준!\"",
+          "audio": "/seed/daily-82-my-piggy-bank/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 1100
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1100,
+              "endMs": 1480
+            },
+            {
+              "word": "says",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "Good",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1960,
+              "endMs": 2220
+            },
+            {
+              "word": "job",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2220,
+              "endMs": 2620
+            },
+            {
+              "word": "Jun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2780,
+              "endMs": 2940
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준의 저금통은 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "분홍색",
+        "파란색",
+        "빨간색",
+        "노란색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "첫 번째 페이지에서 준에게는 분홍색 돼지 저금통이 있다고 나와요."
+    },
+    {
+      "question_ko": "아빠는 준에게 무엇을 주었나요?",
+      "type": "mc",
+      "options": [
+        "동전",
+        "지폐",
+        "장난감",
+        "사탕"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아빠가 준에게 동전을 몇 개 주었어요."
+    },
+    {
+      "question_ko": "준이 바닥에서 찾은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "동전",
+        "지우개",
+        "열쇠",
+        "단추"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 바닥에서 동전 하나를 찾아 저금통에 넣었어요."
+    },
+    {
+      "question_ko": "아빠는 더 많은 동전을 받으려면 어떻게 해야 한다고 했나요?",
+      "type": "mc",
+      "options": [
+        "모아 두어야 한다",
+        "바로 써야 한다",
+        "친구에게 줘야 한다",
+        "잃어버려야 한다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아빠는 \"모아 두어야 해\"라고 말했어요."
+    },
+    {
+      "question_ko": "이야기의 끝에서 저금통은 어떻게 되었나요?",
+      "type": "mc",
+      "options": [
+        "가득 차서 무거워졌다",
+        "깨져 버렸다",
+        "사라져 버렸다",
+        "텅 비어 버렸다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 매일 동전을 넣어서 저금통이 가득 차고 무거워졌어요."
+    }
+  ]
+}

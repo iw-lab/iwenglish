@@ -1,0 +1,523 @@
+{
+  "slug": "daily-60-my-warm-bed",
+  "title": "My Warm Bed",
+  "title_ko": "내 따뜻한 침대",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "Jun이 하루를 마치고 따뜻하고 포근한 자기 침대로 들어가는 잠자리 이야기입니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "It is night. The sky is dark.",
+          "translation_ko": "밤이 되었어요. 하늘이 어두워요.",
+          "audio": "/seed/daily-60-my-warm-bed/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 200,
+              "endMs": 560
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "The",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "sky",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1580
+            },
+            {
+              "word": "is",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1580,
+              "endMs": 1960
+            },
+            {
+              "word": "dark",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun is tired. He had a long day.",
+          "translation_ko": "준은 피곤해요. 오늘 하루가 길었거든요.",
+          "audio": "/seed/daily-60-my-warm-bed/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "tired",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "He",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1420,
+              "endMs": 1520
+            },
+            {
+              "word": "had",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1520,
+              "endMs": 1620
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "long",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "day",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1980,
+              "endMs": 2240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He washes his face and his hands.",
+          "translation_ko": "준은 얼굴과 손을 깨끗이 씻어요.",
+          "audio": "/seed/daily-60-my-warm-bed/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "washes",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 960
+            },
+            {
+              "word": "face",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1520
+            },
+            {
+              "word": "his",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1880
+            },
+            {
+              "word": "hands",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 1980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He puts on his pajamas.",
+          "translation_ko": "준은 잠옷을 입어요.",
+          "audio": "/seed/daily-60-my-warm-bed/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "puts",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 640
+            },
+            {
+              "word": "on",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1240
+            },
+            {
+              "word": "pajamas",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He sees his bed. It looks so soft.",
+          "translation_ko": "준은 침대를 봐요. 정말 포근해 보여요.",
+          "audio": "/seed/daily-60-my-warm-bed/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "sees",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 620
+            },
+            {
+              "word": "his",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "bed",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1180
+            },
+            {
+              "word": "It",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1860
+            },
+            {
+              "word": "looks",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "so",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2080,
+              "endMs": 2560
+            },
+            {
+              "word": "soft",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2560,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He gets into bed. The bed is warm.",
+          "translation_ko": "준은 침대 속으로 들어가요. 침대가 따뜻해요.",
+          "audio": "/seed/daily-60-my-warm-bed/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "gets",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "into",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "bed",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "The",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "bed",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "is",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2260,
+              "endMs": 2620
+            },
+            {
+              "word": "warm",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2620,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun smiles big. He closes his eyes. Good night, Jun.",
+          "translation_ko": "준은 활짝 웃어요. 눈을 감아요. 잘 자요, 준.",
+          "audio": "/seed/daily-60-my-warm-bed/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 1000
+            },
+            {
+              "word": "big",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1380
+            },
+            {
+              "word": "He",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1900,
+              "endMs": 2020
+            },
+            {
+              "word": "closes",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "his",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2280,
+              "endMs": 2900
+            },
+            {
+              "word": "eyes",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2900,
+              "endMs": 2960
+            },
+            {
+              "word": "Good",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3700,
+              "endMs": 3960
+            },
+            {
+              "word": "night",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3960,
+              "endMs": 4180
+            },
+            {
+              "word": "Jun",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 4540,
+              "endMs": 4720
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "이 이야기는 하루 중 언제 일어나는 일인가요?",
+      "type": "mc",
+      "options": [
+        "밤",
+        "아침",
+        "점심",
+        "오후"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "첫 페이지에서 'It is night.'라고 했으므로 밤이에요."
+    },
+    {
+      "question_ko": "준은 잠자리에 들기 전에 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "얼굴과 손을 씻었어요",
+        "책을 읽었어요",
+        "간식을 먹었어요",
+        "텔레비전을 봤어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'He washes his face and hands.'에서 준이 얼굴과 손을 씻었다고 했어요."
+    },
+    {
+      "question_ko": "침대는 어떤 느낌인가요?",
+      "type": "mc",
+      "options": [
+        "따뜻해요",
+        "차가워요",
+        "딱딱해요",
+        "무거워요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'The bed is warm.'에서 침대가 따뜻하다고 했어요."
+    },
+    {
+      "question_ko": "준이 침대에 들어가기 전에 입은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "잠옷",
+        "교복",
+        "운동복",
+        "수영복"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'He puts on his pajamas.'에서 잠옷을 입었다고 했어요."
+    },
+    {
+      "question_ko": "이야기의 마지막에 준은 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "눈을 감았어요",
+        "일어났어요",
+        "뛰어놀았어요",
+        "밥을 먹었어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "'He closes his eyes.'에서 준이 눈을 감았다고 했어요."
+    }
+  ]
+}

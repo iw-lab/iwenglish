@@ -20,56 +20,126 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 440
+              "endMs": 400
             },
             {
               "word": "week",
               "charStart": 5,
               "charEnd": 9,
-              "startMs": 440,
-              "endMs": 800
+              "startMs": 400,
+              "endMs": 680
             },
             {
               "word": "I",
               "charStart": 10,
               "charEnd": 11,
-              "startMs": 1080,
-              "endMs": 1360
+              "startMs": 760,
+              "endMs": 1040
             },
             {
               "word": "worried",
               "charStart": 12,
               "charEnd": 19,
-              "startMs": 1360,
-              "endMs": 1700
+              "startMs": 1040,
+              "endMs": 1240
             },
             {
               "word": "about",
               "charStart": 20,
               "charEnd": 25,
-              "startMs": 1700,
-              "endMs": 2080
+              "startMs": 1240,
+              "endMs": 1520
             },
             {
               "word": "the",
               "charStart": 26,
               "charEnd": 29,
-              "startMs": 2080,
-              "endMs": 2380
+              "startMs": 1520,
+              "endMs": 1780
             },
             {
               "word": "spelling",
               "charStart": 30,
               "charEnd": 38,
-              "startMs": 2380,
-              "endMs": 2560
+              "startMs": 1780,
+              "endMs": 1980
             },
             {
               "word": "test",
               "charStart": 39,
               "charEnd": 43,
-              "startMs": 2560,
-              "endMs": 2980
+              "startMs": 1980,
+              "endMs": 2360
+            }
+          ]
+        },
+        {
+          "text": "My teacher said we had twenty words to learn.",
+          "translation_ko": "선생님이 스무 개의 단어를 외워야 한다고 하셨어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "teacher",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 680
+            },
+            {
+              "word": "said",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 1020
+            },
+            {
+              "word": "we",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "had",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "twenty",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1900
+            },
+            {
+              "word": "words",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1900,
+              "endMs": 2180
+            },
+            {
+              "word": "to",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "learn",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2480,
+              "endMs": 2640
             }
           ]
         }
@@ -87,20 +157,20 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 740
+              "endMs": 780
             },
             {
               "word": "words",
               "charStart": 5,
               "charEnd": 10,
-              "startMs": 740,
-              "endMs": 1060
+              "startMs": 780,
+              "endMs": 1080
             },
             {
               "word": "were",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 1060,
+              "startMs": 1080,
               "endMs": 1340
             },
             {
@@ -108,13 +178,13 @@
               "charStart": 16,
               "charEnd": 20,
               "startMs": 1340,
-              "endMs": 1680
+              "endMs": 1720
             },
             {
               "word": "and",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1680,
+              "startMs": 1720,
               "endMs": 2040
             },
             {
@@ -122,14 +192,112 @@
               "charStart": 25,
               "charEnd": 29,
               "startMs": 2040,
-              "endMs": 2400
+              "endMs": 2360
             },
             {
               "word": "tricky",
               "charStart": 30,
               "charEnd": 36,
-              "startMs": 2400,
-              "endMs": 2640
+              "startMs": 2360,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "I read them over and over, but the letters kept getting mixed up.",
+          "translation_ko": "반복해서 읽었지만 글자가 자꾸 헷갈렸어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "read",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 520
+            },
+            {
+              "word": "them",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "over",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1760
+            },
+            {
+              "word": "over",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1760,
+              "endMs": 1760
+            },
+            {
+              "word": "but",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2360,
+              "endMs": 2460
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "letters",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 2880
+            },
+            {
+              "word": "kept",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2880,
+              "endMs": 3180
+            },
+            {
+              "word": "getting",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3180,
+              "endMs": 3500
+            },
+            {
+              "word": "mixed",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3500,
+              "endMs": 3700
+            },
+            {
+              "word": "up",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 3700,
+              "endMs": 3980
             }
           ]
         }
@@ -147,49 +315,147 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 420
+              "endMs": 580
             },
             {
               "word": "every",
               "charStart": 3,
               "charEnd": 8,
-              "startMs": 640,
-              "endMs": 980
+              "startMs": 600,
+              "endMs": 1020
             },
             {
               "word": "night",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 980,
+              "startMs": 1020,
               "endMs": 1200
             },
             {
               "word": "I",
               "charStart": 15,
               "charEnd": 16,
-              "startMs": 1440,
-              "endMs": 1640
+              "startMs": 1200,
+              "endMs": 1460
             },
             {
               "word": "practiced",
               "charStart": 17,
               "charEnd": 26,
-              "startMs": 1640,
-              "endMs": 1960
+              "startMs": 1460,
+              "endMs": 1820
             },
             {
               "word": "ten",
               "charStart": 27,
               "charEnd": 30,
-              "startMs": 1960,
-              "endMs": 2340
+              "startMs": 1820,
+              "endMs": 2180
             },
             {
               "word": "words",
               "charStart": 31,
               "charEnd": 36,
-              "startMs": 2340,
-              "endMs": 2620
+              "startMs": 2180,
+              "endMs": 2480
+            }
+          ]
+        },
+        {
+          "text": "I sat at my desk, opened my notebook, and wrote each word carefully.",
+          "translation_ko": "책상에 앉아 공책을 펴고 단어 하나하나를 꼼꼼히 썼어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "sat",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 260,
+              "endMs": 480
+            },
+            {
+              "word": "at",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 680
+            },
+            {
+              "word": "my",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 1060
+            },
+            {
+              "word": "desk",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1200
+            },
+            {
+              "word": "opened",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 1940
+            },
+            {
+              "word": "my",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "notebook",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 3020,
+              "endMs": 3220
+            },
+            {
+              "word": "wrote",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3220,
+              "endMs": 3300
+            },
+            {
+              "word": "each",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3300,
+              "endMs": 3680
+            },
+            {
+              "word": "word",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3680,
+              "endMs": 3860
+            },
+            {
+              "word": "carefully",
+              "charStart": 58,
+              "charEnd": 67,
+              "startMs": 3860,
+              "endMs": 4300
             }
           ]
         }
@@ -207,49 +473,147 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 460
+              "endMs": 380
             },
             {
               "word": "read",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 460,
-              "endMs": 800
+              "startMs": 380,
+              "endMs": 640
             },
             {
               "word": "them",
               "charStart": 9,
               "charEnd": 13,
-              "startMs": 800,
-              "endMs": 1040
+              "startMs": 640,
+              "endMs": 880
             },
             {
               "word": "aloud",
               "charStart": 14,
               "charEnd": 19,
-              "startMs": 1040,
-              "endMs": 1380
+              "startMs": 880,
+              "endMs": 1300
             },
             {
               "word": "while",
               "charStart": 20,
               "charEnd": 25,
-              "startMs": 1380,
-              "endMs": 1760
+              "startMs": 1300,
+              "endMs": 1820
             },
             {
               "word": "I",
               "charStart": 26,
               "charEnd": 27,
-              "startMs": 1760,
-              "endMs": 1980
+              "startMs": 1820,
+              "endMs": 2080
             },
             {
               "word": "wrote",
               "charStart": 28,
               "charEnd": 33,
-              "startMs": 1980,
-              "endMs": 2140
+              "startMs": 2080,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "She said each word slowly and clearly so I could hear every sound.",
+          "translation_ko": "엄마는 내가 모든 소리를 들을 수 있도록 천천히 또렷하게 읽어 주셨어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "each",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 920
+            },
+            {
+              "word": "word",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "slowly",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 2020
+            },
+            {
+              "word": "clearly",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2020,
+              "endMs": 2420
+            },
+            {
+              "word": "so",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2420,
+              "endMs": 2920
+            },
+            {
+              "word": "I",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2920,
+              "endMs": 3060
+            },
+            {
+              "word": "could",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3060,
+              "endMs": 3220
+            },
+            {
+              "word": "hear",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3220,
+              "endMs": 3460
+            },
+            {
+              "word": "every",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3460,
+              "endMs": 3900
+            },
+            {
+              "word": "sound",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3900,
+              "endMs": 4260
             }
           ]
         }
@@ -267,56 +631,217 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 300
             },
             {
               "word": "I",
               "charStart": 5,
               "charEnd": 6,
-              "startMs": 320,
-              "endMs": 600
+              "startMs": 300,
+              "endMs": 660
             },
             {
               "word": "made",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 600,
-              "endMs": 680
+              "startMs": 660,
+              "endMs": 760
             },
             {
               "word": "a",
               "charStart": 12,
               "charEnd": 13,
-              "startMs": 680,
-              "endMs": 920
+              "startMs": 760,
+              "endMs": 1040
             },
             {
               "word": "mistake",
               "charStart": 14,
               "charEnd": 21,
-              "startMs": 920,
-              "endMs": 1140
+              "startMs": 1040,
+              "endMs": 1340
             },
             {
               "word": "I",
               "charStart": 23,
               "charEnd": 24,
-              "startMs": 1260,
-              "endMs": 1440
+              "startMs": 1460,
+              "endMs": 1900
             },
             {
               "word": "tried",
               "charStart": 25,
               "charEnd": 30,
-              "startMs": 1440,
-              "endMs": 1600
+              "startMs": 1900,
+              "endMs": 2120
             },
             {
               "word": "again",
               "charStart": 31,
               "charEnd": 36,
-              "startMs": 1600,
-              "endMs": 1860
+              "startMs": 2120,
+              "endMs": 2480
+            }
+          ]
+        },
+        {
+          "text": "I said the word out loud and wrote it three more times.",
+          "translation_ko": "소리 내어 말한 다음 세 번 더 썼어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "said",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 500
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "word",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "out",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "loud",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 2160
+            },
+            {
+              "word": "wrote",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2300
+            },
+            {
+              "word": "it",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "three",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "more",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "times",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3060,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "Slowly, the tricky words started to feel more familiar.",
+          "translation_ko": "조금씩, 까다로운 단어들이 더 익숙하게 느껴지기 시작했어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Slowly",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 820,
+              "endMs": 1040
+            },
+            {
+              "word": "tricky",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "words",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "started",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 2000
+            },
+            {
+              "word": "to",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2360
+            },
+            {
+              "word": "feel",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2360,
+              "endMs": 2440
+            },
+            {
+              "word": "more",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2440,
+              "endMs": 2800
+            },
+            {
+              "word": "familiar",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 2800,
+              "endMs": 3080
             }
           ]
         }
@@ -341,56 +866,168 @@
               "charStart": 3,
               "charEnd": 7,
               "startMs": 320,
-              "endMs": 620
+              "endMs": 600
             },
             {
               "word": "day",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 620,
-              "endMs": 960
+              "startMs": 600,
+              "endMs": 900
             },
             {
               "word": "my",
               "charStart": 12,
               "charEnd": 14,
-              "startMs": 1300,
-              "endMs": 1500
+              "startMs": 1140,
+              "endMs": 1300
             },
             {
               "word": "hands",
               "charStart": 15,
               "charEnd": 20,
-              "startMs": 1500,
-              "endMs": 1720
+              "startMs": 1300,
+              "endMs": 1520
             },
             {
               "word": "felt",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1720,
-              "endMs": 2040
+              "startMs": 1520,
+              "endMs": 1780
             },
             {
               "word": "a",
               "charStart": 26,
               "charEnd": 27,
-              "startMs": 2040,
-              "endMs": 2260
+              "startMs": 1780,
+              "endMs": 1920
             },
             {
               "word": "little",
               "charStart": 28,
               "charEnd": 34,
-              "startMs": 2260,
-              "endMs": 2480
+              "startMs": 1920,
+              "endMs": 2140
             },
             {
               "word": "shaky",
               "charStart": 35,
               "charEnd": 40,
-              "startMs": 2480,
-              "endMs": 2760
+              "startMs": 2140,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "I took a deep breath and told myself, \"I practiced hard. I can do this.\"",
+          "translation_ko": "심호흡을 하고 속으로 말했어요. \"열심히 연습했잖아. 할 수 있어.\"",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "took",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 300
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "deep",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 780
+            },
+            {
+              "word": "breath",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 780,
+              "endMs": 1100
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1700
+            },
+            {
+              "word": "told",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "myself",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1900,
+              "endMs": 2400
+            },
+            {
+              "word": "I",
+              "charStart": 39,
+              "charEnd": 40,
+              "startMs": 2860,
+              "endMs": 3040
+            },
+            {
+              "word": "practiced",
+              "charStart": 41,
+              "charEnd": 50,
+              "startMs": 3040,
+              "endMs": 3420
+            },
+            {
+              "word": "hard",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3420,
+              "endMs": 3900
+            },
+            {
+              "word": "I",
+              "charStart": 57,
+              "charEnd": 58,
+              "startMs": 4100,
+              "endMs": 4640
+            },
+            {
+              "word": "can",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 4640,
+              "endMs": 4820
+            },
+            {
+              "word": "do",
+              "charStart": 63,
+              "charEnd": 65,
+              "startMs": 4820,
+              "endMs": 4960
+            },
+            {
+              "word": "this",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 4960,
+              "endMs": 5280
             }
           ]
         }
@@ -408,56 +1045,182 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 480
+              "endMs": 220
             },
             {
               "word": "I",
               "charStart": 4,
               "charEnd": 5,
-              "startMs": 820,
-              "endMs": 1240
+              "startMs": 220,
+              "endMs": 560
             },
             {
               "word": "remembered",
               "charStart": 6,
               "charEnd": 16,
-              "startMs": 1240,
-              "endMs": 1600
+              "startMs": 560,
+              "endMs": 840
             },
             {
               "word": "the",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1600,
-              "endMs": 2220
+              "startMs": 840,
+              "endMs": 1100
             },
             {
               "word": "words",
               "charStart": 21,
               "charEnd": 26,
-              "startMs": 2220,
-              "endMs": 2220
+              "startMs": 1100,
+              "endMs": 1340
             },
             {
               "word": "because",
               "charStart": 27,
               "charEnd": 34,
-              "startMs": 2220,
-              "endMs": 2760
+              "startMs": 1340,
+              "endMs": 1720
             },
             {
               "word": "I",
               "charStart": 35,
               "charEnd": 36,
-              "startMs": 2760,
-              "endMs": 3200
+              "startMs": 1720,
+              "endMs": 2000
             },
             {
               "word": "practiced",
               "charStart": 37,
               "charEnd": 46,
-              "startMs": 3200,
-              "endMs": 3360
+              "startMs": 2000,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "Each time the teacher said a word, a picture of my notebook page appeared in my head.",
+          "translation_ko": "선생님이 단어를 말할 때마다 공책 쪽지 그림이 머릿속에 떠올랐어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "time",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 920
+            },
+            {
+              "word": "teacher",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 920,
+              "endMs": 1180
+            },
+            {
+              "word": "said",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1760
+            },
+            {
+              "word": "word",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2440,
+              "endMs": 2560
+            },
+            {
+              "word": "picture",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2560,
+              "endMs": 2780
+            },
+            {
+              "word": "of",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "my",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2980,
+              "endMs": 3220
+            },
+            {
+              "word": "notebook",
+              "charStart": 51,
+              "charEnd": 59,
+              "startMs": 3220,
+              "endMs": 3520
+            },
+            {
+              "word": "page",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3520,
+              "endMs": 3960
+            },
+            {
+              "word": "appeared",
+              "charStart": 65,
+              "charEnd": 73,
+              "startMs": 3960,
+              "endMs": 4360
+            },
+            {
+              "word": "in",
+              "charStart": 74,
+              "charEnd": 76,
+              "startMs": 4360,
+              "endMs": 4520
+            },
+            {
+              "word": "my",
+              "charStart": 77,
+              "charEnd": 79,
+              "startMs": 4520,
+              "endMs": 4760
+            },
+            {
+              "word": "head",
+              "charStart": 80,
+              "charEnd": 84,
+              "startMs": 4760,
+              "endMs": 4920
             }
           ]
         }
@@ -475,42 +1238,252 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 380
             },
             {
               "word": "spelled",
               "charStart": 2,
               "charEnd": 9,
-              "startMs": 320,
-              "endMs": 580
+              "startMs": 380,
+              "endMs": 660
             },
             {
               "word": "almost",
               "charStart": 10,
               "charEnd": 16,
-              "startMs": 580,
-              "endMs": 1180
+              "startMs": 660,
+              "endMs": 1140
             },
             {
               "word": "every",
               "charStart": 17,
               "charEnd": 22,
-              "startMs": 1180,
-              "endMs": 1620
+              "startMs": 1140,
+              "endMs": 1580
             },
             {
               "word": "word",
               "charStart": 23,
               "charEnd": 27,
-              "startMs": 1620,
-              "endMs": 1860
+              "startMs": 1580,
+              "endMs": 1800
             },
             {
               "word": "correctly",
               "charStart": 28,
               "charEnd": 37,
-              "startMs": 1860,
-              "endMs": 2320
+              "startMs": 1800,
+              "endMs": 2240
+            }
+          ]
+        },
+        {
+          "text": "When the teacher handed back the papers, I saw a big red star at the top.",
+          "translation_ko": "선생님이 시험지를 돌려주셨을 때 맨 위에 커다란 빨간 별이 보였어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 380
+            },
+            {
+              "word": "teacher",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 380,
+              "endMs": 660
+            },
+            {
+              "word": "handed",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 660,
+              "endMs": 920
+            },
+            {
+              "word": "back",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1220,
+              "endMs": 1380
+            },
+            {
+              "word": "papers",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "I",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2080,
+              "endMs": 2220
+            },
+            {
+              "word": "saw",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2220,
+              "endMs": 2380
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2380,
+              "endMs": 2660
+            },
+            {
+              "word": "big",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2660,
+              "endMs": 2880
+            },
+            {
+              "word": "red",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 2880,
+              "endMs": 3120
+            },
+            {
+              "word": "star",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3120,
+              "endMs": 3460
+            },
+            {
+              "word": "at",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 3460,
+              "endMs": 3680
+            },
+            {
+              "word": "the",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 3680,
+              "endMs": 4020
+            },
+            {
+              "word": "top",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 4020,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "I felt so proud that I wanted to show Mom right away.",
+          "translation_ko": "너무 자랑스러워서 당장 엄마에게 보여 주고 싶었어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "felt",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 420
+            },
+            {
+              "word": "so",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 1040
+            },
+            {
+              "word": "proud",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1320
+            },
+            {
+              "word": "that",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1660
+            },
+            {
+              "word": "I",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "wanted",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2000
+            },
+            {
+              "word": "to",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "show",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "Mom",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2460,
+              "endMs": 2740
+            },
+            {
+              "word": "right",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2740,
+              "endMs": 3180
+            },
+            {
+              "word": "away",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3420
             }
           ]
         }
@@ -528,48 +1501,48 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 180
             },
             {
               "word": "learned",
               "charStart": 2,
               "charEnd": 9,
-              "startMs": 240,
-              "endMs": 440
+              "startMs": 180,
+              "endMs": 420
             },
             {
               "word": "that",
               "charStart": 10,
               "charEnd": 14,
-              "startMs": 440,
-              "endMs": 700
+              "startMs": 420,
+              "endMs": 740
             },
             {
               "word": "practice",
               "charStart": 15,
               "charEnd": 23,
-              "startMs": 700,
-              "endMs": 1100
+              "startMs": 740,
+              "endMs": 1240
             },
             {
               "word": "makes",
               "charStart": 24,
               "charEnd": 29,
-              "startMs": 1100,
-              "endMs": 1360
+              "startMs": 1240,
+              "endMs": 1500
             },
             {
               "word": "hard",
               "charStart": 30,
               "charEnd": 34,
-              "startMs": 1360,
-              "endMs": 1740
+              "startMs": 1500,
+              "endMs": 1820
             },
             {
               "word": "things",
               "charStart": 35,
               "charEnd": 41,
-              "startMs": 1740,
+              "startMs": 1820,
               "endMs": 2080
             },
             {
@@ -577,7 +1550,175 @@
               "charStart": 42,
               "charEnd": 48,
               "startMs": 2080,
-              "endMs": 2620
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "Even when something feels impossible, a little effort every day can change everything.",
+          "translation_ko": "뭔가 불가능하게 느껴질 때도 매일 조금씩 노력하면 모든 게 달라질 수 있어요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Even",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "when",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 620
+            },
+            {
+              "word": "something",
+              "charStart": 10,
+              "charEnd": 19,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "feels",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "impossible",
+              "charStart": 26,
+              "charEnd": 36,
+              "startMs": 1240,
+              "endMs": 1820
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2300,
+              "endMs": 2360
+            },
+            {
+              "word": "little",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2360,
+              "endMs": 2580
+            },
+            {
+              "word": "effort",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 2580,
+              "endMs": 2920
+            },
+            {
+              "word": "every",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2920,
+              "endMs": 3280
+            },
+            {
+              "word": "day",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3280,
+              "endMs": 3580
+            },
+            {
+              "word": "can",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3580,
+              "endMs": 3940
+            },
+            {
+              "word": "change",
+              "charStart": 68,
+              "charEnd": 74,
+              "startMs": 3940,
+              "endMs": 4300
+            },
+            {
+              "word": "everything",
+              "charStart": 75,
+              "charEnd": 85,
+              "startMs": 4300,
+              "endMs": 4720
+            }
+          ]
+        },
+        {
+          "text": "Now I look forward to the next spelling test.",
+          "translation_ko": "이제 나는 다음 받아쓰기 시험이 기다려져요.",
+          "audio": "/seed/daily-47-the-spelling-test/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "I",
+              "charStart": 4,
+              "charEnd": 5,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "look",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 960
+            },
+            {
+              "word": "forward",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1260
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 1600
+            },
+            {
+              "word": "next",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1600,
+              "endMs": 1900
+            },
+            {
+              "word": "spelling",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 1900,
+              "endMs": 2160
+            },
+            {
+              "word": "test",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2160,
+              "endMs": 2580
             }
           ]
         }

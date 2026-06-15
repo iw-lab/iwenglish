@@ -20,49 +20,140 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 380
+              "endMs": 300
             },
             {
               "word": "put",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 380,
-              "endMs": 620
+              "startMs": 300,
+              "endMs": 460
             },
             {
               "word": "my",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 620,
-              "endMs": 960
+              "startMs": 460,
+              "endMs": 680
             },
             {
               "word": "books",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 960,
-              "endMs": 1260
+              "startMs": 680,
+              "endMs": 1020
             },
             {
               "word": "in",
               "charStart": 15,
               "charEnd": 17,
-              "startMs": 1260,
-              "endMs": 1620
+              "startMs": 1020,
+              "endMs": 1240
             },
             {
               "word": "my",
               "charStart": 18,
               "charEnd": 20,
-              "startMs": 1620,
-              "endMs": 1900
+              "startMs": 1240,
+              "endMs": 1460
             },
             {
               "word": "bag",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1900,
-              "endMs": 2220
+              "startMs": 1460,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "I put my pencil case in, too.",
+          "translation_ko": "필통도 함께 넣어요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 600,
+              "endMs": 820
+            },
+            {
+              "word": "my",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 820,
+              "endMs": 1160
+            },
+            {
+              "word": "pencil",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "case",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1840
+            },
+            {
+              "word": "in",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "too",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2160,
+              "endMs": 2320
+            }
+          ]
+        },
+        {
+          "text": "My bag is ready.",
+          "translation_ko": "가방 준비 완료!",
+          "audio": "/seed/daily-2-time-for-school/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "bag",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "is",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 940,
+              "endMs": 1340
+            },
+            {
+              "word": "ready",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1340,
+              "endMs": 1560
             }
           ]
         }
@@ -71,44 +162,135 @@
     {
       "sentences": [
         {
+          "text": "I put on my shoes.",
+          "translation_ko": "나는 신발을 신어요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 740,
+              "endMs": 920
+            },
+            {
+              "word": "on",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 920,
+              "endMs": 1080
+            },
+            {
+              "word": "my",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "shoes",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1300,
+              "endMs": 1660
+            }
+          ]
+        },
+        {
           "text": "\"Bye, Mom! See you later.\"",
           "translation_ko": "\"안녕히 계세요, 엄마! 이따 봐요.\"",
-          "audio": "/seed/daily-2-time-for-school/audio/p2-s1.mp3",
+          "audio": "/seed/daily-2-time-for-school/audio/p2-s2.mp3",
           "wordTimings": [
             {
               "word": "Bye",
               "charStart": 1,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 760
+              "endMs": 560
             },
             {
               "word": "Mom",
               "charStart": 6,
               "charEnd": 9,
-              "startMs": 1000,
-              "endMs": 1120
+              "startMs": 820,
+              "endMs": 1080
             },
             {
               "word": "See",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 1620,
-              "endMs": 1880
+              "startMs": 1480,
+              "endMs": 1820
             },
             {
               "word": "you",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 1880,
-              "endMs": 2040
+              "startMs": 1820,
+              "endMs": 1980
             },
             {
               "word": "later",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 2040,
-              "endMs": 2240
+              "startMs": 1980,
+              "endMs": 2200
+            }
+          ]
+        },
+        {
+          "text": "\"Have a good day!\" says Mom.",
+          "translation_ko": "\"좋은 하루 보내!\" 엄마가 말해요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Have",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 360
+            },
+            {
+              "word": "good",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 540
+            },
+            {
+              "word": "day",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "says",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1520
+            },
+            {
+              "word": "Mom",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1840
             }
           ]
         }
@@ -126,28 +308,28 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 640
+              "endMs": 340
             },
             {
               "word": "walk",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 640,
-              "endMs": 920
+              "startMs": 340,
+              "endMs": 940
             },
             {
               "word": "to",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 920,
-              "endMs": 1160
+              "startMs": 940,
+              "endMs": 1460
             },
             {
               "word": "school",
               "charStart": 10,
               "charEnd": 16,
-              "startMs": 1160,
-              "endMs": 1420
+              "startMs": 1460,
+              "endMs": 1720
             }
           ]
         },
@@ -168,21 +350,63 @@
               "charStart": 4,
               "charEnd": 7,
               "startMs": 300,
-              "endMs": 700
+              "endMs": 740
             },
             {
               "word": "is",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 700,
-              "endMs": 1220
+              "startMs": 740,
+              "endMs": 1160
             },
             {
               "word": "blue",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 1220,
-              "endMs": 1500
+              "startMs": 1160,
+              "endMs": 1420
+            }
+          ]
+        },
+        {
+          "text": "I can hear birds singing.",
+          "translation_ko": "새들이 노래하는 소리가 들려요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 480,
+              "endMs": 700
+            },
+            {
+              "word": "hear",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "birds",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1400
+            },
+            {
+              "word": "singing",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 1780
             }
           ]
         }
@@ -200,35 +424,35 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 520
+              "endMs": 220
             },
             {
               "word": "see",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 520,
-              "endMs": 840
+              "startMs": 220,
+              "endMs": 440
             },
             {
               "word": "a",
               "charStart": 6,
               "charEnd": 7,
-              "startMs": 840,
-              "endMs": 1440
+              "startMs": 440,
+              "endMs": 760
             },
             {
               "word": "red",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 1440,
-              "endMs": 1640
+              "startMs": 760,
+              "endMs": 940
             },
             {
               "word": "light",
               "charStart": 12,
               "charEnd": 17,
-              "startMs": 1640,
-              "endMs": 2200
+              "startMs": 940,
+              "endMs": 1220
             }
           ]
         },
@@ -242,28 +466,70 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 680
             },
             {
               "word": "stop",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 340,
-              "endMs": 940
+              "startMs": 680,
+              "endMs": 980
             },
             {
               "word": "and",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 940,
-              "endMs": 1480
+              "startMs": 980,
+              "endMs": 1520
             },
             {
               "word": "wait",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 1480,
-              "endMs": 1760
+              "startMs": 1520,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "I look left and right.",
+          "translation_ko": "나는 왼쪽, 오른쪽을 살펴봐요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "look",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 580,
+              "endMs": 800
+            },
+            {
+              "word": "left",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1280
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1280,
+              "endMs": 1900
+            },
+            {
+              "word": "right",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1900,
+              "endMs": 2140
             }
           ]
         }
@@ -280,36 +546,36 @@
               "word": "Now",
               "charStart": 0,
               "charEnd": 3,
-              "startMs": 660,
-              "endMs": 1140
+              "startMs": 0,
+              "endMs": 420
             },
             {
               "word": "the",
               "charStart": 4,
               "charEnd": 7,
-              "startMs": 1140,
-              "endMs": 1280
+              "startMs": 460,
+              "endMs": 800
             },
             {
               "word": "light",
               "charStart": 8,
               "charEnd": 13,
-              "startMs": 1280,
-              "endMs": 1520
+              "startMs": 800,
+              "endMs": 1120
             },
             {
               "word": "is",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 1520,
-              "endMs": 1740
+              "startMs": 1120,
+              "endMs": 1540
             },
             {
               "word": "green",
               "charStart": 17,
               "charEnd": 22,
-              "startMs": 1740,
-              "endMs": 1980
+              "startMs": 1540,
+              "endMs": 1820
             }
           ]
         },
@@ -323,28 +589,70 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 620
             },
             {
               "word": "cross",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 240,
-              "endMs": 520
+              "startMs": 620,
+              "endMs": 980
             },
             {
               "word": "the",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 520,
-              "endMs": 740
+              "startMs": 980,
+              "endMs": 1220
             },
             {
               "word": "road",
               "charStart": 12,
               "charEnd": 16,
-              "startMs": 740,
-              "endMs": 940
+              "startMs": 1220,
+              "endMs": 1480
+            }
+          ]
+        },
+        {
+          "text": "I walk quickly but carefully.",
+          "translation_ko": "빠르지만 조심조심 걸어요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "walk",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 400
+            },
+            {
+              "word": "quickly",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "but",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 840,
+              "endMs": 1320
+            },
+            {
+              "word": "carefully",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1320,
+              "endMs": 1680
             }
           ]
         }
@@ -353,44 +661,128 @@
     {
       "sentences": [
         {
+          "text": "I see my school gate.",
+          "translation_ko": "학교 정문이 보여요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "see",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 260,
+              "endMs": 480
+            },
+            {
+              "word": "my",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "school",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "gate",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1280
+            }
+          ]
+        },
+        {
           "text": "\"Good morning!\" says my teacher.",
           "translation_ko": "\"좋은 아침!\" 선생님이 말해요.",
-          "audio": "/seed/daily-2-time-for-school/audio/p6-s1.mp3",
+          "audio": "/seed/daily-2-time-for-school/audio/p6-s2.mp3",
           "wordTimings": [
             {
               "word": "Good",
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 280
             },
             {
               "word": "morning",
               "charStart": 6,
               "charEnd": 13,
-              "startMs": 500,
-              "endMs": 1040
+              "startMs": 280,
+              "endMs": 660
             },
             {
               "word": "says",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1420,
-              "endMs": 1780
+              "startMs": 1060,
+              "endMs": 1180
             },
             {
               "word": "my",
               "charStart": 21,
               "charEnd": 23,
-              "startMs": 1780,
-              "endMs": 2040
+              "startMs": 1180,
+              "endMs": 1400
             },
             {
               "word": "teacher",
               "charStart": 24,
               "charEnd": 31,
-              "startMs": 2040,
-              "endMs": 2300
+              "startMs": 1400,
+              "endMs": 1660
+            }
+          ]
+        },
+        {
+          "text": "\"Good morning, teacher!\" I say.",
+          "translation_ko": "\"좋은 아침이에요, 선생님!\" 나도 말해요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "morning",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 280,
+              "endMs": 700
+            },
+            {
+              "word": "teacher",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "I",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 1600,
+              "endMs": 1780
+            },
+            {
+              "word": "say",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 2000
             }
           ]
         }
@@ -399,9 +791,44 @@
     {
       "sentences": [
         {
-          "text": "I am at school. I am happy.",
-          "translation_ko": "나는 학교에 왔어요. 나는 기뻐요.",
+          "text": "I am at school.",
+          "translation_ko": "나는 학교에 왔어요.",
           "audio": "/seed/daily-2-time-for-school/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 720,
+              "endMs": 840
+            },
+            {
+              "word": "at",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "school",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1120,
+              "endMs": 1340
+            }
+          ]
+        },
+        {
+          "text": "I sit down at my desk.",
+          "translation_ko": "나는 내 자리에 앉아요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p7-s2.mp3",
           "wordTimings": [
             {
               "word": "I",
@@ -411,46 +838,95 @@
               "endMs": 380
             },
             {
-              "word": "am",
+              "word": "sit",
               "charStart": 2,
-              "charEnd": 4,
+              "charEnd": 5,
               "startMs": 380,
-              "endMs": 640
+              "endMs": 600
+            },
+            {
+              "word": "down",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 920
             },
             {
               "word": "at",
-              "charStart": 5,
-              "charEnd": 7,
-              "startMs": 640,
-              "endMs": 1000
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1200
             },
             {
-              "word": "school",
-              "charStart": 8,
-              "charEnd": 14,
-              "startMs": 1000,
-              "endMs": 1400
+              "word": "my",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1440
             },
+            {
+              "word": "desk",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1720
+            }
+          ]
+        },
+        {
+          "text": "I am happy and ready to learn.",
+          "translation_ko": "나는 기쁘고 공부할 준비가 됐어요.",
+          "audio": "/seed/daily-2-time-for-school/audio/p7-s3.mp3",
+          "wordTimings": [
             {
               "word": "I",
-              "charStart": 16,
-              "charEnd": 17,
-              "startMs": 2120,
-              "endMs": 2300
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 480
             },
             {
               "word": "am",
-              "charStart": 18,
-              "charEnd": 20,
-              "startMs": 2300,
-              "endMs": 2540
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 480,
+              "endMs": 680
             },
             {
               "word": "happy",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 680,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1640
+            },
+            {
+              "word": "ready",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "to",
               "charStart": 21,
-              "charEnd": 26,
-              "startMs": 2540,
-              "endMs": 2820
+              "charEnd": 23,
+              "startMs": 1820,
+              "endMs": 2160
+            },
+            {
+              "word": "learn",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2160,
+              "endMs": 2320
             }
           ]
         }
@@ -517,7 +993,7 @@
         "무섭다"
       ],
       "answerIndex": 2,
-      "explain_ko": "I am happy — 기뻐요."
+      "explain_ko": "I am happy and ready to learn — 기쁘고 공부할 준비가 됐어요."
     }
   ]
 }

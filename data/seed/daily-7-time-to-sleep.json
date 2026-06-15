@@ -20,49 +20,84 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 160
+              "endMs": 220
             },
             {
               "word": "is",
               "charStart": 3,
               "charEnd": 5,
-              "startMs": 160,
-              "endMs": 440
+              "startMs": 220,
+              "endMs": 460
             },
             {
               "word": "night",
               "charStart": 6,
               "charEnd": 11,
-              "startMs": 440,
-              "endMs": 700
+              "startMs": 460,
+              "endMs": 720
             },
             {
               "word": "The",
               "charStart": 13,
               "charEnd": 16,
-              "startMs": 1260,
-              "endMs": 1500
+              "startMs": 880,
+              "endMs": 1300
             },
             {
               "word": "moon",
               "charStart": 17,
               "charEnd": 21,
-              "startMs": 1500,
-              "endMs": 1800
+              "startMs": 1300,
+              "endMs": 1480
             },
             {
               "word": "is",
               "charStart": 22,
               "charEnd": 24,
-              "startMs": 1800,
-              "endMs": 2100
+              "startMs": 1480,
+              "endMs": 1700
             },
             {
               "word": "out",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 2100,
-              "endMs": 2420
+              "startMs": 1700,
+              "endMs": 1900
+            }
+          ]
+        },
+        {
+          "text": "The stars are bright.",
+          "translation_ko": "별들이 반짝여요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "stars",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 720
+            },
+            {
+              "word": "are",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1140
+            },
+            {
+              "word": "bright",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1440
             }
           ]
         }
@@ -80,28 +115,77 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 520
             },
             {
               "word": "brush",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 340,
-              "endMs": 620
+              "startMs": 520,
+              "endMs": 940
             },
             {
               "word": "my",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 620,
-              "endMs": 980
+              "startMs": 940,
+              "endMs": 1380
             },
             {
               "word": "teeth",
               "charStart": 11,
               "charEnd": 16,
-              "startMs": 980,
-              "endMs": 1220
+              "startMs": 1380,
+              "endMs": 1660
+            }
+          ]
+        },
+        {
+          "text": "Up and down, up and down.",
+          "translation_ko": "위아래로, 위아래로.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Up",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "and",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "down",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 740,
+              "endMs": 1080
+            },
+            {
+              "word": "up",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1520,
+              "endMs": 1580
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1580,
+              "endMs": 2040
+            },
+            {
+              "word": "down",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2040,
+              "endMs": 2260
             }
           ]
         }
@@ -119,35 +203,77 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 380
+              "endMs": 240
             },
             {
               "word": "put",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 380,
-              "endMs": 560
+              "startMs": 240,
+              "endMs": 460
             },
             {
               "word": "on",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 560,
-              "endMs": 760
+              "startMs": 460,
+              "endMs": 700
             },
             {
               "word": "my",
               "charStart": 9,
               "charEnd": 11,
-              "startMs": 760,
-              "endMs": 1000
+              "startMs": 700,
+              "endMs": 940
             },
             {
               "word": "pajamas",
               "charStart": 12,
               "charEnd": 19,
-              "startMs": 1000,
-              "endMs": 1360
+              "startMs": 940,
+              "endMs": 1260
+            }
+          ]
+        },
+        {
+          "text": "They are soft and warm.",
+          "translation_ko": "부드럽고 따뜻해요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "are",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 500
+            },
+            {
+              "word": "soft",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1580
+            },
+            {
+              "word": "warm",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1820
             }
           ]
         }
@@ -165,35 +291,77 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 320
             },
             {
               "word": "night",
               "charStart": 6,
               "charEnd": 11,
-              "startMs": 280,
-              "endMs": 640
+              "startMs": 320,
+              "endMs": 620
             },
             {
               "word": "Mom",
               "charStart": 13,
               "charEnd": 16,
-              "startMs": 960,
-              "endMs": 1220
+              "startMs": 800,
+              "endMs": 1480
             },
             {
               "word": "and",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1220,
-              "endMs": 1420
+              "startMs": 1480,
+              "endMs": 1680
             },
             {
               "word": "Dad",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1420,
-              "endMs": 1680
+              "startMs": 1680,
+              "endMs": 1900
+            }
+          ]
+        },
+        {
+          "text": "I give them a hug.",
+          "translation_ko": "나는 꼭 안아드려요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "give",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "them",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1060,
+              "endMs": 1500
+            },
+            {
+              "word": "hug",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1500,
+              "endMs": 1740
             }
           ]
         }
@@ -218,35 +386,77 @@
               "charStart": 6,
               "charEnd": 11,
               "startMs": 340,
-              "endMs": 740
+              "endMs": 580
             },
             {
               "word": "Sleep",
               "charStart": 13,
               "charEnd": 18,
-              "startMs": 1180,
-              "endMs": 1400
+              "startMs": 1360,
+              "endMs": 1380
             },
             {
               "word": "well",
               "charStart": 19,
               "charEnd": 23,
-              "startMs": 1400,
-              "endMs": 1740
+              "startMs": 1380,
+              "endMs": 1720
             },
             {
               "word": "they",
               "charStart": 26,
               "charEnd": 30,
-              "startMs": 1980,
-              "endMs": 2120
+              "startMs": 2040,
+              "endMs": 2260
             },
             {
               "word": "say",
               "charStart": 31,
               "charEnd": 34,
-              "startMs": 2120,
-              "endMs": 2420
+              "startMs": 2260,
+              "endMs": 2540
+            }
+          ]
+        },
+        {
+          "text": "Dad turns off the light.",
+          "translation_ko": "아빠가 불을 꺼요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "turns",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "off",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1360,
+              "endMs": 1540
+            },
+            {
+              "word": "light",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1700
             }
           ]
         }
@@ -264,49 +474,105 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 800
             },
             {
               "word": "close",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 220,
-              "endMs": 440
+              "startMs": 800,
+              "endMs": 1060
             },
             {
               "word": "my",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 440,
-              "endMs": 680
+              "startMs": 1060,
+              "endMs": 1680
             },
             {
               "word": "eyes",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 680,
-              "endMs": 1020
+              "startMs": 1680,
+              "endMs": 1680
             },
             {
               "word": "I",
               "charStart": 17,
               "charEnd": 18,
-              "startMs": 1340,
-              "endMs": 1520
+              "startMs": 2180,
+              "endMs": 2360
             },
             {
               "word": "am",
               "charStart": 19,
               "charEnd": 21,
-              "startMs": 1520,
-              "endMs": 1680
+              "startMs": 2360,
+              "endMs": 2580
             },
             {
               "word": "sleepy",
               "charStart": 22,
               "charEnd": 28,
-              "startMs": 1680,
-              "endMs": 1980
+              "startMs": 2580,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "I think of happy things. Good night.",
+          "translation_ko": "나는 행복한 것들을 생각해요. 안녕히 주무세요.",
+          "audio": "/seed/daily-7-time-to-sleep/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "think",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 400
+            },
+            {
+              "word": "of",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 680
+            },
+            {
+              "word": "happy",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "things",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 940,
+              "endMs": 1340
+            },
+            {
+              "word": "Good",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2220
+            },
+            {
+              "word": "night",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2460
             }
           ]
         }
@@ -352,16 +618,16 @@
       "explain_ko": "pajamas는 잠옷이에요."
     },
     {
-      "question_ko": "\"Good night\"은 언제 하는 인사인가요?",
+      "question_ko": "엄마 아빠한테 뭐라고 인사했나요?",
       "type": "mc",
       "options": [
-        "아침",
-        "잘 때",
-        "식사 때",
-        "만날 때"
+        "Good morning",
+        "Good night",
+        "Good bye",
+        "Hello"
       ],
       "answerIndex": 1,
-      "explain_ko": "Good night은 잘 때 하는 인사예요."
+      "explain_ko": "Good night — 잘 자라는 인사예요."
     },
     {
       "question_ko": "마지막에 아이의 기분은?",

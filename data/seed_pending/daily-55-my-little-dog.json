@@ -1,0 +1,537 @@
+{
+  "slug": "daily-55-my-little-dog",
+  "title": "My Little Dog",
+  "title_ko": "내 작은 강아지",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "준이가 작고 사랑스러운 강아지에게 인사하고 공을 던지며 함께 신나게 노는 하루예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun has a little dog.",
+          "translation_ko": "준이는 작은 강아지가 있어요.",
+          "audio": "/seed/daily-55-my-little-dog/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "has",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 600,
+              "endMs": 780
+            },
+            {
+              "word": "little",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 960
+            },
+            {
+              "word": "dog",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The dog has big brown eyes and a soft coat.",
+          "translation_ko": "강아지는 크고 갈색인 눈과 부드러운 털을 가지고 있어요.",
+          "audio": "/seed/daily-55-my-little-dog/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "dog",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "has",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1080
+            },
+            {
+              "word": "big",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1540
+            },
+            {
+              "word": "brown",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "eyes",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1800,
+              "endMs": 2160
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2160,
+              "endMs": 2360
+            },
+            {
+              "word": "a",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 2360,
+              "endMs": 2680
+            },
+            {
+              "word": "soft",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2680,
+              "endMs": 2760
+            },
+            {
+              "word": "coat",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2760,
+              "endMs": 3060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun pats the dog on the head.",
+          "translation_ko": "준이는 강아지 머리를 쓰다듬어요.",
+          "audio": "/seed/daily-55-my-little-dog/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "pats",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "dog",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "on",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "head",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 1980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Hello, little dog! I love you.\"",
+          "translation_ko": "\"안녕, 작은 강아지! 나는 너를 정말 좋아해.\"",
+          "audio": "/seed/daily-55-my-little-dog/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hello",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "little",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 860
+            },
+            {
+              "word": "dog",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "I",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "love",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 1880
+            },
+            {
+              "word": "you",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The dog wags its tail and looks at Jun.",
+          "translation_ko": "강아지는 꼬리를 흔들며 준이를 바라봐요.",
+          "audio": "/seed/daily-55-my-little-dog/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "dog",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "wags",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "its",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "tail",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1680,
+              "endMs": 2300
+            },
+            {
+              "word": "looks",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2460
+            },
+            {
+              "word": "at",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2780
+            },
+            {
+              "word": "Jun",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2780,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun throws the red ball far away.",
+          "translation_ko": "준이는 빨간 공을 멀리 던져요.",
+          "audio": "/seed/daily-55-my-little-dog/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "throws",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1160
+            },
+            {
+              "word": "red",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "ball",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "far",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1620,
+              "endMs": 1940
+            },
+            {
+              "word": "away",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1940,
+              "endMs": 2180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The dog runs fast and brings the ball back to Jun.",
+          "translation_ko": "강아지는 빠르게 달려가 공을 준이에게 가져다줘요.",
+          "audio": "/seed/daily-55-my-little-dog/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "dog",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "runs",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "fast",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1660
+            },
+            {
+              "word": "brings",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "ball",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2360
+            },
+            {
+              "word": "back",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2360,
+              "endMs": 2660
+            },
+            {
+              "word": "to",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2660,
+              "endMs": 2920
+            },
+            {
+              "word": "Jun",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2920,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이에게는 무엇이 있나요?",
+      "type": "mc",
+      "options": [
+        "작은 강아지",
+        "작은 고양이",
+        "빨간 새",
+        "노란 토끼"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준 has a little dog — 준이는 작은 강아지가 있어요."
+    },
+    {
+      "question_ko": "강아지의 눈은 어떤 색인가요?",
+      "type": "mc",
+      "options": [
+        "갈색",
+        "파란색",
+        "초록색",
+        "검은색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "The dog has big brown eyes — 강아지는 크고 갈색인 눈을 가지고 있어요."
+    },
+    {
+      "question_ko": "준이는 강아지에게 뭐라고 말했나요?",
+      "type": "mc",
+      "options": [
+        "안녕, 작은 강아지! 나는 너를 정말 좋아해.",
+        "잘 자, 작은 강아지!",
+        "배고파, 강아지야?",
+        "같이 달려, 강아지야!"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이는 \"Hello, little dog! I love you.\"라고 말했어요."
+    },
+    {
+      "question_ko": "강아지는 공을 받아 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "준이에게 가져다주었다",
+        "땅에 묻었다",
+        "그냥 놔두었다",
+        "물어뜯었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "The dog brings the ball back to 준 — 강아지는 공을 준이에게 가져다줘요."
+    },
+    {
+      "question_ko": "준이가 던진 공은 무슨 색인가요?",
+      "type": "mc",
+      "options": [
+        "빨간색",
+        "노란색",
+        "파란색",
+        "초록색"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준 throws the red ball — 준이는 빨간 공을 던져요."
+    }
+  ]
+}

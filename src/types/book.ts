@@ -75,6 +75,9 @@ export interface BookSummary {
   wordCount: number;
   stage?: number;
   collection?: string;
+  /** 메타에서 바로 노출 (full content는 /seed/<slug>/book.json 런타임 fetch) */
+  pageCount?: number;
+  quizCount?: number;
 }
 
 /** 전역 사전 캐시(단어 단위, 책 무관 공유) */

@@ -20,77 +20,245 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 280
             },
             {
               "word": "afternoon",
               "charStart": 4,
               "charEnd": 13,
-              "startMs": 320,
-              "endMs": 880
+              "startMs": 280,
+              "endMs": 780
             },
             {
               "word": "I",
               "charStart": 15,
               "charEnd": 16,
-              "startMs": 1080,
-              "endMs": 1500
+              "startMs": 1040,
+              "endMs": 1240
             },
             {
               "word": "found",
               "charStart": 17,
               "charEnd": 22,
-              "startMs": 1500,
-              "endMs": 1640
+              "startMs": 1240,
+              "endMs": 1380
             },
             {
               "word": "a",
               "charStart": 23,
               "charEnd": 24,
-              "startMs": 1640,
-              "endMs": 1820
+              "startMs": 1380,
+              "endMs": 1560
             },
             {
               "word": "little",
               "charStart": 25,
               "charEnd": 31,
-              "startMs": 1820,
-              "endMs": 2040
+              "startMs": 1560,
+              "endMs": 1760
             },
             {
               "word": "puppy",
               "charStart": 32,
               "charEnd": 37,
-              "startMs": 2040,
-              "endMs": 2320
+              "startMs": 1760,
+              "endMs": 2040
             },
             {
               "word": "alone",
               "charStart": 38,
               "charEnd": 43,
-              "startMs": 2320,
-              "endMs": 2740
+              "startMs": 2040,
+              "endMs": 2480
             },
             {
               "word": "in",
               "charStart": 44,
               "charEnd": 46,
-              "startMs": 2740,
-              "endMs": 2880
+              "startMs": 2480,
+              "endMs": 2600
             },
             {
               "word": "the",
               "charStart": 47,
               "charEnd": 50,
-              "startMs": 2880,
-              "endMs": 3040
+              "startMs": 2600,
+              "endMs": 2740
             },
             {
               "word": "park",
               "charStart": 51,
               "charEnd": 55,
-              "startMs": 3040,
-              "endMs": 3260
+              "startMs": 2740,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "It was sitting under a big tree, looking around with wide, worried eyes.",
+          "translation_ko": "강아지는 큰 나무 아래 앉아 불안한 눈으로 주위를 두리번거리고 있었어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 120,
+              "endMs": 380
+            },
+            {
+              "word": "sitting",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 380,
+              "endMs": 540
+            },
+            {
+              "word": "under",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 540,
+              "endMs": 800
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "big",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 980,
+              "endMs": 1280
+            },
+            {
+              "word": "tree",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1280,
+              "endMs": 1560
+            },
+            {
+              "word": "looking",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2160
+            },
+            {
+              "word": "around",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2160,
+              "endMs": 2540
+            },
+            {
+              "word": "with",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "wide",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2780,
+              "endMs": 3280
+            },
+            {
+              "word": "worried",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 3580,
+              "endMs": 3720
+            },
+            {
+              "word": "eyes",
+              "charStart": 67,
+              "charEnd": 71,
+              "startMs": 3720,
+              "endMs": 4160
+            }
+          ]
+        },
+        {
+          "text": "No one was nearby, and the puppy looked lost.",
+          "translation_ko": "주변에 아무도 없었고, 강아지는 길을 잃은 것 같았어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "No",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "one",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "was",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "nearby",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1540
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1980,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2020,
+              "endMs": 2500
+            },
+            {
+              "word": "puppy",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2500,
+              "endMs": 2500
+            },
+            {
+              "word": "looked",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2500,
+              "endMs": 2940
+            },
+            {
+              "word": "lost",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2940,
+              "endMs": 3420
             }
           ]
         }
@@ -108,27 +276,27 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 280
             },
             {
               "word": "looked",
               "charStart": 3,
               "charEnd": 9,
-              "startMs": 300,
-              "endMs": 580
+              "startMs": 280,
+              "endMs": 520
             },
             {
               "word": "scared",
               "charStart": 10,
               "charEnd": 16,
-              "startMs": 580,
-              "endMs": 1060
+              "startMs": 520,
+              "endMs": 1040
             },
             {
               "word": "and",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1060,
+              "startMs": 1040,
               "endMs": 1480
             },
             {
@@ -136,42 +304,112 @@
               "charStart": 21,
               "charEnd": 26,
               "startMs": 1480,
-              "endMs": 1620
+              "endMs": 1640
             },
             {
               "word": "not",
               "charStart": 27,
               "charEnd": 30,
-              "startMs": 1620,
-              "endMs": 1900
+              "startMs": 1640,
+              "endMs": 1960
             },
             {
               "word": "find",
               "charStart": 31,
               "charEnd": 35,
-              "startMs": 1900,
-              "endMs": 2160
+              "startMs": 1960,
+              "endMs": 2220
             },
             {
               "word": "its",
               "charStart": 36,
               "charEnd": 39,
-              "startMs": 2160,
-              "endMs": 2380
+              "startMs": 2220,
+              "endMs": 2400
             },
             {
               "word": "way",
               "charStart": 40,
               "charEnd": 43,
-              "startMs": 2380,
-              "endMs": 2620
+              "startMs": 2400,
+              "endMs": 2640
             },
             {
               "word": "home",
               "charStart": 44,
               "charEnd": 48,
-              "startMs": 2620,
-              "endMs": 2880
+              "startMs": 2640,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "It whimpered softly and kept turning in small circles.",
+          "translation_ko": "강아지는 작게 낑낑대며 계속 작은 원을 그리며 맴돌았어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "whimpered",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 780
+            },
+            {
+              "word": "softly",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 780,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 2080
+            },
+            {
+              "word": "kept",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2080,
+              "endMs": 2280
+            },
+            {
+              "word": "turning",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2280,
+              "endMs": 2700
+            },
+            {
+              "word": "in",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "small",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 3080,
+              "endMs": 3380
+            },
+            {
+              "word": "circles",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 3380,
+              "endMs": 3860
             }
           ]
         }
@@ -180,9 +418,86 @@
     {
       "sentences": [
         {
+          "text": "I knelt down slowly so I would not frighten it.",
+          "translation_ko": "나는 강아지를 놀라게 하지 않으려고 천천히 무릎을 꿇었어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "knelt",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "down",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1380
+            },
+            {
+              "word": "slowly",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1840
+            },
+            {
+              "word": "so",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1840,
+              "endMs": 2560
+            },
+            {
+              "word": "I",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 2560,
+              "endMs": 2740
+            },
+            {
+              "word": "would",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2740,
+              "endMs": 2860
+            },
+            {
+              "word": "not",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "frighten",
+              "charStart": 35,
+              "charEnd": 43,
+              "startMs": 3140,
+              "endMs": 3460
+            },
+            {
+              "word": "it",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 3460,
+              "endMs": 3720
+            }
+          ]
+        },
+        {
           "text": "\"Don't worry. I will help you,\" I said softly.",
           "translation_ko": "\"걱정 마. 내가 도와줄게,\" 나는 부드럽게 말했어요.",
-          "audio": "/seed/daily-12-the-lost-puppy/audio/p3-s1.mp3",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p3-s2.mp3",
           "wordTimings": [
             {
               "word": "Don't",
@@ -202,50 +517,141 @@
               "word": "I",
               "charStart": 14,
               "charEnd": 15,
-              "startMs": 1440,
-              "endMs": 1800
+              "startMs": 1600,
+              "endMs": 1740
             },
             {
               "word": "will",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1800,
-              "endMs": 1980
+              "startMs": 1740,
+              "endMs": 1900
             },
             {
               "word": "help",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1980,
-              "endMs": 2260
+              "startMs": 1900,
+              "endMs": 2140
             },
             {
               "word": "you",
               "charStart": 26,
               "charEnd": 29,
-              "startMs": 2260,
-              "endMs": 3540
+              "startMs": 2140,
+              "endMs": 2780
             },
             {
               "word": "I",
               "charStart": 32,
               "charEnd": 33,
-              "startMs": 3540,
-              "endMs": 3700
+              "startMs": 2780,
+              "endMs": 2940
             },
             {
               "word": "said",
               "charStart": 34,
               "charEnd": 38,
-              "startMs": 3700,
-              "endMs": 3900
+              "startMs": 2940,
+              "endMs": 3140
             },
             {
               "word": "softly",
               "charStart": 39,
               "charEnd": 45,
-              "startMs": 3900,
-              "endMs": 4340
+              "startMs": 3480,
+              "endMs": 3780
+            }
+          ]
+        },
+        {
+          "text": "The puppy tilted its head and took one small step toward me.",
+          "translation_ko": "강아지는 머리를 갸웃하더니 나를 향해 한 발짝 다가왔어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "puppy",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 460
+            },
+            {
+              "word": "tilted",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "its",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1220
+            },
+            {
+              "word": "head",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1420,
+              "endMs": 1880
+            },
+            {
+              "word": "took",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2000
+            },
+            {
+              "word": "one",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "word": "small",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "word": "step",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "toward",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3060,
+              "endMs": 3340
+            },
+            {
+              "word": "me",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3340,
+              "endMs": 3540
             }
           ]
         }
@@ -263,70 +669,196 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 200
+              "endMs": 580
             },
             {
               "word": "read",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 200,
-              "endMs": 420
+              "startMs": 580,
+              "endMs": 860
             },
             {
               "word": "the",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 420,
-              "endMs": 620
+              "startMs": 860,
+              "endMs": 1060
             },
             {
               "word": "name",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 620,
-              "endMs": 800
+              "startMs": 1060,
+              "endMs": 1300
             },
             {
               "word": "on",
               "charStart": 16,
               "charEnd": 18,
-              "startMs": 800,
-              "endMs": 980
+              "startMs": 1300,
+              "endMs": 1540
             },
             {
               "word": "its",
               "charStart": 19,
               "charEnd": 22,
-              "startMs": 980,
-              "endMs": 1160
+              "startMs": 1540,
+              "endMs": 1760
             },
             {
               "word": "collar",
               "charStart": 23,
               "charEnd": 29,
-              "startMs": 1160,
-              "endMs": 1500
+              "startMs": 1760,
+              "endMs": 2080
             },
             {
               "word": "It",
               "charStart": 31,
               "charEnd": 33,
-              "startMs": 2060,
-              "endMs": 2200
+              "startMs": 2700,
+              "endMs": 2980
             },
             {
               "word": "said",
               "charStart": 34,
               "charEnd": 38,
-              "startMs": 2200,
-              "endMs": 2400
+              "startMs": 2980,
+              "endMs": 3320
             },
             {
               "word": "Coco",
               "charStart": 40,
               "charEnd": 44,
-              "startMs": 2520,
-              "endMs": 2900
+              "startMs": 3620,
+              "endMs": 4000
+            }
+          ]
+        },
+        {
+          "text": "There was also a phone number below the name.",
+          "translation_ko": "이름 아래에는 전화번호도 있었어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "There",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "was",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 500
+            },
+            {
+              "word": "also",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "phone",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1280
+            },
+            {
+              "word": "number",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1280,
+              "endMs": 1580
+            },
+            {
+              "word": "below",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "name",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2140,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "I tried calling, but no one answered.",
+          "translation_ko": "전화를 걸어 봤지만, 아무도 받지 않았어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "tried",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 460
+            },
+            {
+              "word": "calling",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "but",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "no",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "one",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "answered",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 1760,
+              "endMs": 2180
             }
           ]
         }
@@ -351,63 +883,196 @@
               "charStart": 3,
               "charEnd": 9,
               "startMs": 280,
-              "endMs": 540
+              "endMs": 520
             },
             {
               "word": "around",
               "charStart": 10,
               "charEnd": 16,
-              "startMs": 540,
-              "endMs": 960
+              "startMs": 520,
+              "endMs": 920
             },
             {
               "word": "and",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 960,
-              "endMs": 1300
+              "startMs": 920,
+              "endMs": 1220
             },
             {
               "word": "asked",
               "charStart": 21,
               "charEnd": 26,
-              "startMs": 1300,
-              "endMs": 1480
+              "startMs": 1220,
+              "endMs": 1400
             },
             {
               "word": "people",
               "charStart": 27,
               "charEnd": 33,
-              "startMs": 1480,
+              "startMs": 1400,
               "endMs": 1860
             },
             {
               "word": "Is",
               "charStart": 36,
               "charEnd": 38,
-              "startMs": 2040,
-              "endMs": 2540
+              "startMs": 2100,
+              "endMs": 2300
             },
             {
               "word": "this",
               "charStart": 39,
               "charEnd": 43,
-              "startMs": 2540,
-              "endMs": 2780
+              "startMs": 2300,
+              "endMs": 2540
             },
             {
               "word": "your",
               "charStart": 44,
               "charEnd": 48,
-              "startMs": 2780,
-              "endMs": 3000
+              "startMs": 2540,
+              "endMs": 2800
             },
             {
               "word": "puppy",
               "charStart": 49,
               "charEnd": 54,
-              "startMs": 3000,
-              "endMs": 3200
+              "startMs": 2800,
+              "endMs": 3000
+            }
+          ]
+        },
+        {
+          "text": "Some shook their heads, but others stopped to look.",
+          "translation_ko": "어떤 사람은 고개를 저었지만, 다른 사람들은 멈춰서 살펴봐 줬어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 940
+            },
+            {
+              "word": "shook",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "their",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "heads",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 1700
+            },
+            {
+              "word": "but",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1980,
+              "endMs": 2160
+            },
+            {
+              "word": "others",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2360
+            },
+            {
+              "word": "stopped",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2360,
+              "endMs": 2720
+            },
+            {
+              "word": "to",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2720,
+              "endMs": 2980
+            },
+            {
+              "word": "look",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2980,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "Coco stayed close to me the whole time.",
+          "translation_ko": "코코는 내내 내 곁에 붙어 있었어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Coco",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "stayed",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 1140
+            },
+            {
+              "word": "close",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1480
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "me",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2020
+            },
+            {
+              "word": "whole",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "time",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2260,
+              "endMs": 2580
             }
           ]
         }
@@ -425,27 +1090,27 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 220
             },
             {
               "word": "last",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 240,
-              "endMs": 660
+              "startMs": 220,
+              "endMs": 680
             },
             {
               "word": "a",
               "charStart": 9,
               "charEnd": 10,
-              "startMs": 1200,
-              "endMs": 1320
+              "startMs": 1120,
+              "endMs": 1360
             },
             {
               "word": "girl",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 1320,
+              "startMs": 1360,
               "endMs": 1580
             },
             {
@@ -453,63 +1118,238 @@
               "charStart": 16,
               "charEnd": 19,
               "startMs": 1580,
-              "endMs": 1840
+              "endMs": 1880
             },
             {
               "word": "to",
               "charStart": 20,
               "charEnd": 22,
-              "startMs": 1840,
-              "endMs": 2040
+              "startMs": 1880,
+              "endMs": 2100
             },
             {
               "word": "us",
               "charStart": 23,
               "charEnd": 25,
-              "startMs": 2040,
-              "endMs": 2260
+              "startMs": 2100,
+              "endMs": 2320
             },
             {
               "word": "and",
               "charStart": 26,
               "charEnd": 29,
-              "startMs": 2260,
-              "endMs": 2780
+              "startMs": 2320,
+              "endMs": 2940
             },
             {
               "word": "shouted",
               "charStart": 30,
               "charEnd": 37,
-              "startMs": 2780,
-              "endMs": 2780
+              "startMs": 2940,
+              "endMs": 2940
             },
             {
               "word": "Coco",
               "charStart": 40,
               "charEnd": 44,
-              "startMs": 3080,
-              "endMs": 3400
+              "startMs": 3560,
+              "endMs": 4060
             },
             {
               "word": "There",
               "charStart": 46,
               "charEnd": 51,
-              "startMs": 3640,
-              "endMs": 3840
+              "startMs": 4800,
+              "endMs": 5020
             },
             {
               "word": "you",
               "charStart": 52,
               "charEnd": 55,
-              "startMs": 3840,
-              "endMs": 4020
+              "startMs": 5020,
+              "endMs": 5240
             },
             {
               "word": "are",
               "charStart": 56,
               "charEnd": 59,
-              "startMs": 4020,
-              "endMs": 4240
+              "startMs": 5240,
+              "endMs": 5460
+            }
+          ]
+        },
+        {
+          "text": "She had been searching the park for nearly an hour.",
+          "translation_ko": "소녀는 거의 한 시간 동안 공원을 찾아다녔대요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 560
+            },
+            {
+              "word": "been",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "searching",
+              "charStart": 13,
+              "charEnd": 22,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "park",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "for",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1720,
+              "endMs": 2080
+            },
+            {
+              "word": "nearly",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2080,
+              "endMs": 2320
+            },
+            {
+              "word": "an",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2320,
+              "endMs": 2700
+            },
+            {
+              "word": "hour",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2700,
+              "endMs": 2840
+            }
+          ]
+        },
+        {
+          "text": "Her face was red from running, but her eyes were bright with joy.",
+          "translation_ko": "뛰어서 얼굴이 빨개졌지만, 눈에는 기쁨이 가득했어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "face",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "was",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "red",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1060
+            },
+            {
+              "word": "from",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1060,
+              "endMs": 1320
+            },
+            {
+              "word": "running",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "but",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2240,
+              "endMs": 2340
+            },
+            {
+              "word": "her",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2520
+            },
+            {
+              "word": "eyes",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2520,
+              "endMs": 2860
+            },
+            {
+              "word": "were",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "bright",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3140,
+              "endMs": 3360
+            },
+            {
+              "word": "with",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3360,
+              "endMs": 3920
+            },
+            {
+              "word": "joy",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 3920,
+              "endMs": 3960
             }
           ]
         }
@@ -534,63 +1374,217 @@
               "charStart": 7,
               "charEnd": 10,
               "startMs": 460,
-              "endMs": 680
+              "endMs": 700
             },
             {
               "word": "so",
               "charStart": 11,
               "charEnd": 13,
-              "startMs": 680,
-              "endMs": 900
+              "startMs": 700,
+              "endMs": 1020
             },
             {
               "word": "much",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 900,
-              "endMs": 1140
+              "startMs": 1020,
+              "endMs": 1320
             },
             {
               "word": "for",
               "charStart": 19,
               "charEnd": 22,
-              "startMs": 1140,
-              "endMs": 1380
+              "startMs": 1320,
+              "endMs": 1600
             },
             {
               "word": "finding",
               "charStart": 23,
               "charEnd": 30,
-              "startMs": 1380,
-              "endMs": 1640
+              "startMs": 1600,
+              "endMs": 1840
             },
             {
               "word": "her",
               "charStart": 31,
               "charEnd": 34,
-              "startMs": 1640,
-              "endMs": 2440
+              "startMs": 1840,
+              "endMs": 2120
             },
             {
               "word": "the",
               "charStart": 37,
               "charEnd": 40,
-              "startMs": 2440,
-              "endMs": 2480
+              "startMs": 2580,
+              "endMs": 2720
             },
             {
               "word": "girl",
               "charStart": 41,
               "charEnd": 45,
-              "startMs": 2480,
-              "endMs": 2640
+              "startMs": 2720,
+              "endMs": 2900
             },
             {
               "word": "said",
               "charStart": 46,
               "charEnd": 50,
-              "startMs": 2640,
-              "endMs": 2900
+              "startMs": 2900,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "She hugged Coco tightly, and Coco licked her face.",
+          "translation_ko": "소녀는 코코를 꼭 안았고, 코코는 소녀의 얼굴을 핥았어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 940
+            },
+            {
+              "word": "hugged",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 940,
+              "endMs": 1620
+            },
+            {
+              "word": "Coco",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1620,
+              "endMs": 1620
+            },
+            {
+              "word": "tightly",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1620,
+              "endMs": 2120
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2720,
+              "endMs": 2880
+            },
+            {
+              "word": "Coco",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2880,
+              "endMs": 3200
+            },
+            {
+              "word": "licked",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 3200,
+              "endMs": 3480
+            },
+            {
+              "word": "her",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3480,
+              "endMs": 3800
+            },
+            {
+              "word": "face",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3800,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "I felt proud that I had stayed calm and kept looking.",
+          "translation_ko": "나는 침착하게 계속 찾아 준 것이 자랑스러웠어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "felt",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 460,
+              "endMs": 620
+            },
+            {
+              "word": "proud",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 620,
+              "endMs": 1000
+            },
+            {
+              "word": "that",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "I",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "had",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "stayed",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 1900
+            },
+            {
+              "word": "calm",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1900,
+              "endMs": 2360
+            },
+            {
+              "word": "and",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2960
+            },
+            {
+              "word": "kept",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2960,
+              "endMs": 3180
+            },
+            {
+              "word": "looking",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3500
             }
           ]
         }
@@ -608,35 +1602,161 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 780
+              "endMs": 460
             },
             {
               "word": "wagged",
               "charStart": 5,
               "charEnd": 11,
-              "startMs": 780,
-              "endMs": 1300
+              "startMs": 460,
+              "endMs": 960
             },
             {
               "word": "her",
               "charStart": 12,
               "charEnd": 15,
-              "startMs": 1300,
-              "endMs": 1500
+              "startMs": 960,
+              "endMs": 1160
             },
             {
               "word": "tail",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1500,
-              "endMs": 1820
+              "startMs": 1160,
+              "endMs": 1420
             },
             {
               "word": "happily",
               "charStart": 21,
               "charEnd": 28,
-              "startMs": 1820,
-              "endMs": 2200
+              "startMs": 1420,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "She spun around and let out joyful little barks.",
+          "translation_ko": "코코는 빙글빙글 돌며 기쁨에 찬 소리를 냈어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "spun",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "around",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "let",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1320
+            },
+            {
+              "word": "out",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "joyful",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1560,
+              "endMs": 1900
+            },
+            {
+              "word": "little",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 1900,
+              "endMs": 2220
+            },
+            {
+              "word": "barks",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2220,
+              "endMs": 2680
+            }
+          ]
+        },
+        {
+          "text": "Seeing her happy made me smile too.",
+          "translation_ko": "코코가 행복한 모습을 보니 나도 웃음이 났어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Seeing",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "her",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 720
+            },
+            {
+              "word": "happy",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 1200
+            },
+            {
+              "word": "made",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1560
+            },
+            {
+              "word": "me",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1560,
+              "endMs": 1880
+            },
+            {
+              "word": "smile",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "too",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2500,
+              "endMs": 2540
             }
           ]
         }
@@ -654,56 +1774,210 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 300
             },
             {
               "word": "felt",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 340,
-              "endMs": 520
+              "startMs": 300,
+              "endMs": 560
             },
             {
               "word": "warm",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 520,
-              "endMs": 940
+              "startMs": 560,
+              "endMs": 1180
             },
             {
               "word": "inside",
               "charStart": 12,
               "charEnd": 18,
-              "startMs": 940,
-              "endMs": 1360
+              "startMs": 1180,
+              "endMs": 1860
             },
             {
               "word": "as",
               "charStart": 19,
               "charEnd": 21,
-              "startMs": 1360,
-              "endMs": 1640
+              "startMs": 1860,
+              "endMs": 2320
             },
             {
               "word": "I",
               "charStart": 22,
               "charEnd": 23,
-              "startMs": 1640,
-              "endMs": 1920
+              "startMs": 2320,
+              "endMs": 2660
             },
             {
               "word": "walked",
               "charStart": 24,
               "charEnd": 30,
-              "startMs": 1920,
-              "endMs": 2060
+              "startMs": 2660,
+              "endMs": 2720
             },
             {
               "word": "home",
               "charStart": 31,
               "charEnd": 35,
-              "startMs": 2060,
+              "startMs": 2720,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "Helping someone in need always leaves a good feeling.",
+          "translation_ko": "도움이 필요한 누군가를 도우면 항상 좋은 느낌이 남아요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Helping",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "someone",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "in",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "need",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "always",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1360,
+              "endMs": 1980
+            },
+            {
+              "word": "leaves",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2340
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "good",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "feeling",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2760,
+              "endMs": 3040
+            }
+          ]
+        },
+        {
+          "text": "I decided to help whenever I saw an animal in trouble.",
+          "translation_ko": "나는 앞으로 어려움에 처한 동물을 보면 꼭 도와주기로 결심했어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "decided",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "help",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "whenever",
+              "charStart": 18,
+              "charEnd": 26,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "I",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1840
+            },
+            {
+              "word": "saw",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1840,
+              "endMs": 2040
+            },
+            {
+              "word": "an",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2040,
               "endMs": 2420
+            },
+            {
+              "word": "animal",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2420,
+              "endMs": 2660
+            },
+            {
+              "word": "in",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2660,
+              "endMs": 3100
+            },
+            {
+              "word": "trouble",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 3100,
+              "endMs": 3300
             }
           ]
         }
@@ -712,8 +1986,8 @@
     {
       "sentences": [
         {
-          "text": "We decide to make a simple plan instead of running in different directions. Dad checks the park gate while I ask the shop owner.",
-          "translation_ko": "우리는 여기저기 뛰어다니는 대신 간단한 계획을 세우기로 해요. 아빠는 공원 문을 확인하고 나는 가게 주인에게 물어요.",
+          "text": "We decided to make a simple plan instead of running in different directions.",
+          "translation_ko": "우리는 여기저기 뛰어다니는 대신 간단한 계획을 세우기로 했어요.",
           "audio": "/seed/daily-12-the-lost-puppy/audio/p10-s1.mp3",
           "wordTimings": [
             {
@@ -721,168 +1995,231 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 320
             },
             {
-              "word": "decide",
+              "word": "decided",
               "charStart": 3,
-              "charEnd": 9,
-              "startMs": 280,
-              "endMs": 640
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 740
             },
             {
               "word": "to",
-              "charStart": 10,
-              "charEnd": 12,
-              "startMs": 640,
-              "endMs": 840
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1040
             },
             {
               "word": "make",
-              "charStart": 13,
-              "charEnd": 17,
-              "startMs": 840,
-              "endMs": 960
-            },
-            {
-              "word": "a",
-              "charStart": 18,
-              "charEnd": 19,
-              "startMs": 960,
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1040,
               "endMs": 1160
             },
             {
-              "word": "simple",
-              "charStart": 20,
-              "charEnd": 26,
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
               "startMs": 1160,
-              "endMs": 1440
+              "endMs": 1360
+            },
+            {
+              "word": "simple",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1660
             },
             {
               "word": "plan",
-              "charStart": 27,
-              "charEnd": 31,
-              "startMs": 1440,
-              "endMs": 1820
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1660,
+              "endMs": 2060
             },
             {
               "word": "instead",
-              "charStart": 32,
-              "charEnd": 39,
-              "startMs": 1820,
-              "endMs": 2160
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2500
             },
             {
               "word": "of",
-              "charStart": 40,
-              "charEnd": 42,
-              "startMs": 2160,
-              "endMs": 2440
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2500,
+              "endMs": 2820
             },
             {
               "word": "running",
-              "charStart": 43,
-              "charEnd": 50,
-              "startMs": 2440,
-              "endMs": 2560
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2820,
+              "endMs": 2940
             },
             {
               "word": "in",
-              "charStart": 51,
-              "charEnd": 53,
-              "startMs": 2560,
-              "endMs": 2840
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 2940,
+              "endMs": 3280
             },
             {
               "word": "different",
-              "charStart": 54,
-              "charEnd": 63,
-              "startMs": 2840,
-              "endMs": 3080
+              "charStart": 55,
+              "charEnd": 64,
+              "startMs": 3280,
+              "endMs": 3500
             },
             {
               "word": "directions",
-              "charStart": 64,
-              "charEnd": 74,
-              "startMs": 3080,
-              "endMs": 3640
-            },
+              "charStart": 65,
+              "charEnd": 75,
+              "startMs": 3500,
+              "endMs": 3920
+            }
+          ]
+        },
+        {
+          "text": "Dad checked the park gate while I asked the shop owner.",
+          "translation_ko": "아빠는 공원 문을 확인하고, 나는 가게 주인에게 물어봤어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p10-s2.mp3",
+          "wordTimings": [
             {
               "word": "Dad",
-              "charStart": 76,
-              "charEnd": 79,
-              "startMs": 4620,
-              "endMs": 4720
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
             },
             {
-              "word": "checks",
-              "charStart": 80,
-              "charEnd": 86,
-              "startMs": 4720,
-              "endMs": 5020
+              "word": "checked",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 800
             },
             {
               "word": "the",
-              "charStart": 87,
-              "charEnd": 90,
-              "startMs": 5020,
-              "endMs": 5300
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1100
             },
             {
               "word": "park",
-              "charStart": 91,
-              "charEnd": 95,
-              "startMs": 5300,
-              "endMs": 5480
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1320
             },
             {
               "word": "gate",
-              "charStart": 96,
-              "charEnd": 100,
-              "startMs": 5480,
-              "endMs": 5760
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1680
             },
             {
               "word": "while",
-              "charStart": 101,
-              "charEnd": 106,
-              "startMs": 5760,
-              "endMs": 6180
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 2100
             },
             {
               "word": "I",
-              "charStart": 107,
-              "charEnd": 108,
-              "startMs": 6180,
-              "endMs": 6380
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 2100,
+              "endMs": 2280
             },
             {
-              "word": "ask",
-              "charStart": 109,
-              "charEnd": 112,
-              "startMs": 6380,
-              "endMs": 6620
+              "word": "asked",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2620
             },
             {
               "word": "the",
-              "charStart": 113,
-              "charEnd": 116,
-              "startMs": 6620,
-              "endMs": 6840
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2620,
+              "endMs": 2860
             },
             {
               "word": "shop",
-              "charStart": 117,
-              "charEnd": 121,
-              "startMs": 6840,
-              "endMs": 7020
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3040
             },
             {
               "word": "owner",
-              "charStart": 122,
-              "charEnd": 127,
-              "startMs": 7020,
-              "endMs": 7220
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3040,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Working together made the search much faster.",
+          "translation_ko": "함께 움직이니 찾는 속도가 훨씬 빨라졌어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Working",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "together",
+              "charStart": 8,
+              "charEnd": 16,
+              "startMs": 420,
+              "endMs": 880
+            },
+            {
+              "word": "made",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1340
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "search",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1560,
+              "endMs": 1780
+            },
+            {
+              "word": "much",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1780,
+              "endMs": 2300
+            },
+            {
+              "word": "faster",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2640
             }
           ]
         }
@@ -891,8 +2228,8 @@
     {
       "sentences": [
         {
-          "text": "The shop owner remembers seeing a small puppy near the bakery. That clue helps us choose the next street to search.",
-          "translation_ko": "가게 주인은 빵집 근처에서 작은 강아지를 본 것을 기억해요. 그 단서 덕분에 다음으로 찾을 거리를 고를 수 있어요.",
+          "text": "The shop owner remembered seeing a small puppy near the bakery.",
+          "translation_ko": "가게 주인은 빵집 근처에서 작은 강아지를 본 것을 기억했어요.",
           "audio": "/seed/daily-12-the-lost-puppy/audio/p11-s1.mp3",
           "wordTimings": [
             {
@@ -900,147 +2237,238 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 180
+              "endMs": 280
             },
             {
               "word": "shop",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 180,
-              "endMs": 420
+              "startMs": 280,
+              "endMs": 640
             },
             {
               "word": "owner",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 420,
-              "endMs": 700
+              "startMs": 640,
+              "endMs": 1060
             },
             {
-              "word": "remembers",
+              "word": "remembered",
               "charStart": 15,
-              "charEnd": 24,
-              "startMs": 700,
-              "endMs": 1180
+              "charEnd": 25,
+              "startMs": 1060,
+              "endMs": 1580
             },
             {
               "word": "seeing",
-              "charStart": 25,
-              "charEnd": 31,
-              "startMs": 1180,
-              "endMs": 1480
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1580,
+              "endMs": 1980
             },
             {
               "word": "a",
-              "charStart": 32,
-              "charEnd": 33,
-              "startMs": 1480,
-              "endMs": 1740
+              "charStart": 33,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2300
             },
             {
               "word": "small",
-              "charStart": 34,
-              "charEnd": 39,
-              "startMs": 1740,
-              "endMs": 1940
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2620
             },
             {
               "word": "puppy",
-              "charStart": 40,
-              "charEnd": 45,
-              "startMs": 1940,
-              "endMs": 2200
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2620,
+              "endMs": 2980
             },
             {
               "word": "near",
-              "charStart": 46,
-              "charEnd": 50,
-              "startMs": 2200,
-              "endMs": 2400
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2980,
+              "endMs": 3500
             },
             {
               "word": "the",
-              "charStart": 51,
-              "charEnd": 54,
-              "startMs": 2400,
-              "endMs": 2900
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3500,
+              "endMs": 3740
             },
             {
               "word": "bakery",
-              "charStart": 55,
-              "charEnd": 61,
-              "startMs": 2900,
-              "endMs": 2900
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 3740,
+              "endMs": 4020
+            }
+          ]
+        },
+        {
+          "text": "She said the puppy had been sniffing around the baskets outside.",
+          "translation_ko": "강아지가 밖에 있는 바구니 주변을 냄새 맡고 있었다고 했어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
             },
             {
-              "word": "That",
-              "charStart": 63,
-              "charEnd": 67,
-              "startMs": 3480,
-              "endMs": 3660
-            },
-            {
-              "word": "clue",
-              "charStart": 68,
-              "charEnd": 72,
-              "startMs": 3660,
-              "endMs": 3880
-            },
-            {
-              "word": "helps",
-              "charStart": 73,
-              "charEnd": 78,
-              "startMs": 3880,
-              "endMs": 4160
-            },
-            {
-              "word": "us",
-              "charStart": 79,
-              "charEnd": 81,
-              "startMs": 4160,
-              "endMs": 4540
-            },
-            {
-              "word": "choose",
-              "charStart": 82,
-              "charEnd": 88,
-              "startMs": 4540,
-              "endMs": 4620
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 540
             },
             {
               "word": "the",
-              "charStart": 89,
-              "charEnd": 92,
-              "startMs": 4620,
-              "endMs": 4840
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 740
+            },
+            {
+              "word": "puppy",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 980
+            },
+            {
+              "word": "had",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1240
+            },
+            {
+              "word": "been",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "sniffing",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 1520,
+              "endMs": 1920
+            },
+            {
+              "word": "around",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2160,
+              "endMs": 2700
+            },
+            {
+              "word": "baskets",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 2700,
+              "endMs": 2700
+            },
+            {
+              "word": "outside",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 2700,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "That clue helped us choose the next street to search.",
+          "translation_ko": "그 단서 덕분에 다음으로 찾을 거리를 고를 수 있었어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "clue",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "helped",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "us",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "choose",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1980,
+              "endMs": 2180
             },
             {
               "word": "next",
-              "charStart": 93,
-              "charEnd": 97,
-              "startMs": 4840,
-              "endMs": 5020
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2180,
+              "endMs": 2440
             },
             {
               "word": "street",
-              "charStart": 98,
-              "charEnd": 104,
-              "startMs": 5020,
-              "endMs": 5240
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2440,
+              "endMs": 2620
             },
             {
               "word": "to",
-              "charStart": 105,
-              "charEnd": 107,
-              "startMs": 5240,
-              "endMs": 5500
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2620,
+              "endMs": 2920
             },
             {
               "word": "search",
-              "charStart": 108,
-              "charEnd": 114,
-              "startMs": 5500,
-              "endMs": 5700
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2920,
+              "endMs": 3140
             }
           ]
         }
@@ -1049,8 +2477,8 @@
     {
       "sentences": [
         {
-          "text": "When Coco finally hears his name, he runs toward us with muddy paws. I learn that calm thinking can solve scary problems.",
-          "translation_ko": "코코가 마침내 자기 이름을 듣자 진흙 묻은 발로 우리에게 달려와요. 나는 차분한 생각이 무서운 문제도 해결할 수 있음을 배워요.",
+          "text": "When Coco finally heard her name, she ran toward us with muddy paws.",
+          "translation_ko": "코코가 마침내 자기 이름을 듣자 진흙 묻은 발로 우리에게 달려왔어요.",
           "audio": "/seed/daily-12-the-lost-puppy/audio/p12-s1.mp3",
           "wordTimings": [
             {
@@ -1065,147 +2493,266 @@
               "charStart": 5,
               "charEnd": 9,
               "startMs": 320,
-              "endMs": 680
+              "endMs": 600
             },
             {
               "word": "finally",
               "charStart": 10,
               "charEnd": 17,
-              "startMs": 680,
-              "endMs": 1220
+              "startMs": 600,
+              "endMs": 1120
             },
             {
-              "word": "hears",
+              "word": "heard",
               "charStart": 18,
               "charEnd": 23,
-              "startMs": 1220,
-              "endMs": 1540
+              "startMs": 1120,
+              "endMs": 1340
             },
             {
-              "word": "his",
+              "word": "her",
               "charStart": 24,
               "charEnd": 27,
-              "startMs": 1540,
-              "endMs": 1760
+              "startMs": 1340,
+              "endMs": 1540
             },
             {
               "word": "name",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 1760,
-              "endMs": 2040
+              "startMs": 1540,
+              "endMs": 1780
             },
             {
-              "word": "he",
+              "word": "she",
               "charStart": 34,
-              "charEnd": 36,
-              "startMs": 2460,
-              "endMs": 2640
+              "charEnd": 37,
+              "startMs": 2220,
+              "endMs": 2420
             },
             {
-              "word": "runs",
-              "charStart": 37,
+              "word": "ran",
+              "charStart": 38,
               "charEnd": 41,
-              "startMs": 2640,
-              "endMs": 2860
+              "startMs": 2420,
+              "endMs": 2660
             },
             {
               "word": "toward",
               "charStart": 42,
               "charEnd": 48,
-              "startMs": 2860,
-              "endMs": 3180
+              "startMs": 2660,
+              "endMs": 2900
             },
             {
               "word": "us",
               "charStart": 49,
               "charEnd": 51,
-              "startMs": 3180,
-              "endMs": 3420
+              "startMs": 2900,
+              "endMs": 3160
             },
             {
               "word": "with",
               "charStart": 52,
               "charEnd": 56,
-              "startMs": 3420,
-              "endMs": 3680
+              "startMs": 3160,
+              "endMs": 3440
             },
             {
               "word": "muddy",
               "charStart": 57,
               "charEnd": 62,
-              "startMs": 3680,
-              "endMs": 3840
+              "startMs": 3440,
+              "endMs": 3620
             },
             {
               "word": "paws",
               "charStart": 63,
               "charEnd": 67,
-              "startMs": 3840,
-              "endMs": 4320
+              "startMs": 3620,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "She jumped up and put her front paws on my knees.",
+          "translation_ko": "코코는 뛰어올라 내 무릎에 앞발을 올렸어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
             },
+            {
+              "word": "jumped",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "put",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1220
+            },
+            {
+              "word": "her",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "front",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1460,
+              "endMs": 1720
+            },
+            {
+              "word": "paws",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1720,
+              "endMs": 2060
+            },
+            {
+              "word": "on",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2220
+            },
+            {
+              "word": "my",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "knees",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2420,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "I learned that calm thinking and teamwork can solve even the scariest problems.",
+          "translation_ko": "나는 차분한 생각과 협력이 가장 어려운 문제도 해결할 수 있다는 것을 배웠어요.",
+          "audio": "/seed/daily-12-the-lost-puppy/audio/p12-s3.mp3",
+          "wordTimings": [
             {
               "word": "I",
-              "charStart": 69,
-              "charEnd": 70,
-              "startMs": 5000,
-              "endMs": 5100
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 620
             },
             {
-              "word": "learn",
-              "charStart": 71,
-              "charEnd": 76,
-              "startMs": 5100,
-              "endMs": 5280
+              "word": "learned",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 880
             },
             {
               "word": "that",
-              "charStart": 77,
-              "charEnd": 81,
-              "startMs": 5280,
-              "endMs": 5700
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1300
             },
             {
               "word": "calm",
-              "charStart": 82,
-              "charEnd": 86,
-              "startMs": 5700,
-              "endMs": 5860
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1420
             },
             {
               "word": "thinking",
-              "charStart": 87,
-              "charEnd": 95,
-              "startMs": 5860,
-              "endMs": 6180
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1420,
+              "endMs": 1740
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "teamwork",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2060,
+              "endMs": 2480
             },
             {
               "word": "can",
-              "charStart": 96,
-              "charEnd": 99,
-              "startMs": 6180,
-              "endMs": 6560
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2480,
+              "endMs": 2880
             },
             {
               "word": "solve",
-              "charStart": 100,
-              "charEnd": 105,
-              "startMs": 6560,
-              "endMs": 6760
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2880,
+              "endMs": 3160
             },
             {
-              "word": "scary",
-              "charStart": 106,
-              "charEnd": 111,
-              "startMs": 6760,
-              "endMs": 7180
+              "word": "even",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3160,
+              "endMs": 3460
+            },
+            {
+              "word": "the",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3460,
+              "endMs": 3780
+            },
+            {
+              "word": "scariest",
+              "charStart": 61,
+              "charEnd": 69,
+              "startMs": 3780,
+              "endMs": 4140
             },
             {
               "word": "problems",
-              "charStart": 112,
-              "charEnd": 120,
-              "startMs": 7180,
-              "endMs": 7640
+              "charStart": 70,
+              "charEnd": 78,
+              "startMs": 4140,
+              "endMs": 4560
             }
           ]
         }
@@ -1261,18 +2808,6 @@
       ],
       "answerIndex": 0,
       "explain_ko": "a girl ran to us — 주인 소녀가 달려왔어요."
-    },
-    {
-      "question_ko": "집에 갈 때 아이의 마음은 어땠나요?",
-      "type": "mc",
-      "options": [
-        "화났다",
-        "따뜻했다",
-        "무서웠다",
-        "슬펐다"
-      ],
-      "answerIndex": 1,
-      "explain_ko": "felt warm inside — 마음이 따뜻해졌어요."
     },
     {
       "question_ko": "가게 주인은 강아지를 어디 근처에서 봤다고 했나요?",

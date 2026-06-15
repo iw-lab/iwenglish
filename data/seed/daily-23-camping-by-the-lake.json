@@ -20,20 +20,20 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 280
             },
             {
               "word": "weekend",
               "charStart": 5,
               "charEnd": 12,
-              "startMs": 340,
-              "endMs": 760
+              "startMs": 280,
+              "endMs": 680
             },
             {
               "word": "my",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 1080,
+              "startMs": 940,
               "endMs": 1300
             },
             {
@@ -41,42 +41,224 @@
               "charStart": 17,
               "charEnd": 23,
               "startMs": 1300,
-              "endMs": 1600
+              "endMs": 1560
             },
             {
               "word": "goes",
               "charStart": 24,
               "charEnd": 28,
-              "startMs": 1600,
-              "endMs": 1900
+              "startMs": 1560,
+              "endMs": 1860
             },
             {
               "word": "camping",
               "charStart": 29,
               "charEnd": 36,
-              "startMs": 1900,
-              "endMs": 2240
+              "startMs": 1860,
+              "endMs": 2220
             },
             {
               "word": "by",
               "charStart": 37,
               "charEnd": 39,
-              "startMs": 2240,
-              "endMs": 2520
+              "startMs": 2220,
+              "endMs": 2500
             },
             {
               "word": "the",
               "charStart": 40,
               "charEnd": 43,
-              "startMs": 2520,
-              "endMs": 2700
+              "startMs": 2500,
+              "endMs": 2840
             },
             {
               "word": "lake",
               "charStart": 44,
               "charEnd": 48,
-              "startMs": 2700,
-              "endMs": 2900
+              "startMs": 2840,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "We pack our sleeping bags, a tent, and some snacks for the trip.",
+          "translation_ko": "여행을 위해 침낭과 텐트, 간식을 짐에 넣어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "pack",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "our",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "sleeping",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "bags",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1600
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 2080,
+              "endMs": 2440
+            },
+            {
+              "word": "tent",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2440,
+              "endMs": 2440
+            },
+            {
+              "word": "and",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2840,
+              "endMs": 2920
+            },
+            {
+              "word": "some",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2920,
+              "endMs": 3160
+            },
+            {
+              "word": "snacks",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3160,
+              "endMs": 3460
+            },
+            {
+              "word": "for",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3460,
+              "endMs": 3720
+            },
+            {
+              "word": "the",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3720,
+              "endMs": 3880
+            },
+            {
+              "word": "trip",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3880,
+              "endMs": 4080
+            }
+          ]
+        },
+        {
+          "text": "I feel excited because it is my first time sleeping outdoors.",
+          "translation_ko": "야외에서 자는 건 처음이라 정말 설레요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "excited",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 1020
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1420
+            },
+            {
+              "word": "it",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1520
+            },
+            {
+              "word": "is",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 1680
+            },
+            {
+              "word": "my",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 1900
+            },
+            {
+              "word": "first",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1900,
+              "endMs": 2160
+            },
+            {
+              "word": "time",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2160,
+              "endMs": 2520
+            },
+            {
+              "word": "sleeping",
+              "charStart": 43,
+              "charEnd": 51,
+              "startMs": 2520,
+              "endMs": 2780
+            },
+            {
+              "word": "outdoors",
+              "charStart": 52,
+              "charEnd": 60,
+              "startMs": 2780,
+              "endMs": 3200
             }
           ]
         }
@@ -94,63 +276,224 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 300
             },
             {
               "word": "put",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 360,
-              "endMs": 520
+              "startMs": 300,
+              "endMs": 460
             },
             {
               "word": "up",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 520,
-              "endMs": 680
+              "startMs": 460,
+              "endMs": 620
             },
             {
               "word": "our",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 680,
-              "endMs": 940
+              "startMs": 620,
+              "endMs": 880
             },
             {
               "word": "tent",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 940,
-              "endMs": 1160
+              "startMs": 880,
+              "endMs": 1080
             },
             {
               "word": "under",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 1160,
-              "endMs": 1460
+              "startMs": 1080,
+              "endMs": 1340
             },
             {
               "word": "the",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 1460,
-              "endMs": 1820
+              "startMs": 1340,
+              "endMs": 1560
             },
             {
               "word": "tall",
               "charStart": 29,
               "charEnd": 33,
-              "startMs": 1820,
-              "endMs": 1940
+              "startMs": 1560,
+              "endMs": 1860
             },
             {
               "word": "trees",
               "charStart": 34,
               "charEnd": 39,
-              "startMs": 1940,
-              "endMs": 2340
+              "startMs": 1860,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "The branches above us shade the tent from the warm sun.",
+          "translation_ko": "우리 위 나뭇가지가 따뜻한 햇볕을 가려줘요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "branches",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "above",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1280
+            },
+            {
+              "word": "us",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1700
+            },
+            {
+              "word": "shade",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "tent",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "from",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2520,
+              "endMs": 2740
+            },
+            {
+              "word": "warm",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2740,
+              "endMs": 2960
+            },
+            {
+              "word": "sun",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 2960,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "Dad says this is the best spot by the lake.",
+          "translation_ko": "아빠는 여기가 호숫가에서 가장 좋은 자리라고 해요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "says",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "this",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "is",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1180
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "best",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "spot",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1720,
+              "endMs": 2020
+            },
+            {
+              "word": "by",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2260,
+              "endMs": 2580
+            },
+            {
+              "word": "lake",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2580,
+              "endMs": 2620
             }
           ]
         }
@@ -175,20 +518,20 @@
               "charStart": 4,
               "charEnd": 11,
               "startMs": 420,
-              "endMs": 780
+              "endMs": 760
             },
             {
               "word": "me",
               "charStart": 12,
               "charEnd": 14,
-              "startMs": 780,
-              "endMs": 1060
+              "startMs": 760,
+              "endMs": 1020
             },
             {
               "word": "how",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 1060,
+              "startMs": 1020,
               "endMs": 1160
             },
             {
@@ -196,13 +539,13 @@
               "charStart": 19,
               "charEnd": 21,
               "startMs": 1160,
-              "endMs": 1460
+              "endMs": 1400
             },
             {
               "word": "start",
               "charStart": 22,
               "charEnd": 27,
-              "startMs": 1460,
+              "startMs": 1400,
               "endMs": 1580
             },
             {
@@ -210,21 +553,161 @@
               "charStart": 28,
               "charEnd": 29,
               "startMs": 1580,
-              "endMs": 1820
+              "endMs": 1840
             },
             {
               "word": "small",
               "charStart": 30,
               "charEnd": 35,
-              "startMs": 1820,
-              "endMs": 2100
+              "startMs": 1840,
+              "endMs": 2140
             },
             {
               "word": "fire",
               "charStart": 36,
               "charEnd": 40,
-              "startMs": 2100,
-              "endMs": 2400
+              "startMs": 2140,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "First, we gather dry sticks and small pieces of wood.",
+          "translation_ko": "먼저, 마른 나뭇가지와 작은 나무 조각을 모아요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "First",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1020,
+              "endMs": 1600
+            },
+            {
+              "word": "gather",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1600,
+              "endMs": 1600
+            },
+            {
+              "word": "dry",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1600,
+              "endMs": 2040
+            },
+            {
+              "word": "sticks",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2320,
+              "endMs": 2780
+            },
+            {
+              "word": "small",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2780,
+              "endMs": 3060
+            },
+            {
+              "word": "pieces",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 3060,
+              "endMs": 3340
+            },
+            {
+              "word": "of",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3340,
+              "endMs": 3740
+            },
+            {
+              "word": "wood",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3740,
+              "endMs": 3740
+            }
+          ]
+        },
+        {
+          "text": "The fire crackles softly and warms our hands.",
+          "translation_ko": "불은 부드럽게 타닥거리며 우리 손을 따뜻하게 해줘요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "fire",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "crackles",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1380
+            },
+            {
+              "word": "softly",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1740
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1740,
+              "endMs": 2360
+            },
+            {
+              "word": "warms",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "our",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "hands",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2840,
+              "endMs": 3200
             }
           ]
         }
@@ -233,8 +716,8 @@
     {
       "sentences": [
         {
-          "text": "We cook dinner and eat under the sky.",
-          "translation_ko": "우리는 저녁을 만들어 하늘 아래에서 먹어요.",
+          "text": "We cook dinner and eat under the open sky.",
+          "translation_ko": "우리는 저녁을 만들어 탁 트인 하늘 아래에서 먹어요.",
           "audio": "/seed/daily-23-camping-by-the-lake/audio/p4-s1.mp3",
           "wordTimings": [
             {
@@ -242,56 +725,217 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 420
+              "endMs": 680
             },
             {
               "word": "cook",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 420,
-              "endMs": 680
+              "startMs": 680,
+              "endMs": 980
             },
             {
               "word": "dinner",
               "charStart": 8,
               "charEnd": 14,
-              "startMs": 680,
-              "endMs": 940
+              "startMs": 980,
+              "endMs": 1300
             },
             {
               "word": "and",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 940,
-              "endMs": 1260
+              "startMs": 1300,
+              "endMs": 1760
             },
             {
               "word": "eat",
               "charStart": 19,
               "charEnd": 22,
-              "startMs": 1260,
-              "endMs": 1520
+              "startMs": 1760,
+              "endMs": 2000
             },
             {
               "word": "under",
               "charStart": 23,
               "charEnd": 28,
-              "startMs": 1520,
-              "endMs": 1780
+              "startMs": 2000,
+              "endMs": 2400
             },
             {
               "word": "the",
               "charStart": 29,
               "charEnd": 32,
-              "startMs": 1780,
-              "endMs": 2000
+              "startMs": 2400,
+              "endMs": 2700
+            },
+            {
+              "word": "open",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2700,
+              "endMs": 2920
             },
             {
               "word": "sky",
-              "charStart": 33,
-              "charEnd": 36,
-              "startMs": 2000,
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2920,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "Mom stirs the soup while I set out the cups and spoons.",
+          "translation_ko": "엄마가 국을 저을 동안 나는 컵과 숟가락을 꺼내 놓아요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "stirs",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 900,
+              "endMs": 1400
+            },
+            {
+              "word": "soup",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1400,
+              "endMs": 1400
+            },
+            {
+              "word": "while",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 1880
+            },
+            {
+              "word": "I",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 1880,
               "endMs": 2220
+            },
+            {
+              "word": "set",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "out",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2400,
+              "endMs": 2560
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2560,
+              "endMs": 2920
+            },
+            {
+              "word": "cups",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2920,
+              "endMs": 2920
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2920,
+              "endMs": 3200
+            },
+            {
+              "word": "spoons",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 3200,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "Everything tastes better when you eat outside together.",
+          "translation_ko": "함께 야외에서 먹으면 모든 게 더 맛있어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Everything",
+              "charStart": 0,
+              "charEnd": 10,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "tastes",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "better",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1020,
+              "endMs": 1360
+            },
+            {
+              "word": "when",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "you",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "eat",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 1960
+            },
+            {
+              "word": "outside",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 1960,
+              "endMs": 2520
+            },
+            {
+              "word": "together",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 2520,
+              "endMs": 2880
             }
           ]
         }
@@ -309,49 +953,224 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 300
             },
             {
               "word": "night",
               "charStart": 5,
               "charEnd": 10,
-              "startMs": 280,
-              "endMs": 560
+              "startMs": 300,
+              "endMs": 580
             },
             {
               "word": "comes",
               "charStart": 11,
               "charEnd": 16,
-              "startMs": 560,
-              "endMs": 980
+              "startMs": 580,
+              "endMs": 1020
             },
             {
               "word": "the",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1320,
-              "endMs": 1620
+              "startMs": 1100,
+              "endMs": 1800
             },
             {
               "word": "stars",
               "charStart": 22,
               "charEnd": 27,
-              "startMs": 1620,
-              "endMs": 1880
+              "startMs": 1800,
+              "endMs": 2140
             },
             {
               "word": "shine",
               "charStart": 28,
               "charEnd": 33,
-              "startMs": 1880,
-              "endMs": 2280
+              "startMs": 2140,
+              "endMs": 2520
             },
             {
               "word": "brightly",
               "charStart": 34,
               "charEnd": 42,
-              "startMs": 2280,
-              "endMs": 2600
+              "startMs": 2520,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "There are so many stars that I cannot count them all.",
+          "translation_ko": "별이 너무 많아서 다 셀 수가 없어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "There",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "are",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "so",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "many",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1260
+            },
+            {
+              "word": "stars",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1580
+            },
+            {
+              "word": "that",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "I",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "cannot",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2020,
+              "endMs": 2320
+            },
+            {
+              "word": "count",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2320,
+              "endMs": 2640
+            },
+            {
+              "word": "them",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2640,
+              "endMs": 2800
+            },
+            {
+              "word": "all",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2800,
+              "endMs": 3000
+            }
+          ]
+        },
+        {
+          "text": "I lie on my back and stare up at the dark sky.",
+          "translation_ko": "나는 등을 대고 누워서 어두운 하늘을 올려다봐요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "lie",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "on",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 680
+            },
+            {
+              "word": "my",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 880
+            },
+            {
+              "word": "back",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1720
+            },
+            {
+              "word": "stare",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1720,
+              "endMs": 1860
+            },
+            {
+              "word": "up",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "at",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2080,
+              "endMs": 2200
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "dark",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2400,
+              "endMs": 2580
+            },
+            {
+              "word": "sky",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2580,
+              "endMs": 2940
             }
           ]
         }
@@ -369,63 +1188,231 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 400
             },
             {
               "word": "hear",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 280,
-              "endMs": 560
+              "startMs": 400,
+              "endMs": 780
             },
             {
               "word": "the",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 560,
-              "endMs": 800
+              "startMs": 780,
+              "endMs": 1020
             },
             {
               "word": "sound",
               "charStart": 12,
               "charEnd": 17,
-              "startMs": 800,
-              "endMs": 1080
+              "startMs": 1020,
+              "endMs": 1360
             },
             {
               "word": "of",
               "charStart": 18,
               "charEnd": 20,
-              "startMs": 1080,
-              "endMs": 1700
+              "startMs": 1360,
+              "endMs": 2200
             },
             {
               "word": "frogs",
               "charStart": 21,
               "charEnd": 26,
-              "startMs": 1700,
-              "endMs": 1700
+              "startMs": 2200,
+              "endMs": 2200
             },
             {
               "word": "near",
               "charStart": 27,
               "charEnd": 31,
-              "startMs": 1700,
-              "endMs": 1940
+              "startMs": 2200,
+              "endMs": 2760
             },
             {
               "word": "the",
               "charStart": 32,
               "charEnd": 35,
-              "startMs": 1940,
-              "endMs": 2140
+              "startMs": 2760,
+              "endMs": 3020
             },
             {
               "word": "water",
               "charStart": 36,
               "charEnd": 41,
-              "startMs": 2140,
-              "endMs": 2360
+              "startMs": 3020,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Their calls echo across the quiet lake all night long.",
+          "translation_ko": "그 울음소리가 밤새 고요한 호수 너머로 메아리쳐요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "calls",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 640
+            },
+            {
+              "word": "echo",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 1020
+            },
+            {
+              "word": "across",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "quiet",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1660,
+              "endMs": 1920
+            },
+            {
+              "word": "lake",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2240
+            },
+            {
+              "word": "all",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2800
+            },
+            {
+              "word": "night",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2800,
+              "endMs": 3040
+            },
+            {
+              "word": "long",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3040,
+              "endMs": 3360
+            }
+          ]
+        },
+        {
+          "text": "I listen carefully and try to count how many frogs I hear.",
+          "translation_ko": "나는 귀를 기울이며 개구리가 몇 마리인지 세어 봐요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "listen",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 500
+            },
+            {
+              "word": "carefully",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 500,
+              "endMs": 1000
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1620
+            },
+            {
+              "word": "try",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1760
+            },
+            {
+              "word": "to",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1760,
+              "endMs": 2200
+            },
+            {
+              "word": "count",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2200
+            },
+            {
+              "word": "how",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2440
+            },
+            {
+              "word": "many",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "frogs",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2640,
+              "endMs": 3100
+            },
+            {
+              "word": "I",
+              "charStart": 51,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3200
+            },
+            {
+              "word": "hear",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3200,
+              "endMs": 3380
             }
           ]
         }
@@ -443,63 +1430,224 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 140
+              "endMs": 160
             },
             {
               "word": "the",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 140,
-              "endMs": 400
+              "startMs": 160,
+              "endMs": 420
             },
             {
               "word": "morning",
               "charStart": 7,
               "charEnd": 14,
-              "startMs": 400,
-              "endMs": 600
+              "startMs": 420,
+              "endMs": 640
             },
             {
               "word": "the",
               "charStart": 16,
               "charEnd": 19,
-              "startMs": 940,
-              "endMs": 1100
+              "startMs": 1020,
+              "endMs": 1240
             },
             {
               "word": "air",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 1100,
-              "endMs": 1260
+              "startMs": 1240,
+              "endMs": 1440
             },
             {
               "word": "feels",
               "charStart": 24,
               "charEnd": 29,
-              "startMs": 1260,
-              "endMs": 1560
+              "startMs": 1440,
+              "endMs": 1760
             },
             {
               "word": "cool",
               "charStart": 30,
               "charEnd": 34,
-              "startMs": 1560,
-              "endMs": 1980
+              "startMs": 1760,
+              "endMs": 2220
             },
             {
               "word": "and",
               "charStart": 35,
               "charEnd": 38,
-              "startMs": 1980,
-              "endMs": 2320
+              "startMs": 2220,
+              "endMs": 2660
             },
             {
               "word": "fresh",
               "charStart": 39,
               "charEnd": 44,
-              "startMs": 2320,
-              "endMs": 2600
+              "startMs": 2660,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "A thin mist floats above the surface of the lake.",
+          "translation_ko": "호수 위에 얇은 안개가 떠올라 있어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "thin",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 740
+            },
+            {
+              "word": "mist",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 740,
+              "endMs": 1300
+            },
+            {
+              "word": "floats",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1960
+            },
+            {
+              "word": "above",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1960,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "surface",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2500,
+              "endMs": 2760
+            },
+            {
+              "word": "of",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2760,
+              "endMs": 2980
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2980,
+              "endMs": 3280
+            },
+            {
+              "word": "lake",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3280,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "I take a deep breath and feel wide awake at once.",
+          "translation_ko": "나는 깊게 숨을 들이쉬고 단번에 완전히 잠에서 깨어나요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "take",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "deep",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "breath",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 1940
+            },
+            {
+              "word": "feel",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "wide",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2640
+            },
+            {
+              "word": "awake",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2640,
+              "endMs": 2920
+            },
+            {
+              "word": "at",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2920,
+              "endMs": 3240
+            },
+            {
+              "word": "once",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3240,
+              "endMs": 3520
             }
           ]
         }
@@ -517,49 +1665,224 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 420
             },
             {
               "word": "swim",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 340,
-              "endMs": 600
+              "startMs": 420,
+              "endMs": 740
             },
             {
               "word": "in",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 600,
-              "endMs": 840
+              "startMs": 740,
+              "endMs": 980
             },
             {
               "word": "the",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 840,
-              "endMs": 1140
+              "startMs": 980,
+              "endMs": 1280
             },
             {
               "word": "clear",
               "charStart": 15,
               "charEnd": 20,
-              "startMs": 1140,
-              "endMs": 1380
+              "startMs": 1280,
+              "endMs": 1540
             },
             {
               "word": "lake",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1380,
-              "endMs": 1680
+              "startMs": 1540,
+              "endMs": 1820
             },
             {
               "word": "water",
               "charStart": 26,
               "charEnd": 31,
-              "startMs": 1680,
+              "startMs": 1820,
+              "endMs": 2120
+            }
+          ]
+        },
+        {
+          "text": "The water is cool and I can see small fish swimming near my feet.",
+          "translation_ko": "물이 시원하고 발 근처에서 작은 물고기가 헤엄치는 게 보여요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "water",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "cool",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1700,
+              "endMs": 1720
+            },
+            {
+              "word": "I",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1720,
+              "endMs": 1820
+            },
+            {
+              "word": "can",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1820,
+              "endMs": 2040
+            },
+            {
+              "word": "see",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2040,
+              "endMs": 2240
+            },
+            {
+              "word": "small",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2560
+            },
+            {
+              "word": "fish",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2560,
+              "endMs": 2900
+            },
+            {
+              "word": "swimming",
+              "charStart": 43,
+              "charEnd": 51,
+              "startMs": 2900,
+              "endMs": 3360
+            },
+            {
+              "word": "near",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3360,
+              "endMs": 3600
+            },
+            {
+              "word": "my",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3600,
+              "endMs": 3840
+            },
+            {
+              "word": "feet",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3840,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "We splash and laugh until our fingers go wrinkly.",
+          "translation_ko": "손가락이 쭈글쭈글해질 때까지 물을 튀기며 웃어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "splash",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 720
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1020
+            },
+            {
+              "word": "laugh",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "until",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1700
+            },
+            {
+              "word": "our",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1700,
               "endMs": 2000
+            },
+            {
+              "word": "fingers",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "go",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2260,
+              "endMs": 2600
+            },
+            {
+              "word": "wrinkly",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2600,
+              "endMs": 2920
             }
           ]
         }
@@ -577,49 +1900,196 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 620
             },
             {
               "word": "will",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 240,
-              "endMs": 560
+              "startMs": 620,
+              "endMs": 820
             },
             {
               "word": "always",
               "charStart": 7,
               "charEnd": 13,
-              "startMs": 560,
-              "endMs": 980
+              "startMs": 820,
+              "endMs": 1200
             },
             {
               "word": "remember",
               "charStart": 14,
               "charEnd": 22,
-              "startMs": 980,
-              "endMs": 1380
+              "startMs": 1200,
+              "endMs": 1560
             },
             {
               "word": "this",
               "charStart": 23,
               "charEnd": 27,
-              "startMs": 1380,
-              "endMs": 1740
+              "startMs": 1560,
+              "endMs": 1860
             },
             {
               "word": "special",
               "charStart": 28,
               "charEnd": 35,
-              "startMs": 1740,
-              "endMs": 2180
+              "startMs": 1860,
+              "endMs": 2200
             },
             {
               "word": "trip",
               "charStart": 36,
               "charEnd": 40,
-              "startMs": 2180,
-              "endMs": 2440
+              "startMs": 2200,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "The campfire smell and the bright stars are in my heart.",
+          "translation_ko": "모닥불 냄새와 밝은 별들이 내 마음속에 있어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "campfire",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 220,
+              "endMs": 720
+            },
+            {
+              "word": "smell",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 720,
+              "endMs": 1080
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1080,
+              "endMs": 1260
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "bright",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1560,
+              "endMs": 1660
+            },
+            {
+              "word": "stars",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1660,
+              "endMs": 1980
+            },
+            {
+              "word": "are",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 1980,
+              "endMs": 2240
+            },
+            {
+              "word": "in",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2240,
+              "endMs": 2360
+            },
+            {
+              "word": "my",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2360,
+              "endMs": 2600
+            },
+            {
+              "word": "heart",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 2600,
+              "endMs": 2800
+            }
+          ]
+        },
+        {
+          "text": "I hope we can come back next summer.",
+          "translation_ko": "내년 여름에도 다시 올 수 있으면 좋겠어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "hope",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 360
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 520
+            },
+            {
+              "word": "can",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "come",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 900
+            },
+            {
+              "word": "back",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "next",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "summer",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1380,
+              "endMs": 1600
             }
           ]
         }
@@ -628,8 +2098,8 @@
     {
       "sentences": [
         {
-          "text": "Before hiking, Dad teaches us to pack only what we need. A lighter bag makes the long trail easier and safer.",
-          "translation_ko": "하이킹 전에 아빠는 필요한 것만 챙기는 법을 가르쳐줘요. 가벼운 가방은 긴 길을 더 쉽고 안전하게 해요.",
+          "text": "Before hiking, Dad teaches us to pack only what we need.",
+          "translation_ko": "하이킹 전에 아빠는 필요한 것만 챙기는 법을 가르쳐줘요.",
           "audio": "/seed/daily-23-camping-by-the-lake/audio/p10-s1.mp3",
           "wordTimings": [
             {
@@ -637,147 +2107,252 @@
               "charStart": 0,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 440
+              "endMs": 480
             },
             {
               "word": "hiking",
               "charStart": 7,
               "charEnd": 13,
-              "startMs": 440,
-              "endMs": 880
+              "startMs": 480,
+              "endMs": 840
             },
             {
               "word": "Dad",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 1340,
-              "endMs": 1600
+              "startMs": 1280,
+              "endMs": 1560
             },
             {
               "word": "teaches",
               "charStart": 19,
               "charEnd": 26,
-              "startMs": 1600,
-              "endMs": 1980
+              "startMs": 1560,
+              "endMs": 1920
             },
             {
               "word": "us",
               "charStart": 27,
               "charEnd": 29,
-              "startMs": 1980,
-              "endMs": 2240
+              "startMs": 1920,
+              "endMs": 2160
             },
             {
               "word": "to",
               "charStart": 30,
               "charEnd": 32,
-              "startMs": 2240,
-              "endMs": 2420
+              "startMs": 2160,
+              "endMs": 2360
             },
             {
               "word": "pack",
               "charStart": 33,
               "charEnd": 37,
-              "startMs": 2420,
-              "endMs": 2620
+              "startMs": 2360,
+              "endMs": 2580
             },
             {
               "word": "only",
               "charStart": 38,
               "charEnd": 42,
-              "startMs": 2620,
-              "endMs": 3040
+              "startMs": 2580,
+              "endMs": 3000
             },
             {
               "word": "what",
               "charStart": 43,
               "charEnd": 47,
-              "startMs": 3040,
-              "endMs": 3240
+              "startMs": 3000,
+              "endMs": 3220
             },
             {
               "word": "we",
               "charStart": 48,
               "charEnd": 50,
-              "startMs": 3240,
-              "endMs": 3400
+              "startMs": 3220,
+              "endMs": 3380
             },
             {
               "word": "need",
               "charStart": 51,
               "charEnd": 55,
-              "startMs": 3400,
-              "endMs": 3620
-            },
+              "startMs": 3380,
+              "endMs": 3640
+            }
+          ]
+        },
+        {
+          "text": "A lighter bag makes the long trail easier and safer.",
+          "translation_ko": "가벼운 가방은 긴 길을 더 쉽고 안전하게 해요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p10-s2.mp3",
+          "wordTimings": [
             {
               "word": "A",
-              "charStart": 57,
-              "charEnd": 58,
-              "startMs": 4120,
-              "endMs": 4260
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 580
             },
             {
               "word": "lighter",
-              "charStart": 59,
-              "charEnd": 66,
-              "startMs": 4260,
-              "endMs": 4480
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 580,
+              "endMs": 880
             },
             {
               "word": "bag",
-              "charStart": 67,
-              "charEnd": 70,
-              "startMs": 4480,
-              "endMs": 4820
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1240
             },
             {
               "word": "makes",
-              "charStart": 71,
-              "charEnd": 76,
-              "startMs": 4820,
-              "endMs": 5060
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1560
             },
             {
               "word": "the",
-              "charStart": 77,
-              "charEnd": 80,
-              "startMs": 5060,
-              "endMs": 5260
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1560,
+              "endMs": 1800
             },
             {
               "word": "long",
-              "charStart": 81,
-              "charEnd": 85,
-              "startMs": 5260,
-              "endMs": 5600
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2120
             },
             {
               "word": "trail",
-              "charStart": 86,
-              "charEnd": 91,
-              "startMs": 5600,
-              "endMs": 5800
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2400
             },
             {
               "word": "easier",
-              "charStart": 92,
-              "charEnd": 98,
-              "startMs": 5800,
-              "endMs": 6240
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2400,
+              "endMs": 2980
             },
             {
               "word": "and",
-              "charStart": 99,
-              "charEnd": 102,
-              "startMs": 6240,
-              "endMs": 6540
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2980,
+              "endMs": 3500
             },
             {
               "word": "safer",
-              "charStart": 103,
-              "charEnd": 108,
-              "startMs": 6540,
-              "endMs": 6760
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3500,
+              "endMs": 3740
+            }
+          ]
+        },
+        {
+          "text": "Dad checks our boots and makes sure we are all ready to go.",
+          "translation_ko": "아빠가 우리 등산화를 확인하고 모두 준비가 됐는지 살펴봐요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "checks",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "our",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "boots",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1320
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1320,
+              "endMs": 1660
+            },
+            {
+              "word": "makes",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "sure",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "we",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2100,
+              "endMs": 2220
+            },
+            {
+              "word": "are",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2320
+            },
+            {
+              "word": "all",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2320,
+              "endMs": 2680
+            },
+            {
+              "word": "ready",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2680,
+              "endMs": 2820
+            },
+            {
+              "word": "to",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 2820,
+              "endMs": 3060
+            },
+            {
+              "word": "go",
+              "charStart": 56,
+              "charEnd": 58,
+              "startMs": 3060,
+              "endMs": 3180
             }
           ]
         }
@@ -786,8 +2361,8 @@
     {
       "sentences": [
         {
-          "text": "Clouds gather in the afternoon, so we return to the tent early. Planning ahead keeps the trip comfortable.",
-          "translation_ko": "오후에 구름이 모여서 우리는 일찍 텐트로 돌아와요. 미리 계획하면 여행이 편안해져요.",
+          "text": "Clouds gather in the afternoon, so we return to the tent early.",
+          "translation_ko": "오후에 구름이 모여서 우리는 일찍 텐트로 돌아와요.",
           "audio": "/seed/daily-23-camping-by-the-lake/audio/p11-s1.mp3",
           "wordTimings": [
             {
@@ -795,13 +2370,13 @@
               "charStart": 0,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 660
+              "endMs": 700
             },
             {
               "word": "gather",
               "charStart": 7,
               "charEnd": 13,
-              "startMs": 660,
+              "startMs": 700,
               "endMs": 940
             },
             {
@@ -809,112 +2384,217 @@
               "charStart": 14,
               "charEnd": 16,
               "startMs": 940,
-              "endMs": 1140
+              "endMs": 1120
             },
             {
               "word": "the",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1140,
-              "endMs": 1800
+              "startMs": 1120,
+              "endMs": 1400
             },
             {
               "word": "afternoon",
               "charStart": 21,
               "charEnd": 30,
-              "startMs": 1800,
-              "endMs": 1800
+              "startMs": 1400,
+              "endMs": 1720
             },
             {
               "word": "so",
               "charStart": 32,
               "charEnd": 34,
-              "startMs": 2380,
-              "endMs": 2440
+              "startMs": 2300,
+              "endMs": 2400
             },
             {
               "word": "we",
               "charStart": 35,
               "charEnd": 37,
-              "startMs": 2440,
-              "endMs": 2600
+              "startMs": 2400,
+              "endMs": 2580
             },
             {
               "word": "return",
               "charStart": 38,
               "charEnd": 44,
-              "startMs": 2600,
-              "endMs": 2920
+              "startMs": 2580,
+              "endMs": 2940
             },
             {
               "word": "to",
               "charStart": 45,
               "charEnd": 47,
-              "startMs": 2920,
-              "endMs": 3060
+              "startMs": 2940,
+              "endMs": 3100
             },
             {
               "word": "the",
               "charStart": 48,
               "charEnd": 51,
-              "startMs": 3060,
-              "endMs": 3380
+              "startMs": 3100,
+              "endMs": 3400
             },
             {
               "word": "tent",
               "charStart": 52,
               "charEnd": 56,
-              "startMs": 3380,
-              "endMs": 3400
+              "startMs": 3400,
+              "endMs": 3480
             },
             {
               "word": "early",
               "charStart": 57,
               "charEnd": 62,
-              "startMs": 3400,
+              "startMs": 3480,
               "endMs": 3860
-            },
+            }
+          ]
+        },
+        {
+          "text": "Planning ahead keeps the trip comfortable.",
+          "translation_ko": "미리 계획하면 여행이 편안해져요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p11-s2.mp3",
+          "wordTimings": [
             {
               "word": "Planning",
-              "charStart": 64,
-              "charEnd": 72,
-              "startMs": 4660,
-              "endMs": 4680
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 420
             },
             {
               "word": "ahead",
-              "charStart": 73,
-              "charEnd": 78,
-              "startMs": 4680,
-              "endMs": 5080
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 800
             },
             {
               "word": "keeps",
-              "charStart": 79,
-              "charEnd": 84,
-              "startMs": 5080,
-              "endMs": 5340
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 800,
+              "endMs": 1160
             },
             {
               "word": "the",
-              "charStart": 85,
-              "charEnd": 88,
-              "startMs": 5340,
-              "endMs": 5560
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1360
             },
             {
               "word": "trip",
-              "charStart": 89,
-              "charEnd": 93,
-              "startMs": 5560,
-              "endMs": 5760
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1620
             },
             {
               "word": "comfortable",
-              "charStart": 94,
-              "charEnd": 105,
-              "startMs": 5760,
-              "endMs": 6180
+              "charStart": 30,
+              "charEnd": 41,
+              "startMs": 1620,
+              "endMs": 2120
+            }
+          ]
+        },
+        {
+          "text": "We play card games inside the tent while raindrops tap on the roof.",
+          "translation_ko": "빗방울이 지붕을 두드리는 동안 텐트 안에서 카드놀이를 해요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "play",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "card",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "games",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1340
+            },
+            {
+              "word": "inside",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1780,
+              "endMs": 2260
+            },
+            {
+              "word": "tent",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2260,
+              "endMs": 2260
+            },
+            {
+              "word": "while",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2260,
+              "endMs": 2880
+            },
+            {
+              "word": "raindrops",
+              "charStart": 41,
+              "charEnd": 50,
+              "startMs": 2880,
+              "endMs": 3420
+            },
+            {
+              "word": "tap",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3420,
+              "endMs": 3900
+            },
+            {
+              "word": "on",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3900,
+              "endMs": 4320
+            },
+            {
+              "word": "the",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 4320,
+              "endMs": 4640
+            },
+            {
+              "word": "roof",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 4640,
+              "endMs": 4660
             }
           ]
         }
@@ -923,8 +2603,8 @@
     {
       "sentences": [
         {
-          "text": "Back home, I draw a map of the campsite and label the lake, trees, and trail. The map helps me retell the adventure.",
-          "translation_ko": "집에 돌아와 나는 캠핑장 지도를 그리고 호수, 나무, 길에 이름을 붙여요. 그 지도는 모험을 다시 말하는 데 도움이 돼요.",
+          "text": "Back home, I draw a map of the campsite and label the lake, trees, and trail.",
+          "translation_ko": "집에 돌아와 나는 캠핑장 지도를 그리고 호수, 나무, 길에 이름을 붙여요.",
           "audio": "/seed/daily-23-camping-by-the-lake/audio/p12-s1.mp3",
           "wordTimings": [
             {
@@ -932,161 +2612,273 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 400
             },
             {
               "word": "home",
               "charStart": 5,
               "charEnd": 9,
-              "startMs": 340,
-              "endMs": 680
+              "startMs": 400,
+              "endMs": 760
             },
             {
               "word": "I",
               "charStart": 11,
               "charEnd": 12,
-              "startMs": 960,
-              "endMs": 1280
+              "startMs": 1000,
+              "endMs": 1360
             },
             {
               "word": "draw",
               "charStart": 13,
               "charEnd": 17,
-              "startMs": 1280,
-              "endMs": 1340
+              "startMs": 1360,
+              "endMs": 1480
             },
             {
               "word": "a",
               "charStart": 18,
               "charEnd": 19,
-              "startMs": 1340,
-              "endMs": 1720
+              "startMs": 1480,
+              "endMs": 1920
             },
             {
               "word": "map",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 1720,
-              "endMs": 1720
+              "startMs": 1920,
+              "endMs": 1940
             },
             {
               "word": "of",
               "charStart": 24,
               "charEnd": 26,
-              "startMs": 1720,
-              "endMs": 1920
+              "startMs": 1940,
+              "endMs": 2160
             },
             {
               "word": "the",
               "charStart": 27,
               "charEnd": 30,
-              "startMs": 1920,
-              "endMs": 2060
+              "startMs": 2160,
+              "endMs": 2260
             },
             {
               "word": "campsite",
               "charStart": 31,
               "charEnd": 39,
-              "startMs": 2060,
-              "endMs": 2540
+              "startMs": 2260,
+              "endMs": 2820
             },
             {
               "word": "and",
               "charStart": 40,
               "charEnd": 43,
-              "startMs": 2540,
-              "endMs": 3020
+              "startMs": 2820,
+              "endMs": 3360
             },
             {
               "word": "label",
               "charStart": 44,
               "charEnd": 49,
-              "startMs": 3020,
-              "endMs": 3220
+              "startMs": 3360,
+              "endMs": 3660
             },
             {
               "word": "the",
               "charStart": 50,
               "charEnd": 53,
-              "startMs": 3220,
-              "endMs": 3740
+              "startMs": 3660,
+              "endMs": 4240
             },
             {
               "word": "lake",
               "charStart": 54,
               "charEnd": 58,
-              "startMs": 3740,
-              "endMs": 3740
+              "startMs": 4240,
+              "endMs": 4240
             },
             {
               "word": "trees",
               "charStart": 60,
               "charEnd": 65,
-              "startMs": 4380,
-              "endMs": 4380
+              "startMs": 4960,
+              "endMs": 4980
             },
             {
               "word": "and",
               "charStart": 67,
               "charEnd": 70,
-              "startMs": 4500,
-              "endMs": 5100
+              "startMs": 5220,
+              "endMs": 5660
             },
             {
               "word": "trail",
               "charStart": 71,
               "charEnd": 76,
-              "startMs": 5100,
-              "endMs": 5100
-            },
+              "startMs": 5660,
+              "endMs": 5660
+            }
+          ]
+        },
+        {
+          "text": "The map helps me retell the adventure.",
+          "translation_ko": "그 지도는 모험을 다시 말하는 데 도움이 돼요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p12-s2.mp3",
+          "wordTimings": [
             {
               "word": "The",
-              "charStart": 78,
-              "charEnd": 81,
-              "startMs": 5740,
-              "endMs": 5860
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
             },
             {
               "word": "map",
-              "charStart": 82,
-              "charEnd": 85,
-              "startMs": 5860,
-              "endMs": 6060
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 520,
+              "endMs": 780
             },
             {
               "word": "helps",
-              "charStart": 86,
-              "charEnd": 91,
-              "startMs": 6060,
-              "endMs": 6360
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1100
             },
             {
               "word": "me",
-              "charStart": 92,
-              "charEnd": 94,
-              "startMs": 6360,
-              "endMs": 6840
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1420
             },
             {
               "word": "retell",
-              "charStart": 95,
-              "charEnd": 101,
-              "startMs": 6840,
-              "endMs": 7060
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1860
             },
             {
               "word": "the",
-              "charStart": 102,
-              "charEnd": 105,
-              "startMs": 7060,
-              "endMs": 7280
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2140
             },
             {
               "word": "adventure",
-              "charStart": 106,
-              "charEnd": 115,
-              "startMs": 7280,
-              "endMs": 7600
+              "charStart": 28,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "I cannot wait to share my map and stories with my friends at school.",
+          "translation_ko": "학교에서 친구들에게 지도와 이야기를 빨리 보여 주고 싶어요.",
+          "audio": "/seed/daily-23-camping-by-the-lake/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "cannot",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 620
+            },
+            {
+              "word": "wait",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "share",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1320
+            },
+            {
+              "word": "my",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "map",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1560,
+              "endMs": 1840
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "stories",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "with",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2420,
+              "endMs": 2660
+            },
+            {
+              "word": "my",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2660,
+              "endMs": 2900
+            },
+            {
+              "word": "friends",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 2900,
+              "endMs": 3080
+            },
+            {
+              "word": "at",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 3080,
+              "endMs": 3340
+            },
+            {
+              "word": "school",
+              "charStart": 61,
+              "charEnd": 67,
+              "startMs": 3340,
+              "endMs": 3580
             }
           ]
         }
@@ -1117,19 +2909,19 @@
         "주차장"
       ],
       "answerIndex": 1,
-      "explain_ko": "under the tall trees."
+      "explain_ko": "under the tall trees — 큰 나무 아래예요."
     },
     {
-      "question_ko": "아빠가 무엇을 가르쳐줬나요?",
+      "question_ko": "아빠가 불을 피우려면 먼저 무엇을 모아야 한다고 했나요?",
       "type": "mc",
       "options": [
-        "헤엄치기",
-        "불 피우는 법",
-        "낚시",
-        "요리"
+        "마른 나뭇가지와 나무 조각",
+        "돌멩이와 모래",
+        "젖은 낙엽",
+        "종이와 플라스틱"
       ],
-      "answerIndex": 1,
-      "explain_ko": "how to start a small fire."
+      "answerIndex": 0,
+      "explain_ko": "dry sticks and small pieces of wood — 마른 나뭇가지와 나무 조각이에요."
     },
     {
       "question_ko": "밤에 무엇이 밝게 빛났나요?",
@@ -1144,28 +2936,16 @@
       "explain_ko": "the stars shine brightly — 별이에요."
     },
     {
-      "question_ko": "물가에서 무슨 소리가 들렸나요?",
+      "question_ko": "집에 돌아와서 나는 무엇을 그렸나요?",
       "type": "mc",
       "options": [
-        "새",
-        "개구리",
-        "바람",
-        "물고기"
+        "가족 사진",
+        "캠핑장 지도",
+        "물고기 그림",
+        "별자리 그림"
       ],
       "answerIndex": 1,
-      "explain_ko": "the sound of frogs — 개구리 소리예요."
-    },
-    {
-      "question_ko": "가벼운 가방은 긴 길을 어떻게 만들어 주나요?",
-      "type": "mc",
-      "options": [
-        "쉽고 안전하게",
-        "더 위험하게",
-        "더 어둡게",
-        "더 시끄럽게"
-      ],
-      "answerIndex": 0,
-      "explain_ko": "easier and safer — 더 쉽고 안전하게요."
+      "explain_ko": "a map of the campsite — 캠핑장 지도예요."
     }
   ]
 }

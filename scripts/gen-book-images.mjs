@@ -10,6 +10,12 @@
 import { spawn } from "node:child_process";
 import { readFileSync, readdirSync, existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
+import { PLAN, CAST } from "./daily-expansion-plan.mjs";
+
+// 신규 생활영어(daily-51~150) 단계별 캐스트 맵 (slug → 등장인물 외형 설명)
+const CAST_BY_SLUG = Object.fromEntries(
+  PLAN.map((p) => [p.slug, p.cast.map((c) => CAST[c]).filter(Boolean)]),
+);
 
 const ROOT = process.cwd();
 const SEED = join(ROOT, "data", "seed");
@@ -19,8 +25,19 @@ const PER_TIMEOUT = 480000; // 8분
 
 const STYLE =
   "Soft watercolor children's picture-book illustration, warm gentle light, cozy storybook mood, painterly, wholesome, friendly, full background scene.";
-const POV =
+const POV_JUN =
   "Main character Jun: a cheerful Korean boy ~8, short tousled black hair, round friendly face, red t-shirt, blue shorts. Same look every page.";
+
+// 책별 POV — 신규 권은 단계별 캐스트(Jun 앵커 + 친구·가족·선생님), 기존 권은 Jun 단독.
+function povFor(b) {
+  const cast = CAST_BY_SLUG[b.slug];
+  if (!cast || cast.length === 0) return POV_JUN;
+  if (cast.length === 1) return `Main character ${cast[0]}. Keep the exact same look every page.`;
+  return (
+    `Recurring characters (keep each one's look IDENTICAL on every page): ${cast.join("; ")}. ` +
+    `Draw ONLY the characters that appear in the scene described below; do not add extra people.`
+  );
+}
 const NEG =
   "STRICT: no text/letters in image. 5-finger hands, natural pose. NOT cartoon/anime/manga/chibi, no big anime eyes, NOT sticker on white, NOT comic panel. NOT Chinese/Greek/Roman/Japanese-samurai, NOT historical costume. Korean modern everyday setting.";
 
@@ -126,7 +143,7 @@ function coverTasks(list) {
       label: `${b.slug} cover`,
       dir,
       out: join(dir, "cover.png"),
-      prompt: `${STYLE}\n${POV}\n${visualLevel(b)}\nScene: Book cover. ${scene} Cheerful, cozy, inviting.\n${NEG}`,
+      prompt: `${STYLE}\n${povFor(b)}\n${visualLevel(b)}\nScene: Book cover. ${scene} Cheerful, cozy, inviting.\n${NEG}`,
     };
   });
 }
@@ -142,7 +159,7 @@ function pageTasks(list) {
         dir,
         out: join(dir, `p${i + 1}.png`),
         anchor: cover,
-        prompt: `${STYLE}\n${POV}\n${visualLevel(b)}\nScene: ${sceneFromPage(p)}\nMatch cover character and art style exactly.\n${NEG}`,
+        prompt: `${STYLE}\n${povFor(b)}\n${visualLevel(b)}\nScene: ${sceneFromPage(p)}\nMatch cover characters and art style exactly.\n${NEG}`,
       });
     });
   }
@@ -153,7 +170,7 @@ async function main() {
   const phase = ["covers", "pages", "all"].includes(process.argv[2])
     ? process.argv[2]
     : "all";
-  const conc = Number(process.argv[3]) || 6;
+  const conc = Math.min(Number(process.argv[3]) || 3, 3); // HARD 캡 3 (OAuth race 방어)
   const list = loadBooks();
   console.log(`🖼️ [${phase}] 동시 ${conc}개 · ${list.length}권`);
   if (phase === "covers" || phase === "all") {

@@ -20,13 +20,13 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 280
             },
             {
               "word": "sun",
               "charStart": 4,
               "charEnd": 7,
-              "startMs": 300,
+              "startMs": 280,
               "endMs": 540
             },
             {
@@ -34,14 +34,91 @@
               "charStart": 8,
               "charEnd": 10,
               "startMs": 540,
-              "endMs": 780
+              "endMs": 820
             },
             {
               "word": "up",
               "charStart": 11,
               "charEnd": 13,
-              "startMs": 780,
+              "startMs": 820,
               "endMs": 1020
+            }
+          ]
+        },
+        {
+          "text": "It is a new day.",
+          "translation_ko": "새로운 하루예요.",
+          "audio": "/seed/daily-1-good-morning/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "new",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "day",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1280
+            }
+          ]
+        },
+        {
+          "text": "I open my eyes.",
+          "translation_ko": "나는 눈을 떠요.",
+          "audio": "/seed/daily-1-good-morning/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "open",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 1060
+            },
+            {
+              "word": "eyes",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1480
             }
           ]
         }
@@ -59,28 +136,63 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 600
             },
             {
               "word": "morning",
               "charStart": 6,
               "charEnd": 13,
-              "startMs": 360,
-              "endMs": 820
+              "startMs": 600,
+              "endMs": 1000
             },
             {
               "word": "says",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1020,
-              "endMs": 1420
+              "startMs": 1240,
+              "endMs": 1660
             },
             {
               "word": "Mom",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1420,
-              "endMs": 1720
+              "startMs": 1660,
+              "endMs": 1960
+            }
+          ]
+        },
+        {
+          "text": "She smiles at me.",
+          "translation_ko": "엄마가 나에게 미소를 지어요.",
+          "audio": "/seed/daily-1-good-morning/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 960
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 960,
+              "endMs": 1140
+            },
+            {
+              "word": "me",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1140,
+              "endMs": 1320
             }
           ]
         }
@@ -98,21 +210,91 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 440
+              "endMs": 420
             },
             {
               "word": "morning",
               "charStart": 6,
               "charEnd": 13,
-              "startMs": 440,
-              "endMs": 860
+              "startMs": 420,
+              "endMs": 960
             },
             {
               "word": "Mom",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 1060,
-              "endMs": 1180
+              "startMs": 1280,
+              "endMs": 1380
+            }
+          ]
+        },
+        {
+          "text": "I give her a hug.",
+          "translation_ko": "나는 엄마에게 안겨요.",
+          "audio": "/seed/daily-1-good-morning/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "give",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "her",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 940,
+              "endMs": 1340
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1340,
+              "endMs": 1980
+            },
+            {
+              "word": "hug",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1980,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "I feel happy.",
+          "translation_ko": "기분이 좋아요.",
+          "audio": "/seed/daily-1-good-morning/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 560
+            },
+            {
+              "word": "happy",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 940
             }
           ]
         }
@@ -130,28 +312,105 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 780
             },
             {
               "word": "wash",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 360,
-              "endMs": 600
+              "startMs": 780,
+              "endMs": 1020
             },
             {
               "word": "my",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 600,
-              "endMs": 860
+              "startMs": 1020,
+              "endMs": 1300
             },
             {
               "word": "face",
               "charStart": 10,
               "charEnd": 14,
-              "startMs": 860,
-              "endMs": 1180
+              "startMs": 1300,
+              "endMs": 1620
+            }
+          ]
+        },
+        {
+          "text": "The water is cool.",
+          "translation_ko": "물이 시원해요.",
+          "audio": "/seed/daily-1-good-morning/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "water",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 920
+            },
+            {
+              "word": "cool",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1220
+            }
+          ]
+        },
+        {
+          "text": "I brush my teeth, too.",
+          "translation_ko": "양치질도 해요.",
+          "audio": "/seed/daily-1-good-morning/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "brush",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 420
+            },
+            {
+              "word": "my",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 720
+            },
+            {
+              "word": "teeth",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 940
+            },
+            {
+              "word": "too",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1260
             }
           ]
         }
@@ -169,28 +428,70 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 620
             },
             {
               "word": "eat",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 280,
-              "endMs": 520
+              "startMs": 620,
+              "endMs": 920
             },
             {
               "word": "my",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 520,
-              "endMs": 760
+              "startMs": 920,
+              "endMs": 1200
             },
             {
               "word": "breakfast",
               "charStart": 9,
               "charEnd": 18,
-              "startMs": 760,
-              "endMs": 1140
+              "startMs": 1200,
+              "endMs": 1600
+            }
+          ]
+        },
+        {
+          "text": "I have bread and milk.",
+          "translation_ko": "빵과 우유를 먹어요.",
+          "audio": "/seed/daily-1-good-morning/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "have",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "bread",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1440
+            },
+            {
+              "word": "milk",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1440
             }
           ]
         }
@@ -199,44 +500,114 @@
     {
       "sentences": [
         {
+          "text": "I put on my bag.",
+          "translation_ko": "나는 가방을 메요.",
+          "audio": "/seed/daily-1-good-morning/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "put",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 780,
+              "endMs": 960
+            },
+            {
+              "word": "on",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 960,
+              "endMs": 1160
+            },
+            {
+              "word": "my",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "bag",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1360,
+              "endMs": 1640
+            }
+          ]
+        },
+        {
           "text": "\"I am ready for school!\"",
           "translation_ko": "\"학교 갈 준비가 됐어요!\"",
-          "audio": "/seed/daily-1-good-morning/audio/p6-s1.mp3",
+          "audio": "/seed/daily-1-good-morning/audio/p6-s2.mp3",
           "wordTimings": [
             {
               "word": "I",
               "charStart": 1,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 320
             },
             {
               "word": "am",
               "charStart": 3,
               "charEnd": 5,
-              "startMs": 280,
-              "endMs": 520
+              "startMs": 320,
+              "endMs": 560
             },
             {
               "word": "ready",
               "charStart": 6,
               "charEnd": 11,
-              "startMs": 520,
-              "endMs": 740
+              "startMs": 560,
+              "endMs": 800
             },
             {
               "word": "for",
               "charStart": 12,
               "charEnd": 15,
-              "startMs": 740,
-              "endMs": 1140
+              "startMs": 800,
+              "endMs": 1100
             },
             {
               "word": "school",
               "charStart": 16,
               "charEnd": 22,
-              "startMs": 1140,
-              "endMs": 1360
+              "startMs": 1100,
+              "endMs": 1300
+            }
+          ]
+        },
+        {
+          "text": "Mom waves goodbye.",
+          "translation_ko": "엄마가 손을 흔들며 배웅해요.",
+          "audio": "/seed/daily-1-good-morning/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "waves",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "goodbye",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1400
             }
           ]
         }
@@ -270,16 +641,16 @@
       "explain_ko": "I wash my face — 얼굴을 씻었어요."
     },
     {
-      "question_ko": "아이는 무엇을 먹었나요?",
+      "question_ko": "아침 식사로 무엇을 먹었나요?",
       "type": "mc",
       "options": [
-        "점심",
-        "저녁",
-        "아침",
-        "간식"
+        "밥과 국",
+        "빵과 우유",
+        "과자와 주스",
+        "라면"
       ],
-      "answerIndex": 2,
-      "explain_ko": "breakfast는 아침 식사예요."
+      "answerIndex": 1,
+      "explain_ko": "bread and milk — 빵과 우유를 먹었어요."
     },
     {
       "question_ko": "마지막에 무엇을 할 준비가 됐나요?",

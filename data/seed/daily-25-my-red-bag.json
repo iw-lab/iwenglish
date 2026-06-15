@@ -27,13 +27,13 @@
               "charStart": 5,
               "charEnd": 7,
               "startMs": 320,
-              "endMs": 600
+              "endMs": 620
             },
             {
               "word": "my",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 600,
+              "startMs": 620,
               "endMs": 860
             },
             {
@@ -41,14 +41,56 @@
               "charStart": 11,
               "charEnd": 14,
               "startMs": 860,
-              "endMs": 1120
+              "endMs": 1160
             },
             {
               "word": "bag",
               "charStart": 15,
               "charEnd": 18,
-              "startMs": 1120,
-              "endMs": 1480
+              "startMs": 1160,
+              "endMs": 1600
+            }
+          ]
+        },
+        {
+          "text": "It is big and red.",
+          "translation_ko": "크고 빨간 가방이에요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "big",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1340,
+              "endMs": 1880
+            },
+            {
+              "word": "red",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1880,
+              "endMs": 2120
             }
           ]
         }
@@ -66,28 +108,63 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 520
+              "endMs": 200
             },
             {
               "word": "have",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 520,
-              "endMs": 1140
+              "startMs": 200,
+              "endMs": 420
             },
             {
               "word": "a",
               "charStart": 7,
               "charEnd": 8,
-              "startMs": 1140,
-              "endMs": 1720
+              "startMs": 420,
+              "endMs": 600
             },
             {
               "word": "book",
               "charStart": 9,
               "charEnd": 13,
-              "startMs": 1720,
-              "endMs": 1740
+              "startMs": 600,
+              "endMs": 820
+            }
+          ]
+        },
+        {
+          "text": "The book is blue.",
+          "translation_ko": "그 책은 파란색이에요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "book",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 1040
+            },
+            {
+              "word": "blue",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1320
             }
           ]
         }
@@ -105,13 +182,13 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 300
+              "endMs": 320
             },
             {
               "word": "have",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 300,
+              "startMs": 320,
               "endMs": 560
             },
             {
@@ -119,14 +196,56 @@
               "charStart": 7,
               "charEnd": 8,
               "startMs": 560,
-              "endMs": 920
+              "endMs": 900
             },
             {
               "word": "pencil",
               "charStart": 9,
               "charEnd": 15,
-              "startMs": 920,
+              "startMs": 900,
               "endMs": 1020
+            }
+          ]
+        },
+        {
+          "text": "It is long and yellow.",
+          "translation_ko": "길고 노란 연필이에요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 180,
+              "endMs": 500
+            },
+            {
+              "word": "long",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1300
+            },
+            {
+              "word": "yellow",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1520
             }
           ]
         }
@@ -144,28 +263,105 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 260
             },
             {
               "word": "have",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 220,
-              "endMs": 420
+              "startMs": 260,
+              "endMs": 460
             },
             {
               "word": "a",
               "charStart": 7,
               "charEnd": 8,
-              "startMs": 420,
-              "endMs": 620
+              "startMs": 460,
+              "endMs": 660
             },
             {
               "word": "snack",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 620,
-              "endMs": 940
+              "startMs": 660,
+              "endMs": 980
+            }
+          ]
+        },
+        {
+          "text": "It is a small cookie.",
+          "translation_ko": "작은 쿠키예요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 580,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 740,
+              "endMs": 920
+            },
+            {
+              "word": "small",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "cookie",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1480
+            }
+          ]
+        },
+        {
+          "text": "Yum! I love cookies.",
+          "translation_ko": "냠냠! 나는 쿠키가 좋아요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Yum",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "love",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1480,
+              "endMs": 1860
+            },
+            {
+              "word": "cookies",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1860,
+              "endMs": 2160
             }
           ]
         }
@@ -183,13 +379,13 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 240
             },
             {
               "word": "bag",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 280,
+              "startMs": 240,
               "endMs": 600
             },
             {
@@ -197,21 +393,91 @@
               "charStart": 7,
               "charEnd": 9,
               "startMs": 600,
-              "endMs": 820
+              "endMs": 900
             },
             {
               "word": "not",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 820,
-              "endMs": 1040
+              "startMs": 900,
+              "endMs": 1200
             },
             {
               "word": "heavy",
               "charStart": 14,
               "charEnd": 19,
-              "startMs": 1040,
-              "endMs": 1240
+              "startMs": 1200,
+              "endMs": 1440
+            }
+          ]
+        },
+        {
+          "text": "It is light.",
+          "translation_ko": "가볍거든요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 220,
+              "endMs": 400
+            },
+            {
+              "word": "light",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 720
+            }
+          ]
+        },
+        {
+          "text": "I can carry it well.",
+          "translation_ko": "나는 잘 들고 다닐 수 있어요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "can",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "carry",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "well",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1420
             }
           ]
         }
@@ -229,35 +495,84 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 400
+              "endMs": 300
             },
             {
               "word": "am",
               "charStart": 2,
               "charEnd": 4,
-              "startMs": 400,
-              "endMs": 760
+              "startMs": 300,
+              "endMs": 540
             },
             {
               "word": "ready",
               "charStart": 5,
               "charEnd": 10,
-              "startMs": 760,
-              "endMs": 1080
+              "startMs": 540,
+              "endMs": 780
             },
             {
               "word": "for",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 1080,
-              "endMs": 1520
+              "startMs": 780,
+              "endMs": 1180
             },
             {
               "word": "school",
               "charStart": 15,
               "charEnd": 21,
-              "startMs": 1520,
-              "endMs": 1720
+              "startMs": 1180,
+              "endMs": 1380
+            }
+          ]
+        },
+        {
+          "text": "My bag has everything I need.",
+          "translation_ko": "내 가방에는 필요한 게 다 들어 있어요.",
+          "audio": "/seed/daily-25-my-red-bag/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "bag",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "has",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 880
+            },
+            {
+              "word": "everything",
+              "charStart": 11,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1280
+            },
+            {
+              "word": "I",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "need",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1760
             }
           ]
         }
@@ -279,16 +594,16 @@
       "explain_ko": "red bag은 빨간 가방이에요."
     },
     {
-      "question_ko": "가방 안에 무엇이 있었나요?",
+      "question_ko": "책은 무슨 색인가요?",
       "type": "mc",
       "options": [
-        "책",
-        "모자",
-        "신발",
-        "컵"
+        "빨강",
+        "파랑",
+        "노랑",
+        "초록"
       ],
-      "answerIndex": 0,
-      "explain_ko": "I have a book."
+      "answerIndex": 1,
+      "explain_ko": "The book is blue. 책은 파란색이에요."
     },
     {
       "question_ko": "연필은 영어로 무엇인가요?",
@@ -315,16 +630,16 @@
       "explain_ko": "not heavy는 무겁지 않다는 뜻이에요."
     },
     {
-      "question_ko": "나는 어디 갈 준비가 됐나요?",
+      "question_ko": "가방 안에 있던 간식은 무엇인가요?",
       "type": "mc",
       "options": [
-        "학교",
-        "공원",
-        "병원",
-        "가게"
+        "사탕",
+        "쿠키",
+        "빵",
+        "과자"
       ],
-      "answerIndex": 0,
-      "explain_ko": "ready for school — 학교 갈 준비예요."
+      "answerIndex": 1,
+      "explain_ko": "It is a small cookie. 작은 쿠키예요."
     }
   ]
 }

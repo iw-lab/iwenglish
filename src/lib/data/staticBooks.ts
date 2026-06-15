@@ -1,31 +1,17 @@
 import type {
   Book,
-  BookPage,
   BookSummary,
   CefrLevel,
   AgeBand,
-  QuizQuestion,
-  Sentence,
   Word,
 } from "@/types/book";
 
 /**
  * 키 없이 동작하는 정적 콘텐츠 로더.
- * data/seed/*.json (텍스트) + public/seed/{slug}/*.png (일러스트) 를 읽어
- * Supabase 미설정 시 서재/리더에 실제 책을 공급한다.
+ * 메타데이터만 인라인(content.generated.ts). 책 본문(pages 등)은
+ * public/seed/<slug>/book.json 정적 자산으로 분리 → 리더가 런타임 fetch(ReaderLoader).
  */
 
-export interface SeedSentence {
-  text: string;
-  translation_ko: string;
-  /** 시드 타임 생성된 음성 파일 공개 경로 (없으면 Web Speech 폴백) */
-  audio?: string;
-  /** 카라오케용 단어 타임스탬프 (음성과 함께 생성) */
-  wordTimings?: import("@/types/book").WordTiming[];
-}
-export interface SeedPage {
-  sentences: SeedSentence[];
-}
 export interface SeedWord {
   ipa: string;
   pos: string;
@@ -34,63 +20,32 @@ export interface SeedWord {
   example_ko: string;
   audioUrl?: string;
 }
-export interface SeedBook {
+
+/** 워커 인라인 메타 (본문 제외) */
+export interface BookMeta {
+  id: string;
   slug: string;
   title: string;
   title_ko: string;
   level: CefrLevel;
   ageBand: AgeBand;
+  coverUrl: string;
   summary_ko: string;
+  wordCount: number;
   stage?: number;
   collection?: string;
-  pages: SeedPage[];
+  pageCount: number;
+  quizCount: number;
   words: Record<string, SeedWord>;
-  quiz: Omit<QuizQuestion, "id" | "ord">[];
 }
 
-// 빌드 타임 인라인 콘텐츠(런타임 fs 불필요 = Edge 호환). prebuild 로 생성.
-import { SEED_BOOKS, SHARED_DICT, ASSET_SET } from "@/data/content.generated";
+import { SEED_BOOKS_META, SHARED_DICT } from "@/data/content.generated";
 
-function loadAll(): SeedBook[] {
-  return SEED_BOOKS;
+function loadMeta(): BookMeta[] {
+  return SEED_BOOKS_META;
 }
 
-/** 자산이 있으면 공개 경로, 없으면 "" (그라데이션 폴백) */
-function img(slug: string, file: string): string {
-  const rel = `/seed/${slug}/${file}`;
-  return ASSET_SET.has(rel) ? rel : "";
-}
-
-function wordCount(b: SeedBook): number {
-  return b.pages.reduce(
-    (sum, p) =>
-      sum +
-      p.sentences.reduce(
-        (s, sen) => s + (sen.text.match(/[A-Za-z']+/g)?.length ?? 0),
-        0,
-      ),
-    0,
-  );
-}
-
-function toBook(b: SeedBook): Book {
-  const pages: BookPage[] = b.pages.map((p, pi) => ({
-    id: `${b.slug}-p${pi + 1}`,
-    pageNo: pi + 1,
-    spread: `p${pi + 1}`,
-    imageUrl: img(b.slug, `p${pi + 1}.webp`) || img(b.slug, `p${pi + 1}.png`),
-    sentences: p.sentences.map((s, si): Sentence => {
-      const audioExists = s.audio && ASSET_SET.has(s.audio);
-      return {
-        id: `${b.slug}-p${pi + 1}-s${si + 1}`,
-        ord: si,
-        text: s.text,
-        translation_ko: s.translation_ko,
-        audioUrl: audioExists ? s.audio! : null, // 있으면 mp3, 없으면 Web Speech 폴백
-        wordTimings: s.wordTimings ?? [],
-      };
-    }),
-  }));
+function toSummary(b: BookMeta): BookSummary {
   return {
     id: b.slug,
     slug: b.slug,
@@ -98,40 +53,49 @@ function toBook(b: SeedBook): Book {
     title_ko: b.title_ko,
     level: b.level,
     ageBand: b.ageBand,
-    coverUrl: img(b.slug, "cover.webp") || img(b.slug, "cover.png"),
+    coverUrl: b.coverUrl,
     summary_ko: b.summary_ko,
-    wordCount: wordCount(b),
+    wordCount: b.wordCount,
     stage: b.stage,
     collection: b.collection,
-    pages,
-    quiz: b.quiz.map((q, i) => ({ ...q, id: `${b.slug}-q${i + 1}`, ord: i })),
+    pageCount: b.pageCount,
+    quizCount: b.quizCount,
   };
 }
 
 export function getStaticBooks(): BookSummary[] {
-  return loadAll().map((b) => ({
+  return loadMeta().map(toSummary);
+}
+
+/** 책 1권 메타 (서재 상세용 — 본문은 book.json) */
+export function getStaticBookMeta(slug: string): BookSummary | null {
+  const b = loadMeta().find((x) => x.slug === slug);
+  return b ? toSummary(b) : null;
+}
+
+/**
+ * 본문 포함 Book — 본문은 이제 인라인이 아니라 book.json 에 있으므로
+ * 정적 경로에서는 메타+빈 본문만 반환(리더는 ReaderLoader 가 fetch).
+ * Supabase 경로(books.ts)와의 타입 호환을 위해 유지.
+ */
+export function getStaticBook(slug: string): Book | null {
+  const b = loadMeta().find((x) => x.slug === slug);
+  if (!b) return null;
+  return {
     id: b.slug,
     slug: b.slug,
     title: b.title,
     title_ko: b.title_ko,
     level: b.level,
     ageBand: b.ageBand,
-    coverUrl: img(b.slug, "cover.webp") || img(b.slug, "cover.png"),
+    coverUrl: b.coverUrl,
     summary_ko: b.summary_ko,
-    wordCount: wordCount(b),
+    wordCount: b.wordCount,
     stage: b.stage,
     collection: b.collection,
-  }));
-}
-
-export function getStaticBook(slug: string): Book | null {
-  const b = loadAll().find((x) => x.slug === slug);
-  return b ? toBook(b) : null;
-}
-
-/** 전 책 공유 사전 (빌드 타임 인라인) — 기능어 포함 모든 단어 */
-function loadSharedDict(): Record<string, SeedWord> {
-  return SHARED_DICT;
+    pages: [],
+    quiz: [],
+  };
 }
 
 /** 단어의 로컬 발음 mp3 경로 (없으면 "") — /api/word 에서 사용 */
@@ -151,13 +115,11 @@ export function getStaticWord(key: string): Word | null {
     example_ko: w.example_ko,
     audioUrl: w.audioUrl ?? "",
   });
-  // ① 책에 손으로 넣은 핵심단어(더 정확) 우선
-  for (const b of loadAll()) {
+  for (const b of loadMeta()) {
     const w = b.words?.[key];
     if (w) return toWord(w);
   }
-  // ② 전 책 공유 사전(기능어 등 전체)
-  const shared = loadSharedDict()[key];
+  const shared = SHARED_DICT[key];
   if (shared) return toWord(shared);
   return null;
 }

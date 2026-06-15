@@ -1,0 +1,2510 @@
+{
+  "slug": "daily-136-the-volunteer-week",
+  "title": "The Volunteer Week",
+  "title_ko": "봉사 주간",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 선생님의 제안으로 일주일 동안 다양한 봉사 활동을 경험하며 함께 돕는 것의 의미를 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "On Monday morning, Ms. Park smiled at the class.",
+          "translation_ko": "월요일 아침, 박 선생님이 학급을 향해 미소 지었어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "Monday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "morning",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "Ms",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1540
+            },
+            {
+              "word": "Park",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1880
+            },
+            {
+              "word": "smiled",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2420
+            },
+            {
+              "word": "at",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2420,
+              "endMs": 2600
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 2740
+            },
+            {
+              "word": "class",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2740,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "\"This week is Volunteer Week. Each day, we will help someone new.\"",
+          "translation_ko": "\"이번 주는 봉사 주간이에요. 매일 새로운 누군가를 도울 거예요.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "week",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "Volunteer",
+              "charStart": 14,
+              "charEnd": 23,
+              "startMs": 900,
+              "endMs": 1420
+            },
+            {
+              "word": "Week",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "Each",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2240,
+              "endMs": 2360
+            },
+            {
+              "word": "day",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2360,
+              "endMs": 2680
+            },
+            {
+              "word": "we",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2860,
+              "endMs": 2920
+            },
+            {
+              "word": "will",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2920,
+              "endMs": 3100
+            },
+            {
+              "word": "help",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3340
+            },
+            {
+              "word": "someone",
+              "charStart": 53,
+              "charEnd": 60,
+              "startMs": 3340,
+              "endMs": 3620
+            },
+            {
+              "word": "new",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 3620,
+              "endMs": 3880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She wrote on the board: pick up litter, visit seniors, plant flowers, sort donations, and make cards.",
+          "translation_ko": "선생님은 칠판에 적으셨어요. 쓰레기 줍기, 어르신 방문, 꽃 심기, 기부 물품 분류, 카드 만들기였어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "on",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 740,
+              "endMs": 820
+            },
+            {
+              "word": "board",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "pick",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1620
+            },
+            {
+              "word": "up",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1620,
+              "endMs": 1840
+            },
+            {
+              "word": "litter",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1840,
+              "endMs": 2000
+            },
+            {
+              "word": "visit",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2740,
+              "endMs": 2740
+            },
+            {
+              "word": "seniors",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 2740,
+              "endMs": 3180
+            },
+            {
+              "word": "plant",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3720,
+              "endMs": 3800
+            },
+            {
+              "word": "flowers",
+              "charStart": 61,
+              "charEnd": 68,
+              "startMs": 3800,
+              "endMs": 4180
+            },
+            {
+              "word": "sort",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4760,
+              "endMs": 4840
+            },
+            {
+              "word": "donations",
+              "charStart": 75,
+              "charEnd": 84,
+              "startMs": 4840,
+              "endMs": 5280
+            },
+            {
+              "word": "and",
+              "charStart": 86,
+              "charEnd": 89,
+              "startMs": 5780,
+              "endMs": 5880
+            },
+            {
+              "word": "make",
+              "charStart": 90,
+              "charEnd": 94,
+              "startMs": 5880,
+              "endMs": 6100
+            },
+            {
+              "word": "cards",
+              "charStart": 95,
+              "charEnd": 100,
+              "startMs": 6100,
+              "endMs": 6380
+            }
+          ]
+        },
+        {
+          "text": "\"One activity each day,\" she explained. Jun and Mina exchanged excited looks.",
+          "translation_ko": "\"매일 한 가지씩이에요.\" 선생님이 설명하셨어요. 준과 미나는 눈을 마주치며 설레어 했어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "activity",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 400,
+              "endMs": 920
+            },
+            {
+              "word": "each",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 920,
+              "endMs": 1300
+            },
+            {
+              "word": "day",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1600
+            },
+            {
+              "word": "she",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1880,
+              "endMs": 2000
+            },
+            {
+              "word": "explained",
+              "charStart": 29,
+              "charEnd": 38,
+              "startMs": 2000,
+              "endMs": 2520
+            },
+            {
+              "word": "Jun",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 3380,
+              "endMs": 3380
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3380,
+              "endMs": 3540
+            },
+            {
+              "word": "Mina",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3540,
+              "endMs": 3740
+            },
+            {
+              "word": "exchanged",
+              "charStart": 53,
+              "charEnd": 62,
+              "startMs": 3740,
+              "endMs": 4320
+            },
+            {
+              "word": "excited",
+              "charStart": 63,
+              "charEnd": 70,
+              "startMs": 4320,
+              "endMs": 4800
+            },
+            {
+              "word": "looks",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 4800,
+              "endMs": 5140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Monday afternoon, the class wore gloves and went to the nearby park.",
+          "translation_ko": "월요일 오후, 학급은 장갑을 끼고 공원으로 나갔어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Monday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 800
+            },
+            {
+              "word": "afternoon",
+              "charStart": 10,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "class",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1980,
+              "endMs": 2320
+            },
+            {
+              "word": "wore",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2320,
+              "endMs": 2680
+            },
+            {
+              "word": "gloves",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 3080
+            },
+            {
+              "word": "and",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3080,
+              "endMs": 3660
+            },
+            {
+              "word": "went",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3660,
+              "endMs": 3760
+            },
+            {
+              "word": "to",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3760,
+              "endMs": 3900
+            },
+            {
+              "word": "the",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3900,
+              "endMs": 4180
+            },
+            {
+              "word": "nearby",
+              "charStart": 59,
+              "charEnd": 65,
+              "startMs": 4180,
+              "endMs": 4360
+            },
+            {
+              "word": "park",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 4360,
+              "endMs": 4740
+            }
+          ]
+        },
+        {
+          "text": "Jun found cans behind a bench, and Mina picked up wrappers from the flower beds.",
+          "translation_ko": "준은 벤치 뒤에서 빈 캔들을 찾았고, 미나는 화단에서 포장지를 주웠어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "found",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 920
+            },
+            {
+              "word": "cans",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1280
+            },
+            {
+              "word": "behind",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1640
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "bench",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1820,
+              "endMs": 2160
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2660
+            },
+            {
+              "word": "Mina",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2660,
+              "endMs": 2960
+            },
+            {
+              "word": "picked",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2960,
+              "endMs": 3020
+            },
+            {
+              "word": "up",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3020,
+              "endMs": 3280
+            },
+            {
+              "word": "wrappers",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 3280,
+              "endMs": 3560
+            },
+            {
+              "word": "from",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3560,
+              "endMs": 3840
+            },
+            {
+              "word": "the",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3840,
+              "endMs": 4220
+            },
+            {
+              "word": "flower",
+              "charStart": 68,
+              "charEnd": 74,
+              "startMs": 4220,
+              "endMs": 4220
+            },
+            {
+              "word": "beds",
+              "charStart": 75,
+              "charEnd": 79,
+              "startMs": 4220,
+              "endMs": 4500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I didn't know the park had so much trash,\" Mina said, looking at her full bag.",
+          "translation_ko": "\"공원에 이렇게 쓰레기가 많은 줄 몰랐어.\" 미나가 가득 찬 봉투를 보며 말했어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "didn't",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 640
+            },
+            {
+              "word": "know",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 640,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 820,
+              "endMs": 1020
+            },
+            {
+              "word": "park",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "had",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "so",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "much",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "trash",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2040,
+              "endMs": 2460
+            },
+            {
+              "word": "Mina",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3040,
+              "endMs": 3080
+            },
+            {
+              "word": "said",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3080,
+              "endMs": 3400
+            },
+            {
+              "word": "looking",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 3880,
+              "endMs": 3880
+            },
+            {
+              "word": "at",
+              "charStart": 63,
+              "charEnd": 65,
+              "startMs": 3880,
+              "endMs": 4060
+            },
+            {
+              "word": "her",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 4060,
+              "endMs": 4220
+            },
+            {
+              "word": "full",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4220,
+              "endMs": 4480
+            },
+            {
+              "word": "bag",
+              "charStart": 75,
+              "charEnd": 78,
+              "startMs": 4480,
+              "endMs": 4780
+            }
+          ]
+        },
+        {
+          "text": "Jun smiled. \"Now it's cleaner because of us.\"",
+          "translation_ko": "준이 웃었어요. \"이제 우리 덕분에 더 깨끗해졌잖아.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 1080
+            },
+            {
+              "word": "Now",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1600,
+              "endMs": 1760
+            },
+            {
+              "word": "it's",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "cleaner",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 2040,
+              "endMs": 2300
+            },
+            {
+              "word": "because",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2760
+            },
+            {
+              "word": "of",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2760,
+              "endMs": 2940
+            },
+            {
+              "word": "us",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Tuesday, the class visited the elderly center down the street.",
+          "translation_ko": "화요일에는 학급 전체가 길 아래 노인 센터를 방문했어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "Tuesday",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 640
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1200
+            },
+            {
+              "word": "class",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1500
+            },
+            {
+              "word": "visited",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "elderly",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2120,
+              "endMs": 2460
+            },
+            {
+              "word": "center",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2460,
+              "endMs": 2840
+            },
+            {
+              "word": "down",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2840,
+              "endMs": 3100
+            },
+            {
+              "word": "the",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3100,
+              "endMs": 3300
+            },
+            {
+              "word": "street",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3300,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "Jun listened to Mr. Choi's childhood stories, and Mina helped a grandmother solve a word puzzle.",
+          "translation_ko": "준은 최 할아버지의 어린 시절 이야기를 들었고, 미나는 한 할머니가 낱말 퍼즐을 푸는 것을 도왔어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "listened",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1020
+            },
+            {
+              "word": "Mr",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "Choi's",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1500,
+              "endMs": 1840
+            },
+            {
+              "word": "childhood",
+              "charStart": 27,
+              "charEnd": 36,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "stories",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2200,
+              "endMs": 2720
+            },
+            {
+              "word": "and",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3100,
+              "endMs": 3180
+            },
+            {
+              "word": "Mina",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3180,
+              "endMs": 3360
+            },
+            {
+              "word": "helped",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3360,
+              "endMs": 3620
+            },
+            {
+              "word": "a",
+              "charStart": 62,
+              "charEnd": 63,
+              "startMs": 3620,
+              "endMs": 3820
+            },
+            {
+              "word": "grandmother",
+              "charStart": 64,
+              "charEnd": 75,
+              "startMs": 3820,
+              "endMs": 4140
+            },
+            {
+              "word": "solve",
+              "charStart": 76,
+              "charEnd": 81,
+              "startMs": 4140,
+              "endMs": 4460
+            },
+            {
+              "word": "a",
+              "charStart": 82,
+              "charEnd": 83,
+              "startMs": 4460,
+              "endMs": 4800
+            },
+            {
+              "word": "word",
+              "charStart": 84,
+              "charEnd": 88,
+              "startMs": 4800,
+              "endMs": 4880
+            },
+            {
+              "word": "puzzle",
+              "charStart": 89,
+              "charEnd": 95,
+              "startMs": 4880,
+              "endMs": 5120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Before leaving, Mr. Choi held Jun's hand.",
+          "translation_ko": "떠나기 전, 최 할아버지가 준의 손을 잡으셨어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Before",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "leaving",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 960
+            },
+            {
+              "word": "Mr",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "Choi",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2080,
+              "endMs": 2100
+            },
+            {
+              "word": "held",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2100,
+              "endMs": 2500
+            },
+            {
+              "word": "Jun's",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2500,
+              "endMs": 3100
+            },
+            {
+              "word": "hand",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3100,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "\"It gets lonely here,\" he said softly. \"Your visit meant more than you know.\"",
+          "translation_ko": "\"여기선 가끔 많이 외롭단다.\" 할아버지가 조용히 말씀하셨어요. \"네가 와줘서 정말 큰 위로가 됐어.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "gets",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 500
+            },
+            {
+              "word": "lonely",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 500,
+              "endMs": 920
+            },
+            {
+              "word": "here",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1920
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2060,
+              "endMs": 2280
+            },
+            {
+              "word": "softly",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2800
+            },
+            {
+              "word": "Your",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3360,
+              "endMs": 3620
+            },
+            {
+              "word": "visit",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3620,
+              "endMs": 3920
+            },
+            {
+              "word": "meant",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3920,
+              "endMs": 4180
+            },
+            {
+              "word": "more",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 4180,
+              "endMs": 4500
+            },
+            {
+              "word": "than",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 4500,
+              "endMs": 4660
+            },
+            {
+              "word": "you",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 4660,
+              "endMs": 4880
+            },
+            {
+              "word": "know",
+              "charStart": 71,
+              "charEnd": 75,
+              "startMs": 4880,
+              "endMs": 5080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Wednesday was flower-planting day at the school garden.",
+          "translation_ko": "수요일은 학교 정원에서 꽃을 심는 날이었어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Wednesday",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 30,
+              "endMs": 632
+            },
+            {
+              "word": "was",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 632,
+              "endMs": 874
+            },
+            {
+              "word": "flower-planting",
+              "charStart": 14,
+              "charEnd": 29,
+              "startMs": 874,
+              "endMs": 1656
+            },
+            {
+              "word": "day",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1656,
+              "endMs": 1898
+            },
+            {
+              "word": "at",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1898,
+              "endMs": 2141
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2141,
+              "endMs": 2384
+            },
+            {
+              "word": "school",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2384,
+              "endMs": 2626
+            },
+            {
+              "word": "garden",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 2626,
+              "endMs": 3210
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park handed out marigold seedlings. \"These will bloom for months, so future students can enjoy them, too.\"",
+          "translation_ko": "박 선생님이 메리골드 모종을 나눠 주셨어요. \"이 꽃들은 몇 달 동안 필 거예요. 나중에 오는 학생들도 즐길 수 있어요.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 960,
+              "endMs": 1080
+            },
+            {
+              "word": "handed",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "out",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "marigold",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 2020
+            },
+            {
+              "word": "seedlings",
+              "charStart": 29,
+              "charEnd": 38,
+              "startMs": 2020,
+              "endMs": 2500
+            },
+            {
+              "word": "These",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3380,
+              "endMs": 3400
+            },
+            {
+              "word": "will",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3400,
+              "endMs": 3600
+            },
+            {
+              "word": "bloom",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3600,
+              "endMs": 3740
+            },
+            {
+              "word": "for",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 3740,
+              "endMs": 4300
+            },
+            {
+              "word": "months",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 4300,
+              "endMs": 4300
+            },
+            {
+              "word": "so",
+              "charStart": 70,
+              "charEnd": 72,
+              "startMs": 4680,
+              "endMs": 4860
+            },
+            {
+              "word": "future",
+              "charStart": 73,
+              "charEnd": 79,
+              "startMs": 4860,
+              "endMs": 5160
+            },
+            {
+              "word": "students",
+              "charStart": 80,
+              "charEnd": 88,
+              "startMs": 5160,
+              "endMs": 5480
+            },
+            {
+              "word": "can",
+              "charStart": 89,
+              "charEnd": 92,
+              "startMs": 5480,
+              "endMs": 5720
+            },
+            {
+              "word": "enjoy",
+              "charStart": 93,
+              "charEnd": 98,
+              "startMs": 5720,
+              "endMs": 5940
+            },
+            {
+              "word": "them",
+              "charStart": 99,
+              "charEnd": 103,
+              "startMs": 5940,
+              "endMs": 6140
+            },
+            {
+              "word": "too",
+              "charStart": 105,
+              "charEnd": 108,
+              "startMs": 6140,
+              "endMs": 6400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina patted the soil around her seedling and said, \"I'm planting this for someone I'll never meet.\"",
+          "translation_ko": "미나는 모종 주위의 흙을 꼭꼭 눌러 주며 말했어요. \"나는 만나지도 못할 누군가를 위해 이걸 심고 있는 거잖아.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "patted",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "soil",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1520
+            },
+            {
+              "word": "around",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1880
+            },
+            {
+              "word": "her",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "seedling",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 2140,
+              "endMs": 2480
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2480,
+              "endMs": 2740
+            },
+            {
+              "word": "said",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2740,
+              "endMs": 2880
+            },
+            {
+              "word": "I'm",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3400,
+              "endMs": 3560
+            },
+            {
+              "word": "planting",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 3560,
+              "endMs": 3840
+            },
+            {
+              "word": "this",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 3840,
+              "endMs": 4260
+            },
+            {
+              "word": "for",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 4260,
+              "endMs": 4600
+            },
+            {
+              "word": "someone",
+              "charStart": 74,
+              "charEnd": 81,
+              "startMs": 4600,
+              "endMs": 4880
+            },
+            {
+              "word": "I'll",
+              "charStart": 82,
+              "charEnd": 86,
+              "startMs": 4880,
+              "endMs": 5200
+            },
+            {
+              "word": "never",
+              "charStart": 87,
+              "charEnd": 92,
+              "startMs": 5200,
+              "endMs": 5380
+            },
+            {
+              "word": "meet",
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 5380,
+              "endMs": 5700
+            }
+          ]
+        },
+        {
+          "text": "Jun nodded. \"That's what makes it special.\"",
+          "translation_ko": "준이 고개를 끄덕였어요. \"그래서 더 특별한 거야.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 920
+            },
+            {
+              "word": "That's",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1500,
+              "endMs": 1900
+            },
+            {
+              "word": "what",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "makes",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "it",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2320,
+              "endMs": 2540
+            },
+            {
+              "word": "special",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2540,
+              "endMs": 2860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Thursday, the class sorted donated books and clothes.",
+          "translation_ko": "목요일에는 기부된 책과 옷을 분류했어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "Thursday",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1160
+            },
+            {
+              "word": "class",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "sorted",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "donated",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 1700,
+              "endMs": 2200
+            },
+            {
+              "word": "books",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2520,
+              "endMs": 2840
+            },
+            {
+              "word": "clothes",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 2840,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "Jun found an old picture book with a faded cover. \"I had this exact book when I was little!\"",
+          "translation_ko": "준은 표지가 바랜 낡은 그림책을 발견했어요. \"나도 어릴 때 이 책 있었어!\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "found",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "an",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 940
+            },
+            {
+              "word": "old",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "picture",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "book",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "with",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1720,
+              "endMs": 1880
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "faded",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2180,
+              "endMs": 2320
+            },
+            {
+              "word": "cover",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2320,
+              "endMs": 2640
+            },
+            {
+              "word": "I",
+              "charStart": 51,
+              "charEnd": 52,
+              "startMs": 3460,
+              "endMs": 3480
+            },
+            {
+              "word": "had",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3480,
+              "endMs": 3660
+            },
+            {
+              "word": "this",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3660,
+              "endMs": 3860
+            },
+            {
+              "word": "exact",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 3860,
+              "endMs": 4320
+            },
+            {
+              "word": "book",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4320,
+              "endMs": 4600
+            },
+            {
+              "word": "when",
+              "charStart": 73,
+              "charEnd": 77,
+              "startMs": 4600,
+              "endMs": 4740
+            },
+            {
+              "word": "I",
+              "charStart": 78,
+              "charEnd": 79,
+              "startMs": 4740,
+              "endMs": 4880
+            },
+            {
+              "word": "was",
+              "charStart": 80,
+              "charEnd": 83,
+              "startMs": 4880,
+              "endMs": 5080
+            },
+            {
+              "word": "little",
+              "charStart": 84,
+              "charEnd": 90,
+              "startMs": 5080,
+              "endMs": 5280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina grinned. \"Now another kid will love it just as much as you did.\"",
+          "translation_ko": "미나가 씩 웃었어요. \"이제 다른 아이가 너처럼 이 책을 사랑하게 될 거야.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "grinned",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 1060
+            },
+            {
+              "word": "Now",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "another",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "kid",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2000,
+              "endMs": 2300
+            },
+            {
+              "word": "will",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2300,
+              "endMs": 2500
+            },
+            {
+              "word": "love",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2500,
+              "endMs": 2660
+            },
+            {
+              "word": "it",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2660,
+              "endMs": 2840
+            },
+            {
+              "word": "just",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2840,
+              "endMs": 3120
+            },
+            {
+              "word": "as",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3120,
+              "endMs": 3360
+            },
+            {
+              "word": "much",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3360,
+              "endMs": 3440
+            },
+            {
+              "word": "as",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3440,
+              "endMs": 3600
+            },
+            {
+              "word": "you",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3600,
+              "endMs": 3760
+            },
+            {
+              "word": "did",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3760,
+              "endMs": 3960
+            }
+          ]
+        },
+        {
+          "text": "They worked quietly, knowing the items would go to families who needed them.",
+          "translation_ko": "두 사람은 물건들이 필요한 가정으로 가게 될 것을 알면서 조용히 일했어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "worked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "quietly",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 560,
+              "endMs": 1160
+            },
+            {
+              "word": "knowing",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1740,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "items",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "would",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "go",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2540,
+              "endMs": 2660
+            },
+            {
+              "word": "to",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2660,
+              "endMs": 2940
+            },
+            {
+              "word": "families",
+              "charStart": 51,
+              "charEnd": 59,
+              "startMs": 2940,
+              "endMs": 3180
+            },
+            {
+              "word": "who",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3180,
+              "endMs": 3460
+            },
+            {
+              "word": "needed",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 3460,
+              "endMs": 3620
+            },
+            {
+              "word": "them",
+              "charStart": 71,
+              "charEnd": 75,
+              "startMs": 3620,
+              "endMs": 3900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Friday, the class made cards for hospital patients.",
+          "translation_ko": "금요일에는 병원 환자들을 위해 카드를 만들었어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "Friday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1040,
+              "endMs": 1180
+            },
+            {
+              "word": "class",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "made",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "cards",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "for",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2420
+            },
+            {
+              "word": "hospital",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2420,
+              "endMs": 2780
+            },
+            {
+              "word": "patients",
+              "charStart": 45,
+              "charEnd": 53,
+              "startMs": 2780,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "Jun drew a sun and wrote, \"Get well soon. You are not alone.\" Mina drew a rainbow and wrote, \"Keep going.\"",
+          "translation_ko": "준은 태양을 그리고 썼어요. \"빨리 나으세요. 당신은 혼자가 아니에요.\" 미나는 무지개를 그리고 썼어요. \"힘내세요.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "drew",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "sun",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1800
+            },
+            {
+              "word": "wrote",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "Get",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2860,
+              "endMs": 2960
+            },
+            {
+              "word": "well",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2960,
+              "endMs": 3340
+            },
+            {
+              "word": "soon",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3340,
+              "endMs": 3680
+            },
+            {
+              "word": "You",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 4400,
+              "endMs": 4460
+            },
+            {
+              "word": "are",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 4460,
+              "endMs": 4660
+            },
+            {
+              "word": "not",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 4660,
+              "endMs": 4980
+            },
+            {
+              "word": "alone",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 4980,
+              "endMs": 5320
+            },
+            {
+              "word": "Mina",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 6140,
+              "endMs": 6160
+            },
+            {
+              "word": "drew",
+              "charStart": 67,
+              "charEnd": 71,
+              "startMs": 6160,
+              "endMs": 6360
+            },
+            {
+              "word": "a",
+              "charStart": 72,
+              "charEnd": 73,
+              "startMs": 6360,
+              "endMs": 6840
+            },
+            {
+              "word": "rainbow",
+              "charStart": 74,
+              "charEnd": 81,
+              "startMs": 6840,
+              "endMs": 6840
+            },
+            {
+              "word": "and",
+              "charStart": 82,
+              "charEnd": 85,
+              "startMs": 6840,
+              "endMs": 7400
+            },
+            {
+              "word": "wrote",
+              "charStart": 86,
+              "charEnd": 91,
+              "startMs": 7400,
+              "endMs": 7400
+            },
+            {
+              "word": "Keep",
+              "charStart": 94,
+              "charEnd": 98,
+              "startMs": 8200,
+              "endMs": 8240
+            },
+            {
+              "word": "going",
+              "charStart": 99,
+              "charEnd": 104,
+              "startMs": 8240,
+              "endMs": 8660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Friday afternoon, Ms. Park asked everyone to share what they had learned.",
+          "translation_ko": "금요일 오후, 박 선생님이 모두에게 배운 점을 나눠 달라고 하셨어요.",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "Friday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "afternoon",
+              "charStart": 10,
+              "charEnd": 19,
+              "startMs": 540,
+              "endMs": 1140
+            },
+            {
+              "word": "Ms",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "Park",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2000
+            },
+            {
+              "word": "asked",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2360
+            },
+            {
+              "word": "everyone",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2360,
+              "endMs": 2800
+            },
+            {
+              "word": "to",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2800,
+              "endMs": 3040
+            },
+            {
+              "word": "share",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3040,
+              "endMs": 3240
+            },
+            {
+              "word": "what",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3240,
+              "endMs": 3400
+            },
+            {
+              "word": "they",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3400,
+              "endMs": 3540
+            },
+            {
+              "word": "had",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3540,
+              "endMs": 3740
+            },
+            {
+              "word": "learned",
+              "charStart": 68,
+              "charEnd": 75,
+              "startMs": 3740,
+              "endMs": 4000
+            }
+          ]
+        },
+        {
+          "text": "Mina said, \"Giving time is more powerful than giving things.\" Jun added, \"Helping together makes hard work feel light.\"",
+          "translation_ko": "미나가 말했어요. \"시간을 내어 주는 것이 물건을 주는 것보다 강력해요.\" 준이 덧붙였어요. \"함께 도우면 힘든 일도 가볍게 느껴져요.\"",
+          "audio": "/seed/daily-136-the-volunteer-week/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "said",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "Giving",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1180
+            },
+            {
+              "word": "time",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1680
+            },
+            {
+              "word": "is",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "more",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "powerful",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 2180,
+              "endMs": 2560
+            },
+            {
+              "word": "than",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "giving",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2860,
+              "endMs": 3100
+            },
+            {
+              "word": "things",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3100,
+              "endMs": 3580
+            },
+            {
+              "word": "Jun",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 4240,
+              "endMs": 4380
+            },
+            {
+              "word": "added",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 4380,
+              "endMs": 4780
+            },
+            {
+              "word": "Helping",
+              "charStart": 74,
+              "charEnd": 81,
+              "startMs": 5340,
+              "endMs": 5520
+            },
+            {
+              "word": "together",
+              "charStart": 82,
+              "charEnd": 90,
+              "startMs": 5520,
+              "endMs": 5960
+            },
+            {
+              "word": "makes",
+              "charStart": 91,
+              "charEnd": 96,
+              "startMs": 5960,
+              "endMs": 6220
+            },
+            {
+              "word": "hard",
+              "charStart": 97,
+              "charEnd": 101,
+              "startMs": 6220,
+              "endMs": 6580
+            },
+            {
+              "word": "work",
+              "charStart": 102,
+              "charEnd": 106,
+              "startMs": 6580,
+              "endMs": 6860
+            },
+            {
+              "word": "feel",
+              "charStart": 107,
+              "charEnd": 111,
+              "startMs": 6860,
+              "endMs": 7160
+            },
+            {
+              "word": "light",
+              "charStart": 112,
+              "charEnd": 117,
+              "startMs": 7160,
+              "endMs": 7460
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "박 선생님이 칠판에 적은 봉사 활동 목록에 포함되지 않은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "요리 수업 참여하기",
+        "쓰레기 줍기",
+        "꽃 심기",
+        "카드 만들기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "선생님이 적은 활동은 쓰레기 줍기, 어르신 방문, 꽃 심기, 기부 물품 분류, 카드 만들기였어요. 요리 수업은 목록에 없었어요."
+    },
+    {
+      "question_ko": "최 할아버지가 준에게 한 말은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "네가 와줘서 정말 큰 위로가 됐다",
+        "다음에 또 방문해 주어서 고맙다",
+        "어릴 때 이야기를 들어줘서 즐거웠다",
+        "함께 퍼즐을 풀어줘서 재미있었다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "최 할아버지는 가끔 외롭다고 하시면서, 준의 방문이 자신에게 큰 위로가 됐다고 말씀하셨어요."
+    },
+    {
+      "question_ko": "수요일 꽃 심기 활동에서 미나가 한 말의 의미는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "한 번도 만나지 못할 누군가를 위해 봉사하는 것이 특별하다",
+        "메리골드는 오래 피는 꽃이라 좋다",
+        "꽃을 심는 일이 가장 힘든 봉사 활동이다",
+        "학교 정원을 꾸미고 싶어서 심는 것이다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 앞으로 만나지도 못할 누군가를 위해 꽃을 심는다고 했고, 준은 그게 오히려 더 특별한 이유라고 말했어요."
+    },
+    {
+      "question_ko": "목요일에 준이 기부 물품 분류 중 발견한 것은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "자신이 어릴 때 갖고 있던 것과 똑같은 그림책",
+        "자신의 이름이 적힌 스웨터",
+        "색이 바랜 가족사진",
+        "오래된 장난감 자동차"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 표지가 바랜 낡은 그림책을 발견하고 자신도 어릴 때 그 책을 가지고 있었다고 말했어요."
+    },
+    {
+      "question_ko": "봉사 주간 마지막 날 미나와 준이 배운 점은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "시간을 내어 돕는 것이 강력하고, 함께 하면 힘든 일도 가볍다",
+        "봉사는 어른이 되면 더 잘할 수 있다",
+        "병원 카드 쓰기가 가장 중요한 봉사다",
+        "봉사 활동은 일주일에 한 번이면 충분하다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 시간을 내어 주는 것이 물건을 주는 것보다 강력하다고 했고, 준은 함께 도우면 힘든 일도 가볍게 느껴진다고 말했어요."
+    }
+  ]
+}

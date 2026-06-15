@@ -20,28 +20,63 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 380
             },
             {
               "word": "is",
               "charStart": 5,
               "charEnd": 7,
-              "startMs": 360,
-              "endMs": 560
+              "startMs": 380,
+              "endMs": 700
             },
             {
               "word": "my",
               "charStart": 8,
               "charEnd": 10,
-              "startMs": 560,
-              "endMs": 800
+              "startMs": 700,
+              "endMs": 920
             },
             {
               "word": "lunchbox",
               "charStart": 11,
               "charEnd": 19,
-              "startMs": 800,
-              "endMs": 1360
+              "startMs": 920,
+              "endMs": 1520
+            }
+          ]
+        },
+        {
+          "text": "I open the lid.",
+          "translation_ko": "나는 뚜껑을 열어요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "open",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "lid",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1220,
+              "endMs": 1280
             }
           ]
         }
@@ -59,21 +94,98 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 340
             },
             {
               "word": "have",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 360,
-              "endMs": 760
+              "startMs": 340,
+              "endMs": 680
             },
             {
               "word": "rice",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 760,
-              "endMs": 1240
+              "startMs": 680,
+              "endMs": 1100
+            }
+          ]
+        },
+        {
+          "text": "The rice is white and soft.",
+          "translation_ko": "밥은 하얗고 부드러워요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "rice",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 620,
+              "endMs": 860
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "white",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1960
+            },
+            {
+              "word": "soft",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1960,
+              "endMs": 2240
+            }
+          ]
+        },
+        {
+          "text": "I love rice!",
+          "translation_ko": "나는 밥이 정말 좋아요!",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "love",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 380,
+              "endMs": 740
+            },
+            {
+              "word": "rice",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 740,
+              "endMs": 1120
             }
           ]
         }
@@ -90,29 +202,92 @@
               "word": "I",
               "charStart": 0,
               "charEnd": 1,
-              "startMs": 660,
-              "endMs": 1060
+              "startMs": 0,
+              "endMs": 480
             },
             {
               "word": "have",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 1060,
-              "endMs": 1260
+              "startMs": 480,
+              "endMs": 720
             },
             {
               "word": "an",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 1260,
-              "endMs": 1440
+              "startMs": 720,
+              "endMs": 900
             },
             {
               "word": "egg",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 1440,
-              "endMs": 1660
+              "startMs": 900,
+              "endMs": 1100
+            }
+          ]
+        },
+        {
+          "text": "It is round and yellow.",
+          "translation_ko": "동글고 노란색이에요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 140,
+              "endMs": 400
+            },
+            {
+              "word": "round",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 1380
+            },
+            {
+              "word": "yellow",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1600
+            }
+          ]
+        },
+        {
+          "text": "Yum, yum!",
+          "translation_ko": "냠냠!",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Yum",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "yum",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 1300,
+              "endMs": 1320
             }
           ]
         }
@@ -130,35 +305,119 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 220
             },
             {
               "word": "have",
               "charStart": 2,
               "charEnd": 6,
-              "startMs": 280,
-              "endMs": 680
+              "startMs": 220,
+              "endMs": 480
             },
             {
               "word": "a",
               "charStart": 7,
               "charEnd": 8,
-              "startMs": 680,
-              "endMs": 1040
+              "startMs": 480,
+              "endMs": 720
             },
             {
               "word": "small",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 1040,
-              "endMs": 1400
+              "startMs": 720,
+              "endMs": 1040
             },
             {
               "word": "apple",
               "charStart": 15,
               "charEnd": 20,
-              "startMs": 1400,
-              "endMs": 1680
+              "startMs": 1040,
+              "endMs": 1320
+            }
+          ]
+        },
+        {
+          "text": "It is red and sweet.",
+          "translation_ko": "빨갛고 달콤해요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 180,
+              "endMs": 400
+            },
+            {
+              "word": "red",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1420
+            },
+            {
+              "word": "sweet",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1420,
+              "endMs": 1720
+            }
+          ]
+        },
+        {
+          "text": "I like apples very much.",
+          "translation_ko": "나는 사과를 아주 좋아해요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "like",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 640
+            },
+            {
+              "word": "apples",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 1100
+            },
+            {
+              "word": "very",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1640
+            },
+            {
+              "word": "much",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1960
             }
           ]
         }
@@ -176,28 +435,63 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 280
             },
             {
               "word": "food",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 260,
-              "endMs": 600
+              "startMs": 280,
+              "endMs": 680
             },
             {
               "word": "smells",
               "charStart": 9,
               "charEnd": 15,
-              "startMs": 600,
-              "endMs": 980
+              "startMs": 680,
+              "endMs": 1280
             },
             {
               "word": "good",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 980,
-              "endMs": 1260
+              "startMs": 1280,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "I am so hungry!",
+          "translation_ko": "나는 너무 배고파요!",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "so",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 560,
+              "endMs": 940
+            },
+            {
+              "word": "hungry",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1280
             }
           ]
         }
@@ -215,35 +509,112 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 780
+              "endMs": 320
             },
             {
               "word": "eat",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 780,
-              "endMs": 980
+              "startMs": 320,
+              "endMs": 600
             },
             {
               "word": "with",
               "charStart": 6,
               "charEnd": 10,
-              "startMs": 980,
-              "endMs": 1160
+              "startMs": 600,
+              "endMs": 900
             },
             {
               "word": "my",
               "charStart": 11,
               "charEnd": 13,
-              "startMs": 1160,
-              "endMs": 1380
+              "startMs": 900,
+              "endMs": 1120
             },
             {
               "word": "friend",
               "charStart": 14,
               "charEnd": 20,
-              "startMs": 1380,
-              "endMs": 1620
+              "startMs": 1120,
+              "endMs": 1360
+            }
+          ]
+        },
+        {
+          "text": "We share our food.",
+          "translation_ko": "우리는 음식을 나눠 먹어요.",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "share",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 640
+            },
+            {
+              "word": "our",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "food",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1280
+            }
+          ]
+        },
+        {
+          "text": "Lunch is my favorite time!",
+          "translation_ko": "점심시간이 제일 좋아요!",
+          "audio": "/seed/daily-41-my-lunchbox/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Lunch",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 680
+            },
+            {
+              "word": "my",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 1000
+            },
+            {
+              "word": "favorite",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "time",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1760
             }
           ]
         }
@@ -283,7 +654,7 @@
         "작아요",
         "커요",
         "없어요",
-        "빨개요만"
+        "파래요"
       ],
       "answerIndex": 0,
       "explain_ko": "a small apple — 작은 사과예요."
@@ -306,7 +677,7 @@
       "options": [
         "친구",
         "혼자",
-        "선생님만",
+        "선생님",
         "강아지"
       ],
       "answerIndex": 0,

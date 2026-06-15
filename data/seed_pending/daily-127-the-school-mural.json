@@ -1,0 +1,2552 @@
+{
+  "slug": "daily-127-the-school-mural",
+  "title": "The School Mural",
+  "title_ko": "학교 벽화",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 Ms. Park 선생님, 친구들과 함께 학교 담장에 벽화를 그리며 협동의 기쁨을 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One morning, Ms. Park pointed to the old gray wall near the garden.",
+          "translation_ko": "어느 날 아침, 박 선생님 선생님이 텃밭 옆 낡은 회색 담장을 가리켰어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "morning",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "Ms",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "Park",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "pointed",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "to",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1840,
+              "endMs": 2000
+            },
+            {
+              "word": "old",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2000,
+              "endMs": 2360
+            },
+            {
+              "word": "gray",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2360,
+              "endMs": 2640
+            },
+            {
+              "word": "wall",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2640,
+              "endMs": 2880
+            },
+            {
+              "word": "near",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 2880,
+              "endMs": 3060
+            },
+            {
+              "word": "the",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3060,
+              "endMs": 3340
+            },
+            {
+              "word": "garden",
+              "charStart": 60,
+              "charEnd": 66,
+              "startMs": 3340,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "\"This wall has been empty for too long. What could we do?\" she asked.",
+          "translation_ko": "\"이 담장이 너무 오랫동안 비어 있었어요. 무엇을 할 수 있을까요?\" 선생님이 물었어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 820
+            },
+            {
+              "word": "wall",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "has",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1080,
+              "endMs": 1320
+            },
+            {
+              "word": "been",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 1520
+            },
+            {
+              "word": "empty",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1760
+            },
+            {
+              "word": "for",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1760,
+              "endMs": 2060
+            },
+            {
+              "word": "too",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2300
+            },
+            {
+              "word": "long",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "What",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3040,
+              "endMs": 3120
+            },
+            {
+              "word": "could",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3120,
+              "endMs": 3280
+            },
+            {
+              "word": "we",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 3280,
+              "endMs": 3500
+            },
+            {
+              "word": "do",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3500,
+              "endMs": 4040
+            },
+            {
+              "word": "she",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 4040,
+              "endMs": 4220
+            },
+            {
+              "word": "asked",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 4220,
+              "endMs": 4560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We could paint a mural!\" Jun said, raising his hand.",
+          "translation_ko": "\"벽화를 그려요!\" 준이 손을 들며 말했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 960
+            },
+            {
+              "word": "could",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 960,
+              "endMs": 1180
+            },
+            {
+              "word": "paint",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1440,
+              "endMs": 1980
+            },
+            {
+              "word": "mural",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1980,
+              "endMs": 2740
+            },
+            {
+              "word": "Jun",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2740,
+              "endMs": 2820
+            },
+            {
+              "word": "said",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2820,
+              "endMs": 3120
+            },
+            {
+              "word": "raising",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 3620,
+              "endMs": 3620
+            },
+            {
+              "word": "his",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3620,
+              "endMs": 3920
+            },
+            {
+              "word": "hand",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3920,
+              "endMs": 4160
+            }
+          ]
+        },
+        {
+          "text": "Mina's eyes lit up. \"That's a wonderful idea, Jun.\"",
+          "translation_ko": "미나의 눈이 반짝였어요. \"정말 멋진 생각이야, 준.\"",
+          "audio": "/seed/daily-127-the-school-mural/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina's",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "eyes",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "lit",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1140
+            },
+            {
+              "word": "up",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "That's",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2080
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2320
+            },
+            {
+              "word": "wonderful",
+              "charStart": 30,
+              "charEnd": 39,
+              "startMs": 2320,
+              "endMs": 2720
+            },
+            {
+              "word": "idea",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2720,
+              "endMs": 3080
+            },
+            {
+              "word": "Jun",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3400,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park smiled and said, \"Let's plan it together.\"",
+          "translation_ko": "박 선생님 선생님이 미소를 지으며 말했어요. \"다 같이 계획을 세워 봐요.\"",
+          "audio": "/seed/daily-127-the-school-mural/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "smiled",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 1160
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1540
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 1720
+            },
+            {
+              "word": "Let's",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2100,
+              "endMs": 2520
+            },
+            {
+              "word": "plan",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2520,
+              "endMs": 2660
+            },
+            {
+              "word": "it",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2660,
+              "endMs": 2880
+            },
+            {
+              "word": "together",
+              "charStart": 41,
+              "charEnd": 49,
+              "startMs": 2880,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That afternoon, the class gathered to share ideas for the mural.",
+          "translation_ko": "그날 오후, 반 아이들이 모여 벽화 아이디어를 나눴어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "afternoon",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 300,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "class",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "gathered",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1820,
+              "endMs": 2180
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "share",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2480,
+              "endMs": 2600
+            },
+            {
+              "word": "ideas",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2600,
+              "endMs": 3040
+            },
+            {
+              "word": "for",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3040,
+              "endMs": 3280
+            },
+            {
+              "word": "the",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3280,
+              "endMs": 3440
+            },
+            {
+              "word": "mural",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3440,
+              "endMs": 3580
+            }
+          ]
+        },
+        {
+          "text": "Mina suggested painting the four seasons, and many hands shot up in agreement.",
+          "translation_ko": "미나는 사계절을 그리자고 제안했고, 많은 손들이 찬성의 표시로 번쩍 올라갔어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "suggested",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 1100
+            },
+            {
+              "word": "painting",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1100,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 1940
+            },
+            {
+              "word": "four",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1940,
+              "endMs": 2280
+            },
+            {
+              "word": "seasons",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2280,
+              "endMs": 2700
+            },
+            {
+              "word": "and",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3260,
+              "endMs": 3380
+            },
+            {
+              "word": "many",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3380,
+              "endMs": 3620
+            },
+            {
+              "word": "hands",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3620,
+              "endMs": 3940
+            },
+            {
+              "word": "shot",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3940,
+              "endMs": 4180
+            },
+            {
+              "word": "up",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 4180,
+              "endMs": 4380
+            },
+            {
+              "word": "in",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 4380,
+              "endMs": 4520
+            },
+            {
+              "word": "agreement",
+              "charStart": 68,
+              "charEnd": 77,
+              "startMs": 4520,
+              "endMs": 4860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park divided the wall into four sections for each season.",
+          "translation_ko": "박 선생님 선생님은 담장을 사계절에 맞게 네 구역으로 나눴어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 760,
+              "endMs": 920
+            },
+            {
+              "word": "divided",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1680
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "wall",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "into",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2120,
+              "endMs": 2400
+            },
+            {
+              "word": "four",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2400,
+              "endMs": 2740
+            },
+            {
+              "word": "sections",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2740,
+              "endMs": 3180
+            },
+            {
+              "word": "for",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3180,
+              "endMs": 3660
+            },
+            {
+              "word": "each",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3660,
+              "endMs": 3960
+            },
+            {
+              "word": "season",
+              "charStart": 54,
+              "charEnd": 60,
+              "startMs": 3960,
+              "endMs": 4260
+            }
+          ]
+        },
+        {
+          "text": "Jun chose winter for its snowflakes, and Mina chose spring for its blossoming trees.",
+          "translation_ko": "준은 눈꽃 때문에 겨울을, 미나는 꽃피는 나무 때문에 봄을 선택했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "chose",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "winter",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1200
+            },
+            {
+              "word": "for",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "its",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "snowflakes",
+              "charStart": 25,
+              "charEnd": 35,
+              "startMs": 1680,
+              "endMs": 2280
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2860,
+              "endMs": 2920
+            },
+            {
+              "word": "Mina",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2920,
+              "endMs": 3160
+            },
+            {
+              "word": "chose",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3160,
+              "endMs": 3540
+            },
+            {
+              "word": "spring",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3540,
+              "endMs": 3820
+            },
+            {
+              "word": "for",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 3820,
+              "endMs": 4120
+            },
+            {
+              "word": "its",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 4120,
+              "endMs": 4340
+            },
+            {
+              "word": "blossoming",
+              "charStart": 67,
+              "charEnd": 77,
+              "startMs": 4340,
+              "endMs": 4820
+            },
+            {
+              "word": "trees",
+              "charStart": 78,
+              "charEnd": 83,
+              "startMs": 4820,
+              "endMs": 5180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next day, Ms. Park brought brushes, rollers, and cans of outdoor paint.",
+          "translation_ko": "다음 날, 박 선생님 선생님이 붓과 롤러, 야외용 페인트 통들을 가져왔어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "day",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 920,
+              "endMs": 1300
+            },
+            {
+              "word": "Ms",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1840,
+              "endMs": 2020
+            },
+            {
+              "word": "Park",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 2200,
+              "endMs": 2260
+            },
+            {
+              "word": "brought",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 2260,
+              "endMs": 2560
+            },
+            {
+              "word": "brushes",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2560,
+              "endMs": 3040
+            },
+            {
+              "word": "rollers",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 3780,
+              "endMs": 3780
+            },
+            {
+              "word": "and",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 4240,
+              "endMs": 4640
+            },
+            {
+              "word": "cans",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 4640,
+              "endMs": 4640
+            },
+            {
+              "word": "of",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 4640,
+              "endMs": 4960
+            },
+            {
+              "word": "outdoor",
+              "charStart": 61,
+              "charEnd": 68,
+              "startMs": 4960,
+              "endMs": 5160
+            },
+            {
+              "word": "paint",
+              "charStart": 69,
+              "charEnd": 74,
+              "startMs": 5160,
+              "endMs": 5480
+            }
+          ]
+        },
+        {
+          "text": "Everyone put on old shirts to protect their uniforms.",
+          "translation_ko": "모두 교복이 더러워지지 않도록 낡은 옷을 위에 걸쳤어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 1180
+            },
+            {
+              "word": "put",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1180,
+              "endMs": 1460
+            },
+            {
+              "word": "on",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1460,
+              "endMs": 1640
+            },
+            {
+              "word": "old",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1640,
+              "endMs": 1980
+            },
+            {
+              "word": "shirts",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1980,
+              "endMs": 2200
+            },
+            {
+              "word": "to",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2200,
+              "endMs": 2500
+            },
+            {
+              "word": "protect",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2500,
+              "endMs": 2720
+            },
+            {
+              "word": "their",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 2980
+            },
+            {
+              "word": "uniforms",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2980,
+              "endMs": 3360
+            }
+          ]
+        },
+        {
+          "text": "\"Ready?\" Ms. Park asked, and the class cheered.",
+          "translation_ko": "\"준비됐나요?\" 박 선생님 선생님이 묻자 반 아이들이 환호했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Ready",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 1000
+            },
+            {
+              "word": "Ms",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1540,
+              "endMs": 1820
+            },
+            {
+              "word": "Park",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1940,
+              "endMs": 2020
+            },
+            {
+              "word": "asked",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2940,
+              "endMs": 3020
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 3020,
+              "endMs": 3160
+            },
+            {
+              "word": "class",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 3160,
+              "endMs": 3520
+            },
+            {
+              "word": "cheered",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 3520,
+              "endMs": 3880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun started by sketching white snowflakes with a thin brush.",
+          "translation_ko": "준은 얇은 붓으로 흰 눈꽃을 스케치하며 시작했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "started",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "by",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1160
+            },
+            {
+              "word": "sketching",
+              "charStart": 15,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1600
+            },
+            {
+              "word": "white",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1600,
+              "endMs": 1940
+            },
+            {
+              "word": "snowflakes",
+              "charStart": 31,
+              "charEnd": 41,
+              "startMs": 1940,
+              "endMs": 2520
+            },
+            {
+              "word": "with",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 2860
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "thin",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3140,
+              "endMs": 3340
+            },
+            {
+              "word": "brush",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3340,
+              "endMs": 3680
+            }
+          ]
+        },
+        {
+          "text": "He moved carefully, not wanting to make a mistake on the wall.",
+          "translation_ko": "담장에서 실수하고 싶지 않아서 손을 아주 조심스럽게 움직였어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "moved",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "carefully",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 520,
+              "endMs": 1040
+            },
+            {
+              "word": "not",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1700
+            },
+            {
+              "word": "wanting",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "to",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1900,
+              "endMs": 2180
+            },
+            {
+              "word": "make",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2180,
+              "endMs": 2240
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "mistake",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2500,
+              "endMs": 2700
+            },
+            {
+              "word": "on",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2700,
+              "endMs": 2880
+            },
+            {
+              "word": "the",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 2880,
+              "endMs": 3040
+            },
+            {
+              "word": "wall",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3040,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina was painting pink petals when her brush slipped and left a messy streak.",
+          "translation_ko": "미나가 분홍 꽃잎을 그리다 붓이 미끄러져 지저분한 줄무늬가 생겼어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "was",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 900
+            },
+            {
+              "word": "painting",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "pink",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1680
+            },
+            {
+              "word": "petals",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1680,
+              "endMs": 2120
+            },
+            {
+              "word": "when",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2500
+            },
+            {
+              "word": "her",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2500,
+              "endMs": 2700
+            },
+            {
+              "word": "brush",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2700,
+              "endMs": 2960
+            },
+            {
+              "word": "slipped",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2960,
+              "endMs": 3340
+            },
+            {
+              "word": "and",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3340,
+              "endMs": 3920
+            },
+            {
+              "word": "left",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3920,
+              "endMs": 4040
+            },
+            {
+              "word": "a",
+              "charStart": 62,
+              "charEnd": 63,
+              "startMs": 4040,
+              "endMs": 4340
+            },
+            {
+              "word": "messy",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 4340,
+              "endMs": 4560
+            },
+            {
+              "word": "streak",
+              "charStart": 70,
+              "charEnd": 76,
+              "startMs": 4560,
+              "endMs": 4980
+            }
+          ]
+        },
+        {
+          "text": "Jun looked over and said, \"Turn it into a falling petal. It looks great.\"",
+          "translation_ko": "준이 바라보며 말했어요. \"떨어지는 꽃잎으로 바꾸면 돼. 멋있는 걸.\"",
+          "audio": "/seed/daily-127-the-school-mural/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "over",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1480
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1580
+            },
+            {
+              "word": "Turn",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2080,
+              "endMs": 2200
+            },
+            {
+              "word": "it",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2340
+            },
+            {
+              "word": "into",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "falling",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2760,
+              "endMs": 3000
+            },
+            {
+              "word": "petal",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3000,
+              "endMs": 3380
+            },
+            {
+              "word": "It",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3700,
+              "endMs": 3820
+            },
+            {
+              "word": "looks",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3820,
+              "endMs": 4020
+            },
+            {
+              "word": "great",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 4020,
+              "endMs": 4440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina carefully curved the streak into a drifting petal and stepped back.",
+          "translation_ko": "미나는 조심스럽게 줄무늬를 흩날리는 꽃잎으로 다듬고 뒤로 물러났어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "carefully",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 380,
+              "endMs": 1020
+            },
+            {
+              "word": "curved",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1700
+            },
+            {
+              "word": "streak",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 1980
+            },
+            {
+              "word": "into",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2540
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2540,
+              "endMs": 2740
+            },
+            {
+              "word": "drifting",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2740,
+              "endMs": 3000
+            },
+            {
+              "word": "petal",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3000,
+              "endMs": 3480
+            },
+            {
+              "word": "and",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3480,
+              "endMs": 4060
+            },
+            {
+              "word": "stepped",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 4060,
+              "endMs": 4320
+            },
+            {
+              "word": "back",
+              "charStart": 67,
+              "charEnd": 71,
+              "startMs": 4320,
+              "endMs": 4700
+            }
+          ]
+        },
+        {
+          "text": "\"You were right, Jun. It's even better now,\" she said with a smile.",
+          "translation_ko": "\"네 말이 맞았어, 준. 이제 더 예쁘다.\" 미나가 미소를 지으며 말했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "were",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 440
+            },
+            {
+              "word": "right",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 440,
+              "endMs": 660
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 960
+            },
+            {
+              "word": "It's",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1540
+            },
+            {
+              "word": "even",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "better",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "now",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2060,
+              "endMs": 2900
+            },
+            {
+              "word": "she",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2900,
+              "endMs": 3040
+            },
+            {
+              "word": "said",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3040,
+              "endMs": 3280
+            },
+            {
+              "word": "with",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3280,
+              "endMs": 3420
+            },
+            {
+              "word": "a",
+              "charStart": 59,
+              "charEnd": 60,
+              "startMs": 3420,
+              "endMs": 3680
+            },
+            {
+              "word": "smile",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 3680,
+              "endMs": 3880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By lunchtime, two sections were already bursting with color.",
+          "translation_ko": "점심때가 되었을 때, 두 구역이 이미 색으로 가득 찼어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "lunchtime",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 1060
+            },
+            {
+              "word": "two",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "sections",
+              "charStart": 18,
+              "charEnd": 26,
+              "startMs": 1500,
+              "endMs": 1840
+            },
+            {
+              "word": "were",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "already",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2120,
+              "endMs": 2600
+            },
+            {
+              "word": "bursting",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2600,
+              "endMs": 2900
+            },
+            {
+              "word": "with",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2900,
+              "endMs": 3260
+            },
+            {
+              "word": "color",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3260,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park walked along the wall. \"You are all working so well together,\" she said.",
+          "translation_ko": "박 선생님 선생님이 담장을 따라 걸었어요. \"모두 정말 잘 협동하고 있어요.\" 선생님이 말했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 840
+            },
+            {
+              "word": "walked",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1300
+            },
+            {
+              "word": "along",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "wall",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2040
+            },
+            {
+              "word": "You",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2540
+            },
+            {
+              "word": "are",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2540,
+              "endMs": 2700
+            },
+            {
+              "word": "all",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2700,
+              "endMs": 3060
+            },
+            {
+              "word": "working",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3060,
+              "endMs": 3280
+            },
+            {
+              "word": "so",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3280,
+              "endMs": 3700
+            },
+            {
+              "word": "well",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3700,
+              "endMs": 3940
+            },
+            {
+              "word": "together",
+              "charStart": 61,
+              "charEnd": 69,
+              "startMs": 3940,
+              "endMs": 4220
+            },
+            {
+              "word": "she",
+              "charStart": 72,
+              "charEnd": 75,
+              "startMs": 4540,
+              "endMs": 4700
+            },
+            {
+              "word": "said",
+              "charStart": 76,
+              "charEnd": 80,
+              "startMs": 4700,
+              "endMs": 4940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "In the afternoon, the class tackled the summer and autumn sections.",
+          "translation_ko": "오후에는 반 아이들이 여름과 가을 구역을 작업했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "In",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 140,
+              "endMs": 440
+            },
+            {
+              "word": "afternoon",
+              "charStart": 7,
+              "charEnd": 16,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "class",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "tackled",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1680,
+              "endMs": 2080
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2080,
+              "endMs": 2400
+            },
+            {
+              "word": "summer",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2400,
+              "endMs": 2560
+            },
+            {
+              "word": "and",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2560,
+              "endMs": 3200
+            },
+            {
+              "word": "autumn",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 3200,
+              "endMs": 3200
+            },
+            {
+              "word": "sections",
+              "charStart": 58,
+              "charEnd": 66,
+              "startMs": 3200,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "Someone painted a bright yellow sun, and Jun added a small kite in the summer sky.",
+          "translation_ko": "누군가는 밝은 노란 태양을 그렸고, 준은 여름 하늘에 작은 연을 하나 더했어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Someone",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "painted",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 480,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "bright",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "yellow",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "sun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1640,
+              "endMs": 2040
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2040,
+              "endMs": 2500
+            },
+            {
+              "word": "Jun",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2500,
+              "endMs": 2740
+            },
+            {
+              "word": "added",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2740,
+              "endMs": 3040
+            },
+            {
+              "word": "a",
+              "charStart": 51,
+              "charEnd": 52,
+              "startMs": 3040,
+              "endMs": 3260
+            },
+            {
+              "word": "small",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3260,
+              "endMs": 3520
+            },
+            {
+              "word": "kite",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3520,
+              "endMs": 3820
+            },
+            {
+              "word": "in",
+              "charStart": 64,
+              "charEnd": 66,
+              "startMs": 3820,
+              "endMs": 4120
+            },
+            {
+              "word": "the",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 4120,
+              "endMs": 4320
+            },
+            {
+              "word": "summer",
+              "charStart": 71,
+              "charEnd": 77,
+              "startMs": 4320,
+              "endMs": 4480
+            },
+            {
+              "word": "sky",
+              "charStart": 78,
+              "charEnd": 81,
+              "startMs": 4480,
+              "endMs": 4860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "As the sun began to set, the mural was finally complete.",
+          "translation_ko": "해가 지기 시작할 무렵, 벽화가 드디어 완성되었어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "As",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "sun",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 860
+            },
+            {
+              "word": "began",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1140
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "set",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2100,
+              "endMs": 2240
+            },
+            {
+              "word": "mural",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "was",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2500,
+              "endMs": 2920
+            },
+            {
+              "word": "finally",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2920,
+              "endMs": 3400
+            },
+            {
+              "word": "complete",
+              "charStart": 47,
+              "charEnd": 55,
+              "startMs": 3400,
+              "endMs": 3900
+            }
+          ]
+        },
+        {
+          "text": "The whole class stood back and looked at what they had made together.",
+          "translation_ko": "반 아이들 모두 뒤로 물러서서 함께 만들어 낸 것을 바라봤어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "whole",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 780
+            },
+            {
+              "word": "class",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 1140
+            },
+            {
+              "word": "stood",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1460
+            },
+            {
+              "word": "back",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "looked",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2280
+            },
+            {
+              "word": "at",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2280,
+              "endMs": 2440
+            },
+            {
+              "word": "what",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2440,
+              "endMs": 2580
+            },
+            {
+              "word": "they",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2580,
+              "endMs": 2720
+            },
+            {
+              "word": "had",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 2720,
+              "endMs": 2900
+            },
+            {
+              "word": "made",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 2900,
+              "endMs": 3100
+            },
+            {
+              "word": "together",
+              "charStart": 60,
+              "charEnd": 68,
+              "startMs": 3100,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "Nobody spoke because the wall had become truly beautiful.",
+          "translation_ko": "담장이 정말로 아름다워졌기에 아무도 말하지 않았어요.",
+          "audio": "/seed/daily-127-the-school-mural/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Nobody",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "spoke",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "because",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1600
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "wall",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "had",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "become",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2380,
+              "endMs": 2760
+            },
+            {
+              "word": "truly",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2760,
+              "endMs": 3260
+            },
+            {
+              "word": "beautiful",
+              "charStart": 47,
+              "charEnd": 56,
+              "startMs": 3260,
+              "endMs": 3680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park took a photo and said, \"Every one of you added something special.\"",
+          "translation_ko": "박 선생님 선생님이 사진을 찍으며 말했어요. \"여러분 모두가 특별한 무언가를 더했어요.\"",
+          "audio": "/seed/daily-127-the-school-mural/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 480,
+              "endMs": 920
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 1180,
+              "endMs": 1220
+            },
+            {
+              "word": "took",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "photo",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1960,
+              "endMs": 2640
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2640,
+              "endMs": 2840
+            },
+            {
+              "word": "Every",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 3160,
+              "endMs": 3340
+            },
+            {
+              "word": "one",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 3340,
+              "endMs": 3540
+            },
+            {
+              "word": "of",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3540,
+              "endMs": 3660
+            },
+            {
+              "word": "you",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3660,
+              "endMs": 3820
+            },
+            {
+              "word": "added",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3820,
+              "endMs": 4040
+            },
+            {
+              "word": "something",
+              "charStart": 56,
+              "charEnd": 65,
+              "startMs": 4040,
+              "endMs": 4500
+            },
+            {
+              "word": "special",
+              "charStart": 66,
+              "charEnd": 73,
+              "startMs": 4500,
+              "endMs": 4900
+            }
+          ]
+        },
+        {
+          "text": "Mina smiled at Jun and said, \"We did this together, and it shows.\"",
+          "translation_ko": "미나가 준을 보며 미소 지었어요. \"우리가 함께 만든 거야, 그게 보이거든.\"",
+          "audio": "/seed/daily-127-the-school-mural/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "smiled",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 800
+            },
+            {
+              "word": "at",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "Jun",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1280
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1740
+            },
+            {
+              "word": "said",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 1980
+            },
+            {
+              "word": "We",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2340,
+              "endMs": 2480
+            },
+            {
+              "word": "did",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2480,
+              "endMs": 2660
+            },
+            {
+              "word": "this",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2660,
+              "endMs": 2920
+            },
+            {
+              "word": "together",
+              "charStart": 42,
+              "charEnd": 50,
+              "startMs": 2920,
+              "endMs": 3280
+            },
+            {
+              "word": "and",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3720,
+              "endMs": 3880
+            },
+            {
+              "word": "it",
+              "charStart": 56,
+              "charEnd": 58,
+              "startMs": 3880,
+              "endMs": 4080
+            },
+            {
+              "word": "shows",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 4080,
+              "endMs": 4420
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 벽화에서 담당한 계절은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "겨울",
+        "봄",
+        "여름",
+        "가을"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 눈꽃 그리기를 좋아해서 겨울 구역을 선택했어요."
+    },
+    {
+      "question_ko": "미나가 실수로 줄무늬를 만들었을 때 준이 제안한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "떨어지는 꽃잎으로 바꾸자고 했다",
+        "처음부터 다시 칠하자고 했다",
+        "박 선생님 선생님께 도움을 요청하자고 했다",
+        "다른 구역으로 이동하자고 했다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 실수로 생긴 줄무늬를 떨어지는 꽃잎으로 바꾸면 오히려 멋있다고 격려했어요."
+    },
+    {
+      "question_ko": "반 아이들이 최종적으로 선택한 벽화 주제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "사계절",
+        "동물의 세계",
+        "동네 풍경",
+        "우주와 별"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나가 사계절을 제안했고 많은 아이들이 찬성하여 사계절을 주제로 결정했어요."
+    },
+    {
+      "question_ko": "준이 여름 구역에 추가로 그린 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 연",
+        "밝은 태양",
+        "황금빛 낙엽",
+        "분홍 꽃잎"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 재미있을 것 같아 여름 하늘에 작은 연을 하나 추가했어요."
+    },
+    {
+      "question_ko": "벽화가 완성된 후 반 아이들이 잠시 말을 잃은 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "담장이 정말로 아름다운 무언가가 되었기 때문에",
+        "박 선생님 선생님이 조용히 하라고 했기 때문에",
+        "벽화가 생각보다 별로였기 때문에",
+        "페인트가 아직 다 마르지 않았기 때문에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "함께 완성한 벽화가 너무 아름다워서 반 아이들 모두 잠시 말을 잃었어요."
+    }
+  ]
+}

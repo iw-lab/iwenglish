@@ -1,0 +1,1571 @@
+{
+  "slug": "daily-90-the-class-trip",
+  "title": "The Class Trip",
+  "title_ko": "현장학습",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 버스를 타고 자연 박물관으로 현장학습을 떠나 신나는 하루를 보내는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Today is special because the class is going on a trip.",
+          "translation_ko": "오늘은 반 전체가 현장학습을 가는 특별한 날이에요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 780,
+              "endMs": 1020
+            },
+            {
+              "word": "special",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1020,
+              "endMs": 1360
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1760,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1900,
+              "endMs": 2080
+            },
+            {
+              "word": "class",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2340
+            },
+            {
+              "word": "is",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2340,
+              "endMs": 2520
+            },
+            {
+              "word": "going",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2520,
+              "endMs": 2700
+            },
+            {
+              "word": "on",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2700,
+              "endMs": 2900
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2900,
+              "endMs": 3060
+            },
+            {
+              "word": "trip",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3060,
+              "endMs": 3240
+            }
+          ]
+        },
+        {
+          "text": "Jun smiles when he wakes up.",
+          "translation_ko": "준은 일어나자마자 활짝 웃었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "when",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "he",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "wakes",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1460
+            },
+            {
+              "word": "up",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He packs his bag fast because he doesn't want to be late.",
+          "translation_ko": "늦지 않으려고 준은 서둘러 가방을 챙겼어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "packs",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "his",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 800
+            },
+            {
+              "word": "bag",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "fast",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1480
+            },
+            {
+              "word": "because",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1860
+            },
+            {
+              "word": "he",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1860,
+              "endMs": 2060
+            },
+            {
+              "word": "doesn't",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "want",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2340,
+              "endMs": 2480
+            },
+            {
+              "word": "to",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2480,
+              "endMs": 2560
+            },
+            {
+              "word": "be",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 2560,
+              "endMs": 2720
+            },
+            {
+              "word": "late",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 2720,
+              "endMs": 2900
+            }
+          ]
+        },
+        {
+          "text": "He puts in his lunch box and notebook.",
+          "translation_ko": "도시락과 공책을 가방에 넣었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 24,
+              "endMs": 237
+            },
+            {
+              "word": "puts",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 237,
+              "endMs": 451
+            },
+            {
+              "word": "in",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 451,
+              "endMs": 664
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 664,
+              "endMs": 878
+            },
+            {
+              "word": "lunch",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 878,
+              "endMs": 1091
+            },
+            {
+              "word": "box",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1091,
+              "endMs": 1305
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1305,
+              "endMs": 1518
+            },
+            {
+              "word": "notebook",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1518,
+              "endMs": 2190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When Jun arrives, Mina is waiting by the bus.",
+          "translation_ko": "준이 도착하자 미나가 버스 옆에서 기다리고 있었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "Jun",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "arrives",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 1220
+            },
+            {
+              "word": "Mina",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1720,
+              "endMs": 1780
+            },
+            {
+              "word": "is",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1780,
+              "endMs": 2200
+            },
+            {
+              "word": "waiting",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2420
+            },
+            {
+              "word": "by",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2420,
+              "endMs": 2680
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2680,
+              "endMs": 2840
+            },
+            {
+              "word": "bus",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2840,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "\"I'm excited because it's my first museum trip!\" she says.",
+          "translation_ko": "\"박물관은 처음이라 너무 설레!\" 미나가 말했어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I'm",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "excited",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 900
+            },
+            {
+              "word": "because",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1300
+            },
+            {
+              "word": "it's",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "my",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "first",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2080
+            },
+            {
+              "word": "museum",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2080,
+              "endMs": 2500
+            },
+            {
+              "word": "trip",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2500,
+              "endMs": 3140
+            },
+            {
+              "word": "she",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3280
+            },
+            {
+              "word": "says",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3280,
+              "endMs": 3580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park counts everyone because she wants no one left behind.",
+          "translation_ko": "박 선생님 선생님은 아무도 빠지지 않았는지 인원을 세었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "counts",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "everyone",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 920,
+              "endMs": 1540
+            },
+            {
+              "word": "because",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1540,
+              "endMs": 2040
+            },
+            {
+              "word": "she",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2040,
+              "endMs": 2260
+            },
+            {
+              "word": "wants",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "no",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2480,
+              "endMs": 2800
+            },
+            {
+              "word": "one",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2800,
+              "endMs": 2980
+            },
+            {
+              "word": "left",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2980,
+              "endMs": 3200
+            },
+            {
+              "word": "behind",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3200,
+              "endMs": 3640
+            }
+          ]
+        },
+        {
+          "text": "\"All here! Let's go!\" she says.",
+          "translation_ko": "\"다 왔어요! 출발합시다!\" 선생님이 말했어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "All",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "here",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 640
+            },
+            {
+              "word": "Let's",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1020,
+              "endMs": 1400
+            },
+            {
+              "word": "go",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1400,
+              "endMs": 2000
+            },
+            {
+              "word": "she",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2000,
+              "endMs": 2180
+            },
+            {
+              "word": "says",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2180,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina sit together on the bus.",
+          "translation_ko": "준과 미나는 버스에서 나란히 앉았어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1080
+            },
+            {
+              "word": "sit",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1620
+            },
+            {
+              "word": "together",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1620,
+              "endMs": 1960
+            },
+            {
+              "word": "on",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2260,
+              "endMs": 2420
+            },
+            {
+              "word": "bus",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2420,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "They watch green trees go by because the ride is long.",
+          "translation_ko": "이동 시간이 길어서 창밖의 초록 나무들을 구경했어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "watch",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 960
+            },
+            {
+              "word": "green",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1420
+            },
+            {
+              "word": "trees",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "go",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "by",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "because",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2220,
+              "endMs": 2600
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 2840
+            },
+            {
+              "word": "ride",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2840,
+              "endMs": 3100
+            },
+            {
+              "word": "is",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3100,
+              "endMs": 3400
+            },
+            {
+              "word": "long",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3400,
+              "endMs": 3680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the museum, the guide shows a huge dinosaur skeleton.",
+          "translation_ko": "박물관에서 안내원이 거대한 공룡 뼈대를 보여 주었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 420
+            },
+            {
+              "word": "museum",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "guide",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "shows",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1400,
+              "endMs": 1720
+            },
+            {
+              "word": "a",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 1720,
+              "endMs": 1880
+            },
+            {
+              "word": "huge",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1880,
+              "endMs": 2240
+            },
+            {
+              "word": "dinosaur",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2240,
+              "endMs": 2720
+            },
+            {
+              "word": "skeleton",
+              "charStart": 47,
+              "charEnd": 55,
+              "startMs": 2720,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "Jun gasps because the skeleton is bigger than he thought.",
+          "translation_ko": "생각보다 훨씬 커서 준은 깜짝 놀랐어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "gasps",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 1060
+            },
+            {
+              "word": "because",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "skeleton",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1700,
+              "endMs": 2080
+            },
+            {
+              "word": "is",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2360
+            },
+            {
+              "word": "bigger",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2360,
+              "endMs": 2720
+            },
+            {
+              "word": "than",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2720,
+              "endMs": 2920
+            },
+            {
+              "word": "he",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2920,
+              "endMs": 3140
+            },
+            {
+              "word": "thought",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 3140,
+              "endMs": 3440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina writes notes when the guide talks about fossils.",
+          "translation_ko": "안내원이 화석을 설명할 때 미나는 공책에 열심히 적었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "writes",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 760
+            },
+            {
+              "word": "notes",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1100
+            },
+            {
+              "word": "when",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1440,
+              "endMs": 1600
+            },
+            {
+              "word": "guide",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1600,
+              "endMs": 1800
+            },
+            {
+              "word": "talks",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "about",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2080,
+              "endMs": 2380
+            },
+            {
+              "word": "fossils",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2380,
+              "endMs": 2760
+            }
+          ]
+        },
+        {
+          "text": "\"I must write this down because it's so amazing,\" she says.",
+          "translation_ko": "\"너무 신기해서 꼭 적어 둬야 해.\" 미나가 말했어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "must",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "write",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 800
+            },
+            {
+              "word": "this",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "down",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1080,
+              "endMs": 1420
+            },
+            {
+              "word": "because",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1420,
+              "endMs": 1800
+            },
+            {
+              "word": "it's",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "so",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2080,
+              "endMs": 2440
+            },
+            {
+              "word": "amazing",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2440,
+              "endMs": 3240
+            },
+            {
+              "word": "she",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3240,
+              "endMs": 3380
+            },
+            {
+              "word": "says",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3380,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They eat outside because the weather is sunny.",
+          "translation_ko": "날씨가 화창해서 밖에서 점심을 먹었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "eat",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 540
+            },
+            {
+              "word": "outside",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 1100
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1640,
+              "endMs": 1940
+            },
+            {
+              "word": "weather",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2080
+            },
+            {
+              "word": "is",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2080,
+              "endMs": 2500
+            },
+            {
+              "word": "sunny",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2500,
+              "endMs": 2620
+            }
+          ]
+        },
+        {
+          "text": "Jun shares his rice balls when Mina finishes her sandwich.",
+          "translation_ko": "미나가 샌드위치를 다 먹자 준이 주먹밥을 나눠 주었어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "shares",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 1120
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1120,
+              "endMs": 1440
+            },
+            {
+              "word": "rice",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "balls",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 2020
+            },
+            {
+              "word": "when",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2020,
+              "endMs": 2540
+            },
+            {
+              "word": "Mina",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2540,
+              "endMs": 2800
+            },
+            {
+              "word": "finishes",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2800,
+              "endMs": 3340
+            },
+            {
+              "word": "her",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3340,
+              "endMs": 3640
+            },
+            {
+              "word": "sandwich",
+              "charStart": 49,
+              "charEnd": 57,
+              "startMs": 3640,
+              "endMs": 3980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun buys a small dinosaur keychain at the gift shop.",
+          "translation_ko": "준은 기념품 가게에서 작은 공룡 열쇠고리를 샀어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "buys",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "small",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "dinosaur",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1280,
+              "endMs": 1740
+            },
+            {
+              "word": "keychain",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 2340
+            },
+            {
+              "word": "at",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2620,
+              "endMs": 2780
+            },
+            {
+              "word": "gift",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2780,
+              "endMs": 2920
+            },
+            {
+              "word": "shop",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2920,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "He picks it because his dad loves dinosaurs too.",
+          "translation_ko": "아빠도 공룡을 좋아하기 때문에 그것을 골랐어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "picks",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1080,
+              "endMs": 1220
+            },
+            {
+              "word": "because",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "his",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1500,
+              "endMs": 1740
+            },
+            {
+              "word": "dad",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 2020
+            },
+            {
+              "word": "loves",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2380
+            },
+            {
+              "word": "dinosaurs",
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 2380,
+              "endMs": 2920
+            },
+            {
+              "word": "too",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2920,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the bus home, Jun feels tired but happy.",
+          "translation_ko": "집으로 가는 버스 안에서 준은 피곤했지만 행복했어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 800,
+              "endMs": 960
+            },
+            {
+              "word": "bus",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 960,
+              "endMs": 1180
+            },
+            {
+              "word": "home",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1760,
+              "endMs": 1860
+            },
+            {
+              "word": "feels",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1860,
+              "endMs": 2220
+            },
+            {
+              "word": "tired",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2640
+            },
+            {
+              "word": "but",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2640,
+              "endMs": 3020
+            },
+            {
+              "word": "happy",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 3020,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "\"Let's come back when we have a chance,\" says Mina.",
+          "translation_ko": "\"기회가 되면 또 오자.\" 미나가 말했어요.",
+          "audio": "/seed/daily-90-the-class-trip/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "come",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "back",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1180
+            },
+            {
+              "word": "when",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "we",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1540
+            },
+            {
+              "word": "have",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1720
+            },
+            {
+              "word": "a",
+              "charStart": 30,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 1860
+            },
+            {
+              "word": "chance",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1860,
+              "endMs": 2780
+            },
+            {
+              "word": "says",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2780,
+              "endMs": 3000
+            },
+            {
+              "word": "Mina",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3000,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 가방에 무엇을 넣었나요?",
+      "type": "mc",
+      "options": [
+        "도시락과 공책",
+        "도시락과 우산",
+        "물통과 크레용",
+        "공책과 사탕"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 도시락(lunch box)과 공책(notebook)을 가방에 챙겼어요."
+    },
+    {
+      "question_ko": "미나가 설레었던 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "박물관 현장학습이 처음이었기 때문에",
+        "새 가방을 처음 메는 날이었기 때문에",
+        "버스를 처음 타는 것이었기 때문에",
+        "준에게 선물을 받았기 때문에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 박물관에 처음 가는 거라서 설렌다고 직접 말했어요."
+    },
+    {
+      "question_ko": "박물관에서 안내원이 보여 준 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "거대한 공룡 뼈대",
+        "오래된 그림",
+        "화산 모형",
+        "바다 생물 표본"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "안내원은 거대한 공룡 뼈대(huge dinosaur skeleton)를 보여 주었어요."
+    },
+    {
+      "question_ko": "준이 기념품 가게에서 산 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 공룡 열쇠고리",
+        "공룡 그림책",
+        "공룡 인형",
+        "공룡 스티커"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 아빠를 위해 작은 공룡 열쇠고리(dinosaur keychain)를 샀어요."
+    },
+    {
+      "question_ko": "집으로 가는 버스 안에서 준의 기분은 어떠했나요?",
+      "type": "mc",
+      "options": [
+        "피곤했지만 행복했다",
+        "화가 나서 말을 안 했다",
+        "배가 고파서 힘들었다",
+        "무서워서 잠을 잤다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 피곤했지만(tired) 매우 행복했어요(happy)."
+    }
+  ]
+}

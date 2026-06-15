@@ -20,42 +20,161 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 460
+              "endMs": 360
             },
             {
               "word": "is",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 460,
-              "endMs": 800
+              "startMs": 360,
+              "endMs": 620
             },
             {
               "word": "my",
               "charStart": 9,
               "charEnd": 11,
-              "startMs": 800,
-              "endMs": 1000
+              "startMs": 620,
+              "endMs": 760
             },
             {
               "word": "friend",
               "charStart": 12,
               "charEnd": 18,
-              "startMs": 1000,
-              "endMs": 1240
+              "startMs": 760,
+              "endMs": 1060
             },
             {
               "word": "Mia's",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 1240,
-              "endMs": 1660
+              "startMs": 1060,
+              "endMs": 1480
             },
             {
               "word": "birthday",
               "charStart": 25,
               "charEnd": 33,
-              "startMs": 1660,
-              "endMs": 2020
+              "startMs": 1480,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "She is turning ten years old.",
+          "translation_ko": "미아는 오늘 열 살이 돼요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "turning",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "ten",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 780,
+              "endMs": 1120
+            },
+            {
+              "word": "years",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1120,
+              "endMs": 1320
+            },
+            {
+              "word": "old",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1320,
+              "endMs": 1560
+            }
+          ]
+        },
+        {
+          "text": "I am so excited to go to her party!",
+          "translation_ko": "파티에 가는 게 너무 기대돼요!",
+          "audio": "/seed/daily-10-happy-birthday/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "am",
+              "charStart": 2,
+              "charEnd": 4,
+              "startMs": 220,
+              "endMs": 460
+            },
+            {
+              "word": "so",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "excited",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1400
+            },
+            {
+              "word": "to",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1400,
+              "endMs": 1780
+            },
+            {
+              "word": "go",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1780,
+              "endMs": 1900
+            },
+            {
+              "word": "to",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2080
+            },
+            {
+              "word": "her",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2080,
+              "endMs": 2240
+            },
+            {
+              "word": "party",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2240,
+              "endMs": 2560
             }
           ]
         }
@@ -73,49 +192,196 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 160
+              "endMs": 180
             },
             {
               "word": "bring",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 160,
-              "endMs": 320
+              "startMs": 180,
+              "endMs": 340
             },
             {
               "word": "a",
               "charStart": 8,
               "charEnd": 9,
-              "startMs": 320,
-              "endMs": 500
+              "startMs": 340,
+              "endMs": 520
             },
             {
               "word": "present",
               "charStart": 10,
               "charEnd": 17,
-              "startMs": 500,
-              "endMs": 880
+              "startMs": 520,
+              "endMs": 900
             },
             {
               "word": "and",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 880,
-              "endMs": 1240
+              "startMs": 900,
+              "endMs": 1520
             },
             {
               "word": "a",
               "charStart": 22,
               "charEnd": 23,
-              "startMs": 1240,
-              "endMs": 1600
+              "startMs": 1520,
+              "endMs": 1900
             },
             {
               "word": "card",
               "charStart": 24,
               "charEnd": 28,
-              "startMs": 1600,
-              "endMs": 1600
+              "startMs": 1900,
+              "endMs": 1900
+            }
+          ]
+        },
+        {
+          "text": "I wrapped the present with pretty pink paper.",
+          "translation_ko": "예쁜 분홍 포장지로 선물을 쌌어요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "wrapped",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "present",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1620
+            },
+            {
+              "word": "with",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 2080
+            },
+            {
+              "word": "pretty",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2460
+            },
+            {
+              "word": "pink",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2460,
+              "endMs": 2740
+            },
+            {
+              "word": "paper",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2740,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "I wrote \"Happy Birthday\" on the card with a big smile.",
+          "translation_ko": "카드에 큰 웃음 그림과 함께 \"생일 축하해\"라고 썼어요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "wrote",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "Happy",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1100,
+              "endMs": 1460
+            },
+            {
+              "word": "Birthday",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 1900
+            },
+            {
+              "word": "on",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2220
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "card",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2400,
+              "endMs": 2660
+            },
+            {
+              "word": "with",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2660,
+              "endMs": 3060
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 3060,
+              "endMs": 3320
+            },
+            {
+              "word": "big",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3320,
+              "endMs": 3540
+            },
+            {
+              "word": "smile",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3540,
+              "endMs": 3860
             }
           ]
         }
@@ -133,35 +399,161 @@
               "charStart": 1,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 380
             },
             {
               "word": "birthday",
               "charStart": 7,
               "charEnd": 15,
-              "startMs": 500,
-              "endMs": 1220
+              "startMs": 380,
+              "endMs": 1040
             },
             {
               "word": "Mia",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1680,
-              "endMs": 1820
+              "startMs": 1440,
+              "endMs": 1640
             },
             {
               "word": "I",
               "charStart": 23,
               "charEnd": 24,
-              "startMs": 2260,
-              "endMs": 2420
+              "startMs": 2220,
+              "endMs": 2220
             },
             {
               "word": "say",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 2420,
-              "endMs": 2660
+              "startMs": 2220,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "I hand her the present with both hands.",
+          "translation_ko": "두 손으로 선물을 건네줘요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "hand",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "her",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 820
+            },
+            {
+              "word": "present",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 820,
+              "endMs": 1160
+            },
+            {
+              "word": "with",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "both",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1440,
+              "endMs": 1780
+            },
+            {
+              "word": "hands",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1780,
+              "endMs": 2200
+            }
+          ]
+        },
+        {
+          "text": "Mia's eyes light up when she sees it.",
+          "translation_ko": "미아는 선물을 보자 눈이 반짝여요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia's",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "eyes",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 760
+            },
+            {
+              "word": "light",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "up",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "when",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "she",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1760
+            },
+            {
+              "word": "sees",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1980
+            },
+            {
+              "word": "it",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1980,
+              "endMs": 2200
             }
           ]
         }
@@ -179,42 +571,154 @@
               "charStart": 1,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 860
+              "endMs": 420
             },
             {
               "word": "you",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 860,
-              "endMs": 1100
+              "startMs": 420,
+              "endMs": 620
             },
             {
               "word": "for",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 1100,
-              "endMs": 1280
+              "startMs": 620,
+              "endMs": 860
             },
             {
               "word": "coming",
               "charStart": 15,
               "charEnd": 21,
-              "startMs": 1280,
-              "endMs": 1680
+              "startMs": 860,
+              "endMs": 1980
             },
             {
               "word": "says",
               "charStart": 24,
               "charEnd": 28,
-              "startMs": 2020,
-              "endMs": 2140
+              "startMs": 1980,
+              "endMs": 2100
             },
             {
               "word": "Mia",
               "charStart": 29,
               "charEnd": 32,
-              "startMs": 2140,
-              "endMs": 2400
+              "startMs": 2100,
+              "endMs": 2320
+            }
+          ]
+        },
+        {
+          "text": "She gives me a big hug.",
+          "translation_ko": "미아가 나를 꼭 안아 줘요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "gives",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 480
+            },
+            {
+              "word": "me",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 700
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 920
+            },
+            {
+              "word": "big",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "hug",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1420
+            }
+          ]
+        },
+        {
+          "text": "I feel happy to be here with her.",
+          "translation_ko": "미아와 함께 있어서 기분이 정말 좋아요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "feel",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "happy",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "be",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1300
+            },
+            {
+              "word": "here",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1460
+            },
+            {
+              "word": "with",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1660
+            },
+            {
+              "word": "her",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1660,
+              "endMs": 1820
             }
           ]
         }
@@ -232,56 +736,203 @@
               "charStart": 0,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 280
+              "endMs": 300
             },
             {
               "word": "is",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 280,
-              "endMs": 600
+              "startMs": 300,
+              "endMs": 520
             },
             {
               "word": "a",
               "charStart": 9,
               "charEnd": 10,
-              "startMs": 600,
-              "endMs": 840
+              "startMs": 520,
+              "endMs": 720
             },
             {
               "word": "big",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 840,
-              "endMs": 1120
+              "startMs": 720,
+              "endMs": 980
             },
             {
               "word": "cake",
               "charStart": 15,
               "charEnd": 19,
-              "startMs": 1120,
-              "endMs": 1440
+              "startMs": 980,
+              "endMs": 1300
             },
             {
               "word": "with",
               "charStart": 20,
               "charEnd": 24,
-              "startMs": 1440,
-              "endMs": 1900
+              "startMs": 1300,
+              "endMs": 1720
             },
             {
               "word": "ten",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 1900,
-              "endMs": 2280
+              "startMs": 1720,
+              "endMs": 2020
             },
             {
               "word": "candles",
               "charStart": 29,
               "charEnd": 36,
-              "startMs": 2280,
-              "endMs": 2640
+              "startMs": 2020,
+              "endMs": 2420
+            }
+          ]
+        },
+        {
+          "text": "The cake is covered in white frosting and has colorful sprinkles on top.",
+          "translation_ko": "케이크는 흰 크림으로 덮여 있고 위에 알록달록한 색깔 과자가 뿌려져 있어요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "cake",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "is",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 1100
+            },
+            {
+              "word": "covered",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1280
+            },
+            {
+              "word": "in",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1640
+            },
+            {
+              "word": "white",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1640,
+              "endMs": 1840
+            },
+            {
+              "word": "frosting",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1840,
+              "endMs": 2220
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2220,
+              "endMs": 2820
+            },
+            {
+              "word": "has",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2820,
+              "endMs": 3000
+            },
+            {
+              "word": "colorful",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 3000,
+              "endMs": 3420
+            },
+            {
+              "word": "sprinkles",
+              "charStart": 55,
+              "charEnd": 64,
+              "startMs": 3420,
+              "endMs": 3800
+            },
+            {
+              "word": "on",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 3800,
+              "endMs": 4120
+            },
+            {
+              "word": "top",
+              "charStart": 68,
+              "charEnd": 71,
+              "startMs": 4120,
+              "endMs": 4340
+            }
+          ]
+        },
+        {
+          "text": "It smells so sweet and delicious!",
+          "translation_ko": "케이크 냄새가 정말 달콤하고 맛있어요!",
+          "audio": "/seed/daily-10-happy-birthday/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "smells",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "so",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 720,
+              "endMs": 1220
+            },
+            {
+              "word": "sweet",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1600
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1600,
+              "endMs": 2100
+            },
+            {
+              "word": "delicious",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 2100,
+              "endMs": 2400
             }
           ]
         }
@@ -299,56 +950,175 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 480
             },
             {
               "word": "sing",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 260,
-              "endMs": 460
+              "startMs": 480,
+              "endMs": 840
             },
             {
               "word": "together",
               "charStart": 8,
               "charEnd": 16,
-              "startMs": 460,
-              "endMs": 860
+              "startMs": 840,
+              "endMs": 1320
             },
             {
               "word": "and",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 860,
-              "endMs": 1460
+              "startMs": 1860,
+              "endMs": 2060
             },
             {
               "word": "Mia",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1460,
-              "endMs": 1680
+              "startMs": 2060,
+              "endMs": 2320
             },
             {
               "word": "makes",
               "charStart": 25,
               "charEnd": 30,
-              "startMs": 1680,
-              "endMs": 1920
+              "startMs": 2320,
+              "endMs": 2640
             },
             {
               "word": "a",
               "charStart": 31,
               "charEnd": 32,
-              "startMs": 1920,
-              "endMs": 2120
+              "startMs": 2640,
+              "endMs": 2860
             },
             {
               "word": "wish",
               "charStart": 33,
               "charEnd": 37,
-              "startMs": 2120,
-              "endMs": 2280
+              "startMs": 2860,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "She closes her eyes and blows out all the candles.",
+          "translation_ko": "미아는 눈을 감고 초를 모두 불어서 꺼요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "closes",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "her",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 980
+            },
+            {
+              "word": "eyes",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1600
+            },
+            {
+              "word": "blows",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "out",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1840,
+              "endMs": 2100
+            },
+            {
+              "word": "all",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2300,
+              "endMs": 2600
+            },
+            {
+              "word": "candles",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2600,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "Everyone claps and cheers loudly.",
+          "translation_ko": "모두가 손뼉을 치고 큰 소리로 환호해요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "claps",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 540,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1480
+            },
+            {
+              "word": "cheers",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1820
+            },
+            {
+              "word": "loudly",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2240
             }
           ]
         }
@@ -366,41 +1136,41 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 440
+              "endMs": 380
             },
             {
               "word": "is",
               "charStart": 6,
               "charEnd": 8,
-              "startMs": 440,
-              "endMs": 660
+              "startMs": 380,
+              "endMs": 600
             },
             {
               "word": "the",
               "charStart": 9,
               "charEnd": 12,
-              "startMs": 660,
-              "endMs": 920
+              "startMs": 600,
+              "endMs": 820
             },
             {
               "word": "best",
               "charStart": 13,
               "charEnd": 17,
-              "startMs": 920,
-              "endMs": 1180
+              "startMs": 820,
+              "endMs": 1120
             },
             {
               "word": "party",
               "charStart": 18,
               "charEnd": 23,
-              "startMs": 1180,
-              "endMs": 1620
+              "startMs": 1120,
+              "endMs": 1520
             },
             {
               "word": "we",
               "charStart": 26,
               "charEnd": 28,
-              "startMs": 1920,
+              "startMs": 1960,
               "endMs": 2000
             },
             {
@@ -418,6 +1188,132 @@
               "endMs": 2440
             }
           ]
+        },
+        {
+          "text": "There are balloons and colorful streamers everywhere.",
+          "translation_ko": "곳곳에 풍선과 색종이 테이프가 가득해요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "There",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "are",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "balloons",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 580,
+              "endMs": 1000
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "colorful",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1340,
+              "endMs": 1740
+            },
+            {
+              "word": "streamers",
+              "charStart": 32,
+              "charEnd": 41,
+              "startMs": 1740,
+              "endMs": 2420
+            },
+            {
+              "word": "everywhere",
+              "charStart": 42,
+              "charEnd": 52,
+              "startMs": 2420,
+              "endMs": 2860
+            }
+          ]
+        },
+        {
+          "text": "We dance and laugh together for a long time.",
+          "translation_ko": "우리는 오랫동안 함께 춤을 추고 웃어요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "dance",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "and",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 860
+            },
+            {
+              "word": "laugh",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "together",
+              "charStart": 19,
+              "charEnd": 27,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "for",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "long",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "time",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2100,
+              "endMs": 2400
+            }
+          ]
         }
       ]
     },
@@ -433,42 +1329,168 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 400
             },
             {
               "word": "eat",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 340,
-              "endMs": 600
+              "startMs": 400,
+              "endMs": 800
             },
             {
               "word": "cake",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 600,
-              "endMs": 900
+              "startMs": 800,
+              "endMs": 1300
             },
             {
               "word": "and",
               "charStart": 12,
               "charEnd": 15,
-              "startMs": 900,
-              "endMs": 1140
+              "startMs": 1300,
+              "endMs": 1760
             },
             {
               "word": "play",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1140,
-              "endMs": 1360
+              "startMs": 1760,
+              "endMs": 2020
             },
             {
               "word": "games",
               "charStart": 21,
               "charEnd": 26,
+              "startMs": 2020,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "The cake tastes sweet and creamy.",
+          "translation_ko": "케이크는 달콤하고 부드러운 맛이에요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "cake",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "tastes",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "sweet",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 2020
+            },
+            {
+              "word": "creamy",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "My favorite game is passing the balloon without dropping it.",
+          "translation_ko": "내가 제일 좋아하는 게임은 풍선을 떨어뜨리지 않고 전달하는 거예요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "My",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "favorite",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "game",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 1100
+            },
+            {
+              "word": "is",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "passing",
+              "charStart": 20,
+              "charEnd": 27,
               "startMs": 1360,
-              "endMs": 1660
+              "endMs": 1680
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "balloon",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "without",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2200,
+              "endMs": 2600
+            },
+            {
+              "word": "dropping",
+              "charStart": 48,
+              "charEnd": 56,
+              "startMs": 2600,
+              "endMs": 2900
+            },
+            {
+              "word": "it",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 2900,
+              "endMs": 3160
             }
           ]
         }
@@ -493,56 +1515,168 @@
               "charStart": 7,
               "charEnd": 15,
               "startMs": 640,
-              "endMs": 1040
+              "endMs": 1060
             },
             {
               "word": "goes",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 1040,
-              "endMs": 1320
+              "startMs": 1060,
+              "endMs": 1360
             },
             {
               "word": "home",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1320,
-              "endMs": 1600
+              "startMs": 1360,
+              "endMs": 1660
             },
             {
               "word": "we",
               "charStart": 27,
               "charEnd": 29,
-              "startMs": 1960,
-              "endMs": 2100
+              "startMs": 2120,
+              "endMs": 2300
             },
             {
               "word": "take",
               "charStart": 30,
               "charEnd": 34,
-              "startMs": 2100,
-              "endMs": 2240
+              "startMs": 2300,
+              "endMs": 2460
             },
             {
               "word": "a",
               "charStart": 35,
               "charEnd": 36,
-              "startMs": 2240,
-              "endMs": 2440
+              "startMs": 2460,
+              "endMs": 2900
             },
             {
               "word": "picture",
               "charStart": 37,
               "charEnd": 44,
-              "startMs": 2440,
-              "endMs": 2620
+              "startMs": 2900,
+              "endMs": 2900
             },
             {
               "word": "together",
               "charStart": 45,
               "charEnd": 53,
-              "startMs": 2620,
-              "endMs": 2980
+              "startMs": 2900,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "We all smile and say \"cheese!\"",
+          "translation_ko": "모두 웃으며 \"치즈!\"라고 말해요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "all",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 580
+            },
+            {
+              "word": "smile",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1420
+            },
+            {
+              "word": "say",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "cheese",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "I will always remember this wonderful birthday party.",
+          "translation_ko": "나는 이 멋진 생일 파티를 항상 기억할 거예요.",
+          "audio": "/seed/daily-10-happy-birthday/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "will",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 400,
+              "endMs": 920
+            },
+            {
+              "word": "always",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1460
+            },
+            {
+              "word": "remember",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1460,
+              "endMs": 1920
+            },
+            {
+              "word": "this",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2580
+            },
+            {
+              "word": "wonderful",
+              "charStart": 28,
+              "charEnd": 37,
+              "startMs": 2580,
+              "endMs": 3040
+            },
+            {
+              "word": "birthday",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 3040,
+              "endMs": 3380
+            },
+            {
+              "word": "party",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3380,
+              "endMs": 3700
             }
           ]
         }
@@ -588,28 +1722,16 @@
       "explain_ko": "ten candles — 초가 열 개였어요."
     },
     {
-      "question_ko": "미아는 노래할 때 무엇을 했나요?",
+      "question_ko": "미아는 소원을 빌고 나서 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "소원을 빌었다",
-        "춤을 췄다",
-        "울었다",
-        "잤다"
+        "초를 모두 껐다",
+        "케이크를 잘랐다",
+        "노래를 불렀다",
+        "선물을 열었다"
       ],
       "answerIndex": 0,
-      "explain_ko": "makes a wish — 소원을 빌었어요."
-    },
-    {
-      "question_ko": "\"Happy birthday\"는 무슨 뜻인가요?",
-      "type": "mc",
-      "options": [
-        "생일 축하해",
-        "잘 가",
-        "고마워",
-        "미안해"
-      ],
-      "answerIndex": 0,
-      "explain_ko": "Happy birthday는 \"생일 축하해\"예요."
+      "explain_ko": "blows out all the candles — 초를 모두 불어서 껐어요."
     },
     {
       "question_ko": "집에 가기 전에 무엇을 했나요?",
@@ -617,7 +1739,7 @@
       "options": [
         "사진 찍기",
         "수영하기",
-        "청소만 하기",
+        "청소하기",
         "잠자기"
       ],
       "answerIndex": 0,

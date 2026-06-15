@@ -1,0 +1,2584 @@
+{
+  "slug": "daily-143-the-debate-day",
+  "title": "The Debate Day",
+  "title_ko": "토론의 날",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina는 학교 토론 대회에서 서로 반대편이 되어 설득력 있는 주장을 펼치며 토론의 진정한 의미를 배웁니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park smiled and said, \"Today is Debate Day!\"",
+          "translation_ko": "박 선생님이 웃으며 말씀하셨어요. \"오늘은 토론의 날이에요!\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 920,
+              "endMs": 980
+            },
+            {
+              "word": "smiled",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1820
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1820,
+              "endMs": 2020
+            },
+            {
+              "word": "Today",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2340,
+              "endMs": 2720
+            },
+            {
+              "word": "is",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2720,
+              "endMs": 3100
+            },
+            {
+              "word": "Debate",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 3100,
+              "endMs": 3420
+            },
+            {
+              "word": "Day",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3420,
+              "endMs": 3700
+            }
+          ]
+        },
+        {
+          "text": "Jun felt nervous because he had never debated before.",
+          "translation_ko": "준은 토론을 해본 적이 없어서 긴장됐어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 680
+            },
+            {
+              "word": "nervous",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 1160
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1780
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1780,
+              "endMs": 1960
+            },
+            {
+              "word": "had",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "never",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2520
+            },
+            {
+              "word": "debated",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2520,
+              "endMs": 2920
+            },
+            {
+              "word": "before",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2920,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"The topic is: Should students have homework?\" Ms. Park said.",
+          "translation_ko": "\"주제는 '학생들에게 숙제가 있어야 할까요?'입니다.\" 선생님이 말씀하셨어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "topic",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 600
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 1000
+            },
+            {
+              "word": "Should",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 1620
+            },
+            {
+              "word": "students",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 2060
+            },
+            {
+              "word": "have",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "homework",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2360,
+              "endMs": 3820
+            },
+            {
+              "word": "Ms",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3820,
+              "endMs": 3920
+            },
+            {
+              "word": "Park",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 4080,
+              "endMs": 4140
+            },
+            {
+              "word": "said",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 4140,
+              "endMs": 4420
+            }
+          ]
+        },
+        {
+          "text": "Jun was on the \"Yes\" team. Mina was on the \"No\" team.",
+          "translation_ko": "준은 '찬성' 팀, 미나는 '반대' 팀이었어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 660
+            },
+            {
+              "word": "on",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "Yes",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "team",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1540
+            },
+            {
+              "word": "Mina",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "was",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2380,
+              "endMs": 2820
+            },
+            {
+              "word": "on",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2820,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2960,
+              "endMs": 3200
+            },
+            {
+              "word": "No",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 3200,
+              "endMs": 3320
+            },
+            {
+              "word": "team",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3320,
+              "endMs": 3620
+            }
+          ]
+        },
+        {
+          "text": "They looked at each other in surprise.",
+          "translation_ko": "둘은 놀라서 서로를 바라봤어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "looked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 900
+            },
+            {
+              "word": "at",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "each",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "other",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1520
+            },
+            {
+              "word": "in",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 2140
+            },
+            {
+              "word": "surprise",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"How can I argue that homework is good?\" Jun thought.",
+          "translation_ko": "\"숙제가 좋다고 어떻게 주장하지?\" 준은 생각했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "How",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "can",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 420
+            },
+            {
+              "word": "I",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "argue",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 900
+            },
+            {
+              "word": "that",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "homework",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1260,
+              "endMs": 1640
+            },
+            {
+              "word": "is",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 1960
+            },
+            {
+              "word": "good",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1960,
+              "endMs": 2260
+            },
+            {
+              "word": "Jun",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2900,
+              "endMs": 3020
+            },
+            {
+              "word": "thought",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3020,
+              "endMs": 3340
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park said, \"Think about why homework might help you learn.\"",
+          "translation_ko": "박 선생님이 말씀하셨어요. \"숙제가 어떻게 도움이 될지 생각해 봐요.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 920,
+              "endMs": 1060
+            },
+            {
+              "word": "said",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1060,
+              "endMs": 1400
+            },
+            {
+              "word": "Think",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 2080,
+              "endMs": 2180
+            },
+            {
+              "word": "about",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2180,
+              "endMs": 2440
+            },
+            {
+              "word": "why",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2440,
+              "endMs": 2700
+            },
+            {
+              "word": "homework",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 2700,
+              "endMs": 3100
+            },
+            {
+              "word": "might",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3100,
+              "endMs": 3380
+            },
+            {
+              "word": "help",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3380,
+              "endMs": 3600
+            },
+            {
+              "word": "you",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3600,
+              "endMs": 3820
+            },
+            {
+              "word": "learn",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3820,
+              "endMs": 4020
+            }
+          ]
+        },
+        {
+          "text": "Jun opened his notebook and started writing.",
+          "translation_ko": "준은 공책을 펴고 쓰기 시작했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "opened",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 800
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "notebook",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1400,
+              "endMs": 2000
+            },
+            {
+              "word": "started",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2280
+            },
+            {
+              "word": "writing",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Across the room, Mina was already writing with a confident look.",
+          "translation_ko": "교실 반대편에서 미나는 자신 있는 표정으로 벌써 적고 있었어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Across",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 620
+            },
+            {
+              "word": "room",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 860
+            },
+            {
+              "word": "Mina",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1540
+            },
+            {
+              "word": "was",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1820
+            },
+            {
+              "word": "already",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2240
+            },
+            {
+              "word": "writing",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2240,
+              "endMs": 2520
+            },
+            {
+              "word": "with",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 2700
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "confident",
+              "charStart": 49,
+              "charEnd": 58,
+              "startMs": 3080,
+              "endMs": 3220
+            },
+            {
+              "word": "look",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3220,
+              "endMs": 3560
+            }
+          ]
+        },
+        {
+          "text": "\"She always prepares well,\" Jun thought. \"I need to focus.\"",
+          "translation_ko": "\"미나는 항상 준비를 잘 하지.\" 준은 생각했어요. \"나도 집중해야 해.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "always",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 940
+            },
+            {
+              "word": "prepares",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1360
+            },
+            {
+              "word": "well",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1840
+            },
+            {
+              "word": "Jun",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2440,
+              "endMs": 2440
+            },
+            {
+              "word": "thought",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2440,
+              "endMs": 2760
+            },
+            {
+              "word": "I",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 3460,
+              "endMs": 3620
+            },
+            {
+              "word": "need",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3620,
+              "endMs": 3760
+            },
+            {
+              "word": "to",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3760,
+              "endMs": 4340
+            },
+            {
+              "word": "focus",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 4340,
+              "endMs": 4340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun wrote three reasons: homework helps you practice, builds responsibility, and prepares you for tests.",
+          "translation_ko": "준은 이유 세 가지를 적었어요. 숙제는 연습, 책임감, 시험 준비에 도움이 된다고요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 700
+            },
+            {
+              "word": "three",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 1040
+            },
+            {
+              "word": "reasons",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1040,
+              "endMs": 1520
+            },
+            {
+              "word": "homework",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "helps",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2460,
+              "endMs": 2740
+            },
+            {
+              "word": "you",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2740,
+              "endMs": 2960
+            },
+            {
+              "word": "practice",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2960,
+              "endMs": 3380
+            },
+            {
+              "word": "builds",
+              "charStart": 54,
+              "charEnd": 60,
+              "startMs": 4200,
+              "endMs": 4200
+            },
+            {
+              "word": "responsibility",
+              "charStart": 61,
+              "charEnd": 75,
+              "startMs": 4200,
+              "endMs": 4940
+            },
+            {
+              "word": "and",
+              "charStart": 77,
+              "charEnd": 80,
+              "startMs": 5420,
+              "endMs": 5860
+            },
+            {
+              "word": "prepares",
+              "charStart": 81,
+              "charEnd": 89,
+              "startMs": 5860,
+              "endMs": 5860
+            },
+            {
+              "word": "you",
+              "charStart": 90,
+              "charEnd": 93,
+              "startMs": 5860,
+              "endMs": 6040
+            },
+            {
+              "word": "for",
+              "charStart": 94,
+              "charEnd": 97,
+              "startMs": 6040,
+              "endMs": 6580
+            },
+            {
+              "word": "tests",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 6580,
+              "endMs": 6580
+            }
+          ]
+        },
+        {
+          "text": "He felt more ready.",
+          "translation_ko": "더 준비된 느낌이 들었어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 560
+            },
+            {
+              "word": "more",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 1100
+            },
+            {
+              "word": "ready",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The debate began. Jun stood up and spoke clearly.",
+          "translation_ko": "토론이 시작됐어요. 준은 일어서서 또렷하게 말했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "debate",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 200,
+              "endMs": 520
+            },
+            {
+              "word": "began",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 1100
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1680,
+              "endMs": 1860
+            },
+            {
+              "word": "stood",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "up",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2160,
+              "endMs": 2420
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2880
+            },
+            {
+              "word": "spoke",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2880,
+              "endMs": 3040
+            },
+            {
+              "word": "clearly",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 3040,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "\"Homework helps students remember what they learned in class.\"",
+          "translation_ko": "\"숙제는 학생들이 수업 내용을 기억하게 해줍니다.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Homework",
+              "charStart": 1,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "helps",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "students",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 900,
+              "endMs": 1380
+            },
+            {
+              "word": "remember",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1380,
+              "endMs": 1900
+            },
+            {
+              "word": "what",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "they",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2140,
+              "endMs": 2320
+            },
+            {
+              "word": "learned",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2320,
+              "endMs": 2620
+            },
+            {
+              "word": "in",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 2620,
+              "endMs": 2880
+            },
+            {
+              "word": "class",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 2880,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "\"Practicing at home keeps lessons in our minds longer.\"",
+          "translation_ko": "\"집에서 연습하면 배운 내용이 더 오래 기억돼요.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Practicing",
+              "charStart": 1,
+              "charEnd": 11,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "at",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "home",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1300
+            },
+            {
+              "word": "keeps",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1860
+            },
+            {
+              "word": "lessons",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1860,
+              "endMs": 2260
+            },
+            {
+              "word": "in",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "our",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "minds",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2680,
+              "endMs": 2880
+            },
+            {
+              "word": "longer",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 2880,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then Mina stood up calmly and said, \"But students also need free time to rest.\"",
+          "translation_ko": "그러자 미나가 차분하게 일어서서 말했어요. \"하지만 학생들에게는 쉴 자유 시간도 필요합니다.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Mina",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "stood",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "up",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1400
+            },
+            {
+              "word": "calmly",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1880
+            },
+            {
+              "word": "said",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2040
+            },
+            {
+              "word": "But",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 2740
+            },
+            {
+              "word": "students",
+              "charStart": 41,
+              "charEnd": 49,
+              "startMs": 2740,
+              "endMs": 3060
+            },
+            {
+              "word": "also",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3060,
+              "endMs": 3500
+            },
+            {
+              "word": "need",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3500,
+              "endMs": 3740
+            },
+            {
+              "word": "free",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3740,
+              "endMs": 3980
+            },
+            {
+              "word": "time",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 3980,
+              "endMs": 4220
+            },
+            {
+              "word": "to",
+              "charStart": 70,
+              "charEnd": 72,
+              "startMs": 4220,
+              "endMs": 4660
+            },
+            {
+              "word": "rest",
+              "charStart": 73,
+              "charEnd": 77,
+              "startMs": 4660,
+              "endMs": 4660
+            }
+          ]
+        },
+        {
+          "text": "\"Too much homework can cause stress and make learning feel like a punishment.\"",
+          "translation_ko": "\"숙제가 너무 많으면 스트레스를 받고, 배움이 벌처럼 느껴질 수 있어요.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Too",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "much",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "homework",
+              "charStart": 10,
+              "charEnd": 18,
+              "startMs": 780,
+              "endMs": 1220
+            },
+            {
+              "word": "can",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1600
+            },
+            {
+              "word": "cause",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1920
+            },
+            {
+              "word": "stress",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2420
+            },
+            {
+              "word": "and",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 3100
+            },
+            {
+              "word": "make",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3100,
+              "endMs": 3280
+            },
+            {
+              "word": "learning",
+              "charStart": 45,
+              "charEnd": 53,
+              "startMs": 3280,
+              "endMs": 3600
+            },
+            {
+              "word": "feel",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3600,
+              "endMs": 3940
+            },
+            {
+              "word": "like",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3940,
+              "endMs": 4100
+            },
+            {
+              "word": "a",
+              "charStart": 64,
+              "charEnd": 65,
+              "startMs": 4100,
+              "endMs": 4300
+            },
+            {
+              "word": "punishment",
+              "charStart": 66,
+              "charEnd": 76,
+              "startMs": 4300,
+              "endMs": 4600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun thought about what Mina said. \"She has a point,\" he admitted.",
+          "translation_ko": "준은 미나의 말을 생각해봤어요. '맞는 말이기도 해.' 속으로 인정했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "thought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "about",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "what",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1600
+            },
+            {
+              "word": "Mina",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2220
+            },
+            {
+              "word": "She",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "has",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 3000,
+              "endMs": 3200
+            },
+            {
+              "word": "a",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 3200,
+              "endMs": 3380
+            },
+            {
+              "word": "point",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3380,
+              "endMs": 3600
+            },
+            {
+              "word": "he",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 4000,
+              "endMs": 4200
+            },
+            {
+              "word": "admitted",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 4200,
+              "endMs": 4380
+            }
+          ]
+        },
+        {
+          "text": "But he still believed some homework was helpful, so he continued.",
+          "translation_ko": "하지만 어느 정도의 숙제는 도움이 된다고 생각했기 때문에 계속 말했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "he",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 500
+            },
+            {
+              "word": "still",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 1000
+            },
+            {
+              "word": "believed",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "some",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1760
+            },
+            {
+              "word": "homework",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 2060
+            },
+            {
+              "word": "was",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "helpful",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2340,
+              "endMs": 2680
+            },
+            {
+              "word": "so",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3180,
+              "endMs": 3280
+            },
+            {
+              "word": "he",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3280,
+              "endMs": 3500
+            },
+            {
+              "word": "continued",
+              "charStart": 55,
+              "charEnd": 64,
+              "startMs": 3500,
+              "endMs": 3880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Too much is bad,\" Jun said. \"But the right amount helps us grow.\"",
+          "translation_ko": "\"너무 많은 건 나쁘지만,\" 준이 말했어요. \"적당한 양은 성장에 도움이 돼요.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Too",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "much",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "is",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 840
+            },
+            {
+              "word": "bad",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1180
+            },
+            {
+              "word": "Jun",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1600
+            },
+            {
+              "word": "said",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "But",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2400,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2520,
+              "endMs": 2680
+            },
+            {
+              "word": "right",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 2920
+            },
+            {
+              "word": "amount",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2920,
+              "endMs": 3220
+            },
+            {
+              "word": "helps",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3220,
+              "endMs": 3600
+            },
+            {
+              "word": "us",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3600,
+              "endMs": 3880
+            },
+            {
+              "word": "grow",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3880,
+              "endMs": 4040
+            }
+          ]
+        },
+        {
+          "text": "Mina nodded. \"Then the real question is how much is enough.\"",
+          "translation_ko": "미나가 고개를 끄덕였어요. \"그렇다면 진짜 문제는 얼마나가 적당한가인 것 같아요.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "nodded",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 1080
+            },
+            {
+              "word": "Then",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1380,
+              "endMs": 1520
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1700
+            },
+            {
+              "word": "real",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "question",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "word": "is",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2400,
+              "endMs": 2740
+            },
+            {
+              "word": "how",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 3120,
+              "endMs": 3240
+            },
+            {
+              "word": "much",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3240,
+              "endMs": 3440
+            },
+            {
+              "word": "is",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3440,
+              "endMs": 3680
+            },
+            {
+              "word": "enough",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3680,
+              "endMs": 3940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park applauded. \"Excellent! You both made great points.\"",
+          "translation_ko": "박 선생님이 박수를 치셨어요. \"훌륭해요! 둘 다 좋은 주장을 했어요.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 660,
+              "endMs": 800
+            },
+            {
+              "word": "applauded",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1540
+            },
+            {
+              "word": "Excellent",
+              "charStart": 21,
+              "charEnd": 30,
+              "startMs": 2120,
+              "endMs": 2460
+            },
+            {
+              "word": "You",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2920,
+              "endMs": 3120
+            },
+            {
+              "word": "both",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3120,
+              "endMs": 3420
+            },
+            {
+              "word": "made",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3420,
+              "endMs": 3640
+            },
+            {
+              "word": "great",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3640,
+              "endMs": 4060
+            },
+            {
+              "word": "points",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 4060,
+              "endMs": 4420
+            }
+          ]
+        },
+        {
+          "text": "\"A good debate is not about winning. It is about understanding others.\"",
+          "translation_ko": "\"좋은 토론은 이기는 게 아니에요. 서로를 이해하는 거예요.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "good",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 440
+            },
+            {
+              "word": "debate",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "is",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1140
+            },
+            {
+              "word": "not",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "about",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "winning",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1680,
+              "endMs": 1960
+            },
+            {
+              "word": "It",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2660,
+              "endMs": 2680
+            },
+            {
+              "word": "is",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 2860
+            },
+            {
+              "word": "about",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3100
+            },
+            {
+              "word": "understanding",
+              "charStart": 49,
+              "charEnd": 62,
+              "startMs": 3100,
+              "endMs": 3720
+            },
+            {
+              "word": "others",
+              "charStart": 63,
+              "charEnd": 69,
+              "startMs": 3720,
+              "endMs": 4120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At lunch, Jun and Mina sat together.",
+          "translation_ko": "점심 시간에 준과 미나는 함께 앉았어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "lunch",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "Jun",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1140
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "Mina",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "sat",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 2220
+            },
+            {
+              "word": "together",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2580
+            }
+          ]
+        },
+        {
+          "text": "\"You argued well today,\" Mina said with a grin.",
+          "translation_ko": "\"오늘 잘했어.\" 미나가 씩 웃으며 말했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "argued",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 1000
+            },
+            {
+              "word": "well",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1380
+            },
+            {
+              "word": "today",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "Mina",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2360,
+              "endMs": 2360
+            },
+            {
+              "word": "said",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "with",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2620,
+              "endMs": 2780
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2780,
+              "endMs": 3100
+            },
+            {
+              "word": "grin",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 3100,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "\"So did you,\" Jun said. \"I never thought about free time that way.\"",
+          "translation_ko": "\"너도 잘했어.\" 준이 말했어요. \"자유 시간에 대해 그렇게 생각해 본 적이 없었거든.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "So",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "did",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 680,
+              "endMs": 880
+            },
+            {
+              "word": "you",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1380
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1420,
+              "endMs": 1640
+            },
+            {
+              "word": "said",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1640,
+              "endMs": 1940
+            },
+            {
+              "word": "I",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 2280,
+              "endMs": 2360
+            },
+            {
+              "word": "never",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2360,
+              "endMs": 2520
+            },
+            {
+              "word": "thought",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2520,
+              "endMs": 2760
+            },
+            {
+              "word": "about",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2760,
+              "endMs": 3040
+            },
+            {
+              "word": "free",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3040,
+              "endMs": 3240
+            },
+            {
+              "word": "time",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3240,
+              "endMs": 3400
+            },
+            {
+              "word": "that",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3400,
+              "endMs": 3620
+            },
+            {
+              "word": "way",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3620,
+              "endMs": 3840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina said, \"I actually agreed with some of your points too.\"",
+          "translation_ko": "미나가 말했어요. \"사실 나도 네 주장 중에 동의하는 부분이 있었어.\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "said",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 1040
+            },
+            {
+              "word": "I",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1420,
+              "endMs": 1540
+            },
+            {
+              "word": "actually",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1540,
+              "endMs": 1920
+            },
+            {
+              "word": "agreed",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2280
+            },
+            {
+              "word": "with",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2280,
+              "endMs": 2560
+            },
+            {
+              "word": "some",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2560,
+              "endMs": 2720
+            },
+            {
+              "word": "of",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2720,
+              "endMs": 2880
+            },
+            {
+              "word": "your",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2880,
+              "endMs": 3020
+            },
+            {
+              "word": "points",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 3020,
+              "endMs": 3260
+            },
+            {
+              "word": "too",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3260,
+              "endMs": 3600
+            }
+          ]
+        },
+        {
+          "text": "Jun laughed and said, \"That is the interesting part of debating!\"",
+          "translation_ko": "준은 웃으며 말했어요. \"그게 토론의 재미있는 점이지!\"",
+          "audio": "/seed/daily-143-the-debate-day/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "laughed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "said",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "That",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2220,
+              "endMs": 2380
+            },
+            {
+              "word": "is",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2380,
+              "endMs": 2540
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2540,
+              "endMs": 2840
+            },
+            {
+              "word": "interesting",
+              "charStart": 35,
+              "charEnd": 46,
+              "startMs": 2840,
+              "endMs": 3160
+            },
+            {
+              "word": "part",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3160,
+              "endMs": 3500
+            },
+            {
+              "word": "of",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3500,
+              "endMs": 3720
+            },
+            {
+              "word": "debating",
+              "charStart": 55,
+              "charEnd": 63,
+              "startMs": 3720,
+              "endMs": 3940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the way home, Jun felt that debating had changed his view.",
+          "translation_ko": "집에 가는 길에 준은 토론이 생각을 바꿔줬다고 느꼈어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 320
+            },
+            {
+              "word": "way",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 540
+            },
+            {
+              "word": "home",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 820
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "felt",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "that",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1680,
+              "endMs": 1860
+            },
+            {
+              "word": "debating",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 1860,
+              "endMs": 2180
+            },
+            {
+              "word": "had",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "changed",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2480,
+              "endMs": 2820
+            },
+            {
+              "word": "his",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 2820,
+              "endMs": 3060
+            },
+            {
+              "word": "view",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3060,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Listening to others was just as important as your own words.",
+          "translation_ko": "상대방 이야기를 듣는 것이 자신의 말만큼 중요했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Listening",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "others",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "was",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "just",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "as",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 1860
+            },
+            {
+              "word": "important",
+              "charStart": 32,
+              "charEnd": 41,
+              "startMs": 1860,
+              "endMs": 2140
+            },
+            {
+              "word": "as",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "your",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2420,
+              "endMs": 2600
+            },
+            {
+              "word": "own",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 2600,
+              "endMs": 2840
+            },
+            {
+              "word": "words",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2840,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "\"I will listen more next time,\" he thought.",
+          "translation_ko": "\"다음엔 더 귀 기울여야지.\" 준은 다짐했어요.",
+          "audio": "/seed/daily-143-the-debate-day/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "will",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "listen",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "more",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1160
+            },
+            {
+              "word": "next",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "time",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "he",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "thought",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "오늘 토론의 주제는 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "학생들에게 숙제가 있어야 하는가",
+        "학교에 교복이 필요한가",
+        "급식에 채소가 있어야 하는가",
+        "수업 시간이 더 길어야 하는가"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님이 '학생들에게 숙제가 있어야 할까요?'를 토론 주제로 발표했어요."
+    },
+    {
+      "question_ko": "준은 어느 팀에 배정되었나요?",
+      "type": "mc",
+      "options": [
+        "찬성(Yes) 팀",
+        "반대(No) 팀",
+        "심판 팀",
+        "발표하지 않았어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 숙제가 있어야 한다는 '찬성' 팀에 배정되었고, 미나는 '반대' 팀이었어요."
+    },
+    {
+      "question_ko": "준이 적은 숙제의 장점이 아닌 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "친구를 많이 사귀게 해준다",
+        "연습하게 해준다",
+        "책임감을 키워 준다",
+        "시험 준비에 도움이 된다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 연습, 책임감, 시험 준비를 적었어요. 친구를 사귀게 해준다는 이유는 없었어요."
+    },
+    {
+      "question_ko": "토론 후 준이 깨달은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "상대방 의견을 듣는 것도 중요하다",
+        "토론에서 이기는 것이 가장 중요하다",
+        "숙제는 전혀 필요 없다",
+        "미나보다 자신이 더 잘했다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 상대방 의견을 듣는 것이 자신의 주장을 펼치는 것만큼 중요하다는 것을 깨달았어요."
+    },
+    {
+      "question_ko": "박 선생님이 말씀하신 '좋은 토론'의 의미는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "서로 다른 관점을 이해하는 것",
+        "큰 소리로 말하는 것",
+        "상대방을 이기는 것",
+        "가장 긴 주장을 하는 것"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 좋은 토론은 이기는 것이 아니라 서로 다른 관점을 이해하는 것이라고 말씀하셨어요."
+    }
+  ]
+}

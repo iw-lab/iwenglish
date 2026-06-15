@@ -1,0 +1,2584 @@
+{
+  "slug": "daily-148-the-green-rooftop",
+  "title": "The Green Rooftop",
+  "title_ko": "옥상 정원",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "준과 미나는 선생님과 함께 학교 옥상을 초록빛 정원으로 바꾸는 계획을 세우며 협동과 책임의 소중함을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun stared at the empty rooftop and sighed.",
+          "translation_ko": "준은 텅 빈 옥상을 바라보며 한숨을 쉬었어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "stared",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "empty",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1720
+            },
+            {
+              "word": "rooftop",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 2220
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2600
+            },
+            {
+              "word": "sighed",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "It was just flat gray concrete with nothing growing on it.",
+          "translation_ko": "그곳은 아무것도 자라지 않는 회색 콘크리트뿐이었어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "just",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "flat",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "gray",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "concrete",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 2040
+            },
+            {
+              "word": "with",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2040,
+              "endMs": 2380
+            },
+            {
+              "word": "nothing",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2380,
+              "endMs": 2680
+            },
+            {
+              "word": "growing",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2680,
+              "endMs": 3020
+            },
+            {
+              "word": "on",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3020,
+              "endMs": 3200
+            },
+            {
+              "word": "it",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3200,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At lunch, Mina sat next to Jun and noticed his thoughtful face.",
+          "translation_ko": "점심시간에 미나가 준 옆에 앉더니 그의 고민스러운 표정을 알아챘어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "lunch",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "Mina",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1080
+            },
+            {
+              "word": "sat",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1420
+            },
+            {
+              "word": "next",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1680
+            },
+            {
+              "word": "to",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "Jun",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2020,
+              "endMs": 2080
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2400
+            },
+            {
+              "word": "noticed",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2400,
+              "endMs": 2640
+            },
+            {
+              "word": "his",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2640,
+              "endMs": 2920
+            },
+            {
+              "word": "thoughtful",
+              "charStart": 47,
+              "charEnd": 57,
+              "startMs": 2920,
+              "endMs": 3280
+            },
+            {
+              "word": "face",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3280,
+              "endMs": 3700
+            }
+          ]
+        },
+        {
+          "text": "\"What are you thinking about?\" she asked.",
+          "translation_ko": "\"무슨 생각 해?\" 미나가 물었어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "are",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "you",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "thinking",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "about",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1060,
+              "endMs": 1960
+            },
+            {
+              "word": "she",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "asked",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2140,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Our rooftop is wasted,\" said Jun. \"Couldn't we do something with it?\"",
+          "translation_ko": "\"우리 옥상이 아깝잖아.\" 준이 말했어요. \"거기서 뭔가 할 수 없을까?\"",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "rooftop",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 900
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1340
+            },
+            {
+              "word": "wasted",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 2420
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2420,
+              "endMs": 2500
+            },
+            {
+              "word": "Jun",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2500,
+              "endMs": 2820
+            },
+            {
+              "word": "Couldn't",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 3440,
+              "endMs": 3620
+            },
+            {
+              "word": "we",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3620,
+              "endMs": 3860
+            },
+            {
+              "word": "do",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3860,
+              "endMs": 4060
+            },
+            {
+              "word": "something",
+              "charStart": 51,
+              "charEnd": 60,
+              "startMs": 4060,
+              "endMs": 4340
+            },
+            {
+              "word": "with",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 4340,
+              "endMs": 4560
+            },
+            {
+              "word": "it",
+              "charStart": 66,
+              "charEnd": 68,
+              "startMs": 4560,
+              "endMs": 4700
+            }
+          ]
+        },
+        {
+          "text": "Mina's eyes lit up. \"What if we turned it into a garden?\"",
+          "translation_ko": "미나의 눈이 빛났어요. \"그걸 정원으로 만들면 어때?\"",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina's",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "eyes",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 860
+            },
+            {
+              "word": "lit",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "up",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1420
+            },
+            {
+              "word": "What",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1840,
+              "endMs": 1920
+            },
+            {
+              "word": "if",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "we",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2280
+            },
+            {
+              "word": "turned",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2460
+            },
+            {
+              "word": "it",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2460,
+              "endMs": 2600
+            },
+            {
+              "word": "into",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 3080
+            },
+            {
+              "word": "garden",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3080,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After lunch, they went to see Ms. Park.",
+          "translation_ko": "점심 후 두 사람은 박 선생님을 찾아갔어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "lunch",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "they",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1160
+            },
+            {
+              "word": "went",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "to",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "see",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "Ms",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "Park",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2000,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "\"We want to build a rooftop garden,\" said Jun.",
+          "translation_ko": "\"옥상에 정원을 만들고 싶어요.\" 준이 말했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "want",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 440
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 680
+            },
+            {
+              "word": "build",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 680,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 740,
+              "endMs": 1340
+            },
+            {
+              "word": "rooftop",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1340,
+              "endMs": 1340
+            },
+            {
+              "word": "garden",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1340,
+              "endMs": 2380
+            },
+            {
+              "word": "said",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2380,
+              "endMs": 2440
+            },
+            {
+              "word": "Jun",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2440,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park leaned forward, looking very interested.",
+          "translation_ko": "박 선생님은 앞으로 몸을 기울이며 큰 관심을 보였어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 1000
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 1220,
+              "endMs": 1340
+            },
+            {
+              "word": "leaned",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1340,
+              "endMs": 1800
+            },
+            {
+              "word": "forward",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1800,
+              "endMs": 2260
+            },
+            {
+              "word": "looking",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 2680,
+              "endMs": 2720
+            },
+            {
+              "word": "very",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2720,
+              "endMs": 3160
+            },
+            {
+              "word": "interested",
+              "charStart": 38,
+              "charEnd": 48,
+              "startMs": 3160,
+              "endMs": 3560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"That sounds great,\" said Ms. Park. \"But you need a solid plan first.\"",
+          "translation_ko": "\"멋지구나.\" 박 선생님이 말했어요. \"하지만 먼저 탄탄한 계획이 필요해.\"",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "sounds",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "great",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 860,
+              "endMs": 1300
+            },
+            {
+              "word": "said",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1640,
+              "endMs": 1720
+            },
+            {
+              "word": "Ms",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "Park",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2140,
+              "endMs": 2200
+            },
+            {
+              "word": "But",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2700,
+              "endMs": 2980
+            },
+            {
+              "word": "you",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2980,
+              "endMs": 3120
+            },
+            {
+              "word": "need",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3120,
+              "endMs": 3220
+            },
+            {
+              "word": "a",
+              "charStart": 50,
+              "charEnd": 51,
+              "startMs": 3220,
+              "endMs": 3500
+            },
+            {
+              "word": "solid",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3500,
+              "endMs": 3660
+            },
+            {
+              "word": "plan",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3660,
+              "endMs": 4000
+            },
+            {
+              "word": "first",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 4000,
+              "endMs": 4380
+            }
+          ]
+        },
+        {
+          "text": "\"Think about the plants, the water, and who will take care of them.\"",
+          "translation_ko": "\"식물, 물, 그리고 누가 돌볼지 생각해야 해.\"",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Think",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "about",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "plants",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1560
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2160
+            },
+            {
+              "word": "water",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2400
+            },
+            {
+              "word": "and",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2880,
+              "endMs": 2980
+            },
+            {
+              "word": "who",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2980,
+              "endMs": 3100
+            },
+            {
+              "word": "will",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3100,
+              "endMs": 3300
+            },
+            {
+              "word": "take",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3300,
+              "endMs": 3460
+            },
+            {
+              "word": "care",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3460,
+              "endMs": 3640
+            },
+            {
+              "word": "of",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 3640,
+              "endMs": 3820
+            },
+            {
+              "word": "them",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3820,
+              "endMs": 3920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That evening, Jun and Mina planned over a video call.",
+          "translation_ko": "그날 저녁 준과 미나는 화상 통화로 계획을 세웠어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "evening",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 740
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "Mina",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1740,
+              "endMs": 1980
+            },
+            {
+              "word": "planned",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2480
+            },
+            {
+              "word": "over",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2480,
+              "endMs": 2800
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "video",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3000,
+              "endMs": 3240
+            },
+            {
+              "word": "call",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3240,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "They chose tomatoes, herbs, and sunflowers because they don't need much space.",
+          "translation_ko": "공간이 많이 필요하지 않은 토마토, 허브, 해바라기를 고르기로 했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "chose",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 760
+            },
+            {
+              "word": "tomatoes",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 760,
+              "endMs": 1420
+            },
+            {
+              "word": "herbs",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 2140,
+              "endMs": 2140
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2440,
+              "endMs": 2720
+            },
+            {
+              "word": "sunflowers",
+              "charStart": 32,
+              "charEnd": 42,
+              "startMs": 2720,
+              "endMs": 3220
+            },
+            {
+              "word": "because",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 3220,
+              "endMs": 3720
+            },
+            {
+              "word": "they",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3720,
+              "endMs": 3920
+            },
+            {
+              "word": "don't",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3920,
+              "endMs": 4220
+            },
+            {
+              "word": "need",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 4220,
+              "endMs": 4420
+            },
+            {
+              "word": "much",
+              "charStart": 67,
+              "charEnd": 71,
+              "startMs": 4420,
+              "endMs": 4700
+            },
+            {
+              "word": "space",
+              "charStart": 72,
+              "charEnd": 77,
+              "startMs": 4700,
+              "endMs": 5060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next morning, they showed their plan to Ms. Park.",
+          "translation_ko": "다음 날 아침 두 사람은 박 선생님께 계획을 보여드렸어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "morning",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "they",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1540
+            },
+            {
+              "word": "showed",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1780
+            },
+            {
+              "word": "their",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "plan",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1980,
+              "endMs": 2320
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "Ms",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2600,
+              "endMs": 2720
+            },
+            {
+              "word": "Park",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2880,
+              "endMs": 2980
+            }
+          ]
+        },
+        {
+          "text": "\"Other classes should join so everyone feels responsible,\" said Mina.",
+          "translation_ko": "\"다른 반도 함께하면 모두가 책임감을 느낄 거예요.\" 미나가 말했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Other",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "classes",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 300,
+              "endMs": 720
+            },
+            {
+              "word": "should",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 720,
+              "endMs": 1060
+            },
+            {
+              "word": "join",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1060,
+              "endMs": 1380
+            },
+            {
+              "word": "so",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 1860
+            },
+            {
+              "word": "everyone",
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 1860,
+              "endMs": 2380
+            },
+            {
+              "word": "feels",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2380,
+              "endMs": 2720
+            },
+            {
+              "word": "responsible",
+              "charStart": 45,
+              "charEnd": 56,
+              "startMs": 2720,
+              "endMs": 3940
+            },
+            {
+              "word": "said",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3940,
+              "endMs": 3980
+            },
+            {
+              "word": "Mina",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 3980,
+              "endMs": 4200
+            }
+          ]
+        },
+        {
+          "text": "\"That is exactly what a real project needs,\" Ms. Park said.",
+          "translation_ko": "\"그게 바로 진짜 프로젝트에 필요한 생각이야.\" 박 선생님이 말했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 500
+            },
+            {
+              "word": "exactly",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 500,
+              "endMs": 1020
+            },
+            {
+              "word": "what",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1380
+            },
+            {
+              "word": "real",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "project",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 1680,
+              "endMs": 2080
+            },
+            {
+              "word": "needs",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2080,
+              "endMs": 2880
+            },
+            {
+              "word": "Ms",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2880,
+              "endMs": 2960
+            },
+            {
+              "word": "Park",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3140,
+              "endMs": 3200
+            },
+            {
+              "word": "said",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3200,
+              "endMs": 3440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park helped them write a proposal letter to the principal.",
+          "translation_ko": "박 선생님은 교장 선생님께 드릴 제안서 쓰는 것을 도와주었어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 600
+            },
+            {
+              "word": "helped",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "them",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "write",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "proposal",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1560,
+              "endMs": 1940
+            },
+            {
+              "word": "letter",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 1940,
+              "endMs": 2140
+            },
+            {
+              "word": "to",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2420,
+              "endMs": 2620
+            },
+            {
+              "word": "principal",
+              "charStart": 52,
+              "charEnd": 61,
+              "startMs": 2620,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "Jun felt nervous, but Mina said, \"This will make our school better.\"",
+          "translation_ko": "준은 긴장했지만 미나가 말했어요. \"이게 우리 학교를 더 좋게 만들 거야.\"",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 780
+            },
+            {
+              "word": "nervous",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1240
+            },
+            {
+              "word": "but",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 1900
+            },
+            {
+              "word": "Mina",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "said",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2140,
+              "endMs": 2540
+            },
+            {
+              "word": "This",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 3080,
+              "endMs": 3180
+            },
+            {
+              "word": "will",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 3180,
+              "endMs": 3380
+            },
+            {
+              "word": "make",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3380,
+              "endMs": 3580
+            },
+            {
+              "word": "our",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3580,
+              "endMs": 3860
+            },
+            {
+              "word": "school",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3860,
+              "endMs": 4100
+            },
+            {
+              "word": "better",
+              "charStart": 60,
+              "charEnd": 66,
+              "startMs": 4100,
+              "endMs": 4460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A week later, the principal called them in.",
+          "translation_ko": "일주일 뒤 교장 선생님이 두 사람을 불렀어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "week",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 500
+            },
+            {
+              "word": "later",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "principal",
+              "charStart": 18,
+              "charEnd": 27,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "called",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "them",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2020,
+              "endMs": 2220
+            },
+            {
+              "word": "in",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "\"I read your proposal. This is a brilliant idea,\" she said.",
+          "translation_ko": "\"제안서를 읽었어요. 정말 훌륭한 생각이에요.\" 교장 선생님이 말했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "read",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 420
+            },
+            {
+              "word": "your",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 680
+            },
+            {
+              "word": "proposal",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 680,
+              "endMs": 1040
+            },
+            {
+              "word": "This",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 1940
+            },
+            {
+              "word": "is",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2060
+            },
+            {
+              "word": "a",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "brilliant",
+              "charStart": 33,
+              "charEnd": 42,
+              "startMs": 2360,
+              "endMs": 2640
+            },
+            {
+              "word": "idea",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 3100
+            },
+            {
+              "word": "she",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3520,
+              "endMs": 3660
+            },
+            {
+              "word": "said",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3660,
+              "endMs": 3920
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina smiled at each other.",
+          "translation_ko": "준과 미나는 서로 바라보며 환하게 웃었어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1220
+            },
+            {
+              "word": "smiled",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 2020
+            },
+            {
+              "word": "at",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "each",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2260,
+              "endMs": 2440
+            },
+            {
+              "word": "other",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2440,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "More than thirty students signed up to help.",
+          "translation_ko": "서른 명이 넘는 학생이 돕겠다고 신청했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "More",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "than",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "thirty",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 1060
+            },
+            {
+              "word": "students",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "signed",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1460,
+              "endMs": 1760
+            },
+            {
+              "word": "up",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 1960
+            },
+            {
+              "word": "to",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "help",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2140,
+              "endMs": 2360
+            }
+          ]
+        },
+        {
+          "text": "\"When people understand why it matters, they want to help,\" said Ms. Park.",
+          "translation_ko": "\"왜 중요한지 알면 사람들은 돕고 싶어지거든.\" 박 선생님이 말했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "people",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "understand",
+              "charStart": 13,
+              "charEnd": 23,
+              "startMs": 580,
+              "endMs": 1140
+            },
+            {
+              "word": "why",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1140,
+              "endMs": 1480
+            },
+            {
+              "word": "it",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "matters",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "they",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2320,
+              "endMs": 2380
+            },
+            {
+              "word": "want",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2380,
+              "endMs": 2620
+            },
+            {
+              "word": "to",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2620,
+              "endMs": 2820
+            },
+            {
+              "word": "help",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2820,
+              "endMs": 3560
+            },
+            {
+              "word": "said",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3560,
+              "endMs": 3560
+            },
+            {
+              "word": "Ms",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 3560,
+              "endMs": 3760
+            },
+            {
+              "word": "Park",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 3900,
+              "endMs": 4000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the first work day, students carried soil, pots, and seedlings up to the rooftop.",
+          "translation_ko": "첫 작업 날 학생들은 흙, 화분, 모종을 옥상으로 날랐어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 140,
+              "endMs": 300
+            },
+            {
+              "word": "first",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "work",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "day",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "students",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "carried",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2320
+            },
+            {
+              "word": "soil",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2320,
+              "endMs": 2780
+            },
+            {
+              "word": "pots",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3440,
+              "endMs": 3440
+            },
+            {
+              "word": "and",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3740,
+              "endMs": 4020
+            },
+            {
+              "word": "seedlings",
+              "charStart": 56,
+              "charEnd": 65,
+              "startMs": 4020,
+              "endMs": 4340
+            },
+            {
+              "word": "up",
+              "charStart": 66,
+              "charEnd": 68,
+              "startMs": 4340,
+              "endMs": 4680
+            },
+            {
+              "word": "to",
+              "charStart": 69,
+              "charEnd": 71,
+              "startMs": 4680,
+              "endMs": 4840
+            },
+            {
+              "word": "the",
+              "charStart": 72,
+              "charEnd": 75,
+              "startMs": 4840,
+              "endMs": 5000
+            },
+            {
+              "word": "rooftop",
+              "charStart": 76,
+              "charEnd": 83,
+              "startMs": 5000,
+              "endMs": 5200
+            }
+          ]
+        },
+        {
+          "text": "Jun placed each pot carefully while Mina watered the seedlings.",
+          "translation_ko": "준이 화분을 조심스럽게 제자리에 놓는 동안 미나는 물을 줬어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "placed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 780
+            },
+            {
+              "word": "each",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 1200
+            },
+            {
+              "word": "pot",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1500
+            },
+            {
+              "word": "carefully",
+              "charStart": 20,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1960
+            },
+            {
+              "word": "while",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2320
+            },
+            {
+              "word": "Mina",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "watered",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2600,
+              "endMs": 3160
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3160,
+              "endMs": 3280
+            },
+            {
+              "word": "seedlings",
+              "charStart": 53,
+              "charEnd": 62,
+              "startMs": 3280,
+              "endMs": 3600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By the end of the day, the rooftop looked different.",
+          "translation_ko": "하루가 끝날 무렵 옥상은 달라진 모습이었어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1020
+            },
+            {
+              "word": "day",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1600,
+              "endMs": 1760
+            },
+            {
+              "word": "rooftop",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1760,
+              "endMs": 2300
+            },
+            {
+              "word": "looked",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2300,
+              "endMs": 2700
+            },
+            {
+              "word": "different",
+              "charStart": 42,
+              "charEnd": 51,
+              "startMs": 2700,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "Green pots lined the edge, and the smell of fresh soil filled the air.",
+          "translation_ko": "초록 화분들이 가장자리를 따라 늘어섰고 신선한 흙 냄새가 가득 퍼졌어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Green",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "pots",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 840,
+              "endMs": 1280
+            },
+            {
+              "word": "lined",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1280,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "edge",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2620,
+              "endMs": 2660
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2660,
+              "endMs": 2920
+            },
+            {
+              "word": "smell",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2920,
+              "endMs": 3020
+            },
+            {
+              "word": "of",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 3020,
+              "endMs": 3300
+            },
+            {
+              "word": "fresh",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3300,
+              "endMs": 3520
+            },
+            {
+              "word": "soil",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3520,
+              "endMs": 3880
+            },
+            {
+              "word": "filled",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3880,
+              "endMs": 4440
+            },
+            {
+              "word": "the",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 4440,
+              "endMs": 4780
+            },
+            {
+              "word": "air",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 4780,
+              "endMs": 4860
+            }
+          ]
+        },
+        {
+          "text": "\"We did it,\" Jun said quietly.",
+          "translation_ko": "\"우리가 해냈어.\" 준이 조용히 말했어요.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "did",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "it",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 1420
+            },
+            {
+              "word": "Jun",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1420,
+              "endMs": 1500
+            },
+            {
+              "word": "said",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "quietly",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina grinned. \"This is just the beginning.",
+          "translation_ko": "미나가 활짝 웃었어요. \"이건 시작일 뿐이야.",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "grinned",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 620,
+              "endMs": 1180
+            },
+            {
+              "word": "This",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1740,
+              "endMs": 1880
+            },
+            {
+              "word": "is",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "just",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2140,
+              "endMs": 2400
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2400,
+              "endMs": 2640
+            },
+            {
+              "word": "beginning",
+              "charStart": 32,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 2900
+            }
+          ]
+        },
+        {
+          "text": "We still have to water and protect them every day.\"",
+          "translation_ko": "매일 물도 주고 보호해야 하잖아.\"",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "still",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 700
+            },
+            {
+              "word": "have",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 880
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1220
+            },
+            {
+              "word": "water",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "protect",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "them",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1800,
+              "endMs": 2040
+            },
+            {
+              "word": "every",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2040,
+              "endMs": 2460
+            },
+            {
+              "word": "day",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2460,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "\"I know,\" said Jun. \"But now I look forward to coming to school.\"",
+          "translation_ko": "\"알아.\" 준이 말했어요. \"그런데 이제 학교 오는 게 기대돼.\"",
+          "audio": "/seed/daily-148-the-green-rooftop/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "know",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 1000
+            },
+            {
+              "word": "said",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1140
+            },
+            {
+              "word": "Jun",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "But",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2340
+            },
+            {
+              "word": "now",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "I",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 2600,
+              "endMs": 2800
+            },
+            {
+              "word": "look",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2800,
+              "endMs": 2940
+            },
+            {
+              "word": "forward",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3300
+            },
+            {
+              "word": "to",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 3300,
+              "endMs": 3600
+            },
+            {
+              "word": "coming",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3600,
+              "endMs": 3800
+            },
+            {
+              "word": "to",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3800,
+              "endMs": 4060
+            },
+            {
+              "word": "school",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 4060,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 처음에 아깝다고 느낀 장소는 어디인가요?",
+      "type": "mc",
+      "options": [
+        "학교 옥상",
+        "학교 운동장",
+        "학교 복도",
+        "학교 도서관"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 아무것도 없는 회색 콘크리트 학교 옥상을 보며 아깝다고 느꼈어요."
+    },
+    {
+      "question_ko": "준과 미나가 옥상 정원에서 키우기로 한 식물이 아닌 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "사과나무",
+        "토마토",
+        "허브",
+        "해바라기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준과 미나는 공간이 많이 필요하지 않은 토마토, 허브, 해바라기를 선택했어요. 사과나무는 고르지 않았어요."
+    },
+    {
+      "question_ko": "박 선생님이 '진짜 프로젝트에 꼭 필요한 생각'이라고 칭찬한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "다른 반도 함께 참여해 모두가 정원에 책임감을 갖게 하는 것",
+        "교장 선생님께 직접 전화하는 것",
+        "수확한 채소를 팔아 돈을 모으는 것",
+        "학교 안에 온실을 짓는 것"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "미나는 다른 반도 함께하면 모두가 책임감을 느낄 거라고 했고, 박 선생님이 그 생각을 칭찬했어요."
+    },
+    {
+      "question_ko": "교장 선생님이 제안서를 읽고 한 말은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "정말 훌륭한 생각이에요.",
+        "이 계획은 너무 위험해요.",
+        "예산이 부족해서 어려워요.",
+        "내년에 다시 가져오세요."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "교장 선생님은 제안서를 읽고 '정말 훌륭한 생각이에요'라고 말하며 계획을 받아들였어요."
+    },
+    {
+      "question_ko": "작업이 끝난 뒤 준이 느낀 변화로 가장 알맞은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "이제 학교 오는 것이 기대된다.",
+        "옥상 일이 너무 힘들어서 그만두고 싶다.",
+        "다음에는 혼자서 정원을 만들겠다.",
+        "식물 키우는 일이 생각보다 재미없다."
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 옥상 정원을 함께 완성하고 나서 '이제 학교 오는 게 진짜 기대된다'고 말하며 설레는 마음을 갖게 됐어요."
+    }
+  ]
+}

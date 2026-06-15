@@ -1,0 +1,1571 @@
+{
+  "slug": "daily-99-the-lost-key",
+  "title": "The Lost Key",
+  "title_ko": "잃어버린 열쇠",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "Jun이 할머니 댁 열쇠를 잃어버려 할머니와 함께 집 안 곳곳을 뒤지며 찾는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun goes to Grandma's house after school.",
+          "translation_ko": "준은 방과 후 할머니 댁에 가요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "goes",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 740
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 740,
+              "endMs": 960
+            },
+            {
+              "word": "Grandma's",
+              "charStart": 12,
+              "charEnd": 21,
+              "startMs": 960,
+              "endMs": 1460
+            },
+            {
+              "word": "house",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1660
+            },
+            {
+              "word": "after",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1660,
+              "endMs": 2020
+            },
+            {
+              "word": "school",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2020,
+              "endMs": 2320
+            }
+          ]
+        },
+        {
+          "text": "When he reaches the door, he cannot find his key.",
+          "translation_ko": "문 앞에 도착했는데 열쇠를 찾을 수가 없어요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "he",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "reaches",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 500,
+              "endMs": 720
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "door",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "he",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1600
+            },
+            {
+              "word": "cannot",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "find",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "his",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2180,
+              "endMs": 2420
+            },
+            {
+              "word": "key",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2420,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun feels worried because the key is gone.",
+          "translation_ko": "열쇠가 없어서 준은 걱정이 돼요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "feels",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "worried",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1300
+            },
+            {
+              "word": "because",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1800
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "key",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2240
+            },
+            {
+              "word": "is",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "gone",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2500,
+              "endMs": 2760
+            }
+          ]
+        },
+        {
+          "text": "He checks every pocket, but it is not there.",
+          "translation_ko": "모든 주머니를 살펴보지만 열쇠가 없어요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "checks",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 440
+            },
+            {
+              "word": "every",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 440,
+              "endMs": 1000
+            },
+            {
+              "word": "pocket",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "but",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1860
+            },
+            {
+              "word": "it",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 1960
+            },
+            {
+              "word": "is",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2160
+            },
+            {
+              "word": "not",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2380
+            },
+            {
+              "word": "there",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2380,
+              "endMs": 2680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandma opens the door and asks, \"What is wrong?\"",
+          "translation_ko": "할머니가 문을 열고 \"무슨 일이야?\"라고 물어요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "opens",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "door",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1400,
+              "endMs": 1800
+            },
+            {
+              "word": "asks",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1800,
+              "endMs": 2220
+            },
+            {
+              "word": "What",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2720,
+              "endMs": 2800
+            },
+            {
+              "word": "is",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "wrong",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3000,
+              "endMs": 3240
+            }
+          ]
+        },
+        {
+          "text": "\"I lost the key,\" Jun says with a sad face.",
+          "translation_ko": "\"열쇠를 잃어버렸어요,\" 준은 풀이 죽은 얼굴로 말해요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "lost",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 540
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 800
+            },
+            {
+              "word": "key",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1180
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 1840
+            },
+            {
+              "word": "says",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1840,
+              "endMs": 2160
+            },
+            {
+              "word": "with",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2160,
+              "endMs": 2320
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 2320,
+              "endMs": 2640
+            },
+            {
+              "word": "sad",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2640,
+              "endMs": 2740
+            },
+            {
+              "word": "face",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2740,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandma smiles and says, \"Don't worry. Let's look together.\"",
+          "translation_ko": "할머니는 웃으며 \"걱정 마. 같이 찾아보자\"라고 말해요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "smiles",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 940
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "says",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1520
+            },
+            {
+              "word": "Don't",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2040
+            },
+            {
+              "word": "worry",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2040,
+              "endMs": 2340
+            },
+            {
+              "word": "Let's",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2860,
+              "endMs": 3060
+            },
+            {
+              "word": "look",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3240
+            },
+            {
+              "word": "together",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 3240,
+              "endMs": 3560
+            }
+          ]
+        },
+        {
+          "text": "Jun feels better because Grandma is so calm.",
+          "translation_ko": "할머니가 차분해서 준은 마음이 놓여요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "feels",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 680
+            },
+            {
+              "word": "better",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 1020
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1020,
+              "endMs": 1460
+            },
+            {
+              "word": "Grandma",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1460,
+              "endMs": 1800
+            },
+            {
+              "word": "is",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1800,
+              "endMs": 2060
+            },
+            {
+              "word": "so",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "calm",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2340,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They start in the hallway because Jun keeps his bag there.",
+          "translation_ko": "준이 가방을 두는 현관부터 찾기 시작해요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "start",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 680
+            },
+            {
+              "word": "in",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "hallway",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "because",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2240
+            },
+            {
+              "word": "Jun",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2580
+            },
+            {
+              "word": "keeps",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 2900
+            },
+            {
+              "word": "his",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2900,
+              "endMs": 3180
+            },
+            {
+              "word": "bag",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3180,
+              "endMs": 3360
+            },
+            {
+              "word": "there",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3360,
+              "endMs": 3640
+            }
+          ]
+        },
+        {
+          "text": "Grandma checks under the shoe rack, but finds nothing.",
+          "translation_ko": "할머니는 신발장 아래를 살피지만 아무것도 없어요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "checks",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 1040
+            },
+            {
+              "word": "under",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "shoe",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1620,
+              "endMs": 1780
+            },
+            {
+              "word": "rack",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2040
+            },
+            {
+              "word": "but",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "finds",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 3000
+            },
+            {
+              "word": "nothing",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 3000,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They move to the living room and look around the sofa.",
+          "translation_ko": "거실로 이동해서 소파 주변을 살펴봐요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "move",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 760
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 940
+            },
+            {
+              "word": "living",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 940,
+              "endMs": 1100
+            },
+            {
+              "word": "room",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1380,
+              "endMs": 1880
+            },
+            {
+              "word": "look",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1880,
+              "endMs": 2020
+            },
+            {
+              "word": "around",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2020,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2340,
+              "endMs": 2680
+            },
+            {
+              "word": "sofa",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2680,
+              "endMs": 2780
+            }
+          ]
+        },
+        {
+          "text": "Jun lifts the cushions, but he only finds some coins.",
+          "translation_ko": "준이 쿠션을 들어보니 동전만 나와요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "lifts",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "cushions",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1000,
+              "endMs": 1440
+            },
+            {
+              "word": "but",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "he",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2060,
+              "endMs": 2200
+            },
+            {
+              "word": "only",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2540
+            },
+            {
+              "word": "finds",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2540,
+              "endMs": 2920
+            },
+            {
+              "word": "some",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2920,
+              "endMs": 3200
+            },
+            {
+              "word": "coins",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3200,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Did you hang up your jacket?\" Grandma asks.",
+          "translation_ko": "\"재킷 걸어 뒀니?\" 할머니가 물어요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Did",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "you",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 640
+            },
+            {
+              "word": "hang",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "up",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "your",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "jacket",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "Grandma",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1940,
+              "endMs": 2280
+            },
+            {
+              "word": "asks",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "Jun nods because he hung his jacket by the door.",
+          "translation_ko": "준은 문 옆에 재킷을 걸었던 게 생각나 고개를 끄덕여요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "nods",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 1280
+            },
+            {
+              "word": "because",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1280,
+              "endMs": 1700
+            },
+            {
+              "word": "he",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1700,
+              "endMs": 1940
+            },
+            {
+              "word": "hung",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "his",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2120,
+              "endMs": 2440
+            },
+            {
+              "word": "jacket",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2440,
+              "endMs": 2740
+            },
+            {
+              "word": "by",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2740,
+              "endMs": 3000
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 3000,
+              "endMs": 3280
+            },
+            {
+              "word": "door",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3280,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They rush back, and Grandma reaches into the jacket pocket.",
+          "translation_ko": "둘은 서둘러 돌아가고, 할머니가 재킷 주머니에 손을 넣어요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "rush",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 500
+            },
+            {
+              "word": "back",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 500,
+              "endMs": 920
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1540
+            },
+            {
+              "word": "Grandma",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1940
+            },
+            {
+              "word": "reaches",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1940,
+              "endMs": 2260
+            },
+            {
+              "word": "into",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2260,
+              "endMs": 2540
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2540,
+              "endMs": 2940
+            },
+            {
+              "word": "jacket",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 2940,
+              "endMs": 3060
+            },
+            {
+              "word": "pocket",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3060,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "She pulls out the shiny key and holds it up.",
+          "translation_ko": "반짝이는 열쇠를 꺼내 들어 보여 줘요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "pulls",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "out",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1160
+            },
+            {
+              "word": "shiny",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "key",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2320
+            },
+            {
+              "word": "holds",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2580
+            },
+            {
+              "word": "it",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2580,
+              "endMs": 2780
+            },
+            {
+              "word": "up",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2780,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"It was here!\" Jun shouts, and his face turns red.",
+          "translation_ko": "\"여기 있었잖아요!\" 준이 소리치자 얼굴이 빨개져요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 520
+            },
+            {
+              "word": "here",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "Jun",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1660,
+              "endMs": 1760
+            },
+            {
+              "word": "shouts",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1760,
+              "endMs": 2160
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2640,
+              "endMs": 2720
+            },
+            {
+              "word": "his",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2720,
+              "endMs": 2960
+            },
+            {
+              "word": "face",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2960,
+              "endMs": 3200
+            },
+            {
+              "word": "turns",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 3200,
+              "endMs": 3540
+            },
+            {
+              "word": "red",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3540,
+              "endMs": 3880
+            }
+          ]
+        },
+        {
+          "text": "Grandma laughs and says, \"Now you know where to check first.\"",
+          "translation_ko": "할머니는 웃으며 \"이제 어디서 먼저 찾아야 할지 알겠지?\"라고 말해요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "laughs",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1220
+            },
+            {
+              "word": "says",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "Now",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2000,
+              "endMs": 2120
+            },
+            {
+              "word": "you",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2340
+            },
+            {
+              "word": "know",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2500
+            },
+            {
+              "word": "where",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2500,
+              "endMs": 2640
+            },
+            {
+              "word": "to",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 2840
+            },
+            {
+              "word": "check",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2840,
+              "endMs": 3000
+            },
+            {
+              "word": "first",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3000,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun hugs Grandma because he feels grateful and embarrassed.",
+          "translation_ko": "준은 고맙기도 하고 조금 부끄럽기도 해서 할머니를 꼭 안아요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "hugs",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 580,
+              "endMs": 1000
+            },
+            {
+              "word": "Grandma",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1520
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 2240
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "feels",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2460,
+              "endMs": 2720
+            },
+            {
+              "word": "grateful",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2720,
+              "endMs": 3220
+            },
+            {
+              "word": "and",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3220,
+              "endMs": 3900
+            },
+            {
+              "word": "embarrassed",
+              "charStart": 47,
+              "charEnd": 58,
+              "startMs": 3900,
+              "endMs": 4120
+            }
+          ]
+        },
+        {
+          "text": "Over their snack, he promises to be more careful.",
+          "translation_ko": "간식을 먹으며 준은 다음엔 더 조심하겠다고 다짐해요.",
+          "audio": "/seed/daily-99-the-lost-key/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Over",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "their",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "snack",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "he",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1400
+            },
+            {
+              "word": "promises",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1400,
+              "endMs": 1800
+            },
+            {
+              "word": "to",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2060
+            },
+            {
+              "word": "be",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2260
+            },
+            {
+              "word": "more",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2260,
+              "endMs": 2600
+            },
+            {
+              "word": "careful",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2600,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 열쇠가 없다는 것을 언제 알았나요?",
+      "type": "mc",
+      "options": [
+        "할머니 댁 문 앞에 도착했을 때",
+        "학교 교실에서",
+        "버스 안에서",
+        "간식을 먹다가"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "할머니 댁 문 앞에서 가방을 뒤지다가 열쇠가 없다는 것을 알았어요."
+    },
+    {
+      "question_ko": "열쇠를 찾으러 처음 간 곳은 어디인가요?",
+      "type": "mc",
+      "options": [
+        "현관",
+        "거실",
+        "부엌",
+        "할머니 방"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 항상 가방을 두는 현관부터 먼저 살펴보았어요."
+    },
+    {
+      "question_ko": "거실 소파 쿠션 아래에서 무엇이 나왔나요?",
+      "type": "mc",
+      "options": [
+        "열쇠",
+        "동전",
+        "지우개",
+        "사탕"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "쿠션을 들어보니 열쇠가 아니라 동전만 나왔어요."
+    },
+    {
+      "question_ko": "열쇠는 결국 어디에 있었나요?",
+      "type": "mc",
+      "options": [
+        "신발장 아래",
+        "가방 안쪽 주머니",
+        "준의 재킷 주머니",
+        "소파 쿠션 밑"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "문 옆에 걸린 재킷 주머니 안에 열쇠가 있었어요."
+    },
+    {
+      "question_ko": "열쇠를 찾은 뒤 준의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "화가 났다",
+        "고맙고 조금 부끄러웠다",
+        "무서웠다",
+        "전혀 기쁘지 않았다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "준 is grateful and a little embarrassed — 고맙기도 하고 조금 부끄럽기도 했어요."
+    }
+  ]
+}

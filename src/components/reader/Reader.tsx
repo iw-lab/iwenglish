@@ -34,7 +34,7 @@ export function Reader({ book }: { book: Book }) {
   const [sentIdx, setSentIdx] = useState(0);
   const [repeatCount, setRepeatCount] = useState(1); // 0 = 무한(∞)
   const [showQuiz, setShowQuiz] = useState(false);
-  const [practiceMode, setPracticeMode] = useState<PracticeMode>("off");
+  const [practiceMode, setPracticeMode] = useState<PracticeMode>("repeat");
   const [gapScale, setGapScale] = useState(1);
   const [gap, setGap] = useState<{ active: boolean; ms: number }>({
     active: false,
@@ -150,10 +150,11 @@ export function Reader({ book }: { book: Book }) {
     }, ms);
   };
 
-  // 따라 말할 간격(ms): 쉐도잉=짧게, 따라 읽기=문장 길이만큼, slider 로 미세조정
+  // 따라 말할 간격(ms): 쉐도잉=짧게, 따라 읽기=문장 길이보다 넉넉히(초등 또박또박), slider 로 미세조정
   const gapMs = () => {
-    const base = practiceMode === "repeat" ? sentDurMs * 1.1 : sentDurMs * 0.55;
-    return Math.max(700, Math.round(base * gapScale));
+    const base = practiceMode === "repeat" ? sentDurMs * 1.7 : sentDurMs * 0.6;
+    const floor = practiceMode === "repeat" ? 1400 : 700;
+    return Math.max(floor, Math.round(base * gapScale));
   };
 
   // 매 렌더 후 최신 로직으로 ref 갱신 (stale closure 방지)

@@ -53,3 +53,5 @@ public/seed/**/*.png
 
 # 비전 QA 임시 변환·codex out 캐시
 .vqa-tmp/
+.tqa-tmp/
+**/.vision-qa-3way.json

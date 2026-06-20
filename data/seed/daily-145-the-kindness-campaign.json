@@ -1,0 +1,2542 @@
+{
+  "slug": "daily-145-the-kindness-campaign",
+  "title": "The Kindness Campaign",
+  "title_ko": "친절 캠페인",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 학교에 친절 캠페인을 시작하며 친구들과 선생님의 마음을 따뜻하게 바꿔 나가는 이야기입니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One day, Jun walked into school and saw a student eating lunch alone.",
+          "translation_ko": "어느 날, 준은 학교에 들어서다가 혼자 점심을 먹고 있는 학생을 보았어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "day",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 680,
+              "endMs": 1000
+            },
+            {
+              "word": "Jun",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "walked",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1620,
+              "endMs": 1960
+            },
+            {
+              "word": "into",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1960,
+              "endMs": 2240
+            },
+            {
+              "word": "school",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2240,
+              "endMs": 2580
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2580,
+              "endMs": 3060
+            },
+            {
+              "word": "saw",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 3060,
+              "endMs": 3260
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 3260,
+              "endMs": 3900
+            },
+            {
+              "word": "student",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 3900,
+              "endMs": 3900
+            },
+            {
+              "word": "eating",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3900,
+              "endMs": 4300
+            },
+            {
+              "word": "lunch",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 4300,
+              "endMs": 4620
+            },
+            {
+              "word": "alone",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 4620,
+              "endMs": 5000
+            }
+          ]
+        },
+        {
+          "text": "He felt sorry, but he didn't know what to do.",
+          "translation_ko": "마음이 아팠지만, 어떻게 해야 할지 몰랐어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 440
+            },
+            {
+              "word": "sorry",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "but",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1240,
+              "endMs": 1340
+            },
+            {
+              "word": "he",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "didn't",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "know",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "what",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2080
+            },
+            {
+              "word": "to",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "do",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next morning, Jun told Mina what he had seen.",
+          "translation_ko": "다음 날 아침, 준은 미나에게 어제 본 것을 이야기했어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 180,
+              "endMs": 520
+            },
+            {
+              "word": "morning",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1460
+            },
+            {
+              "word": "told",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1840
+            },
+            {
+              "word": "Mina",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "what",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2140,
+              "endMs": 2580
+            },
+            {
+              "word": "he",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2580,
+              "endMs": 2740
+            },
+            {
+              "word": "had",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2740,
+              "endMs": 2940
+            },
+            {
+              "word": "seen",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "\"We should make our school kinder,\" said Jun. Mina's eyes lit up. \"Let's start a kindness campaign!\"",
+          "translation_ko": "\"우리 학교를 더 친절한 곳으로 만들어야 해,\" 준이 말했어요. 미나의 눈이 반짝였어요. \"친절 캠페인을 시작하자!\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "should",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 820
+            },
+            {
+              "word": "make",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1060
+            },
+            {
+              "word": "our",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1360
+            },
+            {
+              "word": "school",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "kinder",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 2460
+            },
+            {
+              "word": "said",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2620
+            },
+            {
+              "word": "Jun",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2620,
+              "endMs": 2920
+            },
+            {
+              "word": "Mina's",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3780,
+              "endMs": 4000
+            },
+            {
+              "word": "eyes",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 4000,
+              "endMs": 4300
+            },
+            {
+              "word": "lit",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 4300,
+              "endMs": 4540
+            },
+            {
+              "word": "up",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 4540,
+              "endMs": 4820
+            },
+            {
+              "word": "Let's",
+              "charStart": 67,
+              "charEnd": 72,
+              "startMs": 5680,
+              "endMs": 5940
+            },
+            {
+              "word": "start",
+              "charStart": 73,
+              "charEnd": 78,
+              "startMs": 5940,
+              "endMs": 6160
+            },
+            {
+              "word": "a",
+              "charStart": 79,
+              "charEnd": 80,
+              "startMs": 6160,
+              "endMs": 6360
+            },
+            {
+              "word": "kindness",
+              "charStart": 81,
+              "charEnd": 89,
+              "startMs": 6360,
+              "endMs": 6700
+            },
+            {
+              "word": "campaign",
+              "charStart": 90,
+              "charEnd": 98,
+              "startMs": 6700,
+              "endMs": 7120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They decided to talk to Ms. Park before class.",
+          "translation_ko": "둘은 수업 전에 박 선생님께 이야기하기로 했어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "decided",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 740
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1200
+            },
+            {
+              "word": "talk",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1320
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1640
+            },
+            {
+              "word": "Ms",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "Park",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2060,
+              "endMs": 2180
+            },
+            {
+              "word": "before",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2180,
+              "endMs": 2760
+            },
+            {
+              "word": "class",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2760,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "\"Ms. Park, we want to spread kindness across our school,\" said Mina.",
+          "translation_ko": "\"선생님, 저희는 학교에 친절을 퍼뜨리고 싶어요,\" 미나가 말했어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "Park",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "we",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1100
+            },
+            {
+              "word": "want",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "spread",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1740
+            },
+            {
+              "word": "kindness",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1740,
+              "endMs": 2300
+            },
+            {
+              "word": "across",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2680
+            },
+            {
+              "word": "our",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2680,
+              "endMs": 2980
+            },
+            {
+              "word": "school",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 2980,
+              "endMs": 3980
+            },
+            {
+              "word": "said",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3980,
+              "endMs": 4040
+            },
+            {
+              "word": "Mina",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 4040,
+              "endMs": 4260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We want to make cards and give them to people who do nice things,\" said Jun.",
+          "translation_ko": "\"친절 카드를 만들어서 좋은 일을 한 사람에게 주고 싶어요,\" 준이 말했어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "want",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "make",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "cards",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1900
+            },
+            {
+              "word": "give",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2080
+            },
+            {
+              "word": "them",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2080,
+              "endMs": 2240
+            },
+            {
+              "word": "to",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2380
+            },
+            {
+              "word": "people",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2380,
+              "endMs": 2660
+            },
+            {
+              "word": "who",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2660,
+              "endMs": 2860
+            },
+            {
+              "word": "do",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 2860,
+              "endMs": 3120
+            },
+            {
+              "word": "nice",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3120,
+              "endMs": 3420
+            },
+            {
+              "word": "things",
+              "charStart": 59,
+              "charEnd": 65,
+              "startMs": 3420,
+              "endMs": 4340
+            },
+            {
+              "word": "said",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4340,
+              "endMs": 4420
+            },
+            {
+              "word": "Jun",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 4420,
+              "endMs": 4740
+            }
+          ]
+        },
+        {
+          "text": "\"If we notice kindness, more people will want to be kind,\" added Mina.",
+          "translation_ko": "\"친절을 알아봐 주면, 더 많은 사람이 친절하게 행동하고 싶어 할 거예요,\" 미나가 덧붙였어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "If",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "we",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 560,
+              "endMs": 760
+            },
+            {
+              "word": "notice",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1080
+            },
+            {
+              "word": "kindness",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1080,
+              "endMs": 1520
+            },
+            {
+              "word": "more",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2080
+            },
+            {
+              "word": "people",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2080,
+              "endMs": 2400
+            },
+            {
+              "word": "will",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2400,
+              "endMs": 2600
+            },
+            {
+              "word": "want",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2600,
+              "endMs": 2820
+            },
+            {
+              "word": "to",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2820,
+              "endMs": 2960
+            },
+            {
+              "word": "be",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 2960,
+              "endMs": 3120
+            },
+            {
+              "word": "kind",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3120,
+              "endMs": 4140
+            },
+            {
+              "word": "added",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 4140,
+              "endMs": 4280
+            },
+            {
+              "word": "Mina",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4280,
+              "endMs": 4540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park let them use art supplies, and they spent lunch making cards.",
+          "translation_ko": "박 선생님은 미술 재료를 써도 된다고 하셨고, 둘은 점심 시간 내내 카드를 만들었어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 640
+            },
+            {
+              "word": "let",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 840
+            },
+            {
+              "word": "them",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1000
+            },
+            {
+              "word": "use",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "art",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1480
+            },
+            {
+              "word": "supplies",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1480,
+              "endMs": 1880
+            },
+            {
+              "word": "and",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2340
+            },
+            {
+              "word": "they",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "spent",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2600,
+              "endMs": 2700
+            },
+            {
+              "word": "lunch",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2700,
+              "endMs": 3020
+            },
+            {
+              "word": "making",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3020,
+              "endMs": 3380
+            },
+            {
+              "word": "cards",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 3380,
+              "endMs": 3780
+            }
+          ]
+        },
+        {
+          "text": "They wrote messages like \"Thank you for being kind\" and \"You made someone's day better.\"",
+          "translation_ko": "\"친절해 줘서 고마워요\"와 \"누군가의 하루를 더 좋게 만들어 줬어요\"라고 썼어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "wrote",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 460
+            },
+            {
+              "word": "messages",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "like",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 880,
+              "endMs": 1280
+            },
+            {
+              "word": "Thank",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1640,
+              "endMs": 1680
+            },
+            {
+              "word": "you",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1680,
+              "endMs": 1820
+            },
+            {
+              "word": "for",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 1820,
+              "endMs": 2000
+            },
+            {
+              "word": "being",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "kind",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2240,
+              "endMs": 2620
+            },
+            {
+              "word": "and",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3020,
+              "endMs": 3160
+            },
+            {
+              "word": "You",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3160,
+              "endMs": 3480
+            },
+            {
+              "word": "made",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3480,
+              "endMs": 3680
+            },
+            {
+              "word": "someone's",
+              "charStart": 66,
+              "charEnd": 75,
+              "startMs": 3680,
+              "endMs": 4160
+            },
+            {
+              "word": "day",
+              "charStart": 76,
+              "charEnd": 79,
+              "startMs": 4160,
+              "endMs": 4260
+            },
+            {
+              "word": "better",
+              "charStart": 80,
+              "charEnd": 86,
+              "startMs": 4260,
+              "endMs": 4460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The campaign started the next day.",
+          "translation_ko": "캠페인은 다음 날 바로 시작되었어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "campaign",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 1160
+            },
+            {
+              "word": "started",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "next",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "day",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "Jun saw a boy help a younger student pick up dropped books and handed him a kindness card.",
+          "translation_ko": "준은 어린 학생의 책을 주워 준 남자아이를 발견하고 친절 카드를 건네주었어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "saw",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "boy",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1120,
+              "endMs": 1280
+            },
+            {
+              "word": "help",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1620
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1620,
+              "endMs": 1840
+            },
+            {
+              "word": "younger",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "student",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2060,
+              "endMs": 2440
+            },
+            {
+              "word": "pick",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2440,
+              "endMs": 2680
+            },
+            {
+              "word": "up",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 2900
+            },
+            {
+              "word": "dropped",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2900,
+              "endMs": 3220
+            },
+            {
+              "word": "books",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3220,
+              "endMs": 3540
+            },
+            {
+              "word": "and",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 3540,
+              "endMs": 4260
+            },
+            {
+              "word": "handed",
+              "charStart": 63,
+              "charEnd": 69,
+              "startMs": 4260,
+              "endMs": 4500
+            },
+            {
+              "word": "him",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 4500,
+              "endMs": 4720
+            },
+            {
+              "word": "a",
+              "charStart": 74,
+              "charEnd": 75,
+              "startMs": 4720,
+              "endMs": 5280
+            },
+            {
+              "word": "kindness",
+              "charStart": 76,
+              "charEnd": 84,
+              "startMs": 5280,
+              "endMs": 5280
+            },
+            {
+              "word": "card",
+              "charStart": 85,
+              "charEnd": 89,
+              "startMs": 5280,
+              "endMs": 5640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The boy looked surprised, then he grinned. \"Really? For me?\"",
+          "translation_ko": "남자아이는 놀란 표정을 지었다가 활짝 웃었어요. \"정말요? 저한테요?\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "boy",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 420
+            },
+            {
+              "word": "looked",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "surprised",
+              "charStart": 15,
+              "charEnd": 24,
+              "startMs": 780,
+              "endMs": 1440
+            },
+            {
+              "word": "then",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 1860
+            },
+            {
+              "word": "he",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "grinned",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "Really",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2940,
+              "endMs": 3260
+            },
+            {
+              "word": "For",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3460,
+              "endMs": 3860
+            },
+            {
+              "word": "me",
+              "charStart": 56,
+              "charEnd": 58,
+              "startMs": 3860,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "\"Yes,\" said Jun. \"Because what you did really mattered.\"",
+          "translation_ko": "\"응,\" 준이 말했어요. \"네가 한 일이 정말 의미 있었거든.\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "said",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 940
+            },
+            {
+              "word": "Jun",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1260
+            },
+            {
+              "word": "Because",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 1900
+            },
+            {
+              "word": "what",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "you",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "did",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2460
+            },
+            {
+              "word": "really",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2460,
+              "endMs": 2880
+            },
+            {
+              "word": "mattered",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 2880,
+              "endMs": 3180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Meanwhile, Mina noticed a girl sitting alone on a bench.",
+          "translation_ko": "한편, 미나는 벤치에 혼자 앉아 있는 여자아이를 발견했어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Meanwhile",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "Mina",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1380,
+              "endMs": 1480
+            },
+            {
+              "word": "noticed",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1900
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1900,
+              "endMs": 2380
+            },
+            {
+              "word": "girl",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2380,
+              "endMs": 2380
+            },
+            {
+              "word": "sitting",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2680
+            },
+            {
+              "word": "alone",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 3080
+            },
+            {
+              "word": "on",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3080,
+              "endMs": 3280
+            },
+            {
+              "word": "a",
+              "charStart": 48,
+              "charEnd": 49,
+              "startMs": 3280,
+              "endMs": 3700
+            },
+            {
+              "word": "bench",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3700,
+              "endMs": 3700
+            }
+          ]
+        },
+        {
+          "text": "She sat down and asked, \"Do you want to join our game?\" The girl smiled and nodded.",
+          "translation_ko": "미나는 옆에 앉아 \"우리 게임에 같이 할래?\"라고 물었어요. 여자아이는 미소를 지으며 고개를 끄덕였어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "sat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 680,
+              "endMs": 920
+            },
+            {
+              "word": "down",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1240,
+              "endMs": 1540
+            },
+            {
+              "word": "asked",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1540,
+              "endMs": 1680
+            },
+            {
+              "word": "Do",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2220,
+              "endMs": 2340
+            },
+            {
+              "word": "you",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2340,
+              "endMs": 2480
+            },
+            {
+              "word": "want",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2480,
+              "endMs": 2620
+            },
+            {
+              "word": "to",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2620,
+              "endMs": 2920
+            },
+            {
+              "word": "join",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2920,
+              "endMs": 2920
+            },
+            {
+              "word": "our",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2920,
+              "endMs": 3140
+            },
+            {
+              "word": "game",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3140,
+              "endMs": 3360
+            },
+            {
+              "word": "The",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 4020,
+              "endMs": 4160
+            },
+            {
+              "word": "girl",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 4160,
+              "endMs": 4420
+            },
+            {
+              "word": "smiled",
+              "charStart": 65,
+              "charEnd": 71,
+              "startMs": 4420,
+              "endMs": 4880
+            },
+            {
+              "word": "and",
+              "charStart": 72,
+              "charEnd": 75,
+              "startMs": 4880,
+              "endMs": 5400
+            },
+            {
+              "word": "nodded",
+              "charStart": 76,
+              "charEnd": 82,
+              "startMs": 5400,
+              "endMs": 5560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By the end of the week, the kindness cards were everywhere.",
+          "translation_ko": "그 주가 끝날 무렵, 친절 카드가 학교 곳곳에 붙어 있었어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 560,
+              "endMs": 880
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 880,
+              "endMs": 1040
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1200
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1340
+            },
+            {
+              "word": "week",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1540
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 2040,
+              "endMs": 2220
+            },
+            {
+              "word": "kindness",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 2220,
+              "endMs": 2640
+            },
+            {
+              "word": "cards",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2640,
+              "endMs": 2860
+            },
+            {
+              "word": "were",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2860,
+              "endMs": 3120
+            },
+            {
+              "word": "everywhere",
+              "charStart": 48,
+              "charEnd": 58,
+              "startMs": 3120,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "Students stuck them on lockers and desks, and even some teachers joined in.",
+          "translation_ko": "학생들은 사물함과 책상에 카드를 붙였고, 심지어 선생님들도 함께했어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Students",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "stuck",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "them",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "on",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1320
+            },
+            {
+              "word": "lockers",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1320,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1680,
+              "endMs": 1980
+            },
+            {
+              "word": "desks",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 1980,
+              "endMs": 2380
+            },
+            {
+              "word": "and",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2860,
+              "endMs": 2940
+            },
+            {
+              "word": "even",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2940,
+              "endMs": 3200
+            },
+            {
+              "word": "some",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3200,
+              "endMs": 3520
+            },
+            {
+              "word": "teachers",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 3520,
+              "endMs": 3880
+            },
+            {
+              "word": "joined",
+              "charStart": 65,
+              "charEnd": 71,
+              "startMs": 3880,
+              "endMs": 4200
+            },
+            {
+              "word": "in",
+              "charStart": 72,
+              "charEnd": 74,
+              "startMs": 4200,
+              "endMs": 4480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One afternoon, Ms. Park gathered the class together.",
+          "translation_ko": "어느 날 오후, 박 선생님은 반 전체를 모았어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "afternoon",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 280,
+              "endMs": 820
+            },
+            {
+              "word": "Ms",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "Park",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1720,
+              "endMs": 2020
+            },
+            {
+              "word": "gathered",
+              "charStart": 24,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2400,
+              "endMs": 2600
+            },
+            {
+              "word": "class",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2860
+            },
+            {
+              "word": "together",
+              "charStart": 43,
+              "charEnd": 51,
+              "startMs": 2860,
+              "endMs": 3240
+            }
+          ]
+        },
+        {
+          "text": "\"I have noticed something special this week,\" she said. \"Our classroom feels different.\"",
+          "translation_ko": "\"이번 주에 특별한 걸 발견했어요,\" 선생님이 말씀하셨어요. \"우리 교실 분위기가 달라졌어요.\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "have",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "noticed",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "something",
+              "charStart": 16,
+              "charEnd": 25,
+              "startMs": 900,
+              "endMs": 1360
+            },
+            {
+              "word": "special",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1360,
+              "endMs": 1840
+            },
+            {
+              "word": "this",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "week",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2140,
+              "endMs": 2340
+            },
+            {
+              "word": "she",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2600,
+              "endMs": 2740
+            },
+            {
+              "word": "said",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2740,
+              "endMs": 3020
+            },
+            {
+              "word": "Our",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3720,
+              "endMs": 3900
+            },
+            {
+              "word": "classroom",
+              "charStart": 61,
+              "charEnd": 70,
+              "startMs": 3900,
+              "endMs": 4380
+            },
+            {
+              "word": "feels",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 4380,
+              "endMs": 4840
+            },
+            {
+              "word": "different",
+              "charStart": 77,
+              "charEnd": 86,
+              "startMs": 4840,
+              "endMs": 5240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun raised his hand. \"Is kindness contagious, Ms. Park?\"",
+          "translation_ko": "준이 손을 들었어요. \"선생님, 친절도 전염이 될까요?\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "raised",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 900
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "hand",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "Is",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1980,
+              "endMs": 2140
+            },
+            {
+              "word": "kindness",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2540
+            },
+            {
+              "word": "contagious",
+              "charStart": 34,
+              "charEnd": 44,
+              "startMs": 2540,
+              "endMs": 3180
+            },
+            {
+              "word": "Ms",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3460,
+              "endMs": 3580
+            },
+            {
+              "word": "Park",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3840,
+              "endMs": 3860
+            }
+          ]
+        },
+        {
+          "text": "\"Yes,\" she said. \"When one person is kind, it inspires others to be kind too.\"",
+          "translation_ko": "\"그렇죠,\" 선생님이 말씀하셨어요. \"한 사람이 친절하면, 다른 사람들도 친절해지고 싶어져요.\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "she",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "said",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "When",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1960,
+              "endMs": 2080
+            },
+            {
+              "word": "one",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2080,
+              "endMs": 2340
+            },
+            {
+              "word": "person",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "is",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "kind",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2840,
+              "endMs": 3080
+            },
+            {
+              "word": "it",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3440,
+              "endMs": 3520
+            },
+            {
+              "word": "inspires",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 3520,
+              "endMs": 3920
+            },
+            {
+              "word": "others",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3920,
+              "endMs": 4240
+            },
+            {
+              "word": "to",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 4240,
+              "endMs": 4420
+            },
+            {
+              "word": "be",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 4420,
+              "endMs": 4620
+            },
+            {
+              "word": "kind",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4620,
+              "endMs": 4820
+            },
+            {
+              "word": "too",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 4820,
+              "endMs": 5140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the end of the month, the school held a small celebration.",
+          "translation_ko": "그달 말, 학교에서 작은 축하 행사를 열었어요.",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 160,
+              "endMs": 580
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 580,
+              "endMs": 680
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "month",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 1820
+            },
+            {
+              "word": "school",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1820,
+              "endMs": 2080
+            },
+            {
+              "word": "held",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2080,
+              "endMs": 2420
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 2420,
+              "endMs": 2700
+            },
+            {
+              "word": "small",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2700,
+              "endMs": 3060
+            },
+            {
+              "word": "celebration",
+              "charStart": 49,
+              "charEnd": 60,
+              "startMs": 3060,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "Jun stood up and said, \"Anyone can start something good. It only takes one small act.\"",
+          "translation_ko": "준이 일어서서 말했어요. \"누구든 좋은 일을 시작할 수 있어요. 작은 행동 하나면 충분해요.\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "stood",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 1080
+            },
+            {
+              "word": "up",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1080,
+              "endMs": 1320
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1320,
+              "endMs": 1760
+            },
+            {
+              "word": "said",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 1840
+            },
+            {
+              "word": "Anyone",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 2720,
+              "endMs": 2940
+            },
+            {
+              "word": "can",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2940,
+              "endMs": 3320
+            },
+            {
+              "word": "start",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 3320,
+              "endMs": 3520
+            },
+            {
+              "word": "something",
+              "charStart": 41,
+              "charEnd": 50,
+              "startMs": 3520,
+              "endMs": 3900
+            },
+            {
+              "word": "good",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3900,
+              "endMs": 4180
+            },
+            {
+              "word": "It",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 4560,
+              "endMs": 4660
+            },
+            {
+              "word": "only",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 4660,
+              "endMs": 4920
+            },
+            {
+              "word": "takes",
+              "charStart": 65,
+              "charEnd": 70,
+              "startMs": 4920,
+              "endMs": 5140
+            },
+            {
+              "word": "one",
+              "charStart": 71,
+              "charEnd": 74,
+              "startMs": 5140,
+              "endMs": 5480
+            },
+            {
+              "word": "small",
+              "charStart": 75,
+              "charEnd": 80,
+              "startMs": 5480,
+              "endMs": 5780
+            },
+            {
+              "word": "act",
+              "charStart": 81,
+              "charEnd": 84,
+              "startMs": 5780,
+              "endMs": 6080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Walking home, Mina said, \"I used to think one person couldn't change much.\"",
+          "translation_ko": "집으로 걸어가며 미나가 말했어요. \"나는 한 사람이 많은 걸 바꿀 수 없다고 생각했어.\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Walking",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "home",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 940
+            },
+            {
+              "word": "Mina",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1240,
+              "endMs": 1440
+            },
+            {
+              "word": "said",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1440,
+              "endMs": 1800
+            },
+            {
+              "word": "I",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "used",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2300,
+              "endMs": 2460
+            },
+            {
+              "word": "to",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2460,
+              "endMs": 2760
+            },
+            {
+              "word": "think",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2760,
+              "endMs": 2800
+            },
+            {
+              "word": "one",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "person",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3060,
+              "endMs": 3420
+            },
+            {
+              "word": "couldn't",
+              "charStart": 53,
+              "charEnd": 61,
+              "startMs": 3420,
+              "endMs": 3720
+            },
+            {
+              "word": "change",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3720,
+              "endMs": 4060
+            },
+            {
+              "word": "much",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 4060,
+              "endMs": 4360
+            }
+          ]
+        },
+        {
+          "text": "Jun smiled. \"Now we know kindness grows when you share it.\"",
+          "translation_ko": "준이 미소 지었어요. \"이제 우리는 알잖아, 친절은 나눌수록 커진다는 걸.\"",
+          "audio": "/seed/daily-145-the-kindness-campaign/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 1020
+            },
+            {
+              "word": "Now",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "we",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "know",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "kindness",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 2340,
+              "endMs": 2820
+            },
+            {
+              "word": "grows",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2820,
+              "endMs": 3220
+            },
+            {
+              "word": "when",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3220,
+              "endMs": 3460
+            },
+            {
+              "word": "you",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3460,
+              "endMs": 3640
+            },
+            {
+              "word": "share",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3640,
+              "endMs": 3820
+            },
+            {
+              "word": "it",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3820,
+              "endMs": 4040
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 친절 캠페인을 시작하게 된 계기는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "혼자 밥을 먹는 학생을 보고 마음이 아팠기 때문에",
+        "박 선생님이 숙제로 내주었기 때문에",
+        "미나가 먼저 아이디어를 제안했기 때문에",
+        "학교 방송에서 친절 캠페인을 소개했기 때문에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 혼자 점심을 먹고 있는 학생을 보고 마음이 아팠고, 그 경험이 친절 캠페인의 출발점이 되었어요."
+    },
+    {
+      "question_ko": "준과 미나의 친절 캠페인은 어떤 방식으로 진행되었나요?",
+      "type": "mc",
+      "options": [
+        "친절한 행동을 한 사람에게 카드를 직접 전달하는 방식",
+        "학교 게시판에 친절 규칙을 붙여 두는 방식",
+        "매일 아침 방송으로 친절 메시지를 전하는 방식",
+        "친절 일기를 써서 선생님께 제출하는 방식"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준과 미나는 친절한 행동을 한 사람을 직접 찾아가 감사 카드를 전달하는 방식으로 캠페인을 진행했어요."
+    },
+    {
+      "question_ko": "박 선생님은 캠페인 계획을 들었을 때 어떻게 반응했나요?",
+      "type": "mc",
+      "options": [
+        "따뜻하게 미소 지으며 계획을 더 이야기해 보라고 했다",
+        "캠페인이 공부에 방해가 된다고 걱정했다",
+        "혼자 하기 어려우니 함께 하겠다고 제안했다",
+        "다음에 다시 이야기하자며 수업을 시작했다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 따뜻하게 미소 지으며 멋진 생각이라고 했고, 계획을 더 이야기해 보라고 격려해 주었어요."
+    },
+    {
+      "question_ko": "이야기에서 친절이 퍼져 나갔다는 것을 가장 잘 보여 주는 장면은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "선생님들도 학생들에게 친절 카드를 주기 시작한 것",
+        "준이 혼자서 카드를 많이 만든 것",
+        "미나가 점심 시간에 친구를 게임에 초대한 것",
+        "학교에서 월말 축하 행사를 준비한 것"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "학생들이 시작한 캠페인이 퍼져서 선생님들도 학생들에게 카드를 주기 시작한 것이 친절의 전파를 가장 잘 보여 줘요."
+    },
+    {
+      "question_ko": "준이 전교생 앞에서 전한 핵심 메시지는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 행동 하나로 누구든 좋은 변화를 시작할 수 있다",
+        "친절 카드를 많이 만들수록 학교가 더 좋아진다",
+        "선생님의 도움 없이는 캠페인이 성공하기 어렵다",
+        "친절한 사람이 되려면 오랜 시간과 연습이 필요하다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 \"누구든 좋은 일을 시작할 수 있어요. 작은 행동 하나면 충분해요\"라고 말하며, 작은 친절이 큰 변화를 만든다는 메시지를 전했어요."
+    }
+  ]
+}

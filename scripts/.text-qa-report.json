@@ -1,0 +1,1509 @@
+{
+ "daily-100-the-special-gift": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이가 9-11세 A2(stage 3) 학습자에 맞는 수준으로, 문장 구조가 기본 동사 구문과 간단한 서술 위주라 적절합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법적·의미적 오류가 없고, 퀴즈 정답도 본문과 일치하며, 연령·난이도 적합성에서 문제되지 않습니다."
+ },
+ "daily-101-the-campfire-night": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 단순한 현재·과거 서술 중심으로 구성되어 있어 9-11세 A2(stage 3) 수준에 전반적으로 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "원고 본문, 번역, 퀴즈가 전반적으로 일관되고 CEFR A2 대상에 맞게 자연스러우며, 고쳐야 할 실질적 오류가 없습니다."
+ },
+ "daily-102-the-butterfly-garden": {
+  "english_errors": [],
+  "translation_issues": [
+   "p2.s1: \"박 선생님 선생님\"으로 반복되어 어색하게 보입니다.",
+   "p3.s2: \"박 선생님 선생님이 허락해 주어서\"로 번역되어 중복 표기가 자연스럽지 않습니다.",
+   "p6.s1: \"박 선생님 선생님이\" 부분의 중복 표기가 불필요합니다.",
+   "p10.s1: \"박 선생님 선생님은\"으로 표시되어 문장이 어색합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘(유년층용 동사·기본 시제 중심, 생태 관련 단어)는 CEFR A2 초급 아이들(9-11세) 읽기 난이도와 무난히 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 본문은 문법적으로 큰 오류가 없고 퀴즈도 정합성이 높지만, 한국어 번역에서 '박 선생님' 중복 표기가 소폭 반복되어 다듬을 필요가 있습니다."
+ },
+ "daily-103-the-magic-show": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "전반적으로 문장은 단순하고 어휘도 매우 기본적이라 A2(9-11) 기준으로는 전반적으로 다소 쉬운 편입니다(특히 p1-p4 구간).",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "문법·번역·퀴즈·구성은 대체로 정확하지만 난이도는 A2 타깃에 비해 살짝 쉬운 편입니다."
+ },
+ "daily-104-the-broken-bike": {
+  "english_errors": [],
+  "translation_issues": [
+   "p11.s1: \"Jun rode to the park...\"의 동작이 \"공원으로 달려갔어요\"로 번역돼 자전거로 이동했다는 의미가 사라졌습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 문법은 전반적으로 CEFR A2(9-11세) 수준에 맞고, 어휘도 큰 무리는 없습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "번역에서 한 곳이 영어 원문의 의미를 바꾼 점이 있어 수정이 필요합니다."
+ },
+ "daily-105-the-library-card": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 CEFR A2 4단계(9-11세) 수준에 적합하고 난이도는 무리 없음.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "전반적으로 영문 원문과 한글 번역 모두 자연스럽고 일관되며, 퀴즈 정답도 본문에 부합해 수정할 실제 문제가 없습니다."
+ },
+ "daily-106-the-autumn-festival": {
+  "english_errors": [],
+  "translation_issues": [
+   "p8.s2: 준의 대사가 \"가을 음식이 최고야\"로 반말 처리되어 전체 서술 톤(해요체)과 어긋납니다.",
+   "p10.s2: \"재미있었어\"로 되어 있어 화자 어미 통일성이 깨집니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 구문(부스/게임/음식/사진 등)이 A2 단계(9~11세) 수준에 맞고 난이도가 과하거나 지나치게 어렵지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영어 원문과 퀴즈는 일관되게 정확하며, 실제 문제는 한국어 번역에서 간헐적으로 쓰인 반말 표현의 일관성 부족입니다."
+ },
+ "daily-108-the-class-bake-sale": {
+  "english_errors": [],
+  "translation_issues": [
+   "p1.s1: \"박 선생님이 반 아이들을 보며 미소를 지으세요.\"는 화자 설명문인데 존댓말 명령형(지으세요)으로 되어 있어 문장형으로 고쳐야 합니다.",
+   "p1.s2: \"선생님이 말씀하세요\"는 대화 뒤의 서술문으로 쓰이기엔 부자연스러운 명령형 표현입니다.",
+   "p3.s1: \"박 선생님이 말씀하세요\" 역시 서술형/보고문의 자리에서 높임형 명령형이 되어 한국어 문법·어체가 어색합니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "이야기 어휘와 문법이 매우 단순해 A2 하위권 초입/저연령 초급 수준으로 보이며 9~11세용 A2 Stage 4에서는 다소 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "전반적인 영어 본문은 자연스럽지만, 한국어 번역에서 화자 설명문을 부적절한 높임 명령형으로 옮긴 문장이 있어 문법적으로 부자연스럽고, 전체 난이도는 A2 기준으로는 다소 쉬운 편입니다."
+ },
+ "daily-107-the-volcano-project": {
+  "english_errors": [],
+  "translation_issues": [
+   "p8.s1: \"방으로 들어오세요\"는 서술형 문장에 맞지 않는 존댓말 명령형이라 부자연스럽습니다.",
+   "p8.s2: \"말씀하세요\"도 현재 맥락에서 서술형이 아니라 명령형으로 어색합니다.",
+   "p10.s2: \"말씀해 주세요\"는 부탁형으로 바뀌어 시제와 화법이 어긋나므로, \"말씀해 주셨어요\"/\"말해 주셨어요\"가 더 자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전반적으로 문장 난이도와 어휘는 A2(9–11세) 수준에 맞고, 과학 주제 단어인 ‘volcano/erupt/carbon dioxide’도 주제상 적절합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영어 본문은 큰 오류가 없으나 한국어 번역의 일부 존댓말 처리(명령형/요청형)가 서술 문맥과 맞지 않아 수정이 필요합니다."
+ },
+ "daily-109-the-pen-pal-letter": {
+  "english_errors": [],
+  "translation_issues": [
+   "Q1 (퀴즈 해설): '박 선생님가'는 '박 선생님이/은'로 수정되어야 합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문법 구조와 어휘가 A2 학습자에게 적절한 난이도이며, 사용 어휘·문장 길이도 9~11세 수준에 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 본문과 번역은 전반적으로 의미와 흐름이 자연스럽고 수준도 적절하며, 실제 수정이 필요한 부분은 퀴즈 해설의 철자/조사 오탈자 한 곳입니다."
+ },
+ "daily-110-the-school-band": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘 난이도는 CEFR A2(9~11세) 수준에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법·번역·퀴즈 정답·이야기 흐름에서 실제 수정 필요 항목이 없어 출판 전 점검 기준에 부합합니다."
+ },
+ "daily-111-the-search-for-mochi": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 초등 5~6학년 대상 A2(Stage 4) 난이도에 맞고 문장도 과도하게 어렵지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법, 번역 의미, 퀴즈 정답, 서사 일관성, 연령 적합성에서 실질적인 오류가 없어 게재 기준을 충족합니다."
+ },
+ "daily-112-the-clothing-swap": {
+  "english_errors": [],
+  "translation_issues": [
+   "p5.s2: \"나도 작아진 옷 가져갈게\"는 원문 \"old clothes\"의 의미가 불명확해져, 옷이 커졌다/작아졌다로 오해될 수 있으므로 \"나도 안 맞는 옛 옷을 가져갈게\"처럼 뜻을 더 정확히 옮기는 편이 맞습니다.",
+   "p7.s1: \"미나가 빨간 스웨터를 들고 어깨에 대어 봐요\"는 원문의 \"holds it up\"(들어 올려 확인/보여주다)보다 다르게 번역되어 뉘앙스가 어긋납니다.",
+   "p10.s2: \"이것도 작아지면 또 오자\"는 \"이 옷들이 너희 키에 더 이상 맞지 않게 되면\"이라는 원문 의미와 달라져, \"더 작아지면\"으로 읽히면 의미가 어색합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 문법은 전반적으로 A2(초등 4단계) 수준에 맞고, 어휘 난이도도 과도하게 높지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 본문은 문법적으로 큰 오류가 없으나, 일부 한국어 번역이 원문의 뉘앙스를 다소 놓쳐 다듬을 필요가 있습니다."
+ },
+ "daily-113-the-class-vote": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘(행사, 투표, 의견 등)와 문장 길이 및 시제가 9-11세 A2 Stage 4에 적합한 난이도입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "원문·번역·퀴즈 정합성과 이야기 연속성 모두 무난하며, 출판 전용 검수에서 치명적 수정이 필요하지 않습니다."
+ },
+ "daily-114-the-field-day": {
+  "english_errors": [],
+  "translation_issues": [
+   "p3.s2: \"긴장이 됐지만\"은 어색한 번역 표현으로 \"긴장했지만\"이 자연스럽습니다.",
+   "p10.s1: 대사 종결이 \"해냈어\"로 반말 처리되어, 해요체 본문 톤과 불일치합니다.",
+   "p10.s2: \"그게 바로 가장 좋은 점이야\" 역시 반말이라 톤이 일관되지 않습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘 난이도는 A2(9-11세) 수준에 대체로 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "번역에서 해요체 일관성(반말 혼입)과 일부 부자연스러운 표현이 있어 보완하면 전체적으로 A2 어린이 동화 원고에 잘 맞는 수준입니다."
+ },
+ "daily-115-the-puppet-show": {
+  "english_errors": [],
+  "translation_issues": [
+   "p7.s1: \"그냥 친구가 갖고 싶어\"는 \"I just want a friend\"의 자연스러운 번역이 아니며, 아동용으로는 \"그냥 친구가 되고 싶어\" 또는 \"친구가 필요해\"가 더 적절합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘/구문 난이도가 전반적으로 A2(9~11세) 기준에 맞고, 지나치게 어렵거나 비전문적인 문장은 없습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 본문은 문법적으로 큰 문제 없고 이야기 흐름도 일관되나, p7.s1의 번역 어색함만 수정하면 더 자연스럽습니다."
+ },
+ "daily-116-the-winter-fair": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이, 시제·구조가 9-11세 A2 단계에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "영문본과 번역본 모두 의미 전달과 수준이 자연스럽고, 퀴즈 정답 및 이야기 일관성에 문제는 없습니다."
+ },
+ "daily-117-the-class-photo": {
+  "english_errors": [],
+  "translation_issues": [
+   "p8.s2: \"Say cheese!\"가 \"김치!\"로 번역돼 의미가 바뀌어 사진 촬영 장면이 부자연스럽고 오역됨.",
+   "p8.s1: \"박 선생님 선생님이\"로 조사가 아닌 명칭이 중복되어 자연스럽지 못함."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 난이도는 9~11세 A2 단계에 대체로 맞는 수준이며, 문장 길이도 단순하고 이해하기 쉽습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영어 본문은 전반적으로 양호하지만, p8에서 'Say cheese!'를 '김치!'로 번역한 오역이 있어 의미 전달이 틀어져 최종 심사가 통과되지 않습니다."
+ },
+ "daily-118-the-helping-hands": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "문장 구조가 매우 단순하고 어휘 난이도도 낮아 9-11세 A2 단계보다는 A2 하위(초급) 수준에 가깝다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문·번역 모두 사실 오류는 없지만, 전체 문장 난이도와 어휘 폭이 제한적이라 A2 단계보다는 다소 쉬운 편이다."
+ },
+ "daily-119-the-park-cleanup": {
+  "english_errors": [],
+  "translation_issues": [
+   "p12.s3: \"벌써부터 다음 청소가 기다려졌어요\"는 어색한 수동형 표현으로, 원문 \"already excited for the next cleanup\"의 의미(기대하다/설레다)와 자연스럽게 맞지 않습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "어휘와 문장이 전반적으로 매우 간단하고 규칙적인 과거 서술 위주로 구성되어 있어 B1(상위)보다는 B1 초반/상당히 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "문법적 오류는 거의 없으나 p12.s3의 한국어 번역 표현이 부자연스러워 한 군데 수정이 필요합니다."
+ },
+ "daily-120-the-school-magazine": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "어휘와 문장 구조가 전반적으로 단순하고 직선적이라 B1 단계(10–12세)보다는 A2~초급 B1 하위 난이도에 가깝습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "전체적으로 문법·의미 오류는 없지만, 난이도는 10~12세 B1 기준으로 다소 낮은 편입니다."
+ },
+ "daily-123-the-food-drive": {
+  "english_errors": [],
+  "translation_issues": [
+   "p1.s1: KO에서 ‘박 선생님 선생님’으로 선생님이 중복 표기되어 번역 오류로 보입니다.",
+   "p10.s2: KO에서 ‘박 선생님 선생님’이 다시 중복되어 자연스럽지 않습니다.",
+   "p12.s3: ‘준은 내년 나눔 행사가 기대되어’는 부자연스러운 어법으로 ‘내년 나눔 행사를 기대하며’처럼 다듬는 것이 자연스럽습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장 구조와 어휘가 전반적으로 단순하여 10–12세를 겨냥한 B1(STAGE 5) 기준에는 다소 쉽고, 기본 과거시제 위주의 반복적 구성입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "번역에서는 ‘박 선생님’ 중복 표기와 한 문장의 어색한 표현이 있어 수정 필요하며, 영문 본문은 큰 문법 오류는 없고 퀴즈는 모두 정답 일치하나 전체 난이도는 B1 대비 다소 쉬운 편입니다."
+ },
+ "daily-121-the-charity-run": {
+  "english_errors": [],
+  "translation_issues": [
+   "p9.s1: \"반환점 표지\"는 \"halfway sign\"(중간 지점 표시)로 번역하기엔 의미가 달라져 오해 소지가 있습니다.",
+   "p11.s1: \"숨은 가빴지만\"은 한국어 맞춤법/표현 오류로, \"숨이 가쁘게 탔다\" 또는 \"숨이 가빴지만\"으로 수정되어야 합니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "전체 문장 구조와 어휘가 매우 단순해 B1(10~12세)에는 난도가 낮은 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "전반적으로 구성은 일관되지만, p9.s1의 의미 번역 정밀도와 p11.s1의 한국어 오탈자를 수정해야 합니다."
+ },
+ "daily-122-the-story-corner": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "전체 텍스트의 어휘와 문장 길이가 전반적으로 단순하고 구조가 명료해 B1 목표치 대비 난도가 낮아 보입니다. 주요 표현은 'felt a warm glow', 'reading corner', 'never runs out' 등으로 제한되어 있어 중급 연습문보다는 초급 독해/번역 연습 수준입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "문법, 의미 일치, 퀴즈 정답 및 연속성에는 큰 문제가 없고, 전반적 난이도만 CEFR B1 기준으로는 다소 낮아 보입니다."
+ },
+ "daily-124-the-charity-concert": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "문장과 어휘가 단순한 편이라 B1 단계에 비해 CEFR 난이도가 약간 낮고, 10~12세 초반 읽기 수준에 더 가깝습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 텍스트와 한국어 번역, 퀴즈 정답 및 내용의 일관성은 전반적으로 정확하지만, 난이도는 B1 대비 다소 쉬운 편입니다."
+ },
+ "daily-125-the-pond-project": {
+  "english_errors": [],
+  "translation_issues": [
+   "p8.s1: \"Two weeks later\"가 \"이 주일이 지나\"로 번역되어 시점이 1주 또는 모호한 기간으로 바뀌어 원문(2주 뒤)과 의미가 달라집니다.",
+   "p11.s2: \"Jun felt proud for himself and for everyone who had helped.\"를 \"준은 자신과 함께한 모든 친구들이 자랑스러웠어요.\"로 번역해 주어가 엇갈려 준이 느낀 감정(자부심)이 아니라 친구들의 감정으로 바뀝니다.",
+   "p12.s2: 마지막 문장의 하이톤 대사가 존대/해요체와 맞지 않아 \"아니야/있어\"로 처리되어 문체가 일관되지 않습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이 모두 초급-중급 수준으로, 10–12세 B1 단계의 독자에게 대체로 무난합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "두 곳 이상에서 한국어 번역이 원문 의미를 바꾸거나 문체가 어긋나서, 내용 전달과 문장 통일성을 위해 수정이 필요합니다."
+ },
+ "daily-126-the-class-podcast": {
+  "english_errors": [],
+  "translation_issues": [
+   "p3.s3: \"기대되는걸\"은 한국어 맞춤법상 \"기대되는 걸\"로 띄어 써야 합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 난이도는 10~12세 B1 수준(초급 독해+기초 서술 문장)에 대체로 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 텍스트는 전반적으로 자연스럽고 질문 정답도 정확하지만, 번역본에서 한 곳의 띄어쓰기 오탈자만 경미하게 수정하면 됩니다."
+ },
+ "daily-128-the-stargazing-night": {
+  "english_errors": [],
+  "translation_issues": [
+   "p4.s3: 대화체 번역이 해요체 서술(“말했어요”)과 맞물려 주어의 발화가 반말(“몰랐어”)로 섞여 있어 화자 말투가 어색합니다.",
+   "p8.s2: “이 별을 이용해”로 번역한 부분은 원문 ‘the Big Dipper’(별자리)를 가리키는 단수 의미가 모호해져 오해 가능성이 있어, ‘이 별자리/이 별자리의 별들’을 쓰는 편이 정확합니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장 길이와 구문이 매우 단순해 CEFR B1 대비 난이도가 다소 낮아 A2 수준에 가깝습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "전체적으로 내용 일관성과 퀴즈 구성은 양호하지만, 한국어 번역의 말투 통일과 Big Dipper 번역의 정확도에서 경미한 수정이 필요합니다."
+ },
+ "daily-127-the-school-mural": {
+  "english_errors": [],
+  "translation_issues": [
+   "p1.s1: \"박 선생님 선생님\"으로 번역되어 호칭이 중복돼 있습니다.",
+   "p2.s3: \"박 선생님 선생님\"으로 번역되어 호칭이 중복돼 있습니다.",
+   "p4.s1: \"박 선생님 선생님\"으로 번역되어 호칭이 중복돼 있습니다.",
+   "p5.s1: \"박 선생님 선생님\"으로 번역되어 호칭이 중복돼 있습니다.",
+   "p5.s3: \"박 선생님 선생님\"으로 번역되어 호칭이 중복돼 있습니다.",
+   "p9.s2: \"박 선생님 선생님\"으로 번역되어 호칭이 중복돼 있습니다.",
+   "p12.s1: \"박 선생님 선생님\"으로 번역되어 호칭이 중복돼 있습니다.",
+   "p2.s2: 10~12세 대상 해요체 기준에서 \"멋진 생각이야\"로 반말이 섞여 톤이 불일치합니다.",
+   "p7.s2: \"멋있는 걸.\" 등 반말·구어체가 섞여 번역 톤이 일관되지 않습니다.",
+   "p8.s2: \"네 말이 맞았어\"로 반말 형태가 섞여 해요체와 어색하게 어긋납니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "단어와 문장 구조가 전반적으로 매우 단순해 CEFR B1(stage 5)보다는 다소 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "번역문에서 Ms. Park 호칭 중복과 소수의 반말/해요체 혼용은 정정이 필요하지만, 내용 상의 오류나 퀴즈 정답 오기, 부적절한 요소는 발견되지 않았습니다."
+ },
+ "daily-129-the-harvest-day": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 10~12세 대상의 B1(스테이지 5)에 맞는 수준이며, 과도하게 어렵거나 단순하지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문장, 번역 의미, 퀴즈 정답, 서사 일관성 모두에서 실제 오류나 부적절한 내용은 발견되지 않았습니다."
+ },
+ "daily-131-the-weather-club": {
+  "english_errors": [],
+  "translation_issues": [
+   "p6.s2: \"재고\"는 오탈자입니다. 원문처럼 비가 42분 동안 내린 것을 기록했다는 뜻이라면 \"재고\"가 아니라 \"재고\"가 아니라 \"재고\"가 아니라 \"재서\"/\"재고\"라고 하지 않고 \"재서\"(=재고)로 적는 것이 맞습니다.",
+   "p12.s1: 인용문이 화자 톤과 다르게 \"알았어\"로 반말 처리되어 있어, 요청 기준(해요체)과 어조 일관성이 맞지 않습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘·구문(과거완료, 데이터 기록, 관찰/비교) 난이도와 문장 길이가 10~12세 B1 단계에 대체로 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "문법적 치명 오류는 없으며, 번역에서 오탈자 하나와 말투 톤 일관성의 경미한 수정이 필요한 정도입니다."
+ },
+ "daily-130-the-reading-buddies": {
+  "english_errors": [
+   "p8.s2: \"Is it volcano?\" (정답: \"Is it a volcano?\"로, 단수 가산명사는 부정관사 a가 필요)"
+  ],
+  "translation_issues": [
+   "p2.s2: \"바로 긴장이 됐어요\"는 자연스러운 한국어 표현이 아니고, '준은 바로 긴장했어요'가 더 적절합니다.",
+   "p5.s2: \"서호가 ... 그림책을 들어 보였어요\"는 영어 원문의 'held up a picture book' 의미를 부정확하게 전달하므로 '들고 있었어요/들어 보였어요'는 부자연스러운 표현입니다.",
+   "p6.s2: \"작게 웃음이 나왔어요\"는 의미 전달은 가능하지만 문법적으로 부자연스러운 번역입니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장 난이도와 어휘가 B1 대상(10~12세) 대비 다소 쉬운 편으로, 핵심 문법은 이해하기 쉽지만 어휘·구성이 더 도전적인 어휘(예: more varied phrasal verbs, nuanced emotion 표현)로 상향 여지가 있습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문 1곳에서 실제 문법 오류가 있어 출간 전 교정이 필요하고, 번역에서도 일부 표현이 어색하거나 부정확한 부분이 존재합니다."
+ },
+ "daily-132-the-recycled-art-show": {
+  "english_errors": [],
+  "translation_issues": [
+   "p10.s2: \"사람들이 자신들의 도시 앞에 멈춰 서자 준은 긴장되면서도 뿌듯했습니다.\"의 \"긴장되면서\"는 부자연스럽고, \"준은 긴장하면서도 뿌듯해했다\"처럼 표현하는 것이 자연스럽습니다.",
+   "p13.s2: \"생각도 못 했었습니다\"는 영어 원문의 \"never imagined\" 뉘앙스를 제대로 반영하지 못한 어색한 표현으로, \"생각도 못 했었어요\" 또는 \"생각해본 적이 없었어요\"가 자연스럽습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장 길이와 어휘가 단순해서 10~12세가 소화하기엔 적절하나 CEFR B1로 보기는 조금 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 문장은 전반적으로 무난하고, 퀴즈도 정합성이 높으며, 수정이 필요한 점은 번역 어휘·표현의 자연성에서만 소수 존재합니다."
+ },
+ "daily-133-the-neighbor-helper": {
+  "english_errors": [],
+  "translation_issues": [
+   "p10.s1: \"짐을 날라 드렸어요\"는 의미가 어색하고 오타가 있어 '짐을 들고'의 핵심 동작이 비자연스럽습니다.",
+   "p12.s1: \"첫 숟가락을 떴어요\"는 한국어 표현이 어색합니다(일반적으로 첫 숟가락을 떠서/먹었다고 쓰는 쪽이 자연스럽습니다)."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 난이도는 일상적 서사 중심으로 구성되어 10-12세 B1 초중반 독자에게 무난하게 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 본문은 전반적으로 문법적으로 안정적이나 번역문에 두 곳의 실제 어색한 표현/오기가 있어 수정하면 더 자연스럽습니다."
+ },
+ "daily-135-the-big-project-plan": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "문장 길이와 문형이 전반적으로 간단해 CEFR B1(Stage 6) 아동용 기준보다 난이도가 다소 낮은 A2~초중급 수준에 가깝습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "번역과 내용은 전반적으로 일관되며 정답도 적절하지만, 문학적 난이도는 목표 CEFR B1에 비해 약간 쉽습니다."
+ },
+ "daily-134-the-school-radio": {
+  "english_errors": [
+   "p4.s2: \"ask a quiz\"는 비자연스러운 표현입니다. \"hold a quiz / have a quiz / give a quiz\"가 더 자연스럽습니다.",
+   "p5.s2: 'a red ON AIR sign'에서 ON AIR(음운 상 /ɑːn/)는 모음 발음이므로 관사로 \"an\"이 더 자연스럽습니다.",
+   "p10.s1: \"ask a quiz\"가 반복되어 사용되어 자연스러운 표현이 아닙니다."
+  ],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 구문은 대체로 이해하기 쉬운 B1(10~12세) 난이도이며, 미묘한 비자연 표현 몇 곳은 다듬으면 출판용으로 더 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "번역 의미는 전반적으로 충실하지만, 영문 대화 문구에서 부자연스러운 표현이 있어 수정하면 더 자연스러운 원고가 됩니다."
+ },
+ "daily-137-the-class-business": {
+  "english_errors": [],
+  "translation_issues": [
+   "p6.s2: \"이익이 남을 거야.\"가 선행 문장들의 설명체(했어요/예요)와 어투가 달라 통일성이 떨어집니다.",
+   "p11.s1: \"이건 고쳐야 해. 지금 바로 새로 드릴게.\"는 반말 표현으로 되어 있어 전반 해요체 번역 톤과 맞지 않습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장이 짧고 문법 구조가 단순해 CEFR B1 단계보다는 A2~초중급에 더 가깝습니다. 감정·추론 문장이 조금 더 복잡해지면 적합도가 좋아집니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "내용의 일관성이나 정답 적합성은 양호하나, 일부 한국어 대사에서 해요체 통일성이 흔들려 자연스럽지 않고 전체 난이도는 B1 기준에 비해 다소 낮습니다."
+ },
+ "daily-136-the-volunteer-week": {
+  "english_errors": [],
+  "translation_issues": [
+   "p3.s2: \"cans\"를 \"빈 캔들\"로 옮겨 ‘빈 캔’이 아니라 ‘양초’로 오해될 수 있어 의미가 달라집니다.",
+   "p4.s1: 대사 인용에서 \"몰랐어\"로 반말 처리되어 책 전반의 해요체(“~요/습니다”) 톤과 불일치합니다.",
+   "p6.s2: \"외롭단다\"·\"됐어\" 등 반말형 표기가 반복되어 어린이용 화법의 일관성이 떨어집니다.",
+   "p8.s1: \"거잖아\"는 구어는 가능하나 해요체 본문 톤과 맞지 않아 어투가 거칠게 들립니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장 길이와 어휘가 전반적으로 A1~A2 수준에 가까워 B1(10~12세)에는 다소 단순함이 있어요.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "실질적으로 수정이 필요한 부분은 번역의 의미 왜곡(빈 캔 → 빈 캔들)과 화법 일관성(해요체 미준수)이며, 내용 난이도는 목표 B1 대비 전반적으로 쉬운 편입니다."
+ },
+ "daily-139-the-mentor-program": {
+  "english_errors": [
+   "p6.s3: \"Try explaining it a different way next time.\"에서 전치사 누락으로 \"in a different way\"가 되어야 자연스럽습니다."
+  ],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "문장 구조와 어휘가 전반적으로 단순하고 반복적이라 A2~초중급 감각이 강해 10~12세 B1(6단계)에는 다소 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "실제 문법 오류(전치사 누락) 1건으로 최종 판정은 FAIL이며, 그 외 내용 일치도·퀴즈 정합성·서사 일관성은 대체로 양호합니다."
+ },
+ "daily-138-the-eco-challenge": {
+  "english_errors": [
+   "p5.s2: \"I usually eat fried chicken today.\" has a real collocation/tense error (\"usually\" with \"today\" is unnatural and inconsistent with the habit/immediacy contrast)."
+  ],
+  "translation_issues": [
+   "p7.s3: \"생각보다 훨씬 보람 있어.\"는 어색한 한국어 표현입니다; \"생각보다 훨씬 보람이 있어요.\"가 자연스럽습니다.",
+   "p12.s2: \"매주를 에코 주간으로 만들어 봐요.\"는 어색한 어미 사용(‘매주를’)입니다; \"매주 에코 주간으로 만들어 봐요\"가 자연스럽습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "구문과 문장 길이는 전반적으로 단순해 CEFR B1 대비 다소 쉬운 편이지만, 환경 주제 어휘는 대체로 적절합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문에서 실제 문법 오류가 1건 있고, 번역에서 두 곳의 어색한 표현이 있어 즉시 보완이 필요합니다."
+ },
+ "daily-140-the-festival-plan": {
+  "english_errors": [],
+  "translation_issues": [
+   "p12.s1: 인용문에서 \"기획이 생각보다 훨씬 힘들었어\"는 직전 화자 해설(\"~했어요\")과 톤이 맞지 않아 문어체-해요체 기준으로는 \"힘들었어요\"가 자연스럽습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "어휘와 문장 구성이 전반적으로 단순해 CEFR B1 단계보다는 B1 하한 또는 A2에 가까운 난이도입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 텍스트와 내용 연결성은 전반적으로 적절하나, p12.s1의 한국어 존댓말 일관성만 수정하면 더 자연스럽습니다."
+ },
+ "daily-142-the-invention-fair": {
+  "english_errors": [
+   "p5.s1: \"Jun tried rubber bands to hold pencils in a cardboard tube.\"는 뜻은 통하나, 원어민 자연스러운 표현은 \"tried using rubber bands to hold pencils...\"이다.",
+   "p7.s2: \"all the pencils stayed in perfectly.\"는 어순이 어색해 \"stayed perfectly in\" 또는 \"were kept in perfectly\"처럼 고쳐 쓰는 편이 자연스럽다."
+  ],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "어휘와 문장 구조가 매우 기본적이어서 10~12세 대상 B1(상대적으로 더 높은 난이도) 기준으로는 다소 쉬운 편이다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 원문에 두 곳의 표현상 부자연스러운 구문이 있으며, 전반적 난이도는 CEFR B1보다 다소 낮아 B1 대상에는 쉽게 느껴질 수 있다."
+ },
+ "daily-141-the-community-survey": {
+  "english_errors": [
+   "p4.s1: \"At the next door\"는 어색한 표현으로 \"At the next house\"/\"At the next home\"가 더 자연스럽습니다."
+  ],
+  "translation_issues": [
+   "p10.s2: \"긴장되었지만\"은 다소 부자연스러운 직역으로, '긴장했지만'이 더 자연스럽습니다.",
+   "p13.s3: \"준이 씩 웃었다\"는 어색한 표현으로 '준이 미소 지었다/살짝 웃었다'처럼 다듬는 것이 자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 핵심 어휘(community, survey, bar graph, data 등)는 10~12세 B1 단계에 무난하게 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "FAIL",
+  "summary": "소규모 표현 다듬기만 필요하고 내용/퀴즈의 정합성이나 연령 부적절성은 없습니다."
+ },
+ "daily-144-the-history-project": {
+  "english_errors": [],
+  "translation_issues": [
+   "p6.s1: \"그때는 뭐 하고 노셨어요?\"는 오타(\"놀았어요/놀고 있었어요\")로 어색하며 의미 전달이 불완전합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조는 전반적으로 10-12세가 읽기 좋은 B1(초중반) 수준으로, 난이도는 과도하지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "FAIL",
+  "summary": "실제 문법상 큰 오류는 없으나 p6.s1의 번역 오타가 있어 보완이 필요합니다."
+ },
+ "daily-143-the-debate-day": {
+  "english_errors": [],
+  "translation_issues": [
+   "p9.s2: \"그렇다면 진짜 문제는 얼마나가 적당한가인 것 같아요.\"의 \"얼마나가\"는 한국어 문법/자연스러움이 떨어져 의미 전달이 어색해요. \"얼마가\"가 자연스럽습니다.",
+   "p11.s2: \"미나가 씩 웃으며 말했어요.\"에서 \"씰\"/\"씩\"은 오타 의심 구문으로, 문장이 부자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘·문장 난이도와 개념 수준이 CEFR B1 초급-중간 단계(10-12세) 독자에게 무난하며, 담화 난이도도 과도하지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 본문은 문법적으로 큰 오류가 없고, 퀴즈 정답도 본문 근거와 일치하나 한국어 번역에서 두 곳의 표현이 자연스럽지 않아 가독성만 경미하게 다듬을 필요가 있습니다."
+ },
+ "daily-145-the-kindness-campaign": {
+  "english_errors": [],
+  "translation_issues": [
+   "p1.s1: \"학교에 들어서다가\"는 어색하며 문맥상 \"학교에 들어갔다가/들어가\"가 자연스럽습니다.",
+   "p12.s1: \"그달 말\"은 띄어쓰기 오류(그 달 말)와 약간의 어색함이 있습니다.",
+   "p13.s1: \"생각했어\"는 해요체 흐름과 어긋나는 반말 표현입니다.",
+   "p13.s2: \"알잖아\" 역시 반말로, 그리고 \"나눌수록\"은 띄어쓰기가 자연스럽지 않아 (나눌수록/나눌수록) 교정이 필요합니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장과 어휘 난이도가 전반적으로 낮고 문장 구조도 단순해 CEFR B1(특히 stage 6)에는 다소 쉬운 편입니다.",
+  "quiz_issues": [
+   "Q3: 본문에 Ms. Park의 직접적 반응이 \"따뜻하게 미소 지으며 계획을 더 이야기해 보라고 했다\"로 구체적으로 드러나지 않아 정답 0이 텍스트 근거만으로는 모호합니다."
+  ],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "본문 영어 자체는 큰 오류가 없으나, 몇몇 번역 문구에서 한국어 어투·띄어쓰기와 톤 통일 문제가 보이며 한 퀴즈의 근거 제시가 모호합니다."
+ },
+ "daily-146-the-future-city-model": {
+  "english_errors": [],
+  "translation_issues": [
+   "p5.s2: \"준이 높은 건물을 오리는 동안\"은 '오리다(접다)'로는 ‘잘라내다’ 의미가 아니어서 의미가 틀어질 수 있음. 자연스럽게 \"자르는 동안\"으로 수정 필요.",
+   "p13.s1: 대사 끝을 반말(\\\"몰랐어\\\")로 번역해 전체 텍스트의 해요체 서술 흐름과 톤이 일치하지 않음. 예: \"이렇게 재미있을 줄 몰랐어요.\""
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘가 전반적으로 초등 고학년 대상 B1(도전적이되 접근 가능한) 수준으로 크게 어렵거나 어렵지 않은 구간은 없음.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 본문 자체에는 큰 문법 오류가 없으나, 번역에서 동사 선택 오류와 말투 일관성에서 두 곳의 수정이 필요합니다."
+ },
+ "daily-147-the-time-capsule": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "텍스트의 문장 길이와 문법 패턴이 단순해 전반적으로 초급(A1~A2) 수준에 가깝고, B1(특히 stage 6)에는 약간 단순하다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "내용·번역·퀴즈는 큰 오류 없이 일관되며 실제 문제는 난이도만 B1 대비 다소 낮은 점입니다."
+ },
+ "daily-149-the-coding-club": {
+  "english_errors": [],
+  "translation_issues": [
+   "p12.s1: \"집에 걸어가며\"는 의미는 통하나 한국어 표현으로 어색하여 \"집으로 걸어가며\"가 자연스럽습니다.",
+   "p12.s3: \"그는 다음 모임이 기다려졌습니다.\"는 문법적으로 어색한 표현이라 의미 전달이 부정확합니다(예: \"그는 다음 모임을 기다리고 있었어요\")."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "전체 문장 구조와 어휘가 간결하고 반복이 많아 10–12세에는 매우 읽기 쉬운 편이라 B1(약 Stage 6) 대비 다소 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "원문과 질문 구성은 일관되지만, 일부 한국어 번역의 문법/표현이 부자연해 수정이 필요합니다."
+ },
+ "daily-148-the-green-rooftop": {
+  "english_errors": [],
+  "translation_issues": [
+   "p11.s1: \"옆으로 날랐어요\"는 옥상으로 물건을 올렸다는 뜻이 아니라 비정상적으로 ‘날아갔다’는 의미가 되어 원문 의미(운반하다)가 왜곡됨.",
+   "p2.s2: 대화체가 대부분 해요체인데 \"무슨 생각 해?\"는 반말이 섞여 톤이 불안정함.",
+   "p8.s1: \"교장 선생님께 드릴 제안서 쓰는 것을\"은 어색한 번역이며, 자연스러운 표현은 \"교장 선생님께 드릴 제안서를 쓰는 것\" 또는 \"제안서 작성\"입니다.",
+   "p10.s1: \"학생이\"는 \"학생들이\"가 되어야 수량 주어가 자연스럽습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "본문 문장 길이와 어휘가 전반적으로 단순하여 CEFR B1 단계(10~12세) 중상급에는 다소 쉬운 편이다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "의미 전달에 영향을 주는 번역 오류가 있어 출간 전 보완이 필요하다."
+ },
+ "daily-150-the-graduation-plan": {
+  "english_errors": [],
+  "translation_issues": [
+   "p6.s2: \"무슨 계획을 세우고 있니?\"는 선생님 발화인데 반말 종결이라 해요체 일관성(아이 대상 설명문)에 맞지 않습니다.",
+   "p7.s3: \"그 편지를 열어 볼 수 있을 거야\"는 선생님 대사로 보기엔 존대/해요체가 자연스럽지 않아 \"...있을 거예요\"가 더 적절합니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문장 길이와 문법이 매우 단순하고 어휘도 일상형이라 B1(10-12세) 대비로는 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "FAIL",
+  "summary": "전반적으로 의미 전달은 정확하지만, 선생님 대사의 한국어 존대 톤이 두 곳에서 해요체와 맞지 않아 수정이 필요합니다."
+ },
+ "daily-51-i-wash-my-face": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘가 모두 preA1(초급 초반, 8~10세) 수준에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "영문과 한글 번역 모두 의미가 정확히 맞고, 난이도도 연령·CEFR 단계에 적절하며 퀴즈 정답도 모두 타당합니다."
+ },
+ "daily-52-my-blue-cup": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘가 preA1 단계의 8~10세 독자에게 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "전반적으로 문장 구성, 번역 정확성, 퀴즈 정답 일치 모두 양호하며 출간용으로 무난합니다."
+ },
+ "daily-54-i-eat-an-apple": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구성이 preA1(초급 초반, 8~10세) 단계에 적합하며 난이도는 과하지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문장, 번역, 퀴즈 정답 및 서사 일관성에서 실제 오류가 없어 출간용으로 적합합니다."
+ },
+ "daily-55-my-little-dog": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "영어 문장 길이와 어휘가 모두 초보 단계(문장 구조 단순)로 CEFR preA1 Stage1에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법·의미 전달·퀴즈 정합성 측면에서 실제 문제는 없고, 전반적으로 전집 발간용으로 적합합니다."
+ },
+ "daily-53-my-socks": {
+  "english_errors": [],
+  "translation_issues": [
+   "p3.s1~p6.s1 주변: 한국어에서 양말을 세는 표현이 '한 짝/두 짝'으로 번역되어 있는데 본문은 단일 양말 개수를 뜻하므로 '한 개/두 개'가 더 정확합니다.",
+   "p7.s1: '양말 하나, 양말 둘'는 앞뒤 번역 용어와 달리 개수 단위가 일관되지 않아 '두 짝'으로 이어지는 오해 가능성이 생깁니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이는 preA1(stage 1) 수준에 맞고 지나치게 어렵지 않습니다.",
+  "quiz_issues": [
+   "Q4: 문제의 정답은 '한 짝'(정답 인덱스 1) 이어야 하나, 표기값이 0(두 짝)으로 잘못 처리되었습니다. 본문에서는 왼발·오른발에 각각 1개씩, 총 2개(1쌍)입니다."
+  ],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "실제 문제는 한국어 수량 표현의 일관성 결함과 Q4 정답 인덱스 오류가 있으며, 나머지 텍스트는 연령·수준 적합하고 이해 가능합니다."
+ },
+ "daily-57-the-big-bus": {
+  "english_errors": [],
+  "translation_issues": [
+   "p4.s1: \"준은 감사합니다 하고 말해요.\"는 어색한 조합으로, 자연스러운 해요체 번역은 \"준은 감사해요/감사합니다라고 말해요\"입니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘가 preA1/Stage 1 독자에게 적합한 난이도로 안정적으로 맞춰져 있습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "실질적인 문제는 p4.s1의 한국어 번역이 문법적으로 부자연스럽다는 점 하나이며, 나머지 문장과 퀴즈는 전반적으로 일치하고 적절합니다."
+ },
+ "daily-58-my-yellow-hat": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "too_easy",
+  "level_note": "내용과 문장 길이·어휘(모자, 노란색, 밖에 나가다 등)가 preA1(초보) 난이도보다도 단순해 CEFR preA1 Stage 1/초반 학습자에게는 매우 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "전반적으로 문법·번역·퀴즈·이야기 연속성이 모두 타당하고, 유일한 점검 포인트는 난이도가 목표군 대비 다소 낮다는 점입니다."
+ },
+ "daily-56-i-can-jump": {
+  "english_errors": [],
+  "translation_issues": [
+   "p2.s1: '높이높이'는 자연스러운 표기에서 ‘높이 높이’로 띄어 쓰는 편이 좋습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 전반적으로 preA1(초보) 단계에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "전반적으로 번역과 퀴즈는 적절하며, p2.s1의 Korean 띄어쓰기(‘높이 높이’)만 경미하게 다듬을 필요가 있습니다."
+ },
+ "daily-59-i-see-a-bird": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 매우 단순해 preA1 1단계 8–10세 수준에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "영문/한글 번역, 난이도, 퀴즈 정답, 이야기 일관성 모두 문제 없이 일관됩니다."
+ },
+ "daily-61-i-brush-my-hair": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이·문법 난이도가 8-10세 초보(PreA1) 수준에 맞으며 어휘도 단순하고 반복 구조가 적절합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문장과 번역, 퀴즈 정합성 모두 문제가 없어 출판용 원고로 적합합니다."
+ },
+ "daily-60-my-warm-bed": {
+  "english_errors": [
+   "p7.s1: \"Jun smiles big.\"는 자연스러운 원어민 표현이 아니므로 preA1 원고에서는 \"smiles\"와 \"big\"의 결합을 피하는 것이 좋습니다."
+  ],
+  "translation_issues": [
+   "p6.s1: \"준은 침대 속으로 들어가요.\"는 어색한 번역으로, 의미는 전달되지만 어린이 책 문장으로는 \"침대에 올라가요/눕니다\"가 더 자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이가 짧고 시제/구조가 단순해 preA1(8-10세 초반) 난이도에 적절합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문장 하나의 어색한 표현과 한 문장의 다듬을 수 있는 번역 어색성 외에는 의미, 구성, 난이도, 퀴즈 정합성에 큰 문제는 없습니다."
+ },
+ "daily-62-my-green-ball": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이가 모두 단순하고 반복적이라 preA1(8–10세 단계1) 수준에 잘 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "원문과 번역, 퀴즈 정답 모두 의미상 일관되며 품질 기준에서 실제 문제는 없습니다."
+ },
+ "daily-64-my-red-boots": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘·문장 길이·구조가 preA1 단계(초심자) 아이들 연령에 맞게 충분히 단순하고 이해 가능합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법, 번역, 퀴즈, 서사 연속성, 연령 적합성 측면에서 실질적인 문제는 발견되지 않습니다."
+ },
+ "daily-63-i-drink-milk": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이 모두 preA1(8-10세) 단계에 맞고, 의미 전달이 자연스럽습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "본문과 번역, 퀴즈 정답이 모두 맞고 전반적으로 출판용으로 부자연스럽거나 부적절한 부분이 없습니다."
+ },
+ "daily-65-i-wave-hello": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이, 구조가 전반적으로 CEFR preA1(stage 1) 아동용 독해 수준에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법·번역·퀴즈 정답 및 서사 일관성에서 실제 오류가 없어 출간용으로 적합합니다."
+ },
+ "daily-67-i-count-my-toes": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이, 구문이 모두 preA1(초보) 8-10세 대상에 적합하며 문법 난이도도 너무 높지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법적 오류, 의미 왜곡 번역, 퀴즈 정답 오류, 서사 모순, 메타 서사, 부적절한 내용은 발견되지 않았습니다."
+ },
+ "daily-66-my-soft-pillow": {
+  "english_errors": [],
+  "translation_issues": [
+   "p6.s1: \"준은 자신의 부드러운 베개가 정말 좋아요.\"는 문법상 자연스럽지 않고, 의미 전달이 약해져 \"준은 자신의 부드러운 베개를 정말 좋아해요.\"로 고쳐야 합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "영어 문장 길이와 어휘는 8~10세 preA1 수준에 맞고, 문장 구조도 매우 단순합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "전반적으로 CEFR preA1 수준에 적합하고 내용은 일관되지만, p6.s1의 한국어 번역에서 목적어 처리 오류가 있어 완전한 자연스러움이 떨어집니다."
+ },
+ "daily-68-getting-dressed": {
+  "english_errors": [
+   "p3.s2: \"tried a green sweater\"는 옷을 입어 본다는 뜻에서 보통 \"tried on a green sweater\"가 더 자연스럽습니다."
+  ],
+  "translation_issues": [
+   "p7.s2: \"그다음 바지와 양말도 챙겼어요\"는 '입다'의 의미가 약해져, 문장에서 \"put on his pants and socks\"의 착용 동작이 분명히 드러나지 않습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전반적으로 어휘와 문장 구조가 A1/8-10세 수준에 대체로 맞으며 난이도 과다 표현은 없습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문은 한 곳에서 옷 착용 동작을 부자연스럽게 쓴 부분이 있고, 한국어 번역 한 곳에서 '입다' 의미가 약화되어 문맥상 어색함이 있어 보완이 필요합니다."
+ },
+ "daily-70-my-breakfast": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 난이도가 A1 2단계(초등 저학년) 학습 수준에 충분히 부합한다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법·의미·퀴즈 정합성에서 실제 오류는 보이지 않으며, CEFR A1(8~10세) 수준에 무난하게 맞는 구성입니다."
+ },
+ "daily-69-the-morning-bus": {
+  "english_errors": [],
+  "translation_issues": [
+   "KO: \"하늘이 맑고 파랬어요.\"의 맞춤법과 자연스러움이 다소 어색할 수 있으며, 아동 교재 번역 톤에 맞추려면 \"하늘이 맑고 파랗고 맑았어요\" 또는 \"하늘이 맑고 파란색이었어요\"처럼 다듬는 것이 더 자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘·문장 길이·시제가 CEFR A1 Stage 2(8~10세) 수준에 대체로 맞으며 난이도 조정이 큰 필요는 없습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "FAIL",
+  "summary": "본문은 전반적으로 문맥과 의미가 잘 일치하나, 1곳의 번역 어투/맞춤법이 자녀용 텍스트 톤에서 다소 거칠어 수정 여지가 있습니다."
+ },
+ "daily-71-the-spilled-juice": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘(좌석, 쏟다, 치우다, 잘했어, 실수해도 괜찮아요 등)가 CEFR A1 Stage 2(8–10세) 수준에 적절합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "번역과 내용, 퀴즈 정합성이 전반적으로 양호하며 A1 어린이 독자 수준에 부합합니다."
+ },
+ "daily-72-the-puddle-walk": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘(빨리, 웅덩이, 장화, 진흙투성이 등)는 A1/초등 저학년 수준에 적합하며 CEFR 2단계 과도한 난이도 요소는 없음.",
+  "quiz_issues": [
+   "Q1: 정답이 인덱스 0(\"미나에게 전화했다\")로 되어 있지만, 본문 흐름상 비가 그친 뒤 준의 첫 행동은 창밖을 보고 미소 짓는 것이고( p1.s2 ), 미나에게 전화한 것은 다음 문장( p2.s1 )입니다."
+  ],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "퀴즈 1번 정답 표시가 본문과 어긋나 오답이므로 전체 품질에서 바로잡아야 하며, 그 외 본문 번역/문장 구성은 큰 오류가 없습니다."
+ },
+ "daily-73-at-the-bakery": {
+  "english_errors": [
+   "p3.s2: \"His eyes got big.\"는 아이들이 익숙하게 쓰는 표현이 아니고 보통 \"His eyes got wide\" 또는 \"His eyes widened\"가 자연스럽습니다.",
+   "p7.s2: \"The line was short and fast.\"에서 fast는 '줄'에 직접 어울리지 않아 ‘The line was short and moved quickly.’가 더 자연스럽습니다."
+  ],
+  "translation_issues": [
+   "p3.s2: \"눈이 커졌어요\"는 직역 느낌의 표현으로, 앞 문맥에 맞춰 \"눈이 동그래졌어요\"처럼 조금 더 자연스럽게 다듬는 편이 좋습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전체 문장은 A1 레벨에 맞는 단어와 구조가 대부분이며, 일부 표현만 가벼운 어색함이 있습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "주요 문법 오류는 없고 의미 오류도 적으나, p3.s2와 p7.s2의 영어 표현이 다소 부자연스러워 자연스러운 수정이 필요합니다."
+ },
+ "daily-74-my-new-pencil-case": {
+  "english_errors": [
+   "p4.s2: \"He opened the zipper and showed her inside.\"는 자연스러운 표현이 아니며, \"inside\" 앞에 정관사/the를 넣어 \"showed her the inside\"(또는 \"showed her inside of it\")로 고치는 것이 적절합니다."
+  ],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 전반적으로 A1 2단계(8~10세) 수준에 맞으며 난이도는 무난하게 유지되어 있습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문 문장 하나에서 표현상 문법/자연성 문제가 있어 출판 전 수정이 필요합니다."
+ },
+ "daily-75-building-a-snowman": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이, 구조가 전반적으로 8-10세 A1(2단계) 수준에 적합하다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "영어 원문·번역·퀴즈·스토리 흐름 모두 자연스럽고 일관되며 연령·레벨 조건에 맞는 것으로 보입니다."
+ },
+ "daily-76-helping-grandma": {
+  "english_errors": [],
+  "translation_issues": [
+   "p3.s1: \"고맙구나! 먼저 수건부터 개자꾸나.\"는 표준적인 해요체로 보기 어려운 ‘-구나’, 방언 느낌(‘개자꾸나’)이 섞인 표현으로, 아동용 번역 톤에 부자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘, 문법 구조는 CEFR A1(8–10세) 수준에 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 텍스트에는 문법적 오류가 없고 퀴즈 정답도 모두 타당하나, p3.s1의 한글 번역 일부가 다소 어색한 반말/방언 뉘앙스로 아이 대상 통일성 측면에서 다듬으면 좋습니다."
+ },
+ "daily-77-waiting-for-the-train": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘·문장 구조가 전반적으로 CEFR A1(초등 저학년) 수준에 맞고, 시제/표현이 지나치게 어렵지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문법·의미 오류, 퀴즈 정답 문제, 서사 모순, 연령 부적절성은 없으며 전반적으로 출판용 초안으로 무난합니다."
+ },
+ "daily-78-my-best-friend": {
+  "english_errors": [],
+  "translation_issues": [
+   "p2.s2: \"같이 놀래?\"는 \"Do you want to play?\"의 의미는 통하나, 초등 저학년용으로는 다소 부자연스러워 \"같이 놀자!\" 또는 \"같이 놀래요?\"가 더 자연스럽습니다.",
+   "p8.s2: \"나도 말했고\"는 부자연스러운 표현이라 \"나도 말했어요.\"가 더 자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이가 단문 중심으로 구성되어 있어 CEFR A1(초급) 8~10세 수준에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "본문은 전반적으로 수준에 맞는 구성이나, 일부 한국어 번역이 아이들 대상으로 다소 어색한 표현이 있어 수정하면 더 자연스럽습니다."
+ },
+ "daily-79-the-runaway-balloon": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘(색깔, 동작, 위치 표현)와 문장 길이가 8-10세 A1 2단계에 적합하며 난이도는 무난합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "전체적으로 문법 오류, 의미 왜곡, 오답 표기, 연속성/인물 혼선 및 연령 부적절 내용이 없으며, 퀴즈 정답과 근거도 텍스트와 일치합니다."
+ },
+ "daily-80-bath-time": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "문장 길이와 어휘가 단순 과거시제 위주로 구성되어 8-10세 A1 단계(Stage 2) 수준에 무난하게 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "전반적으로 문장 구성, 번역, 퀴즈 정답, 인물 일관성, 연령 적합성 모두 문제 없이 적합합니다."
+ },
+ "daily-81-the-windy-day": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘·문장 길이·시제·구문이 전반적으로 CEFR A1(8~10세 초급) 학습자가 소화하기에 적절합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "본문의 영어 문장과 한국어 번역은 전반적으로 충실하며, 퀴즈 정답도 텍스트 근거와 일치해 수정할 점이 없습니다."
+ },
+ "daily-82-my-piggy-bank": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이 모두 CEFR A1 Stage 2(8~10세)에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "본문의 영문·한글 번역, 난이도, 퀴즈 정답, 스토리 일관성에 실질적 문제가 없어 전반적으로 출판 가능한 수준입니다."
+ },
+ "daily-83-watering-the-plant": {
+  "english_errors": [
+   "p1.s1: \"on the window\" is unnatural phrasing for where a plant is placed; a native child would usually say \"on the windowsill\" or \"at the window\"."
+  ],
+  "translation_issues": [
+   "p1.s1: 영어 \"small plant\"를 \"작은 화분\"으로 번역해 대상이 바뀌어 의미가 달라졌습니다.",
+   "p1.s2: 앞 문장의 의미 변화 때문에 \"It looked dry and sad\"를 \"화분은 ...\"으로 번역해 주어가 식물이 아닌 화분으로 바뀌어 내용이 어색합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘(plant, roots, watering can, bud)와 문장 길이/시제가 A1 초급(8–10세) 수준에 맞고, 전반적으로 적절합니다.",
+  "quiz_issues": [
+   "Q1: 정답이 본문과 일치하지 않습니다. 본문은 \"small plant\"를 보지만 보기 중 정답 후보(0번)만 \"작은 화분\"이어서 영어 원문의 정답이 정확히 매핑되지 않습니다."
+  ],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문·번역에서 의미를 흐리는 표현(식물↔화분)이 있고, 이에 따라 1번 퀴즈 정답이 영문 본문 기준으로 맞지 않아 게재 전 수정이 필요합니다."
+ },
+ "daily-85-the-haircut": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 난이도는 9-11세 A2(3단계) 그림책 기준에 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "영문 원문, 번역, 퀴즈 정답 및 스토리 흐름에서 실제 오류는 없어 출판 검수 통과 기준을 충족합니다."
+ },
+ "daily-84-walking-the-puppy": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 단문 중심으로 구성되어 있으며, 8-10세 A1(초급) 학습자에게 전반적으로 적합하다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "전반적으로 영문 원문과 번역 모두 자연스럽고, 퀴즈 정답 및 이야기 흐름도 일관되어 실제 수정이 필요한 항목은 없다."
+ },
+ "daily-86-the-swimming-lesson": {
+  "english_errors": [],
+  "translation_issues": [
+   "p4.s1: '박 선생님 선생님은'은 중복 표기라 자연스럽지 않습니다. \"박 선생님은\"으로 수정이 필요합니다.",
+   "p9.s2: \"선생님은 준이 너무 자랑스러워서\"는 의미가 어색하게 바뀌어, '선생님이 준을 매우 자랑스러워해서' 또는 '준을 잘해서 자랑스러워해서'가 되어야 합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전체 어휘/문장 난이도는 9-11세 A2(Stage 3) 수준으로 무난하며, 문법도 대체로 발달 단계에 맞습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문 본문과 퀴즈는 전반적으로 적합하지만, 번역에서 중복 표기와 의미가 바뀌는 표현이 있어 교정이 필요합니다."
+ },
+ "daily-88-the-broken-toy": {
+  "english_errors": [],
+  "translation_issues": [
+   "p3.s1: ‘눈물이 고였어요’는 의미 전달은 되지만 ‘바라보다’ 뒤 연결이 어색해 아이 책 문체에서는 ‘바라보며’가 자연스러움.",
+   "p5.s2: ‘조금 희망이 생겼어요’는 의미 전달은 가능하나, ‘조금의 희망이 생겼어요’ 또는 ‘조금 희망을 느꼈어요’로 다듬는 편이 자연스러움."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전반적으로 어휘·문장 구조는 A2 3단계(9–11세)에 맞는 수준으로, 문법 난이도는 무난하며 아이가 이해하기에 적당함.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "번역의 문체상 어색한 부분이 소수 있으나, 영어 원문·퀴즈 정답·스토리 연계성은 일관되며 출판 품질상 큰 오류는 없다."
+ },
+ "daily-87-the-piano-recital": {
+  "english_errors": [
+   "p8.s2: \"When he hears the music, he forgets to be nervous.\"는 직역 느낌이 강한 부자연스러운 표현으로, \"When he hears the music, he forgets that he is nervous.\"가 더 자연스럽습니다."
+  ],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 복잡도는 A2 3단계(9~11세) 수준에 전반적으로 맞고, 전개도 간결합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "영문 문장과 내용 구성은 대부분 적절하며, 실제 오탈자·오역은 없고 다듬으면 좋은 점은 한 문장의 자연스러움입니다."
+ },
+ "daily-89-the-surprise-party": {
+  "english_errors": [
+   "p10.s2: \"You are the best friend.\"는 맥락상 \"You are my best friend.\" 또는 \"You are such a good friend.\"이 더 자연스러운 표현입니다."
+  ],
+  "translation_issues": [
+   "p1.s2: \"미나가 항상 자기를 응원해 줬기 때문에\"는 9~11세 독자에게 어색하며, \"미나가 늘 나를(준을) 응원해 줘서\"로 다듬으면 자연스럽습니다.",
+   "p4.s2: \"조심조심 저어요\"는 잘못된 철자/표기로, 동사 형태가 자연스러운 \"조심조심 젓어요\"가 되어야 합니다.",
+   "p5.s1: \"케이크가 굽히는 동안\"은 동사 선택이 부적절합니다(\"굽히다\"는 '굽다' 의미가 아님). \"케이크가 구우는 동안\" 또는 \"케이크가 구워지는 동안\"이 자연스럽습니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전반적으로 단문, 현재/과거 혼합, 초등 고학년용 일상 어휘 구성으로 A2 Stage 3에 대체로 적합합니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문 원문은 대체로 자연스럽지만 한국어 번역에서 오탈자 및 표현 부자연스러운 부분이 있어 수정이 필요합니다."
+ },
+ "daily-90-the-class-trip": {
+  "english_errors": [
+   "p2.s2: \"He puts in his lunch box and notebook.\" 문장에서 \"put\"의 직접 목적어가 빠져 있어 문장이 어색하고 문법이 부자연스럽습니다."
+  ],
+  "translation_issues": [
+   "p4.s1: \"박 선생님 선생님은\"으로 이름/칭호가 중복되어 오타가 있어 자연스럽지 않습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "어휘와 구문이 매우 단순해서 CEFR A2(stage 3) 하위 난이도보다 9~11세용 초급(초반) 수준에 더 가깝습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영어 본문과 번역에 실제 교정이 필요한 부분이 있어 현재 상태로는 통과하기 어렵습니다."
+ },
+ "daily-91-the-rainy-game": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 구문이 명확하고 문장 길이도 짧아 9-11세 A2(초중반) 독자에게 적절한 난이도입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "영문 원문, 한국어 번역, 퀴즈 정답이 전반적으로 일치하며 사실 오류·해석 오류·연령 부적절성은 없습니다."
+ },
+ "daily-92-the-new-student": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 길이가 A2(3단계) 대상(9-11세)에게 적합하며, CEFR 난이도나 문법 복잡도가 과하지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "원고 전체적으로 영문 문장과 한국어 번역, 퀴즈 정답 및 내용 일관성에 실질적인 오류가 없어 출판 심사 통과 기준을 충족합니다."
+ },
+ "daily-93-the-cookie-sale": {
+  "english_errors": [],
+  "translation_issues": [
+   "p4.s1: '준이 반죽을 저으면 미나가 모양을 만들었어요'는 'while'의 동시 동작 의미가 아니라 조건/시간적 조건으로 읽혀 자연스러움을 해치므로 '준이 반죽을 저으면서 미나가 모양을 만들었어요'가 적절합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전체 문장과 어휘가 9–11세 A2(Stage 3) 수준에 맞게 단순한 과거 시제, 기초 연산(나누기·곱셈) 중심으로 구성되어 있습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "전반적으로 퀴즈·스토리·난이도는 적합하며, 실제 문법적 오류는 없지만 p4.s1 번역의 동사 연결 표현만 다듬어 주는 것이 좋습니다."
+ },
+ "daily-94-the-ant-farm": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 9~11세 A2 3단계 독자에게 전반적으로 적합하며, 문장 난이도와 내용이 무리 없이 이해 가능한 수준입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "전반적으로 자연스러운 영문/한글 대응과 내용 일치가 잘 되어 있으며, 출판용으로 큰 문제를 찾지 못했습니다."
+ },
+ "daily-95-the-tree-house": {
+  "english_errors": [],
+  "translation_issues": [
+   "p1.s2: \"아빠, 저기에 나무 위 오두막 만들 수 있어요?\"는 자연스러운 어법이 아니며, 일반적으로 \"나무 위에 오두막을\" 또는 \"나무 위에 오두막을 만들 수 있어요?\"가 더 적절합니다.",
+   "p5.s1: \"아빠가 판자를 날랐어요\"는 의미가 어색하고 어색하게 오기, 영어 'carried the boards'의 뜻인 '들어 주다/운반하다'와 어긋납니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "문법/구문은 전반적으로 매우 단순해 9~11세 A2 학습자 기준으로는 난이도가 다소 낮은 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문 문장에는 실질적인 오류가 없으나, 번역에서 일부 자연스러움/정확성 문제가 있으며(특히 p5.s1), 난이도는 A2보다는 더 쉬운 수준입니다."
+ },
+ "daily-96-the-snow-day": {
+  "english_errors": [],
+  "translation_issues": [
+   "p5.s2: ‘되던졌어요’는 오타입니다. ‘던졌어요(또는 되돌려 던졌어요)’가 맞습니다.",
+   "p9.s1: ‘미나와 썰매를 함께 타서’는 영어의 ‘shared the sled with Mina(번갈아/함께 사용했다)’와 의미가 어긋납니다. ‘미나와 번갈아 썰매를 탔기 때문에’로 수정해야 합니다."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 전반적으로 A2(초등 상·중하반) 수준에 맞고, 난이도 역시 과도하게 어렵지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "영문 본문 자체는 큰 오류가 없지만, 번역에서 오탈자 1건과 의미가 미묘하게 달라지는 표현 1건이 있어 실제 사용 전 수정이 필요합니다."
+ },
+ "daily-97-the-lemonade-stand": {
+  "english_errors": [],
+  "translation_issues": [
+   "p8.s1: \"컵이 금세 동났어요\"에서 '동나'는 오탈자(올바른 맞춤형 표현은 '동났어요/끝났어요')로 바뀌어야 해요.",
+   "p9.s1: \"사 가서\"는 자연스럽지 않고 아이들이 이해하기 쉬운 표현으로는 \"사러 가서\"가 더 적절해요."
+  ],
+  "level_fit": "appropriate",
+  "level_note": "전반적으로 문장 길이와 어휘가 A2 3단계(9-11세) 수준에 적절하며, 시제/구문도 크게 어렵지 않습니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "low",
+  "verdict": "PASS",
+  "summary": "문법적 핵심 오류는 없고, 번역에서 경미한 맞춤·자연스러운 표현 문제가 2곳 있어 수준 적합도는 유지되며 보완 시 출간 전형에 충분합니다."
+ },
+ "daily-98-the-art-class": {
+  "english_errors": [],
+  "translation_issues": [],
+  "level_fit": "appropriate",
+  "level_note": "어휘와 문장 구조가 아이들이 A2(초급) 단계에서 이해하기 적절한 수준이며 전반적으로 난이도는 균형적입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "none",
+  "verdict": "PASS",
+  "summary": "문장·번역·퀴즈·서사 모두 큰 오류가 없어 출판용 검수 통과 기준에 부합합니다."
+ },
+ "daily-99-the-lost-key": {
+  "english_errors": [
+   "p10.s2: \"Over their snack\"는 부자연스러운 표현입니다. 문맥상 \"While they were having a snack\" 또는 \"After their snack\"처럼 바꾸는 것이 자연스럽습니다."
+  ],
+  "translation_issues": [
+   "p8.s2: \"반짝이는 열쇠를 꺼내 들어 보여 줘요.\"는 \"꺼내 들어\"가 어색하고 띄어쓰기/표현이 부자연스러워 \"반짝이는 열쇠를 꺼내 보여 줘요.\"로 수정하는 것이 자연스럽습니다."
+  ],
+  "level_fit": "too_easy",
+  "level_note": "전반적으로 문장 길이와 어휘가 매우 단순해 CEFR A2 하위 수준(초급 초입) 느낌이 강해 9–11세 A2용으로는 다소 쉬운 편입니다.",
+  "quiz_issues": [],
+  "narrative_issues": [],
+  "meta_dialogue": [],
+  "inappropriate": [],
+  "severity": "high",
+  "verdict": "FAIL",
+  "summary": "현실적으로 문장 품질 문제는 'Over their snack'의 영어 표현과 한 곳의 한국어 어색 문장으로, 해당 부분을 다듬으면 출판용으로 충분히 정합성이 좋아집니다."
+ }
+}

@@ -1,0 +1,2566 @@
+{
+  "slug": "daily-123-the-food-drive",
+  "title": "The Food Drive",
+  "title_ko": "음식 나눔",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun과 친구 Mina가 반 친구들과 함께 통조림을 모아 이웃에게 나눔을 실천하는 따뜻한 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One morning, Ms. Park stood in front of the class with a big cardboard box.",
+          "translation_ko": "어느 날 아침, 박 선생님이 커다란 종이 상자를 들고 교실 앞에 섰어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "morning",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "Ms",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "Park",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "stood",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1700
+            },
+            {
+              "word": "in",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1700,
+              "endMs": 1940
+            },
+            {
+              "word": "front",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2060
+            },
+            {
+              "word": "of",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2260,
+              "endMs": 2300
+            },
+            {
+              "word": "class",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2300,
+              "endMs": 2620
+            },
+            {
+              "word": "with",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "a",
+              "charStart": 55,
+              "charEnd": 56,
+              "startMs": 2840,
+              "endMs": 3040
+            },
+            {
+              "word": "big",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3040,
+              "endMs": 3380
+            },
+            {
+              "word": "cardboard",
+              "charStart": 61,
+              "charEnd": 70,
+              "startMs": 3380,
+              "endMs": 3760
+            },
+            {
+              "word": "box",
+              "charStart": 71,
+              "charEnd": 74,
+              "startMs": 3760,
+              "endMs": 4200
+            }
+          ]
+        },
+        {
+          "text": "\"Our school is having a food drive this week,\" she announced.",
+          "translation_ko": "\"이번 주에 우리 학교에서 음식 나눔 행사를 해요,\" 선생님이 말했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "school",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "is",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "having",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "food",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "drive",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "this",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "week",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "she",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2740,
+              "endMs": 2940
+            },
+            {
+              "word": "announced",
+              "charStart": 51,
+              "charEnd": 60,
+              "startMs": 2940,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We will collect canned food for families who need help.\"",
+          "translation_ko": "\"도움이 필요한 가정을 위해 통조림을 모을 거예요.\"",
+          "audio": "/seed/daily-123-the-food-drive/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "will",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "collect",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "canned",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 900,
+              "endMs": 1380
+            },
+            {
+              "word": "food",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1380,
+              "endMs": 1780
+            },
+            {
+              "word": "for",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1780,
+              "endMs": 2200
+            },
+            {
+              "word": "families",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2200,
+              "endMs": 2580
+            },
+            {
+              "word": "who",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2580,
+              "endMs": 2860
+            },
+            {
+              "word": "need",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2860,
+              "endMs": 3020
+            },
+            {
+              "word": "help",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3020,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Jun raised his hand and asked, \"Can we bring any kind?\"",
+          "translation_ko": "준이 손을 들고 물었어요. \"어떤 종류든 가져와도 되나요?\"",
+          "audio": "/seed/daily-123-the-food-drive/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "raised",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "hand",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "word": "asked",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1720
+            },
+            {
+              "word": "Can",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2440
+            },
+            {
+              "word": "we",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "bring",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 2760
+            },
+            {
+              "word": "any",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2760,
+              "endMs": 3000
+            },
+            {
+              "word": "kind",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3000,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "\"Yes, anything you can share,\" Ms. Park replied.",
+          "translation_ko": "\"네, 나눌 수 있는 것이라면 뭐든지요,\" 선생님이 대답했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 980
+            },
+            {
+              "word": "anything",
+              "charStart": 6,
+              "charEnd": 14,
+              "startMs": 1700,
+              "endMs": 1700
+            },
+            {
+              "word": "you",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "can",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1960,
+              "endMs": 2160
+            },
+            {
+              "word": "share",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 2160,
+              "endMs": 2440
+            },
+            {
+              "word": "Ms",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2740,
+              "endMs": 2880
+            },
+            {
+              "word": "Park",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 3040,
+              "endMs": 3120
+            },
+            {
+              "word": "replied",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 3120,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After school, Jun opened the cabinet and found cans of corn, beans, and tuna.",
+          "translation_ko": "하교 후, 준은 찬장을 열었더니 옥수수, 콩, 참치 통조림이 있었어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 320,
+              "endMs": 760
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1420,
+              "endMs": 1500
+            },
+            {
+              "word": "opened",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "cabinet",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2140,
+              "endMs": 2360
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2360,
+              "endMs": 2900
+            },
+            {
+              "word": "found",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2900,
+              "endMs": 3080
+            },
+            {
+              "word": "cans",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3080,
+              "endMs": 3400
+            },
+            {
+              "word": "of",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3400,
+              "endMs": 3920
+            },
+            {
+              "word": "corn",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3920,
+              "endMs": 3920
+            },
+            {
+              "word": "beans",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 4580,
+              "endMs": 4580
+            },
+            {
+              "word": "and",
+              "charStart": 68,
+              "charEnd": 71,
+              "startMs": 4740,
+              "endMs": 5240
+            },
+            {
+              "word": "tuna",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 5240,
+              "endMs": 5240
+            }
+          ]
+        },
+        {
+          "text": "He felt hopeful because he knew these would help someone.",
+          "translation_ko": "이것들이 누군가에게 도움이 될 거라는 생각에 마음이 따뜻해졌어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "hopeful",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "because",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 940,
+              "endMs": 1540
+            },
+            {
+              "word": "he",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "knew",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1800,
+              "endMs": 1880
+            },
+            {
+              "word": "these",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1880,
+              "endMs": 2160
+            },
+            {
+              "word": "would",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2160,
+              "endMs": 2340
+            },
+            {
+              "word": "help",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "someone",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 2600,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next day, Mina came to school carrying a heavy bag.",
+          "translation_ko": "다음 날, 미나가 묵직한 가방을 들고 학교에 왔어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 480
+            },
+            {
+              "word": "day",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "Mina",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "came",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "to",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1840,
+              "endMs": 2080
+            },
+            {
+              "word": "school",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "carrying",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2300,
+              "endMs": 2680
+            },
+            {
+              "word": "a",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 2980
+            },
+            {
+              "word": "heavy",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2980,
+              "endMs": 3160
+            },
+            {
+              "word": "bag",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3160,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "\"I brought twelve cans!\" she said proudly.",
+          "translation_ko": "\"나 통조림 열두 개 가져왔어!\" 미나가 자랑스럽게 말했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "brought",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "twelve",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 480,
+              "endMs": 960
+            },
+            {
+              "word": "cans",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 960,
+              "endMs": 1780
+            },
+            {
+              "word": "she",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1780,
+              "endMs": 1900
+            },
+            {
+              "word": "said",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "proudly",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2120,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "Jun was surprised because Mina had brought more than he had.",
+          "translation_ko": "준은 미나가 자기보다 더 많이 가져왔다는 것에 놀랐어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "surprised",
+              "charStart": 8,
+              "charEnd": 17,
+              "startMs": 580,
+              "endMs": 1180
+            },
+            {
+              "word": "because",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1860
+            },
+            {
+              "word": "Mina",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "had",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "brought",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2360,
+              "endMs": 2580
+            },
+            {
+              "word": "more",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2580,
+              "endMs": 2840
+            },
+            {
+              "word": "than",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2840,
+              "endMs": 3020
+            },
+            {
+              "word": "he",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3020,
+              "endMs": 3220
+            },
+            {
+              "word": "had",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3220,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Together, they placed their cans carefully into the big box.",
+          "translation_ko": "둘이 함께 통조림을 조심스럽게 큰 상자 안에 담았어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Together",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "they",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 680,
+              "endMs": 1240
+            },
+            {
+              "word": "placed",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "their",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "cans",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 2020
+            },
+            {
+              "word": "carefully",
+              "charStart": 33,
+              "charEnd": 42,
+              "startMs": 2020,
+              "endMs": 2580
+            },
+            {
+              "word": "into",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2580,
+              "endMs": 3100
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3100,
+              "endMs": 3260
+            },
+            {
+              "word": "big",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3260,
+              "endMs": 3500
+            },
+            {
+              "word": "box",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3500,
+              "endMs": 3800
+            }
+          ]
+        },
+        {
+          "text": "The box was already getting full, and more classmates were still arriving.",
+          "translation_ko": "상자는 이미 가득 차고 있었고, 반 친구들은 계속 오고 있었어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "box",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "was",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "already",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 780,
+              "endMs": 1140
+            },
+            {
+              "word": "getting",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "full",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1400,
+              "endMs": 1960
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2400,
+              "endMs": 2500
+            },
+            {
+              "word": "more",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2500,
+              "endMs": 2740
+            },
+            {
+              "word": "classmates",
+              "charStart": 43,
+              "charEnd": 53,
+              "startMs": 2740,
+              "endMs": 3200
+            },
+            {
+              "word": "were",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3200,
+              "endMs": 3480
+            },
+            {
+              "word": "still",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3480,
+              "endMs": 3800
+            },
+            {
+              "word": "arriving",
+              "charStart": 65,
+              "charEnd": 73,
+              "startMs": 3800,
+              "endMs": 4100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "But one boy sat quietly at his desk without bringing anything.",
+          "translation_ko": "그런데 남자아이 하나가 아무것도 가져오지 않고 조용히 자리에 앉아 있었어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "one",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "boy",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "sat",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "quietly",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1620
+            },
+            {
+              "word": "at",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1840
+            },
+            {
+              "word": "his",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2040
+            },
+            {
+              "word": "desk",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2040,
+              "endMs": 2340
+            },
+            {
+              "word": "without",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2740,
+              "endMs": 2900
+            },
+            {
+              "word": "bringing",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2900,
+              "endMs": 3140
+            },
+            {
+              "word": "anything",
+              "charStart": 53,
+              "charEnd": 61,
+              "startMs": 3140,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "Jun noticed that he looked sad and a little embarrassed.",
+          "translation_ko": "준은 그 아이가 슬프고 조금 부끄러워 보인다는 것을 알아챘어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "noticed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 940
+            },
+            {
+              "word": "that",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "he",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1340
+            },
+            {
+              "word": "looked",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "sad",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1580,
+              "endMs": 2080
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2440
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2440,
+              "endMs": 2540
+            },
+            {
+              "word": "little",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 2700
+            },
+            {
+              "word": "embarrassed",
+              "charStart": 44,
+              "charEnd": 55,
+              "startMs": 2700,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At lunch, Jun quietly told Mina what he had noticed.",
+          "translation_ko": "점심시간에 준은 미나에게 조용히 자신이 느낀 것을 이야기했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "lunch",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 620
+            },
+            {
+              "word": "Jun",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "quietly",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1620
+            },
+            {
+              "word": "told",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 2000
+            },
+            {
+              "word": "Mina",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "what",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2680
+            },
+            {
+              "word": "he",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2680,
+              "endMs": 2800
+            },
+            {
+              "word": "had",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "noticed",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 3000,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "\"Maybe he feels left out,\" said Mina thoughtfully.",
+          "translation_ko": "\"그 아이가 소외감을 느끼는 것 같아,\" 미나가 생각에 잠겨 말했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Maybe",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 900
+            },
+            {
+              "word": "he",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "feels",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1200,
+              "endMs": 1560
+            },
+            {
+              "word": "left",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1560,
+              "endMs": 1820
+            },
+            {
+              "word": "out",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1820,
+              "endMs": 2080
+            },
+            {
+              "word": "said",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2480,
+              "endMs": 2540
+            },
+            {
+              "word": "Mina",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "thoughtfully",
+              "charStart": 37,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "\"We should do something so he feels part of this too.\"",
+          "translation_ko": "\"그 아이도 함께하는 기분이 들 수 있도록 뭔가 해야 할 것 같아.\"",
+          "audio": "/seed/daily-123-the-food-drive/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "should",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 620
+            },
+            {
+              "word": "do",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "something",
+              "charStart": 14,
+              "charEnd": 23,
+              "startMs": 920,
+              "endMs": 1360
+            },
+            {
+              "word": "so",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1360,
+              "endMs": 1840
+            },
+            {
+              "word": "he",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2100
+            },
+            {
+              "word": "feels",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "part",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "of",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2620,
+              "endMs": 2780
+            },
+            {
+              "word": "this",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "too",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They asked him if he wanted to help decorate the box.",
+          "translation_ko": "둘은 그 아이에게 상자를 꾸미는 것을 도와달라고 물었어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "asked",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "him",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "if",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1340
+            },
+            {
+              "word": "he",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1520
+            },
+            {
+              "word": "wanted",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1740
+            },
+            {
+              "word": "to",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "help",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "decorate",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2240,
+              "endMs": 2680
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2680,
+              "endMs": 2920
+            },
+            {
+              "word": "box",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2920,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "His face lit up when they invited him.",
+          "translation_ko": "그 아이는 초대를 받자 얼굴이 환해졌어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "face",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "lit",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "up",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1060
+            },
+            {
+              "word": "when",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "they",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "invited",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "him",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1780,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "\"I love drawing! I can make it welcoming,\" he said eagerly.",
+          "translation_ko": "\"나 그림 그리는 거 좋아해! 따뜻한 느낌이 나게 만들 수 있어,\" 그 아이가 신이 나서 말했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "love",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 780,
+              "endMs": 1120
+            },
+            {
+              "word": "drawing",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1580
+            },
+            {
+              "word": "I",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 2160,
+              "endMs": 2240
+            },
+            {
+              "word": "can",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 2240,
+              "endMs": 2400
+            },
+            {
+              "word": "make",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2400,
+              "endMs": 2540
+            },
+            {
+              "word": "it",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2540,
+              "endMs": 2720
+            },
+            {
+              "word": "welcoming",
+              "charStart": 31,
+              "charEnd": 40,
+              "startMs": 2720,
+              "endMs": 3680
+            },
+            {
+              "word": "he",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3680,
+              "endMs": 3680
+            },
+            {
+              "word": "said",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3680,
+              "endMs": 3820
+            },
+            {
+              "word": "eagerly",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 3820,
+              "endMs": 4320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He drew hearts and the words \"With Love\" on the side of the box.",
+          "translation_ko": "그 아이는 상자 옆면에 하트와 'With Love'라는 글자를 그렸어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "drew",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 420
+            },
+            {
+              "word": "hearts",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "words",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "With",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1560,
+              "endMs": 2180
+            },
+            {
+              "word": "Love",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2180,
+              "endMs": 2560
+            },
+            {
+              "word": "on",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2960,
+              "endMs": 3120
+            },
+            {
+              "word": "side",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3120,
+              "endMs": 3300
+            },
+            {
+              "word": "of",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3300,
+              "endMs": 3460
+            },
+            {
+              "word": "the",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3460,
+              "endMs": 3540
+            },
+            {
+              "word": "box",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3540,
+              "endMs": 3860
+            }
+          ]
+        },
+        {
+          "text": "\"You made this feel special,\" Jun told him sincerely.",
+          "translation_ko": "\"네 덕분에 특별해졌어,\" 준이 진심으로 말했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "made",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "this",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "feel",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "special",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1120,
+              "endMs": 2240
+            },
+            {
+              "word": "Jun",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2240,
+              "endMs": 2240
+            },
+            {
+              "word": "told",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "him",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2460,
+              "endMs": 2720
+            },
+            {
+              "word": "sincerely",
+              "charStart": 43,
+              "charEnd": 52,
+              "startMs": 2720,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By Friday, the box was overflowing with cans from every student.",
+          "translation_ko": "금요일이 되자 상자는 모든 학생들이 가져온 통조림으로 가득 넘쳤어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "Friday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1240,
+              "endMs": 1300
+            },
+            {
+              "word": "box",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "was",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "overflowing",
+              "charStart": 23,
+              "charEnd": 34,
+              "startMs": 1800,
+              "endMs": 2380
+            },
+            {
+              "word": "with",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2380,
+              "endMs": 2680
+            },
+            {
+              "word": "cans",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 2980
+            },
+            {
+              "word": "from",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2980,
+              "endMs": 3240
+            },
+            {
+              "word": "every",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3240,
+              "endMs": 3720
+            },
+            {
+              "word": "student",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 3720,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park counted eighty-seven cans in total.",
+          "translation_ko": "박 선생님이 세어 보니 모두 여든일곱 개였어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 760,
+              "endMs": 900
+            },
+            {
+              "word": "counted",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1460
+            },
+            {
+              "word": "eighty-seven",
+              "charStart": 17,
+              "charEnd": 29,
+              "startMs": 1460,
+              "endMs": 2140
+            },
+            {
+              "word": "cans",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2140,
+              "endMs": 2600
+            },
+            {
+              "word": "in",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2600,
+              "endMs": 2900
+            },
+            {
+              "word": "total",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2900,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "\"I am so proud of how everyone worked together,\" she said.",
+          "translation_ko": "\"여러분이 함께 힘을 모아 준 것이 정말 자랑스러워요,\" 선생님이 말했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "am",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 140,
+              "endMs": 380
+            },
+            {
+              "word": "so",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "proud",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "of",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1240
+            },
+            {
+              "word": "how",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1340
+            },
+            {
+              "word": "everyone",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1340,
+              "endMs": 1780
+            },
+            {
+              "word": "worked",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 1780,
+              "endMs": 2080
+            },
+            {
+              "word": "together",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2080,
+              "endMs": 2780
+            },
+            {
+              "word": "she",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 2940
+            },
+            {
+              "word": "said",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2940,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina helped carry the heavy box to the school office.",
+          "translation_ko": "준과 미나는 무거운 상자를 학교 사무실까지 옮기는 것을 도왔어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 840
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "helped",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1580
+            },
+            {
+              "word": "carry",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "heavy",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2380
+            },
+            {
+              "word": "box",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2380,
+              "endMs": 2760
+            },
+            {
+              "word": "to",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2760,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2960,
+              "endMs": 3200
+            },
+            {
+              "word": "school",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3200,
+              "endMs": 3440
+            },
+            {
+              "word": "office",
+              "charStart": 54,
+              "charEnd": 60,
+              "startMs": 3440,
+              "endMs": 3860
+            }
+          ]
+        },
+        {
+          "text": "The principal thanked them and said the food would go to nearby families.",
+          "translation_ko": "교장 선생님이 감사 인사를 하며 음식이 근처 가정들에게 전달될 거라고 했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "principal",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 220,
+              "endMs": 640
+            },
+            {
+              "word": "thanked",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 640,
+              "endMs": 1020
+            },
+            {
+              "word": "them",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1020,
+              "endMs": 1300
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1300,
+              "endMs": 1620
+            },
+            {
+              "word": "said",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 1800,
+              "endMs": 2060
+            },
+            {
+              "word": "food",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "would",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "go",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "to",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 2760,
+              "endMs": 3040
+            },
+            {
+              "word": "nearby",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3040,
+              "endMs": 3320
+            },
+            {
+              "word": "families",
+              "charStart": 64,
+              "charEnd": 72,
+              "startMs": 3320,
+              "endMs": 3840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Walking home, Jun thought about the families who would open those cans.",
+          "translation_ko": "집에 걸어가면서 준은 그 통조림을 열게 될 가족들을 생각했어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Walking",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "home",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 780
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1280,
+              "endMs": 1420
+            },
+            {
+              "word": "thought",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "about",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1940,
+              "endMs": 2100
+            },
+            {
+              "word": "families",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2100,
+              "endMs": 2500
+            },
+            {
+              "word": "who",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2500,
+              "endMs": 2680
+            },
+            {
+              "word": "would",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 2680,
+              "endMs": 2920
+            },
+            {
+              "word": "open",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 2920,
+              "endMs": 3140
+            },
+            {
+              "word": "those",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3140,
+              "endMs": 3460
+            },
+            {
+              "word": "cans",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 3460,
+              "endMs": 3780
+            }
+          ]
+        },
+        {
+          "text": "Even a small action could make a big difference for someone.",
+          "translation_ko": "작은 행동 하나가 누군가에게 큰 변화를 줄 수 있다는 것을 깨달았어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Even",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "a",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "small",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "action",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1400
+            },
+            {
+              "word": "could",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "make",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "a",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "big",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2420
+            },
+            {
+              "word": "difference",
+              "charStart": 37,
+              "charEnd": 47,
+              "startMs": 2420,
+              "endMs": 2760
+            },
+            {
+              "word": "for",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2760,
+              "endMs": 3040
+            },
+            {
+              "word": "someone",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3040,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "He smiled, looking forward to next year's food drive.",
+          "translation_ko": "준은 내년 나눔 행사가 기대되어 미소를 지었어요.",
+          "audio": "/seed/daily-123-the-food-drive/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "smiled",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "looking",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1280
+            },
+            {
+              "word": "forward",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "to",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "next",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2020
+            },
+            {
+              "word": "year's",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "food",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2400,
+              "endMs": 2580
+            },
+            {
+              "word": "drive",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2580,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "박 선생님이 학생들에게 모아 달라고 한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "통조림 음식",
+        "헌 옷",
+        "장난감",
+        "책"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 도움이 필요한 가정을 위해 통조림 음식을 모으자고 했어요."
+    },
+    {
+      "question_ko": "미나가 학교에 가져온 통조림은 몇 개인가요?",
+      "type": "mc",
+      "options": [
+        "열 개",
+        "열두 개",
+        "여덟 개",
+        "다섯 개"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미나는 열두 개의 통조림을 가방에 담아 학교에 가져왔어요."
+    },
+    {
+      "question_ko": "준과 미나는 소외된 아이에게 어떤 역할을 부탁했나요?",
+      "type": "mc",
+      "options": [
+        "통조림 옮기기",
+        "상자 꾸미기",
+        "안내문 쓰기",
+        "통조림 사오기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "준과 미나는 그 아이도 함께하는 기분을 느낄 수 있도록 기부 상자를 꾸미는 것을 부탁했어요."
+    },
+    {
+      "question_ko": "반 학생들이 모은 통조림은 모두 몇 개인가요?",
+      "type": "mc",
+      "options": [
+        "일흔일곱 개",
+        "아흔일곱 개",
+        "여든일곱 개",
+        "예순일곱 개"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "박 선생님이 세어 보니 모두 여든일곱 개의 통조림이 모였어요."
+    },
+    {
+      "question_ko": "이 이야기에서 준이 깨달은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "통조림은 비싸다",
+        "작은 행동도 누군가에게 큰 변화를 줄 수 있다",
+        "혼자 하는 것이 더 빠르다",
+        "음식 나눔은 어렵고 힘든 일이다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "준은 집에 돌아가는 길에 작은 행동 하나가 누군가에게 큰 변화를 줄 수 있다는 것을 깨달았어요."
+    }
+  ]
+}

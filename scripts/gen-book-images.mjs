@@ -8,7 +8,14 @@
  *   node scripts/gen-book-images.mjs all    [conc]
  */
 import { spawn } from "node:child_process";
-import { readFileSync, readdirSync, existsSync, mkdirSync } from "node:fs";
+import {
+  readFileSync,
+  readdirSync,
+  existsSync,
+  mkdirSync,
+  unlinkSync,
+} from "node:fs";
+import { createHash } from "node:crypto";
 import { join } from "node:path";
 import { PLAN, CAST } from "./daily-expansion-plan.mjs";
 
@@ -22,6 +29,35 @@ const SEED = join(ROOT, "data", "seed");
 const PUB = join(ROOT, "public", "seed");
 const RES = "1536x1024";
 const PER_TIMEOUT = 480000; // 8분
+// 페이지당 codex 시도 횟수. quota 절약을 위해 기본 1회 — 실패/복제는 공백으로 두고
+// 다음 패스(skip-existing 재실행)·사용자 검수에서 백필. GEN_RETRY로 상향 가능.
+const RETRY = Math.max(1, Number(process.env.GEN_RETRY ?? 1));
+
+// ── MD5 self-verify (codex 0.139 "최신 generated_images 줍기" 교차오염 방어) ──
+// regen-dedup-w7.mjs 검증 로직 이식: 생성 직후 전 자산 md5 대조 → 충돌 시 폐기+salt 재시도,
+// 성공분은 즉시 대조군 편입. genOne 내 검사·편입 구간엔 await 가 없어 동시성 race 안전(단일스레드 원자).
+const md5 = (p) => createHash("md5").update(readFileSync(p)).digest("hex");
+const HASHES = new Map(); // md5 → 경로
+function buildHashMap() {
+  if (!existsSync(PUB)) return; // 클린 환경(첫 실행)에서 PUB 부재 시 크래시 방지
+  for (const slug of readdirSync(PUB)) {
+    let files;
+    try {
+      files = readdirSync(join(PUB, slug));
+    } catch {
+      continue;
+    }
+    for (const f of files) {
+      if (!/\.(png|webp)$/i.test(f)) continue;
+      const fp = join(PUB, slug, f);
+      try {
+        HASHES.set(md5(fp), fp);
+      } catch {
+        /* noop */
+      }
+    }
+  }
+}
 
 const STYLE =
   "Soft watercolor children's picture-book illustration, warm gentle light, cozy storybook mood, painterly, wholesome, friendly, full background scene.";
@@ -58,7 +94,7 @@ const visualLevel = (b) =>
   STAGE_VISUAL[b.stage] ??
   "General picture-book visual difficulty: clear child-centered story scene.";
 
-function runCodex({ dir, out, prompt, anchor }) {
+function runCodex({ dir, out, prompt, anchor, salt }) {
   return new Promise((resolve) => {
     const args = [
       "exec",
@@ -68,9 +104,12 @@ function runCodex({ dir, out, prompt, anchor }) {
       "--skip-git-repo-check",
     ];
     if (anchor && existsSync(anchor)) args.push("--image", anchor);
+    const saltLine = salt
+      ? `\n[unique:${salt}] 이 이미지는 다른 모든 페이지와 시각적으로 분명히 다른 새 그림이어야 함. 캐시·기존 generated_images 파일을 절대 재사용하지 말 것.`
+      : "";
     args.push(
       "--",
-      `$imagegen 다음 조건으로 그림책 일러스트 1장 생성 후 반드시 아래 경로에 PNG로 저장.\n${prompt}\n저장 경로: ${out}\n해상도: ${RES}\n작업 규칙(중요): $imagegen 도구를 즉시 1회만 호출하고, 생성 즉시 위 경로에 저장 후 바로 종료할 것.\n- 생성된 이미지를 열어 검사·재평가·재생성하지 말 것(품질 검수는 별도 파이프라인이 수행). 사소한 결점이 보여도 그대로 저장.\n- 스킬 reference 문서나 image_gen.py CLI fallback을 읽거나 사용하지 말 것.\n- 질문·승인 대기 금지. 도구가 서버 오류를 반환한 경우에만 1회 재시도.`,
+      `$imagegen 다음 조건으로 그림책 일러스트 1장 생성 후 반드시 아래 경로에 PNG로 저장.\n${prompt}${saltLine}\n저장 경로: ${out}\n해상도: ${RES}\n작업 규칙(중요): $imagegen 도구를 즉시 1회만 호출하고, 생성 즉시 위 경로에 저장 후 바로 종료할 것.\n- 생성된 이미지를 열어 검사·재평가·재생성하지 말 것(품질 검수는 별도 파이프라인이 수행). 사소한 결점이 보여도 그대로 저장.\n- 기존 generated_images나 다른 책의 이미지를 복사·재사용하지 말 것. 반드시 새로 생성.\n- 스킬 reference 문서나 image_gen.py CLI fallback을 읽거나 사용하지 말 것.\n- 질문·승인 대기 금지. 도구가 서버 오류를 반환한 경우에만 1회 재시도.`,
     );
     const child = spawn("codex", args, {
       detached: true,
@@ -100,15 +139,40 @@ async function genOne(task) {
     console.log(`↩︎ ${task.label} 있음`);
     return true;
   }
-  for (let a = 1; a <= 3; a++) {
-    const ok = await runCodex(task);
-    if (ok) {
-      console.log(`✅ ${task.label}`);
-      return true;
+  for (let a = 1; a <= RETRY; a++) {
+    const salt = `${task.label.replace(/\s+/g, "-")}-a${a}-${Math.floor(
+      Math.random() * 1e6,
+    )}`;
+    const ok = await runCodex({ ...task, salt });
+    if (!ok) {
+      console.log(`↻ ${task.label} 생성실패 ${a}/${RETRY}`);
+      continue;
     }
-    console.log(`↻ ${task.label} 재시도 ${a}/3`);
+    // self-verify: 생성물 md5 가 기존 전 자산과 충돌하면 교차오염 → 폐기(공백, 오염 출고 방지)
+    let h;
+    try {
+      h = md5(task.out);
+    } catch {
+      console.log(`↻ ${task.label} 저장 누락 ${a}/${RETRY}`);
+      continue;
+    }
+    if (HASHES.has(h) && HASHES.get(h) !== task.out) {
+      console.log(
+        `🚫 ${task.label} 중복오염(=${HASHES.get(h)}) 폐기·공백 ${a}/${RETRY}`,
+      );
+      try {
+        unlinkSync(task.out);
+      } catch {
+        /* noop */
+      }
+      continue;
+    }
+    HASHES.set(h, task.out); // 성공분 즉시 대조군 편입
+    console.log(`✅ ${task.label}`);
+    return true;
   }
-  console.log(`⚠️ ${task.label} 실패`);
+  // RETRY회 내 미생성 — 공백 유지(다음 패스 skip-existing 재실행 + 사용자 검수에서 백필)
+  console.log(`⚠️ ${task.label} 미생성(이번 패스 — 다음 패스/검수서 백필)`);
   return false;
 }
 
@@ -172,7 +236,10 @@ async function main() {
     : "all";
   const conc = Math.min(Number(process.argv[3]) || 3, 3); // HARD 캡 3 (OAuth race 방어)
   const list = loadBooks();
-  console.log(`🖼️ [${phase}] 동시 ${conc}개 · ${list.length}권`);
+  buildHashMap(); // 기존 전 자산 md5 대조군 구축 (생성물 self-verify 기준)
+  console.log(
+    `🖼️ [${phase}] 동시 ${conc}개 · ${list.length}권 · 대조군 ${HASHES.size}장`,
+  );
   if (phase === "covers" || phase === "all") {
     console.log("=== COVERS ===");
     await pool(coverTasks(list), conc);

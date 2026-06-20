@@ -1,0 +1,2591 @@
+{
+  "slug": "daily-141-the-community-survey",
+  "title": "The Community Survey",
+  "title_ko": "마을 설문조사",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina는 마을 사람들의 의견을 모아 설문조사를 완성하고, 반 친구들 앞에서 결과를 발표한다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park handed a survey sheet to each student.",
+          "translation_ko": "박 선생님이 학생들에게 설문지를 한 장씩 나눠 주었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 660
+            },
+            {
+              "word": "handed",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 980
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "survey",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "sheet",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1420,
+              "endMs": 1780
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1780,
+              "endMs": 1940
+            },
+            {
+              "word": "each",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "student",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2220,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "\"We are learning about our community,\" she said.",
+          "translation_ko": "\"우리 마을에 대해 알아볼 거예요,\" 선생님이 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "are",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "learning",
+              "charStart": 8,
+              "charEnd": 16,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "about",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 800,
+              "endMs": 1140
+            },
+            {
+              "word": "our",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1140,
+              "endMs": 1320
+            },
+            {
+              "word": "community",
+              "charStart": 27,
+              "charEnd": 36,
+              "startMs": 1320,
+              "endMs": 2140
+            },
+            {
+              "word": "she",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2140,
+              "endMs": 2260
+            },
+            {
+              "word": "said",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2260,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "\"Ask neighbors what they need most.\"",
+          "translation_ko": "\"이웃에게 마을에서 가장 필요한 것을 물어보세요.\"",
+          "audio": "/seed/daily-141-the-community-survey/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Ask",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "neighbors",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 420,
+              "endMs": 860
+            },
+            {
+              "word": "what",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 860,
+              "endMs": 1140
+            },
+            {
+              "word": "they",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "need",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1660
+            },
+            {
+              "word": "most",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1660,
+              "endMs": 2040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun read the sheet carefully.",
+          "translation_ko": "준은 설문지를 꼼꼼히 읽었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "read",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "sheet",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1200
+            },
+            {
+              "word": "carefully",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1700
+            }
+          ]
+        },
+        {
+          "text": "It listed five choices: a park, a library, a sports center, a garden, or a recycling station.",
+          "translation_ko": "공원, 도서관, 스포츠 센터, 텃밭, 재활용 센터, 이렇게 다섯 가지가 적혀 있었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 30,
+              "endMs": 237
+            },
+            {
+              "word": "listed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 237,
+              "endMs": 597
+            },
+            {
+              "word": "five",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 597,
+              "endMs": 805
+            },
+            {
+              "word": "choices",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 805,
+              "endMs": 1249
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1249,
+              "endMs": 1456
+            },
+            {
+              "word": "park",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1456,
+              "endMs": 1748
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 1748,
+              "endMs": 1955
+            },
+            {
+              "word": "library",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 1955,
+              "endMs": 2553
+            },
+            {
+              "word": "a",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 2553,
+              "endMs": 2760
+            },
+            {
+              "word": "sports",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 2760,
+              "endMs": 2967
+            },
+            {
+              "word": "center",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 2967,
+              "endMs": 3412
+            },
+            {
+              "word": "a",
+              "charStart": 60,
+              "charEnd": 61,
+              "startMs": 3412,
+              "endMs": 3619
+            },
+            {
+              "word": "garden",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3619,
+              "endMs": 4064
+            },
+            {
+              "word": "or",
+              "charStart": 70,
+              "charEnd": 72,
+              "startMs": 4064,
+              "endMs": 4271
+            },
+            {
+              "word": "a",
+              "charStart": 73,
+              "charEnd": 74,
+              "startMs": 4271,
+              "endMs": 4478
+            },
+            {
+              "word": "recycling",
+              "charStart": 75,
+              "charEnd": 84,
+              "startMs": 4478,
+              "endMs": 4992
+            },
+            {
+              "word": "station",
+              "charStart": 85,
+              "charEnd": 92,
+              "startMs": 4992,
+              "endMs": 5490
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After school, Jun met Mina at the gate.",
+          "translation_ko": "수업이 끝나고 준은 교문에서 미나를 만났다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1460,
+              "endMs": 1540
+            },
+            {
+              "word": "met",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "Mina",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1800,
+              "endMs": 2180
+            },
+            {
+              "word": "at",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2180,
+              "endMs": 2600
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "gate",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2780,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "\"Let's do this together,\" Mina said.",
+          "translation_ko": "\"같이 하자,\" 미나가 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 1060
+            },
+            {
+              "word": "do",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1060,
+              "endMs": 1200
+            },
+            {
+              "word": "this",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "together",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 2380
+            },
+            {
+              "word": "Mina",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2380,
+              "endMs": 2580
+            },
+            {
+              "word": "said",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2580,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "They walked to the apartment building near the park.",
+          "translation_ko": "둘은 공원 근처 아파트로 걸어갔다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "walked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "to",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "apartment",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "building",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 1520,
+              "endMs": 1900
+            },
+            {
+              "word": "near",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2100,
+              "endMs": 2520
+            },
+            {
+              "word": "park",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2520,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They knocked on the first door.",
+          "translation_ko": "두 사람은 첫 번째 집 문을 두드렸다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "knocked",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 600
+            },
+            {
+              "word": "on",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 920,
+              "endMs": 1080
+            },
+            {
+              "word": "first",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "door",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1380,
+              "endMs": 1680
+            }
+          ]
+        },
+        {
+          "text": "An elderly man opened it and smiled.",
+          "translation_ko": "나이 드신 할아버지가 문을 열고 미소 지으셨다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "An",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "elderly",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "man",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 1120
+            },
+            {
+              "word": "opened",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1120,
+              "endMs": 1500
+            },
+            {
+              "word": "it",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1780
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1780,
+              "endMs": 2240
+            },
+            {
+              "word": "smiled",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "\"Excuse me. We are doing a school survey. Can you help us?\" Jun asked.",
+          "translation_ko": "\"실례합니다. 학교 설문조사를 하고 있어요. 도와주실 수 있으세요?\" 준이 물었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Excuse",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "me",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "We",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "are",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1520
+            },
+            {
+              "word": "doing",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1700
+            },
+            {
+              "word": "a",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 1920
+            },
+            {
+              "word": "school",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "survey",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2160,
+              "endMs": 2560
+            },
+            {
+              "word": "Can",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3220,
+              "endMs": 3280
+            },
+            {
+              "word": "you",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3280,
+              "endMs": 3460
+            },
+            {
+              "word": "help",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3460,
+              "endMs": 3600
+            },
+            {
+              "word": "us",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3600,
+              "endMs": 3920
+            },
+            {
+              "word": "Jun",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 4280,
+              "endMs": 4420
+            },
+            {
+              "word": "asked",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 4420,
+              "endMs": 4840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The man chose a garden because he loved growing vegetables.",
+          "translation_ko": "할아버지는 채소 키우는 것을 좋아해서 텃밭을 골랐다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "man",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 540
+            },
+            {
+              "word": "chose",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1320
+            },
+            {
+              "word": "garden",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1320,
+              "endMs": 1320
+            },
+            {
+              "word": "because",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1320,
+              "endMs": 1820
+            },
+            {
+              "word": "he",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "loved",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2120,
+              "endMs": 2400
+            },
+            {
+              "word": "growing",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2400,
+              "endMs": 2780
+            },
+            {
+              "word": "vegetables",
+              "charStart": 48,
+              "charEnd": 58,
+              "startMs": 2780,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "\"Fresh food brings people together,\" he said.",
+          "translation_ko": "\"신선한 먹거리가 사람들을 하나로 모아 주지,\" 할아버지가 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Fresh",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "food",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "brings",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 860,
+              "endMs": 1320
+            },
+            {
+              "word": "people",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1760
+            },
+            {
+              "word": "together",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1760,
+              "endMs": 2140
+            },
+            {
+              "word": "he",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2500,
+              "endMs": 2680
+            },
+            {
+              "word": "said",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "Jun wrote it down and thanked him.",
+          "translation_ko": "준은 받아 적고 감사 인사를 드렸다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 520,
+              "endMs": 920
+            },
+            {
+              "word": "it",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 920,
+              "endMs": 1080
+            },
+            {
+              "word": "down",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1900
+            },
+            {
+              "word": "thanked",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2160
+            },
+            {
+              "word": "him",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2160,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the next house, a young mother answered.",
+          "translation_ko": "다음 집에서는 젊은 엄마가 문을 열었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 420
+            },
+            {
+              "word": "next",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "house",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "young",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "mother",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "answered",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2620
+            }
+          ]
+        },
+        {
+          "text": "\"I wish we had a bigger park. My kids need space,\" she said.",
+          "translation_ko": "\"공원이 더 넓으면 좋겠어요. 아이들이 뛰어놀 공간이 필요하거든요,\" 엄마가 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "wish",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 920
+            },
+            {
+              "word": "we",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 920,
+              "endMs": 1260
+            },
+            {
+              "word": "had",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1260,
+              "endMs": 1500
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "bigger",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1820,
+              "endMs": 2040
+            },
+            {
+              "word": "park",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2040,
+              "endMs": 2400
+            },
+            {
+              "word": "My",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 3060,
+              "endMs": 3260
+            },
+            {
+              "word": "kids",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 3260,
+              "endMs": 3520
+            },
+            {
+              "word": "need",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3520,
+              "endMs": 3900
+            },
+            {
+              "word": "space",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3900,
+              "endMs": 4680
+            },
+            {
+              "word": "she",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 4680,
+              "endMs": 4840
+            },
+            {
+              "word": "said",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 4840,
+              "endMs": 5120
+            }
+          ]
+        },
+        {
+          "text": "Mina marked the park option on her sheet.",
+          "translation_ko": "미나는 설문지에 공원을 표시했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "marked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "park",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1420
+            },
+            {
+              "word": "option",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1800
+            },
+            {
+              "word": "on",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "her",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2280
+            },
+            {
+              "word": "sheet",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2280,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They visited many more homes before dark.",
+          "translation_ko": "해가 지기 전에 두 사람은 더 많은 집을 방문했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "visited",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 680
+            },
+            {
+              "word": "many",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 680,
+              "endMs": 1160
+            },
+            {
+              "word": "more",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "homes",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1780
+            },
+            {
+              "word": "before",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1780,
+              "endMs": 2160
+            },
+            {
+              "word": "dark",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2160,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "Some wanted a sports center, others a recycling station.",
+          "translation_ko": "스포츠 센터를 원하는 사람도 있었고, 재활용 센터를 원하는 사람도 있었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "wanted",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "sports",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "center",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "others",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2440
+            },
+            {
+              "word": "a",
+              "charStart": 36,
+              "charEnd": 37,
+              "startMs": 2440,
+              "endMs": 2740
+            },
+            {
+              "word": "recycling",
+              "charStart": 38,
+              "charEnd": 47,
+              "startMs": 2740,
+              "endMs": 3100
+            },
+            {
+              "word": "station",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3100,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "\"People have such different needs,\" Mina said.",
+          "translation_ko": "\"사람마다 필요한 게 정말 다르네,\" 미나가 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "People",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "have",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "such",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "different",
+              "charStart": 18,
+              "charEnd": 27,
+              "startMs": 1200,
+              "endMs": 1580
+            },
+            {
+              "word": "needs",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1580,
+              "endMs": 1920
+            },
+            {
+              "word": "Mina",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2400,
+              "endMs": 2400
+            },
+            {
+              "word": "said",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2400,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That evening, Jun counted all the answers.",
+          "translation_ko": "그날 저녁, 준은 답변을 모두 세었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "evening",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 700
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1460
+            },
+            {
+              "word": "counted",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "all",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1820,
+              "endMs": 2180
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2180,
+              "endMs": 2360
+            },
+            {
+              "word": "answers",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2360,
+              "endMs": 2620
+            }
+          ]
+        },
+        {
+          "text": "The garden got the most votes, followed by the park.",
+          "translation_ko": "텃밭이 가장 많은 표를 받았고, 공원이 그다음이었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "garden",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 700
+            },
+            {
+              "word": "got",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "most",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1800
+            },
+            {
+              "word": "votes",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 2160
+            },
+            {
+              "word": "followed",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 2860,
+              "endMs": 2860
+            },
+            {
+              "word": "by",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3140,
+              "endMs": 3360
+            },
+            {
+              "word": "park",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3360,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "He called Mina right away.",
+          "translation_ko": "그는 바로 미나에게 전화했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "called",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "Mina",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 680,
+              "endMs": 1180
+            },
+            {
+              "word": "right",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1680
+            },
+            {
+              "word": "away",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1680,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"The garden won! Let's make a bar graph,\" Mina suggested.",
+          "translation_ko": "\"텃밭이 이겼어! 막대 그래프를 만들자,\" 미나가 제안했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "garden",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 200,
+              "endMs": 560
+            },
+            {
+              "word": "won",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 1040
+            },
+            {
+              "word": "Let's",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1600,
+              "endMs": 1740
+            },
+            {
+              "word": "make",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 1880
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 1880,
+              "endMs": 2060
+            },
+            {
+              "word": "bar",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2200
+            },
+            {
+              "word": "graph",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2500
+            },
+            {
+              "word": "Mina",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 3120,
+              "endMs": 3180
+            },
+            {
+              "word": "suggested",
+              "charStart": 47,
+              "charEnd": 56,
+              "startMs": 3180,
+              "endMs": 3680
+            }
+          ]
+        },
+        {
+          "text": "They drew their posters while talking on the phone.",
+          "translation_ko": "두 사람은 전화를 하면서 각자 포스터를 그렸다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "drew",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 900
+            },
+            {
+              "word": "their",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "posters",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "while",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1520,
+              "endMs": 1920
+            },
+            {
+              "word": "talking",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "on",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2220,
+              "endMs": 2440
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2440,
+              "endMs": 2620
+            },
+            {
+              "word": "phone",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2620,
+              "endMs": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On presentation day, Jun stood in front of the class.",
+          "translation_ko": "발표하는 날, 준은 반 친구들 앞에 섰다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "presentation",
+              "charStart": 3,
+              "charEnd": 15,
+              "startMs": 460,
+              "endMs": 1040
+            },
+            {
+              "word": "day",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1440
+            },
+            {
+              "word": "Jun",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1960,
+              "endMs": 2060
+            },
+            {
+              "word": "stood",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "in",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2340,
+              "endMs": 2640
+            },
+            {
+              "word": "front",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2640,
+              "endMs": 2660
+            },
+            {
+              "word": "of",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2660,
+              "endMs": 2840
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2840,
+              "endMs": 2920
+            },
+            {
+              "word": "class",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2920,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "He felt nervous, but Mina gave him a thumbs-up.",
+          "translation_ko": "긴장되었지만 미나가 엄지를 들어 응원해 주었다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 30,
+              "endMs": 250
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 250,
+              "endMs": 469
+            },
+            {
+              "word": "nervous",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 469,
+              "endMs": 941
+            },
+            {
+              "word": "but",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 941,
+              "endMs": 1160
+            },
+            {
+              "word": "Mina",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1160,
+              "endMs": 1543
+            },
+            {
+              "word": "gave",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1543,
+              "endMs": 1762
+            },
+            {
+              "word": "him",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1762,
+              "endMs": 1982
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 1982,
+              "endMs": 2201
+            },
+            {
+              "word": "thumbs-up",
+              "charStart": 37,
+              "charEnd": 46,
+              "startMs": 2201,
+              "endMs": 2730
+            }
+          ]
+        },
+        {
+          "text": "He took a deep breath and began.",
+          "translation_ko": "준은 숨을 크게 들이쉬고 발표를 시작했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "took",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 360
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 620
+            },
+            {
+              "word": "deep",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 840
+            },
+            {
+              "word": "breath",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 840,
+              "endMs": 1160
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1160,
+              "endMs": 1580
+            },
+            {
+              "word": "began",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We surveyed fifteen people in our community,\" Jun said.",
+          "translation_ko": "\"저희는 마을 사람 열다섯 명에게 물어보았습니다,\" 준이 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "surveyed",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 880
+            },
+            {
+              "word": "fifteen",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1340
+            },
+            {
+              "word": "people",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1340,
+              "endMs": 1760
+            },
+            {
+              "word": "in",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 1900
+            },
+            {
+              "word": "our",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1900,
+              "endMs": 2060
+            },
+            {
+              "word": "community",
+              "charStart": 35,
+              "charEnd": 44,
+              "startMs": 2060,
+              "endMs": 2900
+            },
+            {
+              "word": "Jun",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2900,
+              "endMs": 2980
+            },
+            {
+              "word": "said",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 2980,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "\"Most chose a garden because it brings people outdoors together.\"",
+          "translation_ko": "\"대부분의 분들이 텃밭을 선택했는데, 함께 야외에서 시간을 보낼 수 있기 때문이에요.\"",
+          "audio": "/seed/daily-141-the-community-survey/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Most",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "chose",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 1020
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1020,
+              "endMs": 1420
+            },
+            {
+              "word": "garden",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1420
+            },
+            {
+              "word": "because",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1420,
+              "endMs": 1880
+            },
+            {
+              "word": "it",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "brings",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2100,
+              "endMs": 2380
+            },
+            {
+              "word": "people",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2380,
+              "endMs": 2900
+            },
+            {
+              "word": "outdoors",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 2900,
+              "endMs": 3320
+            },
+            {
+              "word": "together",
+              "charStart": 55,
+              "charEnd": 63,
+              "startMs": 3320,
+              "endMs": 3740
+            }
+          ]
+        },
+        {
+          "text": "His classmates listened and asked questions.",
+          "translation_ko": "반 친구들은 귀 기울여 듣다가 질문을 했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "classmates",
+              "charStart": 4,
+              "charEnd": 14,
+              "startMs": 280,
+              "endMs": 800
+            },
+            {
+              "word": "listened",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 800,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1240,
+              "endMs": 1760
+            },
+            {
+              "word": "asked",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "questions",
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 2000,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park smiled proudly at both of them.",
+          "translation_ko": "박 선생님은 두 사람을 흐뭇하게 바라보았다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 700,
+              "endMs": 780
+            },
+            {
+              "word": "smiled",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 1240
+            },
+            {
+              "word": "proudly",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1720
+            },
+            {
+              "word": "at",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1720,
+              "endMs": 2080
+            },
+            {
+              "word": "both",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "of",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "them",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2480,
+              "endMs": 2540
+            }
+          ]
+        },
+        {
+          "text": "\"You listened to neighbors and used data to find the answer,\" she said.",
+          "translation_ko": "\"이웃의 말을 귀 기울여 듣고, 자료로 답을 찾았네요,\" 선생님이 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "listened",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "neighbors",
+              "charStart": 17,
+              "charEnd": 26,
+              "startMs": 1040,
+              "endMs": 1360
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "used",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1680,
+              "endMs": 1900
+            },
+            {
+              "word": "data",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1900,
+              "endMs": 2160
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2160,
+              "endMs": 2440
+            },
+            {
+              "word": "find",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2440,
+              "endMs": 2580
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2580,
+              "endMs": 2940
+            },
+            {
+              "word": "answer",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 2940,
+              "endMs": 3080
+            },
+            {
+              "word": "she",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3340,
+              "endMs": 3480
+            },
+            {
+              "word": "said",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 3480,
+              "endMs": 3760
+            }
+          ]
+        },
+        {
+          "text": "\"That is what good researchers do.\"",
+          "translation_ko": "\"그게 바로 훌륭한 연구자가 하는 일이에요.\"",
+          "audio": "/seed/daily-141-the-community-survey/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "what",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "good",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "researchers",
+              "charStart": 19,
+              "charEnd": 30,
+              "startMs": 1020,
+              "endMs": 1500
+            },
+            {
+              "word": "do",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1500,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Walking home, Jun and Mina felt proud.",
+          "translation_ko": "집으로 걸어가면서 준과 미나는 뿌듯했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Walking",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "home",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "Mina",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1680,
+              "endMs": 1900
+            },
+            {
+              "word": "felt",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2300
+            },
+            {
+              "word": "proud",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2640
+            }
+          ]
+        },
+        {
+          "text": "\"We found out what neighbors really need,\" Mina said.",
+          "translation_ko": "\"우리가 이웃이 진짜로 필요한 게 뭔지 알아낸 거잖아,\" 미나가 말했다.",
+          "audio": "/seed/daily-141-the-community-survey/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "found",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "out",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "what",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 840,
+              "endMs": 1020
+            },
+            {
+              "word": "neighbors",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "really",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1320,
+              "endMs": 1760
+            },
+            {
+              "word": "need",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1760,
+              "endMs": 2740
+            },
+            {
+              "word": "Mina",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2740,
+              "endMs": 2800
+            },
+            {
+              "word": "said",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2800,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "Jun grinned. \"Next time, let's survey the whole neighborhood.\"",
+          "translation_ko": "준이 씩 웃었다. \"다음엔 마을 전체를 조사해 보자.\"",
+          "audio": "/seed/daily-141-the-community-survey/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "grinned",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1120
+            },
+            {
+              "word": "Next",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 2240,
+              "endMs": 2240
+            },
+            {
+              "word": "time",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 2240,
+              "endMs": 2580
+            },
+            {
+              "word": "let's",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 3320,
+              "endMs": 3520
+            },
+            {
+              "word": "survey",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 3520,
+              "endMs": 3680
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 3680,
+              "endMs": 3940
+            },
+            {
+              "word": "whole",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3940,
+              "endMs": 4200
+            },
+            {
+              "word": "neighborhood",
+              "charStart": 48,
+              "charEnd": 60,
+              "startMs": 4200,
+              "endMs": 4420
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준과 미나가 설문조사를 시작한 장소는 어디인가요?",
+      "type": "mc",
+      "options": [
+        "공원 근처 아파트",
+        "학교 도서관",
+        "마을 텃밭",
+        "스포츠 센터"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "두 사람은 공원 근처 아파트에서 처음 설문조사를 시작했어요."
+    },
+    {
+      "question_ko": "설문조사에서 가장 많은 표를 받은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "마을 텃밭",
+        "공원",
+        "스포츠 센터",
+        "재활용 센터"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 집계한 결과, 마을 텃밭이 가장 많은 표를 받았어요."
+    },
+    {
+      "question_ko": "처음 문을 열어 준 할아버지는 왜 텃밭을 선택했나요?",
+      "type": "mc",
+      "options": [
+        "채소 키우는 것을 좋아해서",
+        "아이들이 뛰어놀 공간이 필요해서",
+        "책 읽을 곳이 없어서",
+        "운동 시설이 부족해서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "할아버지는 채소 가꾸는 것을 좋아하고, 신선한 먹거리가 사람들을 하나로 모아 준다고 했어요."
+    },
+    {
+      "question_ko": "발표 전날 저녁에 준이 한 일은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "설문지 답변을 세어 결과를 정리했다",
+        "미나와 공원에서 놀았다",
+        "박 선생님께 전화했다",
+        "새 설문지를 인쇄했다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 그날 저녁 답변을 모두 세고, 결과를 미나에게 전화로 알려 주었어요."
+    },
+    {
+      "question_ko": "박 선생님이 준과 미나를 칭찬한 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "이웃의 말을 듣고 자료로 답을 찾아서",
+        "가장 빨리 설문조사를 마쳐서",
+        "그림을 가장 예쁘게 그려서",
+        "질문을 가장 많이 해서"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "선생님은 두 사람이 이웃의 이야기를 잘 듣고 데이터를 분석해 답을 찾아낸 점을 칭찬했어요."
+    }
+  ]
+}

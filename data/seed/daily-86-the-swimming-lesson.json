@@ -1,0 +1,1585 @@
+{
+  "slug": "daily-86-the-swimming-lesson",
+  "title": "The Swimming Lesson",
+  "title_ko": "수영 강습",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "물이 무서웠던 Jun이 Mina와 Ms. Park 선생님의 응원으로 처음으로 수영을 해내는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun stared at the pool because the water looked deep.",
+          "translation_ko": "준은 물이 깊어 보여서 수영장을 바라봤어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "stared",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 1080
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1080,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "pool",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "because",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 2320
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2320,
+              "endMs": 2560
+            },
+            {
+              "word": "water",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "looked",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2860,
+              "endMs": 3140
+            },
+            {
+              "word": "deep",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "His heart beat fast when he stood at the edge.",
+          "translation_ko": "가장자리에 서자 심장이 빠르게 쿵쿵 뛰었어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "heart",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "beat",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 640,
+              "endMs": 1060
+            },
+            {
+              "word": "fast",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1520
+            },
+            {
+              "word": "when",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1780,
+              "endMs": 2120
+            },
+            {
+              "word": "stood",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2180
+            },
+            {
+              "word": "at",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2180,
+              "endMs": 2360
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2360,
+              "endMs": 2560
+            },
+            {
+              "word": "edge",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2560,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina was already in the water and waved at him.",
+          "translation_ko": "미나는 이미 물속에 들어가 손을 흔들었어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "was",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "already",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "in",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1220
+            },
+            {
+              "word": "water",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1220,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1480,
+              "endMs": 1840
+            },
+            {
+              "word": "waved",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "at",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2060,
+              "endMs": 2240
+            },
+            {
+              "word": "him",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2240,
+              "endMs": 2380
+            }
+          ]
+        },
+        {
+          "text": "\"Come in, Jun! It feels great!\" she called.",
+          "translation_ko": "\"들어와, 준! 기분 정말 좋아!\" 그녀가 외쳤어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Come",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "in",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 680
+            },
+            {
+              "word": "Jun",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1060
+            },
+            {
+              "word": "It",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1380,
+              "endMs": 1660
+            },
+            {
+              "word": "feels",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1660,
+              "endMs": 1920
+            },
+            {
+              "word": "great",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2420
+            },
+            {
+              "word": "she",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2800,
+              "endMs": 2960
+            },
+            {
+              "word": "called",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2960,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun shook his head because he was afraid.",
+          "translation_ko": "준은 무서워서 고개를 저었어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "shook",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 980
+            },
+            {
+              "word": "head",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1240
+            },
+            {
+              "word": "because",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1240,
+              "endMs": 1600
+            },
+            {
+              "word": "he",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 1760
+            },
+            {
+              "word": "was",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1900
+            },
+            {
+              "word": "afraid",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1900,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "He sat on the bench and watched the other kids swim.",
+          "translation_ko": "벤치에 앉아 다른 아이들이 수영하는 걸 바라봤어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "sat",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 700
+            },
+            {
+              "word": "on",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "bench",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1460,
+              "endMs": 1540
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1540,
+              "endMs": 2140
+            },
+            {
+              "word": "watched",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 2140,
+              "endMs": 2500
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2500,
+              "endMs": 2760
+            },
+            {
+              "word": "other",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2760,
+              "endMs": 3040
+            },
+            {
+              "word": "kids",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 3040,
+              "endMs": 3340
+            },
+            {
+              "word": "swim",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3340,
+              "endMs": 3760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park came to Jun when she saw him alone.",
+          "translation_ko": "박 선생님은 준이 혼자 있는 걸 보고 다가갔어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 700,
+              "endMs": 740
+            },
+            {
+              "word": "came",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1060
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1280
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1580
+            },
+            {
+              "word": "when",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 2080
+            },
+            {
+              "word": "she",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2240
+            },
+            {
+              "word": "saw",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "him",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2460,
+              "endMs": 2620
+            },
+            {
+              "word": "alone",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2620,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "\"It is okay to feel scared,\" she said kindly.",
+          "translation_ko": "\"무서운 건 괜찮아.\" 선생님이 다정하게 말했어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 120,
+              "endMs": 300
+            },
+            {
+              "word": "okay",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 700
+            },
+            {
+              "word": "to",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1020
+            },
+            {
+              "word": "feel",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "scared",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1260,
+              "endMs": 2120
+            },
+            {
+              "word": "she",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2260
+            },
+            {
+              "word": "said",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "kindly",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2480,
+              "endMs": 2880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park held Jun's hand and led him to the shallow part.",
+          "translation_ko": "선생님은 준의 손을 잡고 얕은 곳으로 이끌었어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "held",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "Jun's",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1440
+            },
+            {
+              "word": "hand",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 2260
+            },
+            {
+              "word": "led",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2260,
+              "endMs": 2440
+            },
+            {
+              "word": "him",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2440,
+              "endMs": 2620
+            },
+            {
+              "word": "to",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2620,
+              "endMs": 2720
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 2900
+            },
+            {
+              "word": "shallow",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2900,
+              "endMs": 3160
+            },
+            {
+              "word": "part",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3160,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "The water felt cool because it was a hot day.",
+          "translation_ko": "더운 날이어서 물이 시원하게 느껴졌어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "water",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 900
+            },
+            {
+              "word": "felt",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "cool",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1560
+            },
+            {
+              "word": "because",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 2020
+            },
+            {
+              "word": "it",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2020,
+              "endMs": 2160
+            },
+            {
+              "word": "was",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2300
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "hot",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2520,
+              "endMs": 2720
+            },
+            {
+              "word": "day",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2720,
+              "endMs": 3020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun took a breath and dipped his face in the water.",
+          "translation_ko": "준은 숨을 들이마시고 얼굴을 물에 넣었어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "took",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 940
+            },
+            {
+              "word": "breath",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1580
+            },
+            {
+              "word": "dipped",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1720
+            },
+            {
+              "word": "his",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "face",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2220
+            },
+            {
+              "word": "in",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2400,
+              "endMs": 2540
+            },
+            {
+              "word": "water",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2540,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "He felt proud because he did not pull away.",
+          "translation_ko": "물러서지 않아서 뿌듯함을 느꼈어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "proud",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 1020
+            },
+            {
+              "word": "because",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1480
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "did",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 1800
+            },
+            {
+              "word": "not",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "pull",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2080,
+              "endMs": 2340
+            },
+            {
+              "word": "away",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2340,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina swam close and cheered when Jun kicked his legs.",
+          "translation_ko": "미나는 준이 발차기를 하자 가까이 와서 응원했어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "swam",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 940
+            },
+            {
+              "word": "close",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1360
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1800
+            },
+            {
+              "word": "cheered",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "when",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2080,
+              "endMs": 2380
+            },
+            {
+              "word": "Jun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2380,
+              "endMs": 2640
+            },
+            {
+              "word": "kicked",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2640,
+              "endMs": 2920
+            },
+            {
+              "word": "his",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2920,
+              "endMs": 3120
+            },
+            {
+              "word": "legs",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3120,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "\"You are doing it!\" she shouted.",
+          "translation_ko": "\"해내고 있잖아!\" 미나가 소리쳤어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "are",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "doing",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "it",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "she",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1980,
+              "endMs": 2180
+            },
+            {
+              "word": "shouted",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 2180,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun moved slowly because he was still nervous.",
+          "translation_ko": "준은 아직 긴장해서 천천히 움직였어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "moved",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "slowly",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1260
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1760
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 1900
+            },
+            {
+              "word": "was",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "still",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "nervous",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2360,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "But he kept going because he wanted to reach the wall.",
+          "translation_ko": "하지만 반대편 벽에 닿고 싶어서 계속 나아갔어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "he",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 460,
+              "endMs": 640
+            },
+            {
+              "word": "kept",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 900
+            },
+            {
+              "word": "going",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1240
+            },
+            {
+              "word": "because",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1540
+            },
+            {
+              "word": "he",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1540,
+              "endMs": 1780
+            },
+            {
+              "word": "wanted",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1780,
+              "endMs": 1920
+            },
+            {
+              "word": "to",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "reach",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2220,
+              "endMs": 2320
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2320,
+              "endMs": 2580
+            },
+            {
+              "word": "wall",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2580,
+              "endMs": 2780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When Jun touched the wall, everyone clapped and cheered.",
+          "translation_ko": "준이 벽에 손을 짚자 모두가 박수를 치며 환호했어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Jun",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 800
+            },
+            {
+              "word": "touched",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "wall",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1640
+            },
+            {
+              "word": "everyone",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2560
+            },
+            {
+              "word": "clapped",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 3020
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3020,
+              "endMs": 3800
+            },
+            {
+              "word": "cheered",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3800,
+              "endMs": 3840
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park smiled because she was so proud of him.",
+          "translation_ko": "선생님은 준이 너무 자랑스러워서 환하게 웃었어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "smiled",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 1120
+            },
+            {
+              "word": "because",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1480
+            },
+            {
+              "word": "she",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1480,
+              "endMs": 1640
+            },
+            {
+              "word": "was",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "so",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1820,
+              "endMs": 2260
+            },
+            {
+              "word": "proud",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2260,
+              "endMs": 2360
+            },
+            {
+              "word": "of",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2360,
+              "endMs": 2680
+            },
+            {
+              "word": "him",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2680,
+              "endMs": 2720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun laughed when he heard the cheers.",
+          "translation_ko": "준은 환호 소리를 듣고 활짝 웃었어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 620,
+              "endMs": 1060
+            },
+            {
+              "word": "laughed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 1060,
+              "endMs": 1480
+            },
+            {
+              "word": "when",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "he",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "heard",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1900,
+              "endMs": 2040
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2040,
+              "endMs": 2260
+            },
+            {
+              "word": "cheers",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "He was not scared anymore because he knew he could swim.",
+          "translation_ko": "이제 수영할 수 있다는 걸 알았기 때문에 더 이상 무섭지 않았어요.",
+          "audio": "/seed/daily-86-the-swimming-lesson/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 460
+            },
+            {
+              "word": "not",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "scared",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "anymore",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1800
+            },
+            {
+              "word": "because",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 2460
+            },
+            {
+              "word": "he",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2460,
+              "endMs": 2800
+            },
+            {
+              "word": "knew",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2800,
+              "endMs": 2900
+            },
+            {
+              "word": "he",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2900,
+              "endMs": 3140
+            },
+            {
+              "word": "could",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3140,
+              "endMs": 3320
+            },
+            {
+              "word": "swim",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3320,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "처음에 준이 수영장 가장자리에 서자 어떤 느낌이 들었나요?",
+      "type": "mc",
+      "options": [
+        "심장이 빠르게 쿵쿵 뛰었다",
+        "신나서 바로 뛰어들었다",
+        "너무 따뜻해서 기분이 좋았다",
+        "졸려서 벤치에 누웠다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 물이 깊어 보여 가장자리에 서자 심장이 빠르게 뛰었어요."
+    },
+    {
+      "question_ko": "준이 처음에 물에 들어가지 않은 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "물이 무서웠기 때문에",
+        "수영복을 안 가져왔기 때문에",
+        "배가 고팠기 때문에",
+        "미나가 말렸기 때문에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 물이 무서워서(because he was afraid of the water) 고개를 젓고 벤치에 앉아 있었어요."
+    },
+    {
+      "question_ko": "준이 처음 도전할 때 박 선생님은 어떻게 도와주었나요?",
+      "type": "mc",
+      "options": [
+        "준의 손을 잡고 얕은 쪽으로 함께 들어갔다",
+        "준을 물속으로 밀었다",
+        "멀리서 구경만 했다",
+        "미나에게 도와주라고 했다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 준의 손을 잡고 얕은 곳으로 함께 들어가 용기를 주었어요."
+    },
+    {
+      "question_ko": "준이 반대쪽 벽에 닿았을 때 주변 사람들은 어떻게 반응했나요?",
+      "type": "mc",
+      "options": [
+        "모두 박수를 치며 환호했다",
+        "아무도 관심을 두지 않았다",
+        "함께 벽을 향해 경주를 했다",
+        "선생님이 수업을 끝냈다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 벽에 손을 짚자 모두가 박수를 치며 환호했어요."
+    },
+    {
+      "question_ko": "이야기 끝에서 준이 물을 더 이상 무서워하지 않은 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "자신이 수영할 수 있다는 것을 알게 되었기 때문에",
+        "물이 따뜻해졌기 때문에",
+        "미나가 옆에서 계속 잡아주었기 때문에",
+        "수영장 물이 얕아졌기 때문에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 직접 수영을 해냈기 때문에 이제 물이 무섭지 않았어요."
+    }
+  ]
+}

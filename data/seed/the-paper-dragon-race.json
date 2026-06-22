@@ -164,7 +164,7 @@
     {
       "sentences": [
         {
-          "text": "We placed them in the stream behind school.",
+          "text": "We placed them in the stream behind the school.",
           "translation_ko": "우리는 학교 뒤 개울에 그것들을 띄웠어요.",
           "audio": "/seed/the-paper-dragon-race/audio/p3-s1.mp3",
           "wordTimings": [
@@ -173,56 +173,63 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 680
+              "endMs": 280
             },
             {
               "word": "placed",
               "charStart": 3,
               "charEnd": 9,
-              "startMs": 680,
-              "endMs": 960
+              "startMs": 280,
+              "endMs": 740
             },
             {
               "word": "them",
               "charStart": 10,
               "charEnd": 14,
-              "startMs": 960,
-              "endMs": 1180
+              "startMs": 740,
+              "endMs": 1100
             },
             {
               "word": "in",
               "charStart": 15,
               "charEnd": 17,
-              "startMs": 1180,
-              "endMs": 1300
+              "startMs": 1100,
+              "endMs": 1440
             },
             {
               "word": "the",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1300,
-              "endMs": 1520
+              "startMs": 1440,
+              "endMs": 1660
             },
             {
               "word": "stream",
               "charStart": 22,
               "charEnd": 28,
-              "startMs": 1520,
-              "endMs": 1840
+              "startMs": 1660,
+              "endMs": 2180
             },
             {
               "word": "behind",
               "charStart": 29,
               "charEnd": 35,
-              "startMs": 1840,
-              "endMs": 2200
+              "startMs": 2180,
+              "endMs": 2860
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2860,
+              "endMs": 3100
             },
             {
               "word": "school",
-              "charStart": 36,
-              "charEnd": 42,
-              "startMs": 2200,
-              "endMs": 2560
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 3100,
+              "endMs": 3500
             }
           ]
         }

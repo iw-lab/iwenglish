@@ -2351,7 +2351,7 @@
           ]
         },
         {
-          "text": "Good things take patience, teamwork, and lots of trying.",
+          "text": "Good things take patience, teamwork, and lots of practice.",
           "translation_ko": "좋은 결과는 인내심과 협동, 그리고 많은 시도에서 나옵니다.",
           "audio": "/seed/daily-149-the-coding-club/audio/p12-s2.mp3",
           "wordTimings": [
@@ -2360,63 +2360,63 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 360
             },
             {
               "word": "things",
               "charStart": 5,
               "charEnd": 11,
-              "startMs": 220,
-              "endMs": 540
+              "startMs": 360,
+              "endMs": 720
             },
             {
               "word": "take",
               "charStart": 12,
               "charEnd": 16,
-              "startMs": 540,
-              "endMs": 800
+              "startMs": 720,
+              "endMs": 1040
             },
             {
               "word": "patience",
               "charStart": 17,
               "charEnd": 25,
-              "startMs": 800,
-              "endMs": 1320
+              "startMs": 1040,
+              "endMs": 1920
             },
             {
               "word": "teamwork",
               "charStart": 27,
               "charEnd": 35,
-              "startMs": 1780,
-              "endMs": 2020
+              "startMs": 2280,
+              "endMs": 2540
             },
             {
               "word": "and",
               "charStart": 37,
               "charEnd": 40,
-              "startMs": 2380,
-              "endMs": 2580
+              "startMs": 3120,
+              "endMs": 3340
             },
             {
               "word": "lots",
               "charStart": 41,
               "charEnd": 45,
-              "startMs": 2580,
-              "endMs": 2760
+              "startMs": 3340,
+              "endMs": 3440
             },
             {
               "word": "of",
               "charStart": 46,
               "charEnd": 48,
-              "startMs": 2760,
-              "endMs": 2940
+              "startMs": 3440,
+              "endMs": 3640
             },
             {
-              "word": "trying",
+              "word": "practice",
               "charStart": 49,
-              "charEnd": 55,
-              "startMs": 2940,
-              "endMs": 3220
+              "charEnd": 57,
+              "startMs": 3640,
+              "endMs": 4060
             }
           ]
         },

@@ -1298,72 +1298,72 @@
           ]
         },
         {
-          "text": "A baker and his tiny helper became good friends.",
+          "text": "The baker and his tiny helper became good friends.",
           "translation_ko": "빵집 아저씨와 작은 일꾼은 좋은 친구가 되었답니다.",
           "audio": "/seed/the-bakers-tiny-helper/audio/p10-s2.mp3",
           "wordTimings": [
             {
-              "word": "A",
+              "word": "The",
               "charStart": 0,
-              "charEnd": 1,
+              "charEnd": 3,
               "startMs": 0,
-              "endMs": 860
+              "endMs": 320
             },
             {
               "word": "baker",
-              "charStart": 2,
-              "charEnd": 7,
-              "startMs": 860,
-              "endMs": 1080
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 660
             },
             {
               "word": "and",
-              "charStart": 8,
-              "charEnd": 11,
-              "startMs": 1080,
-              "endMs": 1340
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 960
             },
             {
               "word": "his",
-              "charStart": 12,
-              "charEnd": 15,
-              "startMs": 1340,
-              "endMs": 1540
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1200
             },
             {
               "word": "tiny",
-              "charStart": 16,
-              "charEnd": 20,
-              "startMs": 1540,
-              "endMs": 1880
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1580
             },
             {
               "word": "helper",
-              "charStart": 21,
-              "charEnd": 27,
-              "startMs": 1880,
-              "endMs": 2200
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1960
             },
             {
               "word": "became",
-              "charStart": 28,
-              "charEnd": 34,
-              "startMs": 2200,
-              "endMs": 2700
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1960,
+              "endMs": 2560
             },
             {
               "word": "good",
-              "charStart": 35,
-              "charEnd": 39,
-              "startMs": 2700,
-              "endMs": 3160
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2560,
+              "endMs": 2980
             },
             {
               "word": "friends",
-              "charStart": 40,
-              "charEnd": 47,
-              "startMs": 3160,
-              "endMs": 3420
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2980,
+              "endMs": 3320
             }
           ]
         }

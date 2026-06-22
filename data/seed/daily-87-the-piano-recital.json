@@ -1219,7 +1219,7 @@
     {
       "sentences": [
         {
-          "text": "Jun plays his song to the end without any mistake.",
+          "text": "Jun plays his song to the end without any mistakes.",
           "translation_ko": "준은 실수 없이 노래를 끝까지 연주해요.",
           "audio": "/seed/daily-87-the-piano-recital/audio/p9-s1.mp3",
           "wordTimings": [
@@ -1228,70 +1228,70 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 920
+              "endMs": 460
             },
             {
               "word": "plays",
               "charStart": 4,
               "charEnd": 9,
-              "startMs": 920,
-              "endMs": 1300
+              "startMs": 460,
+              "endMs": 800
             },
             {
               "word": "his",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 1300,
-              "endMs": 1580
+              "startMs": 800,
+              "endMs": 1080
             },
             {
               "word": "song",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 1580,
-              "endMs": 1840
+              "startMs": 1080,
+              "endMs": 1340
             },
             {
               "word": "to",
               "charStart": 19,
               "charEnd": 21,
-              "startMs": 1840,
-              "endMs": 2000
+              "startMs": 1340,
+              "endMs": 1540
             },
             {
               "word": "the",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 2000,
-              "endMs": 2380
+              "startMs": 1540,
+              "endMs": 1860
             },
             {
               "word": "end",
               "charStart": 26,
               "charEnd": 29,
-              "startMs": 2380,
-              "endMs": 2480
+              "startMs": 1860,
+              "endMs": 1920
             },
             {
               "word": "without",
               "charStart": 30,
               "charEnd": 37,
-              "startMs": 2480,
-              "endMs": 2920
+              "startMs": 1920,
+              "endMs": 2240
             },
             {
               "word": "any",
               "charStart": 38,
               "charEnd": 41,
-              "startMs": 2920,
-              "endMs": 3280
+              "startMs": 2240,
+              "endMs": 2660
             },
             {
-              "word": "mistake",
+              "word": "mistakes",
               "charStart": 42,
-              "charEnd": 49,
-              "startMs": 3280,
-              "endMs": 3660
+              "charEnd": 50,
+              "startMs": 2660,
+              "endMs": 3040
             }
           ]
         },

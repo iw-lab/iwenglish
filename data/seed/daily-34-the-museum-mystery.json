@@ -1014,7 +1014,7 @@
           ]
         },
         {
-          "text": "We split up and each check a different section of the room.",
+          "text": "We split up, and each of us checks a different section of the room.",
           "translation_ko": "우리는 흩어져서 각자 방의 다른 구역을 살펴봐요.",
           "audio": "/seed/daily-34-the-museum-mystery/audio/p5-s2.mp3",
           "wordTimings": [
@@ -1023,84 +1023,98 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 460
+              "endMs": 480
             },
             {
               "word": "split",
               "charStart": 3,
               "charEnd": 8,
-              "startMs": 460,
-              "endMs": 780
+              "startMs": 480,
+              "endMs": 800
             },
             {
               "word": "up",
               "charStart": 9,
               "charEnd": 11,
-              "startMs": 780,
-              "endMs": 1060
+              "startMs": 800,
+              "endMs": 1380
             },
             {
               "word": "and",
-              "charStart": 12,
-              "charEnd": 15,
-              "startMs": 1060,
-              "endMs": 1540
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1700,
+              "endMs": 1800
             },
             {
               "word": "each",
-              "charStart": 16,
-              "charEnd": 20,
-              "startMs": 1540,
-              "endMs": 1860
-            },
-            {
-              "word": "check",
-              "charStart": 21,
-              "charEnd": 26,
-              "startMs": 1860,
-              "endMs": 2200
-            },
-            {
-              "word": "a",
-              "charStart": 27,
-              "charEnd": 28,
-              "startMs": 2200,
-              "endMs": 2480
-            },
-            {
-              "word": "different",
-              "charStart": 29,
-              "charEnd": 38,
-              "startMs": 2480,
-              "endMs": 2780
-            },
-            {
-              "word": "section",
-              "charStart": 39,
-              "charEnd": 46,
-              "startMs": 2780,
-              "endMs": 3120
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1800,
+              "endMs": 2000
             },
             {
               "word": "of",
-              "charStart": 47,
-              "charEnd": 49,
-              "startMs": 3120,
-              "endMs": 3420
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 2000,
+              "endMs": 2200
             },
             {
-              "word": "the",
-              "charStart": 50,
-              "charEnd": 53,
-              "startMs": 3420,
+              "word": "us",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2200,
+              "endMs": 2580
+            },
+            {
+              "word": "checks",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2580,
+              "endMs": 2580
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2580,
+              "endMs": 2880
+            },
+            {
+              "word": "different",
+              "charStart": 37,
+              "charEnd": 46,
+              "startMs": 2880,
+              "endMs": 3160
+            },
+            {
+              "word": "section",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 3160,
+              "endMs": 3480
+            },
+            {
+              "word": "of",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3480,
               "endMs": 3700
             },
             {
-              "word": "room",
-              "charStart": 54,
-              "charEnd": 58,
+              "word": "the",
+              "charStart": 58,
+              "charEnd": 61,
               "startMs": 3700,
-              "endMs": 3760
+              "endMs": 3900
+            },
+            {
+              "word": "room",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3900,
+              "endMs": 4080
             }
           ]
         },

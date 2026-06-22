@@ -1123,7 +1123,7 @@
           ]
         },
         {
-          "text": "Jun said, \"Try explaining it a different way next time.\"",
+          "text": "Jun said, \"Try explaining it in a different way next time.\"",
           "translation_ko": "준이 말했다. \"다음엔 다른 방식으로 설명해 보는 건 어때?\"",
           "audio": "/seed/daily-139-the-mentor-program/audio/p6-s3.mp3",
           "wordTimings": [
@@ -1132,70 +1132,77 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 760
+              "endMs": 300
             },
             {
               "word": "said",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 760,
-              "endMs": 1020
+              "startMs": 300,
+              "endMs": 680
             },
             {
               "word": "Try",
               "charStart": 11,
               "charEnd": 14,
-              "startMs": 1260,
-              "endMs": 1460
+              "startMs": 1200,
+              "endMs": 1420
             },
             {
               "word": "explaining",
               "charStart": 15,
               "charEnd": 25,
-              "startMs": 1460,
-              "endMs": 1840
+              "startMs": 1420,
+              "endMs": 1880
             },
             {
               "word": "it",
               "charStart": 26,
               "charEnd": 28,
-              "startMs": 1840,
-              "endMs": 1980
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "in",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2100,
+              "endMs": 2240
             },
             {
               "word": "a",
-              "charStart": 29,
-              "charEnd": 30,
-              "startMs": 1980,
-              "endMs": 2200
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 2240,
+              "endMs": 2460
             },
             {
               "word": "different",
-              "charStart": 31,
-              "charEnd": 40,
-              "startMs": 2200,
-              "endMs": 2400
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 2460,
+              "endMs": 2600
             },
             {
               "word": "way",
-              "charStart": 41,
-              "charEnd": 44,
-              "startMs": 2400,
-              "endMs": 2620
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2600,
+              "endMs": 2840
             },
             {
               "word": "next",
-              "charStart": 45,
-              "charEnd": 49,
-              "startMs": 2620,
-              "endMs": 2860
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2840,
+              "endMs": 3100
             },
             {
               "word": "time",
-              "charStart": 50,
-              "charEnd": 54,
-              "startMs": 2860,
-              "endMs": 3080
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3100,
+              "endMs": 3380
             }
           ]
         }

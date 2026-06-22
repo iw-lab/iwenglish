@@ -869,7 +869,7 @@
     {
       "sentences": [
         {
-          "text": "The librarian did not scold me. She opened a window where children below were waiting for rain to stop.",
+          "text": "The librarian did not scold me. She opened a window where children below were waiting for the rain to stop.",
           "translation_ko": "사서는 나를 혼내지 않았어요. 그녀는 아래에서 비가 그치기를 기다리는 아이들이 보이는 창문을 열었어요.",
           "audio": "/seed/the-quiet-library-of-clouds/audio/p6-s1.mp3",
           "wordTimings": [
@@ -878,133 +878,140 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 240
             },
             {
               "word": "librarian",
               "charStart": 4,
               "charEnd": 13,
-              "startMs": 220,
-              "endMs": 700
+              "startMs": 240,
+              "endMs": 780
             },
             {
               "word": "did",
               "charStart": 14,
               "charEnd": 17,
-              "startMs": 700,
-              "endMs": 1020
+              "startMs": 780,
+              "endMs": 1180
             },
             {
               "word": "not",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1020,
-              "endMs": 1280
+              "startMs": 1180,
+              "endMs": 1480
             },
             {
               "word": "scold",
               "charStart": 22,
               "charEnd": 27,
-              "startMs": 1280,
-              "endMs": 1580
+              "startMs": 1480,
+              "endMs": 1780
             },
             {
               "word": "me",
               "charStart": 28,
               "charEnd": 30,
-              "startMs": 1580,
-              "endMs": 1800
+              "startMs": 1780,
+              "endMs": 2020
             },
             {
               "word": "She",
               "charStart": 32,
               "charEnd": 35,
-              "startMs": 2400,
-              "endMs": 2520
+              "startMs": 2620,
+              "endMs": 2780
             },
             {
               "word": "opened",
               "charStart": 36,
               "charEnd": 42,
-              "startMs": 2520,
-              "endMs": 2740
+              "startMs": 2780,
+              "endMs": 3060
             },
             {
               "word": "a",
               "charStart": 43,
               "charEnd": 44,
-              "startMs": 2740,
-              "endMs": 3200
+              "startMs": 3060,
+              "endMs": 3340
             },
             {
               "word": "window",
               "charStart": 45,
               "charEnd": 51,
-              "startMs": 3200,
-              "endMs": 3200
+              "startMs": 3340,
+              "endMs": 3500
             },
             {
               "word": "where",
               "charStart": 52,
               "charEnd": 57,
-              "startMs": 3200,
-              "endMs": 3440
+              "startMs": 3500,
+              "endMs": 3800
             },
             {
               "word": "children",
               "charStart": 58,
               "charEnd": 66,
-              "startMs": 3440,
-              "endMs": 3800
+              "startMs": 3800,
+              "endMs": 4180
             },
             {
               "word": "below",
               "charStart": 67,
               "charEnd": 72,
-              "startMs": 3800,
-              "endMs": 4180
+              "startMs": 4180,
+              "endMs": 4560
             },
             {
               "word": "were",
               "charStart": 73,
               "charEnd": 77,
-              "startMs": 4180,
-              "endMs": 4420
+              "startMs": 4560,
+              "endMs": 4820
             },
             {
               "word": "waiting",
               "charStart": 78,
               "charEnd": 85,
-              "startMs": 4420,
-              "endMs": 4580
+              "startMs": 4820,
+              "endMs": 5000
             },
             {
               "word": "for",
               "charStart": 86,
               "charEnd": 89,
-              "startMs": 4580,
-              "endMs": 4920
+              "startMs": 5000,
+              "endMs": 5280
+            },
+            {
+              "word": "the",
+              "charStart": 90,
+              "charEnd": 93,
+              "startMs": 5280,
+              "endMs": 5420
             },
             {
               "word": "rain",
-              "charStart": 90,
-              "charEnd": 94,
-              "startMs": 4920,
-              "endMs": 5000
+              "charStart": 94,
+              "charEnd": 98,
+              "startMs": 5420,
+              "endMs": 5560
             },
             {
               "word": "to",
-              "charStart": 95,
-              "charEnd": 97,
-              "startMs": 5000,
-              "endMs": 5260
+              "charStart": 99,
+              "charEnd": 101,
+              "startMs": 5560,
+              "endMs": 5820
             },
             {
               "word": "stop",
-              "charStart": 98,
-              "charEnd": 102,
-              "startMs": 5260,
-              "endMs": 5520
+              "charStart": 102,
+              "charEnd": 106,
+              "startMs": 5820,
+              "endMs": 6100
             }
           ]
         }

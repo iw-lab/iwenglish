@@ -860,79 +860,86 @@
           ]
         },
         {
-          "text": "Blocks scattered all over the floor with a loud crash.",
+          "text": "The blocks scattered all over the floor with a loud crash.",
           "translation_ko": "블록들이 쿵 소리를 내며 바닥 곳곳에 흩어졌어요.",
           "audio": "/seed/daily-48-a-rainy-recess/audio/p5-s2.mp3",
           "wordTimings": [
             {
-              "word": "Blocks",
+              "word": "The",
               "charStart": 0,
-              "charEnd": 6,
+              "charEnd": 3,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 440
+            },
+            {
+              "word": "blocks",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 800
             },
             {
               "word": "scattered",
-              "charStart": 7,
-              "charEnd": 16,
-              "startMs": 500,
-              "endMs": 920
+              "charStart": 11,
+              "charEnd": 20,
+              "startMs": 800,
+              "endMs": 1340
             },
             {
               "word": "all",
-              "charStart": 17,
-              "charEnd": 20,
-              "startMs": 920,
-              "endMs": 1260
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1740
             },
             {
               "word": "over",
-              "charStart": 21,
-              "charEnd": 25,
-              "startMs": 1260,
-              "endMs": 1400
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 1880
             },
             {
               "word": "the",
-              "charStart": 26,
-              "charEnd": 29,
-              "startMs": 1400,
-              "endMs": 1620
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2140
             },
             {
               "word": "floor",
-              "charStart": 30,
-              "charEnd": 35,
-              "startMs": 1620,
-              "endMs": 1780
-            },
-            {
-              "word": "with",
-              "charStart": 36,
-              "charEnd": 40,
-              "startMs": 1780,
-              "endMs": 2000
-            },
-            {
-              "word": "a",
-              "charStart": 41,
-              "charEnd": 42,
-              "startMs": 2000,
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2140,
               "endMs": 2340
             },
             {
-              "word": "loud",
-              "charStart": 43,
-              "charEnd": 47,
+              "word": "with",
+              "charStart": 40,
+              "charEnd": 44,
               "startMs": 2340,
-              "endMs": 2400
+              "endMs": 2580
+            },
+            {
+              "word": "a",
+              "charStart": 45,
+              "charEnd": 46,
+              "startMs": 2580,
+              "endMs": 2900
+            },
+            {
+              "word": "loud",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2900,
+              "endMs": 2960
             },
             {
               "word": "crash",
-              "charStart": 48,
-              "charEnd": 53,
-              "startMs": 2400,
-              "endMs": 2900
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 2960,
+              "endMs": 3420
             }
           ]
         },
@@ -1204,7 +1211,7 @@
     {
       "sentences": [
         {
-          "text": "We shared crayons so everyone could join.",
+          "text": "We shared crayons so everyone could join in.",
           "translation_ko": "우리는 크레용을 나눠 모두 함께할 수 있었어요.",
           "audio": "/seed/daily-48-a-rainy-recess/audio/p7-s1.mp3",
           "wordTimings": [
@@ -1213,49 +1220,56 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 380
+              "endMs": 480
             },
             {
               "word": "shared",
               "charStart": 3,
               "charEnd": 9,
-              "startMs": 380,
-              "endMs": 780
+              "startMs": 480,
+              "endMs": 1100
             },
             {
               "word": "crayons",
               "charStart": 10,
               "charEnd": 17,
-              "startMs": 780,
-              "endMs": 1420
+              "startMs": 1100,
+              "endMs": 1860
             },
             {
               "word": "so",
               "charStart": 18,
               "charEnd": 20,
-              "startMs": 1420,
-              "endMs": 1840
+              "startMs": 1860,
+              "endMs": 2320
             },
             {
               "word": "everyone",
               "charStart": 21,
               "charEnd": 29,
-              "startMs": 1840,
-              "endMs": 2420
+              "startMs": 2320,
+              "endMs": 2860
             },
             {
               "word": "could",
               "charStart": 30,
               "charEnd": 35,
-              "startMs": 2420,
-              "endMs": 2720
+              "startMs": 2860,
+              "endMs": 3180
             },
             {
               "word": "join",
               "charStart": 36,
               "charEnd": 40,
-              "startMs": 2720,
-              "endMs": 3020
+              "startMs": 3180,
+              "endMs": 3440
+            },
+            {
+              "word": "in",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 3440,
+              "endMs": 3720
             }
           ]
         },

@@ -2053,7 +2053,7 @@
     {
       "sentences": [
         {
-          "text": "During morning meeting, Mr. Kim played Class Wave for everyone.",
+          "text": "During the morning meeting, Mr. Kim played Class Wave for everyone.",
           "translation_ko": "아침 조회 시간에 김 선생님이 '클래스 웨이브'를 반 전체에 틀어 주셨어요.",
           "audio": "/seed/daily-126-the-class-podcast/audio/p11-s1.mp3",
           "wordTimings": [
@@ -2062,70 +2062,77 @@
               "charStart": 0,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 380
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 600
             },
             {
               "word": "morning",
-              "charStart": 7,
-              "charEnd": 14,
-              "startMs": 320,
-              "endMs": 760
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 600,
+              "endMs": 900
             },
             {
               "word": "meeting",
-              "charStart": 15,
-              "charEnd": 22,
-              "startMs": 760,
-              "endMs": 1160
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 900,
+              "endMs": 1280
             },
             {
               "word": "Mr",
-              "charStart": 24,
-              "charEnd": 26,
-              "startMs": 1460,
-              "endMs": 1800
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 1840
             },
             {
               "word": "Kim",
-              "charStart": 28,
-              "charEnd": 31,
-              "startMs": 1880,
-              "endMs": 2120
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2140
             },
             {
               "word": "played",
-              "charStart": 32,
-              "charEnd": 38,
-              "startMs": 2120,
-              "endMs": 2520
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2140,
+              "endMs": 2480
             },
             {
               "word": "Class",
-              "charStart": 39,
-              "charEnd": 44,
-              "startMs": 2520,
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2480,
               "endMs": 2940
             },
             {
               "word": "Wave",
-              "charStart": 45,
-              "charEnd": 49,
+              "charStart": 49,
+              "charEnd": 53,
               "startMs": 2940,
-              "endMs": 3240
+              "endMs": 3300
             },
             {
               "word": "for",
-              "charStart": 50,
-              "charEnd": 53,
-              "startMs": 3240,
-              "endMs": 3480
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3300,
+              "endMs": 3640
             },
             {
               "word": "everyone",
-              "charStart": 54,
-              "charEnd": 62,
-              "startMs": 3480,
-              "endMs": 3880
+              "charStart": 58,
+              "charEnd": 66,
+              "startMs": 3640,
+              "endMs": 4100
             }
           ]
         },

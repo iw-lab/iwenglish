@@ -731,7 +731,7 @@
           ]
         },
         {
-          "text": "Each student got a card to write their vote.",
+          "text": "Each student got a card to write their vote on.",
           "translation_ko": "각자 작은 카드 한 장을 받아서 투표할 항목을 적었어요.",
           "audio": "/seed/daily-113-the-class-vote/audio/p6-s2.mp3",
           "wordTimings": [
@@ -740,63 +740,70 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 940
+              "endMs": 360
             },
             {
               "word": "student",
               "charStart": 5,
               "charEnd": 12,
-              "startMs": 940,
-              "endMs": 1340
+              "startMs": 360,
+              "endMs": 820
             },
             {
               "word": "got",
               "charStart": 13,
               "charEnd": 16,
-              "startMs": 1340,
-              "endMs": 1660
+              "startMs": 820,
+              "endMs": 1100
             },
             {
               "word": "a",
               "charStart": 17,
               "charEnd": 18,
-              "startMs": 1660,
-              "endMs": 2040
+              "startMs": 1100,
+              "endMs": 1500
             },
             {
               "word": "card",
               "charStart": 19,
               "charEnd": 23,
-              "startMs": 2040,
-              "endMs": 2120
+              "startMs": 1500,
+              "endMs": 1580
             },
             {
               "word": "to",
               "charStart": 24,
               "charEnd": 26,
-              "startMs": 2120,
-              "endMs": 2520
+              "startMs": 1580,
+              "endMs": 1860
             },
             {
               "word": "write",
               "charStart": 27,
               "charEnd": 32,
-              "startMs": 2520,
-              "endMs": 2720
+              "startMs": 1860,
+              "endMs": 2020
             },
             {
               "word": "their",
               "charStart": 33,
               "charEnd": 38,
-              "startMs": 2720,
-              "endMs": 2980
+              "startMs": 2020,
+              "endMs": 2260
             },
             {
               "word": "vote",
               "charStart": 39,
               "charEnd": 43,
-              "startMs": 2980,
-              "endMs": 3200
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "on",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2460,
+              "endMs": 2720
             }
           ]
         }

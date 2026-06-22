@@ -952,7 +952,7 @@
           ]
         },
         {
-          "text": "I color the sky big and blue.",
+          "text": "I color the big sky blue.",
           "translation_ko": "나는 하늘을 크고 파랗게 색칠해요.",
           "audio": "/seed/daily-27-the-lost-crayon/audio/p7-s2.mp3",
           "wordTimings": [
@@ -961,49 +961,42 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 360
             },
             {
               "word": "color",
               "charStart": 2,
               "charEnd": 7,
-              "startMs": 320,
-              "endMs": 640
+              "startMs": 360,
+              "endMs": 720
             },
             {
               "word": "the",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 640,
-              "endMs": 1000
-            },
-            {
-              "word": "sky",
-              "charStart": 12,
-              "charEnd": 15,
-              "startMs": 1000,
-              "endMs": 1260
+              "startMs": 720,
+              "endMs": 980
             },
             {
               "word": "big",
-              "charStart": 16,
-              "charEnd": 19,
-              "startMs": 1260,
-              "endMs": 1800
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1380
             },
             {
-              "word": "and",
-              "charStart": 20,
-              "charEnd": 23,
-              "startMs": 1800,
-              "endMs": 2180
+              "word": "sky",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1620
             },
             {
               "word": "blue",
-              "charStart": 24,
-              "charEnd": 28,
-              "startMs": 2180,
-              "endMs": 2460
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 2040
             }
           ]
         },

@@ -746,7 +746,7 @@
     {
       "sentences": [
         {
-          "text": "They splashed every puddle on the way home.",
+          "text": "They splashed in every puddle on the way home.",
           "translation_ko": "집으로 돌아오는 길에 웅덩이를 모조리 밟았어요.",
           "audio": "/seed/daily-72-the-puddle-walk/audio/p8-s1.mp3",
           "wordTimings": [
@@ -755,56 +755,63 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 660
+              "endMs": 1180
             },
             {
               "word": "splashed",
               "charStart": 5,
               "charEnd": 13,
-              "startMs": 660,
-              "endMs": 1100
-            },
-            {
-              "word": "every",
-              "charStart": 14,
-              "charEnd": 19,
-              "startMs": 1100,
+              "startMs": 1180,
               "endMs": 1660
             },
             {
-              "word": "puddle",
-              "charStart": 20,
-              "charEnd": 26,
+              "word": "in",
+              "charStart": 14,
+              "charEnd": 16,
               "startMs": 1660,
-              "endMs": 2000
+              "endMs": 2020
+            },
+            {
+              "word": "every",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "puddle",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2400,
+              "endMs": 2720
             },
             {
               "word": "on",
-              "charStart": 27,
-              "charEnd": 29,
-              "startMs": 2000,
-              "endMs": 2420
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2720,
+              "endMs": 3080
             },
             {
               "word": "the",
-              "charStart": 30,
-              "charEnd": 33,
-              "startMs": 2420,
-              "endMs": 2580
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 3080,
+              "endMs": 3180
             },
             {
               "word": "way",
-              "charStart": 34,
-              "charEnd": 37,
-              "startMs": 2580,
-              "endMs": 2740
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3180,
+              "endMs": 3380
             },
             {
               "word": "home",
-              "charStart": 38,
-              "charEnd": 42,
-              "startMs": 2740,
-              "endMs": 3000
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3380,
+              "endMs": 3660
             }
           ]
         },

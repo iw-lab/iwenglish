@@ -104,7 +104,7 @@
     {
       "sentences": [
         {
-          "text": "Then one mitten fell down.",
+          "text": "Then one mitten fell off.",
           "translation_ko": "그때 장갑 한 짝이 툭 떨어졌어요.",
           "audio": "/seed/the-lost-mitten/audio/p2-s1.mp3",
           "wordTimings": [
@@ -113,35 +113,35 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 480
             },
             {
               "word": "one",
               "charStart": 5,
               "charEnd": 8,
-              "startMs": 320,
-              "endMs": 700
+              "startMs": 480,
+              "endMs": 940
             },
             {
               "word": "mitten",
               "charStart": 9,
               "charEnd": 15,
-              "startMs": 700,
-              "endMs": 980
+              "startMs": 940,
+              "endMs": 1240
             },
             {
               "word": "fell",
               "charStart": 16,
               "charEnd": 20,
-              "startMs": 980,
-              "endMs": 1300
+              "startMs": 1240,
+              "endMs": 1900
             },
             {
-              "word": "down",
+              "word": "off",
               "charStart": 21,
-              "charEnd": 25,
-              "startMs": 1300,
-              "endMs": 1640
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2200
             }
           ]
         },

@@ -738,7 +738,7 @@
     {
       "sentences": [
         {
-          "text": "The next morning, they meet at Jun's kitchen.",
+          "text": "The next morning, they meet in Jun's kitchen.",
           "translation_ko": "다음 날 아침, 둘은 준의 부엌에서 만나요.",
           "audio": "/seed/daily-108-the-class-bake-sale/audio/p6-s1.mp3",
           "wordTimings": [
@@ -747,56 +747,56 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 760
+              "endMs": 200
             },
             {
               "word": "next",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 760,
-              "endMs": 1100
+              "startMs": 200,
+              "endMs": 500
             },
             {
               "word": "morning",
               "charStart": 9,
               "charEnd": 16,
-              "startMs": 1100,
-              "endMs": 1500
+              "startMs": 500,
+              "endMs": 900
             },
             {
               "word": "they",
               "charStart": 18,
               "charEnd": 22,
-              "startMs": 1880,
-              "endMs": 2040
+              "startMs": 1060,
+              "endMs": 1340
             },
             {
               "word": "meet",
               "charStart": 23,
               "charEnd": 27,
-              "startMs": 2040,
-              "endMs": 2300
+              "startMs": 1340,
+              "endMs": 1580
             },
             {
-              "word": "at",
+              "word": "in",
               "charStart": 28,
               "charEnd": 30,
-              "startMs": 2300,
-              "endMs": 2680
+              "startMs": 1580,
+              "endMs": 1940
             },
             {
               "word": "Jun's",
               "charStart": 31,
               "charEnd": 36,
-              "startMs": 2680,
-              "endMs": 3140
+              "startMs": 1940,
+              "endMs": 2420
             },
             {
               "word": "kitchen",
               "charStart": 37,
               "charEnd": 44,
-              "startMs": 3140,
-              "endMs": 3300
+              "startMs": 2420,
+              "endMs": 2580
             }
           ]
         },

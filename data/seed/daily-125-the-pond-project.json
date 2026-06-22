@@ -2165,7 +2165,7 @@
           ]
         },
         {
-          "text": "Jun felt proud for himself and for everyone who had helped.",
+          "text": "Jun felt proud of himself and everyone who had helped.",
           "translation_ko": "준은 자신과 함께한 모든 친구들이 자랑스러웠어요.",
           "audio": "/seed/daily-125-the-pond-project/audio/p11-s2.mp3",
           "wordTimings": [
@@ -2174,77 +2174,70 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 340
             },
             {
               "word": "felt",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 360,
-              "endMs": 660
+              "startMs": 340,
+              "endMs": 620
             },
             {
               "word": "proud",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 660,
-              "endMs": 1000
+              "startMs": 620,
+              "endMs": 880
             },
             {
-              "word": "for",
+              "word": "of",
               "charStart": 15,
-              "charEnd": 18,
-              "startMs": 1000,
-              "endMs": 1280
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1040
             },
             {
               "word": "himself",
-              "charStart": 19,
-              "charEnd": 26,
-              "startMs": 1280,
-              "endMs": 1760
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1040,
+              "endMs": 1480
             },
             {
               "word": "and",
-              "charStart": 27,
-              "charEnd": 30,
-              "startMs": 1760,
-              "endMs": 2240
-            },
-            {
-              "word": "for",
-              "charStart": 31,
-              "charEnd": 34,
-              "startMs": 2240,
-              "endMs": 2540
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1900
             },
             {
               "word": "everyone",
-              "charStart": 35,
-              "charEnd": 43,
-              "startMs": 2540,
-              "endMs": 2800
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 1900,
+              "endMs": 2360
             },
             {
               "word": "who",
-              "charStart": 44,
-              "charEnd": 47,
-              "startMs": 2800,
-              "endMs": 3020
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2360,
+              "endMs": 2580
             },
             {
               "word": "had",
-              "charStart": 48,
-              "charEnd": 51,
-              "startMs": 3020,
-              "endMs": 3220
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2580,
+              "endMs": 2740
             },
             {
               "word": "helped",
-              "charStart": 52,
-              "charEnd": 58,
-              "startMs": 3220,
-              "endMs": 3440
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 2740,
+              "endMs": 3040
             }
           ]
         },

@@ -415,58 +415,72 @@
     {
       "sentences": [
         {
-          "text": "Tomorrow, I would visit the path again.",
+          "text": "The next day, I would visit the path again.",
           "translation_ko": "내일 나는 그 길을 다시 찾아갈 거예요.",
           "audio": "/seed/the-blue-door/audio/p8-s1.mp3",
           "wordTimings": [
             {
-              "word": "Tomorrow",
+              "word": "The",
               "charStart": 0,
-              "charEnd": 8,
+              "charEnd": 3,
               "startMs": 0,
-              "endMs": 460
+              "endMs": 160
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 440
+            },
+            {
+              "word": "day",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 740
             },
             {
               "word": "I",
-              "charStart": 10,
-              "charEnd": 11,
-              "startMs": 460,
-              "endMs": 800
-            },
-            {
-              "word": "would",
-              "charStart": 12,
-              "charEnd": 17,
+              "charStart": 14,
+              "charEnd": 15,
               "startMs": 800,
-              "endMs": 1040
-            },
-            {
-              "word": "visit",
-              "charStart": 18,
-              "charEnd": 23,
-              "startMs": 1040,
               "endMs": 1260
             },
             {
-              "word": "the",
-              "charStart": 24,
-              "charEnd": 27,
+              "word": "would",
+              "charStart": 16,
+              "charEnd": 21,
               "startMs": 1260,
-              "endMs": 1520
+              "endMs": 1480
+            },
+            {
+              "word": "visit",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1480,
+              "endMs": 1620
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1620,
+              "endMs": 1820
             },
             {
               "word": "path",
-              "charStart": 28,
-              "charEnd": 32,
-              "startMs": 1520,
-              "endMs": 1780
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1820,
+              "endMs": 2040
             },
             {
               "word": "again",
-              "charStart": 33,
-              "charEnd": 38,
-              "startMs": 1780,
-              "endMs": 2180
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2040,
+              "endMs": 2340
             }
           ]
         }

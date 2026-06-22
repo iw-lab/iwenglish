@@ -64,44 +64,44 @@
     {
       "sentences": [
         {
-          "text": "I see a big tree.",
+          "text": "He sees a big tree.",
           "translation_ko": "큰 나무가 보여요.",
           "audio": "/seed/daily-59-i-see-a-bird/audio/p2-s1.mp3",
           "wordTimings": [
             {
-              "word": "I",
+              "word": "He",
               "charStart": 0,
-              "charEnd": 1,
+              "charEnd": 2,
               "startMs": 0,
-              "endMs": 100
+              "endMs": 260
             },
             {
-              "word": "see",
-              "charStart": 2,
-              "charEnd": 5,
-              "startMs": 100,
-              "endMs": 440
+              "word": "sees",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 620
             },
             {
               "word": "a",
-              "charStart": 6,
-              "charEnd": 7,
-              "startMs": 440,
-              "endMs": 640
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 880
             },
             {
               "word": "big",
-              "charStart": 8,
-              "charEnd": 11,
-              "startMs": 640,
-              "endMs": 900
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1180
             },
             {
               "word": "tree",
-              "charStart": 12,
-              "charEnd": 16,
-              "startMs": 900,
-              "endMs": 1220
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1480
             }
           ]
         }
@@ -110,65 +110,65 @@
     {
       "sentences": [
         {
-          "text": "I see a little bird in the tree.",
+          "text": "He sees a little bird in the tree.",
           "translation_ko": "나무에 작은 새 한 마리가 보여요.",
           "audio": "/seed/daily-59-i-see-a-bird/audio/p3-s1.mp3",
           "wordTimings": [
             {
-              "word": "I",
+              "word": "He",
               "charStart": 0,
-              "charEnd": 1,
+              "charEnd": 2,
               "startMs": 0,
               "endMs": 260
             },
             {
-              "word": "see",
-              "charStart": 2,
-              "charEnd": 5,
+              "word": "sees",
+              "charStart": 3,
+              "charEnd": 7,
               "startMs": 260,
-              "endMs": 480
+              "endMs": 660
             },
             {
               "word": "a",
-              "charStart": 6,
-              "charEnd": 7,
-              "startMs": 480,
-              "endMs": 720
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 980
             },
             {
               "word": "little",
-              "charStart": 8,
-              "charEnd": 14,
-              "startMs": 720,
-              "endMs": 900
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1180
             },
             {
               "word": "bird",
-              "charStart": 15,
-              "charEnd": 19,
-              "startMs": 900,
-              "endMs": 1140
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1460
             },
             {
               "word": "in",
-              "charStart": 20,
-              "charEnd": 22,
-              "startMs": 1140,
-              "endMs": 1380
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1760
             },
             {
               "word": "the",
-              "charStart": 23,
-              "charEnd": 26,
-              "startMs": 1380,
-              "endMs": 1540
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 1960
             },
             {
               "word": "tree",
-              "charStart": 27,
-              "charEnd": 31,
-              "startMs": 1540,
-              "endMs": 1700
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2160
             }
           ]
         }
@@ -230,51 +230,51 @@
     {
       "sentences": [
         {
-          "text": "I see the big blue sky.",
+          "text": "He sees the big blue sky.",
           "translation_ko": "넓고 파란 하늘이 보여요.",
           "audio": "/seed/daily-59-i-see-a-bird/audio/p5-s1.mp3",
           "wordTimings": [
             {
-              "word": "I",
+              "word": "He",
               "charStart": 0,
-              "charEnd": 1,
+              "charEnd": 2,
               "startMs": 0,
-              "endMs": 400
+              "endMs": 240
             },
             {
-              "word": "see",
-              "charStart": 2,
-              "charEnd": 5,
-              "startMs": 400,
-              "endMs": 780
+              "word": "sees",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 540
             },
             {
               "word": "the",
-              "charStart": 6,
-              "charEnd": 9,
-              "startMs": 780,
-              "endMs": 1280
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 820
             },
             {
               "word": "big",
-              "charStart": 10,
-              "charEnd": 13,
-              "startMs": 1280,
-              "endMs": 1580
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1080
             },
             {
               "word": "blue",
-              "charStart": 14,
-              "charEnd": 18,
-              "startMs": 1580,
-              "endMs": 1900
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1340
             },
             {
               "word": "sky",
-              "charStart": 19,
-              "charEnd": 22,
-              "startMs": 1900,
-              "endMs": 2220
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1680
             }
           ]
         }

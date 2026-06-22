@@ -11,7 +11,7 @@
     {
       "sentences": [
         {
-          "text": "This is my blue cup.",
+          "text": "This is Jun's blue cup.",
           "translation_ko": "이건 내 파란 컵이에요.",
           "audio": "/seed/daily-52-my-blue-cup/audio/p1-s1.mp3",
           "wordTimings": [
@@ -20,35 +20,35 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 640
             },
             {
               "word": "is",
               "charStart": 5,
               "charEnd": 7,
-              "startMs": 320,
-              "endMs": 560
+              "startMs": 640,
+              "endMs": 1200
             },
             {
-              "word": "my",
+              "word": "Jun's",
               "charStart": 8,
-              "charEnd": 10,
-              "startMs": 560,
-              "endMs": 840
+              "charEnd": 13,
+              "startMs": 1200,
+              "endMs": 1420
             },
             {
               "word": "blue",
-              "charStart": 11,
-              "charEnd": 15,
-              "startMs": 840,
-              "endMs": 1040
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1420,
+              "endMs": 1740
             },
             {
               "word": "cup",
-              "charStart": 16,
-              "charEnd": 19,
-              "startMs": 1040,
-              "endMs": 1340
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1740,
+              "endMs": 2000
             }
           ]
         }

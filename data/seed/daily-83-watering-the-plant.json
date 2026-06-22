@@ -11,7 +11,7 @@
     {
       "sentences": [
         {
-          "text": "Jun saw a small plant on the window.",
+          "text": "Jun saw a small plant on the windowsill.",
           "translation_ko": "준은 창가에 있는 작은 식물을 발견했어요.",
           "audio": "/seed/daily-83-watering-the-plant/audio/p1-s1.mp3",
           "wordTimings": [
@@ -20,56 +20,56 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 420
             },
             {
               "word": "saw",
               "charStart": 4,
               "charEnd": 7,
-              "startMs": 340,
-              "endMs": 700
+              "startMs": 420,
+              "endMs": 740
             },
             {
               "word": "a",
               "charStart": 8,
               "charEnd": 9,
-              "startMs": 700,
-              "endMs": 920
+              "startMs": 740,
+              "endMs": 940
             },
             {
               "word": "small",
               "charStart": 10,
               "charEnd": 15,
-              "startMs": 920,
-              "endMs": 1140
+              "startMs": 940,
+              "endMs": 1260
             },
             {
               "word": "plant",
               "charStart": 16,
               "charEnd": 21,
-              "startMs": 1140,
-              "endMs": 1480
+              "startMs": 1260,
+              "endMs": 1640
             },
             {
               "word": "on",
               "charStart": 22,
               "charEnd": 24,
-              "startMs": 1480,
-              "endMs": 1700
+              "startMs": 1640,
+              "endMs": 1840
             },
             {
               "word": "the",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 1700,
-              "endMs": 1860
+              "startMs": 1840,
+              "endMs": 1940
             },
             {
-              "word": "window",
+              "word": "windowsill",
               "charStart": 29,
-              "charEnd": 35,
-              "startMs": 1860,
-              "endMs": 2060
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2520
             }
           ]
         },
@@ -735,7 +735,7 @@
           ]
         },
         {
-          "text": "Jun wanted to come back tomorrow.",
+          "text": "Jun wanted to come back the next day.",
           "translation_ko": "준은 내일도 다시 오고 싶었어요.",
           "audio": "/seed/daily-83-watering-the-plant/audio/p7-s2.mp3",
           "wordTimings": [
@@ -744,42 +744,56 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 620
+              "endMs": 480
             },
             {
               "word": "wanted",
               "charStart": 4,
               "charEnd": 10,
-              "startMs": 620,
-              "endMs": 1180
+              "startMs": 480,
+              "endMs": 860
             },
             {
               "word": "to",
               "charStart": 11,
               "charEnd": 13,
-              "startMs": 1180,
-              "endMs": 1400
+              "startMs": 860,
+              "endMs": 1140
             },
             {
               "word": "come",
               "charStart": 14,
               "charEnd": 18,
-              "startMs": 1400,
-              "endMs": 1620
+              "startMs": 1140,
+              "endMs": 1380
             },
             {
               "word": "back",
               "charStart": 19,
               "charEnd": 23,
-              "startMs": 1620,
-              "endMs": 1920
+              "startMs": 1380,
+              "endMs": 1660
             },
             {
-              "word": "tomorrow",
+              "word": "the",
               "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "next",
+              "charStart": 28,
               "charEnd": 32,
-              "startMs": 1920,
-              "endMs": 2200
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "day",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2220,
+              "endMs": 2500
             }
           ]
         }

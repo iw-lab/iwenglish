@@ -1362,7 +1362,7 @@
           ]
         },
         {
-          "text": "\"People need a place to gather,\" she said, so they built a community centre with a rooftop garden.",
+          "text": "\"People need a place to gather,\" she said. So they built a community centre with a rooftop garden.",
           "translation_ko": "\"사람들이 모일 공간이 필요해.\" 미나가 말해서 둘은 옥상 정원이 있는 커뮤니티 센터를 만들었어요.",
           "audio": "/seed/daily-146-the-future-city-model/audio/p8-s2.mp3",
           "wordTimings": [
@@ -1370,127 +1370,127 @@
               "word": "People",
               "charStart": 1,
               "charEnd": 7,
-              "startMs": 600,
-              "endMs": 1080
+              "startMs": 0,
+              "endMs": 340
             },
             {
               "word": "need",
               "charStart": 8,
               "charEnd": 12,
-              "startMs": 1080,
-              "endMs": 1340
+              "startMs": 340,
+              "endMs": 700
             },
             {
               "word": "a",
               "charStart": 13,
               "charEnd": 14,
-              "startMs": 1340,
-              "endMs": 1500
+              "startMs": 700,
+              "endMs": 940
             },
             {
               "word": "place",
               "charStart": 15,
               "charEnd": 20,
-              "startMs": 1500,
-              "endMs": 1700
+              "startMs": 940,
+              "endMs": 1160
             },
             {
               "word": "to",
               "charStart": 21,
               "charEnd": 23,
-              "startMs": 1700,
-              "endMs": 2240
+              "startMs": 1160,
+              "endMs": 1700
             },
             {
               "word": "gather",
               "charStart": 24,
               "charEnd": 30,
-              "startMs": 2240,
-              "endMs": 2240
+              "startMs": 1700,
+              "endMs": 1700
             },
             {
               "word": "she",
               "charStart": 33,
               "charEnd": 36,
-              "startMs": 2520,
-              "endMs": 2700
+              "startMs": 2740,
+              "endMs": 2900
             },
             {
               "word": "said",
               "charStart": 37,
               "charEnd": 41,
-              "startMs": 2700,
-              "endMs": 2980
+              "startMs": 2900,
+              "endMs": 3220
             },
             {
-              "word": "so",
+              "word": "So",
               "charStart": 43,
               "charEnd": 45,
-              "startMs": 3460,
-              "endMs": 3540
+              "startMs": 4360,
+              "endMs": 4480
             },
             {
               "word": "they",
               "charStart": 46,
               "charEnd": 50,
-              "startMs": 3540,
-              "endMs": 3760
+              "startMs": 4480,
+              "endMs": 4680
             },
             {
               "word": "built",
               "charStart": 51,
               "charEnd": 56,
-              "startMs": 3760,
-              "endMs": 3880
+              "startMs": 4680,
+              "endMs": 4780
             },
             {
               "word": "a",
               "charStart": 57,
               "charEnd": 58,
-              "startMs": 3880,
-              "endMs": 4080
+              "startMs": 4780,
+              "endMs": 5020
             },
             {
               "word": "community",
               "charStart": 59,
               "charEnd": 68,
-              "startMs": 4080,
-              "endMs": 4460
+              "startMs": 5020,
+              "endMs": 5380
             },
             {
               "word": "centre",
               "charStart": 69,
               "charEnd": 75,
-              "startMs": 4460,
-              "endMs": 4740
+              "startMs": 5380,
+              "endMs": 5700
             },
             {
               "word": "with",
               "charStart": 76,
               "charEnd": 80,
-              "startMs": 4740,
-              "endMs": 4960
+              "startMs": 5700,
+              "endMs": 5920
             },
             {
               "word": "a",
               "charStart": 81,
               "charEnd": 82,
-              "startMs": 4960,
-              "endMs": 5220
+              "startMs": 5920,
+              "endMs": 6200
             },
             {
               "word": "rooftop",
               "charStart": 83,
               "charEnd": 90,
-              "startMs": 5220,
-              "endMs": 5440
+              "startMs": 6200,
+              "endMs": 6440
             },
             {
               "word": "garden",
               "charStart": 91,
               "charEnd": 97,
-              "startMs": 5440,
-              "endMs": 5800
+              "startMs": 6440,
+              "endMs": 6740
             }
           ]
         }

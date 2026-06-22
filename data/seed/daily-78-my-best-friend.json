@@ -433,7 +433,7 @@
           ]
         },
         {
-          "text": "\"It is so cute!\" said Jun.",
+          "text": "\"It is so cute!\" I said.",
           "translation_ko": "\"너무 귀엽다!\" 준이 말했어요.",
           "audio": "/seed/daily-78-my-best-friend/audio/p5-s2.mp3",
           "wordTimings": [
@@ -442,42 +442,42 @@
               "charStart": 1,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 380
             },
             {
               "word": "is",
               "charStart": 4,
               "charEnd": 6,
-              "startMs": 500,
-              "endMs": 760
+              "startMs": 380,
+              "endMs": 780
             },
             {
               "word": "so",
               "charStart": 7,
               "charEnd": 9,
-              "startMs": 760,
-              "endMs": 1220
+              "startMs": 780,
+              "endMs": 1440
             },
             {
               "word": "cute",
               "charStart": 10,
               "charEnd": 14,
-              "startMs": 1220,
+              "startMs": 1440,
               "endMs": 2240
+            },
+            {
+              "word": "I",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 2240,
+              "endMs": 2820
             },
             {
               "word": "said",
-              "charStart": 17,
-              "charEnd": 21,
-              "startMs": 2240,
-              "endMs": 2240
-            },
-            {
-              "word": "Jun",
-              "charStart": 22,
-              "charEnd": 25,
-              "startMs": 2240,
-              "endMs": 2520
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 2820,
+              "endMs": 3020
             }
           ]
         }

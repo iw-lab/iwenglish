@@ -1594,7 +1594,7 @@
     {
       "sentences": [
         {
-          "text": "That afternoon, one student said his bookmark had torn.",
+          "text": "That afternoon, one student said his bookmark was torn.",
           "translation_ko": "그런데 그날 오후, 한 학생이 책갈피가 찢어졌다고 말했습니다.",
           "audio": "/seed/daily-137-the-class-business/audio/p10-s1.mp3",
           "wordTimings": [
@@ -1603,63 +1603,63 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 280
             },
             {
               "word": "afternoon",
               "charStart": 5,
               "charEnd": 14,
-              "startMs": 340,
-              "endMs": 980
+              "startMs": 280,
+              "endMs": 820
             },
             {
               "word": "one",
               "charStart": 16,
               "charEnd": 19,
-              "startMs": 1320,
-              "endMs": 1560
+              "startMs": 1160,
+              "endMs": 1440
             },
             {
               "word": "student",
               "charStart": 20,
               "charEnd": 27,
-              "startMs": 1560,
-              "endMs": 1880
+              "startMs": 1440,
+              "endMs": 1760
             },
             {
               "word": "said",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 1880,
-              "endMs": 2180
+              "startMs": 1760,
+              "endMs": 2060
             },
             {
               "word": "his",
               "charStart": 33,
               "charEnd": 36,
-              "startMs": 2180,
-              "endMs": 2460
+              "startMs": 2060,
+              "endMs": 2440
             },
             {
               "word": "bookmark",
               "charStart": 37,
               "charEnd": 45,
-              "startMs": 2460,
-              "endMs": 2940
+              "startMs": 2440,
+              "endMs": 2920
             },
             {
-              "word": "had",
+              "word": "was",
               "charStart": 46,
               "charEnd": 49,
-              "startMs": 2940,
-              "endMs": 3200
+              "startMs": 2920,
+              "endMs": 3280
             },
             {
               "word": "torn",
               "charStart": 50,
               "charEnd": 54,
-              "startMs": 3200,
-              "endMs": 3460
+              "startMs": 3280,
+              "endMs": 3520
             }
           ]
         },

@@ -2347,7 +2347,7 @@
           ]
         },
         {
-          "text": "The important thing is to keep playing and breathe.",
+          "text": "The important thing is to keep playing and breathing.",
           "translation_ko": "중요한 것은 계속 연주하고 숨 쉬는 거예요.",
           "audio": "/seed/daily-24-the-talent-show/audio/p11-s2.mp3",
           "wordTimings": [
@@ -2356,63 +2356,63 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 180
             },
             {
               "word": "important",
               "charStart": 4,
               "charEnd": 13,
-              "startMs": 260,
-              "endMs": 700
+              "startMs": 180,
+              "endMs": 600
             },
             {
               "word": "thing",
               "charStart": 14,
               "charEnd": 19,
-              "startMs": 700,
-              "endMs": 1060
+              "startMs": 600,
+              "endMs": 900
             },
             {
               "word": "is",
               "charStart": 20,
               "charEnd": 22,
-              "startMs": 1060,
-              "endMs": 1320
+              "startMs": 900,
+              "endMs": 1140
             },
             {
               "word": "to",
               "charStart": 23,
               "charEnd": 25,
-              "startMs": 1320,
-              "endMs": 1540
+              "startMs": 1140,
+              "endMs": 1340
             },
             {
               "word": "keep",
               "charStart": 26,
               "charEnd": 30,
-              "startMs": 1540,
-              "endMs": 1760
+              "startMs": 1340,
+              "endMs": 1480
             },
             {
               "word": "playing",
               "charStart": 31,
               "charEnd": 38,
-              "startMs": 1760,
-              "endMs": 2120
+              "startMs": 1480,
+              "endMs": 1980
             },
             {
               "word": "and",
               "charStart": 39,
               "charEnd": 42,
-              "startMs": 2120,
-              "endMs": 2720
+              "startMs": 1980,
+              "endMs": 2320
             },
             {
-              "word": "breathe",
+              "word": "breathing",
               "charStart": 43,
-              "charEnd": 50,
-              "startMs": 2720,
-              "endMs": 3000
+              "charEnd": 52,
+              "startMs": 2320,
+              "endMs": 2600
             }
           ]
         },

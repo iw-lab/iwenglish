@@ -2379,7 +2379,7 @@
     {
       "sentences": [
         {
-          "text": "On the way home, I write the best moment in my travel notebook.",
+          "text": "On the way home, I wrote the best moment in my travel notebook.",
           "translation_ko": "집으로 가는 길에 나는 여행 공책에 최고의 순간을 써요.",
           "audio": "/seed/daily-6-a-weekend-trip/audio/p12-s1.mp3",
           "wordTimings": [
@@ -2388,96 +2388,96 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 200
+              "endMs": 300
             },
             {
               "word": "the",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 200,
-              "endMs": 320
+              "startMs": 300,
+              "endMs": 500
             },
             {
               "word": "way",
               "charStart": 7,
               "charEnd": 10,
-              "startMs": 320,
-              "endMs": 520
+              "startMs": 500,
+              "endMs": 820
             },
             {
               "word": "home",
               "charStart": 11,
               "charEnd": 15,
-              "startMs": 520,
-              "endMs": 740
+              "startMs": 820,
+              "endMs": 1180
             },
             {
               "word": "I",
               "charStart": 17,
               "charEnd": 18,
-              "startMs": 900,
-              "endMs": 980
+              "startMs": 1280,
+              "endMs": 1600
             },
             {
-              "word": "write",
+              "word": "wrote",
               "charStart": 19,
               "charEnd": 24,
-              "startMs": 980,
-              "endMs": 1100
+              "startMs": 1600,
+              "endMs": 1620
             },
             {
               "word": "the",
               "charStart": 25,
               "charEnd": 28,
-              "startMs": 1100,
-              "endMs": 1320
+              "startMs": 1620,
+              "endMs": 1940
             },
             {
               "word": "best",
               "charStart": 29,
               "charEnd": 33,
-              "startMs": 1320,
-              "endMs": 1660
+              "startMs": 1940,
+              "endMs": 2320
             },
             {
               "word": "moment",
               "charStart": 34,
               "charEnd": 40,
-              "startMs": 1660,
-              "endMs": 1980
+              "startMs": 2320,
+              "endMs": 2700
             },
             {
               "word": "in",
               "charStart": 41,
               "charEnd": 43,
-              "startMs": 1980,
-              "endMs": 2160
+              "startMs": 2700,
+              "endMs": 2920
             },
             {
               "word": "my",
               "charStart": 44,
               "charEnd": 46,
-              "startMs": 2160,
-              "endMs": 2400
+              "startMs": 2920,
+              "endMs": 3180
             },
             {
               "word": "travel",
               "charStart": 47,
               "charEnd": 53,
-              "startMs": 2400,
-              "endMs": 2680
+              "startMs": 3180,
+              "endMs": 3500
             },
             {
               "word": "notebook",
               "charStart": 54,
               "charEnd": 62,
-              "startMs": 2680,
-              "endMs": 3080
+              "startMs": 3500,
+              "endMs": 3820
             }
           ]
         },
         {
-          "text": "I describe the color of the sky, the sound of the waves, and the smell of the salt air.",
+          "text": "I described the color of the sky, the sound of the waves, and the smell of the salt air.",
           "translation_ko": "하늘의 색깔, 파도 소리, 바닷바람의 냄새를 자세히 적어요.",
           "audio": "/seed/daily-6-a-weekend-trip/audio/p12-s2.mp3",
           "wordTimings": [
@@ -2486,133 +2486,133 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 360
+              "endMs": 420
             },
             {
-              "word": "describe",
+              "word": "described",
               "charStart": 2,
-              "charEnd": 10,
-              "startMs": 360,
-              "endMs": 840
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 820
             },
             {
               "word": "the",
-              "charStart": 11,
-              "charEnd": 14,
-              "startMs": 840,
-              "endMs": 1080
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1160
             },
             {
               "word": "color",
-              "charStart": 15,
-              "charEnd": 20,
-              "startMs": 1080,
-              "endMs": 1400
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1160,
+              "endMs": 1440
             },
             {
               "word": "of",
-              "charStart": 21,
-              "charEnd": 23,
-              "startMs": 1400,
-              "endMs": 1740
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1760
             },
             {
               "word": "the",
-              "charStart": 24,
-              "charEnd": 27,
-              "startMs": 1740,
-              "endMs": 1880
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 1900
             },
             {
               "word": "sky",
-              "charStart": 28,
-              "charEnd": 31,
-              "startMs": 1880,
-              "endMs": 2160
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1900,
+              "endMs": 2180
             },
             {
               "word": "the",
-              "charStart": 33,
-              "charEnd": 36,
-              "startMs": 2660,
-              "endMs": 2860
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2920,
+              "endMs": 3180
             },
             {
               "word": "sound",
-              "charStart": 37,
-              "charEnd": 42,
-              "startMs": 2860,
-              "endMs": 3020
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 3180,
+              "endMs": 3340
             },
             {
               "word": "of",
-              "charStart": 43,
-              "charEnd": 45,
-              "startMs": 3020,
-              "endMs": 3220
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 3340,
+              "endMs": 3560
             },
             {
               "word": "the",
-              "charStart": 46,
-              "charEnd": 49,
-              "startMs": 3220,
-              "endMs": 3640
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3560,
+              "endMs": 3660
             },
             {
               "word": "waves",
-              "charStart": 50,
-              "charEnd": 55,
-              "startMs": 3640,
-              "endMs": 3640
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3660,
+              "endMs": 4020
             },
             {
               "word": "and",
-              "charStart": 57,
-              "charEnd": 60,
-              "startMs": 4160,
-              "endMs": 4220
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 4800,
+              "endMs": 4860
             },
             {
               "word": "the",
-              "charStart": 61,
-              "charEnd": 64,
-              "startMs": 4220,
-              "endMs": 4660
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 4860,
+              "endMs": 5180
             },
             {
               "word": "smell",
-              "charStart": 65,
-              "charEnd": 70,
-              "startMs": 4660,
-              "endMs": 4680
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 5180,
+              "endMs": 5380
             },
             {
               "word": "of",
-              "charStart": 71,
-              "charEnd": 73,
-              "startMs": 4680,
-              "endMs": 4920
+              "charStart": 72,
+              "charEnd": 74,
+              "startMs": 5380,
+              "endMs": 5620
             },
             {
               "word": "the",
-              "charStart": 74,
-              "charEnd": 77,
-              "startMs": 4920,
-              "endMs": 5160
+              "charStart": 75,
+              "charEnd": 78,
+              "startMs": 5620,
+              "endMs": 5880
             },
             {
               "word": "salt",
-              "charStart": 78,
-              "charEnd": 82,
-              "startMs": 5160,
-              "endMs": 5360
+              "charStart": 79,
+              "charEnd": 83,
+              "startMs": 5880,
+              "endMs": 6100
             },
             {
               "word": "air",
-              "charStart": 83,
-              "charEnd": 86,
-              "startMs": 5360,
-              "endMs": 5640
+              "charStart": 84,
+              "charEnd": 87,
+              "startMs": 6100,
+              "endMs": 6400
             }
           ]
         },

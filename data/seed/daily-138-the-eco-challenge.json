@@ -748,7 +748,7 @@
           ]
         },
         {
-          "text": "Jun stared at the vegetables and sighed, \"I usually eat fried chicken today.\"",
+          "text": "Jun stared at the vegetables and sighed, \"I usually eat fried chicken.\"",
           "translation_ko": "준은 채소를 바라보며 한숨을 쉬었어요. \"나 보통 오늘은 치킨 먹는데.\"",
           "audio": "/seed/daily-138-the-eco-challenge/audio/p5-s2.mp3",
           "wordTimings": [
@@ -757,91 +757,84 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 540
+              "endMs": 460
             },
             {
               "word": "stared",
               "charStart": 4,
               "charEnd": 10,
-              "startMs": 540,
-              "endMs": 900
+              "startMs": 460,
+              "endMs": 840
             },
             {
               "word": "at",
               "charStart": 11,
               "charEnd": 13,
-              "startMs": 900,
-              "endMs": 1060
+              "startMs": 840,
+              "endMs": 1020
             },
             {
               "word": "the",
               "charStart": 14,
               "charEnd": 17,
-              "startMs": 1060,
-              "endMs": 1280
+              "startMs": 1020,
+              "endMs": 1180
             },
             {
               "word": "vegetables",
               "charStart": 18,
               "charEnd": 28,
-              "startMs": 1280,
-              "endMs": 1580
+              "startMs": 1180,
+              "endMs": 1560
             },
             {
               "word": "and",
               "charStart": 29,
               "charEnd": 32,
-              "startMs": 1580,
-              "endMs": 2320
+              "startMs": 1560,
+              "endMs": 1940
             },
             {
               "word": "sighed",
               "charStart": 33,
               "charEnd": 39,
-              "startMs": 2320,
-              "endMs": 2420
+              "startMs": 1940,
+              "endMs": 2540
             },
             {
               "word": "I",
               "charStart": 42,
               "charEnd": 43,
-              "startMs": 3060,
-              "endMs": 3180
+              "startMs": 3040,
+              "endMs": 3160
             },
             {
               "word": "usually",
               "charStart": 44,
               "charEnd": 51,
-              "startMs": 3180,
-              "endMs": 3480
+              "startMs": 3160,
+              "endMs": 3520
             },
             {
               "word": "eat",
               "charStart": 52,
               "charEnd": 55,
-              "startMs": 3480,
-              "endMs": 3800
+              "startMs": 3520,
+              "endMs": 3840
             },
             {
               "word": "fried",
               "charStart": 56,
               "charEnd": 61,
-              "startMs": 3800,
-              "endMs": 4040
+              "startMs": 3840,
+              "endMs": 4160
             },
             {
               "word": "chicken",
               "charStart": 62,
               "charEnd": 69,
-              "startMs": 4040,
-              "endMs": 4340
-            },
-            {
-              "word": "today",
-              "charStart": 70,
-              "charEnd": 75,
-              "startMs": 4340,
-              "endMs": 4760
+              "startMs": 4160,
+              "endMs": 4480
             }
           ]
         },

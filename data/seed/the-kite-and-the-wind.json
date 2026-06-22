@@ -926,7 +926,7 @@
           ]
         },
         {
-          "text": "Now Kira flies free, and never alone.",
+          "text": "Now Kira flies free, and is never alone.",
           "translation_ko": "이제 키라는 자유롭게, 그리고 결코 혼자가 아닌 채로 날아요.",
           "audio": "/seed/the-kite-and-the-wind/audio/p8-s2.mp3",
           "wordTimings": [
@@ -935,49 +935,56 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 480
+              "endMs": 580
             },
             {
               "word": "Kira",
               "charStart": 4,
               "charEnd": 8,
-              "startMs": 780,
-              "endMs": 1000
+              "startMs": 680,
+              "endMs": 940
             },
             {
               "word": "flies",
               "charStart": 9,
               "charEnd": 14,
-              "startMs": 1000,
-              "endMs": 1440
+              "startMs": 940,
+              "endMs": 1400
             },
             {
               "word": "free",
               "charStart": 15,
               "charEnd": 19,
-              "startMs": 1440,
-              "endMs": 1820
+              "startMs": 1400,
+              "endMs": 1780
             },
             {
               "word": "and",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 2020,
-              "endMs": 2540
+              "startMs": 1780,
+              "endMs": 2220
+            },
+            {
+              "word": "is",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2220,
+              "endMs": 2460
             },
             {
               "word": "never",
-              "charStart": 25,
-              "charEnd": 30,
-              "startMs": 2540,
-              "endMs": 2760
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2460,
+              "endMs": 2700
             },
             {
               "word": "alone",
-              "charStart": 31,
-              "charEnd": 36,
-              "startMs": 2760,
-              "endMs": 3140
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2700,
+              "endMs": 3120
             }
           ]
         }

@@ -1422,7 +1422,7 @@
     {
       "sentences": [
         {
-          "text": "Mina read the school news, but she lost her place on the script.",
+          "text": "Mina read the school news, but she lost her place in the script.",
           "translation_ko": "미나가 학교 소식을 읽다가 대본에서 읽던 곳을 잃어버렸습니다.",
           "audio": "/seed/daily-134-the-school-radio/audio/p9-s1.mp3",
           "wordTimings": [
@@ -1431,91 +1431,91 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 380
+              "endMs": 460
             },
             {
               "word": "read",
               "charStart": 5,
               "charEnd": 9,
-              "startMs": 380,
-              "endMs": 700
+              "startMs": 460,
+              "endMs": 1000
             },
             {
               "word": "the",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 700,
-              "endMs": 940
+              "startMs": 1000,
+              "endMs": 1240
             },
             {
               "word": "school",
               "charStart": 14,
               "charEnd": 20,
-              "startMs": 940,
-              "endMs": 1180
+              "startMs": 1240,
+              "endMs": 1500
             },
             {
               "word": "news",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1180,
-              "endMs": 1500
+              "startMs": 1500,
+              "endMs": 1880
             },
             {
               "word": "but",
               "charStart": 27,
               "charEnd": 30,
-              "startMs": 1960,
-              "endMs": 2100
+              "startMs": 2140,
+              "endMs": 2280
             },
             {
               "word": "she",
               "charStart": 31,
               "charEnd": 34,
-              "startMs": 2100,
-              "endMs": 2360
+              "startMs": 2280,
+              "endMs": 2500
             },
             {
               "word": "lost",
               "charStart": 35,
               "charEnd": 39,
-              "startMs": 2360,
-              "endMs": 2560
+              "startMs": 2500,
+              "endMs": 2720
             },
             {
               "word": "her",
               "charStart": 40,
               "charEnd": 43,
-              "startMs": 2560,
-              "endMs": 2760
+              "startMs": 2720,
+              "endMs": 2920
             },
             {
               "word": "place",
               "charStart": 44,
               "charEnd": 49,
-              "startMs": 2760,
-              "endMs": 3000
+              "startMs": 2920,
+              "endMs": 3200
             },
             {
-              "word": "on",
+              "word": "in",
               "charStart": 50,
               "charEnd": 52,
-              "startMs": 3000,
-              "endMs": 3180
+              "startMs": 3200,
+              "endMs": 3320
             },
             {
               "word": "the",
               "charStart": 53,
               "charEnd": 56,
-              "startMs": 3180,
-              "endMs": 3340
+              "startMs": 3320,
+              "endMs": 3500
             },
             {
               "word": "script",
               "charStart": 57,
               "charEnd": 63,
-              "startMs": 3340,
-              "endMs": 3560
+              "startMs": 3500,
+              "endMs": 3760
             }
           ]
         },

@@ -716,7 +716,7 @@
           ]
         },
         {
-          "text": "I ask her when students can use it and how many books are there.",
+          "text": "I ask her when students can use it and how many books there are.",
           "translation_ko": "학생들이 언제 이용할 수 있는지, 책이 몇 권 있는지 여쭤봐요.",
           "audio": "/seed/daily-35-the-school-news-team/audio/p4-s2.mp3",
           "wordTimings": [
@@ -725,98 +725,98 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 480
             },
             {
               "word": "ask",
               "charStart": 2,
               "charEnd": 5,
-              "startMs": 240,
-              "endMs": 600
+              "startMs": 480,
+              "endMs": 800
             },
             {
               "word": "her",
               "charStart": 6,
               "charEnd": 9,
-              "startMs": 600,
-              "endMs": 840
+              "startMs": 800,
+              "endMs": 960
             },
             {
               "word": "when",
               "charStart": 10,
               "charEnd": 14,
-              "startMs": 840,
-              "endMs": 1360
+              "startMs": 960,
+              "endMs": 1280
             },
             {
               "word": "students",
               "charStart": 15,
               "charEnd": 23,
-              "startMs": 1360,
-              "endMs": 1720
+              "startMs": 1280,
+              "endMs": 1620
             },
             {
               "word": "can",
               "charStart": 24,
               "charEnd": 27,
-              "startMs": 1720,
-              "endMs": 2020
+              "startMs": 1620,
+              "endMs": 1920
             },
             {
               "word": "use",
               "charStart": 28,
               "charEnd": 31,
-              "startMs": 2020,
-              "endMs": 2180
+              "startMs": 1920,
+              "endMs": 2120
             },
             {
               "word": "it",
               "charStart": 32,
               "charEnd": 34,
-              "startMs": 2180,
-              "endMs": 2360
+              "startMs": 2120,
+              "endMs": 2280
             },
             {
               "word": "and",
               "charStart": 35,
               "charEnd": 38,
-              "startMs": 2360,
-              "endMs": 2820
+              "startMs": 2280,
+              "endMs": 2760
             },
             {
               "word": "how",
               "charStart": 39,
               "charEnd": 42,
-              "startMs": 2820,
-              "endMs": 3020
+              "startMs": 2760,
+              "endMs": 2960
             },
             {
               "word": "many",
               "charStart": 43,
               "charEnd": 47,
-              "startMs": 3020,
-              "endMs": 3240
+              "startMs": 2960,
+              "endMs": 3160
             },
             {
               "word": "books",
               "charStart": 48,
               "charEnd": 53,
-              "startMs": 3240,
-              "endMs": 3440
-            },
-            {
-              "word": "are",
-              "charStart": 54,
-              "charEnd": 57,
-              "startMs": 3440,
-              "endMs": 3620
+              "startMs": 3160,
+              "endMs": 3340
             },
             {
               "word": "there",
-              "charStart": 58,
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3340,
+              "endMs": 3600
+            },
+            {
+              "word": "are",
+              "charStart": 60,
               "charEnd": 63,
-              "startMs": 3620,
-              "endMs": 3800
+              "startMs": 3600,
+              "endMs": 3760
             }
           ]
         },

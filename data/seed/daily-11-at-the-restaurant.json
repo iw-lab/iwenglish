@@ -2073,7 +2073,7 @@
     {
       "sentences": [
         {
-          "text": "When the soup is too hot, I wait and blow gently.",
+          "text": "When the soup is too hot, I wait and blow on it gently.",
           "translation_ko": "수프가 너무 뜨거울 때 나는 기다리며 살짝 불어요.",
           "audio": "/seed/daily-11-at-the-restaurant/audio/p9-s1.mp3",
           "wordTimings": [
@@ -2082,13 +2082,13 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 260
             },
             {
               "word": "the",
               "charStart": 5,
               "charEnd": 8,
-              "startMs": 240,
+              "startMs": 260,
               "endMs": 520
             },
             {
@@ -2096,63 +2096,77 @@
               "charStart": 9,
               "charEnd": 13,
               "startMs": 520,
-              "endMs": 780
+              "endMs": 700
             },
             {
               "word": "is",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 780,
-              "endMs": 1100
+              "startMs": 700,
+              "endMs": 960
             },
             {
               "word": "too",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1100,
-              "endMs": 1400
+              "startMs": 960,
+              "endMs": 1240
             },
             {
               "word": "hot",
               "charStart": 21,
               "charEnd": 24,
-              "startMs": 1400,
-              "endMs": 1720
+              "startMs": 1240,
+              "endMs": 1540
             },
             {
               "word": "I",
               "charStart": 26,
               "charEnd": 27,
-              "startMs": 2180,
-              "endMs": 2360
+              "startMs": 1960,
+              "endMs": 2080
             },
             {
               "word": "wait",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 2360,
-              "endMs": 2660
+              "startMs": 2080,
+              "endMs": 2340
             },
             {
               "word": "and",
               "charStart": 33,
               "charEnd": 36,
-              "startMs": 2660,
-              "endMs": 3260
+              "startMs": 2340,
+              "endMs": 2780
             },
             {
               "word": "blow",
               "charStart": 37,
               "charEnd": 41,
-              "startMs": 3260,
-              "endMs": 3500
+              "startMs": 2780,
+              "endMs": 3000
+            },
+            {
+              "word": "on",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 3000,
+              "endMs": 3180
+            },
+            {
+              "word": "it",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3180,
+              "endMs": 3360
             },
             {
               "word": "gently",
-              "charStart": 42,
-              "charEnd": 48,
-              "startMs": 3500,
-              "endMs": 3920
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 3360,
+              "endMs": 3600
             }
           ]
         },

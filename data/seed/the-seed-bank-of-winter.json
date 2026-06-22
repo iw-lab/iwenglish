@@ -181,7 +181,7 @@
     {
       "sentences": [
         {
-          "text": "My teacher worried that spring would arrive to empty packets and forgotten names. She unlocked the village hall and spread brown paper across the tables.",
+          "text": "My teacher worried that spring would arrive to find empty packets and forgotten names. She unlocked the village hall and spread brown paper across the tables.",
           "translation_ko": "선생님은 봄이 빈 봉투와 잊힌 이름들 앞에 올까 봐 걱정하셨어요. 선생님은 마을 회관 문을 열고 탁자 위에 갈색 종이를 펼쳤어요.",
           "audio": "/seed/the-seed-bank-of-winter/audio/p2-s1.mp3",
           "wordTimings": [
@@ -190,175 +190,182 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 280
             },
             {
               "word": "teacher",
               "charStart": 3,
               "charEnd": 10,
-              "startMs": 240,
-              "endMs": 580
+              "startMs": 280,
+              "endMs": 640
             },
             {
               "word": "worried",
               "charStart": 11,
               "charEnd": 18,
-              "startMs": 580,
-              "endMs": 1000
+              "startMs": 640,
+              "endMs": 1060
             },
             {
               "word": "that",
               "charStart": 19,
               "charEnd": 23,
-              "startMs": 1000,
-              "endMs": 1340
+              "startMs": 1060,
+              "endMs": 1420
             },
             {
               "word": "spring",
               "charStart": 24,
               "charEnd": 30,
-              "startMs": 1340,
-              "endMs": 1560
+              "startMs": 1420,
+              "endMs": 1620
             },
             {
               "word": "would",
               "charStart": 31,
               "charEnd": 36,
-              "startMs": 1560,
-              "endMs": 1780
+              "startMs": 1620,
+              "endMs": 1860
             },
             {
               "word": "arrive",
               "charStart": 37,
               "charEnd": 43,
-              "startMs": 1780,
-              "endMs": 2060
+              "startMs": 1860,
+              "endMs": 2140
             },
             {
               "word": "to",
               "charStart": 44,
               "charEnd": 46,
-              "startMs": 2060,
-              "endMs": 2380
+              "startMs": 2140,
+              "endMs": 2360
+            },
+            {
+              "word": "find",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2360,
+              "endMs": 2540
             },
             {
               "word": "empty",
-              "charStart": 47,
-              "charEnd": 52,
-              "startMs": 2380,
-              "endMs": 2620
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 2540,
+              "endMs": 2920
             },
             {
               "word": "packets",
-              "charStart": 53,
-              "charEnd": 60,
-              "startMs": 2620,
-              "endMs": 3020
-            },
-            {
-              "word": "and",
-              "charStart": 61,
-              "charEnd": 64,
-              "startMs": 3020,
+              "charStart": 58,
+              "charEnd": 65,
+              "startMs": 2920,
               "endMs": 3280
             },
             {
-              "word": "forgotten",
-              "charStart": 65,
-              "charEnd": 74,
+              "word": "and",
+              "charStart": 66,
+              "charEnd": 69,
               "startMs": 3280,
-              "endMs": 3680
+              "endMs": 3600
+            },
+            {
+              "word": "forgotten",
+              "charStart": 70,
+              "charEnd": 79,
+              "startMs": 3600,
+              "endMs": 3920
             },
             {
               "word": "names",
-              "charStart": 75,
-              "charEnd": 80,
-              "startMs": 3680,
-              "endMs": 4100
+              "charStart": 80,
+              "charEnd": 85,
+              "startMs": 3920,
+              "endMs": 4260
             },
             {
               "word": "She",
-              "charStart": 82,
-              "charEnd": 85,
-              "startMs": 4640,
-              "endMs": 4800
+              "charStart": 87,
+              "charEnd": 90,
+              "startMs": 4940,
+              "endMs": 5060
             },
             {
               "word": "unlocked",
-              "charStart": 86,
-              "charEnd": 94,
-              "startMs": 4800,
-              "endMs": 5160
+              "charStart": 91,
+              "charEnd": 99,
+              "startMs": 5060,
+              "endMs": 5400
             },
             {
               "word": "the",
-              "charStart": 95,
-              "charEnd": 98,
-              "startMs": 5160,
-              "endMs": 5440
-            },
-            {
-              "word": "village",
-              "charStart": 99,
-              "charEnd": 106,
-              "startMs": 5440,
+              "charStart": 100,
+              "charEnd": 103,
+              "startMs": 5400,
               "endMs": 5640
             },
             {
-              "word": "hall",
-              "charStart": 107,
+              "word": "village",
+              "charStart": 104,
               "charEnd": 111,
               "startMs": 5640,
-              "endMs": 5980
+              "endMs": 5820
+            },
+            {
+              "word": "hall",
+              "charStart": 112,
+              "charEnd": 116,
+              "startMs": 5820,
+              "endMs": 6140
             },
             {
               "word": "and",
-              "charStart": 112,
-              "charEnd": 115,
-              "startMs": 5980,
-              "endMs": 6520
+              "charStart": 117,
+              "charEnd": 120,
+              "startMs": 6140,
+              "endMs": 6440
             },
             {
               "word": "spread",
-              "charStart": 116,
-              "charEnd": 122,
-              "startMs": 6520,
-              "endMs": 6760
+              "charStart": 121,
+              "charEnd": 127,
+              "startMs": 6440,
+              "endMs": 6640
             },
             {
               "word": "brown",
-              "charStart": 123,
-              "charEnd": 128,
-              "startMs": 6760,
-              "endMs": 7160
+              "charStart": 128,
+              "charEnd": 133,
+              "startMs": 6640,
+              "endMs": 7000
             },
             {
               "word": "paper",
-              "charStart": 129,
-              "charEnd": 134,
-              "startMs": 7160,
-              "endMs": 7480
+              "charStart": 134,
+              "charEnd": 139,
+              "startMs": 7000,
+              "endMs": 7300
             },
             {
               "word": "across",
-              "charStart": 135,
-              "charEnd": 141,
-              "startMs": 7480,
-              "endMs": 7820
+              "charStart": 140,
+              "charEnd": 146,
+              "startMs": 7300,
+              "endMs": 7640
             },
             {
               "word": "the",
-              "charStart": 142,
-              "charEnd": 145,
-              "startMs": 7820,
-              "endMs": 8080
+              "charStart": 147,
+              "charEnd": 150,
+              "startMs": 7640,
+              "endMs": 8140
             },
             {
               "word": "tables",
-              "charStart": 146,
-              "charEnd": 152,
-              "startMs": 8080,
-              "endMs": 8320
+              "charStart": 151,
+              "charEnd": 157,
+              "startMs": 8140,
+              "endMs": 8140
             }
           ]
         }
@@ -1708,7 +1715,7 @@
     {
       "sentences": [
         {
-          "text": "The first green shoots felt like replies to letters we had written all winter. Every sprout said, We kept the future safe.",
+          "text": "The first green shoots felt like replies to letters we had written all winter. Every sprout said, \"We kept the future safe.\"",
           "translation_ko": "첫 초록 싹들은 겨울 내내 우리가 쓴 편지에 대한 답장처럼 느껴졌어요. 싹마다 우리가 미래를 지켰다고 말하는 듯했어요.",
           "audio": "/seed/the-seed-bank-of-winter/audio/p11-s1.mp3",
           "wordTimings": [
@@ -1717,154 +1724,154 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 240
+              "endMs": 200
             },
             {
               "word": "first",
               "charStart": 4,
               "charEnd": 9,
-              "startMs": 240,
-              "endMs": 820
+              "startMs": 200,
+              "endMs": 560
             },
             {
               "word": "green",
               "charStart": 10,
               "charEnd": 15,
-              "startMs": 820,
-              "endMs": 1600
+              "startMs": 560,
+              "endMs": 960
             },
             {
               "word": "shoots",
               "charStart": 16,
               "charEnd": 22,
-              "startMs": 1600,
-              "endMs": 1980
+              "startMs": 960,
+              "endMs": 1320
             },
             {
               "word": "felt",
               "charStart": 23,
               "charEnd": 27,
-              "startMs": 1980,
-              "endMs": 2740
+              "startMs": 1320,
+              "endMs": 1600
             },
             {
               "word": "like",
               "charStart": 28,
               "charEnd": 32,
-              "startMs": 2740,
-              "endMs": 3060
+              "startMs": 1600,
+              "endMs": 1900
             },
             {
               "word": "replies",
               "charStart": 33,
               "charEnd": 40,
-              "startMs": 3060,
-              "endMs": 3420
+              "startMs": 1900,
+              "endMs": 2280
             },
             {
               "word": "to",
               "charStart": 41,
               "charEnd": 43,
-              "startMs": 3420,
-              "endMs": 3740
+              "startMs": 2280,
+              "endMs": 2540
             },
             {
               "word": "letters",
               "charStart": 44,
               "charEnd": 51,
-              "startMs": 3740,
-              "endMs": 3900
+              "startMs": 2540,
+              "endMs": 2760
             },
             {
               "word": "we",
               "charStart": 52,
               "charEnd": 54,
-              "startMs": 3900,
-              "endMs": 4160
+              "startMs": 2760,
+              "endMs": 2980
             },
             {
               "word": "had",
               "charStart": 55,
               "charEnd": 58,
-              "startMs": 4160,
-              "endMs": 4380
+              "startMs": 2980,
+              "endMs": 3160
             },
             {
               "word": "written",
               "charStart": 59,
               "charEnd": 66,
-              "startMs": 4380,
-              "endMs": 4520
+              "startMs": 3160,
+              "endMs": 3340
             },
             {
               "word": "all",
               "charStart": 67,
               "charEnd": 70,
-              "startMs": 4520,
-              "endMs": 5020
+              "startMs": 3340,
+              "endMs": 3680
             },
             {
               "word": "winter",
               "charStart": 71,
               "charEnd": 77,
-              "startMs": 5020,
-              "endMs": 5660
+              "startMs": 3680,
+              "endMs": 4020
             },
             {
               "word": "Every",
               "charStart": 79,
               "charEnd": 84,
-              "startMs": 6340,
-              "endMs": 6600
+              "startMs": 4660,
+              "endMs": 4900
             },
             {
               "word": "sprout",
               "charStart": 85,
               "charEnd": 91,
-              "startMs": 6600,
-              "endMs": 6880
+              "startMs": 4900,
+              "endMs": 5160
             },
             {
               "word": "said",
               "charStart": 92,
               "charEnd": 96,
-              "startMs": 6880,
-              "endMs": 7220
+              "startMs": 5160,
+              "endMs": 5500
             },
             {
               "word": "We",
-              "charStart": 98,
-              "charEnd": 100,
-              "startMs": 7920,
-              "endMs": 7920
+              "charStart": 99,
+              "charEnd": 101,
+              "startMs": 5800,
+              "endMs": 5920
             },
             {
               "word": "kept",
-              "charStart": 101,
-              "charEnd": 105,
-              "startMs": 7920,
-              "endMs": 8180
+              "charStart": 102,
+              "charEnd": 106,
+              "startMs": 5920,
+              "endMs": 6120
             },
             {
               "word": "the",
-              "charStart": 106,
-              "charEnd": 109,
-              "startMs": 8180,
-              "endMs": 8420
+              "charStart": 107,
+              "charEnd": 110,
+              "startMs": 6120,
+              "endMs": 6320
             },
             {
               "word": "future",
-              "charStart": 110,
-              "charEnd": 116,
-              "startMs": 8420,
-              "endMs": 8720
+              "charStart": 111,
+              "charEnd": 117,
+              "startMs": 6320,
+              "endMs": 6620
             },
             {
               "word": "safe",
-              "charStart": 117,
-              "charEnd": 121,
-              "startMs": 8720,
-              "endMs": 9120
+              "charStart": 118,
+              "charEnd": 122,
+              "startMs": 6620,
+              "endMs": 6980
             }
           ]
         }

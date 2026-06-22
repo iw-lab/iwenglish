@@ -182,7 +182,7 @@
     {
       "sentences": [
         {
-          "text": "Grandpa said, That is your shadow.",
+          "text": "Grandpa said, \"That is your shadow.\"",
           "translation_ko": "할아버지가 그건 네 그림자라고 말했어요.",
           "audio": "/seed/the-friendly-shadow/audio/p4-s1.mp3",
           "wordTimings": [
@@ -198,35 +198,35 @@
               "charStart": 8,
               "charEnd": 12,
               "startMs": 520,
-              "endMs": 960
+              "endMs": 900
             },
             {
               "word": "That",
-              "charStart": 14,
-              "charEnd": 18,
-              "startMs": 1100,
-              "endMs": 1580
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1440
             },
             {
               "word": "is",
-              "charStart": 19,
-              "charEnd": 21,
-              "startMs": 1580,
-              "endMs": 1760
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1580
             },
             {
               "word": "your",
-              "charStart": 22,
-              "charEnd": 26,
-              "startMs": 1760,
-              "endMs": 1980
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1780
             },
             {
               "word": "shadow",
-              "charStart": 27,
-              "charEnd": 33,
-              "startMs": 1980,
-              "endMs": 2280
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2060
             }
           ]
         }

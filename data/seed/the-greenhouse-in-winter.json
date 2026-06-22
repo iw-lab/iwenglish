@@ -1838,7 +1838,7 @@
           ]
         },
         {
-          "text": "Mina smiled, knowing that warmth and patience had grown it together.",
+          "text": "Mina smiled, knowing that warmth and patience had helped it grow.",
           "translation_ko": "미나는 따뜻함과 인내가 함께 그 꽃을 키워 냈음을 알고 미소 지었어요.",
           "audio": "/seed/the-greenhouse-in-winter/audio/p12-s2.mp3",
           "wordTimings": [
@@ -1860,35 +1860,35 @@
               "word": "knowing",
               "charStart": 13,
               "charEnd": 20,
-              "startMs": 1360,
-              "endMs": 1520
+              "startMs": 1480,
+              "endMs": 1620
             },
             {
               "word": "that",
               "charStart": 21,
               "charEnd": 25,
-              "startMs": 1520,
-              "endMs": 1800
+              "startMs": 1620,
+              "endMs": 1960
             },
             {
               "word": "warmth",
               "charStart": 26,
               "charEnd": 32,
-              "startMs": 1800,
-              "endMs": 2120
+              "startMs": 1960,
+              "endMs": 2220
             },
             {
               "word": "and",
               "charStart": 33,
               "charEnd": 36,
-              "startMs": 2120,
-              "endMs": 2420
+              "startMs": 2220,
+              "endMs": 2480
             },
             {
               "word": "patience",
               "charStart": 37,
               "charEnd": 45,
-              "startMs": 2420,
+              "startMs": 2480,
               "endMs": 2860
             },
             {
@@ -1899,25 +1899,25 @@
               "endMs": 3120
             },
             {
-              "word": "grown",
+              "word": "helped",
               "charStart": 50,
-              "charEnd": 55,
+              "charEnd": 56,
               "startMs": 3120,
-              "endMs": 3340
+              "endMs": 3360
             },
             {
               "word": "it",
-              "charStart": 56,
-              "charEnd": 58,
-              "startMs": 3340,
-              "endMs": 3600
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3360,
+              "endMs": 3580
             },
             {
-              "word": "together",
-              "charStart": 59,
-              "charEnd": 67,
-              "startMs": 3600,
-              "endMs": 3820
+              "word": "grow",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3580,
+              "endMs": 3800
             }
           ]
         }

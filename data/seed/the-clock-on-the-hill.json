@@ -9,7 +9,7 @@
     {
       "sentences": [
         {
-          "text": "The wooden clock on the hill had chimed for as long as I remembered.",
+          "text": "The wooden clock on the hill had chimed for as long as I could remember.",
           "translation_ko": "언덕 위 나무 시계는 내가 기억하는 한 오래도록 종을 울렸어요.",
           "audio": "/seed/the-clock-on-the-hill/audio/p1-s1.mp3",
           "wordTimings": [
@@ -39,27 +39,27 @@
               "charStart": 17,
               "charEnd": 19,
               "startMs": 900,
-              "endMs": 1100
+              "endMs": 1120
             },
             {
               "word": "the",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 1100,
-              "endMs": 1380
+              "startMs": 1120,
+              "endMs": 1280
             },
             {
               "word": "hill",
               "charStart": 24,
               "charEnd": 28,
-              "startMs": 1380,
-              "endMs": 1400
+              "startMs": 1280,
+              "endMs": 1440
             },
             {
               "word": "had",
               "charStart": 29,
               "charEnd": 32,
-              "startMs": 1400,
+              "startMs": 1440,
               "endMs": 1800
             },
             {
@@ -67,27 +67,27 @@
               "charStart": 33,
               "charEnd": 39,
               "startMs": 1800,
-              "endMs": 2120
+              "endMs": 2140
             },
             {
               "word": "for",
               "charStart": 40,
               "charEnd": 43,
-              "startMs": 2120,
-              "endMs": 2340
+              "startMs": 2140,
+              "endMs": 2320
             },
             {
               "word": "as",
               "charStart": 44,
               "charEnd": 46,
-              "startMs": 2340,
-              "endMs": 2720
+              "startMs": 2320,
+              "endMs": 2700
             },
             {
               "word": "long",
               "charStart": 47,
               "charEnd": 51,
-              "startMs": 2720,
+              "startMs": 2700,
               "endMs": 2720
             },
             {
@@ -95,21 +95,28 @@
               "charStart": 52,
               "charEnd": 54,
               "startMs": 2720,
-              "endMs": 2920
+              "endMs": 2880
             },
             {
               "word": "I",
               "charStart": 55,
               "charEnd": 56,
-              "startMs": 2920,
-              "endMs": 3080
+              "startMs": 2880,
+              "endMs": 3020
             },
             {
-              "word": "remembered",
+              "word": "could",
               "charStart": 57,
-              "charEnd": 67,
-              "startMs": 3080,
-              "endMs": 3420
+              "charEnd": 62,
+              "startMs": 3020,
+              "endMs": 3180
+            },
+            {
+              "word": "remember",
+              "charStart": 63,
+              "charEnd": 71,
+              "startMs": 3180,
+              "endMs": 3500
             }
           ]
         }

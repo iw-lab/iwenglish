@@ -1947,7 +1947,7 @@
           ]
         },
         {
-          "text": "The campfire smell and the bright stars are in my heart.",
+          "text": "The campfire smell and the bright stars will stay in my heart.",
           "translation_ko": "모닥불 냄새와 밝은 별들이 내 마음속에 있어요.",
           "audio": "/seed/daily-23-camping-by-the-lake/audio/p9-s2.mp3",
           "wordTimings": [
@@ -1956,77 +1956,84 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 500
             },
             {
               "word": "campfire",
               "charStart": 4,
               "charEnd": 12,
-              "startMs": 220,
-              "endMs": 720
+              "startMs": 500,
+              "endMs": 960
             },
             {
               "word": "smell",
               "charStart": 13,
               "charEnd": 18,
-              "startMs": 720,
-              "endMs": 1080
+              "startMs": 960,
+              "endMs": 1320
             },
             {
               "word": "and",
               "charStart": 19,
               "charEnd": 22,
-              "startMs": 1080,
-              "endMs": 1260
+              "startMs": 1320,
+              "endMs": 1740
             },
             {
               "word": "the",
               "charStart": 23,
               "charEnd": 26,
-              "startMs": 1260,
-              "endMs": 1560
+              "startMs": 1740,
+              "endMs": 2060
             },
             {
               "word": "bright",
               "charStart": 27,
               "charEnd": 33,
-              "startMs": 1560,
-              "endMs": 1660
+              "startMs": 2060,
+              "endMs": 2180
             },
             {
               "word": "stars",
               "charStart": 34,
               "charEnd": 39,
-              "startMs": 1660,
-              "endMs": 1980
+              "startMs": 2180,
+              "endMs": 2580
             },
             {
-              "word": "are",
+              "word": "will",
               "charStart": 40,
-              "charEnd": 43,
-              "startMs": 1980,
-              "endMs": 2240
+              "charEnd": 44,
+              "startMs": 2580,
+              "endMs": 3160
+            },
+            {
+              "word": "stay",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3160,
+              "endMs": 3320
             },
             {
               "word": "in",
-              "charStart": 44,
-              "charEnd": 46,
-              "startMs": 2240,
-              "endMs": 2360
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 3320,
+              "endMs": 3480
             },
             {
               "word": "my",
-              "charStart": 47,
-              "charEnd": 49,
-              "startMs": 2360,
-              "endMs": 2600
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3480,
+              "endMs": 3740
             },
             {
               "word": "heart",
-              "charStart": 50,
-              "charEnd": 55,
-              "startMs": 2600,
-              "endMs": 2800
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3740,
+              "endMs": 3920
             }
           ]
         },

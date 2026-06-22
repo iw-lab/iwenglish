@@ -115,7 +115,7 @@
     {
       "sentences": [
         {
-          "text": "The old tree said, Wait a little.",
+          "text": "The old tree said, \"Wait a little.\"",
           "translation_ko": "늙은 나무가 조금 기다리라고 말했어요.",
           "audio": "/seed/maple-learns-to-wait/audio/p3-s1.mp3",
           "wordTimings": [
@@ -131,42 +131,42 @@
               "charStart": 4,
               "charEnd": 7,
               "startMs": 200,
-              "endMs": 700
+              "endMs": 600
             },
             {
               "word": "tree",
               "charStart": 8,
               "charEnd": 12,
-              "startMs": 700,
-              "endMs": 1040
+              "startMs": 600,
+              "endMs": 900
             },
             {
               "word": "said",
               "charStart": 13,
               "charEnd": 17,
-              "startMs": 1040,
-              "endMs": 1460
+              "startMs": 900,
+              "endMs": 1300
             },
             {
               "word": "Wait",
-              "charStart": 19,
-              "charEnd": 23,
-              "startMs": 1580,
-              "endMs": 2080
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 2200
             },
             {
               "word": "a",
-              "charStart": 24,
-              "charEnd": 25,
-              "startMs": 2080,
-              "endMs": 2260
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 2200,
+              "endMs": 2360
             },
             {
               "word": "little",
-              "charStart": 26,
-              "charEnd": 32,
-              "startMs": 2260,
-              "endMs": 2400
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2360,
+              "endMs": 2500
             }
           ]
         }

@@ -277,7 +277,7 @@
     {
       "sentences": [
         {
-          "text": "Beaver said, Try the legs one at a time.",
+          "text": "Beaver said, \"Try the legs one at a time.\"",
           "translation_ko": "비버가 다리를 하나씩 맞춰 보라고 말했어요.",
           "audio": "/seed/bear-builds-a-chair/audio/p5-s1.mp3",
           "wordTimings": [
@@ -286,63 +286,63 @@
               "charStart": 0,
               "charEnd": 6,
               "startMs": 0,
-              "endMs": 640
+              "endMs": 560
             },
             {
               "word": "said",
               "charStart": 7,
               "charEnd": 11,
-              "startMs": 640,
-              "endMs": 1000
+              "startMs": 560,
+              "endMs": 900
             },
             {
               "word": "Try",
-              "charStart": 13,
-              "charEnd": 16,
-              "startMs": 1480,
-              "endMs": 1580
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1380
             },
             {
               "word": "the",
-              "charStart": 17,
-              "charEnd": 20,
-              "startMs": 1580,
-              "endMs": 1800
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1600
             },
             {
               "word": "legs",
-              "charStart": 21,
-              "charEnd": 25,
-              "startMs": 1800,
-              "endMs": 1980
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1600,
+              "endMs": 1820
             },
             {
               "word": "one",
-              "charStart": 26,
-              "charEnd": 29,
-              "startMs": 1980,
-              "endMs": 2280
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2140
             },
             {
               "word": "at",
-              "charStart": 30,
-              "charEnd": 32,
-              "startMs": 2280,
-              "endMs": 2420
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2280
             },
             {
               "word": "a",
-              "charStart": 33,
-              "charEnd": 34,
-              "startMs": 2420,
-              "endMs": 2740
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 2280,
+              "endMs": 2460
             },
             {
               "word": "time",
-              "charStart": 35,
-              "charEnd": 39,
-              "startMs": 2740,
-              "endMs": 2800
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2640
             }
           ]
         }

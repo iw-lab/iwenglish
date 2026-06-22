@@ -83,7 +83,7 @@
     {
       "sentences": [
         {
-          "text": "He puts in bread and apples.",
+          "text": "He puts bread and apples in the basket.",
           "translation_ko": "토끼는 빵과 사과를 담아요.",
           "audio": "/seed/rabbits-rainy-picnic/audio/p2-s1.mp3",
           "wordTimings": [
@@ -92,42 +92,56 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 660
+              "endMs": 560
             },
             {
               "word": "puts",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 660,
-              "endMs": 880
-            },
-            {
-              "word": "in",
-              "charStart": 8,
-              "charEnd": 10,
-              "startMs": 880,
-              "endMs": 1200
+              "startMs": 560,
+              "endMs": 800
             },
             {
               "word": "bread",
-              "charStart": 11,
-              "charEnd": 16,
-              "startMs": 1200,
-              "endMs": 1460
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1160
             },
             {
               "word": "and",
-              "charStart": 17,
-              "charEnd": 20,
-              "startMs": 1460,
-              "endMs": 2040
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1540
             },
             {
               "word": "apples",
-              "charStart": 21,
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "in",
+              "charStart": 25,
               "charEnd": 27,
-              "startMs": 2040,
-              "endMs": 2380
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2000,
+              "endMs": 2280
+            },
+            {
+              "word": "basket",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2420
             }
           ]
         },

@@ -393,7 +393,7 @@
     {
       "sentences": [
         {
-          "text": "We listened carefully and followed the water sound.",
+          "text": "We listened carefully and followed the sound of the water.",
           "translation_ko": "우리는 조심히 귀 기울이고 물소리를 따라갔어요.",
           "audio": "/seed/the-broken-compass/audio/p6-s1.mp3",
           "wordTimings": [
@@ -402,56 +402,70 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 260
+              "endMs": 300
             },
             {
               "word": "listened",
               "charStart": 3,
               "charEnd": 11,
-              "startMs": 260,
-              "endMs": 580
+              "startMs": 300,
+              "endMs": 660
             },
             {
               "word": "carefully",
               "charStart": 12,
               "charEnd": 21,
-              "startMs": 580,
-              "endMs": 1080
+              "startMs": 660,
+              "endMs": 1200
             },
             {
               "word": "and",
               "charStart": 22,
               "charEnd": 25,
-              "startMs": 1080,
-              "endMs": 1560
+              "startMs": 1200,
+              "endMs": 1780
             },
             {
               "word": "followed",
               "charStart": 26,
               "charEnd": 34,
-              "startMs": 1560,
-              "endMs": 1720
+              "startMs": 1780,
+              "endMs": 1980
             },
             {
               "word": "the",
               "charStart": 35,
               "charEnd": 38,
-              "startMs": 1720,
-              "endMs": 1980
-            },
-            {
-              "word": "water",
-              "charStart": 39,
-              "charEnd": 44,
               "startMs": 1980,
-              "endMs": 2180
+              "endMs": 2260
             },
             {
               "word": "sound",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2260,
+              "endMs": 2540
+            },
+            {
+              "word": "of",
               "charStart": 45,
-              "charEnd": 50,
-              "startMs": 2180,
-              "endMs": 2560
+              "charEnd": 47,
+              "startMs": 2540,
+              "endMs": 2720
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2720,
+              "endMs": 2840
+            },
+            {
+              "word": "water",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 2840,
+              "endMs": 3040
             }
           ]
         }

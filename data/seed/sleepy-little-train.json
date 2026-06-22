@@ -94,7 +94,7 @@
     {
       "sentences": [
         {
-          "text": "It passes one block house.",
+          "text": "It passes one toy house.",
           "translation_ko": "블록 집 하나를 지나가요.",
           "audio": "/seed/sleepy-little-train/audio/p3-s1.mp3",
           "wordTimings": [
@@ -103,35 +103,35 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 760
+              "endMs": 300
             },
             {
               "word": "passes",
               "charStart": 3,
               "charEnd": 9,
-              "startMs": 760,
-              "endMs": 1080
+              "startMs": 300,
+              "endMs": 760
             },
             {
               "word": "one",
               "charStart": 10,
               "charEnd": 13,
-              "startMs": 1080,
-              "endMs": 1700
+              "startMs": 760,
+              "endMs": 1460
             },
             {
-              "word": "block",
+              "word": "toy",
               "charStart": 14,
-              "charEnd": 19,
-              "startMs": 1700,
-              "endMs": 1960
+              "charEnd": 17,
+              "startMs": 1460,
+              "endMs": 1720
             },
             {
               "word": "house",
-              "charStart": 20,
-              "charEnd": 25,
-              "startMs": 1960,
-              "endMs": 2300
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1720,
+              "endMs": 2100
             }
           ]
         }

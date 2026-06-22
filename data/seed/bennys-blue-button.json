@@ -207,7 +207,7 @@
     {
       "sentences": [
         {
-          "text": "A pocket says, Come in.",
+          "text": "A pocket says, \"Come in.\"",
           "translation_ko": "주머니가 들어오라고 말해요.",
           "audio": "/seed/bennys-blue-button/audio/p5-s1.mp3",
           "wordTimings": [
@@ -216,35 +216,35 @@
               "charStart": 0,
               "charEnd": 1,
               "startMs": 0,
-              "endMs": 220
+              "endMs": 240
             },
             {
               "word": "pocket",
               "charStart": 2,
               "charEnd": 8,
-              "startMs": 220,
-              "endMs": 500
+              "startMs": 240,
+              "endMs": 520
             },
             {
               "word": "says",
               "charStart": 9,
               "charEnd": 13,
-              "startMs": 500,
-              "endMs": 1040
+              "startMs": 520,
+              "endMs": 1180
             },
             {
               "word": "Come",
-              "charStart": 15,
-              "charEnd": 19,
-              "startMs": 1180,
-              "endMs": 1420
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1360,
+              "endMs": 1580
             },
             {
               "word": "in",
-              "charStart": 20,
-              "charEnd": 22,
-              "startMs": 1420,
-              "endMs": 1660
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1580,
+              "endMs": 1840
             }
           ]
         }

@@ -2369,7 +2369,7 @@
           ]
         },
         {
-          "text": "Listening to others was just as important as your own words.",
+          "text": "Listening to others was just as important as his own words.",
           "translation_ko": "상대방 이야기를 듣는 것이 자신의 말만큼 중요했어요.",
           "audio": "/seed/daily-143-the-debate-day/audio/p13-s2.mp3",
           "wordTimings": [
@@ -2378,77 +2378,77 @@
               "charStart": 0,
               "charEnd": 9,
               "startMs": 0,
-              "endMs": 400
+              "endMs": 420
             },
             {
               "word": "to",
               "charStart": 10,
               "charEnd": 12,
-              "startMs": 400,
-              "endMs": 720
+              "startMs": 420,
+              "endMs": 700
             },
             {
               "word": "others",
               "charStart": 13,
               "charEnd": 19,
-              "startMs": 720,
-              "endMs": 960
+              "startMs": 700,
+              "endMs": 920
             },
             {
               "word": "was",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 960,
-              "endMs": 1220
+              "startMs": 920,
+              "endMs": 1180
             },
             {
               "word": "just",
               "charStart": 24,
               "charEnd": 28,
-              "startMs": 1220,
-              "endMs": 1580
+              "startMs": 1180,
+              "endMs": 1480
             },
             {
               "word": "as",
               "charStart": 29,
               "charEnd": 31,
-              "startMs": 1580,
-              "endMs": 1860
+              "startMs": 1480,
+              "endMs": 1900
             },
             {
               "word": "important",
               "charStart": 32,
               "charEnd": 41,
-              "startMs": 1860,
-              "endMs": 2140
+              "startMs": 1900,
+              "endMs": 2080
             },
             {
               "word": "as",
               "charStart": 42,
               "charEnd": 44,
-              "startMs": 2140,
-              "endMs": 2420
+              "startMs": 2080,
+              "endMs": 2380
             },
             {
-              "word": "your",
+              "word": "his",
               "charStart": 45,
-              "charEnd": 49,
-              "startMs": 2420,
-              "endMs": 2600
+              "charEnd": 48,
+              "startMs": 2380,
+              "endMs": 2560
             },
             {
               "word": "own",
-              "charStart": 50,
-              "charEnd": 53,
-              "startMs": 2600,
-              "endMs": 2840
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2560,
+              "endMs": 2860
             },
             {
               "word": "words",
-              "charStart": 54,
-              "charEnd": 59,
-              "startMs": 2840,
-              "endMs": 3020
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 2860,
+              "endMs": 3120
             }
           ]
         },

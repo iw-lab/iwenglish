@@ -327,7 +327,7 @@
           ]
         },
         {
-          "text": "Jun watched closely when ants carried crumbs together.",
+          "text": "Jun watched closely as the ants carried crumbs together.",
           "translation_ko": "개미들이 함께 빵 부스러기를 나를 때 준은 가까이서 지켜봤어요.",
           "audio": "/seed/daily-94-the-ant-farm/audio/p3-s2.mp3",
           "wordTimings": [
@@ -336,56 +336,63 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 460
+              "endMs": 440
             },
             {
               "word": "watched",
               "charStart": 4,
               "charEnd": 11,
-              "startMs": 460,
-              "endMs": 820
+              "startMs": 440,
+              "endMs": 840
             },
             {
               "word": "closely",
               "charStart": 12,
               "charEnd": 19,
-              "startMs": 820,
-              "endMs": 1260
+              "startMs": 840,
+              "endMs": 1360
             },
             {
-              "word": "when",
+              "word": "as",
               "charStart": 20,
-              "charEnd": 24,
-              "startMs": 1260,
-              "endMs": 1540
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1940,
+              "endMs": 2100
             },
             {
               "word": "ants",
-              "charStart": 25,
-              "charEnd": 29,
-              "startMs": 1540,
-              "endMs": 1860
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2100,
+              "endMs": 2340
             },
             {
               "word": "carried",
-              "charStart": 30,
-              "charEnd": 37,
-              "startMs": 1860,
-              "endMs": 2200
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2340,
+              "endMs": 2700
             },
             {
               "word": "crumbs",
-              "charStart": 38,
-              "charEnd": 44,
-              "startMs": 2200,
-              "endMs": 2540
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2700,
+              "endMs": 3040
             },
             {
               "word": "together",
-              "charStart": 45,
-              "charEnd": 53,
-              "startMs": 2540,
-              "endMs": 2920
+              "charStart": 47,
+              "charEnd": 55,
+              "startMs": 3040,
+              "endMs": 3460
             }
           ]
         }
@@ -394,7 +401,7 @@
     {
       "sentences": [
         {
-          "text": "\"That ant carries something bigger than its body!\" said Jun.",
+          "text": "\"That ant is carrying something bigger than its body!\" said Jun.",
           "translation_ko": "\"저 개미, 자기 몸보다 큰 걸 들고 있어요!\" 준이 외쳤어요.",
           "audio": "/seed/daily-94-the-ant-farm/audio/p4-s1.mp3",
           "wordTimings": [
@@ -403,70 +410,77 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 700
+              "endMs": 380
             },
             {
               "word": "ant",
               "charStart": 6,
               "charEnd": 9,
-              "startMs": 700,
-              "endMs": 1060
+              "startMs": 380,
+              "endMs": 760
             },
             {
-              "word": "carries",
+              "word": "is",
               "charStart": 10,
-              "charEnd": 17,
-              "startMs": 1060,
-              "endMs": 1400
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "carrying",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1360
             },
             {
               "word": "something",
-              "charStart": 18,
-              "charEnd": 27,
-              "startMs": 1400,
-              "endMs": 1800
+              "charStart": 22,
+              "charEnd": 31,
+              "startMs": 1360,
+              "endMs": 1900
             },
             {
               "word": "bigger",
-              "charStart": 28,
-              "charEnd": 34,
-              "startMs": 1800,
-              "endMs": 2100
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1900,
+              "endMs": 2280
             },
             {
               "word": "than",
-              "charStart": 35,
-              "charEnd": 39,
-              "startMs": 2100,
-              "endMs": 2260
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2480
             },
             {
               "word": "its",
-              "charStart": 40,
-              "charEnd": 43,
-              "startMs": 2260,
-              "endMs": 2460
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2480,
+              "endMs": 2720
             },
             {
               "word": "body",
-              "charStart": 44,
-              "charEnd": 48,
-              "startMs": 2460,
-              "endMs": 3380
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2720,
+              "endMs": 3560
             },
             {
               "word": "said",
-              "charStart": 51,
-              "charEnd": 55,
-              "startMs": 3380,
-              "endMs": 3500
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3560,
+              "endMs": 3700
             },
             {
               "word": "Jun",
-              "charStart": 56,
-              "charEnd": 59,
-              "startMs": 3500,
-              "endMs": 3780
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3700,
+              "endMs": 3980
             }
           ]
         },
@@ -531,7 +545,7 @@
     {
       "sentences": [
         {
-          "text": "Jun saw one ant always walk in front.",
+          "text": "Jun saw one ant always walking in front of the others.",
           "translation_ko": "준은 한 개미가 항상 앞장서서 걷는다는 걸 알아챘어요.",
           "audio": "/seed/daily-94-the-ant-farm/audio/p5-s1.mp3",
           "wordTimings": [
@@ -540,56 +554,77 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 500
+              "endMs": 460
             },
             {
               "word": "saw",
               "charStart": 4,
               "charEnd": 7,
-              "startMs": 500,
-              "endMs": 880
+              "startMs": 460,
+              "endMs": 860
             },
             {
               "word": "one",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 880,
-              "endMs": 1140
+              "startMs": 860,
+              "endMs": 1220
             },
             {
               "word": "ant",
               "charStart": 12,
               "charEnd": 15,
-              "startMs": 1140,
-              "endMs": 1440
+              "startMs": 1220,
+              "endMs": 1540
             },
             {
               "word": "always",
               "charStart": 16,
               "charEnd": 22,
-              "startMs": 1440,
-              "endMs": 2000
+              "startMs": 1540,
+              "endMs": 2120
             },
             {
-              "word": "walk",
+              "word": "walking",
               "charStart": 23,
-              "charEnd": 27,
-              "startMs": 2000,
-              "endMs": 2300
+              "charEnd": 30,
+              "startMs": 2120,
+              "endMs": 2440
             },
             {
               "word": "in",
-              "charStart": 28,
-              "charEnd": 30,
-              "startMs": 2300,
-              "endMs": 2580
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2440,
+              "endMs": 2700
             },
             {
               "word": "front",
-              "charStart": 31,
-              "charEnd": 36,
-              "startMs": 2580,
-              "endMs": 2640
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2700,
+              "endMs": 2780
+            },
+            {
+              "word": "of",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2980,
+              "endMs": 3160
+            },
+            {
+              "word": "others",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3160,
+              "endMs": 3360
             }
           ]
         },

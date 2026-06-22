@@ -451,7 +451,7 @@
     {
       "sentences": [
         {
-          "text": "The hat lands on a tree.",
+          "text": "The hat lands in a tree.",
           "translation_ko": "모자가 나무 위에 걸렸어요.",
           "audio": "/seed/daily-81-the-windy-day/audio/p6-s1.mp3",
           "wordTimings": [
@@ -460,42 +460,42 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 200
+              "endMs": 280
             },
             {
               "word": "hat",
               "charStart": 4,
               "charEnd": 7,
-              "startMs": 200,
-              "endMs": 520
+              "startMs": 280,
+              "endMs": 580
             },
             {
               "word": "lands",
               "charStart": 8,
               "charEnd": 13,
-              "startMs": 520,
-              "endMs": 860
+              "startMs": 580,
+              "endMs": 900
             },
             {
-              "word": "on",
+              "word": "in",
               "charStart": 14,
               "charEnd": 16,
-              "startMs": 860,
-              "endMs": 1100
+              "startMs": 900,
+              "endMs": 1060
             },
             {
               "word": "a",
               "charStart": 17,
               "charEnd": 18,
-              "startMs": 1100,
-              "endMs": 1260
+              "startMs": 1060,
+              "endMs": 1200
             },
             {
               "word": "tree",
               "charStart": 19,
               "charEnd": 23,
-              "startMs": 1260,
-              "endMs": 1460
+              "startMs": 1200,
+              "endMs": 1380
             }
           ]
         },

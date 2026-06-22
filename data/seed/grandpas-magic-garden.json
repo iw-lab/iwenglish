@@ -687,72 +687,86 @@
           ]
         },
         {
-          "text": "Grandpa as a boy, planting his very first tree.",
+          "text": "He saw Grandpa as a boy, planting his very first tree.",
           "translation_ko": "소년이던 할아버지가 첫 나무를 심는 모습이었어요.",
           "audio": "/seed/grandpas-magic-garden/audio/p6-s2.mp3",
           "wordTimings": [
             {
-              "word": "Grandpa",
+              "word": "He",
               "charStart": 0,
-              "charEnd": 7,
+              "charEnd": 2,
               "startMs": 0,
-              "endMs": 700
+              "endMs": 180
+            },
+            {
+              "word": "saw",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 460
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 920
             },
             {
               "word": "as",
-              "charStart": 8,
-              "charEnd": 10,
-              "startMs": 700,
-              "endMs": 940
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1200
             },
             {
               "word": "a",
-              "charStart": 11,
-              "charEnd": 12,
-              "startMs": 940,
-              "endMs": 1140
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1380
             },
             {
               "word": "boy",
-              "charStart": 13,
-              "charEnd": 16,
-              "startMs": 1140,
-              "endMs": 1340
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1600
             },
             {
               "word": "planting",
-              "charStart": 18,
-              "charEnd": 26,
-              "startMs": 2140,
-              "endMs": 2140
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2200
             },
             {
               "word": "his",
-              "charStart": 27,
-              "charEnd": 30,
-              "startMs": 2140,
-              "endMs": 2400
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2440
             },
             {
               "word": "very",
-              "charStart": 31,
-              "charEnd": 35,
-              "startMs": 2400,
-              "endMs": 2780
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2440,
+              "endMs": 2820
             },
             {
               "word": "first",
-              "charStart": 36,
-              "charEnd": 41,
-              "startMs": 2780,
-              "endMs": 3120
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2820,
+              "endMs": 3180
             },
             {
               "word": "tree",
-              "charStart": 42,
-              "charEnd": 46,
-              "startMs": 3120,
-              "endMs": 3360
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3180,
+              "endMs": 3400
             }
           ]
         }

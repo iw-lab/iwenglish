@@ -124,7 +124,7 @@
     {
       "sentences": [
         {
-          "text": "Jun saw many breads and cakes.",
+          "text": "Jun saw many kinds of bread and cakes.",
           "translation_ko": "준이는 빵과 케이크가 잔뜩 있는 걸 봤어요.",
           "audio": "/seed/daily-73-at-the-bakery/audio/p3-s1.mp3",
           "wordTimings": [
@@ -133,13 +133,13 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 380
+              "endMs": 440
             },
             {
               "word": "saw",
               "charStart": 4,
               "charEnd": 7,
-              "startMs": 380,
+              "startMs": 440,
               "endMs": 740
             },
             {
@@ -147,28 +147,42 @@
               "charStart": 8,
               "charEnd": 12,
               "startMs": 740,
-              "endMs": 1060
+              "endMs": 1040
             },
             {
-              "word": "breads",
+              "word": "kinds",
               "charStart": 13,
-              "charEnd": 19,
-              "startMs": 1060,
+              "charEnd": 18,
+              "startMs": 1040,
               "endMs": 1420
             },
             {
-              "word": "and",
-              "charStart": 20,
-              "charEnd": 23,
+              "word": "of",
+              "charStart": 19,
+              "charEnd": 21,
               "startMs": 1420,
-              "endMs": 1640
+              "endMs": 1880
+            },
+            {
+              "word": "bread",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 1900
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2260
             },
             {
               "word": "cakes",
-              "charStart": 24,
-              "charEnd": 29,
-              "startMs": 1640,
-              "endMs": 1920
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2260,
+              "endMs": 2520
             }
           ]
         },
@@ -272,7 +286,7 @@
     {
       "sentences": [
         {
-          "text": "Jun pointed at a round bread but then changed his mind.",
+          "text": "Jun pointed at a round bun but then changed his mind.",
           "translation_ko": "준이는 동그란 빵을 가리켰지만, 금방 마음이 바뀌었어요.",
           "audio": "/seed/daily-73-at-the-bakery/audio/p5-s1.mp3",
           "wordTimings": [
@@ -280,83 +294,83 @@
               "word": "Jun",
               "charStart": 0,
               "charEnd": 3,
-              "startMs": 0,
-              "endMs": 400
+              "startMs": 580,
+              "endMs": 1140
             },
             {
               "word": "pointed",
               "charStart": 4,
               "charEnd": 11,
-              "startMs": 400,
-              "endMs": 880
+              "startMs": 1140,
+              "endMs": 1600
             },
             {
               "word": "at",
               "charStart": 12,
               "charEnd": 14,
-              "startMs": 880,
-              "endMs": 1040
+              "startMs": 1600,
+              "endMs": 1880
             },
             {
               "word": "a",
               "charStart": 15,
               "charEnd": 16,
-              "startMs": 1040,
-              "endMs": 1220
+              "startMs": 1880,
+              "endMs": 2080
             },
             {
               "word": "round",
               "charStart": 17,
               "charEnd": 22,
-              "startMs": 1220,
-              "endMs": 1420
+              "startMs": 2080,
+              "endMs": 2380
             },
             {
-              "word": "bread",
+              "word": "bun",
               "charStart": 23,
-              "charEnd": 28,
-              "startMs": 1420,
-              "endMs": 1760
+              "charEnd": 26,
+              "startMs": 2380,
+              "endMs": 2660
             },
             {
               "word": "but",
-              "charStart": 29,
-              "charEnd": 32,
-              "startMs": 2160,
-              "endMs": 2280
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 3100,
+              "endMs": 3220
             },
             {
               "word": "then",
-              "charStart": 33,
-              "charEnd": 37,
-              "startMs": 2280,
-              "endMs": 2540
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 3220,
+              "endMs": 3480
             },
             {
               "word": "changed",
-              "charStart": 38,
-              "charEnd": 45,
-              "startMs": 2540,
-              "endMs": 2780
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 3480,
+              "endMs": 3780
             },
             {
               "word": "his",
-              "charStart": 46,
-              "charEnd": 49,
-              "startMs": 2780,
-              "endMs": 3080
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3780,
+              "endMs": 4100
             },
             {
               "word": "mind",
-              "charStart": 50,
-              "charEnd": 54,
-              "startMs": 3080,
-              "endMs": 3320
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 4100,
+              "endMs": 4340
             }
           ]
         },
         {
-          "text": "He picked a chocolate bread.",
+          "text": "He picked a chocolate bun.",
           "translation_ko": "결국 초콜릿 빵을 골랐어요.",
           "audio": "/seed/daily-73-at-the-bakery/audio/p5-s2.mp3",
           "wordTimings": [
@@ -365,35 +379,35 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 400
+              "endMs": 200
             },
             {
               "word": "picked",
               "charStart": 3,
               "charEnd": 9,
-              "startMs": 400,
-              "endMs": 720
+              "startMs": 200,
+              "endMs": 440
             },
             {
               "word": "a",
               "charStart": 10,
               "charEnd": 11,
-              "startMs": 720,
-              "endMs": 1180
+              "startMs": 440,
+              "endMs": 780
             },
             {
               "word": "chocolate",
               "charStart": 12,
               "charEnd": 21,
-              "startMs": 1180,
-              "endMs": 1420
+              "startMs": 780,
+              "endMs": 1020
             },
             {
-              "word": "bread",
+              "word": "bun",
               "charStart": 22,
-              "charEnd": 27,
-              "startMs": 1420,
-              "endMs": 1720
+              "charEnd": 25,
+              "startMs": 1020,
+              "endMs": 1300
             }
           ]
         }

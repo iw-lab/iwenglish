@@ -489,7 +489,7 @@
           ]
         },
         {
-          "text": "\"Like this,\" she showed him slowly.",
+          "text": "\"Like this,\" she said, showing him slowly.",
           "translation_ko": "\"이렇게 하는 거란다.\" 할머니가 천천히 보여 주셨어요.",
           "audio": "/seed/daily-76-helping-grandma/audio/p5-s2.mp3",
           "wordTimings": [
@@ -498,42 +498,49 @@
               "charStart": 1,
               "charEnd": 5,
               "startMs": 0,
-              "endMs": 800
+              "endMs": 340
             },
             {
               "word": "this",
               "charStart": 6,
               "charEnd": 10,
-              "startMs": 800,
-              "endMs": 1180
+              "startMs": 340,
+              "endMs": 780
             },
             {
               "word": "she",
               "charStart": 13,
               "charEnd": 16,
-              "startMs": 1480,
-              "endMs": 1700
+              "startMs": 1200,
+              "endMs": 1360
             },
             {
-              "word": "showed",
+              "word": "said",
               "charStart": 17,
-              "charEnd": 23,
-              "startMs": 1700,
-              "endMs": 1900
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1600
+            },
+            {
+              "word": "showing",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 2300,
+              "endMs": 2300
             },
             {
               "word": "him",
-              "charStart": 24,
-              "charEnd": 27,
-              "startMs": 1900,
-              "endMs": 2100
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2300,
+              "endMs": 2600
             },
             {
               "word": "slowly",
-              "charStart": 28,
-              "charEnd": 34,
-              "startMs": 2100,
-              "endMs": 2440
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 2940
             }
           ]
         }

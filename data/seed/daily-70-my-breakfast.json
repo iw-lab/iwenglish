@@ -528,7 +528,7 @@
     {
       "sentences": [
         {
-          "text": "Mom cut some strawberries and put them on a plate.",
+          "text": "Mom cuts some strawberries and puts them on a plate.",
           "translation_ko": "엄마가 딸기를 잘라서 접시에 담아줬어요.",
           "audio": "/seed/daily-70-my-breakfast/audio/p6-s1.mp3",
           "wordTimings": [
@@ -540,67 +540,67 @@
               "endMs": 440
             },
             {
-              "word": "cut",
+              "word": "cuts",
               "charStart": 4,
-              "charEnd": 7,
+              "charEnd": 8,
               "startMs": 440,
               "endMs": 780
             },
             {
               "word": "some",
-              "charStart": 8,
-              "charEnd": 12,
+              "charStart": 9,
+              "charEnd": 13,
               "startMs": 780,
-              "endMs": 1080
+              "endMs": 1140
             },
             {
               "word": "strawberries",
-              "charStart": 13,
-              "charEnd": 25,
-              "startMs": 1080,
+              "charStart": 14,
+              "charEnd": 26,
+              "startMs": 1140,
               "endMs": 1500
             },
             {
               "word": "and",
-              "charStart": 26,
-              "charEnd": 29,
+              "charStart": 27,
+              "charEnd": 30,
               "startMs": 1500,
-              "endMs": 2180
+              "endMs": 2140
             },
             {
-              "word": "put",
-              "charStart": 30,
-              "charEnd": 33,
-              "startMs": 2180,
-              "endMs": 2380
+              "word": "puts",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2140,
+              "endMs": 2320
             },
             {
               "word": "them",
-              "charStart": 34,
-              "charEnd": 38,
-              "startMs": 2380,
-              "endMs": 2580
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2540
             },
             {
               "word": "on",
-              "charStart": 39,
-              "charEnd": 41,
-              "startMs": 2580,
-              "endMs": 2800
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 2700
             },
             {
               "word": "a",
-              "charStart": 42,
-              "charEnd": 43,
-              "startMs": 2800,
-              "endMs": 2960
+              "charStart": 44,
+              "charEnd": 45,
+              "startMs": 2700,
+              "endMs": 2840
             },
             {
               "word": "plate",
-              "charStart": 44,
-              "charEnd": 49,
-              "startMs": 2960,
-              "endMs": 3160
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2840,
+              "endMs": 3040
             }
           ]
         },

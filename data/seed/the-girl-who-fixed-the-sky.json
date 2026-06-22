@@ -216,7 +216,7 @@
     {
       "sentences": [
         {
-          "text": "By noon the tear had widened, and everyone blamed the weather. Mira knew weather did not make a sound like paper ripping.",
+          "text": "By noon the tear had widened, and everyone blamed the weather. Mira knew the weather did not make a sound like paper ripping.",
           "translation_ko": "정오가 되자 틈은 더 넓어졌고 모두가 날씨 탓을 했어요. 미라는 날씨가 종이 찢어지는 소리를 내지는 않는다는 걸 알았어요.",
           "audio": "/seed/the-girl-who-fixed-the-sky/audio/p2-s1.mp3",
           "wordTimings": [
@@ -225,154 +225,161 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 320
             },
             {
               "word": "noon",
               "charStart": 3,
               "charEnd": 7,
-              "startMs": 340,
-              "endMs": 660
+              "startMs": 320,
+              "endMs": 640
             },
             {
               "word": "the",
               "charStart": 8,
               "charEnd": 11,
-              "startMs": 980,
-              "endMs": 1100
+              "startMs": 760,
+              "endMs": 860
             },
             {
               "word": "tear",
               "charStart": 12,
               "charEnd": 16,
-              "startMs": 1100,
-              "endMs": 1360
+              "startMs": 860,
+              "endMs": 1160
             },
             {
               "word": "had",
               "charStart": 17,
               "charEnd": 20,
-              "startMs": 1360,
-              "endMs": 1640
+              "startMs": 1160,
+              "endMs": 1460
             },
             {
               "word": "widened",
               "charStart": 21,
               "charEnd": 28,
-              "startMs": 1640,
-              "endMs": 2080
+              "startMs": 1460,
+              "endMs": 1860
             },
             {
               "word": "and",
               "charStart": 30,
               "charEnd": 33,
-              "startMs": 2520,
-              "endMs": 2680
+              "startMs": 2040,
+              "endMs": 2460
             },
             {
               "word": "everyone",
               "charStart": 34,
               "charEnd": 42,
-              "startMs": 2680,
-              "endMs": 3180
+              "startMs": 2460,
+              "endMs": 2920
             },
             {
               "word": "blamed",
               "charStart": 43,
               "charEnd": 49,
-              "startMs": 3180,
-              "endMs": 3540
+              "startMs": 2920,
+              "endMs": 3260
             },
             {
               "word": "the",
               "charStart": 50,
               "charEnd": 53,
-              "startMs": 3540,
-              "endMs": 3860
+              "startMs": 3260,
+              "endMs": 3740
             },
             {
               "word": "weather",
               "charStart": 54,
               "charEnd": 61,
-              "startMs": 3860,
-              "endMs": 4020
+              "startMs": 3740,
+              "endMs": 3740
             },
             {
               "word": "Mira",
               "charStart": 63,
               "charEnd": 67,
-              "startMs": 5080,
-              "endMs": 5080
+              "startMs": 4900,
+              "endMs": 4900
             },
             {
               "word": "knew",
               "charStart": 68,
               "charEnd": 72,
-              "startMs": 5080,
-              "endMs": 5360
+              "startMs": 4900,
+              "endMs": 5160
+            },
+            {
+              "word": "the",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 5160,
+              "endMs": 5400
             },
             {
               "word": "weather",
-              "charStart": 73,
-              "charEnd": 80,
-              "startMs": 5360,
-              "endMs": 5660
+              "charStart": 77,
+              "charEnd": 84,
+              "startMs": 5400,
+              "endMs": 5540
             },
             {
               "word": "did",
-              "charStart": 81,
-              "charEnd": 84,
-              "startMs": 5660,
-              "endMs": 5920
+              "charStart": 85,
+              "charEnd": 88,
+              "startMs": 5540,
+              "endMs": 5780
             },
             {
               "word": "not",
-              "charStart": 85,
-              "charEnd": 88,
-              "startMs": 5920,
-              "endMs": 6120
+              "charStart": 89,
+              "charEnd": 92,
+              "startMs": 5780,
+              "endMs": 5960
             },
             {
               "word": "make",
-              "charStart": 89,
-              "charEnd": 93,
-              "startMs": 6120,
-              "endMs": 6280
+              "charStart": 93,
+              "charEnd": 97,
+              "startMs": 5960,
+              "endMs": 6140
             },
             {
               "word": "a",
-              "charStart": 94,
-              "charEnd": 95,
-              "startMs": 6280,
-              "endMs": 6480
+              "charStart": 98,
+              "charEnd": 99,
+              "startMs": 6140,
+              "endMs": 6380
             },
             {
               "word": "sound",
-              "charStart": 96,
-              "charEnd": 101,
-              "startMs": 6480,
-              "endMs": 6740
+              "charStart": 100,
+              "charEnd": 105,
+              "startMs": 6380,
+              "endMs": 6640
             },
             {
               "word": "like",
-              "charStart": 102,
-              "charEnd": 106,
-              "startMs": 6740,
-              "endMs": 7000
+              "charStart": 106,
+              "charEnd": 110,
+              "startMs": 6640,
+              "endMs": 6880
             },
             {
               "word": "paper",
-              "charStart": 107,
-              "charEnd": 112,
-              "startMs": 7000,
-              "endMs": 7320
+              "charStart": 111,
+              "charEnd": 116,
+              "startMs": 6880,
+              "endMs": 7220
             },
             {
               "word": "ripping",
-              "charStart": 113,
-              "charEnd": 120,
-              "startMs": 7320,
-              "endMs": 7620
+              "charStart": 117,
+              "charEnd": 124,
+              "startMs": 7220,
+              "endMs": 7520
             }
           ]
         }

@@ -11,7 +11,7 @@
     {
       "sentences": [
         {
-          "text": "It is bath time!",
+          "text": "It was bath time!",
           "translation_ko": "목욕할 시간이에요!",
           "audio": "/seed/daily-80-bath-time/audio/p1-s1.mp3",
           "wordTimings": [
@@ -23,30 +23,30 @@
               "endMs": 200
             },
             {
-              "word": "is",
+              "word": "was",
               "charStart": 3,
-              "charEnd": 5,
+              "charEnd": 6,
               "startMs": 200,
-              "endMs": 580
+              "endMs": 520
             },
             {
               "word": "bath",
-              "charStart": 6,
-              "charEnd": 10,
-              "startMs": 580,
-              "endMs": 960
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 920
             },
             {
               "word": "time",
-              "charStart": 11,
-              "charEnd": 15,
-              "startMs": 960,
-              "endMs": 1300
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1260
             }
           ]
         },
         {
-          "text": "Jun runs to the bathroom.",
+          "text": "Jun ran to the bathroom.",
           "translation_ko": "준이 욕실로 달려가요.",
           "audio": "/seed/daily-80-bath-time/audio/p1-s2.mp3",
           "wordTimings": [
@@ -55,35 +55,35 @@
               "charStart": 0,
               "charEnd": 3,
               "startMs": 0,
-              "endMs": 600
+              "endMs": 640
             },
             {
-              "word": "runs",
+              "word": "ran",
               "charStart": 4,
-              "charEnd": 8,
-              "startMs": 600,
-              "endMs": 1160
+              "charEnd": 7,
+              "startMs": 640,
+              "endMs": 920
             },
             {
               "word": "to",
-              "charStart": 9,
-              "charEnd": 11,
-              "startMs": 1160,
-              "endMs": 1380
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 920,
+              "endMs": 1080
             },
             {
               "word": "the",
-              "charStart": 12,
-              "charEnd": 15,
-              "startMs": 1380,
-              "endMs": 1680
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1080,
+              "endMs": 1340
             },
             {
               "word": "bathroom",
-              "charStart": 16,
-              "charEnd": 24,
-              "startMs": 1680,
-              "endMs": 1900
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1340,
+              "endMs": 1660
             }
           ]
         }

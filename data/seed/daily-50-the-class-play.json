@@ -1730,7 +1730,7 @@
     {
       "sentences": [
         {
-          "text": "In the final scene, the lighthouse guided a lost ship safely home. I spread my arms wide to show the light reaching across the sea. The whole class shone our flashlights across the dark stage.",
+          "text": "In the final scene, the lighthouse guided a lost ship safely home. I spread my arms wide to show the light reaching across the sea. The whole class shone their flashlights across the dark stage.",
           "translation_ko": "마지막 장면에서 등대는 길 잃은 배를 안전하게 집으로 이끌었어요. 나는 두 팔을 넓게 펼쳐 빛이 바다 너머로 뻗어 나가는 것을 표현했어요. 반 전체가 어두운 무대 위로 손전등을 비췄어요.",
           "audio": "/seed/daily-50-the-class-play/audio/p9-s1.mp3",
           "wordTimings": [
@@ -1739,76 +1739,76 @@
               "charStart": 0,
               "charEnd": 2,
               "startMs": 0,
-              "endMs": 320
+              "endMs": 240
             },
             {
               "word": "the",
               "charStart": 3,
               "charEnd": 6,
-              "startMs": 320,
-              "endMs": 660
+              "startMs": 240,
+              "endMs": 500
             },
             {
               "word": "final",
               "charStart": 7,
               "charEnd": 12,
-              "startMs": 660,
-              "endMs": 1000
+              "startMs": 500,
+              "endMs": 780
             },
             {
               "word": "scene",
               "charStart": 13,
               "charEnd": 18,
-              "startMs": 1000,
-              "endMs": 1420
+              "startMs": 780,
+              "endMs": 1220
             },
             {
               "word": "the",
               "charStart": 20,
               "charEnd": 23,
-              "startMs": 1800,
-              "endMs": 1980
+              "startMs": 1660,
+              "endMs": 1840
             },
             {
               "word": "lighthouse",
               "charStart": 24,
               "charEnd": 34,
-              "startMs": 1980,
-              "endMs": 2340
+              "startMs": 1840,
+              "endMs": 2200
             },
             {
               "word": "guided",
               "charStart": 35,
               "charEnd": 41,
-              "startMs": 2340,
-              "endMs": 2780
+              "startMs": 2200,
+              "endMs": 2640
             },
             {
               "word": "a",
               "charStart": 42,
               "charEnd": 43,
-              "startMs": 2780,
-              "endMs": 3060
+              "startMs": 2640,
+              "endMs": 3140
             },
             {
               "word": "lost",
               "charStart": 44,
               "charEnd": 48,
-              "startMs": 3060,
-              "endMs": 3300
+              "startMs": 3140,
+              "endMs": 3220
             },
             {
               "word": "ship",
               "charStart": 49,
               "charEnd": 53,
-              "startMs": 3300,
-              "endMs": 3660
+              "startMs": 3220,
+              "endMs": 3560
             },
             {
               "word": "safely",
               "charStart": 54,
               "charEnd": 60,
-              "startMs": 3660,
+              "startMs": 3560,
               "endMs": 4080
             },
             {
@@ -1822,162 +1822,162 @@
               "word": "I",
               "charStart": 67,
               "charEnd": 68,
-              "startMs": 5040,
-              "endMs": 5120
+              "startMs": 5420,
+              "endMs": 5540
             },
             {
               "word": "spread",
               "charStart": 69,
               "charEnd": 75,
-              "startMs": 5120,
-              "endMs": 5280
+              "startMs": 5540,
+              "endMs": 5760
             },
             {
               "word": "my",
               "charStart": 76,
               "charEnd": 78,
-              "startMs": 5280,
-              "endMs": 5760
+              "startMs": 5760,
+              "endMs": 6100
             },
             {
               "word": "arms",
               "charStart": 79,
               "charEnd": 83,
-              "startMs": 5760,
-              "endMs": 5760
+              "startMs": 6100,
+              "endMs": 6320
             },
             {
               "word": "wide",
               "charStart": 84,
               "charEnd": 88,
-              "startMs": 5760,
-              "endMs": 6200
+              "startMs": 6320,
+              "endMs": 6800
             },
             {
               "word": "to",
               "charStart": 89,
               "charEnd": 91,
-              "startMs": 6200,
-              "endMs": 6420
+              "startMs": 6800,
+              "endMs": 7180
             },
             {
               "word": "show",
               "charStart": 92,
               "charEnd": 96,
-              "startMs": 6420,
-              "endMs": 6560
+              "startMs": 7180,
+              "endMs": 7300
             },
             {
               "word": "the",
               "charStart": 97,
               "charEnd": 100,
-              "startMs": 6560,
-              "endMs": 6780
+              "startMs": 7300,
+              "endMs": 7520
             },
             {
               "word": "light",
               "charStart": 101,
               "charEnd": 106,
-              "startMs": 6780,
-              "endMs": 6980
+              "startMs": 7520,
+              "endMs": 7700
             },
             {
               "word": "reaching",
               "charStart": 107,
               "charEnd": 115,
-              "startMs": 6980,
-              "endMs": 7300
+              "startMs": 7700,
+              "endMs": 8000
             },
             {
               "word": "across",
               "charStart": 116,
               "charEnd": 122,
-              "startMs": 7300,
-              "endMs": 7680
+              "startMs": 8000,
+              "endMs": 8340
             },
             {
               "word": "the",
               "charStart": 123,
               "charEnd": 126,
-              "startMs": 7680,
-              "endMs": 7920
+              "startMs": 8340,
+              "endMs": 8560
             },
             {
               "word": "sea",
               "charStart": 127,
               "charEnd": 130,
-              "startMs": 7920,
-              "endMs": 8160
+              "startMs": 8560,
+              "endMs": 8840
             },
             {
               "word": "The",
               "charStart": 132,
               "charEnd": 135,
-              "startMs": 9020,
-              "endMs": 9140
+              "startMs": 9740,
+              "endMs": 9860
             },
             {
               "word": "whole",
               "charStart": 136,
               "charEnd": 141,
-              "startMs": 9140,
-              "endMs": 9520
+              "startMs": 9860,
+              "endMs": 10220
             },
             {
               "word": "class",
               "charStart": 142,
               "charEnd": 147,
-              "startMs": 9520,
-              "endMs": 9900
+              "startMs": 10220,
+              "endMs": 10520
             },
             {
               "word": "shone",
               "charStart": 148,
               "charEnd": 153,
-              "startMs": 9900,
-              "endMs": 10480
+              "startMs": 10520,
+              "endMs": 10840
             },
             {
-              "word": "our",
+              "word": "their",
               "charStart": 154,
-              "charEnd": 157,
-              "startMs": 10480,
-              "endMs": 10780
+              "charEnd": 159,
+              "startMs": 10840,
+              "endMs": 11060
             },
             {
               "word": "flashlights",
-              "charStart": 158,
-              "charEnd": 169,
-              "startMs": 10780,
-              "endMs": 11220
+              "charStart": 160,
+              "charEnd": 171,
+              "startMs": 11060,
+              "endMs": 11520
             },
             {
               "word": "across",
-              "charStart": 170,
-              "charEnd": 176,
-              "startMs": 11220,
-              "endMs": 11560
+              "charStart": 172,
+              "charEnd": 178,
+              "startMs": 11520,
+              "endMs": 11980
             },
             {
               "word": "the",
-              "charStart": 177,
-              "charEnd": 180,
-              "startMs": 11560,
-              "endMs": 11840
+              "charStart": 179,
+              "charEnd": 182,
+              "startMs": 11980,
+              "endMs": 12300
             },
             {
               "word": "dark",
-              "charStart": 181,
-              "charEnd": 185,
-              "startMs": 11840,
-              "endMs": 12060
+              "charStart": 183,
+              "charEnd": 187,
+              "startMs": 12300,
+              "endMs": 12520
             },
             {
               "word": "stage",
-              "charStart": 186,
-              "charEnd": 191,
-              "startMs": 12060,
-              "endMs": 12440
+              "charStart": 188,
+              "charEnd": 193,
+              "startMs": 12520,
+              "endMs": 12920
             }
           ]
         }
@@ -2428,7 +2428,7 @@
     {
       "sentences": [
         {
-          "text": "That night I kept the wrinkled script beside my pillow. Looking at it made me smile. It reminded me that the scariest tries often become the proudest memories.",
+          "text": "That night I kept the wrinkled script beside my pillow. Looking at it made me smile. It reminded me that the scariest attempts often become the proudest memories.",
           "translation_ko": "그날 밤 나는 구겨진 대본을 베개 옆에 두었어요. 그것을 보면 미소가 났어요. 그것은 가장 무서운 도전이 종종 가장 자랑스러운 추억이 된다는 걸 떠올리게 했어요.",
           "audio": "/seed/daily-50-the-class-play/audio/p12-s1.mp3",
           "wordTimings": [
@@ -2437,62 +2437,62 @@
               "charStart": 0,
               "charEnd": 4,
               "startMs": 0,
-              "endMs": 340
+              "endMs": 280
             },
             {
               "word": "night",
               "charStart": 5,
               "charEnd": 10,
-              "startMs": 340,
-              "endMs": 620
+              "startMs": 280,
+              "endMs": 580
             },
             {
               "word": "I",
               "charStart": 11,
               "charEnd": 12,
-              "startMs": 980,
-              "endMs": 1280
+              "startMs": 1000,
+              "endMs": 1460
             },
             {
               "word": "kept",
               "charStart": 13,
               "charEnd": 17,
-              "startMs": 1280,
-              "endMs": 1320
+              "startMs": 1460,
+              "endMs": 1460
             },
             {
               "word": "the",
               "charStart": 18,
               "charEnd": 21,
-              "startMs": 1320,
-              "endMs": 1740
+              "startMs": 1460,
+              "endMs": 1980
             },
             {
               "word": "wrinkled",
               "charStart": 22,
               "charEnd": 30,
-              "startMs": 1740,
-              "endMs": 1900
+              "startMs": 1980,
+              "endMs": 1980
             },
             {
               "word": "script",
               "charStart": 31,
               "charEnd": 37,
-              "startMs": 1900,
-              "endMs": 2360
+              "startMs": 1980,
+              "endMs": 2400
             },
             {
               "word": "beside",
               "charStart": 38,
               "charEnd": 44,
-              "startMs": 2360,
-              "endMs": 2800
+              "startMs": 2400,
+              "endMs": 2820
             },
             {
               "word": "my",
               "charStart": 45,
               "charEnd": 47,
-              "startMs": 2800,
+              "startMs": 2820,
               "endMs": 3340
             },
             {
@@ -2521,112 +2521,112 @@
               "charStart": 67,
               "charEnd": 69,
               "startMs": 4600,
-              "endMs": 4760
+              "endMs": 4780
             },
             {
               "word": "made",
               "charStart": 70,
               "charEnd": 74,
-              "startMs": 4760,
-              "endMs": 4920
+              "startMs": 4780,
+              "endMs": 4960
             },
             {
               "word": "me",
               "charStart": 75,
               "charEnd": 77,
-              "startMs": 4920,
-              "endMs": 5200
+              "startMs": 4960,
+              "endMs": 5220
             },
             {
               "word": "smile",
               "charStart": 78,
               "charEnd": 83,
-              "startMs": 5200,
-              "endMs": 5480
+              "startMs": 5220,
+              "endMs": 5500
             },
             {
               "word": "It",
               "charStart": 85,
               "charEnd": 87,
-              "startMs": 6280,
-              "endMs": 6380
+              "startMs": 6200,
+              "endMs": 6300
             },
             {
               "word": "reminded",
               "charStart": 88,
               "charEnd": 96,
-              "startMs": 6380,
-              "endMs": 6680
+              "startMs": 6300,
+              "endMs": 6600
             },
             {
               "word": "me",
               "charStart": 97,
               "charEnd": 99,
-              "startMs": 6680,
-              "endMs": 6940
+              "startMs": 6600,
+              "endMs": 6840
             },
             {
               "word": "that",
               "charStart": 100,
               "charEnd": 104,
-              "startMs": 6940,
-              "endMs": 7100
+              "startMs": 6840,
+              "endMs": 7000
             },
             {
               "word": "the",
               "charStart": 105,
               "charEnd": 108,
-              "startMs": 7100,
-              "endMs": 7380
+              "startMs": 7000,
+              "endMs": 7280
             },
             {
               "word": "scariest",
               "charStart": 109,
               "charEnd": 117,
-              "startMs": 7380,
-              "endMs": 7660
+              "startMs": 7280,
+              "endMs": 7580
             },
             {
-              "word": "tries",
+              "word": "attempts",
               "charStart": 118,
-              "charEnd": 123,
-              "startMs": 7660,
-              "endMs": 8200
+              "charEnd": 126,
+              "startMs": 7580,
+              "endMs": 8040
             },
             {
               "word": "often",
-              "charStart": 124,
-              "charEnd": 129,
-              "startMs": 8200,
-              "endMs": 8880
+              "charStart": 127,
+              "charEnd": 132,
+              "startMs": 8040,
+              "endMs": 8540
             },
             {
               "word": "become",
-              "charStart": 130,
-              "charEnd": 136,
-              "startMs": 8880,
-              "endMs": 9240
+              "charStart": 133,
+              "charEnd": 139,
+              "startMs": 8540,
+              "endMs": 8860
             },
             {
               "word": "the",
-              "charStart": 137,
-              "charEnd": 140,
-              "startMs": 9240,
-              "endMs": 9720
+              "charStart": 140,
+              "charEnd": 143,
+              "startMs": 8860,
+              "endMs": 9280
             },
             {
               "word": "proudest",
-              "charStart": 141,
-              "charEnd": 149,
-              "startMs": 9720,
-              "endMs": 9960
+              "charStart": 144,
+              "charEnd": 152,
+              "startMs": 9280,
+              "endMs": 9600
             },
             {
               "word": "memories",
-              "charStart": 150,
-              "charEnd": 158,
-              "startMs": 9960,
-              "endMs": 10280
+              "charStart": 153,
+              "charEnd": 161,
+              "startMs": 9600,
+              "endMs": 9840
             }
           ]
         }

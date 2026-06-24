@@ -28,13 +28,21 @@ const STAGES: { stage: number; emoji: string; label: string; grade: string }[] =
   { stage: 6, emoji: "🏆", label: "6단계 · 마스터", grade: "6학년" },
 ];
 
+// 그리스로마신화 — 권(volume)별 라벨
+const MYTH_VOLUMES: { stage: number; emoji: string; label: string; grade: string }[] = [
+  { stage: 1, emoji: "🌌", label: "1권 · 카오스와 태초의 신들", grade: "심화 · B1" },
+];
+
 export default async function LibraryPage() {
   const books = await getBooks();
   const seededSlugs = new Set(books.map((b) => b.slug));
   const upcoming = PLANNED_BOOKS.filter((b) => !seededSlugs.has(b.slug));
 
   const daily = books.filter((b) => b.collection === "daily");
-  const pictureBooks = books.filter((b) => b.collection !== "daily");
+  const myth = books.filter((b) => b.collection === "myth");
+  const pictureBooks = books.filter(
+    (b) => b.collection !== "daily" && b.collection !== "myth",
+  );
 
   // 완독 책장용 최소 데이터 (클라이언트로 전달)
   const shelfBooks: ShelfBook[] = books.map((b) => ({
@@ -123,6 +131,44 @@ export default async function LibraryPage() {
                 meta={`${grade} · ${inStage.length}권`}
               >
                 {inStage.map((b) => (
+                  <BookCard
+                    key={b.id}
+                    slug={b.slug}
+                    title={b.title}
+                    title_ko={b.title_ko}
+                    level={b.level}
+                    summary_ko={b.summary_ko}
+                    coverUrl={b.coverUrl}
+                    meta={`${b.wordCount} words`}
+                    shelf
+                  />
+                ))}
+              </ShelfSection>
+            );
+          })}
+        </section>
+      )}
+
+      {/* 🏛️ 그리스로마신화 — 권별 선반 */}
+      {myth.length > 0 && (
+        <section className="space-y-4">
+          <div className="flex items-baseline gap-2">
+            <h2 className="text-xl font-extrabold">🏛️ 그리스로마신화</h2>
+            <span className="text-xs font-semibold text-muted-foreground">
+              하라의 신화 모험 · 학습만화 영어판 · {myth.length}권
+            </span>
+          </div>
+          {MYTH_VOLUMES.map(({ stage, emoji, label, grade }) => {
+            const inVol = myth.filter((b) => b.stage === stage);
+            if (inVol.length === 0) return null;
+            return (
+              <ShelfSection
+                key={stage}
+                emoji={emoji}
+                label={label}
+                meta={`${grade} · ${inVol.length}권`}
+              >
+                {inVol.map((b) => (
                   <BookCard
                     key={b.id}
                     slug={b.slug}

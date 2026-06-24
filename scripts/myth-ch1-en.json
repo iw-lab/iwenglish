@@ -1,0 +1,74 @@
+{
+  "_note": "vol-01 챕터1(p1~p8) 영어화 — Opus(Tier-3) 1차 번역. text=영어, ko=한국어 원문(화자 포함). Spark+Gemini 교차검증 대상.",
+  "panels": [
+    { "pageNum": 1, "img": "p001", "sentences": [
+      { "text": "Gimje, on an autumn night — a place where the sky settles down close to the earth.", "ko": "김제, 가을밤. 하늘이 가까이 내려앉는 곳.", "speaker": "" },
+      { "text": "Oh, look up there, Hara. The Cowherd and the Weaver have met again tonight.", "ko": "할아버지: 아이고, 저기 좀 봐라 하라야. 견우랑 직녀가 오늘도 만났네.", "speaker": "Grandfather" },
+      { "text": "Wow… they really are close. It feels like I could reach out and touch them.", "ko": "하라: 와… 진짜 가깝다. 손 닿을 것 같아요.", "speaker": "Hara" },
+      { "text": "That's right. The sky over Gimje has long been famous for its clear, starry nights.", "ko": "할아버지: 그렇지. 김제 하늘이 옛날부터 별이 잘 보이기로 유명했단다.", "speaker": "Grandfather" },
+      { "text": "Grandpa, did you know? The Greeks call those very stars by completely different names.", "ko": "하라: 할아버지, 그런데 그거 아세요? 그리스 사람들은 저 별을 완전 다른 이름으로 불러요.", "speaker": "Hara" },
+      { "text": "Oh? Is that so? What do they call them?", "ko": "할아버지: 오호, 그래? 뭐라고 부르는데?", "speaker": "Grandfather" },
+      { "text": "Altair and Vega — the Eagle and the Lyre.", "ko": "하라: 알타이르랑 베가요. 독수리랑 거문고래요.", "speaker": "Hara" },
+      { "text": "One star, yet everyone names it differently. The sky is so generous.", "ko": "할아버지: 별은 하나인데 사람마다 부르는 이름이 다르지. 하늘이 참 너그러워.", "speaker": "Grandfather" }
+    ]},
+    { "pageNum": 2, "img": "p002", "sentences": [
+      { "text": "That star had definitely been there yesterday.", "ko": "분명히 어제는 있던 별이었다.", "speaker": "" },
+      { "text": "Yesterday's photo and today's show the exact same spot, but…", "ko": "하라: 어제 찍은 거랑 오늘 거랑 같은 자리인데…", "speaker": "Hara" },
+      { "text": "Huh? Wait a second. There were three stars right here.", "ko": "하라: 어? 잠깐만. 여기 별 세 개 있었잖아.", "speaker": "Hara" },
+      { "text": "One… two… where did the other one go?", "ko": "하라: 하나… 둘… 어디 갔지?", "speaker": "Hara" },
+      { "text": "Is something wrong with my camera? No — yesterday's photo is perfectly clear.", "ko": "하라: 카메라가 이상한가? 아니, 어제 사진엔 또렷한데.", "speaker": "Hara" },
+      { "text": "Can a star really vanish overnight…?", "ko": "하라: 별이 하룻밤 사이에 사라질 수가 있나…?", "speaker": "Hara" }
+    ]},
+    { "pageNum": 3, "img": "p003", "sentences": [
+      { "text": "The next day, Ms. Kim, a curator from the Byeokgolje Agricultural Museum, came to the school.", "ko": "다음 날, 학교에 벽골제 농경문화박물관 학예사 김 선생이 찾아왔다.", "speaker": "" },
+      { "text": "Hello, everyone. I'm from the Byeokgolje Agricultural Museum.", "ko": "김 선생: 여러분, 안녕하세요. 벽골제 농경문화박물관에서 왔어요.", "speaker": "Ms. Kim" },
+      { "text": "Today I'll tell you about the 1,500-year-old star map painted on our museum ceiling.", "ko": "김 선생: 오늘은 우리 박물관 천장에 그려진 1500년 전 별자리 이야기를 들려줄게요.", "speaker": "Ms. Kim" },
+      { "text": "The people of Baekje also looked up at the night sky and gave the stars names.", "ko": "김 선생: 백제 사람들도 밤하늘을 올려다보면서 별 이름을 붙였답니다.", "speaker": "Ms. Kim" },
+      { "text": "Wow, 1,500 years ago? And that painting is still there?", "ko": "친구: 우와, 1500년 전이요? 그 그림이 아직 남아 있어요?", "speaker": "Classmate" },
+      { "text": "Yes. The colors have faded a lot, but the shapes of the constellations are still clear.", "ko": "김 선생: 네, 색은 많이 바랬지만 별자리 모양은 또렷이 남아 있어요.", "speaker": "Ms. Kim" },
+      { "text": "It's a story about the stars…", "ko": "하라: 별 이야기다…", "speaker": "Hara" }
+    ]},
+    { "pageNum": 4, "img": "p004", "sentences": [
+      { "text": "But… actually, I have something rather strange to tell you today.", "ko": "김 선생: 그런데… 사실 오늘 여러분께 좀 이상한 이야기를 해야 해요.", "speaker": "Ms. Kim" },
+      { "text": "This is a photo of the ceiling taken yesterday. You can see the constellations, right?", "ko": "김 선생: 이게 어제 찍은 천장 사진이에요. 별자리 보이죠?", "speaker": "Ms. Kim" },
+      { "text": "And this one was taken this morning, of the very same spot.", "ko": "김 선생: 그리고 이건 오늘 아침에 같은 자리를 찍은 거예요.", "speaker": "Ms. Kim" },
+      { "text": "Huh? The stars… there are fewer of them?", "ko": "친구: 어? 별이… 줄었어요?", "speaker": "Classmate" },
+      { "text": "Maybe the restoration went wrong? Like the paint peeled off.", "ko": "친구: 보존 처리 잘못된 거 아니에요? 물감이 벗겨졌다든가.", "speaker": "Classmate" },
+      { "text": "Our conservation team checked all night. But once again, they couldn't find the cause.", "ko": "김 선생: 저희 보존팀이 밤새 점검했어요. 그런데 이번에도 원인을 모른대요.", "speaker": "Ms. Kim" },
+      { "text": "It's almost as if the painting is erasing itself…", "ko": "김 선생: 그림이 스스로 사라지고 있는 것 같아서…", "speaker": "Ms. Kim" }
+    ]},
+    { "pageNum": 5, "img": "p005", "sentences": [
+      { "text": "Someone was erasing the same stars from both the sky above and the painting in the museum.", "ko": "누군가 우주의 별과 박물관의 그림에서 같은 별을 지우고 있었다.", "speaker": "" },
+      { "text": "Wait… I've seen this somewhere before.", "ko": "하라: 잠깐… 이거 어디서 봤는데.", "speaker": "Hara" },
+      { "text": "The photo I took yesterday… where on earth did it go…", "ko": "하라: 어제 찍은 내 사진… 어디 갔지…", "speaker": "Hara" },
+      { "text": "It's the same spot — the ceiling and the real sky.", "ko": "하라: 같은 자리잖아. 천장이랑 진짜 하늘이랑.", "speaker": "Hara" },
+      { "text": "The same stars are disappearing here, and up there too.", "ko": "하라: 같은 별들이… 여기서도, 저기서도 사라지고 있어.", "speaker": "Hara" },
+      { "text": "How can something like this be happening?", "ko": "하라: 어떻게 이런 일이?", "speaker": "Hara" }
+    ]},
+    { "pageNum": 6, "img": "p006", "sentences": [
+      { "text": "Grandpa, take a look at this — the museum ceiling and the sky we watched.", "ko": "하라: 할아버지, 이것 좀 봐요. 박물관 천장이랑 우리가 본 하늘이랑요.", "speaker": "Hara" },
+      { "text": "The same stars are disappearing. I really mean it.", "ko": "하라: 같은 별이 사라지고 있어요. 진짜로요.", "speaker": "Hara" },
+      { "text": "Hmm… if this is true, it's no ordinary matter.", "ko": "할아버지: 흐음… 이게 사실이라면 보통 일이 아니지.", "speaker": "Grandfather" },
+      { "text": "Hara, there's a story I heard when I was young.", "ko": "할아버지: 하라야, 할아버지가 어릴 적 들은 이야기가 하나 있단다.", "speaker": "Grandfather" },
+      { "text": "What kind of story?", "ko": "하라: 어떤 이야기요?", "speaker": "Hara" },
+      { "text": "They said that somewhere on Moak Mountain, there is a place where time flows down.", "ko": "할아버지: 모악산 어딘가에 시간이 흘러내리는 곳이 있다고들 했지.", "speaker": "Grandfather" },
+      { "text": "The elders used to say that when stars vanish, you must begin your search from that very place.", "ko": "할아버지: 옛 어른들은 별이 사라지면 그 자리부터 찾아야 한다고 하셨어.", "speaker": "Grandfather" },
+      { "text": "A place where time… flows down…?", "ko": "하라: 시간이… 흘러내리는 곳…?", "speaker": "Hara" }
+    ]},
+    { "pageNum": 7, "img": "p007", "sentences": [
+      { "text": "That evening, Hara climbed Moak Mountain.", "ko": "그날 저녁, 하라는 모악산을 올랐다.", "speaker": "" },
+      { "text": "A place where time flows down… does a place like that really exist?", "ko": "하라: 시간이 흘러내리는 곳이라니… 그런 데가 진짜 있어?", "speaker": "Hara" },
+      { "text": "Still, I can't just sit and do nothing. The stars keep disappearing.", "ko": "하라: 그래도 가만히 있을 순 없잖아. 별이 자꾸 사라지는데.", "speaker": "Hara" },
+      { "text": "Huh? What is that light?", "ko": "하라: 어? 저 빛은 뭐지?", "speaker": "Hara" },
+      { "text": "A blue light is leaking out from beyond the fog.", "ko": "하라: 안개 너머에서 푸른 빛이… 새어 나와.", "speaker": "Hara" },
+      { "text": "My heart is pounding. I'm scared, but I keep wanting to go closer.", "ko": "하라: 두근거리네. 무서운데 자꾸 가고 싶어.", "speaker": "Hara" }
+    ]},
+    { "pageNum": 8, "img": "p008", "sentences": [
+      { "text": "Inside the cave, someone was calling out to Hara.", "ko": "동굴 안에서, 누군가 하라를 부르고 있었다.", "speaker": "" },
+      { "text": "It's a cave…", "ko": "하라: 동굴이잖아…", "speaker": "Hara" },
+      { "text": "The light is leaking out from deep inside. Could someone be in there?", "ko": "하라: 빛이 안쪽에서 새어 나와. 누가 있는 건가?", "speaker": "Hara" },
+      { "text": "Hello… is anyone there?", "ko": "하라: 저기요… 누구 계세요?", "speaker": "Hara" },
+      { "text": "Huh? That thing floating over there… is that a feather?", "ko": "하라: 어? 저기 떠 있는 거… 깃털?", "speaker": "Hara" }
+    ]}
+  ]
+}

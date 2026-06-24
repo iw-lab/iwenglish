@@ -31,6 +31,9 @@ import { cn } from "@/lib/utils";
 export function Reader({ book }: { book: Book }) {
   const [mode, setMode] = useState<LearningMode>("read-aloud");
   const [pageIdx, setPageIdx] = useState(0);
+  // 그림 자연 비율(가로/세로). 세로(2:3)·가로(3:2) 책이 섞여 있어, 컨테이너 비율을
+  // 이미지에 맞춰 동적 설정하고 object-contain으로 인물 잘림을 막는다.
+  const [imgAspect, setImgAspect] = useState<number | null>(null);
   const [sentIdx, setSentIdx] = useState(0);
   const [repeatCount, setRepeatCount] = useState(1); // 0 = 무한(∞)
   const [showQuiz, setShowQuiz] = useState(false);
@@ -369,7 +372,10 @@ export function Reader({ book }: { book: Book }) {
       {/* 그림 + 본문 (데스크톱 2단) */}
       <div className="flex flex-1 flex-col lg:grid lg:grid-cols-[1.4fr_1fr] lg:items-start lg:gap-8 lg:px-6 lg:py-4">
       {/* 그림 */}
-      <div className="relative mx-3 mt-1 aspect-[4/3] overflow-hidden rounded-card bg-muted lg:mx-0 lg:mt-0 lg:sticky lg:top-24">
+      <div
+        className="relative mx-3 mt-1 flex max-h-[68vh] items-center justify-center overflow-hidden rounded-card bg-muted lg:mx-0 lg:mt-0 lg:max-h-[calc(100dvh-7rem)] lg:sticky lg:top-24"
+        style={{ aspectRatio: imgAspect ?? 4 / 3 }}
+      >
         {page?.imageUrl ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
@@ -378,9 +384,11 @@ export function Reader({ book }: { book: Book }) {
             alt={`${book.title} ${pageIdx + 1}쪽`}
             onLoad={(e) => {
               e.currentTarget.style.opacity = "1";
+              const { naturalWidth: w, naturalHeight: h } = e.currentTarget;
+              if (w && h) setImgAspect(w / h);
             }}
             style={{ opacity: 0, transition: "opacity .35s ease" }}
-            className="h-full w-full object-cover"
+            className="h-full w-full object-contain"
           />
         ) : (
           <div className="grid h-full w-full place-items-center text-sm text-muted-foreground">

@@ -56,16 +56,17 @@ export default async function BookDetailPage({
       {/* 데스크톱: 표지 | 정보 2단, 모바일: 세로 스택 */}
       <div className="lg:grid lg:grid-cols-[minmax(0,1.3fr)_minmax(0,1fr)] lg:items-start lg:gap-8">
         <Card className="overflow-hidden">
-          <div className="relative aspect-[16/9] w-full bg-muted">
+          {/* 표지: 세로(2:3)·가로(3:2) 혼재 → 비율 그대로 높이만 제한(w-auto)해 잘림 0, 가운데 정렬 */}
+          <div className="flex justify-center bg-card">
             {book.coverUrl ? (
               // eslint-disable-next-line @next/next/no-img-element
               <img
                 src={book.coverUrl}
                 alt={`${book.title} 표지`}
-                className="h-full w-full object-cover"
+                className="max-h-[58vh] w-auto max-w-full object-contain lg:max-h-[68vh]"
               />
             ) : (
-              <div className="grid h-full w-full place-items-center bg-gradient-to-br from-primary/20 to-accent/20">
+              <div className="grid aspect-[16/9] w-full place-items-center bg-gradient-to-br from-primary/20 to-accent/20">
                 <BookOpen className="h-12 w-12 text-primary/50" />
               </div>
             )}

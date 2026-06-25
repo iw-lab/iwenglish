@@ -941,8 +941,8 @@
       "options": [
         "책",
         "공",
-        "신발",
-        "물병"
+        "물병",
+        "신발"
       ],
       "answerIndex": 0,
       "explain_ko": "books를 가방에 넣었어요."
@@ -951,24 +951,24 @@
       "question_ko": "빨간불일 때 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "뛰었다",
         "멈췄다",
         "춤췄다",
-        "잤다"
+        "잤다",
+        "뛰었다"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "빨간불에는 stop and wait — 멈춰서 기다려요."
     },
     {
       "question_ko": "어떤 불일 때 길을 건넜나요?",
       "type": "mc",
       "options": [
-        "빨간불",
-        "노란불",
+        "파란불",
         "초록불",
-        "파란불"
+        "노란불",
+        "빨간불"
       ],
-      "answerIndex": 2,
+      "answerIndex": 1,
       "explain_ko": "green light일 때 길을 건넜어요."
     },
     {
@@ -987,12 +987,12 @@
       "question_ko": "학교에서 아이의 기분은 어땠나요?",
       "type": "mc",
       "options": [
-        "슬프다",
-        "화나다",
         "기쁘다",
-        "무섭다"
+        "무섭다",
+        "화나다",
+        "슬프다"
       ],
-      "answerIndex": 2,
+      "answerIndex": 0,
       "explain_ko": "I am happy and ready to learn — 기쁘고 공부할 준비가 됐어요."
     }
   ]

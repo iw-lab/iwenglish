@@ -2702,9 +2702,9 @@
       "question_ko": "가족은 어디로 여행을 가기로 했나요?",
       "type": "mc",
       "options": [
-        "산",
-        "바다",
         "도시",
+        "바다",
+        "산",
         "할머니 댁"
       ],
       "answerIndex": 1,
@@ -2714,22 +2714,22 @@
       "question_ko": "역까지 어떻게 갔나요?",
       "type": "mc",
       "options": [
-        "서둘러 갔다",
-        "천천히 걸었다",
         "차로 갔다",
-        "버스를 놓쳤다"
+        "천천히 걸었다",
+        "버스를 놓쳤다",
+        "서둘러 갔다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "hurried to the station — 서둘러 역으로 갔어요."
     },
     {
       "question_ko": "여동생이 기차에서 무엇을 느꼈나요?",
       "type": "mc",
       "options": [
-        "비 냄새",
-        "바다 냄새",
         "꽃 냄새",
-        "빵 냄새"
+        "바다 냄새",
+        "빵 냄새",
+        "비 냄새"
       ],
       "answerIndex": 1,
       "explain_ko": "I can smell the ocean — 바다 냄새를 맡았어요."
@@ -2738,24 +2738,24 @@
       "question_ko": "바닷가에서 아빠는 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "모래성을 쌓았다",
-        "낮잠을 잤다",
         "그림을 그렸다",
-        "책을 읽었다"
+        "낮잠을 잤다",
+        "책을 읽었다",
+        "모래성을 쌓았다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "Dad built a sandcastle — 아빠가 모래성을 쌓았어요."
     },
     {
       "question_ko": "집에 돌아올 때 가족의 기분은?",
       "type": "mc",
       "options": [
-        "화났다",
-        "지루했다",
         "피곤하지만 행복했다",
-        "슬펐다"
+        "지루했다",
+        "슬펐다",
+        "화났다"
       ],
-      "answerIndex": 2,
+      "answerIndex": 0,
       "explain_ko": "tired but very happy — 피곤했지만 행복했어요."
     }
   ]

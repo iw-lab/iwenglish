@@ -599,8 +599,8 @@
       "options": [
         "빨강",
         "파랑",
-        "노랑",
-        "초록"
+        "초록",
+        "노랑"
       ],
       "answerIndex": 1,
       "explain_ko": "The book is blue. 책은 파란색이에요."
@@ -609,36 +609,36 @@
       "question_ko": "연필은 영어로 무엇인가요?",
       "type": "mc",
       "options": [
-        "pencil",
         "bag",
-        "snack",
-        "school"
+        "pencil",
+        "school",
+        "snack"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "pencil은 연필이에요."
     },
     {
       "question_ko": "가방은 무거웠나요?",
       "type": "mc",
       "options": [
+        "아주 커요",
         "네",
         "아니요",
-        "몰라요",
-        "아주 커요"
+        "몰라요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "not heavy는 무겁지 않다는 뜻이에요."
     },
     {
       "question_ko": "가방 안에 있던 간식은 무엇인가요?",
       "type": "mc",
       "options": [
-        "사탕",
-        "쿠키",
         "빵",
-        "과자"
+        "과자",
+        "쿠키",
+        "사탕"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "It is a small cookie. 작은 쿠키예요."
     }
   ]

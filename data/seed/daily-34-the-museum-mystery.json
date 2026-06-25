@@ -2526,12 +2526,12 @@
       "question_ko": "어디를 방문했나요?",
       "type": "mc",
       "options": [
+        "공항",
         "시립 박물관",
         "병원",
-        "공항",
         "도서관"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "city museum은 시립 박물관이에요."
     },
     {
@@ -2539,9 +2539,9 @@
       "type": "mc",
       "options": [
         "질문 카드",
-        "도시락",
         "모자",
-        "지도만"
+        "지도만",
+        "도시락"
       ],
       "answerIndex": 0,
       "explain_ko": "a card with three questions예요."
@@ -2550,36 +2550,36 @@
       "question_ko": "질문 카드는 어디서 사라졌나요?",
       "type": "mc",
       "options": [
-        "민이의 폴더",
-        "가방",
         "책상",
-        "창문"
+        "가방",
+        "창문",
+        "민이의 폴더"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "from 민이's folder예요."
     },
     {
       "question_ko": "노란 종이는 어디에 있었나요?",
       "type": "mc",
       "options": [
-        "벤치 아래",
+        "유리 안",
         "천장",
         "문밖",
-        "유리 안"
+        "벤치 아래"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "under the bench예요."
     },
     {
       "question_ko": "카드 뒷면의 단서는 무엇을 찾으라고 했나요?",
       "type": "mc",
       "options": [
-        "가장 오래된 도구",
         "가장 큰 그림",
         "출구",
-        "점심"
+        "점심",
+        "가장 오래된 도구"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "the oldest tool을 찾으라고 했어요."
     }
   ]

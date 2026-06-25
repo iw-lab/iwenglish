@@ -1794,24 +1794,24 @@
       "question_ko": "무엇을 연습했나요?",
       "type": "mc",
       "options": [
-        "자전거 타기",
         "피아노",
-        "수영",
-        "달리기"
+        "달리기",
+        "자전거 타기",
+        "수영"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "riding my new bike — 새 자전거 타기예요."
     },
     {
       "question_ko": "출발 전 엄마가 확인한 것은?",
       "type": "mc",
       "options": [
-        "헬멧",
-        "가방",
         "양말",
-        "책"
+        "가방",
+        "책",
+        "헬멧"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "helmet은 헬멧이에요."
     },
     {
@@ -1820,8 +1820,8 @@
       "options": [
         "좁고 울퉁불퉁함",
         "넓고 부드러움",
-        "젖음",
-        "어두움"
+        "어두움",
+        "젖음"
       ],
       "answerIndex": 0,
       "explain_ko": "narrow and bumpy예요."
@@ -1830,24 +1830,24 @@
       "question_ko": "바퀴를 흔든 것은 무엇인가요?",
       "type": "mc",
       "options": [
-        "작은 돌",
-        "물",
         "장갑",
-        "빵"
+        "빵",
+        "작은 돌",
+        "물"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "a small stone이 바퀴를 흔들었어요."
     },
     {
       "question_ko": "갑자기 멈추는 대신 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "속도를 줄임",
+        "눈 감음",
         "소리침",
         "뛰어내림",
-        "눈 감음"
+        "속도를 줄임"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "slow down — 속도를 줄였어요."
     }
   ]

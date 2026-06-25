@@ -1731,24 +1731,24 @@
       "question_ko": "지난주에 무엇이 걱정됐나요?",
       "type": "mc",
       "options": [
-        "받아쓰기 시험",
-        "소풍",
         "운동회",
-        "발표회"
+        "소풍",
+        "발표회",
+        "받아쓰기 시험"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "spelling test — 받아쓰기 시험이에요."
     },
     {
       "question_ko": "매일 밤 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "단어 열 개 연습",
-        "게임",
         "낮잠",
-        "TV 보기"
+        "단어 열 개 연습",
+        "TV 보기",
+        "게임"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "practiced ten words — 단어 열 개를 연습했어요."
     },
     {
@@ -1757,8 +1757,8 @@
       "options": [
         "소리 내어 읽어 줬어요",
         "그림을 그렸어요",
-        "노래했어요",
-        "잤어요"
+        "잤어요",
+        "노래했어요"
       ],
       "answerIndex": 0,
       "explain_ko": "read them aloud — 소리 내어 읽어 줬어요."
@@ -1768,8 +1768,8 @@
       "type": "mc",
       "options": [
         "연습했기 때문",
-        "운이 좋아서",
         "쉬워서",
+        "운이 좋아서",
         "친구가 알려줘서"
       ],
       "answerIndex": 0,
@@ -1779,12 +1779,12 @@
       "question_ko": "무엇을 배웠나요?",
       "type": "mc",
       "options": [
-        "연습이 어려운 일을 쉽게 만든다",
         "시험은 쉽다",
         "연습은 소용없다",
-        "포기가 낫다"
+        "포기가 낫다",
+        "연습이 어려운 일을 쉽게 만든다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "practice makes hard things easier."
     }
   ]

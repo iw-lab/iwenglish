@@ -898,60 +898,60 @@
       "question_ko": "미나는 준의 집에서 얼마나 가까이 살고 있나요?",
       "type": "mc",
       "options": [
-        "바로 옆집에 살아요.",
         "학교 근처에 살아요.",
         "공원 옆에 살아요.",
+        "바로 옆집에 살아요.",
         "멀리 살아요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "본문에서 \"She lives next door.\"라고 했으므로 미나는 바로 옆집에 살아요."
     },
     {
       "question_ko": "준과 미나는 공원에서 달리기를 했을 때 누가 이겼나요?",
       "type": "mc",
       "options": [
-        "미나가 이겼어요.",
         "준이 이겼어요.",
-        "둘 다 이겼어요.",
-        "아무도 이기지 못했어요."
+        "아무도 이기지 못했어요.",
+        "미나가 이겼어요.",
+        "둘 다 이겼어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "\"미나 won\"이라고 했으므로 미나가 달리기에서 이겼어요."
     },
     {
       "question_ko": "준과 미나는 그네 근처에서 무엇을 발견했나요?",
       "type": "mc",
       "options": [
-        "작은 고양이",
+        "토끼",
         "강아지",
         "새",
-        "토끼"
+        "작은 고양이"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "\"They found a little cat near the swing.\"이라고 했으므로 고양이를 발견했어요."
     },
     {
       "question_ko": "오후에 준과 미나는 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "함께 그림을 그렸어요.",
         "책을 읽었어요.",
         "케이크를 만들었어요.",
+        "함께 그림을 그렸어요.",
         "TV를 봤어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "\"We drew pictures together.\"라고 했으므로 함께 그림을 그렸어요."
     },
     {
       "question_ko": "미나는 그림 시간에 누구를 그렸나요?",
       "type": "mc",
       "options": [
+        "자기 자신을 그렸어요.",
         "준을 그렸어요.",
-        "고양이를 그렸어요.",
         "공원을 그렸어요.",
-        "자기 자신을 그렸어요."
+        "고양이를 그렸어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "\"미나 drew me.\"에서 미나는 준을 그렸어요."
     }
   ]

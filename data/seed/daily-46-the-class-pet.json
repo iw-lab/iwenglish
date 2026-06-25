@@ -1573,60 +1573,60 @@
       "question_ko": "우리 반 동물은 무엇인가요?",
       "type": "mc",
       "options": [
-        "햄스터",
-        "강아지",
         "고양이",
-        "물고기"
+        "햄스터",
+        "물고기",
+        "강아지"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "hamster — 햄스터예요."
     },
     {
       "question_ko": "햄스터의 이름은?",
       "type": "mc",
       "options": [
-        "모찌",
         "초코",
+        "모찌",
         "별이",
         "콩이"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "His name is Mochi."
     },
     {
       "question_ko": "그릇에 무엇을 채웠나요?",
       "type": "mc",
       "options": [
-        "신선한 씨앗",
         "물만",
         "흙",
-        "종이"
+        "종이",
+        "신선한 씨앗"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "fresh seeds — 신선한 씨앗이에요."
     },
     {
       "question_ko": "씨앗을 어디에 넣었나요?",
       "type": "mc",
       "options": [
-        "동그란 볼",
+        "신발",
         "주머니",
-        "상자",
-        "신발"
+        "동그란 볼",
+        "상자"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "round cheeks — 동그란 볼이에요."
     },
     {
       "question_ko": "돌보는 일은 나를 어떻게 만들었나요?",
       "type": "mc",
       "options": [
-        "뿌듯하게",
         "슬프게",
         "지치게",
+        "뿌듯하게",
         "화나게"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "makes me proud — 뿌듯하게 해요."
     }
   ]

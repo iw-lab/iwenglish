@@ -554,60 +554,60 @@
       "question_ko": "준은 어디에서 발가락을 세나요?",
       "type": "mc",
       "options": [
-        "욕조에서",
         "침대에서",
+        "공원에서",
         "교실에서",
-        "공원에서"
+        "욕조에서"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "첫 페이지에서 준은 따뜻한 욕조에 앉아 있어요."
     },
     {
       "question_ko": "준이 세는 것은 무엇인가요?",
       "type": "mc",
       "options": [
-        "발가락",
         "손가락",
+        "공",
         "사탕",
-        "공"
+        "발가락"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준 counts his toes. 준은 발가락을 세고 있어요."
     },
     {
       "question_ko": "준의 발가락은 모두 몇 개인가요?",
       "type": "mc",
       "options": [
+        "5개",
         "10개",
         "8개",
-        "5개",
         "6개"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준 has ten toes. 발가락은 모두 10개예요."
     },
     {
       "question_ko": "\"the toes all go up high\"는 무슨 뜻인가요?",
       "type": "mc",
       "options": [
+        "발가락이 커져요",
         "발가락이 높이 올라가요",
-        "발가락이 내려가요",
         "발가락이 사라져요",
-        "발가락이 커져요"
+        "발가락이 내려가요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "go up high는 '높이 올라가다'라는 뜻이에요."
     },
     {
       "question_ko": "준은 발가락 세기를 얼마나 자주 하나요?",
       "type": "mc",
       "options": [
-        "매일",
-        "일주일에 한 번",
+        "가끔",
         "한 번만",
-        "가끔"
+        "일주일에 한 번",
+        "매일"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "마지막 페이지에서 every day라고 했어요. 준은 매일 세어요."
     }
   ]

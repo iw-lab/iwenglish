@@ -1587,60 +1587,60 @@
       "question_ko": "무슨 행사가 있었나요?",
       "type": "mc",
       "options": [
+        "소풍",
         "과학 발표회",
         "운동회",
-        "생일잔치",
-        "소풍"
+        "생일잔치"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "science fair는 과학 발표회예요."
     },
     {
       "question_ko": "컵 안에는 무엇이 있었나요?",
       "type": "mc",
       "options": [
-        "콩 씨앗",
+        "꽃잎",
         "돌",
-        "연필",
-        "꽃잎"
+        "콩 씨앗",
+        "연필"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "three bean seeds가 있었어요."
     },
     {
       "question_ko": "뿌리는 어느 방향으로 자랐나요?",
       "type": "mc",
       "options": [
-        "위",
         "아래",
+        "동그랗게",
         "옆",
-        "동그랗게"
+        "위"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "roots grew down — 아래로 자랐어요."
     },
     {
       "question_ko": "잎에는 무엇이 필요했나요?",
       "type": "mc",
       "options": [
-        "빛",
+        "장난감",
         "신발",
-        "소금",
-        "장난감"
+        "빛",
+        "소금"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "leaves need light — 잎은 빛이 필요해요."
     },
     {
       "question_ko": "선생님은 기록이 어떻다고 했나요?",
       "type": "mc",
       "options": [
-        "분명하다",
         "너무 길다",
-        "없다",
-        "틀렸다"
+        "분명하다",
+        "틀렸다",
+        "없다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "notes are clear — 기록이 분명해요."
     }
   ]

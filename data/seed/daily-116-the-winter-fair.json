@@ -1523,48 +1523,48 @@
       "question_ko": "할머니께 나눠 드리자고 먼저 제안한 사람은 누구인가요?",
       "type": "mc",
       "options": [
+        "할머니",
         "미나",
-        "준",
         "엄마",
-        "할머니"
+        "준"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "미나가 먼저 속삭이며 군고구마를 할머니와 나누자고 제안했어요."
     },
     {
       "question_ko": "할머니가 벤치에서 몸을 떨고 있던 이유는 무엇인가요?",
       "type": "mc",
       "options": [
-        "바람이 너무 차가웠기 때문에",
-        "배가 고팠기 때문에",
         "길을 잃었기 때문에",
-        "비가 내렸기 때문에"
+        "배가 고팠기 때문에",
+        "비가 내렸기 때문에",
+        "바람이 너무 차가웠기 때문에"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "\"She is shivering because the wind is very cold.\"라고 했어요. 차가운 바람 때문이에요."
     },
     {
       "question_ko": "겨울 장터는 어디에서 열렸나요?",
       "type": "mc",
       "options": [
-        "공원",
         "학교 운동장",
         "마트 앞 광장",
+        "공원",
         "아파트 주차장"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "\"a winter fair is in the park\"라고 나와 있어요. 장터는 공원에서 열렸어요."
     },
     {
       "question_ko": "이 이야기가 전하는 중심 내용은 무엇인가요?",
       "type": "mc",
       "options": [
+        "장터에 가면 맛있는 것을 살 수 있다",
         "도움이 필요한 사람과 나누면 마음이 따뜻해진다",
         "겨울에는 따뜻한 음식을 많이 먹어야 한다",
-        "장터에 가면 맛있는 것을 살 수 있다",
         "추운 날에는 목도리를 꼭 해야 한다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준과 미나가 추위에 떠는 할머니께 음식을 나눠 드리고 마음속이 따뜻해졌어요. 나눔의 기쁨이 중심 주제예요."
     }
   ]

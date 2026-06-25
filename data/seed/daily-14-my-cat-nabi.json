@@ -557,12 +557,12 @@
       "question_ko": "나는 어떤 동물을 키우나요?",
       "type": "mc",
       "options": [
-        "강아지",
         "고양이",
         "토끼",
-        "새"
+        "새",
+        "강아지"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "cat은 고양이예요."
     },
     {
@@ -570,9 +570,9 @@
       "type": "mc",
       "options": [
         "나비",
+        "초코",
         "코코",
-        "보리",
-        "초코"
+        "보리"
       ],
       "answerIndex": 0,
       "explain_ko": "Her name is Nabi."
@@ -583,10 +583,10 @@
       "options": [
         "검정",
         "노랑",
-        "회색",
-        "갈색"
+        "갈색",
+        "회색"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "gray는 회색이에요."
     },
     {
@@ -594,8 +594,8 @@
       "type": "mc",
       "options": [
         "공",
-        "인형",
         "끈",
+        "인형",
         "상자"
       ],
       "answerIndex": 0,
@@ -605,8 +605,8 @@
       "question_ko": "나비는 어디서 자나요?",
       "type": "mc",
       "options": [
-        "바닥",
         "소파",
+        "바닥",
         "내 침대",
         "상자"
       ],

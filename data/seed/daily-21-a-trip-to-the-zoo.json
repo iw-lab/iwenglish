@@ -2636,60 +2636,60 @@
       "question_ko": "가장 먼저 본 동물은 무엇인가요?",
       "type": "mc",
       "options": [
-        "사자",
-        "기린",
         "원숭이",
-        "오리"
+        "사자",
+        "오리",
+        "기린"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "First, we see the tall giraffes — 제일 먼저 키 큰 기린들을 봤어요."
     },
     {
       "question_ko": "기린은 어떻게 잎을 따 먹나요?",
       "type": "mc",
       "options": [
-        "발로 나무를 쓰러뜨려요",
         "긴 보라색 혀로 나뭇가지를 감아요",
-        "점프해서 잎을 물어요",
-        "다른 동물에게 부탁해요"
+        "발로 나무를 쓰러뜨려요",
+        "다른 동물에게 부탁해요",
+        "점프해서 잎을 물어요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "Their long purple tongues curl around each branch — 긴 보라색 혀로 나뭇가지를 감아 잎을 따요."
     },
     {
       "question_ko": "점심을 어디서 먹었나요?",
       "type": "mc",
       "options": [
-        "버스 안",
-        "연못 근처",
+        "정문",
         "사자 우리 앞",
-        "정문"
+        "연못 근처",
+        "버스 안"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "near the pond — 연못 근처에서 먹었어요."
     },
     {
       "question_ko": "나는 어떤 동물을 그렸나요?",
       "type": "mc",
       "options": [
-        "원숭이",
         "사자",
-        "기린",
-        "오리"
+        "원숭이",
+        "오리",
+        "기린"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "I choose the giraffe — 기린을 골라서 그렸어요."
     },
     {
       "question_ko": "안내 선생님이 동물에게 먹이를 주면 안 된다고 한 이유는?",
       "type": "mc",
       "options": [
-        "먹이가 부족해서",
-        "우리 간식이 동물을 아프게 할 수 있어서",
+        "규칙을 어기면 벌금이 있어서",
         "동물이 무서워해서",
-        "규칙을 어기면 벌금이 있어서"
+        "우리 간식이 동물을 아프게 할 수 있어서",
+        "먹이가 부족해서"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "sharing our snacks could make them sick — 우리 간식이 동물을 아프게 할 수 있어요."
     }
   ]

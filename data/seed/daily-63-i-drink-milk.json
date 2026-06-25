@@ -576,9 +576,9 @@
       "type": "mc",
       "options": [
         "매일 아침",
-        "매일 저녁",
+        "학교에서",
         "점심 때",
-        "학교에서"
+        "매일 저녁"
       ],
       "answerIndex": 0,
       "explain_ko": "본문에서 준은 'every morning(매일 아침)'에 우유를 마신다고 했어요."
@@ -587,48 +587,48 @@
       "question_ko": "준은 우유를 어디에서 꺼내나요?",
       "type": "mc",
       "options": [
-        "냉장고",
+        "학교 급식실",
         "찬장",
-        "가방",
-        "학교 급식실"
+        "냉장고",
+        "가방"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'I open the refrigerator. I take out the milk.'에서 준은 냉장고에서 우유를 꺼낸다고 했어요."
     },
     {
       "question_ko": "우유는 어떤 색인가요?",
       "type": "mc",
       "options": [
-        "하얀색",
-        "노란색",
         "갈색",
-        "파란색"
+        "파란색",
+        "하얀색",
+        "노란색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'The milk is cold and white.'에서 우유는 하얀색이라고 했어요."
     },
     {
       "question_ko": "준은 컵을 어떻게 잡나요?",
       "type": "mc",
       "options": [
-        "두 손으로",
         "한 손으로",
         "손잡이를 잡고",
+        "두 손으로",
         "컵을 들지 않고"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'I hold the cup with two hands.'에서 준은 두 손으로 컵을 잡는다고 했어요."
     },
     {
       "question_ko": "우유를 다 마신 후 컵은 어떻게 됐나요?",
       "type": "mc",
       "options": [
-        "비었어요",
         "가득 찼어요",
         "깨졌어요",
+        "비었어요",
         "더러워졌어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'The cup is empty now.'에서 컵이 비었다고 했어요."
     }
   ]

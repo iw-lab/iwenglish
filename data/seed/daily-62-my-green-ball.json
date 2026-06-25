@@ -603,60 +603,60 @@
       "question_ko": "준의 공은 무슨 색인가요?",
       "type": "mc",
       "options": [
+        "노란색",
         "초록색",
         "파란색",
-        "빨간색",
-        "노란색"
+        "빨간색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "첫 페이지에서 \"I have a green ball.\"이라고 했으므로 공의 색은 초록색이에요."
     },
     {
       "question_ko": "준이 공을 굴렸을 때 공은 어떻게 되었나요?",
       "type": "mc",
       "options": [
-        "멀리 갔어요.",
-        "위로 올라갔어요.",
+        "작아졌어요.",
         "멈췄어요.",
-        "작아졌어요."
+        "위로 올라갔어요.",
+        "멀리 갔어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "\"The ball goes far.\"에서 공이 멀리 갔다고 했어요."
     },
     {
       "question_ko": "준이 공을 던진 방향은 어디인가요?",
       "type": "mc",
       "options": [
-        "위쪽",
         "아래쪽",
-        "옆쪽",
-        "뒤쪽"
+        "위쪽",
+        "뒤쪽",
+        "옆쪽"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "\"I throw the ball up.\"에서 up은 '위로'라는 뜻이에요."
     },
     {
       "question_ko": "준은 공을 어떻게 받았나요?",
       "type": "mc",
       "options": [
-        "두 손으로 받았어요.",
+        "머리로 받았어요.",
         "한 손으로 받았어요.",
-        "발로 받았어요.",
-        "머리로 받았어요."
+        "두 손으로 받았어요.",
+        "발로 받았어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "\"I catch it with both hands.\"에서 두 손(both hands)으로 받았다고 했어요."
     },
     {
       "question_ko": "준은 공을 내려놓은 뒤 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "앉아서 쉬었어요.",
-        "다시 던졌어요.",
         "집으로 들어갔어요.",
+        "다시 던졌어요.",
+        "앉아서 쉬었어요.",
         "공을 씻었어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "\"I sit down and rest.\"에서 앉아서 쉬었다고 했어요."
     }
   ]

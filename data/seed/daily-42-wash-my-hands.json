@@ -536,12 +536,12 @@
       "question_ko": "처음에 손은 어땠나요?",
       "type": "mc",
       "options": [
+        "차가워요",
         "더러워요",
         "깨끗해요",
-        "따뜻해요",
-        "차가워요"
+        "따뜻해요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "dirty는 더럽다는 뜻이에요."
     },
     {
@@ -560,24 +560,24 @@
       "question_ko": "무엇을 사용했나요?",
       "type": "mc",
       "options": [
-        "비누",
-        "치약",
         "기름",
-        "소금"
+        "치약",
+        "소금",
+        "비누"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "soap는 비누예요."
     },
     {
       "question_ko": "손을 어떻게 했나요?",
       "type": "mc",
       "options": [
-        "비볐어요",
-        "그렸어요",
         "숨겼어요",
-        "묶었어요"
+        "묶었어요",
+        "그렸어요",
+        "비볐어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "rub — 비벼요."
     },
     {
@@ -585,9 +585,9 @@
       "type": "mc",
       "options": [
         "깨끗해요",
-        "더러워요",
+        "젖은 채 그대로",
         "아파요",
-        "젖은 채 그대로"
+        "더러워요"
       ],
       "answerIndex": 0,
       "explain_ko": "clean은 깨끗하다는 뜻이에요."

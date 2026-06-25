@@ -2477,12 +2477,12 @@
       "question_ko": "오늘은 무슨 날인가요?",
       "type": "mc",
       "options": [
-        "소풍",
         "발표하는 날",
-        "운동회",
-        "시험"
+        "소풍",
+        "시험",
+        "운동회"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "show and tell — 발표하는 날이에요."
     },
     {
@@ -2490,11 +2490,11 @@
       "type": "mc",
       "options": [
         "책",
-        "장난감 로봇",
         "그림",
+        "장난감 로봇",
         "공"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "my favorite toy robot."
     },
     {
@@ -2513,24 +2513,24 @@
       "question_ko": "로봇은 누가 준 선물인가요?",
       "type": "mc",
       "options": [
-        "엄마",
-        "아빠",
         "할머니",
-        "친구"
+        "친구",
+        "엄마",
+        "아빠"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "a gift from my dad."
     },
     {
       "question_ko": "발표가 끝난 뒤 반 친구들이 어떻게 반응했나요?",
       "type": "mc",
       "options": [
-        "조용히 앉아 있었어요",
-        "웃고 박수를 쳤어요",
+        "화를 냈어요",
         "자리를 떠났어요",
-        "화를 냈어요"
+        "웃고 박수를 쳤어요",
+        "조용히 앉아 있었어요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "The whole class laughs and claps — 반 전체가 웃고 박수를 쳤어요."
     }
   ]

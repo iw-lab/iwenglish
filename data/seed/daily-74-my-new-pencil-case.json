@@ -982,60 +982,60 @@
       "question_ko": "준의 새 필통은 무슨 색인가요?",
       "type": "mc",
       "options": [
-        "파란색",
-        "분홍색",
+        "노란색",
         "초록색",
-        "노란색"
+        "파란색",
+        "분홍색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "본문에서 준의 필통은 파란색(blue)이라고 했어요."
     },
     {
       "question_ko": "준이 새 필통을 언제 받았나요?",
       "type": "mc",
       "options": [
+        "지난주",
         "어제",
         "오늘 아침",
-        "지난주",
         "생일날"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준은 '어제(yesterday)' 필통을 받았다고 말했어요."
     },
     {
       "question_ko": "미나의 필통에 무엇이 그려져 있나요?",
       "type": "mc",
       "options": [
-        "작은 곰돌이",
-        "큰 별",
         "강아지",
-        "꽃"
+        "꽃",
+        "작은 곰돌이",
+        "큰 별"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "미나의 필통에는 작은 곰돌이(small bear)가 그려져 있었어요."
     },
     {
       "question_ko": "준의 필통 안에 없는 물건은 무엇인가요?",
       "type": "mc",
       "options": [
-        "풀",
         "연필",
-        "지우개",
-        "자"
+        "자",
+        "풀",
+        "지우개"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "준의 필통에는 연필, 지우개, 자가 있었지만 풀은 나오지 않았어요."
     },
     {
       "question_ko": "마지막에 준과 미나는 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "함께 앉아서 공부했어요",
         "필통을 바꿨어요",
         "운동장에 나갔어요",
-        "선생님께 필통을 드렸어요"
+        "선생님께 필통을 드렸어요",
+        "함께 앉아서 공부했어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "마지막 페이지에서 준과 미나는 함께 앉아 공부(sit together and study)했어요."
     }
   ]

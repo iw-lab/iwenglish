@@ -1586,23 +1586,23 @@
       "type": "mc",
       "options": [
         "다리",
-        "머리와 목",
         "손",
+        "머리와 목",
         "이"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "My head hurts and I have a sore throat — 머리와 목이 아파요."
     },
     {
       "question_ko": "의사 선생님이 살펴본 곳은?",
       "type": "mc",
       "options": [
+        "눈과 코",
         "귀와 목",
         "손과 발",
-        "눈과 코",
         "배와 등"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "ears and throat — 귀와 목을 살펴봤어요."
     },
     {
@@ -1621,12 +1621,12 @@
       "question_ko": "의사 선생님이 시킨 것은?",
       "type": "mc",
       "options": [
+        "공부해라",
         "뛰어라",
         "약 먹고 쉬어라",
-        "물에 들어가라",
-        "공부해라"
+        "물에 들어가라"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "Take this medicine and rest — 약 먹고 쉬라고 했어요."
     }
   ]

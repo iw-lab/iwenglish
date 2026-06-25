@@ -526,60 +526,60 @@
       "question_ko": "버스는 무슨 색인가요?",
       "type": "mc",
       "options": [
-        "노란색",
-        "파란색",
         "빨간색",
-        "초록색"
+        "초록색",
+        "파란색",
+        "노란색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "이야기에서 'a big yellow bus'라고 했어요. 버스는 노란색이에요."
     },
     {
       "question_ko": "준은 버스에 타기 전에 어디에 있었나요?",
       "type": "mc",
       "options": [
-        "버스 정류장",
+        "공원",
         "학교",
-        "집",
-        "공원"
+        "버스 정류장",
+        "집"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'준 is at the bus stop.'이라고 했어요. 준은 버스 정류장에 있었어요."
     },
     {
       "question_ko": "버스가 서자 가장 먼저 어떤 일이 생겼나요?",
       "type": "mc",
       "options": [
-        "문이 열렸어요.",
         "준이 뛰어 올랐어요.",
-        "버스가 경적을 울렸어요.",
-        "운전기사가 내렸어요."
+        "운전기사가 내렸어요.",
+        "문이 열렸어요.",
+        "버스가 경적을 울렸어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'The door opens.'이라고 했어요. 버스가 서고 문이 열렸어요."
     },
     {
       "question_ko": "준은 버스에서 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "자리를 찾아 앉았어요.",
-        "춤을 췄어요.",
         "소리를 질렀어요.",
+        "춤을 췄어요.",
+        "자리를 찾아 앉았어요.",
         "잠을 잤어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'준 finds a good seat. He sits down.'이라고 했어요. 준은 자리를 찾아 앉았어요."
     },
     {
       "question_ko": "이야기 마지막에 준의 기분은 어땠나요?",
       "type": "mc",
       "options": [
-        "기분이 좋았어요.",
-        "무서웠어요.",
+        "배가 고팠어요.",
         "슬펐어요.",
-        "배가 고팠어요."
+        "무서웠어요.",
+        "기분이 좋았어요."
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "'준 is happy.'라고 했어요. 준은 기분이 좋았어요."
     }
   ]

@@ -2197,48 +2197,48 @@
       "question_ko": "학생들은 무엇을 만들었나요?",
       "type": "mc",
       "options": [
+        "운동장",
         "학교 뉴스",
-        "케이크",
         "과학 모형",
-        "운동장"
+        "케이크"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "school news를 만들었어요."
     },
     {
       "question_ko": "화자는 어떤 역할이었나요?",
       "type": "mc",
       "options": [
-        "기자",
-        "요리사",
+        "화가",
         "선수",
-        "화가"
+        "요리사",
+        "기자"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "I become the reporter."
     },
     {
       "question_ko": "누구를 인터뷰했나요?",
       "type": "mc",
       "options": [
+        "운전사",
         "사서 선생님",
         "의사",
-        "경찰",
-        "운전사"
+        "경찰"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "the librarian을 인터뷰했어요."
     },
     {
       "question_ko": "처음 목소리는 어땠나요?",
       "type": "mc",
       "options": [
-        "떨림",
-        "너무 큼",
+        "노래함",
         "없음",
-        "노래함"
+        "너무 큼",
+        "떨림"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "my voice shakes — 목소리가 떨렸어요."
     },
     {
@@ -2247,8 +2247,8 @@
       "options": [
         "잘 듣기",
         "빨리 달리기",
-        "크게 웃기",
-        "혼자 말하기"
+        "혼자 말하기",
+        "크게 웃기"
       ],
       "answerIndex": 0,
       "explain_ko": "listening carefully에서 시작돼요."

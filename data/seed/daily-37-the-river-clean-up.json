@@ -2709,12 +2709,12 @@
       "question_ko": "반은 어떤 활동에 참여했나요?",
       "type": "mc",
       "options": [
+        "영화 보기",
         "강가 청소",
         "요리 수업",
-        "영화 보기",
         "쇼핑"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "river clean-up은 강가 청소 활동이에요."
     },
     {
@@ -2723,8 +2723,8 @@
       "options": [
         "플라스틱 조각",
         "새 책",
-        "새 의자",
-        "깨끗한 물만"
+        "깨끗한 물만",
+        "새 의자"
       ],
       "answerIndex": 0,
       "explain_ko": "plastic pieces가 돌 사이에 있었어요."
@@ -2745,24 +2745,24 @@
       "question_ko": "쓰레기를 어떻게 나누었나요?",
       "type": "mc",
       "options": [
-        "플라스틱, 종이, 금속",
         "색깔만",
         "크기만",
-        "아무렇게나"
+        "아무렇게나",
+        "플라스틱, 종이, 금속"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "recycle correctly를 위해 분류했어요."
     },
     {
       "question_ko": "화자가 약속한 것은?",
       "type": "mc",
       "options": [
-        "도시락통 쓰기",
         "강에 쓰레기 버리기",
-        "늦게 자기",
-        "봉투 더 쓰기"
+        "봉투 더 쓰기",
+        "도시락통 쓰기",
+        "늦게 자기"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "use my lunch box라고 약속했어요."
     }
   ]

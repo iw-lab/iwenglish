@@ -470,12 +470,12 @@
       "question_ko": "준의 컵은 무슨 색인가요?",
       "type": "mc",
       "options": [
-        "파란색",
-        "빨간색",
         "초록색",
-        "노란색"
+        "파란색",
+        "노란색",
+        "빨간색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "이야기의 첫 문장에서 'my blue cup'이라고 했으니 파란색이에요."
     },
     {
@@ -483,9 +483,9 @@
       "type": "mc",
       "options": [
         "세면대",
-        "냉장고",
         "식탁",
-        "침대"
+        "침대",
+        "냉장고"
       ],
       "answerIndex": 0,
       "explain_ko": "'준 takes the cup to the sink.'에서 세면대(sink)로 갔다고 했어요."
@@ -494,12 +494,12 @@
       "question_ko": "준은 컵에 무엇을 채웠나요?",
       "type": "mc",
       "options": [
+        "주스",
         "차가운 물",
         "뜨거운 우유",
-        "주스",
         "차"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "'He fills the cup up with cold water.'에서 차가운 물을 채웠다고 했어요."
     },
     {
@@ -507,9 +507,9 @@
       "type": "mc",
       "options": [
         "행주로 닦았어요",
-        "물로 씻었어요",
+        "종이로 닦았어요",
         "그냥 놔뒀어요",
-        "종이로 닦았어요"
+        "물로 씻었어요"
       ],
       "answerIndex": 0,
       "explain_ko": "'He wipes the cup dry with a cloth.'에서 행주(cloth)로 닦았다고 했어요."
@@ -518,12 +518,12 @@
       "question_ko": "준은 마지막에 컵을 어디에 두었나요?",
       "type": "mc",
       "options": [
-        "선반 위",
-        "가방 안",
         "서랍 속",
-        "식탁 위"
+        "식탁 위",
+        "선반 위",
+        "가방 안"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'준 puts his blue cup back on the shelf.'에서 선반(shelf)에 올려놓았다고 했어요."
     }
   ]

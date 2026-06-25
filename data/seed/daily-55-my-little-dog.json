@@ -478,8 +478,8 @@
       "type": "mc",
       "options": [
         "작은 강아지",
-        "작은 고양이",
         "빨간 새",
+        "작은 고양이",
         "노란 토끼"
       ],
       "answerIndex": 0,
@@ -489,24 +489,24 @@
       "question_ko": "강아지의 눈은 어떤 색인가요?",
       "type": "mc",
       "options": [
-        "갈색",
-        "파란색",
         "초록색",
-        "검은색"
+        "갈색",
+        "검은색",
+        "파란색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "The dog has big brown eyes — 강아지는 크고 갈색인 눈을 가지고 있어요."
     },
     {
       "question_ko": "준이는 강아지에게 뭐라고 말했나요?",
       "type": "mc",
       "options": [
+        "같이 달려, 강아지야!",
         "안녕, 작은 강아지! 나는 너를 정말 좋아해.",
-        "잘 자, 작은 강아지!",
         "배고파, 강아지야?",
-        "같이 달려, 강아지야!"
+        "잘 자, 작은 강아지!"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준이는 \"Hello, little dog! I love you.\"라고 말했어요."
     },
     {
@@ -525,12 +525,12 @@
       "question_ko": "준이가 던진 공은 무슨 색인가요?",
       "type": "mc",
       "options": [
+        "초록색",
         "빨간색",
         "노란색",
-        "파란색",
-        "초록색"
+        "파란색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준 throws the red ball — 준이는 빨간 공을 던져요."
     }
   ]

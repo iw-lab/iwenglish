@@ -463,24 +463,24 @@
       "question_ko": "이 이야기는 하루 중 언제 일어나는 일인가요?",
       "type": "mc",
       "options": [
-        "밤",
-        "아침",
         "점심",
+        "아침",
+        "밤",
         "오후"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "첫 페이지에서 'It is night.'라고 했으므로 밤이에요."
     },
     {
       "question_ko": "준은 잠자리에 들기 전에 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "얼굴과 손을 씻었어요",
-        "책을 읽었어요",
         "간식을 먹었어요",
+        "책을 읽었어요",
+        "얼굴과 손을 씻었어요",
         "텔레비전을 봤어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'He washes his face and hands.'에서 준이 얼굴과 손을 씻었다고 했어요."
     },
     {
@@ -488,9 +488,9 @@
       "type": "mc",
       "options": [
         "따뜻해요",
-        "차가워요",
+        "무거워요",
         "딱딱해요",
-        "무거워요"
+        "차가워요"
       ],
       "answerIndex": 0,
       "explain_ko": "'The bed is warm.'에서 침대가 따뜻하다고 했어요."
@@ -500,9 +500,9 @@
       "type": "mc",
       "options": [
         "잠옷",
-        "교복",
+        "수영복",
         "운동복",
-        "수영복"
+        "교복"
       ],
       "answerIndex": 0,
       "explain_ko": "'He puts on his pajamas.'에서 잠옷을 입었다고 했어요."
@@ -511,12 +511,12 @@
       "question_ko": "이야기의 마지막에 준은 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "눈을 감았어요",
         "일어났어요",
+        "밥을 먹었어요",
         "뛰어놀았어요",
-        "밥을 먹었어요"
+        "눈을 감았어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "'He closes his eyes.'에서 준이 눈을 감았다고 했어요."
     }
   ]

@@ -1548,48 +1548,48 @@
       "question_ko": "준이 편지에 쓴 좋아하는 음식은 무엇인가요?",
       "type": "mc",
       "options": [
-        "떡볶이",
-        "불고기",
         "김밥",
-        "라면"
+        "떡볶이",
+        "라면",
+        "불고기"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준은 떡볶이를 정말 좋아하기 때문에 편지에 떡볶이 이야기를 썼습니다."
     },
     {
       "question_ko": "준은 무슨 요일에 태권도 수업을 가나요?",
       "type": "mc",
       "options": [
-        "화요일",
+        "토요일",
         "월요일",
         "목요일",
-        "토요일"
+        "화요일"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준 wrote about taekwondo class on Tuesdays — 준은 화요일마다 태권도 수업을 다닙니다."
     },
     {
       "question_ko": "준이 더 이상 쓸 내용이 떠오르지 않을 때 어떻게 했나요?",
       "type": "mc",
       "options": [
-        "톰의 편지를 다시 읽었다",
         "박 선생님에게 대신 써 달라고 했다",
+        "친구에게 전화했다",
         "편지 쓰기를 포기했다",
-        "친구에게 전화했다"
+        "톰의 편지를 다시 읽었다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준 ran out of ideas and looked at Tom's letter again — 준은 톰의 편지를 다시 읽고 질문할 내용을 찾았습니다."
     },
     {
       "question_ko": "준이 편지 끝에 톰에게 한 질문은 무엇인가요?",
       "type": "mc",
       "options": [
-        "영국 날씨는 어때?",
-        "영국 음식은 뭐야?",
+        "학교가 몇 시에 시작해?",
         "토끼 이름이 뭐야?",
-        "학교가 몇 시에 시작해?"
+        "영국 음식은 뭐야?",
+        "영국 날씨는 어때?"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준 wrote 'What is the weather like in England?' — 준은 영국 날씨에 대해 물어봤습니다."
     }
   ]

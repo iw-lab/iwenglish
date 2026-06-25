@@ -1530,32 +1530,32 @@
       "options": [
         "밥",
         "국",
-        "생선",
-        "피자"
+        "피자",
+        "생선"
       ],
-      "answerIndex": 3,
+      "answerIndex": 2,
       "explain_ko": "rice, soup, fish가 나왔어요. 피자는 없어요."
     },
     {
       "question_ko": "\"Can I have more rice, please?\"는 무슨 뜻일까요?",
       "type": "mc",
       "options": [
+        "밥이 뜨거워요",
         "밥 좀 더 주세요",
         "밥이 맛있어요",
-        "밥을 치워주세요",
-        "밥이 뜨거워요"
+        "밥을 치워주세요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "Can I have ~?는 \"~ 주시겠어요?\"라는 부탁이에요."
     },
     {
       "question_ko": "레오가 좋아하지 않는 음식은?",
       "type": "mc",
       "options": [
+        "국",
         "밥",
-        "사과",
         "생선",
-        "국"
+        "사과"
       ],
       "answerIndex": 2,
       "explain_ko": "Leo does not like fish — 생선을 좋아하지 않아요."
@@ -1564,24 +1564,24 @@
       "question_ko": "레오는 나에게 무엇을 나눠주었나요?",
       "type": "mc",
       "options": [
-        "국",
+        "밥",
         "생선",
-        "사과",
-        "밥"
+        "국",
+        "사과"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "Leo shares his soup with me — 레오가 자기 국을 나눠줬어요."
     },
     {
       "question_ko": "점심 뒤에 무엇을 정리했나요?",
       "type": "mc",
       "options": [
-        "식판",
-        "침대",
         "신발",
-        "우산"
+        "식판",
+        "우산",
+        "침대"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "clean my tray — 식판을 정리해요."
     }
   ]

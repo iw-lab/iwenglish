@@ -1099,11 +1099,11 @@
       "type": "mc",
       "options": [
         "빨강",
-        "파랑",
         "초록",
+        "파랑",
         "검정"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "blue crayon — 파란 크레용이에요."
     },
     {
@@ -1111,9 +1111,9 @@
       "type": "mc",
       "options": [
         "상자",
-        "가방",
+        "책",
         "주머니",
-        "책"
+        "가방"
       ],
       "answerIndex": 0,
       "explain_ko": "not in my box — 상자 안에 없었어요."
@@ -1122,24 +1122,24 @@
       "question_ko": "친구는 어디를 가리켰나요?",
       "type": "mc",
       "options": [
-        "창문",
         "바닥",
+        "칠판",
         "문",
-        "칠판"
+        "창문"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "points to the floor — 바닥을 가리켜요."
     },
     {
       "question_ko": "크레용으로 무엇을 완성했나요?",
       "type": "mc",
       "options": [
-        "하늘",
-        "집",
+        "차",
         "꽃",
-        "차"
+        "집",
+        "하늘"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "finish my sky — 하늘을 완성해요."
     }
   ]

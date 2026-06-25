@@ -1689,60 +1689,60 @@
       "question_ko": "누구의 생일인가요?",
       "type": "mc",
       "options": [
-        "나",
-        "미아",
         "엄마",
-        "선생님"
+        "선생님",
+        "미아",
+        "나"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "Mia's birthday — 미아의 생일이에요."
     },
     {
       "question_ko": "무엇을 가져갔나요?",
       "type": "mc",
       "options": [
-        "선물과 카드",
-        "꽃과 풍선",
+        "책과 연필",
         "케이크와 초",
-        "책과 연필"
+        "꽃과 풍선",
+        "선물과 카드"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "a present and a card — 선물과 카드를 가져갔어요."
     },
     {
       "question_ko": "케이크에 초가 몇 개 있었나요?",
       "type": "mc",
       "options": [
+        "스무 개",
         "다섯 개",
         "일곱 개",
-        "열 개",
-        "스무 개"
+        "열 개"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "ten candles — 초가 열 개였어요."
     },
     {
       "question_ko": "미아는 소원을 빌고 나서 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "초를 모두 껐다",
         "케이크를 잘랐다",
+        "선물을 열었다",
         "노래를 불렀다",
-        "선물을 열었다"
+        "초를 모두 껐다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "blows out all the candles — 초를 모두 불어서 껐어요."
     },
     {
       "question_ko": "집에 가기 전에 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "사진 찍기",
         "수영하기",
-        "청소하기",
-        "잠자기"
+        "사진 찍기",
+        "잠자기",
+        "청소하기"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "take a picture together — 함께 사진을 찍었어요."
     }
   ]

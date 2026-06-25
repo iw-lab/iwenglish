@@ -1497,12 +1497,12 @@
       "question_ko": "준의 장난감 로봇에서 어디가 부러졌나요?",
       "type": "mc",
       "options": [
-        "다리",
         "팔",
+        "눈",
         "머리",
-        "눈"
+        "다리"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "the robot's arm breaks off — 로봇의 팔이 부러졌어요."
     },
     {
@@ -1521,22 +1521,22 @@
       "question_ko": "아빠는 어디서 공구함을 꺼냈나요?",
       "type": "mc",
       "options": [
-        "부엌 서랍",
         "서랍장(옷장)",
         "자동차 트렁크",
-        "학교 가방"
+        "학교 가방",
+        "부엌 서랍"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "아빠 gets the toolbox from the closet. — 서랍장에서 꺼냈어요."
     },
     {
       "question_ko": "팔을 붙인 뒤 두 사람은 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "바로 팔을 움직여 봤어요",
-        "접착제가 마르길 기다렸어요",
         "새 장난감을 사러 갔어요",
-        "로봇을 버렸어요"
+        "접착제가 마르길 기다렸어요",
+        "로봇을 버렸어요",
+        "바로 팔을 움직여 봤어요"
       ],
       "answerIndex": 1,
       "explain_ko": "They wait quietly when the glue needs to dry. — 접착제가 마르길 조용히 기다렸어요."
@@ -1545,12 +1545,12 @@
       "question_ko": "로봇이 고쳐진 것을 확인한 준은 어떻게 했나요?",
       "type": "mc",
       "options": [
-        "아빠에게 화를 냈어요",
         "기뻐서 펄쩍 뛰었어요",
-        "다시 로봇을 떨어뜨렸어요",
-        "울음을 멈추지 못했어요"
+        "울음을 멈추지 못했어요",
+        "아빠에게 화를 냈어요",
+        "다시 로봇을 떨어뜨렸어요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "준 jumps up with joy. — 기뻐서 펄쩍 뛰었어요."
     }
   ]

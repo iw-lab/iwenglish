@@ -2688,36 +2688,36 @@
       "question_ko": "날씨 관찰소에는 무엇이 있었나요?",
       "type": "mc",
       "options": [
-        "온도계, 빗물 컵, 바람 리본",
-        "요리 도구",
         "책만",
+        "요리 도구",
+        "온도계, 빗물 컵, 바람 리본",
         "운동화"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "thermometer, rain cup, wind ribbon이에요."
     },
     {
       "question_ko": "매일 아침 무엇을 기록했나요?",
       "type": "mc",
       "options": [
-        "온도",
         "점심 메뉴",
+        "책 제목",
         "숙제",
-        "책 제목"
+        "온도"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "record the temperature예요."
     },
     {
       "question_ko": "선생님은 무엇을 찾아보라고 했나요?",
       "type": "mc",
       "options": [
-        "규칙",
         "모자",
         "연필",
+        "규칙",
         "문"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "patterns는 규칙이에요."
     },
     {
@@ -2737,9 +2737,9 @@
       "type": "mc",
       "options": [
         "주의 깊게 살펴보면 날씨를 이해할 수 있다",
-        "날씨는 항상 같다",
         "기록은 필요 없다",
-        "창문은 쓸모없다"
+        "창문은 쓸모없다",
+        "날씨는 항상 같다"
       ],
       "answerIndex": 0,
       "explain_ko": "good questions and close attention turn the window into a place for discovery."

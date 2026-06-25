@@ -1664,36 +1664,36 @@
       "question_ko": "누구와 지하철을 탔나요?",
       "type": "mc",
       "options": [
-        "엄마",
         "친구",
         "선생님",
-        "혼자"
+        "혼자",
+        "엄마"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "with Mom — 엄마와 함께요."
     },
     {
       "question_ko": "개찰구에서 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "카드를 찍었어요",
         "표를 버렸어요",
-        "뛰었어요",
-        "잤어요"
+        "카드를 찍었어요",
+        "잤어요",
+        "뛰었어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "tap our cards — 카드를 찍어요."
     },
     {
       "question_ko": "자리는 몇 개를 찾았나요?",
       "type": "mc",
       "options": [
-        "두 개",
-        "한 개",
         "다섯 개",
-        "없어요"
+        "없어요",
+        "두 개",
+        "한 개"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "two empty seats — 빈자리 두 개예요."
     },
     {
@@ -1702,8 +1702,8 @@
       "options": [
         "할머니",
         "아이",
-        "아저씨",
-        "엄마"
+        "엄마",
+        "아저씨"
       ],
       "answerIndex": 0,
       "explain_ko": "gives his seat to her — 할머니께 자리를 양보해요."
@@ -1712,12 +1712,12 @@
       "question_ko": "마지막에 무엇을 올라갔나요?",
       "type": "mc",
       "options": [
-        "계단",
-        "사다리",
         "언덕",
-        "나무"
+        "나무",
+        "사다리",
+        "계단"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "climb the stairs — 계단을 올라가요."
     }
   ]

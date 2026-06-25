@@ -1010,24 +1010,24 @@
       "question_ko": "준은 아침에 무엇을 먹었나요?",
       "type": "mc",
       "options": [
-        "밥과 달걀",
-        "빵과 우유",
+        "과일",
         "시리얼",
-        "과일"
+        "밥과 달걀",
+        "빵과 우유"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "준은 \"I had rice and eggs\"라고 말했어요. 밥과 달걀을 먹었어요."
     },
     {
       "question_ko": "버스 정류장에 먼저 도착한 사람은 누구인가요?",
       "type": "mc",
       "options": [
-        "미나",
+        "엄마",
         "준",
         "둘이 동시에",
-        "엄마"
+        "미나"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "\"미나 was already at the bus stop\"이라고 했어요. 미나가 먼저 와 있었어요."
     },
     {
@@ -1035,9 +1035,9 @@
       "type": "mc",
       "options": [
         "조금 쌀쌀했어요",
-        "매우 추웠어요",
+        "비가 왔어요",
         "따뜻하고 더웠어요",
-        "비가 왔어요"
+        "매우 추웠어요"
       ],
       "answerIndex": 0,
       "explain_ko": "\"It was a little cold but not too cold\"라고 했어요. 조금 쌀쌀했지만 많이 춥지는 않았어요."
@@ -1047,9 +1047,9 @@
       "type": "mc",
       "options": [
         "미나 옆에",
-        "창문 쪽 혼자",
+        "운전기사 옆에",
         "버스 맨 앞에",
-        "운전기사 옆에"
+        "창문 쪽 혼자"
       ],
       "answerIndex": 0,
       "explain_ko": "\"준 sat next to 미나\"라고 했어요. 준은 미나 옆에 앉았어요."
@@ -1058,12 +1058,12 @@
       "question_ko": "이 이야기는 어디에서 끝나나요?",
       "type": "mc",
       "options": [
-        "학교 앞",
+        "공원",
         "버스 정류장",
-        "준의 집",
-        "공원"
+        "학교 앞",
+        "준의 집"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "버스가 학교 앞에 멈추고, 준과 미나는 함께 학교로 들어갔어요."
     }
   ]

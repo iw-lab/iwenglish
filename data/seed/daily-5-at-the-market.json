@@ -2429,59 +2429,59 @@
       "type": "mc",
       "options": [
         "월요일",
+        "금요일",
         "토요일",
-        "수요일",
-        "금요일"
+        "수요일"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "On Saturday — 토요일에 갔어요."
     },
     {
       "question_ko": "엄마가 사려고 한 것은?",
       "type": "mc",
       "options": [
-        "사과와 빵",
+        "물과 주스",
         "우유와 달걀",
-        "생선과 밥",
-        "물과 주스"
+        "사과와 빵",
+        "생선과 밥"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "apples and bread — 사과와 빵이 필요했어요."
     },
     {
       "question_ko": "\"How much are the apples?\"는 무슨 뜻인가요?",
       "type": "mc",
       "options": [
-        "사과 몇 개예요?",
         "사과는 얼마예요?",
         "사과가 빨개요?",
-        "사과 어디 있어요?"
+        "사과 어디 있어요?",
+        "사과 몇 개예요?"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "How much ~?는 가격(얼마)을 묻는 말이에요."
     },
     {
       "question_ko": "사과 다섯 개의 값은 얼마였나요?",
       "type": "mc",
       "options": [
-        "1달러",
-        "2달러",
+        "10달러",
         "5달러",
-        "10달러"
+        "2달러",
+        "1달러"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "Five apples for two dollars — 2달러였어요."
     },
     {
       "question_ko": "엄마는 왜 두 가판대의 가격을 비교했나요?",
       "type": "mc",
       "options": [
+        "빵 가판대를 찾으려고",
         "더 신선한 사과를 찾으려고",
         "더 좋은 가격을 찾으려고",
-        "빵 가판대를 찾으려고",
         "거스름돈을 확인하려고"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "comparing prices — 더 좋은 가격을 찾으려고 비교했어요."
     }
   ]

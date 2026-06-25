@@ -1106,9 +1106,9 @@
       "type": "mc",
       "options": [
         "비",
+        "낙엽",
         "눈",
-        "꽃잎",
-        "낙엽"
+        "꽃잎"
       ],
       "answerIndex": 0,
       "explain_ko": "rain — 비예요."
@@ -1117,36 +1117,36 @@
       "question_ko": "우산은 무슨 색인가요?",
       "type": "mc",
       "options": [
-        "노랑",
         "빨강",
         "파랑",
+        "노랑",
         "초록"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "yellow umbrella — 노란 우산이에요."
     },
     {
       "question_ko": "신발은 어디서 첨벙거렸나요?",
       "type": "mc",
       "options": [
+        "욕조",
         "웅덩이",
         "바다",
-        "욕조",
         "강"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "puddles — 웅덩이예요."
     },
     {
       "question_ko": "나는 어떻게 지냈나요?",
       "type": "mc",
       "options": [
-        "따뜻하고 보송해요",
-        "젖었어요",
         "추워요",
-        "아파요"
+        "아파요",
+        "따뜻하고 보송해요",
+        "젖었어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "warm and dry — 따뜻하고 보송해요."
     }
   ]

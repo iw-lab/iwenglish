@@ -1023,36 +1023,36 @@
       "question_ko": "나는 무엇을 가지고 있나요?",
       "type": "mc",
       "options": [
+        "공",
         "작은 어항",
-        "강아지",
         "새장",
-        "공"
+        "강아지"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "a small fish tank — 작은 어항이에요."
     },
     {
       "question_ko": "물고기는 몇 마리인가요?",
       "type": "mc",
       "options": [
-        "두 마리",
         "한 마리",
         "다섯 마리",
+        "두 마리",
         "없어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "two fish — 두 마리예요."
     },
     {
       "question_ko": "무엇을 넣었나요?",
       "type": "mc",
       "options": [
-        "먹이",
-        "돌",
+        "모래",
         "물감",
-        "모래"
+        "돌",
+        "먹이"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "food를 넣었어요."
     },
     {
@@ -1061,8 +1061,8 @@
       "options": [
         "빠르게",
         "천천히",
-        "거꾸로",
-        "안 와요"
+        "안 와요",
+        "거꾸로"
       ],
       "answerIndex": 0,
       "explain_ko": "swim up fast — 빠르게요."
@@ -1071,12 +1071,12 @@
       "question_ko": "마지막에 물고기는 어땠나요?",
       "type": "mc",
       "options": [
-        "행복하고 배불러요",
-        "배고파요",
+        "슬퍼요",
         "아파요",
-        "슬퍼요"
+        "배고파요",
+        "행복하고 배불러요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "happy and full — 행복하고 배불러요."
     }
   ]

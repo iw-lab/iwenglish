@@ -2673,60 +2673,60 @@
       "question_ko": "가족은 언제 식당에 갔나요?",
       "type": "mc",
       "options": [
-        "월요일 아침",
-        "금요일 저녁",
         "토요일 점심",
-        "일요일 밤"
+        "일요일 밤",
+        "금요일 저녁",
+        "월요일 아침"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "On Friday evening — 금요일 저녁에 갔어요."
     },
     {
       "question_ko": "종업원이 처음 가져다 준 것은?",
       "type": "mc",
       "options": [
-        "메뉴",
-        "물",
         "음식",
-        "계산서"
+        "계산서",
+        "물",
+        "메뉴"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "brings us the menu — 메뉴를 가져다줬어요."
     },
     {
       "question_ko": "아이가 주문한 음식은?",
       "type": "mc",
       "options": [
-        "치킨과 밥",
         "피자와 콜라",
-        "국과 빵",
-        "생선과 우유"
+        "치킨과 밥",
+        "생선과 우유",
+        "국과 빵"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "chicken and rice — 치킨과 밥을 주문했어요."
     },
     {
       "question_ko": "여동생은 음식을 먹고 뭐라고 했나요?",
       "type": "mc",
       "options": [
-        "맛없어요",
         "정말 맛있어요",
-        "배불러요",
-        "매워요"
+        "매워요",
+        "맛없어요",
+        "배불러요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "This is delicious — 정말 맛있다고 했어요."
     },
     {
       "question_ko": "수프가 너무 뜨거울 때 어떻게 했나요?",
       "type": "mc",
       "options": [
-        "기다리고 살짝 불었어요",
         "바로 마셨어요",
+        "울었어요",
         "버렸어요",
-        "울었어요"
+        "기다리고 살짝 불었어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "wait and blow gently — 기다리고 살짝 불었어요."
     }
   ]

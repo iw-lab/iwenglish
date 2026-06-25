@@ -1100,12 +1100,12 @@
       "question_ko": "아이가 가진 장난감은?",
       "type": "mc",
       "options": [
-        "빨간 자동차와 파란 공",
-        "노란 곰과 초록 차",
         "흰 공과 검은 차",
-        "분홍 인형"
+        "노란 곰과 초록 차",
+        "분홍 인형",
+        "빨간 자동차와 파란 공"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "a red car and a blue ball — 빨간 자동차와 파란 공이에요."
     },
     {
@@ -1124,36 +1124,36 @@
       "question_ko": "\"Time to clean up\"는 무슨 뜻인가요?",
       "type": "mc",
       "options": [
-        "놀 시간이야",
-        "정리할 시간이야",
         "잘 시간이야",
-        "먹을 시간이야"
+        "놀 시간이야",
+        "먹을 시간이야",
+        "정리할 시간이야"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "clean up은 정리하다 — 정리할 시간이라는 뜻이에요."
     },
     {
       "question_ko": "장난감을 어디에 넣었나요?",
       "type": "mc",
       "options": [
-        "상자",
-        "가방",
+        "바구니",
         "서랍",
-        "바구니"
+        "가방",
+        "상자"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "in the box — 상자에 넣었어요."
     },
     {
       "question_ko": "엄마가 마지막에 한 말은?",
       "type": "mc",
       "options": [
-        "Good job",
-        "Good night",
+        "Be quiet",
         "Hurry up",
-        "Be quiet"
+        "Good job",
+        "Good night"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "Good job은 \"잘했어\"라는 칭찬이에요."
     }
   ]

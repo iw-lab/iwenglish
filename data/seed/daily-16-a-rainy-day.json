@@ -1100,10 +1100,10 @@
       "question_ko": "오늘 날씨는 어떤가요?",
       "type": "mc",
       "options": [
-        "맑음",
-        "비",
         "눈",
-        "바람"
+        "비",
+        "바람",
+        "맑음"
       ],
       "answerIndex": 1,
       "explain_ko": "It is raining — 비가 와요."
@@ -1124,22 +1124,22 @@
       "question_ko": "무엇을 챙겼나요?",
       "type": "mc",
       "options": [
-        "우산과 장화",
         "모자와 장갑",
+        "우산과 장화",
         "가방과 책",
         "공과 글러브"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "umbrella and boots."
     },
     {
       "question_ko": "물웅덩이에서 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "걸었어요",
-        "첨벙 뛰었어요",
         "앉았어요",
-        "피했어요"
+        "첨벙 뛰었어요",
+        "피했어요",
+        "걸었어요"
       ],
       "answerIndex": 1,
       "explain_ko": "jump in the puddles — 첨벙 뛰었어요."
@@ -1148,12 +1148,12 @@
       "question_ko": "비는 손에 어떻게 느껴졌나요?",
       "type": "mc",
       "options": [
-        "뜨겁게",
         "시원하게",
         "아프게",
+        "뜨겁게",
         "간지럽게"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "cool은 시원하다는 뜻이에요."
     }
   ]

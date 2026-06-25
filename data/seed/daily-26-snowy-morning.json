@@ -606,58 +606,58 @@
       "question_ko": "오늘 날씨는 어떤가요?",
       "type": "mc",
       "options": [
-        "눈",
-        "비",
+        "햇빛",
         "바람",
-        "햇빛"
+        "비",
+        "눈"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "snowy는 눈이 온다는 뜻이에요."
     },
     {
       "question_ko": "눈은 무슨 색인가요?",
       "type": "mc",
       "options": [
-        "빨강",
         "파랑",
-        "하양",
-        "검정"
+        "검정",
+        "빨강",
+        "하양"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "white snow — 하얀 눈이에요."
     },
     {
       "question_ko": "무엇을 입었나요?",
       "type": "mc",
       "options": [
-        "코트",
-        "수영복",
+        "반바지",
         "앞치마",
-        "반바지"
+        "코트",
+        "수영복"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "put on my coat — 코트를 입었어요."
     },
     {
       "question_ko": "머리에 무엇을 썼나요?",
       "type": "mc",
       "options": [
-        "모자",
-        "신발",
         "가방",
-        "우산"
+        "신발",
+        "우산",
+        "모자"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "hat은 모자예요."
     },
     {
       "question_ko": "눈 오는 날은 어떤가요?",
       "type": "mc",
       "options": [
-        "어두워요",
-        "밝아요",
         "더워요",
-        "시끄러워요"
+        "밝아요",
+        "시끄러워요",
+        "어두워요"
       ],
       "answerIndex": 1,
       "explain_ko": "bright는 밝다는 뜻이에요. 눈 오는 날은 환하게 빛나요."

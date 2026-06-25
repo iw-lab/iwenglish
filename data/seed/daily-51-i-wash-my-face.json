@@ -499,60 +499,60 @@
       "question_ko": "준은 세수하러 어디로 갔나요?",
       "type": "mc",
       "options": [
-        "화장실",
+        "학교",
         "부엌",
         "방",
-        "학교"
+        "화장실"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준은 세수를 하러 화장실로 갔어요."
     },
     {
       "question_ko": "준이 손에 무엇을 묻혔나요?",
       "type": "mc",
       "options": [
-        "비누",
-        "물",
+        "치약",
         "수건",
-        "치약"
+        "물",
+        "비누"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준은 세수를 하기 위해 손에 비누를 묻혔어요."
     },
     {
       "question_ko": "준이 얼굴을 닦는 데 무엇을 사용했나요?",
       "type": "mc",
       "options": [
-        "수건",
         "비누",
         "물",
-        "휴지"
+        "휴지",
+        "수건"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준은 부드러운 수건으로 얼굴을 닦았어요."
     },
     {
       "question_ko": "이 이야기는 언제 일어나는 일인가요?",
       "type": "mc",
       "options": [
-        "아침",
+        "밤",
         "점심",
-        "저녁",
-        "밤"
+        "아침",
+        "저녁"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "준은 아침에 일어나서 세수를 했어요."
     },
     {
       "question_ko": "세수를 다 마친 후 준의 얼굴은 어떻게 됐나요?",
       "type": "mc",
       "options": [
+        "붉어졌어요",
         "깨끗하고 산뜻해졌어요",
         "더러워졌어요",
-        "붉어졌어요",
         "아팠어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "세수를 마친 후 준의 얼굴은 깨끗하고 산뜻해졌어요."
     }
   ]

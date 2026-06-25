@@ -2553,12 +2553,12 @@
       "question_ko": "준과 미나가 팟캐스트 이름으로 정한 것은 무엇인가요?",
       "type": "mc",
       "options": [
-        "Class Wave",
-        "School Radio",
         "Morning News",
-        "Daily Podcast"
+        "Class Wave",
+        "Daily Podcast",
+        "School Radio"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준이 'Class Wave'를 제안했고 미나가 라디오 프로그램 같다며 마음에 들어 했어요."
     },
     {
@@ -2566,9 +2566,9 @@
       "type": "mc",
       "options": [
         "김 선생님",
+        "미나의 부모님",
         "도서관 사서 선생님",
-        "교장 선생님",
-        "미나의 부모님"
+        "교장 선생님"
       ],
       "answerIndex": 0,
       "explain_ko": "담임 선생님인 김 선생님이 도서관 녹음실을 쓸 수 있도록 허락해 주셨어요."
@@ -2577,24 +2577,24 @@
       "question_ko": "처음 녹음 연습을 할 때 준의 문제는 무엇이었나요?",
       "type": "mc",
       "options": [
-        "목소리가 너무 작았다",
-        "대본을 잊어버렸다",
         "마이크가 고장 났다",
-        "너무 빠르게 말했다"
+        "대본을 잊어버렸다",
+        "너무 빠르게 말했다",
+        "목소리가 너무 작았다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준은 처음에 목소리가 너무 작아서 더 많이 연습해야 했어요."
     },
     {
       "question_ko": "팟캐스트를 들은 후 반 친구들이 보인 반응이 아닌 것은 무엇인가요?",
       "type": "mc",
       "options": [
-        "아무도 관심을 보이지 않았다",
+        "팀에 합류하고 싶다고 했다",
         "자기 목소리에 낄낄 웃었다",
         "손뼉을 쳤다",
-        "팀에 합류하고 싶다고 했다"
+        "아무도 관심을 보이지 않았다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "반 친구들은 웃거나 손뼉을 치거나 팀에 들어가겠다고 하는 등 긍정적인 반응을 보였어요."
     }
   ]

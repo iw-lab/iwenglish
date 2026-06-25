@@ -968,32 +968,32 @@
       "question_ko": "준이 아침에 처음 느낀 것은 무엇인가요?",
       "type": "mc",
       "options": [
-        "맛있는 냄새",
+        "밝은 햇빛",
         "시끄러운 소리",
         "차가운 바람",
-        "밝은 햇빛"
+        "맛있는 냄새"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준이 일어났을 때 뭔가 맛있는 냄새를 맡았어요(He smells something good)."
     },
     {
       "question_ko": "엄마가 만든 아침밥은 무엇이었나요?",
       "type": "mc",
       "options": [
-        "빵과 우유",
-        "밥과 달걀",
         "국수와 채소",
-        "팬케이크와 주스"
+        "팬케이크와 주스",
+        "빵과 우유",
+        "밥과 달걀"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "엄마가 \"Rice and eggs\"라고 했어요. 밥이랑 달걀이에요."
     },
     {
       "question_ko": "엄마가 접시에 담아준 과일은 무엇인가요?",
       "type": "mc",
       "options": [
-        "바나나",
         "사과",
+        "바나나",
         "딸기",
         "포도"
       ],
@@ -1005,21 +1005,21 @@
       "type": "mc",
       "options": [
         "노래를 불렀어요",
+        "더 많은 음식을 줬어요",
         "밖으로 나갔어요",
-        "웃으며 안아줬어요",
-        "더 많은 음식을 줬어요"
+        "웃으며 안아줬어요"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "엄마 smiles and gives him a big hug. 엄마가 활짝 웃으며 준을 안아줬어요."
     },
     {
       "question_ko": "이 이야기에서 준은 식사를 마치고 어떤 기분이 들었나요?",
       "type": "mc",
       "options": [
-        "피곤하고 졸린 기분",
+        "화나고 지루한 기분",
         "행복하고 배부른 기분",
         "슬프고 외로운 기분",
-        "화나고 지루한 기분"
+        "피곤하고 졸린 기분"
       ],
       "answerIndex": 1,
       "explain_ko": "준 feels happy and full. 준은 행복하고 배가 불렀어요."

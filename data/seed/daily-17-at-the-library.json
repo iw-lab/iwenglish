@@ -1609,33 +1609,33 @@
       "type": "mc",
       "options": [
         "월요일",
-        "토요일",
         "금요일",
-        "수요일"
+        "수요일",
+        "토요일"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "On Saturday — 토요일이에요."
     },
     {
       "question_ko": "도서관 안에서는 어떻게 해야 하나요?",
       "type": "mc",
       "options": [
-        "뛰어요",
+        "크게 말해요",
         "노래해요",
-        "조용히 해요",
-        "크게 말해요"
+        "뛰어요",
+        "조용히 해요"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "must be quiet — 조용히 해야 해요."
     },
     {
       "question_ko": "큰 책은 무엇에 관한 것이었나요?",
       "type": "mc",
       "options": [
-        "사자",
+        "곰",
         "호랑이",
         "코끼리",
-        "곰"
+        "사자"
       ],
       "answerIndex": 1,
       "explain_ko": "a big book about tigers."
@@ -1656,12 +1656,12 @@
       "question_ko": "책을 빌릴 때 사서 선생님께 무엇을 보여줬나요?",
       "type": "mc",
       "options": [
-        "학생증",
-        "도서관 카드",
+        "엄마 카드",
         "현금",
-        "엄마 카드"
+        "학생증",
+        "도서관 카드"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "I show my library card — 도서관 카드를 보여줬어요."
     }
   ]

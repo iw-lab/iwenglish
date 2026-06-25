@@ -2721,48 +2721,48 @@
       "question_ko": "관리인은 무엇이 먼저 필요하다고 했나요?",
       "type": "mc",
       "options": [
-        "분명한 계획",
-        "비싼 책장",
+        "간식",
         "음악",
-        "간식"
+        "비싼 책장",
+        "분명한 계획"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "a clear plan first예요."
     },
     {
       "question_ko": "표지판의 규칙은 무엇인가요?",
       "type": "mc",
       "options": [
-        "한 권 가져가고 한 권 두기",
+        "소리 지르기",
         "책 사기만",
         "아무것도 만지지 않기",
-        "소리 지르기"
+        "한 권 가져가고 한 권 두기"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "take one book and leave one book."
     },
     {
       "question_ko": "선반이 지저분해질 걱정을 해결한 방법은?",
       "type": "mc",
       "options": [
-        "청소 일정 만들기",
         "선반 치우기",
         "문 잠그기",
-        "책 버리기"
+        "책 버리기",
+        "청소 일정 만들기"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "cleaning schedule을 만들었어요."
     },
     {
       "question_ko": "어린아이들을 위해 그림책은 어디에 두었나요?",
       "type": "mc",
       "options": [
-        "낮은 칸",
         "가장 위",
+        "낮은 칸",
         "밖",
         "상자 속"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "lower shelf는 낮은 칸이에요."
     }
   ]

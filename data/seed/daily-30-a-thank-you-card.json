@@ -1623,9 +1623,9 @@
       "type": "mc",
       "options": [
         "문 앞",
+        "식당",
         "도서관",
-        "운동장",
-        "식당"
+        "운동장"
       ],
       "answerIndex": 0,
       "explain_ko": "at our gate — 우리 문 앞이에요."
@@ -1634,24 +1634,24 @@
       "question_ko": "아저씨는 무엇을 도와주셨나요?",
       "type": "mc",
       "options": [
-        "길 건너기",
+        "그림",
         "요리",
-        "수영",
-        "그림"
+        "길 건너기",
+        "수영"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "cross the street safely — 안전하게 길 건너기예요."
     },
     {
       "question_ko": "나는 무엇을 만들고 싶었나요?",
       "type": "mc",
       "options": [
-        "감사 카드",
-        "가방",
+        "모자",
         "케이크",
-        "모자"
+        "감사 카드",
+        "가방"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "thank-you card는 감사 카드예요."
     },
     {
@@ -1660,8 +1660,8 @@
       "options": [
         "고맙습니다",
         "미안합니다",
-        "잘 가요",
-        "안녕"
+        "안녕",
+        "잘 가요"
       ],
       "answerIndex": 0,
       "explain_ko": "Thank you for helping us."
@@ -1672,8 +1672,8 @@
       "options": [
         "부드럽게 웃음",
         "울음",
-        "달림",
-        "잠"
+        "잠",
+        "달림"
       ],
       "answerIndex": 0,
       "explain_ko": "he laughs softly — 부드럽게 웃으셨어요."

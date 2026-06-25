@@ -435,36 +435,36 @@
       "question_ko": "이 이야기는 언제 일어나는 일인가요?",
       "type": "mc",
       "options": [
-        "밤",
         "아침",
-        "점심",
-        "저녁 식사 시간"
+        "밤",
+        "저녁 식사 시간",
+        "점심"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "첫 번째 페이지에서 'It is night.'라고 했으므로 밤이에요."
     },
     {
       "question_ko": "준의 베개는 어떤 색인가요?",
       "type": "mc",
       "options": [
-        "하얀색",
-        "파란색",
+        "빨간색",
         "노란색",
-        "빨간색"
+        "하얀색",
+        "파란색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "'It is white.'에서 베개가 하얀색이라고 했어요."
     },
     {
       "question_ko": "준은 베개를 어떻게 했나요?",
       "type": "mc",
       "options": [
-        "꼭 안았다",
+        "빌려줬다",
         "던졌다",
         "숨겼다",
-        "빌려줬다"
+        "꼭 안았다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "'준 hugs his soft pillow tight.'에서 준이 베개를 꼭 안았다고 했어요."
     },
     {
@@ -483,12 +483,12 @@
       "question_ko": "이 이야기의 주인공 이름은 무엇인가요?",
       "type": "mc",
       "options": [
-        "준",
         "Tom",
         "Mira",
+        "준",
         "Sam"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "이야기 속 주인공은 준이에요."
     }
   ]

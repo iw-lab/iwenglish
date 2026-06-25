@@ -1815,12 +1815,12 @@
       "question_ko": "왜 밖에 못 나갔나요?",
       "type": "mc",
       "options": [
-        "비가 와서",
-        "추워서",
+        "문이 잠겨서",
         "숙제 때문에",
-        "문이 잠겨서"
+        "비가 와서",
+        "추워서"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "because it rained — 비가 와서요."
     },
     {
@@ -1828,9 +1828,9 @@
       "type": "mc",
       "options": [
         "게임 상자",
-        "창문",
         "도시락",
-        "책가방"
+        "책가방",
+        "창문"
       ],
       "answerIndex": 0,
       "explain_ko": "a big box of games — 큰 게임 상자예요."
@@ -1839,24 +1839,24 @@
       "question_ko": "친구들과 무엇을 쌓았나요?",
       "type": "mc",
       "options": [
-        "높은 탑",
-        "눈사람",
+        "담요",
         "모래성",
-        "담요"
+        "눈사람",
+        "높은 탑"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "a tall tower — 높은 탑이에요."
     },
     {
       "question_ko": "민이는 무엇을 그렸나요?",
       "type": "mc",
       "options": [
-        "우리 반의 웃긴 그림",
+        "만화책",
         "지도",
         "포스터",
-        "만화책"
+        "우리 반의 웃긴 그림"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "a funny picture of our class."
     },
     {
@@ -1864,9 +1864,9 @@
       "type": "mc",
       "options": [
         "행복한 추억",
+        "긴 시험",
         "지루한 하루",
-        "슬픈 날",
-        "긴 시험"
+        "슬픈 날"
       ],
       "answerIndex": 0,
       "explain_ko": "a happy memory — 행복한 추억이 됐어요."

@@ -1017,9 +1017,9 @@
       "type": "mc",
       "options": [
         "아빠",
-        "선생님",
+        "혼자",
         "친구",
-        "혼자"
+        "선생님"
       ],
       "answerIndex": 0,
       "explain_ko": "Dad and I — 아빠와 나예요."
@@ -1028,24 +1028,24 @@
       "question_ko": "무엇을 섞었나요?",
       "type": "mc",
       "options": [
-        "달걀과 우유",
         "밥과 물",
         "차와 설탕",
+        "달걀과 우유",
         "빵과 소금"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "eggs and milk를 섞었어요."
     },
     {
       "question_ko": "그릇을 어떻게 저었나요?",
       "type": "mc",
       "options": [
-        "천천히",
+        "안 저음",
         "빠르게",
         "세게",
-        "안 저음"
+        "천천히"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "slowly는 천천히예요."
     },
     {
@@ -1053,11 +1053,11 @@
       "type": "mc",
       "options": [
         "검정",
-        "노릇하게",
+        "하얗게",
         "파랗게",
-        "하얗게"
+        "노릇하게"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "golden은 노릇한 색이에요."
     },
     {
@@ -1065,9 +1065,9 @@
       "type": "mc",
       "options": [
         "과일",
-        "연필",
+        "종이",
         "책",
-        "종이"
+        "연필"
       ],
       "answerIndex": 0,
       "explain_ko": "fruit on top — 과일을 위에 올렸어요."

@@ -559,36 +559,36 @@
       "question_ko": "작은 쥐가 본 것은 무엇인가요?",
       "type": "mc",
       "options": [
-        "큰 치즈",
-        "작은 빵",
         "사과",
-        "우유"
+        "우유",
+        "작은 빵",
+        "큰 치즈"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "쥐는 큰 치즈를 보았어요."
     },
     {
       "question_ko": "치즈는 어떤가요?",
       "type": "mc",
       "options": [
+        "차가워요",
         "아주 커요",
         "아주 작아요",
-        "차가워요",
         "달콤해요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "치즈는 아주 컸어요."
     },
     {
       "question_ko": "쥐는 치즈를 처음에 어떻게 했나요?",
       "type": "mc",
       "options": [
-        "밀었어요",
         "먹었어요",
         "숨겼어요",
-        "던졌어요"
+        "던졌어요",
+        "밀었어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "쥐는 처음에 치즈를 힘껏 밀었어요."
     },
     {
@@ -596,9 +596,9 @@
       "type": "mc",
       "options": [
         "친구",
-        "고양이",
+        "강아지",
         "엄마",
-        "강아지"
+        "고양이"
       ],
       "answerIndex": 0,
       "explain_ko": "친구가 도와주러 왔어요."
@@ -608,8 +608,8 @@
       "type": "mc",
       "options": [
         "함께하면 어려운 일도 해낼 수 있어요",
-        "혼자가 더 빨라요",
         "치즈는 맛있어요",
+        "혼자가 더 빨라요",
         "쥐는 작아요"
       ],
       "answerIndex": 0,

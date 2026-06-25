@@ -632,9 +632,9 @@
       "type": "mc",
       "options": [
         "노란색",
+        "초록색",
         "파란색",
-        "빨간색",
-        "초록색"
+        "빨간색"
       ],
       "answerIndex": 0,
       "explain_ko": "이야기 내내 준은 노란(yellow) 모자를 써요."
@@ -643,48 +643,48 @@
       "question_ko": "준은 모자를 쓴 후 어디로 갔나요?",
       "type": "mc",
       "options": [
-        "밖으로 나갔어요",
         "학교에 갔어요",
-        "부엌에 갔어요",
-        "침대에 누웠어요"
+        "침대에 누웠어요",
+        "밖으로 나갔어요",
+        "부엌에 갔어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "준 goes outside. 준은 모자를 쓰고 밖으로 나갔어요."
     },
     {
       "question_ko": "준이 밖에서 본 것이 아닌 것은 무엇인가요?",
       "type": "mc",
       "options": [
-        "노란 강아지",
         "노란 꽃",
+        "노란 강아지",
         "노란 버스",
         "노란 해"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "이야기에서 준은 꽃, 버스, 해를 봤어요. 노란 강아지는 나오지 않아요."
     },
     {
       "question_ko": "준이 집에 돌아와서 한 일은 무엇인가요?",
       "type": "mc",
       "options": [
+        "모자를 잃어버렸어요",
         "모자를 선반에 올려놓았어요",
-        "모자를 바닥에 던졌어요",
         "모자를 친구에게 줬어요",
-        "모자를 잃어버렸어요"
+        "모자를 바닥에 던졌어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "He puts his yellow hat on the shelf. 모자를 선반 위에 올려놓았어요."
     },
     {
       "question_ko": "준이 뛰어도 어떻게 됐나요?",
       "type": "mc",
       "options": [
-        "모자가 떨어지지 않았어요",
-        "모자가 날아갔어요",
+        "모자가 찢어졌어요",
         "모자가 구겨졌어요",
-        "모자가 찢어졌어요"
+        "모자가 날아갔어요",
+        "모자가 떨어지지 않았어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "His hat does not fall off. 뛰어도 모자는 떨어지지 않았어요."
     }
   ]

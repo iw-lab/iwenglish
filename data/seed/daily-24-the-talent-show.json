@@ -2780,59 +2780,59 @@
       "type": "mc",
       "options": [
         "운동회",
-        "장기자랑",
         "소풍",
-        "시험"
+        "시험",
+        "장기자랑"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "a talent show — 장기자랑이에요."
     },
     {
       "question_ko": "나는 무엇으로 연주하기로 했나요?",
       "type": "mc",
       "options": [
-        "기타",
-        "피아노",
         "바이올린",
-        "북"
+        "기타",
+        "북",
+        "피아노"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "play a song on the piano."
     },
     {
       "question_ko": "언제 연습했나요?",
       "type": "mc",
       "options": [
-        "아침마다",
-        "매일 학교가 끝나고",
         "주말에만",
-        "안 했어요"
+        "아침마다",
+        "안 했어요",
+        "매일 학교가 끝나고"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "Every day after school, I practice hard."
     },
     {
       "question_ko": "공연 날 마음이 어땠나요?",
       "type": "mc",
       "options": [
-        "심장이 빠르게 뛰어요",
-        "졸려요",
         "화나요",
+        "졸려요",
+        "심장이 빠르게 뛰어요",
         "심심해요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "my heart beats fast — 긴장됐어요."
     },
     {
       "question_ko": "연주를 마치자 사람들이 무엇을 했나요?",
       "type": "mc",
       "options": [
-        "나갔어요",
         "크게 박수쳤어요",
-        "조용했어요",
-        "노래했어요"
+        "노래했어요",
+        "나갔어요",
+        "조용했어요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "everyone claps loudly."
     }
   ]

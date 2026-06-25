@@ -627,24 +627,24 @@
       "question_ko": "이건 무엇인가요?",
       "type": "mc",
       "options": [
+        "공",
         "도시락",
         "가방",
-        "신발",
-        "공"
+        "신발"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "lunchbox는 도시락이에요."
     },
     {
       "question_ko": "도시락 안에 무엇이 있나요?",
       "type": "mc",
       "options": [
+        "책",
         "밥",
         "물",
-        "책",
         "모자"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "I have rice — 밥이 있어요."
     },
     {
@@ -653,8 +653,8 @@
       "options": [
         "작아요",
         "커요",
-        "없어요",
-        "파래요"
+        "파래요",
+        "없어요"
       ],
       "answerIndex": 0,
       "explain_ko": "a small apple — 작은 사과예요."
@@ -663,24 +663,24 @@
       "question_ko": "음식 냄새는 어땠나요?",
       "type": "mc",
       "options": [
-        "좋아요",
-        "이상해요",
+        "매워요",
         "안 나요",
-        "매워요"
+        "이상해요",
+        "좋아요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "smells good — 냄새가 좋아요."
     },
     {
       "question_ko": "누구와 먹나요?",
       "type": "mc",
       "options": [
-        "친구",
         "혼자",
         "선생님",
-        "강아지"
+        "강아지",
+        "친구"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "with my friend — 친구와 먹어요."
     }
   ]

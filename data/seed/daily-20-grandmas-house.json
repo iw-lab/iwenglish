@@ -1766,24 +1766,24 @@
       "question_ko": "언제 할머니 댁에 갔나요?",
       "type": "mc",
       "options": [
-        "토요일",
         "일요일",
+        "금요일",
         "월요일",
-        "금요일"
+        "토요일"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "On Sunday — 일요일이에요."
     },
     {
       "question_ko": "할머니 집에서 무슨 냄새가 났나요?",
       "type": "mc",
       "options": [
-        "꽃",
         "갓 구운 빵",
         "커피",
-        "비누"
+        "비누",
+        "꽃"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "smells like fresh bread — 갓 구운 빵 냄새가 났어요."
     },
     {
@@ -1804,19 +1804,19 @@
       "options": [
         "주스",
         "물",
-        "차",
-        "우유"
+        "우유",
+        "차"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "drink tea — 차를 마셨어요."
     },
     {
       "question_ko": "할머니의 이야기는 무엇에 관한 것이었나요?",
       "type": "mc",
       "options": [
-        "용감한 소년과 불",
-        "영리한 소녀와 신비로운 강",
         "토끼와 거북이",
+        "영리한 소녀와 신비로운 강",
+        "용감한 소년과 불",
         "왕자와 성"
       ],
       "answerIndex": 1,

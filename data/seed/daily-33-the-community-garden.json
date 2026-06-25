@@ -2589,12 +2589,12 @@
       "question_ko": "동네는 빈터를 무엇으로 만들기로 했나요?",
       "type": "mc",
       "options": [
-        "공동 정원",
+        "가게",
         "주차장",
-        "운동장",
-        "가게"
+        "공동 정원",
+        "운동장"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "community garden은 함께 가꾸는 정원이에요."
     },
     {
@@ -2602,9 +2602,9 @@
       "type": "mc",
       "options": [
         "마르고 딱딱함",
-        "부드럽고 촉촉함",
+        "물이 가득함",
         "눈으로 덮임",
-        "물이 가득함"
+        "부드럽고 촉촉함"
       ],
       "answerIndex": 0,
       "explain_ko": "dry, hard, and full of weeds예요."
@@ -2614,9 +2614,9 @@
       "type": "mc",
       "options": [
         "긴 막대와 끈",
+        "자와 연필",
         "망치와 못",
-        "가위와 테이프",
-        "자와 연필"
+        "가위와 테이프"
       ],
       "answerIndex": 0,
       "explain_ko": "a long stick and a piece of string으로 곧은 줄을 만들었어요."
@@ -2625,24 +2625,24 @@
       "question_ko": "비가 와도 불평하지 않은 이유는?",
       "type": "mc",
       "options": [
-        "정원에 물이 필요해서",
         "집에 가고 싶어서",
         "우산이 없어서",
-        "노래하려고"
+        "노래하려고",
+        "정원에 물이 필요해서"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "the garden needs water."
     },
     {
       "question_ko": "화자가 배운 것은?",
       "type": "mc",
       "options": [
-        "함께 돌보면 더 잘 자람",
-        "혼자 해야 함",
         "식물은 자라지 않음",
-        "비는 나쁨"
+        "혼자 해야 함",
+        "비는 나쁨",
+        "함께 돌보면 더 잘 자람"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "many hands care for it — 여러 손이 돌보는 힘이에요."
     }
   ]

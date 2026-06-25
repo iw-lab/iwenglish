@@ -502,60 +502,60 @@
       "question_ko": "준의 장화는 무슨 색인가요?",
       "type": "mc",
       "options": [
-        "빨간색",
         "파란색",
-        "노란색",
-        "초록색"
+        "빨간색",
+        "초록색",
+        "노란색"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준의 장화는 빨간색이에요. 제목도 'My Red Boots(내 빨간 장화)'예요."
     },
     {
       "question_ko": "이야기에서 날씨는 어땠나요?",
       "type": "mc",
       "options": [
-        "비가 왔다",
         "눈이 왔다",
-        "바람이 불었다",
-        "맑고 화창했다"
+        "맑고 화창했다",
+        "비가 왔다",
+        "바람이 불었다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "비가 오는 날(a rainy day)이었어요."
     },
     {
       "question_ko": "준이 물웅덩이에 뛰어들었을 때 어떤 일이 생겼나요?",
       "type": "mc",
       "options": [
+        "물웅덩이가 사라졌다",
         "물이 사방으로 튀어올랐다",
-        "장화가 벗겨졌다",
         "준이 넘어졌다",
-        "물웅덩이가 사라졌다"
+        "장화가 벗겨졌다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "Splash! Water goes up all around him. 첨벙 소리와 함께 물이 사방으로 튀어올랐어요."
     },
     {
       "question_ko": "준은 물웅덩이에 몇 번 뛰었나요?",
       "type": "mc",
       "options": [
+        "두 번 뛰었다",
         "여러 번 계속 뛰었다",
         "딱 한 번만 뛰었다",
-        "뛰지 않았다",
-        "두 번 뛰었다"
+        "뛰지 않았다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준 jumps again and again. 준이 몇 번이고 계속해서 뛰었어요."
     },
     {
       "question_ko": "이야기의 끝에서 준의 기분은 어떠했나요?",
       "type": "mc",
       "options": [
-        "빨간 장화가 너무 좋다고 느꼈다",
-        "장화가 마음에 들지 않았다",
         "집에 돌아가고 싶었다",
-        "비가 싫다고 느꼈다"
+        "비가 싫다고 느꼈다",
+        "장화가 마음에 들지 않았다",
+        "빨간 장화가 너무 좋다고 느꼈다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "He loves his red boots so much. 준은 빨간 장화가 너무너무 좋다고 했어요."
     }
   ]

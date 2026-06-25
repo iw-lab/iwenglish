@@ -1766,24 +1766,24 @@
       "question_ko": "오늘은 무슨 경기였나요?",
       "type": "mc",
       "options": [
-        "야구",
         "축구",
         "농구",
+        "야구",
         "달리기"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "soccer game — 축구 경기예요."
     },
     {
       "question_ko": "우리 팀 셔츠는 무슨 색인가요?",
       "type": "mc",
       "options": [
+        "초록",
         "빨강",
-        "파랑",
         "노랑",
-        "초록"
+        "파랑"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "blue shirt — 파란 셔츠예요."
     },
     {
@@ -1804,8 +1804,8 @@
       "options": [
         "밖으로",
         "골대 안",
-        "친구에게",
-        "벤치로"
+        "벤치로",
+        "친구에게"
       ],
       "answerIndex": 1,
       "explain_ko": "into the goal — 골대 안으로요."
@@ -1815,9 +1815,9 @@
       "type": "mc",
       "options": [
         "팀워크",
-        "운",
+        "혼자 뛰기",
         "빠른 달리기",
-        "혼자 뛰기"
+        "운"
       ],
       "answerIndex": 0,
       "explain_ko": "teamwork made the goal possible — 팀워크예요."

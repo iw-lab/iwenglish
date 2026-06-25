@@ -585,60 +585,60 @@
       "question_ko": "이야기의 때는 언제인가요?",
       "type": "mc",
       "options": [
-        "아침",
+        "오후",
         "점심",
-        "밤",
-        "오후"
+        "아침",
+        "밤"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "It is night — 밤이에요."
     },
     {
       "question_ko": "잠자기 전에 무엇을 닦았나요?",
       "type": "mc",
       "options": [
-        "손",
         "이",
-        "얼굴",
-        "발"
+        "발",
+        "손",
+        "얼굴"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "brush my teeth — 이를 닦았어요."
     },
     {
       "question_ko": "무엇을 입었나요?",
       "type": "mc",
       "options": [
-        "잠옷",
+        "신발",
         "교복",
         "코트",
-        "신발"
+        "잠옷"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "pajamas는 잠옷이에요."
     },
     {
       "question_ko": "엄마 아빠한테 뭐라고 인사했나요?",
       "type": "mc",
       "options": [
-        "Good morning",
-        "Good night",
+        "Hello",
         "Good bye",
-        "Hello"
+        "Good morning",
+        "Good night"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "Good night — 잘 자라는 인사예요."
     },
     {
       "question_ko": "마지막에 아이의 기분은?",
       "type": "mc",
       "options": [
-        "배고프다",
         "졸리다",
-        "신나다",
-        "무섭다"
+        "배고프다",
+        "무섭다",
+        "신나다"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "I am sleepy — 졸려요."
     }
   ]

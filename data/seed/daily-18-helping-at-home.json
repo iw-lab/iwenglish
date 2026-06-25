@@ -1517,12 +1517,12 @@
       "question_ko": "오늘 무엇을 하고 싶었나요?",
       "type": "mc",
       "options": [
-        "놀기",
-        "가족 돕기",
         "자기",
-        "사기"
+        "사기",
+        "놀기",
+        "가족 돕기"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "help my family — 가족을 돕고 싶었어요."
     },
     {
@@ -1530,11 +1530,11 @@
       "type": "mc",
       "options": [
         "책상",
-        "이불",
+        "가방",
         "신발",
-        "가방"
+        "이불"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "make my bed — 이불을 정리해요."
     },
     {
@@ -1542,8 +1542,8 @@
       "type": "mc",
       "options": [
         "설거지",
-        "빨래",
         "청소기",
+        "빨래",
         "요리"
       ],
       "answerIndex": 0,
@@ -1553,12 +1553,12 @@
       "question_ko": "창가의 무엇에 물을 줬나요?",
       "type": "mc",
       "options": [
-        "화분",
         "강아지",
         "잔디",
-        "꽃밭"
+        "꽃밭",
+        "화분"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "water the plants — 화분에 물을 줬어요."
     },
     {
@@ -1566,11 +1566,11 @@
       "type": "mc",
       "options": [
         "슬퍼요",
-        "기뻐요",
         "피곤해요",
-        "화나요"
+        "화나요",
+        "기뻐요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "makes me happy — 기뻐요."
     }
   ]

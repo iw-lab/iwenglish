@@ -620,12 +620,12 @@
       "question_ko": "누가 먼저 \"좋은 아침\"이라고 말했나요?",
       "type": "mc",
       "options": [
-        "엄마",
-        "아빠",
         "선생님",
-        "친구"
+        "친구",
+        "엄마",
+        "아빠"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "엄마가 먼저 \"Good morning!\"이라고 말했어요."
     },
     {
@@ -633,11 +633,11 @@
       "type": "mc",
       "options": [
         "손",
-        "얼굴",
         "발",
-        "머리"
+        "머리",
+        "얼굴"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "I wash my face — 얼굴을 씻었어요."
     },
     {
@@ -646,8 +646,8 @@
       "options": [
         "밥과 국",
         "빵과 우유",
-        "과자와 주스",
-        "라면"
+        "라면",
+        "과자와 주스"
       ],
       "answerIndex": 1,
       "explain_ko": "bread and milk — 빵과 우유를 먹었어요."
@@ -657,9 +657,9 @@
       "type": "mc",
       "options": [
         "학교",
-        "놀이터",
         "잠",
-        "여행"
+        "여행",
+        "놀이터"
       ],
       "answerIndex": 0,
       "explain_ko": "ready for school — 학교 갈 준비가 됐어요."
@@ -669,9 +669,9 @@
       "type": "mc",
       "options": [
         "아침",
-        "점심",
+        "밤",
         "저녁",
-        "밤"
+        "점심"
       ],
       "answerIndex": 0,
       "explain_ko": "morning은 아침이에요."

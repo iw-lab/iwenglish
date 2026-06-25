@@ -557,58 +557,58 @@
       "question_ko": "무엇을 닦았나요?",
       "type": "mc",
       "options": [
-        "손",
-        "이",
+        "얼굴",
         "발",
-        "얼굴"
+        "손",
+        "이"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "brush my teeth — 이를 닦았어요."
     },
     {
       "question_ko": "이를 닦을 때 무엇을 짰나요?",
       "type": "mc",
       "options": [
-        "물",
+        "주스",
         "비누",
-        "치약",
-        "주스"
+        "물",
+        "치약"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "toothpaste는 치약이에요."
     },
     {
       "question_ko": "어느 방향으로 닦았나요?",
       "type": "mc",
       "options": [
-        "위아래로",
-        "옆으로만",
+        "빙글빙글",
         "안 닦음",
-        "빙글빙글"
+        "옆으로만",
+        "위아래로"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "up and down — 위아래로 닦았어요."
     },
     {
       "question_ko": "입을 무엇으로 헹궜나요?",
       "type": "mc",
       "options": [
-        "우유",
-        "물",
+        "차",
         "주스",
-        "차"
+        "물",
+        "우유"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "rinse with water — 물로 헹궜어요."
     },
     {
       "question_ko": "다 닦고 나니 이가 어땠나요?",
       "type": "mc",
       "options": [
-        "더러워요",
+        "노래요",
         "깨끗해요",
         "아파요",
-        "노래요"
+        "더러워요"
       ],
       "answerIndex": 1,
       "explain_ko": "clean은 깨끗하다는 뜻이에요."

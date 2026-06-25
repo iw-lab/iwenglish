@@ -2603,24 +2603,24 @@
       "question_ko": "프로젝트는 얼마 동안 했나요?",
       "type": "mc",
       "options": [
-        "한 달",
-        "하루",
+        "일주일",
         "일 년",
-        "일주일"
+        "하루",
+        "한 달"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "for one whole month — 한 달 동안이에요."
     },
     {
       "question_ko": "통은 몇 개를 놓았나요?",
       "type": "mc",
       "options": [
-        "세 개",
+        "열 개",
         "한 개",
         "다섯 개",
-        "열 개"
+        "세 개"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "three bins — 통 세 개예요."
     },
     {
@@ -2628,9 +2628,9 @@
       "type": "mc",
       "options": [
         "엉뚱한 통에 넣음",
-        "통이 없음",
         "종이가 없음",
-        "비가 옴"
+        "비가 옴",
+        "통이 없음"
       ],
       "answerIndex": 0,
       "explain_ko": "wrong bins — 엉뚱한 통에 넣었어요."
@@ -2639,12 +2639,12 @@
       "question_ko": "문제를 어떻게 해결했나요?",
       "type": "mc",
       "options": [
-        "통 위에 그림을 그림",
         "통을 치움",
+        "통 위에 그림을 그림",
         "그만둠",
         "혼냄"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "drew clear pictures — 분명한 그림을 그렸어요."
     },
     {
@@ -2652,9 +2652,9 @@
       "type": "mc",
       "options": [
         "연필꽂이",
-        "쓰레기",
+        "책",
         "의자",
-        "책"
+        "쓰레기"
       ],
       "answerIndex": 0,
       "explain_ko": "pencil holders — 연필꽂이가 됐어요."

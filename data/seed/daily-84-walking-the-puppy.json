@@ -968,12 +968,12 @@
       "question_ko": "강아지의 이름은 무엇인가요?",
       "type": "mc",
       "options": [
-        "코코",
-        "벨라",
+        "루비",
         "맥스",
-        "루비"
+        "벨라",
+        "코코"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준의 강아지 이름은 코코(Coco)예요."
     },
     {
@@ -981,47 +981,47 @@
       "type": "mc",
       "options": [
         "학교",
-        "공원",
+        "도서관",
         "마트",
-        "도서관"
+        "공원"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "준과 미나는 공원(park)에서 산책을 했어요."
     },
     {
       "question_ko": "코코가 갑자기 목줄을 당긴 이유는 무엇인가요?",
       "type": "mc",
       "options": [
-        "배가 고파서",
-        "집에 가고 싶어서",
         "벤치 위의 새를 봐서",
-        "물이 마시고 싶어서"
+        "물이 마시고 싶어서",
+        "집에 가고 싶어서",
+        "배가 고파서"
       ],
-      "answerIndex": 2,
+      "answerIndex": 0,
       "explain_ko": "코코는 벤치에 앉아 있는 작은 새를 보고 목줄을 세게 당겼어요."
     },
     {
       "question_ko": "코코가 짖자 새는 어떻게 했나요?",
       "type": "mc",
       "options": [
-        "도망쳐 달아났어요",
         "날아가 버렸어요",
-        "벤치 아래로 숨었어요",
-        "더 크게 울었어요"
+        "도망쳐 달아났어요",
+        "더 크게 울었어요",
+        "벤치 아래로 숨었어요"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "코코가 짖자 새는 날아가 버렸어요(the bird flew away)."
     },
     {
       "question_ko": "산책이 끝나고 두 사람은 코코에게 무엇을 주었나요?",
       "type": "mc",
       "options": [
-        "과자",
-        "장난감",
         "물",
+        "장난감",
+        "과자",
         "간식"
       ],
-      "answerIndex": 2,
+      "answerIndex": 0,
       "explain_ko": "준과 미나는 벤치에 앉아 코코에게 물(water)을 줬어요."
     }
   ]

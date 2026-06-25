@@ -2667,60 +2667,60 @@
       "question_ko": "팀은 무엇을 만들기로 했나요?",
       "type": "mc",
       "options": [
-        "도움 로봇",
-        "케이크",
         "연극 무대",
-        "축구공"
+        "도움 로봇",
+        "축구공",
+        "케이크"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "helper robot을 만들기로 했어요."
     },
     {
       "question_ko": "첫 설계의 문제는?",
       "type": "mc",
       "options": [
-        "바퀴가 너무 약함",
-        "너무 작게 그림",
         "색이 없음",
-        "소리가 큼"
+        "너무 작게 그림",
+        "소리가 큼",
+        "바퀴가 너무 약함"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "wheels are too weak예요."
     },
     {
       "question_ko": "로봇이 더 잘 돌게 하려고 무엇을 제거했나요?",
       "type": "mc",
       "options": [
-        "불필요한 장식",
+        "상자",
         "바퀴",
-        "연필",
-        "상자"
+        "불필요한 장식",
+        "연필"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "extra decorations를 제거했어요."
     },
     {
       "question_ko": "작은 바퀴를 무엇으로 바꾸었나요?",
       "type": "mc",
       "options": [
-        "넓은 바퀴",
         "종이",
-        "지우개",
-        "끈"
+        "넓은 바퀴",
+        "끈",
+        "지우개"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "wider ones로 바꾸었어요."
     },
     {
       "question_ko": "발표 때 실패한 그림도 보여준 이유는?",
       "type": "mc",
       "options": [
+        "시간을 줄이려고",
         "실수에서 배운 과정을 보여주려고",
         "숨기려고",
-        "시간을 줄이려고",
         "웃기려고"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "each mistake taught us something."
     }
   ]

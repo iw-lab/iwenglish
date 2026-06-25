@@ -2639,24 +2639,24 @@
       "question_ko": "연극의 주제는 무엇이었나요?",
       "type": "mc",
       "options": [
-        "용감한 작은 등대",
         "큰 배",
-        "마법사",
-        "공룡"
+        "용감한 작은 등대",
+        "공룡",
+        "마법사"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "a play about a brave little lighthouse."
     },
     {
       "question_ko": "나는 처음에 왜 말을 못 했나요?",
       "type": "mc",
       "options": [
+        "관심이 없어서",
         "너무 부끄러워서",
         "아파서",
-        "관심이 없어서",
         "시간이 없어서"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "too shy to ask — 너무 부끄러워서요."
     },
     {
@@ -2664,9 +2664,9 @@
       "type": "mc",
       "options": [
         "대사를 거의 잊었어요",
-        "일등을 했어요",
+        "노래했어요",
         "넘어졌어요",
-        "노래했어요"
+        "일등을 했어요"
       ],
       "answerIndex": 0,
       "explain_ko": "forgot almost all of my lines."
@@ -2675,24 +2675,24 @@
       "question_ko": "친구들은 웃는 대신 무엇을 했나요?",
       "type": "mc",
       "options": [
+        "잤어요",
         "대본을 같이 읽어 줬어요",
-        "놀렸어요",
         "나갔어요",
-        "잤어요"
+        "놀렸어요"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "helped me read the script again."
     },
     {
       "question_ko": "마지막에 무엇을 깨달았나요?",
       "type": "mc",
       "options": [
-        "친구가 믿어 줄 때 용기가 자란다",
-        "혼자가 낫다",
         "연극은 쉽다",
+        "혼자가 낫다",
+        "친구가 믿어 줄 때 용기가 자란다",
         "도전은 위험하다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "courage grows when good friends believe in you."
     }
   ]

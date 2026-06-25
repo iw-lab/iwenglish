@@ -2898,24 +2898,24 @@
       "question_ko": "가족과 어디로 캠핑을 갔나요?",
       "type": "mc",
       "options": [
-        "바닷가",
-        "호숫가",
         "산꼭대기",
-        "공원"
+        "공원",
+        "바닷가",
+        "호숫가"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "camping by the lake — 호숫가예요."
     },
     {
       "question_ko": "텐트를 어디에 쳤나요?",
       "type": "mc",
       "options": [
+        "주차장",
         "바위 위",
         "큰 나무 아래",
-        "물 안",
-        "주차장"
+        "물 안"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "under the tall trees — 큰 나무 아래예요."
     },
     {
@@ -2935,20 +2935,20 @@
       "type": "mc",
       "options": [
         "달",
+        "도시",
         "별",
-        "등불",
-        "도시"
+        "등불"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "the stars shine brightly — 별이에요."
     },
     {
       "question_ko": "집에 돌아와서 나는 무엇을 그렸나요?",
       "type": "mc",
       "options": [
-        "가족 사진",
-        "캠핑장 지도",
         "물고기 그림",
+        "캠핑장 지도",
+        "가족 사진",
         "별자리 그림"
       ],
       "answerIndex": 1,

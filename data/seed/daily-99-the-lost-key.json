@@ -1511,36 +1511,36 @@
       "question_ko": "준이 열쇠가 없다는 것을 언제 알았나요?",
       "type": "mc",
       "options": [
+        "버스 안에서",
         "할머니 댁 문 앞에 도착했을 때",
         "학교 교실에서",
-        "버스 안에서",
         "간식을 먹다가"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "할머니 댁 문 앞에서 가방을 뒤지다가 열쇠가 없다는 것을 알았어요."
     },
     {
       "question_ko": "열쇠를 찾으러 처음 간 곳은 어디인가요?",
       "type": "mc",
       "options": [
-        "현관",
-        "거실",
+        "할머니 방",
         "부엌",
-        "할머니 방"
+        "현관",
+        "거실"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "준이 항상 가방을 두는 현관부터 먼저 살펴보았어요."
     },
     {
       "question_ko": "거실 소파 쿠션 아래에서 무엇이 나왔나요?",
       "type": "mc",
       "options": [
-        "열쇠",
         "동전",
-        "지우개",
-        "사탕"
+        "사탕",
+        "열쇠",
+        "지우개"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "쿠션을 들어보니 열쇠가 아니라 동전만 나왔어요."
     },
     {
@@ -1549,22 +1549,22 @@
       "options": [
         "신발장 아래",
         "가방 안쪽 주머니",
-        "준의 재킷 주머니",
-        "소파 쿠션 밑"
+        "소파 쿠션 밑",
+        "준의 재킷 주머니"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "explain_ko": "문 옆에 걸린 재킷 주머니 안에 열쇠가 있었어요."
     },
     {
       "question_ko": "열쇠를 찾은 뒤 준의 기분은 어땠나요?",
       "type": "mc",
       "options": [
+        "전혀 기쁘지 않았다",
         "화가 났다",
-        "고맙고 조금 부끄러웠다",
         "무서웠다",
-        "전혀 기쁘지 않았다"
+        "고맙고 조금 부끄러웠다"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "준 is grateful and a little embarrassed — 고맙기도 하고 조금 부끄럽기도 했어요."
     }
   ]

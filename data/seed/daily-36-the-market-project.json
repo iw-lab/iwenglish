@@ -2582,48 +2582,48 @@
       "question_ko": "무엇을 비교하러 시장에 갔나요?",
       "type": "mc",
       "options": [
-        "과일 가격",
         "신발 크기",
         "책 제목",
-        "버스 시간"
+        "버스 시간",
+        "과일 가격"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "fruit prices를 비교했어요."
     },
     {
       "question_ko": "화자는 어떤 과일을 골랐나요?",
       "type": "mc",
       "options": [
-        "사과",
         "바나나",
-        "포도",
-        "딸기"
+        "사과",
+        "딸기",
+        "포도"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "I choose apples."
     },
     {
       "question_ko": "판매자는 무엇이 가격을 바꿀 수 있다고 했나요?",
       "type": "mc",
       "options": [
-        "크기, 맛, 계절",
-        "색연필",
         "날씨만",
-        "노래"
+        "크기, 맛, 계절",
+        "노래",
+        "색연필"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "size, taste, and season이에요."
     },
     {
       "question_ko": "학교로 돌아와 만든 것은?",
       "type": "mc",
       "options": [
-        "표",
-        "배",
         "모자",
-        "쿠키"
+        "쿠키",
+        "배",
+        "표"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "make a chart — 표를 만들어요."
     },
     {

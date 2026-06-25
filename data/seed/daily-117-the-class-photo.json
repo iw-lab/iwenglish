@@ -1526,9 +1526,9 @@
       "type": "mc",
       "options": [
         "주스를 쏟아서 얼룩이 생겼다",
+        "셔츠가 찢어졌다",
         "셔츠를 학교에 두고 왔다",
-        "셔츠가 너무 작아졌다",
-        "셔츠가 찢어졌다"
+        "셔츠가 너무 작아졌다"
       ],
       "answerIndex": 0,
       "explain_ko": "준은 아침에 주스를 쏟아 흰 셔츠에 주황색 얼룩이 생겼어요."
@@ -1537,48 +1537,48 @@
       "question_ko": "미나는 준을 어떻게 도와주었나요?",
       "type": "mc",
       "options": [
-        "가방에서 재킷을 꺼내 빌려주었다",
         "선생님께 달려가 말했다",
+        "가방에서 재킷을 꺼내 빌려주었다",
         "얼룩을 물로 씻어 주었다",
         "새 셔츠를 사 주었다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "미나는 가방에 있던 진한 파란색 재킷을 꺼내 준에게 빌려주어 얼룩을 가렸어요."
     },
     {
       "question_ko": "사진을 찍을 때 박 선생님이 한 말은 무엇인가요?",
       "type": "mc",
       "options": [
-        "\"Smile, everyone! Say cheese!\"",
-        "\"Stand up straight!\"",
+        "\"Hurry up, class!\"",
         "\"Look at me!\"",
-        "\"Hurry up, class!\""
+        "\"Smile, everyone! Say cheese!\"",
+        "\"Stand up straight!\""
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "박 선생님은 \"Smile, everyone! Say cheese!\"라고 말했어요."
     },
     {
       "question_ko": "준이 재킷을 입은 후 어떻게 되었나요?",
       "type": "mc",
       "options": [
-        "얼룩이 완전히 가려졌다",
         "재킷이 너무 커서 벗었다",
-        "선생님이 재킷을 벗으라고 했다",
-        "얼룩이 더 커졌다"
+        "얼룩이 완전히 가려졌다",
+        "얼룩이 더 커졌다",
+        "선생님이 재킷을 벗으라고 했다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "준이 재킷을 입자 셔츠의 얼룩이 완전히 가려졌어요."
     },
     {
       "question_ko": "사진이 나온 후 준은 어떤 기분이었나요?",
       "type": "mc",
       "options": [
-        "친구 덕분에 행복하고 만족스러웠다",
-        "사진이 마음에 들지 않아 속상했다",
         "재킷을 돌려줘야 해서 아쉬웠다",
-        "사진 찍기가 싫어서 화가 났다"
+        "사진이 마음에 들지 않아 속상했다",
+        "사진 찍기가 싫어서 화가 났다",
+        "친구 덕분에 행복하고 만족스러웠다"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "준은 미나 덕분에 사진을 잘 찍을 수 있어서 행복했고, 이 사진이 역대 최고라고 말했어요."
     }
   ]

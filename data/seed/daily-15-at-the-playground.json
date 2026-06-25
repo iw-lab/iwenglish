@@ -1101,23 +1101,23 @@
       "type": "mc",
       "options": [
         "학교 전에",
+        "주말 아침",
         "학교가 끝나고",
-        "밤에",
-        "주말 아침"
+        "밤에"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "explain_ko": "After school — 학교가 끝나고요."
     },
     {
       "question_ko": "놀이터에 누가 함께 있었나요?",
       "type": "mc",
       "options": [
-        "선생님",
         "친구들",
-        "가족",
-        "아무도 없음"
+        "선생님",
+        "아무도 없음",
+        "가족"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "My friends are there too."
     },
     {
@@ -1125,8 +1125,8 @@
       "type": "mc",
       "options": [
         "올라가서 미끄럼 탐",
-        "그냥 봄",
         "앉아 있음",
+        "그냥 봄",
         "밀어줌"
       ],
       "answerIndex": 0,
@@ -1136,24 +1136,24 @@
       "question_ko": "함께 무엇을 탔나요?",
       "type": "mc",
       "options": [
-        "시소",
         "그네",
-        "자전거",
-        "버스"
+        "버스",
+        "시소",
+        "자전거"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "explain_ko": "swings는 그네예요."
     },
     {
       "question_ko": "\"더 높이 밀어줘\"는 무엇을 탈 때 한 말일까요?",
       "type": "mc",
       "options": [
+        "모래놀이",
         "미끄럼틀",
-        "그네",
         "철봉",
-        "모래놀이"
+        "그네"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "explain_ko": "그네를 밀어달라는 말이에요."
     }
   ]

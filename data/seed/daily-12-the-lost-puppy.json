@@ -2766,9 +2766,9 @@
       "type": "mc",
       "options": [
         "길 잃은 강아지",
-        "지갑",
         "친구",
-        "고양이"
+        "고양이",
+        "지갑"
       ],
       "answerIndex": 0,
       "explain_ko": "found a little puppy — 길 잃은 강아지를 발견했어요."
@@ -2778,8 +2778,8 @@
       "type": "mc",
       "options": [
         "코코",
-        "초코",
         "보리",
+        "초코",
         "해피"
       ],
       "answerIndex": 0,
@@ -2789,36 +2789,36 @@
       "question_ko": "이름은 어디에서 알았나요?",
       "type": "mc",
       "options": [
+        "귀",
         "목줄",
         "발",
-        "꼬리",
-        "귀"
+        "꼬리"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "explain_ko": "the name on its collar — 목줄에서 알았어요."
     },
     {
       "question_ko": "마침내 누가 달려왔나요?",
       "type": "mc",
       "options": [
-        "강아지 주인 소녀",
         "경찰",
         "엄마",
+        "강아지 주인 소녀",
         "선생님"
       ],
-      "answerIndex": 0,
+      "answerIndex": 2,
       "explain_ko": "a girl ran to us — 주인 소녀가 달려왔어요."
     },
     {
       "question_ko": "가게 주인은 강아지를 어디 근처에서 봤다고 했나요?",
       "type": "mc",
       "options": [
-        "빵집",
+        "강",
         "병원",
         "학교",
-        "강"
+        "빵집"
       ],
-      "answerIndex": 0,
+      "answerIndex": 3,
       "explain_ko": "near the bakery — 빵집 근처예요."
     }
   ]

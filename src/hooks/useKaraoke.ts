@@ -91,7 +91,12 @@ export function useKaraoke(
 
     if (hasTimings) {
       const a = new Audio(sentence.audioUrl!);
-      a.playbackRate = opts.rate ?? 1;
+      const rate = opts.rate ?? 1;
+      // 배속 확실히 적용: defaultPlaybackRate(load()/retry 후에도 보존) + playbackRate 둘 다 설정,
+      // preservesPitch로 음정 유지. 메타데이터 로드 시 defaultPlaybackRate가 자동 적용됨.
+      a.preservesPitch = true;
+      a.defaultPlaybackRate = rate;
+      a.playbackRate = rate;
       audioRef.current = a;
       const timings = sentence.wordTimings;
       const lastEnd = timings.length
@@ -120,6 +125,7 @@ export function useKaraoke(
       // 첫 play() 거부(autoplay·버퍼링)는 로드 후 1회 재시도, 그래도 안 되면 폴백
       let retried = false;
       const startAudio = () => {
+        a.playbackRate = opts.rate ?? 1; // 매 재생 시도마다 재적용(load() 리셋 방지)
         a.play()
           .then(() => {
             rafRef.current = requestAnimationFrame(tick);

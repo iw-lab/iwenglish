@@ -4,12 +4,17 @@
  * 추출: pageNum, img(pNNN), captions[], bubbles[{speaker,text}], sfx[].
  * 출력: .tqa-tmp/myth-vol01-src.json
  */
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
 const ROOT = process.cwd();
-const VOL = "/Users/iw-lab/Documents/dev/iwrome/greek-roman-myth-comics/volumes/vol-01-카오스와-태초의-신들";
-const HTML = join(VOL, "web-viewer", "vol-01.html");
+// vol 번호 인자(기본 01). 볼륨 디렉토리는 한글접미사라 prefix 매칭으로 해석.
+const VOLNUM = String(process.argv[2] || "01").padStart(2, "0");
+const VOLUMES = "/Users/iw-lab/Documents/dev/iwrome/greek-roman-myth-comics/volumes";
+const dir = readdirSync(VOLUMES).find((d) => d.startsWith(`vol-${VOLNUM}-`));
+if (!dir) { console.error(`vol-${VOLNUM}-* 디렉토리 없음`); process.exit(1); }
+const VOL = join(VOLUMES, dir);
+const HTML = join(VOL, "web-viewer", `vol-${VOLNUM}.html`);
 const TMP = join(ROOT, ".tqa-tmp");
 mkdirSync(TMP, { recursive: true });
 
@@ -45,7 +50,7 @@ for (const p of panels) {
   if (!existsSync(join(VOL, "images", "web", p.img + ".png"))) { console.log(`⚠️ 이미지 없음: ${p.img}`); missing++; }
 }
 
-writeFileSync(join(TMP, "myth-vol01-src.json"), JSON.stringify(panels, null, 2));
+writeFileSync(join(TMP, `myth-vol${VOLNUM}-src.json`), JSON.stringify(panels, null, 2));
 const totBubbles = panels.reduce((n, p) => n + p.bubbles.length, 0);
 const totCaps = panels.reduce((n, p) => n + p.captions.length, 0);
 console.log(`패널 ${panels.length} · 캡션 ${totCaps} · 말풍선 ${totBubbles} · sfx ${panels.reduce((n,p)=>n+p.sfx.length,0)} · 이미지누락 ${missing}`);

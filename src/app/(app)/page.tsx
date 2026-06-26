@@ -31,6 +31,7 @@ const STAGES: { stage: number; emoji: string; label: string; grade: string }[] =
 // 그리스로마신화 — 권(volume)별 라벨
 const MYTH_VOLUMES: { stage: number; emoji: string; label: string; grade: string }[] = [
   { stage: 1, emoji: "🌌", label: "1권 · 카오스와 태초의 신들", grade: "심화 · B1" },
+  { stage: 2, emoji: "🌾", label: "2권 · 우라노스와 가이아의 시대", grade: "심화 · B1" },
 ];
 
 export default async function LibraryPage() {

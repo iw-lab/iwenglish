@@ -7,6 +7,8 @@ import {
   Pause,
   ChevronLeft,
   ChevronRight,
+  ChevronsLeft,
+  ChevronsRight,
   Repeat,
   Gauge,
   Languages,
@@ -117,6 +119,14 @@ export function Reader({ book }: { book: Book }) {
     if (!target) return;
     setPageIdx(target.pi);
     setSentIdx(target.si);
+  };
+
+  // 쪽(페이지) 단위 점프 — 해당 쪽 첫 문장으로 이동(문장 하나씩 넘기지 않아도 됨)
+  const goToPage = (pi: number) => {
+    if (pi < 0 || pi >= book.pages.length) return;
+    stopAuto();
+    setPageIdx(pi);
+    setSentIdx(0);
   };
 
   // onEnd 는 stable 콜백으로 넘기고 최신 로직은 ref 로 갱신(stale closure 방지)
@@ -288,9 +298,29 @@ export function Reader({ book }: { book: Book }) {
         </Link>
         <div className="min-w-0 flex-1">
           <p className="truncate text-sm font-bold">{book.title}</p>
-          <p className="truncate text-[11px] text-muted-foreground">
-            {pageIdx + 1} / {book.pages.length} 쪽
-          </p>
+          <div className="flex items-center gap-0.5 text-[11px] text-muted-foreground">
+            <button
+              onClick={() => goToPage(pageIdx - 1)}
+              disabled={pageIdx <= 0}
+              aria-label="이전 쪽"
+              title="이전 쪽"
+              className="grid h-6 w-6 shrink-0 place-items-center rounded-full hover:bg-muted disabled:opacity-30"
+            >
+              <ChevronsLeft className="h-4 w-4" />
+            </button>
+            <span className="tabular-nums">
+              {pageIdx + 1} / {book.pages.length} 쪽
+            </span>
+            <button
+              onClick={() => goToPage(pageIdx + 1)}
+              disabled={pageIdx >= book.pages.length - 1}
+              aria-label="다음 쪽"
+              title="다음 쪽"
+              className="grid h-6 w-6 shrink-0 place-items-center rounded-full hover:bg-muted disabled:opacity-30"
+            >
+              <ChevronsRight className="h-4 w-4" />
+            </button>
+          </div>
         </div>
         <button
           onClick={toggleTranslation}
@@ -585,6 +615,18 @@ export function Reader({ book }: { book: Book }) {
             </span>
           </div>
         </div>
+      )}
+
+      {/* 떠 있는 '다음 쪽' 버튼 — 읽는 중 엄지로 바로 다음 쪽 넘기기(마지막 쪽이면 숨김) */}
+      {pageIdx < book.pages.length - 1 && (
+        <button
+          onClick={() => goToPage(pageIdx + 1)}
+          aria-label="다음 쪽으로"
+          className="fixed bottom-24 right-4 z-40 inline-flex items-center gap-1 rounded-full bg-primary/90 py-2.5 pl-4 pr-3 text-sm font-bold text-primary-foreground shadow-lg backdrop-blur-sm transition active:scale-95 lg:bottom-8"
+          style={{ marginBottom: "env(safe-area-inset-bottom)" }}
+        >
+          다음 쪽 <ChevronRight className="h-4 w-4" />
+        </button>
       )}
 
       {/* 컨트롤 */}

@@ -26,7 +26,6 @@ import { useSettings } from "@/store/settings";
 import { useProgress, READS_TO_COMPLETE } from "@/store/progress";
 import { SentenceView } from "./SentenceView";
 import { PracticeControls, type PracticeMode } from "./PracticeControls";
-import { RecordPractice } from "./RecordPractice";
 import { QuizPanel } from "./QuizPanel";
 import { cn } from "@/lib/utils";
 
@@ -421,8 +420,8 @@ export function Reader({ book }: { book: Book }) {
       </div>
 
       {/* 본문 */}
-      <div className="flex-1 px-4 py-4 lg:px-0 lg:py-0">
-          <div className="space-y-4">
+      <div className="flex-1 px-4 py-3 lg:px-0 lg:py-0">
+          <div className="space-y-2.5">
             {page?.sentences.map((s, i) => {
               const isActive = i === sentIdx;
               return (
@@ -570,7 +569,7 @@ export function Reader({ book }: { book: Book }) {
                 <ListChecks className="h-5 w-5 text-primary" /> 이해 퀴즈 풀기
               </button>
             )}
-            {/* 따라 말하기·쉐도잉 (간격) + 녹음 — 분리 */}
+            {/* 따라 말하기·쉐도잉 (간격) */}
             <PracticeControls
               mode={practiceMode}
               setMode={(m) => {
@@ -580,20 +579,19 @@ export function Reader({ book }: { book: Book }) {
               gapScale={gapScale}
               setGapScale={setGapScale}
             />
-            <RecordPractice sentence={sentence} />
           </div>
       </div>
       </div>
       {/* /그림+본문 */}
 
-      {/* 따라 읽기 — 침묵 간격 배너 */}
+      {/* 따라 읽기 — 침묵 간격 배너(크게 강조: 지금 말할 차례!) */}
       {gap.active && (
-        <div className="sticky bottom-[68px] z-30 mx-auto w-full max-w-lg px-4">
-          <div className="flex items-center gap-2 rounded-card border border-accent/40 bg-accent/10 px-4 py-2.5">
-            <span className="text-sm font-bold text-accent">
+        <div className="sticky bottom-[76px] z-40 mx-auto w-full max-w-xl px-4">
+          <div className="flex items-center gap-3 rounded-card border-2 border-accent bg-accent/15 px-5 py-3.5 shadow-xl backdrop-blur-sm">
+            <span className="animate-pulse whitespace-nowrap text-lg font-extrabold text-accent">
               🎙️ 지금 따라 말해보세요!
             </span>
-            <div className="ml-auto h-1.5 flex-1 overflow-hidden rounded-full bg-accent/20">
+            <div className="ml-auto h-2.5 flex-1 overflow-hidden rounded-full bg-accent/25">
               <div
                 className="h-full origin-left rounded-full bg-accent"
                 style={{ animation: `echotale-shrink ${gap.ms}ms linear forwards` }}
@@ -617,7 +615,17 @@ export function Reader({ book }: { book: Book }) {
         </div>
       )}
 
-      {/* 떠 있는 '다음 쪽' 버튼 — 읽는 중 엄지로 바로 다음 쪽 넘기기(마지막 쪽이면 숨김) */}
+      {/* 떠 있는 쪽 넘김 버튼 — 이전 쪽(좌하단·중립) / 다음 쪽(우하단·강조), 경계에서 자동 숨김 */}
+      {pageIdx > 0 && (
+        <button
+          onClick={() => goToPage(pageIdx - 1)}
+          aria-label="이전 쪽으로"
+          className="fixed bottom-24 left-4 z-40 inline-flex items-center gap-1 rounded-full bg-background/90 py-2.5 pl-3 pr-4 text-sm font-bold text-foreground shadow-lg ring-1 ring-border backdrop-blur-sm transition active:scale-95 lg:bottom-8"
+          style={{ marginBottom: "env(safe-area-inset-bottom)" }}
+        >
+          <ChevronLeft className="h-4 w-4" /> 이전 쪽
+        </button>
+      )}
       {pageIdx < book.pages.length - 1 && (
         <button
           onClick={() => goToPage(pageIdx + 1)}

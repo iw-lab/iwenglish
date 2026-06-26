@@ -44,7 +44,7 @@ export function PracticeControls({
 }) {
   const active = OPTIONS.find((o) => o.id === mode)!;
   return (
-    <Card className="space-y-3 p-4">
+    <Card className="space-y-2 p-3">
       <div className="flex items-center justify-between">
         <span className="text-sm font-bold">연습 모드 (따라 말하기)</span>
       </div>
@@ -58,7 +58,7 @@ export function PracticeControls({
               key={o.id}
               onClick={() => setMode(o.id)}
               className={cn(
-                "flex flex-col items-center gap-1 rounded-chip border py-2.5 text-sm font-semibold transition",
+                "flex flex-col items-center gap-1 rounded-chip border py-2 text-sm font-semibold transition",
                 on
                   ? "border-accent bg-accent/15 text-accent"
                   : "border-border hover:bg-muted",

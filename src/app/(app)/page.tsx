@@ -159,17 +159,12 @@ export default async function LibraryPage() {
               하라의 신화 모험 · 학습만화 영어판 · {myth.length}권
             </span>
           </div>
-          {MYTH_VOLUMES.map(({ stage, emoji, label, grade }) => {
-            const inVol = myth.filter((b) => b.stage === stage);
-            if (inVol.length === 0) return null;
-            return (
-              <ShelfSection
-                key={stage}
-                emoji={emoji}
-                label={label}
-                meta={`${grade} · ${inVol.length}권`}
-              >
-                {inVol.map((b) => (
+          <ShelfRow>
+            {[...myth]
+              .sort((a, b) => (a.stage ?? 0) - (b.stage ?? 0))
+              .map((b) => {
+                const vol = MYTH_VOLUMES.find((v) => v.stage === b.stage);
+                return (
                   <BookCard
                     key={b.id}
                     slug={b.slug}
@@ -178,13 +173,12 @@ export default async function LibraryPage() {
                     level={b.level}
                     summary_ko={b.summary_ko}
                     coverUrl={b.coverUrl}
-                    meta={`${b.wordCount} words`}
+                    meta={vol ? `${vol.stage}권 · ${b.wordCount} words` : `${b.wordCount} words`}
                     shelf
                   />
-                ))}
-              </ShelfSection>
-            );
-          })}
+                );
+              })}
+          </ShelfRow>
         </section>
       )}
 

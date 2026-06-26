@@ -92,11 +92,19 @@ export function useKaraoke(
     if (hasTimings) {
       const a = new Audio(sentence.audioUrl!);
       const rate = opts.rate ?? 1;
-      // 배속 확실히 적용: defaultPlaybackRate(load()/retry 후에도 보존) + playbackRate 둘 다 설정,
-      // preservesPitch로 음정 유지. 메타데이터 로드 시 defaultPlaybackRate가 자동 적용됨.
       a.preservesPitch = true;
-      a.defaultPlaybackRate = rate;
-      a.playbackRate = rate;
+      // ⚠️ 배속 미적용 버그 근본수정: 일부 브라우저(Chrome 등)는 메타데이터 로드 전에
+      // 설정한 playbackRate를 무시하거나, load()/재생 시작 시 1.0으로 되돌린다.
+      // → 생성 시 + 재생이 실제 시작되는 모든 라이프사이클 시점에 재적용한다.
+      const applyRate = () => {
+        a.defaultPlaybackRate = rate; // load()/seek 후 자동 복원 기준값
+        if (a.playbackRate !== rate) a.playbackRate = rate;
+      };
+      applyRate();
+      a.addEventListener("loadedmetadata", applyRate);
+      a.addEventListener("canplay", applyRate);
+      a.addEventListener("play", applyRate);
+      a.addEventListener("playing", applyRate);
       audioRef.current = a;
       const timings = sentence.wordTimings;
       const lastEnd = timings.length

@@ -1,12 +1,10 @@
 import { getBooks } from "@/lib/data/books";
 import { BookCard } from "@/components/book/BookCard";
-import { SetupNotice } from "@/components/shell/SetupNotice";
 import { LibraryHero } from "@/components/home/LibraryHero";
 import { CompletedShelf, type ShelfBook } from "@/components/home/CompletedShelf";
 import { ShelfRow } from "@/components/home/ShelfRow";
 import { ShelfSection } from "@/components/home/ShelfSection";
 import { PLANNED_BOOKS } from "@/lib/data/plannedBooks";
-import { featureAvailability } from "@/lib/env";
 import type { CefrLevel } from "@/types/book";
 
 // 그림책(픽션) 레벨 섹션 — 한국 초등 영어(3학년 시작) 기준 라벨
@@ -109,7 +107,9 @@ export default async function LibraryPage() {
           })}
         </section>
       ) : (
-        !featureAvailability.supabase() && <SetupNotice feature="서재" />
+        <p className="font-ko text-sm text-muted-foreground">
+          아직 준비된 그림책이 없어요.
+        </p>
       )}
 
       {/* 💬 생활 영어 — 단계별 선반 (1~6단계) */}

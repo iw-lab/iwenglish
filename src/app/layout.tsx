@@ -2,7 +2,6 @@ import type { Metadata, Viewport } from "next";
 import { Nunito, Lexend, Gowun_Batang } from "next/font/google";
 import "./globals.css";
 import { ThemeManager } from "@/components/shell/ThemeManager";
-import { CloudSync } from "@/components/sync/CloudSync";
 
 const nunito = Nunito({
   subsets: ["latin"],
@@ -71,7 +70,6 @@ export default function RootLayout({
         className={`${nunito.variable} ${lexend.variable} ${gowun.variable} antialiased`}
       >
         <ThemeManager />
-        <CloudSync />
         {children}
       </body>
     </html>

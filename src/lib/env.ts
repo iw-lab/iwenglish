@@ -5,28 +5,21 @@
  */
 
 export const env = {
-  supabaseUrl: process.env.NEXT_PUBLIC_SUPABASE_URL ?? "",
-  supabaseAnonKey: process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? "",
   billingEnabled: process.env.NEXT_PUBLIC_BILLING_ENABLED === "true",
 };
 
 /** 서버 전용 시크릿 (클라이언트 번들에 들어가면 안 됨) */
 export const serverEnv = {
-  supabaseServiceRole: process.env.SUPABASE_SERVICE_ROLE_KEY ?? "",
   geminiApiKey: process.env.GEMINI_API_KEY ?? "",
   openaiApiKey: process.env.OPENAI_API_KEY ?? "",
-  azureSpeechKey: process.env.AZURE_SPEECH_KEY ?? "",
-  azureSpeechRegion: process.env.AZURE_SPEECH_REGION ?? "",
   myVoiceBaseUrl: process.env.MYVOICE_BASE_URL ?? "",
   myVoiceApiKey: process.env.MYVOICE_API_KEY ?? "",
 };
 
-/** 각 외부 서비스 사용 가능 여부 (골격 모드에서 UI 분기용) */
+/** 각 외부 서비스 사용 가능 여부 (선택 기능 UI 분기용) */
 export const featureAvailability = {
-  supabase: () => Boolean(env.supabaseUrl && env.supabaseAnonKey),
   gemini: () => Boolean(serverEnv.geminiApiKey),
   openai: () => Boolean(serverEnv.openaiApiKey),
-  azure: () => Boolean(serverEnv.azureSpeechKey && serverEnv.azureSpeechRegion),
   myVoice: () => Boolean(serverEnv.myVoiceBaseUrl && serverEnv.myVoiceApiKey),
 };
 

@@ -1,66 +1,112 @@
-# EchoTale · 에코테일
+# EchoTale 🐢📖
 
-> **Read it. Hear it. Echo it. Speak it.** — 영어 그림책 낭독·쉐도잉 학습 PWA
+**AI가 읽어주는 단계별 영어 그림책 — 발음 부담 없이, 수준에 맞게, 누구나 무료로.**
 
-Next.js 16 · React 19 · Tailwind v4 · Supabase · Gemini · Azure Speech.
+> **Read it. Hear it. Echo it. Speak it.**
+
+EchoTale은 초등 영어 학습자를 위한 오픈소스 PWA입니다. AI가 생성한 그림책과
+원어민 음성으로 **Read → Hear → Echo → Speak**(읽고 → 듣고 → 따라 하고 → 말하기)
+셰도잉 루프를 제공합니다. 계정 없이 바로 실행되며, 학습 상태는 기기에 로컬 저장됩니다.
+
+- **353권**의 단계별 콘텐츠 — 그림책 140 · 생활영어 210 · 그리스로마신화 2
+- **preA1 ~** 단계(CEFR 기반)·연령대(ageBand)별 라이브러리, 학생이 **스스로 수준을 선택**
+- **게이미피케이션** — 레벨 / XP / 도장(스탬프)으로 지속 학습 동기부여
+- **단어 학습** — Leitner 기반 간격 반복(SRS)으로 어휘 훈련
+- **로컬 우선** — 계정·로그인 없이 즉시 사용, 학습 기록은 기기에 저장(선택적 클라우드 동기화 지원)
 
 ---
 
-## 현재 상태 — 골격(Skeleton) 완성
+## 🎯 이 프로젝트가 풀려는 사회 문제
 
-API 키 없이 **빌드·실행·동작**하는 골격이 완성됐습니다. (빌드/타입체크/린트/테스트 0 에러)
+한국 초등 영어 교육과정은 스피킹을 강조하지만, 교실 현장에는 구조적 병목이 있습니다.
 
-| 영역 | 상태 |
+1. **교사 1인의 발음 시범 부담** — 교사가 원어민 수준 발음이 아닌 경우가 많은데도
+   매 수업 발음 모델을 직접 제공해야 합니다.
+2. **수준별 개별 지도의 물리적 한계** — 25~30명 한 학급에서 학생마다 다른 영어 수준을
+   1:1로 봐주는 것은 사실상 불가능합니다.
+3. **사교육 접근성 격차** — 도농 간·소득 간 스피킹 학습 기회의 차이가 큽니다.
+
+EchoTale은 이 문제를 다음과 같이 해소합니다.
+
+- **AI 음성이 정확한 발음 모델을 대신 제공** → 교사의 발음 시범 부담 해소
+- **preA1~ 단계별 콘텐츠 + 자기선택 학습** → 학생 개인 수준에 맞춘 자율 학습(메타인지·자기주도성 훈련)
+- **계정 없이 무료 배포** → 방과후·자율학습·가정에서 교사 개입 없이도 스피킹 훈련,
+  사교육 여건과 무관하게 동일 품질의 콘텐츠 접근
+
+> 이 설계는 현직 초등교사가 교실에서 직접 겪은 어려움에서 출발했습니다.
+
+---
+
+## 🧱 기술 스택
+
+| 영역 | 사용 기술 |
 |---|---|
-| 디자인 시스템 (그림책 팔레트·다크모드·난독증 폰트·글자/속도 슬라이더) | ✅ |
-| 앱 셸 (하단 탭바 5개 · 서재/학습/단어장/진도/더보기) | ✅ |
-| Supabase 스키마 + RLS + Storage 정책 (`supabase/migrations/`) | ✅ (적용은 키 필요) |
-| 인증 (이메일 로그인/회원가입 · 세션 proxy) | ✅ (Supabase 키 필요) |
-| 낭독 리더 — Read-Aloud / Sentence / Word-Tap (카라오케 엔진) | ✅ Web Speech 폴백으로 키 없이 동작 |
-| 단어 탭 사전 (IPA·뜻·발음·예문) | ✅ dictionaryapi.dev 무료, 키 불필요 |
-| 쉐도잉 / 따라읽기 + 발음평가 UI | ✅ UI 완성, 평가는 Azure 키 필요 (없으면 녹음·비교 모드) |
-| 콘텐츠 파이프라인 (`scripts/prepare-book.ts`) | ✅ 코드 완성, 실행은 키 필요 |
-| 요금제 / entitlements (상용화 대비 스텁) | ✅ 교실 모드(전권 무료) |
-| 단위 테스트 (utils · SM-2) | ✅ 7 passing |
+| 프레임워크 | Next.js 16 (App Router) · React 19 · TypeScript 5 |
+| 스타일 | Tailwind CSS 4 |
+| 배포 | Cloudflare Workers (OpenNext) · Wrangler |
+| 데이터 | 정적 시드 JSON(`data/seed/`) + 로컬 우선 학습 상태 |
+| AI 에셋 | 일러스트 = OpenAI `gpt-image-2` · 음성(TTS) = OpenAI `gpt-4o-mini-tts` (nova) |
 
-## 빠른 시작 (골격 그대로 보기 — 키 불필요)
+---
+
+## 📁 저장소 구조
+
+```
+data/seed/         # 책 원문(JSON): 제목·레벨·페이지·문장·단어·퀴즈
+public/seed/       # 생성된 미디어 에셋(그림 PNG, 낭독·단어 MP3)
+  ├─ <book-slug>/  #   책별 일러스트 + 문장 낭독 음성
+  └─ _words/       #   전 권 공용 단어 발음(dedup)
+scripts/           # 콘텐츠 생성 파이프라인(텍스트→음성→그림→QA)
+src/               # 앱 소스(Next.js)
+```
+
+> **참고 — 에셋 배포 방식:** 전체 미디어 에셋은 용량이 크므로(약 7.8GB),
+> 이 저장소에는 **소스 코드 · 생성 스크립트 · 샘플 도서 몇 권**만 포함합니다.
+> 전체 353권 에셋은 [Releases](../../releases)에서 내려받거나, 아래 스크립트로
+> 재생성할 수 있습니다. (클론 즉시 샘플로 실행 가능, 스크립트로 전체 재현 가능)
+
+---
+
+## 🚀 실행 방법
 
 ```bash
+# 1) 의존성 설치
 pnpm install
-pnpm dev          # http://localhost:3000
+
+# 2) 개발 서버
+pnpm dev            # http://localhost:3000
+
+# 3) (선택) 에셋 재생성 — OpenAI API 키 필요
+#    .env.local 에 OPENAI_API_KEY 설정 후:
+pnpm seed:audio     # 문장 낭독 음성 생성 (OpenAI nova)
+pnpm seed:words     # 단어 발음 생성     (OpenAI nova, dedup)
+#    이미지 생성은 scripts/gen-storybook-images.mjs (Codex CLI $imagegen) 참고
 ```
 
-서재의 "출간 예정 그림책 10권"과 5대 학습 모드, 설정(테마/폰트/속도), 단어 사전 API가 바로 동작합니다.
+샘플 도서만으로는 API 키 없이도 바로 열람·재생됩니다.
 
-## 콘텐츠 채우기 (키 입력 → 실데이터 시드)
+---
 
-```bash
-cp .env.local.example .env.local     # Supabase · Gemini · Azure 키 입력
-supabase db push                     # 스키마 + RLS + Storage 적용
-ECHOTALE_GEN_IMAGES=1 pnpm seed:books   # codex imagegen 일러스트 + Gemini 텍스트/번역/퀴즈 + Azure 오디오/타이밍
-# 특정 책만:  pnpm seed:books luna-and-the-lost-star
-```
+## 🔐 라이선스
 
-시드가 끝나면 서재에 실제 그림책이 나타나고, 카라오케 낭독·문장 모드·단어 탭·쉐도잉 발음평가가 실데이터로 동작합니다.
+- **소스 코드**: [MIT License](./LICENSE)
+- **생성 미디어 에셋(그림·음성)**: OpenAI 생성물로, OpenAI 이용약관상 **출력물의
+  소유권이 생성자(프로젝트 저작자)에게 귀속**됩니다. 이에 따라 코드와 동일하게
+  MIT 조건으로 재배포합니다. 재사용 시 OpenAI 사용정책을 준수하세요.
+- **개인정보**: 앱은 계정·개인정보 없이 로컬 저장만으로 완전히 동작합니다. 저장소·에셋
+  어디에도 학생 개인정보나 외부 저작물이 포함되어 있지 않습니다. (선택적 클라우드
+  동기화를 켤 경우에 한해 이메일 기반 계정이 사용됩니다.)
 
-## 필요한 키
+자세한 고지는 [LICENSE](./LICENSE) 하단의 *NOTE ON GENERATED MEDIA ASSETS* 참고.
 
-`.env.local.example` 참고 — Supabase / Gemini / Azure Speech 3종 필수, MyVoice·Stripe 선택.
+---
 
-## 아키텍처
+## 🗺️ 로드맵
 
-- `src/app/(app)/*` — 하단 탭 셸이 감싸는 메인 화면들
-- `src/app/read/[slug]` — 풀스크린 낭독 리더 (셸 밖)
-- `src/components/reader/*` — Reader · SentenceView · ShadowingPanel
-- `src/hooks/useKaraoke.ts` — 단어 동기화(Azure 타이밍 / Web Speech 폴백 이중 전략)
-- `src/lib/azure/*` · `gemini.ts` · `dictionary.ts` — 외부 서비스 래퍼 (키 없으면 graceful)
-- `src/lib/entitlements.ts` — 플랜 게이팅 (`NEXT_PUBLIC_BILLING_ENABLED=false` → 전권 무료)
-- `scripts/prepare-book.ts` — 책꽃/Gemini → 문장·단어·오디오·퀴즈 → DB 시드 파이프라인
+- [ ] 학생 발화를 분석해 **적정 난이도를 추천하는 자동 매칭**(현재는 자기선택 방식)
+- [ ] 발음 정확도 피드백(선택적 온디바이스 평가)
+- [ ] 콘텐츠 다국어 확장
 
-## 남은 작업 (키 확보 후)
+---
 
-1. Supabase 프로젝트 생성 → `supabase db push`
-2. `pnpm seed:books` 로 그림책 10권 실제 생성·시드
-3. 쉐도잉 정밀 발음평가 클라이언트 SDK 배선 (`/api/azure-token` + 브라우저 SDK)
-4. SRS 복습 세션 UI · 이해 퀴즈 풀이 화면 · 교사 대시보드 CRUD
-5. PWA 서비스워커(오프라인 캐시) · Playwright E2E · Vercel 배포
+_현직 초등교사가 만든, 교실에서 출발한 오픈소스 영어 학습 도구입니다._

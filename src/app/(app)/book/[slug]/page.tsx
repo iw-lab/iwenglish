@@ -4,7 +4,6 @@ import { PLANNED_BOOKS } from "@/lib/data/plannedBooks";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { LevelBadge } from "@/components/ui/LevelBadge";
-import { SetupNotice } from "@/components/shell/SetupNotice";
 import { BookOpen, ArrowLeft } from "lucide-react";
 import { getStaticBooks, getStaticBookMeta } from "@/lib/data/staticBooks";
 
@@ -39,7 +38,9 @@ export default async function BookDetailPage({
         </div>
         <p className="font-ko text-muted-foreground">{planned.title_ko}</p>
         <p className="font-ko">{planned.summary_ko}</p>
-        <SetupNotice feature={`"${planned.title}" 낭독`} />
+        <Card className="p-4 font-ko text-sm text-muted-foreground">
+          이 그림책은 곧 만나볼 수 있어요. 준비 중입니다.
+        </Card>
       </div>
     );
   }

@@ -100,7 +100,14 @@ function main() {
 
   const meta: Record<string, unknown>[] = [];
 
+  let skipped = 0;
   for (const b of books) {
+    // 에셋(그림·오디오) 디렉토리가 아직 없는 미완성 책은 서재/빌드에서 제외
+    // (표지 없이 뜨거나 열면 book.json 404로 깨지는 것 방지). 에셋 생성되면 자동 노출.
+    if (!existsSync(join(PUBLIC_SEED, b.slug))) {
+      skipped++;
+      continue;
+    }
     const wordCount = b.pages.reduce(
       (sum, p) => sum + p.sentences.reduce((s, sen) => s + enWords(sen.text), 0),
       0,
@@ -181,9 +188,9 @@ import type { BookMeta, SeedWord } from "@/lib/data/staticBooks";
 
   const metaBytes = JSON.stringify(meta).length + JSON.stringify(dict).length;
   console.log(
-    `✅ content.generated.ts — 책 ${books.length} · 사전 ${Object.keys(dict).length} · 인라인 ${(metaBytes / 1e6).toFixed(2)}MB(본문 분리)`,
+    `✅ content.generated.ts — 책 ${meta.length}권 노출${skipped ? ` (에셋없음 ${skipped}권 제외)` : ""} · 사전 ${Object.keys(dict).length} · 인라인 ${(metaBytes / 1e6).toFixed(2)}MB(본문 분리)`,
   );
-  console.log(`✅ book.json ${books.length}권 · public/dict.json ${Object.keys(merged).length} 단어`);
+  console.log(`✅ book.json ${meta.length}권 · public/dict.json ${Object.keys(merged).length} 단어`);
 }
 
 main();

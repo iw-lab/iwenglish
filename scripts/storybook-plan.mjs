@@ -1,4 +1,5 @@
 import { EXTRA_STORYBOOK_PLAN } from "./storybook-extra-books.mjs";
+import { BATCH3_PLAN } from "./storybook-batch3.mjs";
 
 /**
  * 그림책(픽션) 신규 설계 척추 — 난이도 사다리 강하게 차등.
@@ -72,6 +73,7 @@ export const STORYBOOK_PLAN = [
   { slug: "the-girl-who-planted-light", title: "The Girl Who Planted Light", title_ko: "빛을 심은 소녀", level: "B1", ageBand: "11-13", pages: 13, words: 285, char: "a hopeful girl carrying a lantern through a dim valley", summary_ko: "빛이 부족한 골짜기에 ‘빛을 심는’ 소녀의 정성이 마을을 밝혀 가는 이야기.", brief: "A valley gets little sun → a girl plants glowing flowers (a gentle fantasy), tends them nightly → neighbors join → soft light spreads → the valley blooms warm. Hope, effort, community, description." },
   { slug: "the-storyteller-of-the-harbor", title: "The Storyteller of the Harbor", title_ko: "항구의 이야기꾼", level: "B1", ageBand: "11-13", pages: 13, words: 300, char: "an old sailor telling tales to children on a harbor dock at dusk", summary_ko: "항구의 늙은 이야기꾼이 마지막 이야기를 아이들에게 물려주며 바통을 넘기는 이야기.", brief: "An old sailor tells harbor children stories each dusk → one evening he is tired → asks a shy child to finish a tale → the child finds their voice → stories live on. Legacy, voice, warm, varied tense." },
   ...EXTRA_STORYBOOK_PLAN,
+  ...BATCH3_PLAN,
 ];
 
 export default STORYBOOK_PLAN;

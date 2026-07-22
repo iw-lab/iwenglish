@@ -1,6 +1,6 @@
 /**
- * 생활영어(daily) 확장 설계 척추 — 신규 100권(daily-51 ~ daily-150).
- * 목표: 각 stage(1~6) 25권. 현재 8/8/8/8/9/9 → +17/+17/+17/+17/+16/+16.
+ * 생활영어(daily) 확장 설계 척추 — daily-51 ~ daily-210 (총 160항목).
+ *   1차: 51~150 (각 stage 25권). 2차(batch3): 151~210 (각 stage +10 → 35권).
  * 난이도 사다리·캐스트(단계별 다양화)·고유 주제(기존 50권 중복 회피)를 한 곳에 고정.
  * 텍스트(시드)·이미지가 공통 참조.
  */
@@ -138,6 +138,79 @@ const RAW = [
   [148, "the-green-rooftop", "The Green Rooftop", "옥상 정원", 6, ["jun", "mina", "teacher"], "학교 옥상에 정원을 만들 계획"],
   [149, "the-coding-club", "The Coding Club", "코딩 동아리", 6, ["jun", "mina", "teacher"], "간단한 게임을 코딩해 만드는 동아리"],
   [150, "the-graduation-plan", "The Graduation Plan", "졸업 계획", 6, ["jun", "mina", "teacher"], "졸업을 앞두고 추억을 준비"],
+
+  // ════════ batch3 신규 60권 (151~210) · stage별 +10 ════════
+  // ── STAGE 1 (preA1) +10 ──
+  [151, "i-tie-my-shoes", "I Tie My Shoes", "신발 끈을 묶어요", 1, ["jun"], "혼자 신발 끈을 묶어요, 동작 반복"],
+  [152, "my-spoon-and-bowl", "My Spoon and Bowl", "내 숟가락과 그릇", 1, ["jun"], "숟가락과 그릇으로 밥을 먹어요"],
+  [153, "i-turn-off-the-light", "I Turn Off the Light", "불을 꺼요", 1, ["jun"], "잘 때 불을 꺼요, on/off"],
+  [154, "my-two-hands", "My Two Hands", "내 두 손", 1, ["jun"], "두 손으로 박수치고 흔들어요, 신체"],
+  [155, "i-open-the-window", "I Open the Window", "창문을 열어요", 1, ["jun"], "아침에 창문을 열어요, 맑은 공기"],
+  [156, "my-warm-mittens", "My Warm Mittens", "내 따뜻한 장갑", 1, ["jun"], "추운 날 장갑을 껴요, 색깔·따뜻함"],
+  [157, "i-pet-the-cat", "I Pet the Cat", "고양이를 쓰다듬어요", 1, ["jun"], "고양이를 부드럽게 쓰다듬어요"],
+  [158, "my-snack-time", "My Snack Time", "간식 시간", 1, ["jun"], "간식을 먹어요, 사과·우유"],
+  [159, "i-can-count-to-ten", "I Can Count to Ten", "열까지 셀 수 있어요", 1, ["jun"], "하나부터 열까지 세요, I can"],
+  [160, "i-say-thank-you", "I Say Thank You", "고맙다고 말해요", 1, ["jun"], "고마울 때 인사해요, please·thank you"],
+
+  // ── STAGE 2 (A1) +10 ──
+  [161, "the-wobbly-tooth", "The Wobbly Tooth", "흔들리는 이", 2, ["jun", "mom"], "흔들리던 이가 쏙 빠지는 날"],
+  [162, "the-new-shoes", "The New Shoes", "새 신발", 2, ["jun", "mom"], "새 신발을 사서 신어 봐요"],
+  [163, "feeding-the-ducks", "Feeding the Ducks", "오리에게 먹이 주기", 2, ["jun", "mina"], "공원 연못에서 오리에게 빵을 줘요"],
+  [164, "the-paper-airplane", "The Paper Airplane", "종이비행기", 2, ["jun", "dad"], "종이비행기를 접어 멀리 날려요"],
+  [165, "helping-dad-cook", "Helping Dad Cook", "아빠 요리 돕기", 2, ["jun", "dad"], "부엌에서 아빠 요리를 도와요"],
+  [166, "the-mixed-up-shoes", "The Mixed-Up Shoes", "뒤바뀐 신발", 2, ["jun", "mina"], "현관에서 신발이 뒤바뀌어 웃음"],
+  [167, "the-snail-in-the-garden", "The Snail in the Garden", "정원의 달팽이", 2, ["jun"], "정원에서 달팽이를 찾아 관찰해요"],
+  [168, "the-button-jar", "The Button Jar", "단추 통", 2, ["jun", "grandma"], "할머니와 단추를 색깔로 나눠요"],
+  [169, "the-first-snowflake", "The First Snowflake", "첫 눈송이", 2, ["jun"], "첫눈을 손으로 받아 봐요"],
+  [170, "cupcakes-with-mom", "Cupcakes with Mom", "엄마와 컵케이크", 2, ["jun", "mom"], "엄마와 컵케이크를 만들어요"],
+
+  // ── STAGE 3 (A2) +10 ──
+  [171, "the-classroom-plant", "The Classroom Plant", "우리 반 화분", 3, ["jun", "mina", "teacher"], "시든 반 화분을 함께 살려요"],
+  [172, "the-missing-homework", "The Missing Homework", "사라진 숙제", 3, ["jun", "mom"], "숙제를 못 찾다가 가방에서 발견"],
+  [173, "the-lost-and-found-box", "The Lost and Found Box", "분실물 상자", 3, ["jun", "teacher"], "분실물을 주인에게 찾아 줘요"],
+  [174, "the-balcony-nest", "The Balcony Nest", "베란다의 둥지", 3, ["jun", "dad"], "베란다의 새 둥지를 지켜봐요"],
+  [175, "board-game-night", "Board Game Night", "보드게임의 밤", 3, ["jun", "mom", "dad"], "가족 보드게임, 규칙과 차례 지키기"],
+  [176, "the-leaky-water-bottle", "The Leaky Water Bottle", "새는 물병", 3, ["jun", "mina"], "새는 물병 문제를 스스로 해결"],
+  [177, "the-quiet-library-rule", "The Quiet Library Rule", "도서관 규칙", 3, ["jun", "mina"], "도서관에서 조용히 하는 법을 배워요"],
+  [178, "the-shadow-puppets", "The Shadow Puppets", "그림자 인형", 3, ["jun", "dad"], "손으로 그림자 인형을 만들어요, 빛"],
+  [179, "the-crosswalk-helper", "The Crosswalk Helper", "횡단보도 도우미", 3, ["jun", "teacher"], "동생들이 안전하게 길 건너게 도와요"],
+  [180, "the-rainy-bus-stop", "The Rainy Bus Stop", "비 오는 버스 정류장", 3, ["jun", "mina"], "버스 정류장에서 우산을 나눠 써요"],
+
+  // ── STAGE 4 (A2) +10 ──
+  [181, "the-backyard-treasure-map", "The Backyard Treasure Map", "뒷마당 보물 지도", 4, ["jun", "mina"], "단서를 따라 뒷마당 보물을 찾아요"],
+  [182, "the-home-cooking-show", "The Home Cooking Show", "집에서 요리쇼", 4, ["jun", "mina"], "친구끼리 간식을 만들며 요리쇼 놀이"],
+  [183, "the-jump-rope-team", "The Jump Rope Team", "줄넘기 팀", 4, ["jun", "mina"], "줄넘기를 연습하며 팀워크를 배워요"],
+  [184, "the-cat-on-the-roof", "The Cat on the Roof", "지붕 위 고양이", 4, ["jun", "dad"], "지붕 위 고양이를 구할 방법을 찾아요"],
+  [185, "grandmas-secret-recipe", "Grandma's Secret Recipe", "할머니의 비밀 레시피", 4, ["jun", "grandma"], "할머니께 음식 만드는 법을 배워요"],
+  [186, "the-backyard-sleepover", "The Backyard Sleepover", "뒷마당 캠핑", 4, ["jun", "dad"], "뒷마당에 텐트를 치고 별을 봐요"],
+  [187, "learning-to-skate", "Learning to Skate", "롤러스케이트 배우기", 4, ["jun", "mina"], "넘어져도 다시 일어나 스케이트를 타요"],
+  [188, "training-our-puppy", "Training Our Puppy", "강아지 훈련", 4, ["jun", "mom"], "강아지에게 앉아·기다려를 가르쳐요"],
+  [189, "the-yard-sale", "The Yard Sale", "마당 세일", 4, ["jun", "mom"], "안 쓰는 장난감을 팔고 나눠요"],
+  [190, "the-sledding-hill", "The Sledding Hill", "썰매 언덕", 4, ["jun", "dad"], "처음 썰매를 타며 용기를 내요"],
+
+  // ── STAGE 5 (B1) +10 ──
+  [191, "the-bird-feeder-project", "The Bird Feeder Project", "새 모이통 프로젝트", 5, ["jun", "mina", "teacher"], "새 모이통을 만들어 겨울 새를 관찰"],
+  [192, "grandparents-story-day", "Grandparents' Story Day", "조부모님 이야기의 날", 5, ["jun", "grandpa", "teacher"], "어르신 이야기를 듣고 기록·발표"],
+  [193, "the-stray-cat-shelter", "The Stray Cat Shelter", "길고양이 쉼터", 5, ["jun", "mina", "mom"], "길고양이 겨울 쉼터를 만들어요"],
+  [194, "the-class-cookbook", "The Class Cookbook", "우리 반 요리책", 5, ["jun", "mina", "teacher"], "가족 레시피를 모아 반 요리책 제작"],
+  [195, "the-beach-cleanup", "The Beach Cleanup", "해변 청소", 5, ["jun", "mina", "dad"], "해변 쓰레기를 줍고 환경을 배워요"],
+  [196, "the-toy-repair-cafe", "The Toy Repair Cafe", "장난감 수리 카페", 5, ["jun", "grandpa", "teacher"], "고장난 장난감을 고쳐 나눠요"],
+  [197, "the-blanket-drive", "The Blanket Drive", "담요 나눔", 5, ["jun", "mina", "teacher"], "어르신께 담요를 모아 전해요"],
+  [198, "the-playground-plan", "The Playground Plan", "놀이터 다시 꾸미기", 5, ["jun", "mina", "teacher"], "놀이터 개선안을 조사해 제안"],
+  [199, "the-seed-library", "The Seed Library", "씨앗 도서관", 5, ["jun", "mina", "teacher"], "씨앗을 나누는 도서관을 만들어요"],
+  [200, "the-compost-corner", "The Compost Corner", "퇴비 코너", 5, ["jun", "mina", "teacher"], "음식물로 퇴비를 만드는 코너"],
+
+  // ── STAGE 6 (B1) +10 ──
+  [201, "the-memory-book", "The Memory Book", "추억 앨범", 6, ["jun", "mina", "teacher"], "한 해를 담은 반 추억 앨범 만들기"],
+  [202, "the-shadow-theater", "The Shadow Theater", "그림자 극장", 6, ["jun", "mina", "teacher"], "반이 그림자극을 만들어 공연해요"],
+  [203, "the-water-saving-invention", "The Water-Saving Invention", "물 절약 발명", 6, ["jun", "mina", "teacher"], "물을 아끼는 발명품을 설계·발표"],
+  [204, "the-peacemakers", "The Peacemakers", "또래 화해 도우미", 6, ["jun", "mina", "teacher"], "친구 사이 다툼을 풀도록 돕는 또래 도우미"],
+  [205, "the-walkathon-for-trees", "The Walkathon for Trees", "나무 심기 걷기 대회", 6, ["jun", "mina", "teacher"], "걷기 대회로 나무 심기 기금을 모아요"],
+  [206, "the-career-day", "The Career Day", "진로의 날", 6, ["jun", "mina", "teacher"], "여러 직업을 조사하고 인터뷰해요"],
+  [207, "the-world-food-day", "The World Food Day", "세계 음식의 날", 6, ["jun", "mina", "teacher"], "여러 나라 음식으로 문화를 나눠요"],
+  [208, "the-class-documentary", "The Class Documentary", "우리 반 다큐멘터리", 6, ["jun", "mina", "teacher"], "학교생활을 영상으로 기록·편집"],
+  [209, "the-welcome-guide", "The Welcome Guide", "신입생 안내서", 6, ["jun", "mina", "teacher"], "내년 후배를 위한 안내서를 만들어요"],
+  [210, "the-thank-you-assembly", "The Thank-You Assembly", "감사 발표회", 6, ["jun", "mina", "teacher"], "선생님·직원께 감사 발표회를 열어요"],
 ];
 
 export const PLAN = RAW.map(([num, suffix, title, title_ko, stage, cast, topic]) => ({

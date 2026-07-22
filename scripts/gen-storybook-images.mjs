@@ -14,6 +14,7 @@ import { readFileSync, existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { STORYBOOK_PLAN } from "./storybook-plan.mjs";
 import { EXTRA_STORYBOOK_PLAN } from "./storybook-extra-books.mjs";
+import { BATCH3_PLAN } from "./storybook-batch3.mjs";
 
 const ROOT = process.cwd();
 const SEED = join(ROOT, "data", "seed");
@@ -154,11 +155,26 @@ async function pool(tasks, conc) {
 
 function loadBooks() {
   const scope = process.argv[4] || process.env.STORYBOOK_SCOPE || "all";
-  const plan = scope === "extra" ? EXTRA_STORYBOOK_PLAN : STORYBOOK_PLAN;
-  return plan.map((spec) => {
-    const seed = JSON.parse(readFileSync(join(SEED, spec.slug + ".json"), "utf8"));
-    return { ...spec, pages: seed.pages };
-  });
+  const plan =
+    scope === "extra"
+      ? EXTRA_STORYBOOK_PLAN
+      : scope === "batch3"
+        ? BATCH3_PLAN
+        : STORYBOOK_PLAN;
+  // seed JSON이 아직 없는 권(텍스트 집필 전)은 크래시 대신 warn+skip — 기존 권 처리 보호
+  return plan
+    .map((spec) => {
+      try {
+        const seed = JSON.parse(
+          readFileSync(join(SEED, spec.slug + ".json"), "utf8"),
+        );
+        return { ...spec, pages: seed.pages };
+      } catch {
+        console.warn(`⚠︎ seed 없음 → skip: ${spec.slug}`);
+        return null;
+      }
+    })
+    .filter(Boolean);
 }
 
 const head = (b, kind, n) =>
@@ -198,10 +214,15 @@ function pageTasks(list) {
 }
 
 async function main() {
-  const phase = ["covers", "pages"].includes(process.argv[2]) ? process.argv[2] : "covers";
+  const phase = ["covers", "pages", "dump"].includes(process.argv[2]) ? process.argv[2] : "covers";
   const conc = Number(process.argv[3]) || 3;
   const scope = process.argv[4] || process.env.STORYBOOK_SCOPE || "all";
   const list = loadBooks();
+  if (phase === "dump") {
+    // 외부 엔진(Meta 브릿지 등)용 작업 목록 JSON — 프롬프트 로직 단일 출처 유지
+    console.log(JSON.stringify([...coverTasks(list), ...pageTasks(list)]));
+    return;
+  }
   console.log(`🖼️ storybook [${phase}] scope=${scope} 동시 ${conc} · ${list.length}권 · salt ${SALT}`);
   let stopped = false;
   if (phase === "covers") {

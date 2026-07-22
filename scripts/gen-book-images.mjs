@@ -231,9 +231,15 @@ function pageTasks(list) {
 }
 
 async function main() {
-  const phase = ["covers", "pages", "all"].includes(process.argv[2])
+  const phase = ["covers", "pages", "all", "dump"].includes(process.argv[2])
     ? process.argv[2]
     : "all";
+  if (phase === "dump") {
+    // 외부 엔진(Meta 브릿지 등)용 작업 목록 JSON — 프롬프트 로직 단일 출처 유지
+    const list = loadBooks();
+    console.log(JSON.stringify([...coverTasks(list), ...pageTasks(list)]));
+    return;
+  }
   const conc = Math.min(Number(process.argv[3]) || 3, 3); // HARD 캡 3 (OAuth race 방어)
   const list = loadBooks();
   buildHashMap(); // 기존 전 자산 md5 대조군 구축 (생성물 self-verify 기준)

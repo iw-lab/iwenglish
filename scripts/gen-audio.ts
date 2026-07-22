@@ -1,14 +1,13 @@
 /**
  * 문장별 음성 1회 생성 → public/seed/{slug}/audio/* + 정확한 카라오케 타이밍.
- *   ① TTS 엔진: Edge TTS(무료·기본) 또는 Gemini TTS(유료·고품질)
+ *   ① TTS 엔진: Edge TTS(무료·기본)
  *   ② faster-whisper 로 음성에서 단어별 실제 타임스탬프 추출(강제정렬) → 완벽 동기화
  *   ③ 실패 시 음절 기반 추정으로 폴백
  * 재생은 정적 파일이라 추가 비용 0.
  *
  *  실행:  pnpm seed:audio [slug]
- *         TTS_ENGINE=gemini GEMINI_TTS_VOICE=Kore pnpm seed:audio luna-and-the-lost-star
- *         EDGE_TTS_VOICE=en-US-AnaNeural pnpm seed:audio
- *  필요: python + uv (edge-tts, faster-whisper). Gemini 엔진은 GEMINI_API_KEY.
+ *  *         EDGE_TTS_VOICE=en-US-AnaNeural pnpm seed:audio
+ *  필요: python + uv (edge-tts, faster-whisper).
  */
 import "./_env";
 import { execFileSync } from "node:child_process";
@@ -25,7 +24,6 @@ import { tmpdir } from "node:os";
 
 import { estimateWordTimings, pcmToWav, pcmDurationMs } from "@/lib/audio/wav";
 import { tokenizeWords } from "@/lib/utils";
-import { geminiTTS, cloudTTS } from "@/lib/gemini";
 import { openaiTTS, openaiTranscribeWords } from "@/lib/openai";
 import type { WordTiming } from "@/types/book";
 
@@ -34,10 +32,6 @@ const PUBLIC_DIR = join(process.cwd(), "public");
 const SCRIPTS = join(process.cwd(), "scripts");
 const ENGINE = (process.env.TTS_ENGINE || "openai").toLowerCase(); // openai | cloud | gemini | edge
 const EDGE_VOICE = process.env.EDGE_TTS_VOICE || "en-US-JennyNeural";
-const GEMINI_VOICE = process.env.GEMINI_TTS_VOICE || "Kore";
-const GEMINI_THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS || 6500); // preview 10/분 대응
-const CLOUD_VOICE = process.env.CLOUD_TTS_VOICE || "en-US-Chirp3-HD-Kore"; // GA, 일일 캡 없음
-const CLOUD_THROTTLE_MS = Number(process.env.CLOUD_THROTTLE_MS || 250);
 const OPENAI_VOICE = process.env.OPENAI_TTS_VOICE || "nova";
 const OPENAI_MODEL = process.env.OPENAI_TTS_MODEL || "gpt-4o-mini-tts";
 const OPENAI_THROTTLE_MS = Number(process.env.OPENAI_THROTTLE_MS || 200);
@@ -94,31 +88,16 @@ async function synth(
       writeFileSync(absBase + ".mp3", mp3);
       return { ext: ".mp3", dur: Math.max(900, text.length * 60) };
     }
-    process.stdout.write(" [Edge폴백]");
-    return { ext: ".mp3", dur: edgeSynth(text, absBase + ".mp3") };
+    // 🚫 Edge 자동 폴백 금지 (2026-07-14) — OpenAI 쿼터 소진 시 Edge가 몰래 섞이면
+    // ① 낭독 목소리가 nova↔Edge로 뒤섞이고 ② Edge(비공식 엔드포인트) 재배포
+    // 라이선스 회색지대가 되살아난다. 조용히 대체하지 말고 크게 실패시킨다.
+    // 의도적으로 Edge를 쓰려면 TTS_ENGINE=edge 를 명시할 것.
+    throw new Error(
+      "[gen-audio] OpenAI TTS 실패(쿼터/키 확인 필요). Edge 자동 폴백은 비활성 — " +
+        "https://platform.openai.com/settings/organization/billing 에서 크레딧 확인 후 재실행하세요.",
+    );
   }
-  if (ENGINE === "cloud") {
-    await sleep(CLOUD_THROTTLE_MS);
-    const mp3 = await cloudTTS(text, CLOUD_VOICE);
-    if (mp3) {
-      writeFileSync(absBase + ".mp3", mp3);
-      // mp3 길이는 whisper/추정으로 보정 — vtt 없으니 임시값(아래 정렬 단계가 덮어씀)
-      return { ext: ".mp3", dur: Math.max(900, text.length * 60) };
-    }
-    process.stdout.write(" [Edge폴백]");
-    return { ext: ".mp3", dur: edgeSynth(text, absBase + ".mp3") };
-  }
-  if (ENGINE === "gemini") {
-    await sleep(GEMINI_THROTTLE_MS); // 분당 10회 제한 준수
-    const pcm = await geminiTTS(text, GEMINI_VOICE);
-    if (pcm) {
-      writeFileSync(absBase + ".wav", pcmToWav(pcm, 24000));
-      return { ext: ".wav", dur: pcmDurationMs(pcm, 24000) };
-    }
-    // Gemini 실패(한도/오류) → Edge 폴백 (전 책 완성 보장)
-    process.stdout.write(" [Edge폴백]");
-    return { ext: ".mp3", dur: edgeSynth(text, absBase + ".mp3") };
-  }
+  // cloud(Google Cloud TTS)·gemini(Gemini TTS) 엔진 제거됨 — 2026-07-12 (Google API 키 의존 제거)
   return { ext: ".mp3", dur: edgeSynth(text, absBase + ".mp3") };
 }
 
@@ -209,13 +188,7 @@ async function processBook(file: string) {
   mkdirSync(audioDir, { recursive: true });
 
   const voiceLabel =
-    ENGINE === "openai"
-      ? `OpenAI:${OPENAI_VOICE}`
-      : ENGINE === "cloud"
-        ? `CloudTTS:${CLOUD_VOICE}`
-        : ENGINE === "gemini"
-          ? `Gemini:${GEMINI_VOICE}`
-          : `Edge:${EDGE_VOICE}`;
+    ENGINE === "openai" ? `OpenAI:${OPENAI_VOICE}` : `Edge:${EDGE_VOICE}`;
   console.log(`\n🔊 ${book.title} (${voiceLabel})`);
 
   // ① 음성
@@ -364,13 +337,7 @@ async function main() {
     process.exit(1);
   }
   const engineLabel =
-    ENGINE === "openai"
-      ? "OpenAI TTS(gpt-4o-mini-tts)"
-      : ENGINE === "cloud"
-        ? "Cloud TTS(Chirp3-HD)"
-        : ENGINE === "gemini"
-          ? "Gemini TTS"
-          : "Edge TTS";
+    ENGINE === "openai" ? "OpenAI TTS(gpt-4o-mini-tts)" : "Edge TTS";
   console.log(`🌱 ${files.length}권 음성+정렬 시작 (${engineLabel} + Whisper)`);
   for (const f of files) await processBook(f);
   if (FAILED.length > 0) {

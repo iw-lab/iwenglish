@@ -102,9 +102,17 @@ function main() {
 
   let skipped = 0;
   for (const b of books) {
-    // 에셋(그림·오디오) 디렉토리가 아직 없는 미완성 책은 서재/빌드에서 제외
-    // (표지 없이 뜨거나 열면 book.json 404로 깨지는 것 방지). 에셋 생성되면 자동 노출.
-    if (!existsSync(join(PUBLIC_SEED, b.slug))) {
+    // 완전한 책만 노출: 표지·모든 페이지 이미지·모든 문장 음성이 다 갖춰진 책만.
+    // 하나라도 빠지면 "그림 준비 중"·무음으로 깨지므로 서재/빌드에서 제외.
+    // 에셋이 채워지면 다음 seed:content 때 자동 노출.
+    const hasCover = Boolean(img(b.slug, "cover.webp") || img(b.slug, "cover.png"));
+    const allPagesHaveImg = b.pages.every(
+      (_p, pi) => img(b.slug, `p${pi + 1}.webp`) || img(b.slug, `p${pi + 1}.png`),
+    );
+    const allSentencesHaveAudio = b.pages.every((p) =>
+      p.sentences.every((s) => (s.wordTimings?.length ?? 0) > 0),
+    );
+    if (!hasCover || !allPagesHaveImg || !allSentencesHaveAudio) {
       skipped++;
       continue;
     }

@@ -1,0 +1,868 @@
+{
+  "slug": "bear-cub-and-the-honey",
+  "title": "Bear Cub and the Honey",
+  "title_ko": "아기 곰과 꿀",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "꿀이 너무 먹고 싶은 아기 곰이 벌들과 사이좋게 꿀을 나누는 법을 배우는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Bear Cub walked in the forest.",
+          "translation_ko": "아기 곰이 숲속을 걸었어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 1160
+            },
+            {
+              "word": "Cub",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "walked",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1420,
+              "endMs": 2000
+            },
+            {
+              "word": "in",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 2000,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 2340,
+              "endMs": 2660
+            },
+            {
+              "word": "forest",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2660,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "He smelled something sweet.",
+          "translation_ko": "달콤한 냄새가 났어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "smelled",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 180,
+              "endMs": 580
+            },
+            {
+              "word": "something",
+              "charStart": 11,
+              "charEnd": 20,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "sweet",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 960,
+              "endMs": 1340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He found a big honey tree.",
+          "translation_ko": "아기 곰은 커다란 꿀 나무를 찾았어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "found",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 780
+            },
+            {
+              "word": "big",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "honey",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "tree",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1480
+            }
+          ]
+        },
+        {
+          "text": "The bees lived inside the tree.",
+          "translation_ko": "벌들이 나무 안에 살고 있었어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "bees",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 720
+            },
+            {
+              "word": "lived",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 1220
+            },
+            {
+              "word": "inside",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1780,
+              "endMs": 2000
+            },
+            {
+              "word": "tree",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2000,
+              "endMs": 2240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear Cub ran to the tree.",
+          "translation_ko": "아기 곰이 나무로 달려갔어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "Cub",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "ran",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1200
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "tree",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1600
+            }
+          ]
+        },
+        {
+          "text": "But the bees buzzed loudly.",
+          "translation_ko": "그런데 벌들이 크게 윙윙거렸어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 980
+            },
+            {
+              "word": "bees",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "buzzed",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 2000
+            },
+            {
+              "word": "loudly",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 2000,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bees flew around Bear Cub.",
+          "translation_ko": "벌들이 아기 곰 주위를 날아다녔어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "bees",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 680
+            },
+            {
+              "word": "flew",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 1160
+            },
+            {
+              "word": "around",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1660
+            },
+            {
+              "word": "Bear",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 2200
+            },
+            {
+              "word": "Cub",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2200,
+              "endMs": 2420
+            }
+          ]
+        },
+        {
+          "text": "He stopped and stepped back.",
+          "translation_ko": "아기 곰은 멈추고 뒤로 물러섰어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "stopped",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1460
+            },
+            {
+              "word": "stepped",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "back",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear Cub sat down and waited.",
+          "translation_ko": "아기 곰은 앉아서 기다렸어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 960
+            },
+            {
+              "word": "Cub",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "sat",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1200,
+              "endMs": 1880
+            },
+            {
+              "word": "down",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1880,
+              "endMs": 2280
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 2280,
+              "endMs": 3080
+            },
+            {
+              "word": "waited",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 3080,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "The bees watched him quietly.",
+          "translation_ko": "벌들이 조용히 아기 곰을 바라봤어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "bees",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "watched",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 1000
+            },
+            {
+              "word": "him",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "quietly",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1280,
+              "endMs": 1700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He said, \"May I have some honey?\"",
+          "translation_ko": "아기 곰이 말했어요. \"꿀을 조금 먹어도 될까요?\"",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "said",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "May",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 1040
+            },
+            {
+              "word": "I",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "have",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "some",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "honey",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1660,
+              "endMs": 1820
+            }
+          ]
+        },
+        {
+          "text": "A big bee flew close to him.",
+          "translation_ko": "커다란 벌 한 마리가 가까이 날아왔어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "big",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 180,
+              "endMs": 460
+            },
+            {
+              "word": "bee",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "flew",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "close",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1500
+            },
+            {
+              "word": "him",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bee said, \"You asked kindly.\"",
+          "translation_ko": "벌이 말했어요. \"예의 바르게 물어봤군요.\"",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "bee",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 400
+            },
+            {
+              "word": "said",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 780
+            },
+            {
+              "word": "You",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1240
+            },
+            {
+              "word": "asked",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "kindly",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "\"We will share a little honey.\"",
+          "translation_ko": "\"우리가 꿀을 조금 나눠 줄게요.\"",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "will",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "share",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 960
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "little",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "honey",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bear Cub tasted the sweet honey.",
+          "translation_ko": "아기 곰은 달콤한 꿀을 맛봤어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bear",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "Cub",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 760
+            },
+            {
+              "word": "tasted",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1500,
+              "endMs": 1840
+            },
+            {
+              "word": "sweet",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "honey",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2200,
+              "endMs": 2400
+            }
+          ]
+        },
+        {
+          "text": "He smiled and said thank you.",
+          "translation_ko": "아기 곰은 미소 지으며 고맙다고 했어요.",
+          "audio": "/seed/bear-cub-and-the-honey/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "smiled",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1400
+            },
+            {
+              "word": "said",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1400,
+              "endMs": 1560
+            },
+            {
+              "word": "thank",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1560,
+              "endMs": 1940
+            },
+            {
+              "word": "you",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1940,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아기 곰은 숲에서 무엇을 찾았나요?",
+      "type": "mc",
+      "options": [
+        "커다란 꿀 나무",
+        "작은 연못",
+        "달콤한 사과",
+        "벌꿀 항아리"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아기 곰은 숲속을 걷다가 커다란 꿀 나무를 찾았어요."
+    },
+    {
+      "question_ko": "아기 곰이 나무로 달려가자 벌들은 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "노래를 불렀어요",
+        "크게 윙윙거렸어요",
+        "집으로 들어갔어요",
+        "꿀을 가져왔어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "아기 곰이 나무로 달려가자 벌들이 크게 윙윙거리며 날아다녔어요."
+    },
+    {
+      "question_ko": "아기 곰은 벌들이 윙윙거리자 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "더 빨리 달려갔어요",
+        "나무에 올라갔어요",
+        "멈추고 뒤로 물러섰어요",
+        "도망갔어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아기 곰은 벌들이 날아오자 멈추고 뒤로 물러선 후 앉아서 기다렸어요."
+    },
+    {
+      "question_ko": "벌들이 아기 곰에게 꿀을 나눠 준 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "아기 곰이 울었기 때문에",
+        "아기 곰이 힘이 세기 때문에",
+        "아기 곰이 오래 기다렸기 때문에",
+        "아기 곰이 예의 바르게 부탁했기 때문에"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "벌들은 아기 곰이 예의 바르게 꿀을 달라고 부탁했기 때문에 꿀을 나눠 줬어요."
+    },
+    {
+      "question_ko": "이 이야기에서 아기 곰이 배운 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "벌은 무섭다",
+        "나누면 함께 행복해진다",
+        "꿀은 나무에서 자란다",
+        "숲에는 달콤한 것이 많다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "아기 곰은 예의 바르게 부탁하고 나누는 것이 서로를 행복하게 한다는 것을 배웠어요."
+    }
+  ]
+}

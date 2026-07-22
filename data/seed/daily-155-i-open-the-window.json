@@ -1,0 +1,558 @@
+{
+  "slug": "daily-155-i-open-the-window",
+  "title": "I Open the Window",
+  "title_ko": "창문을 열어요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "준이 아침에 창문을 열고 신선한 공기를 마시며 하루를 시작해요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun wakes up early in the morning.",
+          "translation_ko": "준이 이른 아침에 잠에서 깨요.",
+          "audio": "/seed/daily-155-i-open-the-window/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "wakes",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "up",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "early",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1320
+            },
+            {
+              "word": "in",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1700
+            },
+            {
+              "word": "morning",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1700,
+              "endMs": 1840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun walks to the big window in his room.",
+          "translation_ko": "준이 방 안의 큰 창문 쪽으로 걸어가요.",
+          "audio": "/seed/daily-155-i-open-the-window/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "walks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1260
+            },
+            {
+              "word": "big",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "window",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "in",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 2060
+            },
+            {
+              "word": "his",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2060,
+              "endMs": 2240
+            },
+            {
+              "word": "room",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun opens the window with both hands.",
+          "translation_ko": "준이 두 손으로 창문을 열어요.",
+          "audio": "/seed/daily-155-i-open-the-window/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "opens",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 820,
+              "endMs": 1120
+            },
+            {
+              "word": "window",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1240
+            },
+            {
+              "word": "with",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "both",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "hands",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1800,
+              "endMs": 2180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Fresh and cool air comes into the room.",
+          "translation_ko": "신선하고 시원한 공기가 방 안으로 들어와요.",
+          "audio": "/seed/daily-155-i-open-the-window/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Fresh",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "and",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "cool",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "air",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "comes",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1780
+            },
+            {
+              "word": "into",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2200
+            },
+            {
+              "word": "room",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2200,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun takes a big deep breath of fresh air.",
+          "translation_ko": "준이 신선한 공기를 크게 한 번 깊이 들이마셔요.",
+          "audio": "/seed/daily-155-i-open-the-window/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "takes",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 720,
+              "endMs": 940
+            },
+            {
+              "word": "big",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1460
+            },
+            {
+              "word": "deep",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1540,
+              "endMs": 1720
+            },
+            {
+              "word": "breath",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 2020
+            },
+            {
+              "word": "of",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2020,
+              "endMs": 2320
+            },
+            {
+              "word": "fresh",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2320,
+              "endMs": 2540
+            },
+            {
+              "word": "air",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2540,
+              "endMs": 2780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The cool morning air makes Jun feel very good.",
+          "translation_ko": "상쾌한 아침 공기 덕분에 준은 기분이 아주 좋아요.",
+          "audio": "/seed/daily-155-i-open-the-window/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "cool",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 840,
+              "endMs": 1240
+            },
+            {
+              "word": "morning",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "air",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1560,
+              "endMs": 1920
+            },
+            {
+              "word": "makes",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1920,
+              "endMs": 2200
+            },
+            {
+              "word": "Jun",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "feel",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2520,
+              "endMs": 2900
+            },
+            {
+              "word": "very",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2900,
+              "endMs": 3260
+            },
+            {
+              "word": "good",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3260,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun smiles and is ready to start his day.",
+          "translation_ko": "준이 환하게 웃으며 하루를 시작할 준비가 됐어요.",
+          "audio": "/seed/daily-155-i-open-the-window/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 1000
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "is",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "ready",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1560,
+              "endMs": 1680
+            },
+            {
+              "word": "to",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "start",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2160
+            },
+            {
+              "word": "his",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2160,
+              "endMs": 2360
+            },
+            {
+              "word": "day",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2360,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 아침에 창문을 열었을 때 무엇이 들어왔나요?",
+      "type": "mc",
+      "options": [
+        "신선하고 시원한 공기",
+        "비와 바람",
+        "작은 새 한 마리",
+        "햇빛과 먼지"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "창문을 열자 신선하고 시원한 공기가 방 안으로 들어왔어요."
+    },
+    {
+      "question_ko": "준이 창문을 어떻게 열었나요?",
+      "type": "mc",
+      "options": [
+        "발로 찼어요.",
+        "두 손으로 열었어요.",
+        "막대기로 밀었어요.",
+        "엄마가 대신 열어 줬어요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "준이 두 손으로 창문을 열었어요."
+    },
+    {
+      "question_ko": "준이 창문을 열기 전에 한 행동은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "아침밥을 먹었어요.",
+        "친구에게 전화했어요.",
+        "이른 아침에 잠에서 깼어요.",
+        "학교 가방을 쌌어요."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준이 이른 아침에 잠에서 깬 다음 창문 쪽으로 걸어갔어요."
+    },
+    {
+      "question_ko": "아침 공기를 마신 뒤 준의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "슬프고 무거웠어요.",
+        "피곤하고 졸렸어요.",
+        "무섭고 떨렸어요.",
+        "기분이 아주 좋았어요."
+      ],
+      "answerIndex": 3,
+      "explain_ko": "상쾌한 아침 공기 덕분에 준은 기분이 아주 좋아졌어요."
+    },
+    {
+      "question_ko": "이야기 마지막에 준은 무엇을 할 준비가 됐나요?",
+      "type": "mc",
+      "options": [
+        "하루를 시작할 준비",
+        "잠을 더 잘 준비",
+        "창문을 닫을 준비",
+        "학교 숙제를 할 준비"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 환하게 웃으며 하루를 시작할 준비가 됐어요."
+    }
+  ]
+}

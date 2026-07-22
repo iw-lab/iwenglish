@@ -1,0 +1,1368 @@
+{
+  "slug": "daily-183-the-jump-rope-team",
+  "title": "The Jump Rope Team",
+  "title_ko": "줄넘기 팀",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "준과 미나가 함께 줄넘기를 연습하며 팀워크의 소중함을 배워요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina want to join the jump rope team at school.",
+          "translation_ko": "준과 미나는 학교 줄넘기 팀에 들어가고 싶어요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 460
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 720
+            },
+            {
+              "word": "want",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 1160
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "join",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1740
+            },
+            {
+              "word": "jump",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 1960
+            },
+            {
+              "word": "rope",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1960,
+              "endMs": 2200
+            },
+            {
+              "word": "team",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "at",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "school",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 2680,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "They go to the gym after lunch.",
+          "translation_ko": "두 사람은 점심을 먹고 체육관으로 가요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "go",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 680,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1280
+            },
+            {
+              "word": "gym",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1280
+            },
+            {
+              "word": "after",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1840
+            },
+            {
+              "word": "lunch",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The coach shows them how to jump together.",
+          "translation_ko": "코치 선생님이 함께 뛰는 방법을 알려 줘요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "coach",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 560
+            },
+            {
+              "word": "shows",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "them",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "how",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1320
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1580
+            },
+            {
+              "word": "jump",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "together",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 1760,
+              "endMs": 2180
+            }
+          ]
+        },
+        {
+          "text": "\"Watch my feet and count,\" she says.",
+          "translation_ko": "\"내 발을 보면서 박자를 세세요.\" 선생님이 말해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Watch",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "my",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 900
+            },
+            {
+              "word": "feet",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1760
+            },
+            {
+              "word": "count",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1760,
+              "endMs": 2380
+            },
+            {
+              "word": "she",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2380,
+              "endMs": 2540
+            },
+            {
+              "word": "says",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2540,
+              "endMs": 2860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun tries first, but he jumps too early.",
+          "translation_ko": "준이 먼저 도전하지만 너무 일찍 뛰어요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "tries",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "first",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1180
+            },
+            {
+              "word": "but",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "he",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "jumps",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1820,
+              "endMs": 2000
+            },
+            {
+              "word": "too",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2320
+            },
+            {
+              "word": "early",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2320,
+              "endMs": 2580
+            }
+          ]
+        },
+        {
+          "text": "\"Don't worry. Try again,\" says Mina.",
+          "translation_ko": "\"걱정하지 마. 다시 해봐.\" 미나가 말해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Don't",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "worry",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "Try",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "again",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 2560
+            },
+            {
+              "word": "says",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2560,
+              "endMs": 2660
+            },
+            {
+              "word": "Mina",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2660,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina turns the rope slowly for Jun.",
+          "translation_ko": "미나가 준을 위해 줄을 천천히 돌려요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "turns",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1300
+            },
+            {
+              "word": "rope",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1300
+            },
+            {
+              "word": "slowly",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1760
+            },
+            {
+              "word": "for",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 2320
+            },
+            {
+              "word": "Jun",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2320,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "Jun counts out loud and jumps in time.",
+          "translation_ko": "준이 큰 소리로 박자를 세며 맞춰서 뛰어요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "counts",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "out",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "loud",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1340,
+              "endMs": 1660
+            },
+            {
+              "word": "jumps",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 1800
+            },
+            {
+              "word": "in",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2060
+            },
+            {
+              "word": "time",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Great job, Jun!\" Mina cheers.",
+          "translation_ko": "\"잘했어, 준!\" 미나가 응원해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Great",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "job",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 960
+            },
+            {
+              "word": "Jun",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1340,
+              "endMs": 1460
+            },
+            {
+              "word": "Mina",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 2040,
+              "endMs": 2180
+            },
+            {
+              "word": "cheers",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2180,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "Now it is Mina's turn to jump.",
+          "translation_ko": "이번엔 미나가 뛸 차례예요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "it",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 400,
+              "endMs": 660
+            },
+            {
+              "word": "is",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 960
+            },
+            {
+              "word": "Mina's",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1500
+            },
+            {
+              "word": "turn",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1500,
+              "endMs": 1940
+            },
+            {
+              "word": "to",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2460
+            },
+            {
+              "word": "jump",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2460,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina trips on the rope and falls down.",
+          "translation_ko": "미나가 줄에 걸려서 넘어져요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "trips",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 1040
+            },
+            {
+              "word": "on",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "rope",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1620
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 2140
+            },
+            {
+              "word": "falls",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2380
+            },
+            {
+              "word": "down",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2380,
+              "endMs": 2760
+            }
+          ]
+        },
+        {
+          "text": "\"Are you okay?\" Jun asks quickly.",
+          "translation_ko": "\"괜찮아?\" 준이 얼른 물어봐요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Are",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "you",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 380
+            },
+            {
+              "word": "okay",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 380,
+              "endMs": 860
+            },
+            {
+              "word": "Jun",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1460,
+              "endMs": 1760
+            },
+            {
+              "word": "asks",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1760,
+              "endMs": 2180
+            },
+            {
+              "word": "quickly",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 2180,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I'm fine. I just need more practice,\" says Mina.",
+          "translation_ko": "\"괜찮아. 더 연습하면 돼.\" 미나가 말해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I'm",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "fine",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 640
+            },
+            {
+              "word": "I",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 1080,
+              "endMs": 1240
+            },
+            {
+              "word": "just",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "need",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "more",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "practice",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 1980,
+              "endMs": 3020
+            },
+            {
+              "word": "says",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 3020,
+              "endMs": 3080
+            },
+            {
+              "word": "Mina",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3080,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Jun holds her hand and they try again together.",
+          "translation_ko": "준이 미나의 손을 잡고 둘이 함께 다시 도전해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "holds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 540,
+              "endMs": 1000
+            },
+            {
+              "word": "her",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "hand",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 2220,
+              "endMs": 2260
+            },
+            {
+              "word": "they",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2260,
+              "endMs": 2440
+            },
+            {
+              "word": "try",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2440,
+              "endMs": 2740
+            },
+            {
+              "word": "again",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2740,
+              "endMs": 3160
+            },
+            {
+              "word": "together",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 3160,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They practice every day after school.",
+          "translation_ko": "두 사람은 매일 방과 후에 연습해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "practice",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 220,
+              "endMs": 640
+            },
+            {
+              "word": "every",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 640,
+              "endMs": 1080
+            },
+            {
+              "word": "day",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1080,
+              "endMs": 1280
+            },
+            {
+              "word": "after",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1280,
+              "endMs": 1580
+            },
+            {
+              "word": "school",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1580,
+              "endMs": 1920
+            }
+          ]
+        },
+        {
+          "text": "Soon they can jump fifty times without stopping.",
+          "translation_ko": "곧 멈추지 않고 쉰 번이나 뛸 수 있게 돼요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "they",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 600
+            },
+            {
+              "word": "can",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "jump",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1080
+            },
+            {
+              "word": "fifty",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1080,
+              "endMs": 1500
+            },
+            {
+              "word": "times",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1500,
+              "endMs": 1940
+            },
+            {
+              "word": "without",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1940,
+              "endMs": 2260
+            },
+            {
+              "word": "stopping",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2260,
+              "endMs": 2660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the day of the contest, they jump in perfect rhythm.",
+          "translation_ko": "대회 날, 두 사람은 완벽한 박자로 뛰어요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 500
+            },
+            {
+              "word": "day",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 820,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1160
+            },
+            {
+              "word": "contest",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1160,
+              "endMs": 1700
+            },
+            {
+              "word": "they",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2460
+            },
+            {
+              "word": "jump",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "in",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2680,
+              "endMs": 3000
+            },
+            {
+              "word": "perfect",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 3000,
+              "endMs": 3360
+            },
+            {
+              "word": "rhythm",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 3360,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "The whole class claps and cheers for them.",
+          "translation_ko": "반 친구들 모두가 박수를 치며 응원해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "whole",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "class",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 1000
+            },
+            {
+              "word": "claps",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1000,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1880
+            },
+            {
+              "word": "cheers",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "for",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "them",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2380,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We did it because we worked as a team,\" Jun says.",
+          "translation_ko": "\"우리가 팀으로 함께했기 때문에 해낼 수 있었어.\" 준이 말해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "did",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 160,
+              "endMs": 340
+            },
+            {
+              "word": "it",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 480
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "we",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "worked",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "as",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 1600,
+              "endMs": 1920
+            },
+            {
+              "word": "team",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1920,
+              "endMs": 2700
+            },
+            {
+              "word": "Jun",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2700,
+              "endMs": 2840
+            },
+            {
+              "word": "says",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2840,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "Mina smiles and gives Jun a high five.",
+          "translation_ko": "미나가 환하게 웃으며 준과 하이파이브를 해요.",
+          "audio": "/seed/daily-183-the-jump-rope-team/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "smiles",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 800
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "gives",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1280
+            },
+            {
+              "word": "Jun",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1280,
+              "endMs": 1520
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1700
+            },
+            {
+              "word": "high",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 1880
+            },
+            {
+              "word": "five",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1880,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준과 미나는 무엇을 하려고 체육관에 갔나요?",
+      "type": "mc",
+      "options": [
+        "줄넘기 팀에 들어가려고",
+        "농구를 하려고",
+        "코치 선생님을 만나려고",
+        "점심을 먹으려고"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "본문에서 준과 미나는 학교 줄넘기 팀에 들어가고 싶어서 체육관에 갔어요."
+    },
+    {
+      "question_ko": "준이 처음 뛰었을 때 어떤 실수를 했나요?",
+      "type": "mc",
+      "options": [
+        "너무 늦게 뛰었어요",
+        "너무 일찍 뛰었어요",
+        "줄을 잡아당겼어요",
+        "넘어졌어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "본문에서 준이 처음 도전했을 때 너무 일찍 뛰어서 실수했다고 나와요."
+    },
+    {
+      "question_ko": "미나가 줄에 걸려 넘어졌을 때 준은 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "혼자 계속 연습했어요",
+        "코치 선생님을 불렀어요",
+        "\"괜찮아?\"라고 물어봤어요",
+        "집에 돌아갔어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준은 미나가 넘어지자마자 \"괜찮아?\"라고 빠르게 물어봤어요."
+    },
+    {
+      "question_ko": "두 사람은 멈추지 않고 몇 번이나 뛸 수 있게 되었나요?",
+      "type": "mc",
+      "options": [
+        "열 번",
+        "스무 번",
+        "서른 번",
+        "쉰 번"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "매일 연습한 끝에 준과 미나는 멈추지 않고 쉰 번(50번)이나 뛸 수 있게 되었어요."
+    },
+    {
+      "question_ko": "준은 대회가 끝난 후 성공의 이유가 무엇이라고 말했나요?",
+      "type": "mc",
+      "options": [
+        "코치 선생님 덕분이라고",
+        "팀으로 함께했기 때문이라고",
+        "매일 일찍 일어났기 때문이라고",
+        "줄이 좋았기 때문이라고"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "준은 팀으로 함께 했기 때문에 성공할 수 있었다고 말했어요."
+    }
+  ]
+}

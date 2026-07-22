@@ -1,0 +1,2605 @@
+{
+  "slug": "daily-198-the-playground-plan",
+  "title": "The Playground Plan",
+  "title_ko": "놀이터 다시 꾸미기",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 놀이터를 더 좋게 만들기 위해 조사하고 개선안을 제안한다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina stood at the school playground.",
+          "translation_ko": "준과 미나는 학교 놀이터에 서 있었다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "stood",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1560
+            },
+            {
+              "word": "at",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "school",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2040,
+              "endMs": 2240
+            },
+            {
+              "word": "playground",
+              "charStart": 33,
+              "charEnd": 43,
+              "startMs": 2240,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "The swings were rusty and the slide looked dull.",
+          "translation_ko": "그네는 녹이 슬었고 미끄럼틀은 칙칙해 보였다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "swings",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "were",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 1040
+            },
+            {
+              "word": "rusty",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 2180
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2180,
+              "endMs": 2440
+            },
+            {
+              "word": "slide",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2440,
+              "endMs": 2780
+            },
+            {
+              "word": "looked",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2780,
+              "endMs": 3140
+            },
+            {
+              "word": "dull",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3140,
+              "endMs": 3560
+            }
+          ]
+        },
+        {
+          "text": "\"We should improve this place,\" said Jun.",
+          "translation_ko": "\"우리가 이곳을 바꿔야 해,\" 준이 말했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "should",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 940
+            },
+            {
+              "word": "improve",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1420
+            },
+            {
+              "word": "this",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1780
+            },
+            {
+              "word": "place",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1780,
+              "endMs": 3220
+            },
+            {
+              "word": "said",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 3220,
+              "endMs": 3320
+            },
+            {
+              "word": "Jun",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3320,
+              "endMs": 3660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina pulled out her notebook.",
+          "translation_ko": "미나가 공책을 꺼냈다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "pulled",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "out",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1040
+            },
+            {
+              "word": "her",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "notebook",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1220,
+              "endMs": 1640
+            }
+          ]
+        },
+        {
+          "text": "\"Let's ask our classmates first,\" she suggested.",
+          "translation_ko": "\"먼저 반 친구들한테 물어보자,\" 미나가 제안했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "ask",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "our",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "classmates",
+              "charStart": 15,
+              "charEnd": 25,
+              "startMs": 1020,
+              "endMs": 1460
+            },
+            {
+              "word": "first",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1460,
+              "endMs": 1960
+            },
+            {
+              "word": "she",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2420,
+              "endMs": 2620
+            },
+            {
+              "word": "suggested",
+              "charStart": 38,
+              "charEnd": 47,
+              "startMs": 2620,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "Jun agreed — good plans start with listening.",
+          "translation_ko": "준도 동의했다. 좋은 계획은 듣는 것에서 시작하니까.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "agreed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 920
+            },
+            {
+              "word": "good",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1380,
+              "endMs": 1560
+            },
+            {
+              "word": "plans",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1560,
+              "endMs": 1900
+            },
+            {
+              "word": "start",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "with",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "listening",
+              "charStart": 35,
+              "charEnd": 44,
+              "startMs": 2460,
+              "endMs": 2740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At recess, they asked ten friends what they wanted.",
+          "translation_ko": "쉬는 시간에 그들은 친구 열 명에게 의견을 물어봤다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "recess",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 1140
+            },
+            {
+              "word": "they",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1280,
+              "endMs": 1380
+            },
+            {
+              "word": "asked",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "ten",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1680,
+              "endMs": 2060
+            },
+            {
+              "word": "friends",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "what",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2360,
+              "endMs": 2600
+            },
+            {
+              "word": "they",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "wanted",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2780,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "Most kids wanted a bigger climbing frame.",
+          "translation_ko": "대부분의 아이들은 더 큰 정글짐을 원했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Most",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "kids",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 1060
+            },
+            {
+              "word": "wanted",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1580
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1580,
+              "endMs": 1900
+            },
+            {
+              "word": "bigger",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1900,
+              "endMs": 2220
+            },
+            {
+              "word": "climbing",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2620
+            },
+            {
+              "word": "frame",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2620,
+              "endMs": 3000
+            }
+          ]
+        },
+        {
+          "text": "Several also wanted a shaded area for hot days.",
+          "translation_ko": "더운 날에 쉴 그늘진 공간도 원한다는 의견도 있었다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Several",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "also",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 980
+            },
+            {
+              "word": "wanted",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1600
+            },
+            {
+              "word": "shaded",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "area",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2240
+            },
+            {
+              "word": "for",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2560
+            },
+            {
+              "word": "hot",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2560,
+              "endMs": 2800
+            },
+            {
+              "word": "days",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2800,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina wrote the answers in two neat columns.",
+          "translation_ko": "미나는 답변을 두 칸으로 나눠 깔끔하게 정리했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "wrote",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 940
+            },
+            {
+              "word": "answers",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 940,
+              "endMs": 1360
+            },
+            {
+              "word": "in",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "two",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1680,
+              "endMs": 1960
+            },
+            {
+              "word": "neat",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1960,
+              "endMs": 2280
+            },
+            {
+              "word": "columns",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2680
+            }
+          ]
+        },
+        {
+          "text": "Jun drew a map of the current playground.",
+          "translation_ko": "준은 현재 놀이터의 지도를 그렸다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "drew",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 1100
+            },
+            {
+              "word": "map",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1100,
+              "endMs": 1120
+            },
+            {
+              "word": "of",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "current",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "playground",
+              "charStart": 30,
+              "charEnd": 40,
+              "startMs": 1920,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "They compared the map with the survey results.",
+          "translation_ko": "두 사람은 지도와 설문 결과를 비교해 보았다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "compared",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1300
+            },
+            {
+              "word": "map",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "with",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "survey",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "results",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2460,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"There is wasted space near the back fence,\" Jun said.",
+          "translation_ko": "\"뒤쪽 울타리 근처에 빈 공간이 있어,\" 준이 말했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "There",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "is",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "wasted",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 660,
+              "endMs": 1060
+            },
+            {
+              "word": "space",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1060,
+              "endMs": 1520
+            },
+            {
+              "word": "near",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "back",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1920,
+              "endMs": 2180
+            },
+            {
+              "word": "fence",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2180,
+              "endMs": 3240
+            },
+            {
+              "word": "Jun",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3240,
+              "endMs": 3320
+            },
+            {
+              "word": "said",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3320,
+              "endMs": 3600
+            }
+          ]
+        },
+        {
+          "text": "Mina measured it — about six by four meters.",
+          "translation_ko": "미나가 재어 보니 약 6미터 곱하기 4미터였다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "measured",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "it",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1140
+            },
+            {
+              "word": "about",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "six",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1560,
+              "endMs": 1880
+            },
+            {
+              "word": "by",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "four",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "meters",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2400,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "That was the right size for a new climbing frame.",
+          "translation_ko": "새 정글짐을 놓기에 딱 맞는 크기였다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "was",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 940
+            },
+            {
+              "word": "right",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "size",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1660
+            },
+            {
+              "word": "for",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 1880
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "new",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "climbing",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2720
+            },
+            {
+              "word": "frame",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2720,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They researched the cost of playground equipment online.",
+          "translation_ko": "그들은 온라인에서 놀이터 기구 비용을 조사했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "researched",
+              "charStart": 5,
+              "charEnd": 15,
+              "startMs": 420,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "cost",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1520
+            },
+            {
+              "word": "of",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "playground",
+              "charStart": 28,
+              "charEnd": 38,
+              "startMs": 1780,
+              "endMs": 2120
+            },
+            {
+              "word": "equipment",
+              "charStart": 39,
+              "charEnd": 48,
+              "startMs": 2120,
+              "endMs": 2640
+            },
+            {
+              "word": "online",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 2640,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "A climbing frame cost about two hundred thousand won.",
+          "translation_ko": "정글짐 하나는 약 이십만 원이었다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 30,
+              "endMs": 272
+            },
+            {
+              "word": "climbing",
+              "charStart": 2,
+              "charEnd": 10,
+              "startMs": 272,
+              "endMs": 694
+            },
+            {
+              "word": "frame",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 694,
+              "endMs": 936
+            },
+            {
+              "word": "cost",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 936,
+              "endMs": 1179
+            },
+            {
+              "word": "about",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1179,
+              "endMs": 1600
+            },
+            {
+              "word": "two",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1843
+            },
+            {
+              "word": "hundred",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 1843,
+              "endMs": 2264
+            },
+            {
+              "word": "thousand",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2264,
+              "endMs": 2686
+            },
+            {
+              "word": "won",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2686,
+              "endMs": 3090
+            }
+          ]
+        },
+        {
+          "text": "A shade sail was much cheaper.",
+          "translation_ko": "그늘막은 훨씬 저렴했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "shade",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 680
+            },
+            {
+              "word": "sail",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "was",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1260
+            },
+            {
+              "word": "much",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "cheaper",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun listed the facts clearly.",
+          "translation_ko": "준은 정보를 명확하게 목록으로 정리했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "listed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 1040
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1040,
+              "endMs": 1260
+            },
+            {
+              "word": "facts",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1580
+            },
+            {
+              "word": "clearly",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "Mina added a short reason for each item.",
+          "translation_ko": "미나는 각 항목에 짧은 이유를 덧붙였다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "added",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 820
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1160
+            },
+            {
+              "word": "short",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "reason",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1700
+            },
+            {
+              "word": "for",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 2020
+            },
+            {
+              "word": "each",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2360
+            },
+            {
+              "word": "item",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "Their proposal was taking shape.",
+          "translation_ko": "두 사람의 제안서가 완성되어 가고 있었다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "proposal",
+              "charStart": 6,
+              "charEnd": 14,
+              "startMs": 340,
+              "endMs": 840
+            },
+            {
+              "word": "was",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 840,
+              "endMs": 1180
+            },
+            {
+              "word": "taking",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "shape",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1480,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They met Ms. Park after school to share their plan.",
+          "translation_ko": "방과 후에 두 사람은 박 선생님을 만나 계획을 나눴다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "met",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "Ms",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 800
+            },
+            {
+              "word": "Park",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1080
+            },
+            {
+              "word": "after",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1080,
+              "endMs": 1420
+            },
+            {
+              "word": "school",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1420,
+              "endMs": 1700
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1700,
+              "endMs": 1940
+            },
+            {
+              "word": "share",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "their",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2120,
+              "endMs": 2400
+            },
+            {
+              "word": "plan",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2400,
+              "endMs": 2680
+            }
+          ]
+        },
+        {
+          "text": "\"You have real evidence — well done,\" she said.",
+          "translation_ko": "\"실제 근거가 있네요. 잘했어요,\" 선생님이 말했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "have",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 460
+            },
+            {
+              "word": "real",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 840
+            },
+            {
+              "word": "evidence",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 840,
+              "endMs": 1320
+            },
+            {
+              "word": "well",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1700,
+              "endMs": 1880
+            },
+            {
+              "word": "done",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1880,
+              "endMs": 2600
+            },
+            {
+              "word": "she",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 2740
+            },
+            {
+              "word": "said",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2740,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "She promised to bring it to the school council.",
+          "translation_ko": "선생님은 학교 운영위원회에 가져가겠다고 약속했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "promised",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 320,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "bring",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1060,
+              "endMs": 1240
+            },
+            {
+              "word": "it",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1420
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1540
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1540,
+              "endMs": 1820
+            },
+            {
+              "word": "school",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1820,
+              "endMs": 2000
+            },
+            {
+              "word": "council",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2000,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The council reviewed the plan the next week.",
+          "translation_ko": "운영위원회는 다음 주에 그 계획을 검토했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "council",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 160,
+              "endMs": 560
+            },
+            {
+              "word": "reviewed",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "plan",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "next",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1660,
+              "endMs": 1960
+            },
+            {
+              "word": "week",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 1960,
+              "endMs": 2220
+            }
+          ]
+        },
+        {
+          "text": "They asked questions about safety and budget.",
+          "translation_ko": "안전과 예산에 관해 질문을 했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "asked",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 820
+            },
+            {
+              "word": "questions",
+              "charStart": 11,
+              "charEnd": 20,
+              "startMs": 820,
+              "endMs": 1520
+            },
+            {
+              "word": "about",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 2080
+            },
+            {
+              "word": "safety",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2500
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2500,
+              "endMs": 2940
+            },
+            {
+              "word": "budget",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2940,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina answered every question clearly.",
+          "translation_ko": "준과 미나는 모든 질문에 명확하게 답했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "answered",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1720
+            },
+            {
+              "word": "every",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 2200
+            },
+            {
+              "word": "question",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 2200,
+              "endMs": 2640
+            },
+            {
+              "word": "clearly",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The council voted to approve the climbing frame.",
+          "translation_ko": "운영위원회는 정글짐 설치안을 통과시켰다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "council",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "voted",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1620
+            },
+            {
+              "word": "approve",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 1620
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "climbing",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "frame",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2120,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "They also agreed to install a shade sail.",
+          "translation_ko": "그늘막도 설치하기로 했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "also",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "agreed",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "install",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1900
+            },
+            {
+              "word": "shade",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "sail",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2140,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina could not believe their plan had worked.",
+          "translation_ko": "준과 미나는 자신들의 제안이 실현된 것이 믿기지 않았다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 820
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "could",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1660
+            },
+            {
+              "word": "not",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1660,
+              "endMs": 2080
+            },
+            {
+              "word": "believe",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 2080,
+              "endMs": 2420
+            },
+            {
+              "word": "their",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2420,
+              "endMs": 2680
+            },
+            {
+              "word": "plan",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "had",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2940,
+              "endMs": 3180
+            },
+            {
+              "word": "worked",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Two weeks later, workers came to set up the equipment.",
+          "translation_ko": "이 주 후, 일꾼들이 와서 기구를 설치했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Two",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "weeks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 600
+            },
+            {
+              "word": "later",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 1040
+            },
+            {
+              "word": "workers",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "came",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1800
+            },
+            {
+              "word": "to",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "set",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2080,
+              "endMs": 2180
+            },
+            {
+              "word": "up",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2180,
+              "endMs": 2300
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2300,
+              "endMs": 2460
+            },
+            {
+              "word": "equipment",
+              "charStart": 44,
+              "charEnd": 53,
+              "startMs": 2460,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina watched from the classroom window.",
+          "translation_ko": "준과 미나는 교실 창문으로 바라보았다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1180
+            },
+            {
+              "word": "watched",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1660
+            },
+            {
+              "word": "from",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "classroom",
+              "charStart": 30,
+              "charEnd": 39,
+              "startMs": 2120,
+              "endMs": 2440
+            },
+            {
+              "word": "window",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2440,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "Their classmates cheered when the new frame went up.",
+          "translation_ko": "친구들은 새 정글짐이 올라가자 환호했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "classmates",
+              "charStart": 6,
+              "charEnd": 16,
+              "startMs": 340,
+              "endMs": 880
+            },
+            {
+              "word": "cheered",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 880,
+              "endMs": 1280
+            },
+            {
+              "word": "when",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "new",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1740,
+              "endMs": 2020
+            },
+            {
+              "word": "frame",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2020,
+              "endMs": 2220
+            },
+            {
+              "word": "went",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2220,
+              "endMs": 2460
+            },
+            {
+              "word": "up",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 2460,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After school, everyone ran to try the climbing frame.",
+          "translation_ko": "방과 후, 모두가 정글짐을 타러 달려갔다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 700
+            },
+            {
+              "word": "everyone",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1340
+            },
+            {
+              "word": "ran",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "to",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1560,
+              "endMs": 1740
+            },
+            {
+              "word": "try",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1740,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "climbing",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2140,
+              "endMs": 2360
+            },
+            {
+              "word": "frame",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2360,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "Mina climbed to the top and waved her notebook.",
+          "translation_ko": "미나는 꼭대기에 올라가 공책을 흔들었다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "climbed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 880
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 1260
+            },
+            {
+              "word": "top",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1980
+            },
+            {
+              "word": "waved",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2180
+            },
+            {
+              "word": "her",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2460
+            },
+            {
+              "word": "notebook",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2460,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "\"We planned this together,\" she called to Jun.",
+          "translation_ko": "\"우리가 함께 계획한 거야,\" 미나가 준에게 외쳤다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "planned",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 860
+            },
+            {
+              "word": "this",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1240
+            },
+            {
+              "word": "together",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "she",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2120
+            },
+            {
+              "word": "called",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2340
+            },
+            {
+              "word": "to",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2340,
+              "endMs": 2660
+            },
+            {
+              "word": "Jun",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2660,
+              "endMs": 2780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun laughed and climbed up after her.",
+          "translation_ko": "준은 웃으며 미나를 따라 올라갔다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "laughed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "climbed",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1460
+            },
+            {
+              "word": "up",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1720
+            },
+            {
+              "word": "after",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1720,
+              "endMs": 2060
+            },
+            {
+              "word": "her",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2060,
+              "endMs": 2220
+            }
+          ]
+        },
+        {
+          "text": "\"Next time, let's plan a school garden,\" he said.",
+          "translation_ko": "\"다음에는 학교 텃밭을 계획해 보자,\" 준이 말했다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Next",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "time",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 700
+            },
+            {
+              "word": "let's",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1260
+            },
+            {
+              "word": "plan",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "school",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "garden",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1900,
+              "endMs": 2840
+            },
+            {
+              "word": "he",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2840,
+              "endMs": 3040
+            },
+            {
+              "word": "said",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3040,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "Mina was already opening her notebook to a new page.",
+          "translation_ko": "미나는 이미 새 페이지를 펼치고 있었다.",
+          "audio": "/seed/daily-198-the-playground-plan/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 820
+            },
+            {
+              "word": "was",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 820,
+              "endMs": 1300
+            },
+            {
+              "word": "already",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1300,
+              "endMs": 1780
+            },
+            {
+              "word": "opening",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1780,
+              "endMs": 2140
+            },
+            {
+              "word": "her",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "notebook",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2420,
+              "endMs": 2760
+            },
+            {
+              "word": "to",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2760,
+              "endMs": 3000
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 3000,
+              "endMs": 3180
+            },
+            {
+              "word": "new",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3180,
+              "endMs": 3300
+            },
+            {
+              "word": "page",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3300,
+              "endMs": 3640
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준과 미나가 놀이터 개선안을 만들기 위해 가장 먼저 한 일은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "선생님께 바로 보고했다",
+        "친구들에게 의견을 물어봤다",
+        "인터넷에서 기구 가격을 찾아봤다",
+        "지도를 그렸다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미나가 공책을 꺼내며 반 친구들에게 먼저 설문하자고 제안했고, 두 사람은 쉬는 시간에 열 명에게 물어봤습니다."
+    },
+    {
+      "question_ko": "친구들이 가장 원했던 것은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "더 넓은 농구 코트",
+        "더 큰 정글짐",
+        "새로운 그네",
+        "화장실 개선"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "대부분의 아이들이 더 큰 정글짐(climbing frame)을 원한다고 답했습니다."
+    },
+    {
+      "question_ko": "박 선생님은 두 사람의 제안을 들은 후 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "직접 새 기구를 주문했다",
+        "제안이 너무 비싸다고 거절했다",
+        "학교 운영위원회에 제안을 가져가겠다고 했다",
+        "다음 학기에 다시 생각해 보자고 했다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "박 선생님은 준과 미나에게 실제 근거가 있다며 인상 받았고, 학교 운영위원회에 제안을 가져가겠다고 약속했습니다."
+    },
+    {
+      "question_ko": "놀이터 뒤쪽 울타리 근처 빈 공간의 크기는 어느 정도였나요?",
+      "type": "mc",
+      "options": [
+        "3미터 곱하기 2미터",
+        "10미터 곱하기 5미터",
+        "6미터 곱하기 4미터",
+        "4미터 곱하기 4미터"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "미나가 걸음으로 재어 보니 약 6미터 곱하기 4미터였으며, 새 정글짐을 놓기에 딱 맞는 크기였습니다."
+    },
+    {
+      "question_ko": "이야기 마지막에 미나가 정글짐 꼭대기에서 한 행동은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "큰 소리로 노래를 불렀다",
+        "공책을 자랑스럽게 흔들었다",
+        "학교 쪽으로 손을 흔들었다",
+        "핸드폰으로 사진을 찍었다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미나는 정글짐 꼭대기에 올라가 자신들이 함께 계획한 것이라고 외치며 공책을 자랑스럽게 흔들었습니다."
+    }
+  ]
+}

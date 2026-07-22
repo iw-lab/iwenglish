@@ -1,0 +1,2521 @@
+{
+  "slug": "daily-201-the-memory-book",
+  "title": "The Memory Book",
+  "title_ko": "추억 앨범",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 6,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina는 박 선생님과 함께 한 해의 소중한 순간들을 담은 반 추억 앨범을 만들며 우정과 성장을 돌아본다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park held up a blank notebook and smiled.",
+          "translation_ko": "박 선생님이 빈 공책을 들어 보이며 미소를 지었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 700
+            },
+            {
+              "word": "held",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 1000
+            },
+            {
+              "word": "up",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "blank",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1700
+            },
+            {
+              "word": "notebook",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1700,
+              "endMs": 2160
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2660
+            },
+            {
+              "word": "smiled",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2660,
+              "endMs": 2980
+            }
+          ]
+        },
+        {
+          "text": "\"Today we will make our class memory book,\" she said.",
+          "translation_ko": "\"오늘은 우리 반 추억 앨범을 만들 거예요\"라고 선생님이 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 960
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "will",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "make",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1580,
+              "endMs": 1740
+            },
+            {
+              "word": "our",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1740,
+              "endMs": 1920
+            },
+            {
+              "word": "class",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2320
+            },
+            {
+              "word": "memory",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2320,
+              "endMs": 2640
+            },
+            {
+              "word": "book",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 3200
+            },
+            {
+              "word": "she",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3200,
+              "endMs": 3340
+            },
+            {
+              "word": "said",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3340,
+              "endMs": 3580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"What should we put in it?\" Jun asked eagerly.",
+          "translation_ko": "\"뭘 넣으면 좋을까요?\" Jun이 신이 나서 물었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "should",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 480
+            },
+            {
+              "word": "we",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 480,
+              "endMs": 700
+            },
+            {
+              "word": "put",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 700,
+              "endMs": 820
+            },
+            {
+              "word": "in",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 820,
+              "endMs": 980
+            },
+            {
+              "word": "it",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "Jun",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2080
+            },
+            {
+              "word": "asked",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2080,
+              "endMs": 2500
+            },
+            {
+              "word": "eagerly",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2500,
+              "endMs": 3040
+            }
+          ]
+        },
+        {
+          "text": "\"Photos, drawings, and our favorite memories,\" Ms. Park answered.",
+          "translation_ko": "\"사진, 그림, 그리고 우리가 좋아하는 추억을 넣을 수 있어요\"라고 선생님이 대답했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Photos",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "drawings",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1860,
+              "endMs": 1920
+            },
+            {
+              "word": "our",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "favorite",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2460
+            },
+            {
+              "word": "memories",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2460,
+              "endMs": 3320
+            },
+            {
+              "word": "Ms",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3320,
+              "endMs": 3460
+            },
+            {
+              "word": "Park",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3460,
+              "endMs": 3680
+            },
+            {
+              "word": "answered",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 3680,
+              "endMs": 4060
+            }
+          ]
+        },
+        {
+          "text": "Everyone cheered because they loved the idea.",
+          "translation_ko": "모두가 그 생각이 마음에 들어서 환호성을 질렀다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "cheered",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 900,
+              "endMs": 1340
+            },
+            {
+              "word": "they",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1340,
+              "endMs": 1620
+            },
+            {
+              "word": "loved",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 1920,
+              "endMs": 2240
+            },
+            {
+              "word": "idea",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2240,
+              "endMs": 2460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park gave each student a page to decorate.",
+          "translation_ko": "박 선생님은 학생마다 꾸밀 페이지를 한 장씩 나누어 주었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 820
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 1020,
+              "endMs": 1100
+            },
+            {
+              "word": "gave",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1100,
+              "endMs": 1420
+            },
+            {
+              "word": "each",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1420,
+              "endMs": 1840
+            },
+            {
+              "word": "student",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1840,
+              "endMs": 2180
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 2180,
+              "endMs": 2600
+            },
+            {
+              "word": "page",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2600,
+              "endMs": 2680
+            },
+            {
+              "word": "to",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2680,
+              "endMs": 3000
+            },
+            {
+              "word": "decorate",
+              "charStart": 37,
+              "charEnd": 45,
+              "startMs": 3000,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "Jun thought carefully about his best memory from the year.",
+          "translation_ko": "Jun은 올해 가장 소중한 추억이 무엇인지 신중하게 생각했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "thought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 720
+            },
+            {
+              "word": "carefully",
+              "charStart": 12,
+              "charEnd": 21,
+              "startMs": 720,
+              "endMs": 1260
+            },
+            {
+              "word": "about",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "his",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "best",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1760,
+              "endMs": 2140
+            },
+            {
+              "word": "memory",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2140,
+              "endMs": 2540
+            },
+            {
+              "word": "from",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 2900
+            },
+            {
+              "word": "year",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2900,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He remembered the sports day when his team won first place.",
+          "translation_ko": "그는 자기 팀이 일등을 했던 체육 대회가 떠올랐다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "remembered",
+              "charStart": 3,
+              "charEnd": 13,
+              "startMs": 220,
+              "endMs": 660
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "sports",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "day",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "when",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1460,
+              "endMs": 1620
+            },
+            {
+              "word": "his",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "team",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 1820,
+              "endMs": 2140
+            },
+            {
+              "word": "won",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2140,
+              "endMs": 2380
+            },
+            {
+              "word": "first",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2380,
+              "endMs": 2720
+            },
+            {
+              "word": "place",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 2720,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "\"That was the proudest moment of my year,\" Jun said.",
+          "translation_ko": "\"그게 올해 내가 가장 뿌듯했던 순간이야\"라고 Jun이 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "was",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 400
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 400,
+              "endMs": 620
+            },
+            {
+              "word": "proudest",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 620,
+              "endMs": 1100
+            },
+            {
+              "word": "moment",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "of",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "my",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "year",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1820,
+              "endMs": 3040
+            },
+            {
+              "word": "Jun",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3040,
+              "endMs": 3160
+            },
+            {
+              "word": "said",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3160,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina drew a picture of their class picnic in the park.",
+          "translation_ko": "Mina는 공원에서 했던 반 소풍 그림을 그렸다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "drew",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 1060,
+              "endMs": 1240
+            },
+            {
+              "word": "picture",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1480
+            },
+            {
+              "word": "of",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1480,
+              "endMs": 1760
+            },
+            {
+              "word": "their",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "class",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1920,
+              "endMs": 2360
+            },
+            {
+              "word": "picnic",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2360,
+              "endMs": 2660
+            },
+            {
+              "word": "in",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2660,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2960,
+              "endMs": 3160
+            },
+            {
+              "word": "park",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3160,
+              "endMs": 3340
+            }
+          ]
+        },
+        {
+          "text": "\"I loved how we all shared our lunch that day,\" she said.",
+          "translation_ko": "\"그날 우리 모두 점심을 나눠 먹었던 게 정말 좋았어\"라고 그녀가 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "loved",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "how",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1020
+            },
+            {
+              "word": "we",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "all",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1280,
+              "endMs": 1560
+            },
+            {
+              "word": "shared",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "our",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1720,
+              "endMs": 1940
+            },
+            {
+              "word": "lunch",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "that",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "day",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2360,
+              "endMs": 2860
+            },
+            {
+              "word": "she",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2860,
+              "endMs": 3000
+            },
+            {
+              "word": "said",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3000,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "Jun nodded and said, \"That was my favorite day too.\"",
+          "translation_ko": "Jun이 고개를 끄덕이며 \"나도 그날이 제일 좋았어\"라고 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 960
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1280,
+              "endMs": 1440
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "That",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2040,
+              "endMs": 2140
+            },
+            {
+              "word": "was",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2140,
+              "endMs": 2300
+            },
+            {
+              "word": "my",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "favorite",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "day",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2780,
+              "endMs": 3120
+            },
+            {
+              "word": "too",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3300,
+              "endMs": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Some students wrote short messages to their friends.",
+          "translation_ko": "일부 학생들은 친구들에게 짧은 편지를 썼다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "students",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "wrote",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "short",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1120,
+              "endMs": 1500
+            },
+            {
+              "word": "messages",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "their",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2340
+            },
+            {
+              "word": "friends",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2340,
+              "endMs": 2640
+            }
+          ]
+        },
+        {
+          "text": "Jun wrote, \"Thank you for always helping me when I was stuck.\"",
+          "translation_ko": "Jun은 \"내가 막힐 때마다 도와줘서 고마워\"라고 썼다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 720
+            },
+            {
+              "word": "Thank",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1480
+            },
+            {
+              "word": "you",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 1600
+            },
+            {
+              "word": "for",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "always",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1840,
+              "endMs": 2240
+            },
+            {
+              "word": "helping",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "me",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2500,
+              "endMs": 2780
+            },
+            {
+              "word": "when",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 2940
+            },
+            {
+              "word": "I",
+              "charStart": 49,
+              "charEnd": 50,
+              "startMs": 2940,
+              "endMs": 3060
+            },
+            {
+              "word": "was",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3060,
+              "endMs": 3320
+            },
+            {
+              "word": "stuck",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3320,
+              "endMs": 3560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Remember our science experiment?\" Mina asked.",
+          "translation_ko": "\"과학 실험 기억해?\" Mina가 물었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Remember",
+              "charStart": 1,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "our",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 780
+            },
+            {
+              "word": "science",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 780,
+              "endMs": 1120
+            },
+            {
+              "word": "experiment",
+              "charStart": 22,
+              "charEnd": 32,
+              "startMs": 1120,
+              "endMs": 1680
+            },
+            {
+              "word": "Mina",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2020,
+              "endMs": 2240
+            },
+            {
+              "word": "asked",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2240,
+              "endMs": 2680
+            }
+          ]
+        },
+        {
+          "text": "\"Yes! My volcano overflowed and the class laughed together,\" Jun said, grinning.",
+          "translation_ko": "\"응! 내 화산이 넘쳐서 우리 반 모두 함께 웃었잖아\" Jun이 씩 웃으며 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "My",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 900,
+              "endMs": 1000
+            },
+            {
+              "word": "volcano",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1440
+            },
+            {
+              "word": "overflowed",
+              "charStart": 17,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 2240
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2240,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2340,
+              "endMs": 2480
+            },
+            {
+              "word": "class",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2480,
+              "endMs": 2800
+            },
+            {
+              "word": "laughed",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2800,
+              "endMs": 3080
+            },
+            {
+              "word": "together",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 3080,
+              "endMs": 4040
+            },
+            {
+              "word": "Jun",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4040,
+              "endMs": 4140
+            },
+            {
+              "word": "said",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4140,
+              "endMs": 4420
+            },
+            {
+              "word": "grinning",
+              "charStart": 71,
+              "charEnd": 79,
+              "startMs": 4600,
+              "endMs": 4780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park walked around and looked at everyone's pages.",
+          "translation_ko": "박 선생님은 돌아다니며 모두의 페이지를 살펴보았다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 660
+            },
+            {
+              "word": "walked",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 960
+            },
+            {
+              "word": "around",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 960,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "looked",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1600,
+              "endMs": 1720
+            },
+            {
+              "word": "at",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "everyone's",
+              "charStart": 37,
+              "charEnd": 47,
+              "startMs": 1980,
+              "endMs": 2440
+            },
+            {
+              "word": "pages",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2440,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "\"These memories show how much you have grown this year,\" she said proudly.",
+          "translation_ko": "\"이 추억들은 여러분이 올 한 해 얼마나 성장했는지를 보여 줘요\"라고 선생님이 자랑스럽게 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "These",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "memories",
+              "charStart": 7,
+              "charEnd": 15,
+              "startMs": 380,
+              "endMs": 900
+            },
+            {
+              "word": "show",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1420
+            },
+            {
+              "word": "how",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1700
+            },
+            {
+              "word": "much",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 1980
+            },
+            {
+              "word": "you",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2240
+            },
+            {
+              "word": "have",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "grown",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2460,
+              "endMs": 2780
+            },
+            {
+              "word": "this",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3180
+            },
+            {
+              "word": "year",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3180,
+              "endMs": 4160
+            },
+            {
+              "word": "she",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 4160,
+              "endMs": 4360
+            },
+            {
+              "word": "said",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 4360,
+              "endMs": 4580
+            },
+            {
+              "word": "proudly",
+              "charStart": 66,
+              "charEnd": 73,
+              "startMs": 4580,
+              "endMs": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina glued a small photo onto her page.",
+          "translation_ko": "Mina는 자신의 페이지에 작은 사진을 풀로 붙였다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "glued",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "small",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1540
+            },
+            {
+              "word": "photo",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "onto",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2260
+            },
+            {
+              "word": "her",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2260,
+              "endMs": 2520
+            },
+            {
+              "word": "page",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2520,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "It showed her and Jun reading together in the library.",
+          "translation_ko": "사진 속에는 그녀와 Jun이 도서관에서 함께 책을 읽는 모습이 담겨 있었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "showed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "her",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1060,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "reading",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2820
+            },
+            {
+              "word": "together",
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 2820,
+              "endMs": 3260
+            },
+            {
+              "word": "in",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 3260,
+              "endMs": 3620
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3620,
+              "endMs": 3800
+            },
+            {
+              "word": "library",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 3800,
+              "endMs": 4180
+            }
+          ]
+        },
+        {
+          "text": "\"Reading together helped me enjoy books more,\" she explained.",
+          "translation_ko": "\"같이 읽으니까 책이 더 재미있어졌어\"라고 그녀가 설명했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Reading",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "together",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 380,
+              "endMs": 840
+            },
+            {
+              "word": "helped",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 840,
+              "endMs": 1180
+            },
+            {
+              "word": "me",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "enjoy",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "books",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1740,
+              "endMs": 2080
+            },
+            {
+              "word": "more",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2080,
+              "endMs": 3060
+            },
+            {
+              "word": "she",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3060,
+              "endMs": 3200
+            },
+            {
+              "word": "explained",
+              "charStart": 51,
+              "charEnd": 60,
+              "startMs": 3200,
+              "endMs": 3640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The class worked together to put all the pages into one book.",
+          "translation_ko": "반 학생들이 함께 모든 페이지를 하나의 책으로 묶었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 620
+            },
+            {
+              "word": "worked",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "together",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "to",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "put",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1500,
+              "endMs": 1600
+            },
+            {
+              "word": "all",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1600,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 1880,
+              "endMs": 2060
+            },
+            {
+              "word": "pages",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2060,
+              "endMs": 2320
+            },
+            {
+              "word": "into",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2320,
+              "endMs": 2680
+            },
+            {
+              "word": "one",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 2680,
+              "endMs": 3000
+            },
+            {
+              "word": "book",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3000,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park wrote the title on the cover: \"Our Year Together.\"",
+          "translation_ko": "박 선생님은 표지에 '우리가 함께한 1년'이라고 제목을 썼다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 780,
+              "endMs": 820
+            },
+            {
+              "word": "wrote",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1260
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1440
+            },
+            {
+              "word": "title",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "on",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2160
+            },
+            {
+              "word": "cover",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2340
+            },
+            {
+              "word": "Our",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 3280
+            },
+            {
+              "word": "Year",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3280,
+              "endMs": 3520
+            },
+            {
+              "word": "Together",
+              "charStart": 49,
+              "charEnd": 57,
+              "startMs": 3520,
+              "endMs": 3920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun held the finished book tightly.",
+          "translation_ko": "Jun은 완성된 책을 꼭 쥐었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "held",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "finished",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "book",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "tightly",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1920,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "\"I never want to forget this class,\" he said.",
+          "translation_ko": "\"이 반을 절대 잊고 싶지 않아\"라고 그가 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "never",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 500
+            },
+            {
+              "word": "want",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 840
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "forget",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1080,
+              "endMs": 1240
+            },
+            {
+              "word": "this",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "class",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1520,
+              "endMs": 2100
+            },
+            {
+              "word": "he",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2100,
+              "endMs": 2260
+            },
+            {
+              "word": "said",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2260,
+              "endMs": 2480
+            }
+          ]
+        },
+        {
+          "text": "Mina agreed and promised to always keep her copy safe.",
+          "translation_ko": "Mina도 동의하며 자신의 것을 항상 소중히 간직하겠다고 약속했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "agreed",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1300
+            },
+            {
+              "word": "promised",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "always",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2340
+            },
+            {
+              "word": "keep",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2340,
+              "endMs": 2580
+            },
+            {
+              "word": "her",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 2780
+            },
+            {
+              "word": "copy",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 3100
+            },
+            {
+              "word": "safe",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3100,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the end of the day, Ms. Park made a copy for everyone.",
+          "translation_ko": "그날 마지막에 박 선생님은 모두에게 복사본을 만들어 주었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 500
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 660
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 920
+            },
+            {
+              "word": "day",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "Ms",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "Park",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1920,
+              "endMs": 2000
+            },
+            {
+              "word": "made",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2000,
+              "endMs": 2340
+            },
+            {
+              "word": "a",
+              "charStart": 37,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2540
+            },
+            {
+              "word": "copy",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 2800
+            },
+            {
+              "word": "for",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "word": "everyone",
+              "charStart": 48,
+              "charEnd": 56,
+              "startMs": 3200,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "\"Look at this whenever you miss our class,\" she told them.",
+          "translation_ko": "\"우리 반이 그리울 때마다 꺼내 보세요\"라고 선생님이 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Look",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "at",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 380
+            },
+            {
+              "word": "this",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 380,
+              "endMs": 700
+            },
+            {
+              "word": "whenever",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 700,
+              "endMs": 1040
+            },
+            {
+              "word": "you",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1040,
+              "endMs": 1300
+            },
+            {
+              "word": "miss",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1300,
+              "endMs": 1440
+            },
+            {
+              "word": "our",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1440,
+              "endMs": 1680
+            },
+            {
+              "word": "class",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 1680,
+              "endMs": 2500
+            },
+            {
+              "word": "she",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2500,
+              "endMs": 2620
+            },
+            {
+              "word": "told",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "them",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2840,
+              "endMs": 3100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That evening, Jun showed the memory book to his parents.",
+          "translation_ko": "그날 저녁 Jun은 부모님께 추억 앨범을 보여 드렸다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "evening",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 320,
+              "endMs": 740
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "showed",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "memory",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "book",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 2840
+            },
+            {
+              "word": "his",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2840,
+              "endMs": 3080
+            },
+            {
+              "word": "parents",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3080,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "\"This is the best way to remember a great year,\" his father said.",
+          "translation_ko": "\"멋진 한 해를 기억하는 가장 좋은 방법이구나\"라고 아버지가 말했다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 540
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 720
+            },
+            {
+              "word": "best",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 1040
+            },
+            {
+              "word": "way",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "to",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "remember",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1560,
+              "endMs": 1820
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 1820,
+              "endMs": 2120
+            },
+            {
+              "word": "great",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2120,
+              "endMs": 2380
+            },
+            {
+              "word": "year",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2380,
+              "endMs": 2940
+            },
+            {
+              "word": "his",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2940,
+              "endMs": 3100
+            },
+            {
+              "word": "father",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3100,
+              "endMs": 3320
+            },
+            {
+              "word": "said",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3320,
+              "endMs": 3640
+            }
+          ]
+        },
+        {
+          "text": "Jun smiled, grateful for every memory he had made with his friends.",
+          "translation_ko": "Jun은 친구들과 만든 모든 추억에 감사하며 미소를 지었다.",
+          "audio": "/seed/daily-201-the-memory-book/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 1120
+            },
+            {
+              "word": "grateful",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "for",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1840,
+              "endMs": 2180
+            },
+            {
+              "word": "every",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2180,
+              "endMs": 2620
+            },
+            {
+              "word": "memory",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2620,
+              "endMs": 2900
+            },
+            {
+              "word": "he",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2900,
+              "endMs": 3140
+            },
+            {
+              "word": "had",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3140,
+              "endMs": 3340
+            },
+            {
+              "word": "made",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3340,
+              "endMs": 3460
+            },
+            {
+              "word": "with",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3460,
+              "endMs": 3620
+            },
+            {
+              "word": "his",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3620,
+              "endMs": 3820
+            },
+            {
+              "word": "friends",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 3820,
+              "endMs": 4160
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "박 선생님이 오늘 수업에서 만들자고 한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "반 추억 앨범",
+        "과학 실험 보고서",
+        "수학 문제집",
+        "영어 일기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 빈 공책을 들고 \"오늘은 우리 반 추억 앨범을 만들 거예요\"라고 말했습니다."
+    },
+    {
+      "question_ko": "Jun이 올해 가장 뿌듯했던 순간으로 떠올린 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "도서관에서 함께 책 읽기",
+        "체육 대회에서 팀이 일등 한 것",
+        "반 소풍 점심 나눠 먹기",
+        "과학 실험 화산 만들기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 체육 대회에서 자신의 팀이 일등을 했던 것이 올해 가장 뿌듯한 순간이었다고 말했습니다."
+    },
+    {
+      "question_ko": "Mina가 페이지에 붙인 사진에는 무엇이 찍혀 있었나요?",
+      "type": "mc",
+      "options": [
+        "체육 대회 모습",
+        "반 소풍 모습",
+        "Mina와 Jun이 도서관에서 함께 책을 읽는 모습",
+        "과학 실험 화산"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Mina가 붙인 사진에는 그녀와 Jun이 도서관에서 함께 책을 읽는 모습이 담겨 있었습니다."
+    },
+    {
+      "question_ko": "완성된 추억 앨범 표지에 선생님이 쓴 제목은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "우리들의 추억",
+        "우리가 함께한 1년",
+        "Jun과 Mina의 이야기",
+        "최고의 학급"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "박 선생님은 표지에 'Our Year Together(우리가 함께한 1년)'라고 썼습니다."
+    },
+    {
+      "question_ko": "그날 저녁 Jun의 아버지는 추억 앨범을 보고 뭐라고 말했나요?",
+      "type": "mc",
+      "options": [
+        "공부를 더 열심히 해야겠구나",
+        "선생님께 감사 편지를 써야겠다",
+        "멋진 한 해를 기억하는 가장 좋은 방법이구나",
+        "내년에도 이런 앨범을 만들어라"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Jun의 아버지는 \"멋진 한 해를 기억하는 가장 좋은 방법이구나\"라고 말했습니다."
+    }
+  ]
+}

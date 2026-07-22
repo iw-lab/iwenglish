@@ -1,0 +1,760 @@
+{
+  "slug": "the-bunny-band",
+  "title": "The Bunny Band",
+  "title_ko": "토끼 밴드",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "토끼 셋이 각자 악기를 들고 모여 숲속 작은 밴드를 만드는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Benny the bunny played his drum alone.",
+          "translation_ko": "베니 토끼는 혼자 북을 쳤어요.",
+          "audio": "/seed/the-bunny-band/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Benny",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 660
+            },
+            {
+              "word": "bunny",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "played",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 900,
+              "endMs": 1400
+            },
+            {
+              "word": "his",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "drum",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 1960
+            },
+            {
+              "word": "alone",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1960,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He beat the drum and sang a little song.",
+          "translation_ko": "베니는 북을 치며 작은 노래를 불렀어요.",
+          "audio": "/seed/the-bunny-band/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "beat",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 580,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1260
+            },
+            {
+              "word": "drum",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1640
+            },
+            {
+              "word": "sang",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2060
+            },
+            {
+              "word": "little",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2060,
+              "endMs": 2280
+            },
+            {
+              "word": "song",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Lily came along with her flute.",
+          "translation_ko": "릴리가 플루트를 들고 다가왔어요.",
+          "audio": "/seed/the-bunny-band/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Lily",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "came",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 720
+            },
+            {
+              "word": "along",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1040
+            },
+            {
+              "word": "with",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "her",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1460
+            },
+            {
+              "word": "flute",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1460,
+              "endMs": 1660
+            }
+          ]
+        },
+        {
+          "text": "\"Can I play too?\" she asked.",
+          "translation_ko": "\"나도 같이 해도 돼?\" 릴리가 물었어요.",
+          "audio": "/seed/the-bunny-band/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 660,
+              "endMs": 940
+            },
+            {
+              "word": "play",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "too",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 2180
+            },
+            {
+              "word": "she",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 2180,
+              "endMs": 2340
+            },
+            {
+              "word": "asked",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2340,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Yes!\" said Benny, and they played together.",
+          "translation_ko": "\"그럼!\" 베니가 말하며 둘이 함께 연주했어요.",
+          "audio": "/seed/the-bunny-band/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "said",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1100
+            },
+            {
+              "word": "Benny",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1760
+            },
+            {
+              "word": "they",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "played",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "together",
+              "charStart": 35,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The flute sang high and the drum beat low.",
+          "translation_ko": "플루트는 높게, 북은 낮게 울렸어요.",
+          "audio": "/seed/the-bunny-band/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "flute",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "sang",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 1120
+            },
+            {
+              "word": "high",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1820,
+              "endMs": 2280
+            },
+            {
+              "word": "drum",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2280,
+              "endMs": 2280
+            },
+            {
+              "word": "beat",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2660
+            },
+            {
+              "word": "low",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2660,
+              "endMs": 3060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Then Pip hopped up with his shiny bells.",
+          "translation_ko": "그때 핍이 반짝이는 방울을 들고 깡충 뛰어왔어요.",
+          "audio": "/seed/the-bunny-band/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "Pip",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "hopped",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1280
+            },
+            {
+              "word": "up",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "with",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "his",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "shiny",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "bells",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2620
+            }
+          ]
+        },
+        {
+          "text": "\"I brought my bells!\" he said.",
+          "translation_ko": "\"저 방울 가져왔어요!\" 핍이 말했어요.",
+          "audio": "/seed/the-bunny-band/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "brought",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "my",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 500,
+              "endMs": 760
+            },
+            {
+              "word": "bells",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 760,
+              "endMs": 1400
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 1520
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1520,
+              "endMs": 1820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Pip shook the bells and the music got louder.",
+          "translation_ko": "핍이 방울을 흔들자 음악이 더 크게 울렸어요.",
+          "audio": "/seed/the-bunny-band/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Pip",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "shook",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1060
+            },
+            {
+              "word": "bells",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2140
+            },
+            {
+              "word": "music",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2340
+            },
+            {
+              "word": "got",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2340,
+              "endMs": 2680
+            },
+            {
+              "word": "louder",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The three bunnies made a beautiful song together.",
+          "translation_ko": "토끼 셋이 함께 아름다운 노래를 만들었어요.",
+          "audio": "/seed/the-bunny-band/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "three",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 680,
+              "endMs": 1020
+            },
+            {
+              "word": "bunnies",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "made",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1820
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1820,
+              "endMs": 2000
+            },
+            {
+              "word": "beautiful",
+              "charStart": 25,
+              "charEnd": 34,
+              "startMs": 2000,
+              "endMs": 2380
+            },
+            {
+              "word": "song",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2380,
+              "endMs": 2740
+            },
+            {
+              "word": "together",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2740,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The whole forest danced and clapped along.",
+          "translation_ko": "온 숲이 노래에 맞춰 춤추고 박수를 쳤어요.",
+          "audio": "/seed/the-bunny-band/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "whole",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 1080
+            },
+            {
+              "word": "forest",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1280
+            },
+            {
+              "word": "danced",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 2280
+            },
+            {
+              "word": "clapped",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2280,
+              "endMs": 2280
+            },
+            {
+              "word": "along",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "베니는 처음에 무슨 악기를 혼자 연주하고 있었나요?",
+      "type": "mc",
+      "options": [
+        "북",
+        "플루트",
+        "방울",
+        "피아노"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "베니는 혼자 북(drum)을 치고 있었어요."
+    },
+    {
+      "question_ko": "릴리는 어떤 악기를 가지고 왔나요?",
+      "type": "mc",
+      "options": [
+        "북",
+        "방울",
+        "플루트",
+        "기타"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "릴리는 플루트(flute)를 들고 베니에게 다가왔어요."
+    },
+    {
+      "question_ko": "세 번째로 합류한 토끼의 이름은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "베니",
+        "릴리",
+        "토미",
+        "핍"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "핍(Pip)이 방울을 들고 세 번째로 합류했어요."
+    },
+    {
+      "question_ko": "세 토끼가 함께 연주하자 숲에서는 어떤 일이 일어났나요?",
+      "type": "mc",
+      "options": [
+        "숲이 조용해졌어요.",
+        "숲속 동물들이 춤추고 박수를 쳤어요.",
+        "비가 내리기 시작했어요.",
+        "토끼들이 집으로 돌아갔어요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "온 숲이 음악에 맞춰 춤추고 박수를 쳤어요."
+    },
+    {
+      "question_ko": "이 이야기의 주제는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "혼자 연습하는 것이 최고예요.",
+        "함께하면 더 아름다운 음악을 만들 수 있어요.",
+        "북이 가장 좋은 악기예요.",
+        "숲속에서는 뛰면 안 돼요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "세 토끼가 힘을 합쳐 함께 연주했을 때 아름다운 음악과 행복한 숲이 만들어졌어요."
+    }
+  ]
+}

@@ -1,0 +1,3158 @@
+{
+  "slug": "daily-192-grandparents-story-day",
+  "title": "Grandparents' Story Day",
+  "title_ko": "조부모님 이야기의 날",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun이 할아버지의 옛날 이야기를 듣고 기록해 학교에서 반 친구들에게 발표하는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park announced a special project called Grandparents' Story Day.",
+          "translation_ko": "박 선생님이 '조부모님 이야기의 날'이라는 특별 프로젝트를 발표했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "announced",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 560,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "special",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1580
+            },
+            {
+              "word": "project",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 1580,
+              "endMs": 2100
+            },
+            {
+              "word": "called",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2100,
+              "endMs": 2500
+            },
+            {
+              "word": "Grandparents'",
+              "charStart": 44,
+              "charEnd": 57,
+              "startMs": 2500,
+              "endMs": 3280
+            },
+            {
+              "word": "Story",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3480,
+              "endMs": 3640
+            },
+            {
+              "word": "Day",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3640,
+              "endMs": 3880
+            }
+          ]
+        },
+        {
+          "text": "Each student had to listen to a grandparent's story and share it with the class.",
+          "translation_ko": "학생들은 각자 조부모님의 이야기를 듣고 반 친구들에게 전해야 했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "student",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "had",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 940
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 940,
+              "endMs": 1340
+            },
+            {
+              "word": "listen",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1340
+            },
+            {
+              "word": "to",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1340,
+              "endMs": 1520
+            },
+            {
+              "word": "a",
+              "charStart": 30,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1740
+            },
+            {
+              "word": "grandparent's",
+              "charStart": 32,
+              "charEnd": 45,
+              "startMs": 1740,
+              "endMs": 2480
+            },
+            {
+              "word": "story",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2480,
+              "endMs": 2660
+            },
+            {
+              "word": "and",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 2660,
+              "endMs": 3080
+            },
+            {
+              "word": "share",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3080,
+              "endMs": 3260
+            },
+            {
+              "word": "it",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 3260,
+              "endMs": 3380
+            },
+            {
+              "word": "with",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 3380,
+              "endMs": 3520
+            },
+            {
+              "word": "the",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 3520,
+              "endMs": 3660
+            },
+            {
+              "word": "class",
+              "charStart": 74,
+              "charEnd": 79,
+              "startMs": 3660,
+              "endMs": 3980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun felt excited because he had always wanted to know more about his grandfather's past.",
+          "translation_ko": "준은 할아버지의 옛날 이야기가 늘 궁금했던 터라 무척 설렜어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 900
+            },
+            {
+              "word": "excited",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1440
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1900
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2040
+            },
+            {
+              "word": "had",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2040,
+              "endMs": 2280
+            },
+            {
+              "word": "always",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2620
+            },
+            {
+              "word": "wanted",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2620,
+              "endMs": 2860
+            },
+            {
+              "word": "to",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3080
+            },
+            {
+              "word": "know",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3080,
+              "endMs": 3260
+            },
+            {
+              "word": "more",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3260,
+              "endMs": 3500
+            },
+            {
+              "word": "about",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3500,
+              "endMs": 3720
+            },
+            {
+              "word": "his",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 3720,
+              "endMs": 3920
+            },
+            {
+              "word": "grandfather's",
+              "charStart": 69,
+              "charEnd": 82,
+              "startMs": 3920,
+              "endMs": 4560
+            },
+            {
+              "word": "past",
+              "charStart": 83,
+              "charEnd": 87,
+              "startMs": 4560,
+              "endMs": 4880
+            }
+          ]
+        },
+        {
+          "text": "He called Grandpa that evening and asked if they could meet over the weekend.",
+          "translation_ko": "그날 저녁 할아버지께 전화해 주말에 만날 수 있는지 여쭤봤어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "called",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 180,
+              "endMs": 480
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 480,
+              "endMs": 980
+            },
+            {
+              "word": "that",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1240
+            },
+            {
+              "word": "evening",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1240,
+              "endMs": 1620
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "asked",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 1860,
+              "endMs": 2160
+            },
+            {
+              "word": "if",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2160,
+              "endMs": 2300
+            },
+            {
+              "word": "they",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2300,
+              "endMs": 2420
+            },
+            {
+              "word": "could",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 2420,
+              "endMs": 2560
+            },
+            {
+              "word": "meet",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 2560,
+              "endMs": 2700
+            },
+            {
+              "word": "over",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 2700,
+              "endMs": 2860
+            },
+            {
+              "word": "the",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 2860,
+              "endMs": 2980
+            },
+            {
+              "word": "weekend",
+              "charStart": 69,
+              "charEnd": 76,
+              "startMs": 2980,
+              "endMs": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Saturday morning, Jun arrived at Grandpa's apartment with a notebook and a pen.",
+          "translation_ko": "토요일 아침, 준은 노트와 펜을 들고 할아버지 아파트에 도착했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Saturday",
+              "charStart": 3,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "morning",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 720,
+              "endMs": 1160
+            },
+            {
+              "word": "Jun",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1800,
+              "endMs": 1880
+            },
+            {
+              "word": "arrived",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 2360
+            },
+            {
+              "word": "at",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2360,
+              "endMs": 2560
+            },
+            {
+              "word": "Grandpa's",
+              "charStart": 36,
+              "charEnd": 45,
+              "startMs": 2560,
+              "endMs": 3040
+            },
+            {
+              "word": "apartment",
+              "charStart": 46,
+              "charEnd": 55,
+              "startMs": 3040,
+              "endMs": 3340
+            },
+            {
+              "word": "with",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3340,
+              "endMs": 3700
+            },
+            {
+              "word": "a",
+              "charStart": 61,
+              "charEnd": 62,
+              "startMs": 3700,
+              "endMs": 4060
+            },
+            {
+              "word": "notebook",
+              "charStart": 63,
+              "charEnd": 71,
+              "startMs": 4060,
+              "endMs": 4180
+            },
+            {
+              "word": "and",
+              "charStart": 72,
+              "charEnd": 75,
+              "startMs": 4180,
+              "endMs": 4620
+            },
+            {
+              "word": "a",
+              "charStart": 76,
+              "charEnd": 77,
+              "startMs": 4620,
+              "endMs": 4920
+            },
+            {
+              "word": "pen",
+              "charStart": 78,
+              "charEnd": 81,
+              "startMs": 4920,
+              "endMs": 4920
+            }
+          ]
+        },
+        {
+          "text": "Grandpa welcomed him with a warm smile and poured two cups of barley tea.",
+          "translation_ko": "할아버지는 따뜻한 미소로 맞아 주시며 보리차 두 잔을 따라 주셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "welcomed",
+              "charStart": 8,
+              "charEnd": 16,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "him",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 840,
+              "endMs": 1020
+            },
+            {
+              "word": "with",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1020,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "warm",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "smile",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1620,
+              "endMs": 2020
+            },
+            {
+              "word": "and",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2020,
+              "endMs": 2540
+            },
+            {
+              "word": "poured",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2540,
+              "endMs": 2740
+            },
+            {
+              "word": "two",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 2740,
+              "endMs": 3060
+            },
+            {
+              "word": "cups",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3060,
+              "endMs": 3340
+            },
+            {
+              "word": "of",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 3340,
+              "endMs": 3580
+            },
+            {
+              "word": "barley",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3580,
+              "endMs": 3800
+            },
+            {
+              "word": "tea",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 3800,
+              "endMs": 4040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Grandpa, what was your childhood like?\" Jun asked, opening his notebook.",
+          "translation_ko": "\"할아버지, 어릴 때는 어떠셨어요?\" 준이 노트를 펼치며 물었어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "what",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1100,
+              "endMs": 1460
+            },
+            {
+              "word": "was",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1460,
+              "endMs": 1620
+            },
+            {
+              "word": "your",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1620,
+              "endMs": 1960
+            },
+            {
+              "word": "childhood",
+              "charStart": 24,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "like",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2140,
+              "endMs": 2600
+            },
+            {
+              "word": "Jun",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3200,
+              "endMs": 3240
+            },
+            {
+              "word": "asked",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3240,
+              "endMs": 3560
+            },
+            {
+              "word": "opening",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 4360,
+              "endMs": 4360
+            },
+            {
+              "word": "his",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 4360,
+              "endMs": 4640
+            },
+            {
+              "word": "notebook",
+              "charStart": 64,
+              "charEnd": 72,
+              "startMs": 4640,
+              "endMs": 4960
+            }
+          ]
+        },
+        {
+          "text": "Grandpa leaned back and closed his eyes for a moment before he began.",
+          "translation_ko": "할아버지는 등을 기대고 잠시 눈을 감으신 뒤 이야기를 시작하셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "leaned",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 740
+            },
+            {
+              "word": "back",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 740,
+              "endMs": 1180
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "closed",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "his",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 2040
+            },
+            {
+              "word": "eyes",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2040,
+              "endMs": 2260
+            },
+            {
+              "word": "for",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2260,
+              "endMs": 2440
+            },
+            {
+              "word": "a",
+              "charStart": 44,
+              "charEnd": 45,
+              "startMs": 2440,
+              "endMs": 2920
+            },
+            {
+              "word": "moment",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2920,
+              "endMs": 2920
+            },
+            {
+              "word": "before",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 2920,
+              "endMs": 3480
+            },
+            {
+              "word": "he",
+              "charStart": 60,
+              "charEnd": 62,
+              "startMs": 3480,
+              "endMs": 3760
+            },
+            {
+              "word": "began",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 3760,
+              "endMs": 4020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"When I was your age, we did not have smartphones or video games,\" Grandpa said.",
+          "translation_ko": "\"내가 네 나이였을 때는 스마트폰도 게임도 없었단다,\" 하고 할아버지가 말씀하셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "I",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 160,
+              "endMs": 320
+            },
+            {
+              "word": "was",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "your",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 760
+            },
+            {
+              "word": "age",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "we",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1440
+            },
+            {
+              "word": "did",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "not",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 1920
+            },
+            {
+              "word": "have",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1920,
+              "endMs": 2140
+            },
+            {
+              "word": "smartphones",
+              "charStart": 38,
+              "charEnd": 49,
+              "startMs": 2140,
+              "endMs": 2720
+            },
+            {
+              "word": "or",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2720,
+              "endMs": 3060
+            },
+            {
+              "word": "video",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3060,
+              "endMs": 3340
+            },
+            {
+              "word": "games",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3340,
+              "endMs": 4200
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 67,
+              "charEnd": 74,
+              "startMs": 4200,
+              "endMs": 4360
+            },
+            {
+              "word": "said",
+              "charStart": 75,
+              "charEnd": 79,
+              "startMs": 4360,
+              "endMs": 4660
+            }
+          ]
+        },
+        {
+          "text": "\"We used to play outside until the streetlights came on every evening.\"",
+          "translation_ko": "\"매일 저녁 가로등이 켜질 때까지 밖에서 놀곤 했지.\"",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "used",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "play",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1020
+            },
+            {
+              "word": "outside",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1020,
+              "endMs": 1540
+            },
+            {
+              "word": "until",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1540,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "streetlights",
+              "charStart": 35,
+              "charEnd": 47,
+              "startMs": 2200,
+              "endMs": 2600
+            },
+            {
+              "word": "came",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2600,
+              "endMs": 2860
+            },
+            {
+              "word": "on",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 2860,
+              "endMs": 3200
+            },
+            {
+              "word": "every",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3200,
+              "endMs": 3580
+            },
+            {
+              "word": "evening",
+              "charStart": 62,
+              "charEnd": 69,
+              "startMs": 3580,
+              "endMs": 3900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun carefully wrote down every detail so he would not forget anything.",
+          "translation_ko": "준은 아무것도 잊지 않으려고 세세한 내용을 꼼꼼히 받아 적었어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "carefully",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 1140
+            },
+            {
+              "word": "wrote",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "down",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1760
+            },
+            {
+              "word": "every",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 2140
+            },
+            {
+              "word": "detail",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2140,
+              "endMs": 2560
+            },
+            {
+              "word": "so",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2560,
+              "endMs": 3100
+            },
+            {
+              "word": "he",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 3100,
+              "endMs": 3260
+            },
+            {
+              "word": "would",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3260,
+              "endMs": 3400
+            },
+            {
+              "word": "not",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3400,
+              "endMs": 3620
+            },
+            {
+              "word": "forget",
+              "charStart": 54,
+              "charEnd": 60,
+              "startMs": 3620,
+              "endMs": 3900
+            },
+            {
+              "word": "anything",
+              "charStart": 61,
+              "charEnd": 69,
+              "startMs": 3900,
+              "endMs": 4340
+            }
+          ]
+        },
+        {
+          "text": "He asked Grandpa what games the children had played back then.",
+          "translation_ko": "그 시절 아이들이 어떤 놀이를 했는지 할아버지께 여쭤봤어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "asked",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 460
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "what",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "games",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1560,
+              "endMs": 1780
+            },
+            {
+              "word": "children",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 1780,
+              "endMs": 2060
+            },
+            {
+              "word": "had",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "played",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 2340,
+              "endMs": 2580
+            },
+            {
+              "word": "back",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 2580,
+              "endMs": 2880
+            },
+            {
+              "word": "then",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 2880,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "Grandpa described a game where kids jumped over a long elastic band held by two friends.",
+          "translation_ko": "할아버지는 두 친구가 잡은 긴 고무줄을 뛰어넘는 놀이를 설명해 주셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "described",
+              "charStart": 8,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 1120
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1320
+            },
+            {
+              "word": "game",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "where",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "kids",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "jumped",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2100,
+              "endMs": 2440
+            },
+            {
+              "word": "over",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2440,
+              "endMs": 2680
+            },
+            {
+              "word": "a",
+              "charStart": 48,
+              "charEnd": 49,
+              "startMs": 2680,
+              "endMs": 2820
+            },
+            {
+              "word": "long",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2820,
+              "endMs": 3040
+            },
+            {
+              "word": "elastic",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 3040,
+              "endMs": 3420
+            },
+            {
+              "word": "band",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3420,
+              "endMs": 3820
+            },
+            {
+              "word": "held",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 3820,
+              "endMs": 4060
+            },
+            {
+              "word": "by",
+              "charStart": 73,
+              "charEnd": 75,
+              "startMs": 4060,
+              "endMs": 4340
+            },
+            {
+              "word": "two",
+              "charStart": 76,
+              "charEnd": 79,
+              "startMs": 4340,
+              "endMs": 4580
+            },
+            {
+              "word": "friends",
+              "charStart": 80,
+              "charEnd": 87,
+              "startMs": 4580,
+              "endMs": 4920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We also helped our parents with chores, like carrying water from the well,\" Grandpa added.",
+          "translation_ko": "\"우물에서 물을 길어 오는 것처럼 부모님 일도 많이 도왔단다,\" 할아버지가 덧붙이셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "also",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "helped",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "our",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "parents",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 2020
+            },
+            {
+              "word": "with",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2560
+            },
+            {
+              "word": "chores",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2560,
+              "endMs": 2960
+            },
+            {
+              "word": "like",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3520,
+              "endMs": 3680
+            },
+            {
+              "word": "carrying",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 3680,
+              "endMs": 3980
+            },
+            {
+              "word": "water",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3980,
+              "endMs": 4380
+            },
+            {
+              "word": "from",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 4380,
+              "endMs": 4560
+            },
+            {
+              "word": "the",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 4560,
+              "endMs": 5100
+            },
+            {
+              "word": "well",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 5100,
+              "endMs": 5600
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 77,
+              "charEnd": 84,
+              "startMs": 5600,
+              "endMs": 5760
+            },
+            {
+              "word": "added",
+              "charStart": 85,
+              "charEnd": 90,
+              "startMs": 5760,
+              "endMs": 6100
+            }
+          ]
+        },
+        {
+          "text": "Jun imagined how different life must have been without running water at home.",
+          "translation_ko": "준은 집에 수도가 없는 생활이 얼마나 달랐을지 상상해 봤어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "imagined",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 940
+            },
+            {
+              "word": "how",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 940,
+              "endMs": 1240
+            },
+            {
+              "word": "different",
+              "charStart": 17,
+              "charEnd": 26,
+              "startMs": 1240,
+              "endMs": 1660
+            },
+            {
+              "word": "life",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "must",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "have",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2240,
+              "endMs": 2540
+            },
+            {
+              "word": "been",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2540,
+              "endMs": 2640
+            },
+            {
+              "word": "without",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2640,
+              "endMs": 2960
+            },
+            {
+              "word": "running",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 2960,
+              "endMs": 3300
+            },
+            {
+              "word": "water",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 3300,
+              "endMs": 3580
+            },
+            {
+              "word": "at",
+              "charStart": 69,
+              "charEnd": 71,
+              "startMs": 3580,
+              "endMs": 3820
+            },
+            {
+              "word": "home",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 3820,
+              "endMs": 4020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandpa's eyes sparkled as he talked about the village festivals held every autumn.",
+          "translation_ko": "매년 가을마다 열리던 마을 축제 이야기를 하실 때 할아버지 눈이 빛났어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa's",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "eyes",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1120
+            },
+            {
+              "word": "sparkled",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1780
+            },
+            {
+              "word": "as",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1780,
+              "endMs": 1940
+            },
+            {
+              "word": "he",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1940,
+              "endMs": 2100
+            },
+            {
+              "word": "talked",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "about",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2320,
+              "endMs": 2580
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2580,
+              "endMs": 2740
+            },
+            {
+              "word": "village",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2740,
+              "endMs": 3000
+            },
+            {
+              "word": "festivals",
+              "charStart": 55,
+              "charEnd": 64,
+              "startMs": 3000,
+              "endMs": 3440
+            },
+            {
+              "word": "held",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 3440,
+              "endMs": 3800
+            },
+            {
+              "word": "every",
+              "charStart": 70,
+              "charEnd": 75,
+              "startMs": 3800,
+              "endMs": 4280
+            },
+            {
+              "word": "autumn",
+              "charStart": 76,
+              "charEnd": 82,
+              "startMs": 4280,
+              "endMs": 4580
+            }
+          ]
+        },
+        {
+          "text": "\"Everyone brought food to share, and we sang and danced late into the night.\"",
+          "translation_ko": "\"모두가 음식을 나눠 먹고, 밤늦도록 노래하고 춤을 췄단다.\"",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 1,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "brought",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "food",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "to",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1120,
+              "endMs": 1360
+            },
+            {
+              "word": "share",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2160
+            },
+            {
+              "word": "we",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2400
+            },
+            {
+              "word": "sang",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2400,
+              "endMs": 2680
+            },
+            {
+              "word": "and",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2680,
+              "endMs": 3040
+            },
+            {
+              "word": "danced",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3040,
+              "endMs": 3280
+            },
+            {
+              "word": "late",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3280,
+              "endMs": 3680
+            },
+            {
+              "word": "into",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3680,
+              "endMs": 3900
+            },
+            {
+              "word": "the",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 3900,
+              "endMs": 4120
+            },
+            {
+              "word": "night",
+              "charStart": 70,
+              "charEnd": 75,
+              "startMs": 4120,
+              "endMs": 4300
+            }
+          ]
+        },
+        {
+          "text": "Jun thought that those festivals sounded even more fun than a school festival.",
+          "translation_ko": "준은 그 축제가 학교 축제보다 훨씬 즐거웠을 것 같다고 생각했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "thought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 1000
+            },
+            {
+              "word": "that",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "those",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "festivals",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1540,
+              "endMs": 1980
+            },
+            {
+              "word": "sounded",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 1980,
+              "endMs": 2400
+            },
+            {
+              "word": "even",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2400,
+              "endMs": 2960
+            },
+            {
+              "word": "more",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2960,
+              "endMs": 3300
+            },
+            {
+              "word": "fun",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3300,
+              "endMs": 3540
+            },
+            {
+              "word": "than",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3540,
+              "endMs": 3680
+            },
+            {
+              "word": "a",
+              "charStart": 60,
+              "charEnd": 61,
+              "startMs": 3680,
+              "endMs": 3880
+            },
+            {
+              "word": "school",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3880,
+              "endMs": 4120
+            },
+            {
+              "word": "festival",
+              "charStart": 69,
+              "charEnd": 77,
+              "startMs": 4120,
+              "endMs": 4520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After two hours, Jun had filled five pages of notes with Grandpa's memories.",
+          "translation_ko": "두 시간이 지나자 준의 노트는 할아버지 기억으로 가득 찬 다섯 장이 됐어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "two",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 840
+            },
+            {
+              "word": "hours",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1320
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 2000,
+              "endMs": 2020
+            },
+            {
+              "word": "had",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2020,
+              "endMs": 2400
+            },
+            {
+              "word": "filled",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2400,
+              "endMs": 2540
+            },
+            {
+              "word": "five",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2540,
+              "endMs": 3060
+            },
+            {
+              "word": "pages",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 3060,
+              "endMs": 3340
+            },
+            {
+              "word": "of",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3340,
+              "endMs": 3820
+            },
+            {
+              "word": "notes",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3820,
+              "endMs": 3820
+            },
+            {
+              "word": "with",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3820,
+              "endMs": 4180
+            },
+            {
+              "word": "Grandpa's",
+              "charStart": 57,
+              "charEnd": 66,
+              "startMs": 4180,
+              "endMs": 4720
+            },
+            {
+              "word": "memories",
+              "charStart": 67,
+              "charEnd": 75,
+              "startMs": 4720,
+              "endMs": 4940
+            }
+          ]
+        },
+        {
+          "text": "He thanked Grandpa sincerely and promised to visit again soon.",
+          "translation_ko": "준은 진심으로 감사 인사를 드리고 곧 다시 오겠다고 약속했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "thanked",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 560,
+              "endMs": 1140
+            },
+            {
+              "word": "sincerely",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1140,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 2240
+            },
+            {
+              "word": "promised",
+              "charStart": 33,
+              "charEnd": 41,
+              "startMs": 2240,
+              "endMs": 2600
+            },
+            {
+              "word": "to",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2600,
+              "endMs": 2880
+            },
+            {
+              "word": "visit",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2880,
+              "endMs": 3060
+            },
+            {
+              "word": "again",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3060,
+              "endMs": 3440
+            },
+            {
+              "word": "soon",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3440,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That night, Jun organized his notes and turned them into a short written report.",
+          "translation_ko": "그날 밤 준은 필기 내용을 정리해 짧은 보고서로 만들었어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "night",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 640
+            },
+            {
+              "word": "Jun",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "organized",
+              "charStart": 16,
+              "charEnd": 25,
+              "startMs": 1140,
+              "endMs": 1620
+            },
+            {
+              "word": "his",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "notes",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "and",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2100,
+              "endMs": 2540
+            },
+            {
+              "word": "turned",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2540,
+              "endMs": 2760
+            },
+            {
+              "word": "them",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2760,
+              "endMs": 2940
+            },
+            {
+              "word": "into",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 2940,
+              "endMs": 3120
+            },
+            {
+              "word": "a",
+              "charStart": 57,
+              "charEnd": 58,
+              "startMs": 3120,
+              "endMs": 3340
+            },
+            {
+              "word": "short",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3340,
+              "endMs": 3560
+            },
+            {
+              "word": "written",
+              "charStart": 65,
+              "charEnd": 72,
+              "startMs": 3560,
+              "endMs": 3780
+            },
+            {
+              "word": "report",
+              "charStart": 73,
+              "charEnd": 79,
+              "startMs": 3780,
+              "endMs": 4180
+            }
+          ]
+        },
+        {
+          "text": "He read it aloud several times to practice his presentation for class.",
+          "translation_ko": "수업 발표 연습을 위해 여러 번 소리 내어 읽었어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "read",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 460
+            },
+            {
+              "word": "it",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 680
+            },
+            {
+              "word": "aloud",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 1200
+            },
+            {
+              "word": "several",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1200,
+              "endMs": 1740
+            },
+            {
+              "word": "times",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1740,
+              "endMs": 2180
+            },
+            {
+              "word": "to",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "practice",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2480,
+              "endMs": 2820
+            },
+            {
+              "word": "his",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2820,
+              "endMs": 3200
+            },
+            {
+              "word": "presentation",
+              "charStart": 47,
+              "charEnd": 59,
+              "startMs": 3200,
+              "endMs": 3640
+            },
+            {
+              "word": "for",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3640,
+              "endMs": 4020
+            },
+            {
+              "word": "class",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 4020,
+              "endMs": 4380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On Monday, Jun stood in front of the class and began sharing Grandpa's story.",
+          "translation_ko": "월요일에 준은 반 앞에 서서 할아버지의 이야기를 전하기 시작했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "Monday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "Jun",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 940
+            },
+            {
+              "word": "stood",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1220
+            },
+            {
+              "word": "in",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "front",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1520
+            },
+            {
+              "word": "of",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1520,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1700,
+              "endMs": 1760
+            },
+            {
+              "word": "class",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "and",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2080,
+              "endMs": 2320
+            },
+            {
+              "word": "began",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "sharing",
+              "charStart": 53,
+              "charEnd": 60,
+              "startMs": 2600,
+              "endMs": 3020
+            },
+            {
+              "word": "Grandpa's",
+              "charStart": 61,
+              "charEnd": 70,
+              "startMs": 3020,
+              "endMs": 3900
+            },
+            {
+              "word": "story",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 3900,
+              "endMs": 3900
+            }
+          ]
+        },
+        {
+          "text": "His classmates listened quietly, and some of them leaned forward with wide eyes.",
+          "translation_ko": "반 친구들은 조용히 귀를 기울였고, 눈을 크게 뜨고 몸을 앞으로 기울인 아이도 있었어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "classmates",
+              "charStart": 4,
+              "charEnd": 14,
+              "startMs": 300,
+              "endMs": 860
+            },
+            {
+              "word": "listened",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 860,
+              "endMs": 1280
+            },
+            {
+              "word": "quietly",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1280,
+              "endMs": 1760
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2300,
+              "endMs": 2460
+            },
+            {
+              "word": "some",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "of",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 3060
+            },
+            {
+              "word": "them",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3060
+            },
+            {
+              "word": "leaned",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3060,
+              "endMs": 3120
+            },
+            {
+              "word": "forward",
+              "charStart": 57,
+              "charEnd": 64,
+              "startMs": 3120,
+              "endMs": 3560
+            },
+            {
+              "word": "with",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 3560,
+              "endMs": 3800
+            },
+            {
+              "word": "wide",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 3800,
+              "endMs": 4080
+            },
+            {
+              "word": "eyes",
+              "charStart": 75,
+              "charEnd": 79,
+              "startMs": 4080,
+              "endMs": 4420
+            }
+          ]
+        },
+        {
+          "text": "Ms. Park nodded and smiled as Jun described the village festival and the elastic band game.",
+          "translation_ko": "박 선생님은 준이 마을 축제와 고무줄 놀이를 설명하는 동안 고개를 끄덕이며 미소 지으셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "nodded",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1460,
+              "endMs": 1760
+            },
+            {
+              "word": "smiled",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "as",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2400
+            },
+            {
+              "word": "Jun",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2400,
+              "endMs": 2680
+            },
+            {
+              "word": "described",
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 3200
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3200,
+              "endMs": 3480
+            },
+            {
+              "word": "village",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3480,
+              "endMs": 3700
+            },
+            {
+              "word": "festival",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 3700,
+              "endMs": 4120
+            },
+            {
+              "word": "and",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 4120,
+              "endMs": 4620
+            },
+            {
+              "word": "the",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 4620,
+              "endMs": 4780
+            },
+            {
+              "word": "elastic",
+              "charStart": 73,
+              "charEnd": 80,
+              "startMs": 4780,
+              "endMs": 5180
+            },
+            {
+              "word": "band",
+              "charStart": 81,
+              "charEnd": 85,
+              "startMs": 5180,
+              "endMs": 5520
+            },
+            {
+              "word": "game",
+              "charStart": 86,
+              "charEnd": 90,
+              "startMs": 5520,
+              "endMs": 5840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After the presentation, Ms. Park said that listening to elders helps us understand where we come from.",
+          "translation_ko": "발표가 끝난 뒤 박 선생님은 어른들의 이야기를 듣는 것이 우리의 뿌리를 이해하는 데 도움이 된다고 말씀하셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "presentation",
+              "charStart": 10,
+              "charEnd": 22,
+              "startMs": 540,
+              "endMs": 1040
+            },
+            {
+              "word": "Ms",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1420,
+              "endMs": 1660
+            },
+            {
+              "word": "Park",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 1880
+            },
+            {
+              "word": "said",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "that",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2140,
+              "endMs": 2400
+            },
+            {
+              "word": "listening",
+              "charStart": 43,
+              "charEnd": 52,
+              "startMs": 2400,
+              "endMs": 2620
+            },
+            {
+              "word": "to",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 2620,
+              "endMs": 2820
+            },
+            {
+              "word": "elders",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 2820,
+              "endMs": 3100
+            },
+            {
+              "word": "helps",
+              "charStart": 63,
+              "charEnd": 68,
+              "startMs": 3100,
+              "endMs": 3400
+            },
+            {
+              "word": "us",
+              "charStart": 69,
+              "charEnd": 71,
+              "startMs": 3400,
+              "endMs": 3640
+            },
+            {
+              "word": "understand",
+              "charStart": 72,
+              "charEnd": 82,
+              "startMs": 3640,
+              "endMs": 4060
+            },
+            {
+              "word": "where",
+              "charStart": 83,
+              "charEnd": 88,
+              "startMs": 4060,
+              "endMs": 4320
+            },
+            {
+              "word": "we",
+              "charStart": 89,
+              "charEnd": 91,
+              "startMs": 4320,
+              "endMs": 4460
+            },
+            {
+              "word": "come",
+              "charStart": 92,
+              "charEnd": 96,
+              "startMs": 4460,
+              "endMs": 4680
+            },
+            {
+              "word": "from",
+              "charStart": 97,
+              "charEnd": 101,
+              "startMs": 4680,
+              "endMs": 4880
+            }
+          ]
+        },
+        {
+          "text": "Jun felt proud because he had connected his family's past with his school community.",
+          "translation_ko": "준은 가족의 과거를 학교 공동체와 연결한 것 같아 뿌듯했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "proud",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1280
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1840
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1840,
+              "endMs": 1980
+            },
+            {
+              "word": "had",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1980,
+              "endMs": 2200
+            },
+            {
+              "word": "connected",
+              "charStart": 30,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2580
+            },
+            {
+              "word": "his",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 2880
+            },
+            {
+              "word": "family's",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2880,
+              "endMs": 3420
+            },
+            {
+              "word": "past",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3420,
+              "endMs": 3780
+            },
+            {
+              "word": "with",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3780,
+              "endMs": 4300
+            },
+            {
+              "word": "his",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 4300,
+              "endMs": 4540
+            },
+            {
+              "word": "school",
+              "charStart": 67,
+              "charEnd": 73,
+              "startMs": 4540,
+              "endMs": 4800
+            },
+            {
+              "word": "community",
+              "charStart": 74,
+              "charEnd": 83,
+              "startMs": 4800,
+              "endMs": 5220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That afternoon, Jun called Grandpa to tell him that everyone had loved his stories.",
+          "translation_ko": "그날 오후 준은 할아버지께 전화해 모두가 이야기를 정말 좋아했다고 전했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "afternoon",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 320,
+              "endMs": 900
+            },
+            {
+              "word": "Jun",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "called",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1940
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2400
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2400,
+              "endMs": 2880
+            },
+            {
+              "word": "tell",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2880,
+              "endMs": 3080
+            },
+            {
+              "word": "him",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3080,
+              "endMs": 3240
+            },
+            {
+              "word": "that",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3240,
+              "endMs": 3600
+            },
+            {
+              "word": "everyone",
+              "charStart": 52,
+              "charEnd": 60,
+              "startMs": 3600,
+              "endMs": 3960
+            },
+            {
+              "word": "had",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 3960,
+              "endMs": 4300
+            },
+            {
+              "word": "loved",
+              "charStart": 65,
+              "charEnd": 70,
+              "startMs": 4300,
+              "endMs": 4600
+            },
+            {
+              "word": "his",
+              "charStart": 71,
+              "charEnd": 74,
+              "startMs": 4600,
+              "endMs": 4880
+            },
+            {
+              "word": "stories",
+              "charStart": 75,
+              "charEnd": 82,
+              "startMs": 4880,
+              "endMs": 5200
+            }
+          ]
+        },
+        {
+          "text": "Grandpa laughed softly and said, \"Your generation gives our memories a new life.\"",
+          "translation_ko": "할아버지는 부드럽게 웃으시며 \"너희 세대가 우리 추억에 새 생명을 불어넣는구나\" 하셨어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandpa",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "laughed",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1120
+            },
+            {
+              "word": "softly",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1520
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1840
+            },
+            {
+              "word": "said",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2000
+            },
+            {
+              "word": "Your",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2700,
+              "endMs": 2760
+            },
+            {
+              "word": "generation",
+              "charStart": 39,
+              "charEnd": 49,
+              "startMs": 2760,
+              "endMs": 3340
+            },
+            {
+              "word": "gives",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3340,
+              "endMs": 3620
+            },
+            {
+              "word": "our",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3620,
+              "endMs": 3980
+            },
+            {
+              "word": "memories",
+              "charStart": 60,
+              "charEnd": 68,
+              "startMs": 3980,
+              "endMs": 4260
+            },
+            {
+              "word": "a",
+              "charStart": 69,
+              "charEnd": 70,
+              "startMs": 4260,
+              "endMs": 4540
+            },
+            {
+              "word": "new",
+              "charStart": 71,
+              "charEnd": 74,
+              "startMs": 4540,
+              "endMs": 4700
+            },
+            {
+              "word": "life",
+              "charStart": 75,
+              "charEnd": 79,
+              "startMs": 4700,
+              "endMs": 4940
+            }
+          ]
+        },
+        {
+          "text": "Jun decided he would visit Grandpa every month and keep recording his stories.",
+          "translation_ko": "준은 매달 할아버지를 찾아뵙고 이야기를 계속 기록하기로 다짐했어요.",
+          "audio": "/seed/daily-192-grandparents-story-day/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "decided",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "he",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "would",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "visit",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1360,
+              "endMs": 1600
+            },
+            {
+              "word": "Grandpa",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1600,
+              "endMs": 2060
+            },
+            {
+              "word": "every",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2560
+            },
+            {
+              "word": "month",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "and",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2860,
+              "endMs": 3380
+            },
+            {
+              "word": "keep",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3380,
+              "endMs": 3660
+            },
+            {
+              "word": "recording",
+              "charStart": 56,
+              "charEnd": 65,
+              "startMs": 3660,
+              "endMs": 4080
+            },
+            {
+              "word": "his",
+              "charStart": 66,
+              "charEnd": 69,
+              "startMs": 4080,
+              "endMs": 4440
+            },
+            {
+              "word": "stories",
+              "charStart": 70,
+              "charEnd": 77,
+              "startMs": 4440,
+              "endMs": 4700
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "박 선생님이 낸 특별 프로젝트는 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "조부모님의 이야기를 듣고 발표하기",
+        "가족 사진첩 만들기",
+        "할머니 레시피로 요리하기",
+        "부모님께 편지 쓰기"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 '조부모님 이야기의 날' 프로젝트로, 조부모님 이야기를 듣고 반 친구들에게 발표하는 과제를 냈어요."
+    },
+    {
+      "question_ko": "준이 할아버지 댁에 갈 때 가져간 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "카메라와 삼각대",
+        "태블릿과 이어폰",
+        "노트와 펜",
+        "녹음기와 사진첩"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준은 이야기를 기록하려고 노트와 펜을 들고 할아버지 아파트에 찾아갔어요."
+    },
+    {
+      "question_ko": "할아버지가 어릴 때 했다고 말한 놀이는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "연 날리기",
+        "고무줄 뛰어넘기",
+        "딱지치기",
+        "팽이 돌리기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "할아버지는 두 친구가 잡은 긴 고무줄을 뛰어넘는 놀이를 소개해 주셨어요."
+    },
+    {
+      "question_ko": "준은 발표를 준비하기 위해 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "할아버지 영상 통화를 녹화했다",
+        "친구에게 대신 써 달라고 부탁했다",
+        "선생님께 미리 도움을 요청했다",
+        "필기를 정리해 보고서로 만들고 소리 내어 연습했다"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "준은 필기 내용을 보고서로 정리한 뒤 여러 번 소리 내어 읽으며 발표를 준비했어요."
+    },
+    {
+      "question_ko": "발표가 끝난 뒤 준의 기분은 어떠했나요?",
+      "type": "mc",
+      "options": [
+        "발표가 너무 짧아서 아쉬웠다",
+        "친구들이 지루해해서 실망했다",
+        "가족의 과거를 학교 공동체와 연결한 것 같아 뿌듯했다",
+        "할아버지 이야기가 너무 어려워서 당황했다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준은 할아버지의 과거를 학교 공동체와 연결했다는 생각에 뿌듯함을 느꼈어요."
+    }
+  ]
+}

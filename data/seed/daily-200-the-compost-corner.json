@@ -1,0 +1,2794 @@
+{
+  "slug": "daily-200-the-compost-corner",
+  "title": "The Compost Corner",
+  "title_ko": "퇴비 코너",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina는 박 선생님과 함께 교실 한 켠에 퇴비 코너를 만들며, 음식물 쓰레기가 땅을 살리는 거름으로 바뀌는 과정을 배운다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park placed a small brown bin on the table.",
+          "translation_ko": "박 선생님이 작은 갈색 통을 책상 위에 올려놓았다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 780,
+              "endMs": 980
+            },
+            {
+              "word": "placed",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 980,
+              "endMs": 1560
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1560,
+              "endMs": 1840
+            },
+            {
+              "word": "small",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1840,
+              "endMs": 2260
+            },
+            {
+              "word": "brown",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2260,
+              "endMs": 2640
+            },
+            {
+              "word": "bin",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2640,
+              "endMs": 2980
+            },
+            {
+              "word": "on",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2980,
+              "endMs": 3440
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3440,
+              "endMs": 3600
+            },
+            {
+              "word": "table",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3600,
+              "endMs": 3840
+            }
+          ]
+        },
+        {
+          "text": "\"This is the start of our compost corner,\" she announced.",
+          "translation_ko": "\"이게 우리 퇴비 코너의 시작이에요\"라고 선생님이 알렸다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 560
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "start",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "of",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1060,
+              "endMs": 1560
+            },
+            {
+              "word": "our",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "compost",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 2240
+            },
+            {
+              "word": "corner",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2240,
+              "endMs": 2880
+            },
+            {
+              "word": "she",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3080,
+              "endMs": 3240
+            },
+            {
+              "word": "announced",
+              "charStart": 47,
+              "charEnd": 56,
+              "startMs": 3240,
+              "endMs": 3540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"What is compost?\" Jun asked, tilting his head.",
+          "translation_ko": "\"퇴비가 뭐예요?\" Jun이 고개를 갸웃거리며 물었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "compost",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 1180
+            },
+            {
+              "word": "Jun",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 2080,
+              "endMs": 2140
+            },
+            {
+              "word": "asked",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 2140,
+              "endMs": 2620
+            },
+            {
+              "word": "tilting",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 3240,
+              "endMs": 3320
+            },
+            {
+              "word": "his",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 3320,
+              "endMs": 3540
+            },
+            {
+              "word": "head",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 3540,
+              "endMs": 3780
+            }
+          ]
+        },
+        {
+          "text": "\"It is what happens when food scraps break down and become soil,\" Ms. Park explained.",
+          "translation_ko": "\"음식 찌꺼기가 분해되어 흙이 되는 거예요\"라고 박 선생님이 설명했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 120,
+              "endMs": 320
+            },
+            {
+              "word": "what",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "happens",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "when",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "food",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1200,
+              "endMs": 1500
+            },
+            {
+              "word": "scraps",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1500,
+              "endMs": 1740
+            },
+            {
+              "word": "break",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "down",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2060,
+              "endMs": 2380
+            },
+            {
+              "word": "and",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2380,
+              "endMs": 2580
+            },
+            {
+              "word": "become",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 2580,
+              "endMs": 2920
+            },
+            {
+              "word": "soil",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 2920,
+              "endMs": 3720
+            },
+            {
+              "word": "Ms",
+              "charStart": 66,
+              "charEnd": 68,
+              "startMs": 3720,
+              "endMs": 3900
+            },
+            {
+              "word": "Park",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4060,
+              "endMs": 4140
+            },
+            {
+              "word": "explained",
+              "charStart": 75,
+              "charEnd": 84,
+              "startMs": 4140,
+              "endMs": 4660
+            }
+          ]
+        },
+        {
+          "text": "Jun's eyes widened with curiosity.",
+          "translation_ko": "Jun의 눈이 호기심으로 커졌다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun's",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "eyes",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "widened",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1760
+            },
+            {
+              "word": "with",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1760,
+              "endMs": 1960
+            },
+            {
+              "word": "curiosity",
+              "charStart": 24,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park listed what could go into the bin.",
+          "translation_ko": "박 선생님이 통에 넣을 수 있는 것들을 알려 주었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 560
+            },
+            {
+              "word": "listed",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 880
+            },
+            {
+              "word": "what",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "could",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1160,
+              "endMs": 1300
+            },
+            {
+              "word": "go",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "into",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1680,
+              "endMs": 1840
+            },
+            {
+              "word": "bin",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 1840,
+              "endMs": 2000
+            }
+          ]
+        },
+        {
+          "text": "\"Vegetable peels, fruit skins, and eggshells are all great,\" she said.",
+          "translation_ko": "\"채소 껍질, 과일 껍데기, 달걀 껍데기는 모두 좋아요\"라고 선생님이 말했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Vegetable",
+              "charStart": 1,
+              "charEnd": 10,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "peels",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 660,
+              "endMs": 1120
+            },
+            {
+              "word": "fruit",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1840
+            },
+            {
+              "word": "skins",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2500
+            },
+            {
+              "word": "eggshells",
+              "charStart": 35,
+              "charEnd": 44,
+              "startMs": 2500,
+              "endMs": 3060
+            },
+            {
+              "word": "are",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3060,
+              "endMs": 3140
+            },
+            {
+              "word": "all",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3440
+            },
+            {
+              "word": "great",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3440,
+              "endMs": 4180
+            },
+            {
+              "word": "she",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4180,
+              "endMs": 4300
+            },
+            {
+              "word": "said",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4300,
+              "endMs": 4540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Can we add leftover rice?\" Mina asked.",
+          "translation_ko": "\"남은 밥도 넣을 수 있어요?\" Mina가 물었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "we",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "add",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 620,
+              "endMs": 840
+            },
+            {
+              "word": "leftover",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 840,
+              "endMs": 1380
+            },
+            {
+              "word": "rice",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "Mina",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2520,
+              "endMs": 2620
+            },
+            {
+              "word": "asked",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2620,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "\"Small amounts are fine, but cooked food can attract bugs,\" Ms. Park warned.",
+          "translation_ko": "\"조금이라면 괜찮지만, 익힌 음식은 벌레를 부를 수 있어요\"라고 선생님이 주의를 주었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Small",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "amounts",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "are",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "fine",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "but",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 1860
+            },
+            {
+              "word": "cooked",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1860,
+              "endMs": 2060
+            },
+            {
+              "word": "food",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2480
+            },
+            {
+              "word": "can",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2480,
+              "endMs": 2700
+            },
+            {
+              "word": "attract",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2700,
+              "endMs": 3000
+            },
+            {
+              "word": "bugs",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3000,
+              "endMs": 3400
+            },
+            {
+              "word": "Ms",
+              "charStart": 60,
+              "charEnd": 62,
+              "startMs": 3820,
+              "endMs": 3920
+            },
+            {
+              "word": "Park",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 4100,
+              "endMs": 4180
+            },
+            {
+              "word": "warned",
+              "charStart": 69,
+              "charEnd": 75,
+              "startMs": 4180,
+              "endMs": 4480
+            }
+          ]
+        },
+        {
+          "text": "Mina nodded and made a note in her notebook.",
+          "translation_ko": "Mina는 고개를 끄덕이며 공책에 메모를 했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "nodded",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1380
+            },
+            {
+              "word": "made",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1460
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1460,
+              "endMs": 1820
+            },
+            {
+              "word": "note",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1820,
+              "endMs": 1820
+            },
+            {
+              "word": "in",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2080
+            },
+            {
+              "word": "her",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2080,
+              "endMs": 2240
+            },
+            {
+              "word": "notebook",
+              "charStart": 35,
+              "charEnd": 43,
+              "startMs": 2240,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun brought apple cores and carrot peels from lunch.",
+          "translation_ko": "Jun은 점심 때 나온 사과 심과 당근 껍질을 가져왔다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "brought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 840
+            },
+            {
+              "word": "apple",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "cores",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1940
+            },
+            {
+              "word": "carrot",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "peels",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "from",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2520,
+              "endMs": 2860
+            },
+            {
+              "word": "lunch",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2860,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "He carefully dropped them into the compost bin.",
+          "translation_ko": "그는 조심스럽게 퇴비 통에 넣었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "carefully",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 240,
+              "endMs": 760
+            },
+            {
+              "word": "dropped",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 760,
+              "endMs": 1160
+            },
+            {
+              "word": "them",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "into",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "compost",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 1980,
+              "endMs": 2420
+            },
+            {
+              "word": "bin",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2420,
+              "endMs": 2740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Now we need to add dry leaves or torn newspaper,\" Ms. Park said.",
+          "translation_ko": "\"이제 마른 낙엽이나 찢은 신문지를 넣어야 해요\"라고 선생님이 말했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "we",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "need",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 820,
+              "endMs": 1000
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "add",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "dry",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1340,
+              "endMs": 1820
+            },
+            {
+              "word": "leaves",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2200
+            },
+            {
+              "word": "or",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2720
+            },
+            {
+              "word": "torn",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2720,
+              "endMs": 3080
+            },
+            {
+              "word": "newspaper",
+              "charStart": 39,
+              "charEnd": 48,
+              "startMs": 3080,
+              "endMs": 4280
+            },
+            {
+              "word": "Ms",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 4280,
+              "endMs": 4380
+            },
+            {
+              "word": "Park",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 4520,
+              "endMs": 4600
+            },
+            {
+              "word": "said",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 4600,
+              "endMs": 4840
+            }
+          ]
+        },
+        {
+          "text": "\"Dry material balances the wet food scraps.\"",
+          "translation_ko": "\"마른 재료가 촉촉한 음식 찌꺼기와 균형을 맞춰 줘요.\"",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dry",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "material",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 420,
+              "endMs": 1060
+            },
+            {
+              "word": "balances",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1060,
+              "endMs": 1600
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1600,
+              "endMs": 1940
+            },
+            {
+              "word": "wet",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2160
+            },
+            {
+              "word": "food",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2420
+            },
+            {
+              "word": "scraps",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2420,
+              "endMs": 2800
+            }
+          ]
+        },
+        {
+          "text": "Mina tore a sheet of newspaper into small pieces.",
+          "translation_ko": "Mina는 신문지 한 장을 작은 조각으로 찢었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "tore",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "sheet",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1140
+            },
+            {
+              "word": "of",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "newspaper",
+              "charStart": 21,
+              "charEnd": 30,
+              "startMs": 1360,
+              "endMs": 1740
+            },
+            {
+              "word": "into",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1740,
+              "endMs": 2360
+            },
+            {
+              "word": "small",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2360,
+              "endMs": 2760
+            },
+            {
+              "word": "pieces",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2760,
+              "endMs": 3180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Does it smell bad?\" Jun asked nervously.",
+          "translation_ko": "\"냄새가 나지 않을까요?\" Jun이 걱정스럽게 물었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Does",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "it",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "smell",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "bad",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1520
+            },
+            {
+              "word": "Jun",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2280,
+              "endMs": 2600
+            },
+            {
+              "word": "asked",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2600,
+              "endMs": 2860
+            },
+            {
+              "word": "nervously",
+              "charStart": 31,
+              "charEnd": 40,
+              "startMs": 2860,
+              "endMs": 3500
+            }
+          ]
+        },
+        {
+          "text": "\"If we mix it every few days, it will smell like fresh earth,\" Ms. Park said.",
+          "translation_ko": "\"며칠에 한 번씩 섞어 주면 신선한 흙 냄새가 날 거예요\"라고 선생님이 말했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "If",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "we",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "mix",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 1000
+            },
+            {
+              "word": "it",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "every",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1660
+            },
+            {
+              "word": "few",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1660,
+              "endMs": 1940
+            },
+            {
+              "word": "days",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "it",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2420,
+              "endMs": 2420
+            },
+            {
+              "word": "will",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2420,
+              "endMs": 2720
+            },
+            {
+              "word": "smell",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 2940
+            },
+            {
+              "word": "like",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 3340
+            },
+            {
+              "word": "fresh",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3340,
+              "endMs": 3600
+            },
+            {
+              "word": "earth",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3600,
+              "endMs": 4560
+            },
+            {
+              "word": "Ms",
+              "charStart": 63,
+              "charEnd": 65,
+              "startMs": 4560,
+              "endMs": 4640
+            },
+            {
+              "word": "Park",
+              "charStart": 67,
+              "charEnd": 71,
+              "startMs": 4800,
+              "endMs": 4860
+            },
+            {
+              "word": "said",
+              "charStart": 72,
+              "charEnd": 76,
+              "startMs": 4860,
+              "endMs": 5120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park used a small stick to stir the contents of the bin.",
+          "translation_ko": "박 선생님이 작은 막대기로 통 안의 내용물을 저었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 1060,
+              "endMs": 1140
+            },
+            {
+              "word": "used",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "small",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "stick",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "to",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2240,
+              "endMs": 2680
+            },
+            {
+              "word": "stir",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2680,
+              "endMs": 2720
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2720,
+              "endMs": 3140
+            },
+            {
+              "word": "contents",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 3140,
+              "endMs": 3380
+            },
+            {
+              "word": "of",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3380,
+              "endMs": 3640
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3640,
+              "endMs": 3940
+            },
+            {
+              "word": "bin",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3940,
+              "endMs": 3940
+            }
+          ]
+        },
+        {
+          "text": "\"Mixing helps air get in and speeds up the process,\" she explained.",
+          "translation_ko": "\"섞어 주면 공기가 들어가서 분해가 빨라져요\"라고 선생님이 설명했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mixing",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "helps",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "air",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1080
+            },
+            {
+              "word": "get",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1080,
+              "endMs": 1280
+            },
+            {
+              "word": "in",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1800
+            },
+            {
+              "word": "speeds",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1800,
+              "endMs": 2040
+            },
+            {
+              "word": "up",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2040,
+              "endMs": 2240
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2240,
+              "endMs": 2360
+            },
+            {
+              "word": "process",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2360,
+              "endMs": 2780
+            },
+            {
+              "word": "she",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3140,
+              "endMs": 3300
+            },
+            {
+              "word": "explained",
+              "charStart": 57,
+              "charEnd": 66,
+              "startMs": 3300,
+              "endMs": 3700
+            }
+          ]
+        },
+        {
+          "text": "Jun asked if he could try, and Ms. Park handed him the stick.",
+          "translation_ko": "Jun이 해 봐도 되냐고 묻자 선생님이 막대기를 건네주었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "asked",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 480,
+              "endMs": 1040
+            },
+            {
+              "word": "if",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "he",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "could",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1580
+            },
+            {
+              "word": "try",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1940
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2340,
+              "endMs": 2480
+            },
+            {
+              "word": "Ms",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2480,
+              "endMs": 2680
+            },
+            {
+              "word": "Park",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2880,
+              "endMs": 2980
+            },
+            {
+              "word": "handed",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2980,
+              "endMs": 3300
+            },
+            {
+              "word": "him",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3300,
+              "endMs": 3500
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3500,
+              "endMs": 3900
+            },
+            {
+              "word": "stick",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3900,
+              "endMs": 3920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun stirred slowly and felt the warmth rising from the bin.",
+          "translation_ko": "Jun이 천천히 저었더니 통에서 따뜻한 열기가 올라오는 게 느껴졌다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 900
+            },
+            {
+              "word": "stirred",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "slowly",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1760
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1760,
+              "endMs": 2360
+            },
+            {
+              "word": "felt",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2360,
+              "endMs": 2520
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "warmth",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2800,
+              "endMs": 3040
+            },
+            {
+              "word": "rising",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 3040,
+              "endMs": 3500
+            },
+            {
+              "word": "from",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3500,
+              "endMs": 3740
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3740,
+              "endMs": 4020
+            },
+            {
+              "word": "bin",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 4020,
+              "endMs": 4080
+            }
+          ]
+        },
+        {
+          "text": "\"It is warm because tiny organisms are working inside,\" Ms. Park said.",
+          "translation_ko": "\"작은 미생물들이 안에서 활동하기 때문에 따뜻한 거예요\"라고 선생님이 말했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 140,
+              "endMs": 440
+            },
+            {
+              "word": "warm",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "because",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 820,
+              "endMs": 1360
+            },
+            {
+              "word": "tiny",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1920
+            },
+            {
+              "word": "organisms",
+              "charStart": 25,
+              "charEnd": 34,
+              "startMs": 1920,
+              "endMs": 2360
+            },
+            {
+              "word": "are",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2360,
+              "endMs": 2760
+            },
+            {
+              "word": "working",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2760,
+              "endMs": 3060
+            },
+            {
+              "word": "inside",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3060,
+              "endMs": 3640
+            },
+            {
+              "word": "Ms",
+              "charStart": 56,
+              "charEnd": 58,
+              "startMs": 4360,
+              "endMs": 4400
+            },
+            {
+              "word": "Park",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 4600,
+              "endMs": 4660
+            },
+            {
+              "word": "said",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4660,
+              "endMs": 4960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"How long does it take to become compost?\" Mina asked.",
+          "translation_ko": "\"퇴비가 되는 데 얼마나 걸려요?\" Mina가 물었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "How",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "long",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "does",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 620,
+              "endMs": 800
+            },
+            {
+              "word": "it",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 960
+            },
+            {
+              "word": "take",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 960,
+              "endMs": 1140
+            },
+            {
+              "word": "to",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "become",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1380,
+              "endMs": 1600
+            },
+            {
+              "word": "compost",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 1600,
+              "endMs": 2160
+            },
+            {
+              "word": "Mina",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2680,
+              "endMs": 2860
+            },
+            {
+              "word": "asked",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2860,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "\"Usually four to eight weeks if we take good care of it,\" Ms. Park answered.",
+          "translation_ko": "\"잘 관리하면 보통 4주에서 8주 정도 걸려요\"라고 선생님이 대답했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Usually",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "four",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1060
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "eight",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1460
+            },
+            {
+              "word": "weeks",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1720
+            },
+            {
+              "word": "if",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "we",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2160
+            },
+            {
+              "word": "take",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2280
+            },
+            {
+              "word": "good",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2280,
+              "endMs": 2540
+            },
+            {
+              "word": "care",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "of",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 2920
+            },
+            {
+              "word": "it",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 2920,
+              "endMs": 3420
+            },
+            {
+              "word": "Ms",
+              "charStart": 58,
+              "charEnd": 60,
+              "startMs": 3420,
+              "endMs": 3520
+            },
+            {
+              "word": "Park",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3640,
+              "endMs": 3760
+            },
+            {
+              "word": "answered",
+              "charStart": 67,
+              "charEnd": 75,
+              "startMs": 3760,
+              "endMs": 4100
+            }
+          ]
+        },
+        {
+          "text": "Jun was surprised that trash could turn into something so useful.",
+          "translation_ko": "Jun은 쓰레기가 이렇게 유용한 것으로 변한다는 게 놀라웠다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 620
+            },
+            {
+              "word": "surprised",
+              "charStart": 8,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 1220
+            },
+            {
+              "word": "that",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "trash",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1860
+            },
+            {
+              "word": "could",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "turn",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "into",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "something",
+              "charStart": 45,
+              "charEnd": 54,
+              "startMs": 2540,
+              "endMs": 2880
+            },
+            {
+              "word": "so",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 2880,
+              "endMs": 3260
+            },
+            {
+              "word": "useful",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3260,
+              "endMs": 3560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The class made a chart to track what they added each week.",
+          "translation_ko": "반 학생들은 매주 무엇을 넣었는지 기록하는 표를 만들었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "made",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "chart",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "to",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "track",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1420,
+              "endMs": 1620
+            },
+            {
+              "word": "what",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "they",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 1880,
+              "endMs": 2040
+            },
+            {
+              "word": "added",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "each",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2320,
+              "endMs": 2700
+            },
+            {
+              "word": "week",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2700,
+              "endMs": 2980
+            }
+          ]
+        },
+        {
+          "text": "Mina wrote the date and the type of food scraps in each row.",
+          "translation_ko": "Mina는 각 칸에 날짜와 음식 찌꺼기의 종류를 적었다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "wrote",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "date",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 1940
+            },
+            {
+              "word": "type",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1940,
+              "endMs": 1980
+            },
+            {
+              "word": "of",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2320
+            },
+            {
+              "word": "food",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2440
+            },
+            {
+              "word": "scraps",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2440,
+              "endMs": 2840
+            },
+            {
+              "word": "in",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2840,
+              "endMs": 3160
+            },
+            {
+              "word": "each",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3160,
+              "endMs": 3500
+            },
+            {
+              "word": "row",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3500,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"When the compost is ready, we will use it in the school garden,\" Ms. Park promised.",
+          "translation_ko": "\"퇴비가 완성되면 학교 텃밭에 사용할 거예요\"라고 선생님이 약속했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "compost",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "is",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1140
+            },
+            {
+              "word": "ready",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1140,
+              "endMs": 1460
+            },
+            {
+              "word": "we",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 1980
+            },
+            {
+              "word": "will",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2220
+            },
+            {
+              "word": "use",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "it",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2420,
+              "endMs": 2580
+            },
+            {
+              "word": "in",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2580,
+              "endMs": 2680
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2680,
+              "endMs": 2880
+            },
+            {
+              "word": "school",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 2880,
+              "endMs": 3120
+            },
+            {
+              "word": "garden",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3120,
+              "endMs": 3480
+            },
+            {
+              "word": "Ms",
+              "charStart": 66,
+              "charEnd": 68,
+              "startMs": 3940,
+              "endMs": 4020
+            },
+            {
+              "word": "Park",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4200,
+              "endMs": 4300
+            },
+            {
+              "word": "promised",
+              "charStart": 75,
+              "charEnd": 83,
+              "startMs": 4300,
+              "endMs": 4680
+            }
+          ]
+        },
+        {
+          "text": "Jun imagined healthy vegetables growing from the old food scraps.",
+          "translation_ko": "Jun은 오래된 음식 찌꺼기에서 싱싱한 채소가 자라는 모습을 상상했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "imagined",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 1040
+            },
+            {
+              "word": "healthy",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1480
+            },
+            {
+              "word": "vegetables",
+              "charStart": 21,
+              "charEnd": 31,
+              "startMs": 1480,
+              "endMs": 2000
+            },
+            {
+              "word": "growing",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2000,
+              "endMs": 2440
+            },
+            {
+              "word": "from",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2440,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2700,
+              "endMs": 2940
+            },
+            {
+              "word": "old",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2940,
+              "endMs": 3160
+            },
+            {
+              "word": "food",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3160,
+              "endMs": 3340
+            },
+            {
+              "word": "scraps",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3340,
+              "endMs": 3680
+            }
+          ]
+        },
+        {
+          "text": "\"Our trash will help plants grow,\" he said proudly.",
+          "translation_ko": "\"우리 쓰레기가 식물이 자라는 걸 도와주는 거네요\"라고 그가 뿌듯하게 말했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "trash",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 840,
+              "endMs": 1280
+            },
+            {
+              "word": "will",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "help",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "plants",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "grow",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2080,
+              "endMs": 3180
+            },
+            {
+              "word": "he",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 3180,
+              "endMs": 3300
+            },
+            {
+              "word": "said",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3300,
+              "endMs": 3500
+            },
+            {
+              "word": "proudly",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 3500,
+              "endMs": 3880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the end of class, everyone agreed to bring food scraps from home.",
+          "translation_ko": "수업이 끝날 무렵 모두들 집에서도 음식 찌꺼기를 가져오기로 했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "At",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 200,
+              "endMs": 620
+            },
+            {
+              "word": "end",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 720
+            },
+            {
+              "word": "of",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1040
+            },
+            {
+              "word": "class",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1420
+            },
+            {
+              "word": "everyone",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1960,
+              "endMs": 2320
+            },
+            {
+              "word": "agreed",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2320,
+              "endMs": 2680
+            },
+            {
+              "word": "to",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "bring",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2940,
+              "endMs": 3060
+            },
+            {
+              "word": "food",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3060,
+              "endMs": 3460
+            },
+            {
+              "word": "scraps",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 3460,
+              "endMs": 3760
+            },
+            {
+              "word": "from",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3760,
+              "endMs": 4160
+            },
+            {
+              "word": "home",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 4160,
+              "endMs": 4420
+            }
+          ]
+        },
+        {
+          "text": "\"Small actions like this can make a big difference,\" Ms. Park said warmly.",
+          "translation_ko": "\"이런 작은 실천이 큰 변화를 만들어요\"라고 선생님이 따뜻하게 말했다.",
+          "audio": "/seed/daily-200-the-compost-corner/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Small",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "actions",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 1000
+            },
+            {
+              "word": "like",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "this",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1540
+            },
+            {
+              "word": "can",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1540,
+              "endMs": 1680
+            },
+            {
+              "word": "make",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1680,
+              "endMs": 1820
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 1820,
+              "endMs": 2040
+            },
+            {
+              "word": "big",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2040,
+              "endMs": 2300
+            },
+            {
+              "word": "difference",
+              "charStart": 40,
+              "charEnd": 50,
+              "startMs": 2300,
+              "endMs": 2700
+            },
+            {
+              "word": "Ms",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3240,
+              "endMs": 3300
+            },
+            {
+              "word": "Park",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3460,
+              "endMs": 3540
+            },
+            {
+              "word": "said",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3540,
+              "endMs": 3740
+            },
+            {
+              "word": "warmly",
+              "charStart": 67,
+              "charEnd": 73,
+              "startMs": 3740,
+              "endMs": 4120
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "박 선생님이 퇴비 코너를 만들기 위해 처음 책상 위에 올려놓은 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "작은 갈색 통",
+        "마른 낙엽 한 봉지",
+        "신문지 묶음",
+        "작은 화분"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "박 선생님은 작은 갈색 통을 책상 위에 올려놓으며 퇴비 코너의 시작이라고 했습니다."
+    },
+    {
+      "question_ko": "퇴비 통에 넣으면 안 된다고 선생님이 주의를 준 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "달걀 껍데기",
+        "채소 껍질",
+        "많은 양의 익힌 음식",
+        "과일 껍데기"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "선생님은 많은 양의 익힌 음식을 넣으면 벌레를 부를 수 있다고 경고했습니다."
+    },
+    {
+      "question_ko": "퇴비 통에서 따뜻한 열기가 느껴지는 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "햇빛이 직접 닿아서",
+        "작은 미생물들이 활동하기 때문에",
+        "물을 많이 넣어서",
+        "신문지가 불에 타고 있어서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "선생님은 작은 미생물들이 통 안에서 활동하기 때문에 따뜻한 것이라고 설명했습니다."
+    },
+    {
+      "question_ko": "퇴비가 완성된 후 어디에 사용할 계획인가요?",
+      "type": "mc",
+      "options": [
+        "반 화분",
+        "학교 텃밭",
+        "복도 화단",
+        "가정 베란다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "선생님은 퇴비가 완성되면 학교 텃밭에 사용할 것이라고 약속했습니다."
+    },
+    {
+      "question_ko": "퇴비가 완성되는 데 걸리는 시간은 보통 얼마인가요?",
+      "type": "mc",
+      "options": [
+        "1~2주",
+        "2~3주",
+        "4~8주",
+        "3~6개월"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "선생님은 잘 관리하면 보통 4주에서 8주 정도 걸린다고 대답했습니다."
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "slug": "the-little-green-pea",
+  "title": "The Little Green Pea",
+  "title_ko": "또르르 작은 완두콩",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "작은 완두콩 하나가 또르르 굴러 흙 속에 자리를 찾는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A little green pea sits on a spoon.",
+          "translation_ko": "작은 초록 완두콩 하나가 숟가락 위에 앉아 있어요.",
+          "audio": "/seed/the-little-green-pea/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "little",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "green",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "pea",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "sits",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "on",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1700
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 1940
+            },
+            {
+              "word": "spoon",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The pea rolls off the spoon.",
+          "translation_ko": "완두콩이 숟가락에서 데구루루 굴러요.",
+          "audio": "/seed/the-little-green-pea/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "pea",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "rolls",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1200
+            },
+            {
+              "word": "off",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "spoon",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It rolls across the floor.",
+          "translation_ko": "완두콩이 바닥을 가로질러 굴러가요.",
+          "audio": "/seed/the-little-green-pea/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "rolls",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "across",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "floor",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It rolls out the door.",
+          "translation_ko": "완두콩이 문 밖으로 굴러나가요.",
+          "audio": "/seed/the-little-green-pea/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "rolls",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "out",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "door",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "It rolls into the garden.",
+          "translation_ko": "완두콩이 정원 안으로 굴러들어 가요.",
+          "audio": "/seed/the-little-green-pea/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "rolls",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 780,
+              "endMs": 1360
+            },
+            {
+              "word": "into",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1360,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1700,
+              "endMs": 2060
+            },
+            {
+              "word": "garden",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 2060,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The little pea lands in soft soil.",
+          "translation_ko": "작은 완두콩이 폭신한 흙 위에 쏙 내려앉아요.",
+          "audio": "/seed/the-little-green-pea/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "little",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "pea",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "lands",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "in",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1140,
+              "endMs": 1500
+            },
+            {
+              "word": "soft",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "soil",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "완두콩은 처음에 어디에 있었나요?",
+      "type": "mc",
+      "options": [
+        "숟가락 위",
+        "바닥 위",
+        "정원 안",
+        "흙 속"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "완두콩은 처음에 숟가락 위에 앉아 있었어요."
+    },
+    {
+      "question_ko": "완두콩은 어떻게 움직이나요?",
+      "type": "mc",
+      "options": [
+        "날아요",
+        "뛰어요",
+        "굴러요",
+        "걸어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "완두콩은 데구루루 굴러서 이동해요."
+    },
+    {
+      "question_ko": "완두콩이 마지막에 도착한 곳은 어디인가요?",
+      "type": "mc",
+      "options": [
+        "부엌 바닥",
+        "숟가락 위",
+        "문 앞",
+        "정원의 흙 속"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "완두콩은 정원의 폭신한 흙 속에 내려앉았어요."
+    },
+    {
+      "question_ko": "완두콩은 문 밖으로 나가기 전에 어디를 지나갔나요?",
+      "type": "mc",
+      "options": [
+        "정원",
+        "바닥",
+        "흙",
+        "나무"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "완두콩은 바닥을 가로질러 굴러간 다음 문 밖으로 나갔어요."
+    },
+    {
+      "question_ko": "완두콩의 색깔은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "빨간색",
+        "파란색",
+        "초록색",
+        "노란색"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "완두콩은 초록색이에요."
+    }
+  ]
+}

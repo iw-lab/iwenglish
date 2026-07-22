@@ -1,0 +1,537 @@
+{
+  "slug": "daily-156-my-warm-mittens",
+  "title": "My Warm Mittens",
+  "title_ko": "내 따뜻한 장갑",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "추운 날 아침, Jun은 따뜻하고 예쁜 빨간 장갑을 끼고 신나게 밖으로 나가요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Today is a cold and windy day outside.",
+          "translation_ko": "오늘은 밖이 춥고 바람이 부는 날이에요.",
+          "audio": "/seed/daily-156-my-warm-mittens/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 640
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "cold",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1140
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1660
+            },
+            {
+              "word": "windy",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 1660
+            },
+            {
+              "word": "day",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "outside",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun sees his red mittens on the table.",
+          "translation_ko": "Jun은 탁자 위에 빨간 장갑을 발견해요.",
+          "audio": "/seed/daily-156-my-warm-mittens/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "sees",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 780
+            },
+            {
+              "word": "his",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "red",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "mittens",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "on",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "table",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun puts on his red mittens slowly.",
+          "translation_ko": "Jun은 빨간 장갑을 천천히 껴요.",
+          "audio": "/seed/daily-156-my-warm-mittens/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "puts",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "red",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "mittens",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 2160
+            },
+            {
+              "word": "slowly",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "His mittens feel very warm and soft.",
+          "translation_ko": "그의 장갑은 아주 따뜻하고 부드러워요.",
+          "audio": "/seed/daily-156-my-warm-mittens/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "mittens",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1020
+            },
+            {
+              "word": "feel",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1020,
+              "endMs": 1420
+            },
+            {
+              "word": "very",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1420,
+              "endMs": 1900
+            },
+            {
+              "word": "warm",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2180
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2180,
+              "endMs": 2600
+            },
+            {
+              "word": "soft",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2600,
+              "endMs": 2860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun loves his warm red mittens so much.",
+          "translation_ko": "Jun은 따뜻하고 빨간 장갑을 정말 좋아해요.",
+          "audio": "/seed/daily-156-my-warm-mittens/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "loves",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 880
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1180
+            },
+            {
+              "word": "warm",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1560
+            },
+            {
+              "word": "red",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1560,
+              "endMs": 1840
+            },
+            {
+              "word": "mittens",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "so",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2200,
+              "endMs": 2840
+            },
+            {
+              "word": "much",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2840,
+              "endMs": 3180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun opens the door and goes outside now.",
+          "translation_ko": "Jun은 문을 열고 지금 밖으로 나가요.",
+          "audio": "/seed/daily-156-my-warm-mittens/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "opens",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "door",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1740
+            },
+            {
+              "word": "goes",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "outside",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2480
+            },
+            {
+              "word": "now",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2480,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun smiles because his hands are warm and cozy.",
+          "translation_ko": "손이 따뜻하고 아늑해서 Jun은 미소를 지어요.",
+          "audio": "/seed/daily-156-my-warm-mittens/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 980
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1360
+            },
+            {
+              "word": "his",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1720
+            },
+            {
+              "word": "hands",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 1860
+            },
+            {
+              "word": "are",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1860,
+              "endMs": 2180
+            },
+            {
+              "word": "warm",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2460
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2460,
+              "endMs": 2960
+            },
+            {
+              "word": "cozy",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2960,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "오늘 날씨는 어때요?",
+      "type": "mc",
+      "options": [
+        "춥고 바람이 불어요",
+        "덥고 맑아요",
+        "비가 와요",
+        "눈이 와요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이야기에서 'a cold and windy day'라고 했어요. 춥고 바람이 부는 날이에요."
+    },
+    {
+      "question_ko": "Jun의 장갑은 어디에 있었나요?",
+      "type": "mc",
+      "options": [
+        "소파 위",
+        "탁자 위",
+        "가방 안",
+        "침대 위"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "'Jun sees his red mittens on the table.'에서 장갑은 탁자 위에 있었어요."
+    },
+    {
+      "question_ko": "Jun의 장갑은 무슨 색이에요?",
+      "type": "mc",
+      "options": [
+        "파란색",
+        "노란색",
+        "초록색",
+        "빨간색"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "'his red mittens'에서 Jun의 장갑은 빨간색이에요."
+    },
+    {
+      "question_ko": "Jun의 장갑은 어떤 느낌이에요?",
+      "type": "mc",
+      "options": [
+        "딱딱하고 차가워요",
+        "따뜻하고 부드러워요",
+        "크고 무거워요",
+        "얇고 가벼워요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "'feel very warm and soft'에서 장갑이 따뜻하고 부드럽다고 했어요."
+    },
+    {
+      "question_ko": "Jun이 마지막에 미소를 짓는 이유는 뭐예요?",
+      "type": "mc",
+      "options": [
+        "친구를 만나서",
+        "날씨가 맑아서",
+        "손이 따뜻하고 아늑해서",
+        "맛있는 음식을 먹어서"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "'because his hands are warm and cozy'에서 손이 따뜻하고 아늑해서 미소를 짓는다고 했어요."
+    }
+  ]
+}

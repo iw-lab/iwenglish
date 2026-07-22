@@ -1,0 +1,1837 @@
+{
+  "slug": "daily-171-the-classroom-plant",
+  "title": "The Classroom Plant",
+  "title_ko": "우리 반 화분",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "교실 화분이 시들자 Jun과 Mina, 박 선생님이 함께 돌봐 화분을 다시 살려낸다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun came into the classroom and saw the plant by the window.",
+          "translation_ko": "Jun이 교실에 들어와 창가에 있는 화분을 발견했어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "came",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 860
+            },
+            {
+              "word": "into",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1240
+            },
+            {
+              "word": "classroom",
+              "charStart": 18,
+              "charEnd": 27,
+              "startMs": 1240,
+              "endMs": 1640
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1640,
+              "endMs": 2220
+            },
+            {
+              "word": "saw",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2620
+            },
+            {
+              "word": "plant",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2620,
+              "endMs": 2860
+            },
+            {
+              "word": "by",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3100
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3360
+            },
+            {
+              "word": "window",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3360,
+              "endMs": 3500
+            }
+          ]
+        },
+        {
+          "text": "He felt sad because the leaves were drooping and yellow.",
+          "translation_ko": "잎이 축 늘어지고 노랗게 변해 있어서 Jun은 속상했어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "sad",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 1040
+            },
+            {
+              "word": "because",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1560
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1560,
+              "endMs": 1860
+            },
+            {
+              "word": "leaves",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "were",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2420
+            },
+            {
+              "word": "drooping",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2420,
+              "endMs": 2840
+            },
+            {
+              "word": "and",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2840,
+              "endMs": 3260
+            },
+            {
+              "word": "yellow",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3260,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina walked over when she noticed Jun looking at the plant.",
+          "translation_ko": "Jun이 화분을 바라보는 걸 보고 Mina가 다가왔어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "walked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 760
+            },
+            {
+              "word": "over",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 1100
+            },
+            {
+              "word": "when",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "she",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1680
+            },
+            {
+              "word": "noticed",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1680,
+              "endMs": 1900
+            },
+            {
+              "word": "Jun",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1900,
+              "endMs": 2340
+            },
+            {
+              "word": "looking",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2340,
+              "endMs": 2940
+            },
+            {
+              "word": "at",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 3100
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3100,
+              "endMs": 3220
+            },
+            {
+              "word": "plant",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3220,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "She said, \"Oh no, our plant looks really sick.\"",
+          "translation_ko": "미나가 말했어요. \"어머, 우리 화분이 많이 아파 보여.\"",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 620
+            },
+            {
+              "word": "Oh",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "no",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1420,
+              "endMs": 1760
+            },
+            {
+              "word": "our",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1960,
+              "endMs": 2300
+            },
+            {
+              "word": "plant",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "looks",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2560,
+              "endMs": 2820
+            },
+            {
+              "word": "really",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2820,
+              "endMs": 3340
+            },
+            {
+              "word": "sick",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3340,
+              "endMs": 3580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park came in and saw the sad plant too.",
+          "translation_ko": "박 선생님도 교실에 들어와 시든 화분을 보았어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 560
+            },
+            {
+              "word": "came",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "in",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1140
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1560
+            },
+            {
+              "word": "saw",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1560,
+              "endMs": 1740
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1740,
+              "endMs": 1920
+            },
+            {
+              "word": "sad",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "plant",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2220,
+              "endMs": 2560
+            },
+            {
+              "word": "too",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2560,
+              "endMs": 2900
+            }
+          ]
+        },
+        {
+          "text": "She said, \"It needs water because the soil is very dry.\"",
+          "translation_ko": "선생님이 말씀하셨어요. \"흙이 너무 말라서 물이 필요한 거야.\"",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "It",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1040
+            },
+            {
+              "word": "needs",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1320
+            },
+            {
+              "word": "water",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1700
+            },
+            {
+              "word": "because",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1700,
+              "endMs": 2200
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2520
+            },
+            {
+              "word": "soil",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2520,
+              "endMs": 2660
+            },
+            {
+              "word": "is",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2660,
+              "endMs": 2980
+            },
+            {
+              "word": "very",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2980,
+              "endMs": 3300
+            },
+            {
+              "word": "dry",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3300,
+              "endMs": 3540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun ran to get a small watering can from the supply closet.",
+          "translation_ko": "Jun은 준비실로 달려가 작은 물뿌리개를 가져왔어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 920
+            },
+            {
+              "word": "get",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1040
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1260
+            },
+            {
+              "word": "small",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1660
+            },
+            {
+              "word": "watering",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1660,
+              "endMs": 1980
+            },
+            {
+              "word": "can",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2380
+            },
+            {
+              "word": "from",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2380,
+              "endMs": 2580
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2580,
+              "endMs": 2800
+            },
+            {
+              "word": "supply",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 2800,
+              "endMs": 3080
+            },
+            {
+              "word": "closet",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3080,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "He felt excited because he wanted to help the plant.",
+          "translation_ko": "화분을 살리고 싶었기 때문에 Jun은 설레는 마음이었어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 440
+            },
+            {
+              "word": "excited",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 440,
+              "endMs": 920
+            },
+            {
+              "word": "because",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 920,
+              "endMs": 1300
+            },
+            {
+              "word": "he",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "wanted",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "to",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "help",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 1920,
+              "endMs": 2080
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2080,
+              "endMs": 2280
+            },
+            {
+              "word": "plant",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2280,
+              "endMs": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina held the pot steady when Jun poured water into it.",
+          "translation_ko": "Jun이 물을 부을 때 Mina가 화분을 꼭 잡아 주었어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "held",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 820,
+              "endMs": 1060
+            },
+            {
+              "word": "pot",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "steady",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1660
+            },
+            {
+              "word": "when",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1660,
+              "endMs": 2000
+            },
+            {
+              "word": "Jun",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2320
+            },
+            {
+              "word": "poured",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2620
+            },
+            {
+              "word": "water",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2620,
+              "endMs": 2940
+            },
+            {
+              "word": "into",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2940,
+              "endMs": 3200
+            },
+            {
+              "word": "it",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3200,
+              "endMs": 3400
+            }
+          ]
+        },
+        {
+          "text": "They worked together because the plant was important to everyone.",
+          "translation_ko": "화분이 반 모두에게 소중했기 때문에 둘이 힘을 모았어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "worked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "together",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 560,
+              "endMs": 1060
+            },
+            {
+              "word": "because",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1060,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1500,
+              "endMs": 1700
+            },
+            {
+              "word": "plant",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "was",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 1960,
+              "endMs": 2240
+            },
+            {
+              "word": "important",
+              "charStart": 43,
+              "charEnd": 52,
+              "startMs": 2240,
+              "endMs": 2540
+            },
+            {
+              "word": "to",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 2540,
+              "endMs": 2980
+            },
+            {
+              "word": "everyone",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 2980,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park moved the plant closer to the window for more sunlight.",
+          "translation_ko": "박 선생님이 햇빛을 더 받도록 화분을 창가 쪽으로 옮겼어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 860,
+              "endMs": 1000
+            },
+            {
+              "word": "moved",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1420
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "plant",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1860
+            },
+            {
+              "word": "closer",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2240
+            },
+            {
+              "word": "to",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2240,
+              "endMs": 2420
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2800
+            },
+            {
+              "word": "window",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2800,
+              "endMs": 2800
+            },
+            {
+              "word": "for",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2800,
+              "endMs": 3300
+            },
+            {
+              "word": "more",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3300,
+              "endMs": 3560
+            },
+            {
+              "word": "sunlight",
+              "charStart": 55,
+              "charEnd": 63,
+              "startMs": 3560,
+              "endMs": 3900
+            }
+          ]
+        },
+        {
+          "text": "She explained that plants need light because they make food from it.",
+          "translation_ko": "선생님은 식물이 빛으로 양분을 만들기 때문에 빛이 필요하다고 설명해 주셨어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "explained",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 280,
+              "endMs": 880
+            },
+            {
+              "word": "that",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1400
+            },
+            {
+              "word": "plants",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1700
+            },
+            {
+              "word": "need",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "light",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2000,
+              "endMs": 2300
+            },
+            {
+              "word": "because",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2780
+            },
+            {
+              "word": "they",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 2960
+            },
+            {
+              "word": "make",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2960,
+              "endMs": 3160
+            },
+            {
+              "word": "food",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3160,
+              "endMs": 3420
+            },
+            {
+              "word": "from",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3420,
+              "endMs": 3620
+            },
+            {
+              "word": "it",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 3620,
+              "endMs": 3780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next morning, Jun checked the plant as soon as he arrived.",
+          "translation_ko": "다음 날 아침 Jun은 교실에 오자마자 화분을 확인했어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 180,
+              "endMs": 460
+            },
+            {
+              "word": "morning",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 460,
+              "endMs": 840
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1540
+            },
+            {
+              "word": "checked",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1780,
+              "endMs": 1940
+            },
+            {
+              "word": "plant",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "as",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2180,
+              "endMs": 2500
+            },
+            {
+              "word": "soon",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2500,
+              "endMs": 2560
+            },
+            {
+              "word": "as",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2560,
+              "endMs": 2860
+            },
+            {
+              "word": "he",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 2860,
+              "endMs": 2880
+            },
+            {
+              "word": "arrived",
+              "charStart": 54,
+              "charEnd": 61,
+              "startMs": 2880,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "He smiled because one leaf was already standing up straight.",
+          "translation_ko": "잎 하나가 이미 꼿꼿이 서 있어서 Jun은 미소를 지었어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "smiled",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "because",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 580,
+              "endMs": 940
+            },
+            {
+              "word": "one",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 940,
+              "endMs": 1320
+            },
+            {
+              "word": "leaf",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "was",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "already",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1760,
+              "endMs": 2240
+            },
+            {
+              "word": "standing",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2240,
+              "endMs": 2580
+            },
+            {
+              "word": "up",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2580,
+              "endMs": 2920
+            },
+            {
+              "word": "straight",
+              "charStart": 51,
+              "charEnd": 59,
+              "startMs": 2920,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina clapped her hands when she saw the leaf was green again.",
+          "translation_ko": "잎이 다시 초록빛으로 돌아온 것을 보고 Mina가 손뼉을 쳤어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "clapped",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 880
+            },
+            {
+              "word": "her",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "hands",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1520
+            },
+            {
+              "word": "when",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 2040
+            },
+            {
+              "word": "she",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2040,
+              "endMs": 2260
+            },
+            {
+              "word": "saw",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2460
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2460,
+              "endMs": 2680
+            },
+            {
+              "word": "leaf",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 2840
+            },
+            {
+              "word": "was",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2840,
+              "endMs": 3120
+            },
+            {
+              "word": "green",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3120,
+              "endMs": 3320
+            },
+            {
+              "word": "again",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3320,
+              "endMs": 3680
+            }
+          ]
+        },
+        {
+          "text": "She felt happy because their hard work was helping the plant.",
+          "translation_ko": "자신들의 노력이 화분에 도움이 되고 있어서 Mina는 기뻤어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 540
+            },
+            {
+              "word": "happy",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 540,
+              "endMs": 1020
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1500
+            },
+            {
+              "word": "their",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "hard",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "work",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2000,
+              "endMs": 2240
+            },
+            {
+              "word": "was",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2240,
+              "endMs": 2480
+            },
+            {
+              "word": "helping",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2480,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 2700,
+              "endMs": 2940
+            },
+            {
+              "word": "plant",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 2940,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park made a watering schedule so the plant would never get dry again.",
+          "translation_ko": "박 선생님이 화분이 다시는 마르지 않도록 물 주기 표를 만들었어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 640,
+              "endMs": 720
+            },
+            {
+              "word": "made",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1180
+            },
+            {
+              "word": "watering",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "schedule",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1440,
+              "endMs": 1960
+            },
+            {
+              "word": "so",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1960,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2340,
+              "endMs": 2520
+            },
+            {
+              "word": "plant",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 2740
+            },
+            {
+              "word": "would",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2740,
+              "endMs": 2980
+            },
+            {
+              "word": "never",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 2980,
+              "endMs": 3260
+            },
+            {
+              "word": "get",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 3260,
+              "endMs": 3520
+            },
+            {
+              "word": "dry",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 3520,
+              "endMs": 3780
+            },
+            {
+              "word": "again",
+              "charStart": 67,
+              "charEnd": 72,
+              "startMs": 3780,
+              "endMs": 4140
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina took turns because they both wanted to take care of it.",
+          "translation_ko": "둘 다 화분을 돌보고 싶었기 때문에 Jun과 Mina가 번갈아가며 맡기로 했어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 860
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1140
+            },
+            {
+              "word": "took",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1700
+            },
+            {
+              "word": "turns",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1700,
+              "endMs": 2200
+            },
+            {
+              "word": "because",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 2200,
+              "endMs": 2820
+            },
+            {
+              "word": "they",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2820,
+              "endMs": 3060
+            },
+            {
+              "word": "both",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 3060,
+              "endMs": 3400
+            },
+            {
+              "word": "wanted",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 3400,
+              "endMs": 3700
+            },
+            {
+              "word": "to",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3700,
+              "endMs": 4000
+            },
+            {
+              "word": "take",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 4000,
+              "endMs": 4140
+            },
+            {
+              "word": "care",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 4140,
+              "endMs": 4360
+            },
+            {
+              "word": "of",
+              "charStart": 62,
+              "charEnd": 64,
+              "startMs": 4360,
+              "endMs": 4520
+            },
+            {
+              "word": "it",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 4520,
+              "endMs": 4680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By Friday, the plant had bright green leaves and looked healthy.",
+          "translation_ko": "금요일이 되자 화분에 선명한 초록 잎이 피어나 건강해 보였어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "Friday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 800
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1420,
+              "endMs": 1560
+            },
+            {
+              "word": "plant",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "had",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "bright",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2080,
+              "endMs": 2380
+            },
+            {
+              "word": "green",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2380,
+              "endMs": 2740
+            },
+            {
+              "word": "leaves",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2740,
+              "endMs": 3060
+            },
+            {
+              "word": "and",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3060,
+              "endMs": 3440
+            },
+            {
+              "word": "looked",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3440,
+              "endMs": 3620
+            },
+            {
+              "word": "healthy",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 3620,
+              "endMs": 3980
+            }
+          ]
+        },
+        {
+          "text": "Jun felt proud because he and Mina had saved their classroom plant.",
+          "translation_ko": "Jun은 Mina와 함께 반 화분을 살려냈다는 사실에 뿌듯했어요.",
+          "audio": "/seed/daily-171-the-classroom-plant/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 720
+            },
+            {
+              "word": "proud",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 1160
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1580
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1860,
+              "endMs": 2020
+            },
+            {
+              "word": "Mina",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "had",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2260,
+              "endMs": 2600
+            },
+            {
+              "word": "saved",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2600,
+              "endMs": 2940
+            },
+            {
+              "word": "their",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2940,
+              "endMs": 3180
+            },
+            {
+              "word": "classroom",
+              "charStart": 51,
+              "charEnd": 60,
+              "startMs": 3180,
+              "endMs": 3620
+            },
+            {
+              "word": "plant",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 3620,
+              "endMs": 4040
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun이 교실에 들어왔을 때 화분의 잎은 어떤 모습이었나요?",
+      "type": "mc",
+      "options": [
+        "밝고 초록빛이었다",
+        "축 늘어지고 노랗게 변해 있었다",
+        "꽃이 활짝 피어 있었다",
+        "이미 물이 가득 있었다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "잎이 drooping(축 늘어지고) 노랗게 변해 있어서 Jun이 슬펐다고 했어요."
+    },
+    {
+      "question_ko": "박 선생님이 화분을 창가 쪽으로 옮긴 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "바람이 잘 통하도록",
+        "햇빛을 더 받게 하려고",
+        "물을 주기 편하게",
+        "Jun 자리에서 잘 보이도록"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "식물은 빛으로 양분을 만들기 때문에 햇빛이 더 필요하다고 선생님이 설명했어요."
+    },
+    {
+      "question_ko": "Jun과 Mina가 화분에 물을 줄 때 어떻게 협력했나요?",
+      "type": "mc",
+      "options": [
+        "Jun이 물을 붓고 Mina가 화분을 잡아 주었다",
+        "Mina가 물을 붓고 Jun이 창문을 열었다",
+        "둘이 동시에 물뿌리개를 들었다",
+        "선생님이 물을 주는 동안 둘이 지켜봤다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Jun이 물을 부을 때 Mina가 화분을 꼭 잡아 주었다고 나와 있어요."
+    },
+    {
+      "question_ko": "다음 날 아침 화분을 확인한 Jun이 기분이 좋아진 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "꽃이 새로 피어났기 때문에",
+        "선생님이 칭찬해 주셔서",
+        "잎 하나가 이미 꼿꼿이 서 있었기 때문에",
+        "Mina가 간식을 가져와서"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "잎 하나가 이미 꼿꼿이 서 있는 것을 보고 Jun이 미소 지었다고 했어요."
+    },
+    {
+      "question_ko": "박 선생님이 물 주기 표를 만든 까닭은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "수업 계획에 포함하려고",
+        "화분이 다시는 마르지 않도록",
+        "Jun과 Mina에게 점수를 주려고",
+        "교장 선생님이 시켜서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "화분이 다시 마르지 않도록 물 주기 표를 만들었다고 나와 있어요."
+    }
+  ]
+}

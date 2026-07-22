@@ -1,0 +1,2932 @@
+{
+  "slug": "the-bridge-of-fireflies",
+  "title": "The Bridge of Fireflies",
+  "title_ko": "반딧불이 다리",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "강을 사이에 둔 두 아이가, 여름밤 반딧불이가 만든 빛의 다리로 다시 만나는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Mia lived on the west bank of the wide river.",
+          "translation_ko": "미아는 넓은 강의 서쪽 둑에 살았다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 480,
+              "endMs": 1000
+            },
+            {
+              "word": "lived",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 1000,
+              "endMs": 1420
+            },
+            {
+              "word": "on",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1420,
+              "endMs": 1620
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "west",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "bank",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 2080,
+              "endMs": 2340
+            },
+            {
+              "word": "of",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2560,
+              "endMs": 2740
+            },
+            {
+              "word": "wide",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2740,
+              "endMs": 3020
+            },
+            {
+              "word": "river",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 3020,
+              "endMs": 3240
+            }
+          ]
+        },
+        {
+          "text": "Every evening she watched the far shore glow softly.",
+          "translation_ko": "매일 저녁 그녀는 먼 강가가 부드럽게 빛나는 걸 바라봤다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "evening",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 360,
+              "endMs": 820
+            },
+            {
+              "word": "she",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "watched",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "far",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "word": "shore",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2400,
+              "endMs": 2680
+            },
+            {
+              "word": "glow",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2680,
+              "endMs": 3000
+            },
+            {
+              "word": "softly",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3000,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "Somewhere across the water, her best friend Kai lived.",
+          "translation_ko": "강 건너 어딘가에, 가장 친한 친구 카이가 살고 있었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Somewhere",
+              "charStart": 0,
+              "charEnd": 9,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "across",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "water",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "her",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2120
+            },
+            {
+              "word": "best",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2120,
+              "endMs": 2480
+            },
+            {
+              "word": "friend",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2480,
+              "endMs": 2780
+            },
+            {
+              "word": "Kai",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2780,
+              "endMs": 3240
+            },
+            {
+              "word": "lived",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3240,
+              "endMs": 3800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The river was too wild to cross by boat.",
+          "translation_ko": "강은 배로 건너기엔 너무 거칠었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "river",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 460
+            },
+            {
+              "word": "was",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "too",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "wild",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "to",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1740
+            },
+            {
+              "word": "cross",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 1980
+            },
+            {
+              "word": "by",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 1980,
+              "endMs": 2260
+            },
+            {
+              "word": "boat",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2260,
+              "endMs": 2480
+            }
+          ]
+        },
+        {
+          "text": "The old bridge had broken in last winter's floods.",
+          "translation_ko": "오래된 다리는 지난겨울 홍수에 무너져 버렸다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "old",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 720,
+              "endMs": 1100
+            },
+            {
+              "word": "bridge",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "had",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "broken",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1760,
+              "endMs": 2020
+            },
+            {
+              "word": "in",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2020,
+              "endMs": 2340
+            },
+            {
+              "word": "last",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2340,
+              "endMs": 2660
+            },
+            {
+              "word": "winter's",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2660,
+              "endMs": 3380
+            },
+            {
+              "word": "floods",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3380,
+              "endMs": 3380
+            }
+          ]
+        },
+        {
+          "text": "Kai and Mia had not seen each other for months.",
+          "translation_ko": "카이와 미아는 몇 달 동안 서로를 보지 못했다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Kai",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 980
+            },
+            {
+              "word": "Mia",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "had",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1300,
+              "endMs": 1740
+            },
+            {
+              "word": "not",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1740,
+              "endMs": 2080
+            },
+            {
+              "word": "seen",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "each",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "other",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2480,
+              "endMs": 2740
+            },
+            {
+              "word": "for",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2740,
+              "endMs": 3060
+            },
+            {
+              "word": "months",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 3060,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One hot July evening Mia sat at the river's edge.",
+          "translation_ko": "뜨거운 7월 어느 저녁, 미아는 강가에 앉았다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "hot",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 740
+            },
+            {
+              "word": "July",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1040
+            },
+            {
+              "word": "evening",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1520
+            },
+            {
+              "word": "Mia",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1980,
+              "endMs": 2060
+            },
+            {
+              "word": "sat",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2060,
+              "endMs": 2460
+            },
+            {
+              "word": "at",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "river's",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2820,
+              "endMs": 3320
+            },
+            {
+              "word": "edge",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3320,
+              "endMs": 3380
+            }
+          ]
+        },
+        {
+          "text": "She pressed a note into a glass bottle and sealed it.",
+          "translation_ko": "그녀는 쪽지를 유리병에 넣고 단단히 막았다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "pressed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1220
+            },
+            {
+              "word": "note",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1300
+            },
+            {
+              "word": "into",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1600
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "glass",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "bottle",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2460
+            },
+            {
+              "word": "and",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2460,
+              "endMs": 3260
+            },
+            {
+              "word": "sealed",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3260,
+              "endMs": 3480
+            },
+            {
+              "word": "it",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 3480,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "\"I miss you, Kai,\" she whispered, and let it go.",
+          "translation_ko": "\"보고 싶어, 카이.\" 그녀는 속삭이며 병을 강에 띄웠다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "miss",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 400
+            },
+            {
+              "word": "you",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 600
+            },
+            {
+              "word": "Kai",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 600,
+              "endMs": 1440
+            },
+            {
+              "word": "she",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1600
+            },
+            {
+              "word": "whispered",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1600,
+              "endMs": 2040
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2460
+            },
+            {
+              "word": "let",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2460,
+              "endMs": 2580
+            },
+            {
+              "word": "it",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2580,
+              "endMs": 2720
+            },
+            {
+              "word": "go",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2720,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the east bank Kai caught the bottle the next morning.",
+          "translation_ko": "동쪽 둑에서 카이는 다음 날 아침 그 병을 건져 올렸다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "east",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "bank",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "Kai",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1760,
+              "endMs": 1800
+            },
+            {
+              "word": "caught",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1800,
+              "endMs": 2120
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2120,
+              "endMs": 2340
+            },
+            {
+              "word": "bottle",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2580
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2580,
+              "endMs": 2820
+            },
+            {
+              "word": "next",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2820,
+              "endMs": 3160
+            },
+            {
+              "word": "morning",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3160,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "He read the note and felt a sharp ache in his chest.",
+          "translation_ko": "그는 쪽지를 읽고 가슴속에 날카로운 아픔을 느꼈다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "read",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 420
+            },
+            {
+              "word": "the",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 900
+            },
+            {
+              "word": "note",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 900
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1520
+            },
+            {
+              "word": "felt",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1680
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "sharp",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "ache",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "in",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "his",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 2900
+            },
+            {
+              "word": "chest",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2900,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "\"I will find a way to reach you,\" he promised quietly.",
+          "translation_ko": "\"꼭 네게 닿는 방법을 찾을게.\" 그는 조용히 다짐했다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "will",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "find",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 860
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1040
+            },
+            {
+              "word": "way",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1200
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "reach",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "you",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 2360
+            },
+            {
+              "word": "he",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2360,
+              "endMs": 2480
+            },
+            {
+              "word": "promised",
+              "charStart": 37,
+              "charEnd": 45,
+              "startMs": 2480,
+              "endMs": 2860
+            },
+            {
+              "word": "quietly",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 2860,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That night the air smelled sweet with summer grass.",
+          "translation_ko": "그날 밤 공기에는 여름 풀의 달콤한 향기가 배어 있었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "night",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 600
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 820
+            },
+            {
+              "word": "air",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 820,
+              "endMs": 1120
+            },
+            {
+              "word": "smelled",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "sweet",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1400,
+              "endMs": 1820
+            },
+            {
+              "word": "with",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1820,
+              "endMs": 2260
+            },
+            {
+              "word": "summer",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "grass",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2500,
+              "endMs": 2840
+            }
+          ]
+        },
+        {
+          "text": "A single firefly blinked near Mia's feet, then another.",
+          "translation_ko": "미아의 발 근처에서 반딧불이 하나가 깜빡였고, 이어 또 하나가 나타났다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "single",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 640
+            },
+            {
+              "word": "firefly",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 1280
+            },
+            {
+              "word": "blinked",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1800
+            },
+            {
+              "word": "near",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "Mia's",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1980,
+              "endMs": 2420
+            },
+            {
+              "word": "feet",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2420,
+              "endMs": 2580
+            },
+            {
+              "word": "then",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 3200,
+              "endMs": 3440
+            },
+            {
+              "word": "another",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 3440,
+              "endMs": 3940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Hundreds of fireflies rose from the reeds along the bank.",
+          "translation_ko": "수백 마리의 반딧불이가 강둑의 갈대 사이에서 떠올랐다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Hundreds",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "of",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "fireflies",
+              "charStart": 12,
+              "charEnd": 21,
+              "startMs": 920,
+              "endMs": 1480
+            },
+            {
+              "word": "rose",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1860
+            },
+            {
+              "word": "from",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2480
+            },
+            {
+              "word": "reeds",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2480,
+              "endMs": 2540
+            },
+            {
+              "word": "along",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2540,
+              "endMs": 2820
+            },
+            {
+              "word": "the",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2820,
+              "endMs": 3040
+            },
+            {
+              "word": "bank",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3040,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "They drifted toward the center of the river, glowing gold.",
+          "translation_ko": "그것들은 금빛으로 빛나며 강 한가운데로 떠내려갔다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "drifted",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 260,
+              "endMs": 720
+            },
+            {
+              "word": "toward",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 720,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "center",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "of",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1340,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "river",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 1680,
+              "endMs": 1860
+            },
+            {
+              "word": "glowing",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2560,
+              "endMs": 2720
+            },
+            {
+              "word": "gold",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2720,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "Mia held her breath as the light grew and grew.",
+          "translation_ko": "미아는 빛이 점점 커지는 것을 보며 숨을 참았다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "held",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "her",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "breath",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "as",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "light",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 1980
+            },
+            {
+              "word": "grew",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2320
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2320,
+              "endMs": 2680
+            },
+            {
+              "word": "grew",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2680,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The fireflies wove together into a narrow glowing path.",
+          "translation_ko": "반딧불이들이 서로 엮여 좁고 빛나는 길을 만들었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "fireflies",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 380,
+              "endMs": 1020
+            },
+            {
+              "word": "wove",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1340
+            },
+            {
+              "word": "together",
+              "charStart": 19,
+              "charEnd": 27,
+              "startMs": 1340,
+              "endMs": 1720
+            },
+            {
+              "word": "into",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1720,
+              "endMs": 2020
+            },
+            {
+              "word": "a",
+              "charStart": 33,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2560
+            },
+            {
+              "word": "narrow",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2560,
+              "endMs": 2560
+            },
+            {
+              "word": "glowing",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2860,
+              "endMs": 2920
+            },
+            {
+              "word": "path",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2920,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "It stretched from Mia's bank all the way to Kai's shore.",
+          "translation_ko": "그 길은 미아의 둑에서 카이의 둑까지 곧게 뻗었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "stretched",
+              "charStart": 3,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "from",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "Mia's",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 940,
+              "endMs": 1440
+            },
+            {
+              "word": "bank",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1600
+            },
+            {
+              "word": "all",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1600,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1980,
+              "endMs": 2120
+            },
+            {
+              "word": "way",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2280
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2620
+            },
+            {
+              "word": "Kai's",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2620,
+              "endMs": 3060
+            },
+            {
+              "word": "shore",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3060,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "She gasped and whispered, \"A bridge — a bridge of light!\"",
+          "translation_ko": "그녀는 숨을 삼키며 속삭였다. \"다리잖아 — 빛으로 만든 다리야!\"",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "gasped",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 820
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1240
+            },
+            {
+              "word": "whispered",
+              "charStart": 15,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1880
+            },
+            {
+              "word": "A",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1940,
+              "endMs": 2320
+            },
+            {
+              "word": "bridge",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2320,
+              "endMs": 2460
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2880,
+              "endMs": 3220
+            },
+            {
+              "word": "bridge",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 3220,
+              "endMs": 3220
+            },
+            {
+              "word": "of",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3220,
+              "endMs": 3440
+            },
+            {
+              "word": "light",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3440,
+              "endMs": 3660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Across the river Kai was already staring in amazement.",
+          "translation_ko": "강 건너편에서 카이도 이미 놀라움으로 바라보고 있었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Across",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 780
+            },
+            {
+              "word": "river",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1020
+            },
+            {
+              "word": "Kai",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "was",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "already",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 2160
+            },
+            {
+              "word": "staring",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2160,
+              "endMs": 2580
+            },
+            {
+              "word": "in",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 2780
+            },
+            {
+              "word": "amazement",
+              "charStart": 44,
+              "charEnd": 53,
+              "startMs": 2780,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "\"The fireflies!\" he shouted, his voice shaking with joy.",
+          "translation_ko": "\"반딧불이들이야!\" 그가 기쁨으로 떨리는 목소리로 외쳤다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "fireflies",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 320,
+              "endMs": 1260
+            },
+            {
+              "word": "he",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1560
+            },
+            {
+              "word": "shouted",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1880
+            },
+            {
+              "word": "his",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2240,
+              "endMs": 2420
+            },
+            {
+              "word": "voice",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2700
+            },
+            {
+              "word": "shaking",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2700,
+              "endMs": 3120
+            },
+            {
+              "word": "with",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3120,
+              "endMs": 3640
+            },
+            {
+              "word": "joy",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3640,
+              "endMs": 3720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mia stepped onto the bridge, her heart pounding fast.",
+          "translation_ko": "미아는 심장이 빠르게 뛰는 채로 다리 위에 발을 올렸다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "stepped",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 900
+            },
+            {
+              "word": "onto",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "bridge",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1340,
+              "endMs": 1680
+            },
+            {
+              "word": "her",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2180,
+              "endMs": 2420
+            },
+            {
+              "word": "heart",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2640
+            },
+            {
+              "word": "pounding",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 3120
+            },
+            {
+              "word": "fast",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3120,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "Each step felt warm, as if the fireflies welcomed her.",
+          "translation_ko": "한 걸음마다 따뜻하게 느껴졌다. 마치 반딧불이들이 환영하는 것 같았다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "step",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 760
+            },
+            {
+              "word": "felt",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1160
+            },
+            {
+              "word": "warm",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1580
+            },
+            {
+              "word": "as",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1900,
+              "endMs": 2300
+            },
+            {
+              "word": "if",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2300,
+              "endMs": 2440
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2440,
+              "endMs": 2680
+            },
+            {
+              "word": "fireflies",
+              "charStart": 31,
+              "charEnd": 40,
+              "startMs": 2680,
+              "endMs": 3320
+            },
+            {
+              "word": "welcomed",
+              "charStart": 41,
+              "charEnd": 49,
+              "startMs": 3320,
+              "endMs": 3820
+            },
+            {
+              "word": "her",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3820,
+              "endMs": 4080
+            }
+          ]
+        },
+        {
+          "text": "She walked slowly, afraid the light might disappear.",
+          "translation_ko": "그녀는 빛이 사라질까 봐 조심조심 걸었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "walked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "slowly",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 1180
+            },
+            {
+              "word": "afraid",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2020,
+              "endMs": 2260
+            },
+            {
+              "word": "light",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "might",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2480,
+              "endMs": 2700
+            },
+            {
+              "word": "disappear",
+              "charStart": 42,
+              "charEnd": 51,
+              "startMs": 2700,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Kai ran to meet her at the center of the bridge.",
+          "translation_ko": "카이는 다리 한가운데에서 그녀를 맞이하러 달려갔다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Kai",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 960
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "meet",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1380
+            },
+            {
+              "word": "her",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1600
+            },
+            {
+              "word": "at",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1600,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "center",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2240
+            },
+            {
+              "word": "of",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2240,
+              "endMs": 2480
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2480,
+              "endMs": 2540
+            },
+            {
+              "word": "bridge",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2540,
+              "endMs": 2840
+            }
+          ]
+        },
+        {
+          "text": "They stood together, surrounded by thousands of soft lights.",
+          "translation_ko": "둘은 수천 개의 부드러운 빛에 둘러싸인 채 나란히 섰다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "stood",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "together",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 920,
+              "endMs": 1480
+            },
+            {
+              "word": "surrounded",
+              "charStart": 21,
+              "charEnd": 31,
+              "startMs": 2180,
+              "endMs": 2360
+            },
+            {
+              "word": "by",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2800
+            },
+            {
+              "word": "thousands",
+              "charStart": 35,
+              "charEnd": 44,
+              "startMs": 2800,
+              "endMs": 3160
+            },
+            {
+              "word": "of",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3160,
+              "endMs": 3520
+            },
+            {
+              "word": "soft",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3520,
+              "endMs": 3760
+            },
+            {
+              "word": "lights",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3760,
+              "endMs": 4080
+            }
+          ]
+        },
+        {
+          "text": "\"I knew you would come,\" Kai said with a wide smile.",
+          "translation_ko": "\"네가 올 줄 알았어.\" 카이가 활짝 웃으며 말했다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "knew",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "you",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 860
+            },
+            {
+              "word": "would",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "come",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1060,
+              "endMs": 2180
+            },
+            {
+              "word": "Kai",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2180,
+              "endMs": 2180
+            },
+            {
+              "word": "said",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2180,
+              "endMs": 2460
+            },
+            {
+              "word": "with",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2460,
+              "endMs": 2620
+            },
+            {
+              "word": "a",
+              "charStart": 39,
+              "charEnd": 40,
+              "startMs": 2620,
+              "endMs": 2820
+            },
+            {
+              "word": "wide",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2820,
+              "endMs": 3140
+            },
+            {
+              "word": "smile",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3140,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They crossed to the east bank and talked until dawn.",
+          "translation_ko": "둘은 동쪽 둑으로 건너가 새벽이 될 때까지 이야기를 나눴다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "crossed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 680
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1000
+            },
+            {
+              "word": "east",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "bank",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1680,
+              "endMs": 2200
+            },
+            {
+              "word": "talked",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2200,
+              "endMs": 2500
+            },
+            {
+              "word": "until",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2500,
+              "endMs": 2840
+            },
+            {
+              "word": "dawn",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2840,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "Kai shared his drawings of the river and its birds.",
+          "translation_ko": "카이는 강과 새들을 그린 자신의 그림들을 보여 줬다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Kai",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "shared",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 920
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "drawings",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1640
+            },
+            {
+              "word": "of",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2160
+            },
+            {
+              "word": "river",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2160,
+              "endMs": 2320
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2860
+            },
+            {
+              "word": "its",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2860,
+              "endMs": 3160
+            },
+            {
+              "word": "birds",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3160,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "Mia told him every story she had saved for months.",
+          "translation_ko": "미아는 몇 달 동안 간직해 온 이야기를 모두 들려줬다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "told",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "him",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 840
+            },
+            {
+              "word": "every",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 840,
+              "endMs": 1360
+            },
+            {
+              "word": "story",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1620
+            },
+            {
+              "word": "she",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "had",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "saved",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "for",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2360,
+              "endMs": 2960
+            },
+            {
+              "word": "months",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2960,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We must keep the river clean,\" Mia said seriously.",
+          "translation_ko": "\"강을 깨끗하게 지켜야 해.\" 미아가 진지하게 말했다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "must",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 720
+            },
+            {
+              "word": "keep",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1280
+            },
+            {
+              "word": "river",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1440
+            },
+            {
+              "word": "clean",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1940
+            },
+            {
+              "word": "Mia",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2320,
+              "endMs": 2400
+            },
+            {
+              "word": "said",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2400,
+              "endMs": 2760
+            },
+            {
+              "word": "seriously",
+              "charStart": 41,
+              "charEnd": 50,
+              "startMs": 3200,
+              "endMs": 3560
+            }
+          ]
+        },
+        {
+          "text": "\"The fireflies need pure water and fresh air to survive.\"",
+          "translation_ko": "\"반딧불이들이 살아남으려면 깨끗한 물과 신선한 공기가 필요해.\"",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 940
+            },
+            {
+              "word": "fireflies",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1440
+            },
+            {
+              "word": "need",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "pure",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1720,
+              "endMs": 2040
+            },
+            {
+              "word": "water",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2040,
+              "endMs": 2360
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2360,
+              "endMs": 2720
+            },
+            {
+              "word": "fresh",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2720,
+              "endMs": 3000
+            },
+            {
+              "word": "air",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3000,
+              "endMs": 3260
+            },
+            {
+              "word": "to",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3260,
+              "endMs": 3600
+            },
+            {
+              "word": "survive",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3600,
+              "endMs": 4000
+            }
+          ]
+        },
+        {
+          "text": "Kai nodded firmly. \"Then we will protect it together.\"",
+          "translation_ko": "카이는 단호하게 고개를 끄덕였다. \"그럼 우리 함께 지키자.\"",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Kai",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 1320
+            },
+            {
+              "word": "firmly",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1320,
+              "endMs": 1720
+            },
+            {
+              "word": "Then",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2480,
+              "endMs": 2720
+            },
+            {
+              "word": "we",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2720,
+              "endMs": 2880
+            },
+            {
+              "word": "will",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2880,
+              "endMs": 3160
+            },
+            {
+              "word": "protect",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 3160,
+              "endMs": 3500
+            },
+            {
+              "word": "it",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 3500,
+              "endMs": 3960
+            },
+            {
+              "word": "together",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 3960,
+              "endMs": 4260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "As the sun rose, the firefly bridge slowly faded away.",
+          "translation_ko": "해가 떠오르자 반딧불이 다리는 천천히 사라졌다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "As",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 620
+            },
+            {
+              "word": "sun",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "rose",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1960,
+              "endMs": 2220
+            },
+            {
+              "word": "firefly",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 2220,
+              "endMs": 2700
+            },
+            {
+              "word": "bridge",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "slowly",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 3080,
+              "endMs": 3620
+            },
+            {
+              "word": "faded",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3620,
+              "endMs": 3980
+            },
+            {
+              "word": "away",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3980,
+              "endMs": 4340
+            }
+          ]
+        },
+        {
+          "text": "But the two friends stood side by side, no longer apart.",
+          "translation_ko": "하지만 두 친구는 더 이상 떨어지지 않고 나란히 서 있었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 880
+            },
+            {
+              "word": "two",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 1280
+            },
+            {
+              "word": "friends",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1280,
+              "endMs": 1660
+            },
+            {
+              "word": "stood",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 2020
+            },
+            {
+              "word": "side",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2020,
+              "endMs": 2460
+            },
+            {
+              "word": "by",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2460,
+              "endMs": 2700
+            },
+            {
+              "word": "side",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2700,
+              "endMs": 3120
+            },
+            {
+              "word": "no",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 3560,
+              "endMs": 3740
+            },
+            {
+              "word": "longer",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3740,
+              "endMs": 4080
+            },
+            {
+              "word": "apart",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 4080,
+              "endMs": 4540
+            }
+          ]
+        },
+        {
+          "text": "They knew the fireflies would return the next summer night.",
+          "translation_ko": "둘은 반딧불이들이 다음 여름밤에 다시 돌아올 것을 알고 있었다.",
+          "audio": "/seed/the-bridge-of-fireflies/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "knew",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "fireflies",
+              "charStart": 14,
+              "charEnd": 23,
+              "startMs": 880,
+              "endMs": 1500
+            },
+            {
+              "word": "would",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1760
+            },
+            {
+              "word": "return",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 1760,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2140,
+              "endMs": 2340
+            },
+            {
+              "word": "next",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2340,
+              "endMs": 2660
+            },
+            {
+              "word": "summer",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2660,
+              "endMs": 2880
+            },
+            {
+              "word": "night",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 2880,
+              "endMs": 3180
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "미아와 카이가 서로 만나지 못했던 이유는 무엇인가?",
+      "type": "mc",
+      "options": [
+        "반딧불이가 길을 막았기 때문에",
+        "오래된 다리가 홍수에 무너졌기 때문에",
+        "강에 배가 너무 많았기 때문에",
+        "카이가 다른 마을로 이사 갔기 때문에"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "지난겨울 홍수로 오래된 다리가 무너져서 강을 건널 수 없었다."
+    },
+    {
+      "question_ko": "미아가 강에 유리병을 띄운 이유는 무엇인가?",
+      "type": "mc",
+      "options": [
+        "강을 탐험하기 위해서",
+        "카이에게 편지를 전달하려고",
+        "반딧불이를 잡으려고",
+        "강이 깨끗한지 확인하려고"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미아는 카이에게 \"보고 싶다\"는 쪽지를 유리병에 담아 강에 띄웠다."
+    },
+    {
+      "question_ko": "반딧불이들이 만든 것은 무엇인가?",
+      "type": "mc",
+      "options": [
+        "빛으로 만든 다리",
+        "황금 배",
+        "빛나는 구름",
+        "반짝이는 그물"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "반딧불이들이 서로 엮여 강을 가로지르는 빛의 다리를 만들었다."
+    },
+    {
+      "question_ko": "다리 한가운데에서 카이가 미아에게 한 말은 무엇인가?",
+      "type": "mc",
+      "options": [
+        "\"강이 너무 차가워.\"",
+        "\"왜 이렇게 늦었어?\"",
+        "\"내가 올 줄 알았어.\"",
+        "\"네가 올 줄 알았어.\""
+      ],
+      "answerIndex": 3,
+      "explain_ko": "카이는 미아에게 \"네가 올 줄 알았어\"라고 활짝 웃으며 말했다."
+    },
+    {
+      "question_ko": "미아가 강을 깨끗하게 지켜야 한다고 말한 이유는 무엇인가?",
+      "type": "mc",
+      "options": [
+        "물고기들이 강을 더럽히기 때문에",
+        "카이의 그림이 더러워지기 때문에",
+        "반딧불이들이 깨끗한 환경이 필요하기 때문에",
+        "마을 사람들이 강물을 마시기 때문에"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "미아는 반딧불이가 살아남으려면 깨끗한 물과 신선한 공기가 필요하다고 설명했다."
+    }
+  ]
+}

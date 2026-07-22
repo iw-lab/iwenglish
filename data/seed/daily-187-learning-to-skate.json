@@ -1,0 +1,1690 @@
+{
+  "slug": "daily-187-learning-to-skate",
+  "title": "Learning to Skate",
+  "title_ko": "롤러스케이트 배우기",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "Jun이 롤러스케이트장에서 여러 번 넘어지지만 Mina의 응원 덕분에 다시 일어나 스케이트를 배워가는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina went to the roller skating rink on Saturday.",
+          "translation_ko": "준과 미나는 토요일에 롤러스케이트장에 갔어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "went",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1920
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2060,
+              "endMs": 2300
+            },
+            {
+              "word": "roller",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "skating",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2520,
+              "endMs": 2880
+            },
+            {
+              "word": "rink",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2880,
+              "endMs": 3240
+            },
+            {
+              "word": "on",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 3240,
+              "endMs": 3620
+            },
+            {
+              "word": "Saturday",
+              "charStart": 48,
+              "charEnd": 56,
+              "startMs": 3620,
+              "endMs": 3940
+            }
+          ]
+        },
+        {
+          "text": "Jun had never skated before, so he felt a little nervous.",
+          "translation_ko": "준은 스케이트를 한 번도 타본 적이 없어서 조금 떨렸어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 740
+            },
+            {
+              "word": "never",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "skated",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "before",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1900
+            },
+            {
+              "word": "so",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2420
+            },
+            {
+              "word": "he",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2600
+            },
+            {
+              "word": "felt",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "little",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2980,
+              "endMs": 3140
+            },
+            {
+              "word": "nervous",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 3140,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina laced up her skates quickly and smiled at Jun.",
+          "translation_ko": "미나는 스케이트 끈을 빠르게 묶고 준에게 미소를 지었어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "laced",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 840
+            },
+            {
+              "word": "her",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1060
+            },
+            {
+              "word": "skates",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1060,
+              "endMs": 1380
+            },
+            {
+              "word": "quickly",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1380,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1860,
+              "endMs": 2420
+            },
+            {
+              "word": "smiled",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2420,
+              "endMs": 2720
+            },
+            {
+              "word": "at",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2720,
+              "endMs": 2960
+            },
+            {
+              "word": "Jun",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2960,
+              "endMs": 3240
+            }
+          ]
+        },
+        {
+          "text": "\"Don't worry. It's easier than it looks,\" she said.",
+          "translation_ko": "\"걱정하지 마. 생각보다 쉬워,\" 미나가 말했어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Don't",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "worry",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 780
+            },
+            {
+              "word": "It's",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "easier",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1840
+            },
+            {
+              "word": "than",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2040
+            },
+            {
+              "word": "it",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2040,
+              "endMs": 2280
+            },
+            {
+              "word": "looks",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2800
+            },
+            {
+              "word": "she",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2800,
+              "endMs": 2940
+            },
+            {
+              "word": "said",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2940,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun stepped onto the rink and held the railing tightly.",
+          "translation_ko": "준은 링크 위로 나가 난간을 꽉 잡았어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "stepped",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 720,
+              "endMs": 1080
+            },
+            {
+              "word": "onto",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1740
+            },
+            {
+              "word": "rink",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1740,
+              "endMs": 1800
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 2620
+            },
+            {
+              "word": "held",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2620,
+              "endMs": 2760
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2760,
+              "endMs": 3000
+            },
+            {
+              "word": "railing",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 3000,
+              "endMs": 3380
+            },
+            {
+              "word": "tightly",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 3380,
+              "endMs": 3720
+            }
+          ]
+        },
+        {
+          "text": "His legs shook a little, but he tried to move forward.",
+          "translation_ko": "다리가 조금 떨렸지만 앞으로 나아가려고 했어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "legs",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "shook",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "little",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1040,
+              "endMs": 1200
+            },
+            {
+              "word": "but",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1700
+            },
+            {
+              "word": "he",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "tried",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2060
+            },
+            {
+              "word": "to",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2060,
+              "endMs": 2380
+            },
+            {
+              "word": "move",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2380,
+              "endMs": 2480
+            },
+            {
+              "word": "forward",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 2480,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Suddenly Jun slipped and fell on the floor.",
+          "translation_ko": "갑자기 준이 미끄러져서 바닥에 넘어졌어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Suddenly",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "Jun",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1460,
+              "endMs": 1680
+            },
+            {
+              "word": "slipped",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1680,
+              "endMs": 2060
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2060,
+              "endMs": 2740
+            },
+            {
+              "word": "fell",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2740,
+              "endMs": 2780
+            },
+            {
+              "word": "on",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2780,
+              "endMs": 3040
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 3040,
+              "endMs": 3160
+            },
+            {
+              "word": "floor",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 3160,
+              "endMs": 3360
+            }
+          ]
+        },
+        {
+          "text": "\"Ouch!\" he cried, rubbing his knee.",
+          "translation_ko": "\"아야!\" 준이 무릎을 문지르며 외쳤어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Ouch",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "he",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 980
+            },
+            {
+              "word": "cried",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "rubbing",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1940,
+              "endMs": 1940
+            },
+            {
+              "word": "his",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "knee",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina skated over quickly and held out her hand.",
+          "translation_ko": "미나가 빠르게 다가와 손을 내밀었어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "skated",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 960
+            },
+            {
+              "word": "over",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1320
+            },
+            {
+              "word": "quickly",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1320,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 2280
+            },
+            {
+              "word": "held",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2280,
+              "endMs": 2380
+            },
+            {
+              "word": "out",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2380,
+              "endMs": 2600
+            },
+            {
+              "word": "her",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 2780
+            },
+            {
+              "word": "hand",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2780,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "\"Are you okay? Everyone falls at first,\" she said gently.",
+          "translation_ko": "\"괜찮아? 처음에는 다들 넘어져,\" 미나가 부드럽게 말했어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Are",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "you",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 320
+            },
+            {
+              "word": "okay",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "Everyone",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1360,
+              "endMs": 1700
+            },
+            {
+              "word": "falls",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "at",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2000,
+              "endMs": 2280
+            },
+            {
+              "word": "first",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2580
+            },
+            {
+              "word": "she",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3140,
+              "endMs": 3320
+            },
+            {
+              "word": "said",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3320,
+              "endMs": 3520
+            },
+            {
+              "word": "gently",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3520,
+              "endMs": 3840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun took her hand and slowly stood up again.",
+          "translation_ko": "준은 미나의 손을 잡고 천천히 다시 일어섰어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "took",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "her",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "hand",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1460,
+              "endMs": 2100
+            },
+            {
+              "word": "slowly",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 2100,
+              "endMs": 2460
+            },
+            {
+              "word": "stood",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2460,
+              "endMs": 2760
+            },
+            {
+              "word": "up",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2760,
+              "endMs": 2940
+            },
+            {
+              "word": "again",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "\"I won't give up. I want to learn,\" he said with a firm voice.",
+          "translation_ko": "\"포기하지 않을 거야. 배우고 싶어,\" 준이 단단한 목소리로 말했어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "won't",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 480
+            },
+            {
+              "word": "give",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 680
+            },
+            {
+              "word": "up",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 960
+            },
+            {
+              "word": "I",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1560
+            },
+            {
+              "word": "want",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1560,
+              "endMs": 1760
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "learn",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2480
+            },
+            {
+              "word": "he",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2480,
+              "endMs": 2680
+            },
+            {
+              "word": "said",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "with",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 3280
+            },
+            {
+              "word": "a",
+              "charStart": 49,
+              "charEnd": 50,
+              "startMs": 3280,
+              "endMs": 3520
+            },
+            {
+              "word": "firm",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3520,
+              "endMs": 3700
+            },
+            {
+              "word": "voice",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3700,
+              "endMs": 4100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina showed him how to bend his knees and balance.",
+          "translation_ko": "미나는 무릎을 구부리고 균형 잡는 방법을 알려줬어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "showed",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "him",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "how",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1600
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1600,
+              "endMs": 1960
+            },
+            {
+              "word": "bend",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1960,
+              "endMs": 2020
+            },
+            {
+              "word": "his",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "knees",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2560
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2560,
+              "endMs": 2940
+            },
+            {
+              "word": "balance",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2940,
+              "endMs": 3360
+            }
+          ]
+        },
+        {
+          "text": "Jun practiced slowly, moving one foot at a time.",
+          "translation_ko": "준은 한 번에 한 발씩 움직이며 천천히 연습했어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "practiced",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 460,
+              "endMs": 1040
+            },
+            {
+              "word": "slowly",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1600
+            },
+            {
+              "word": "moving",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 2100,
+              "endMs": 2120
+            },
+            {
+              "word": "one",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2600
+            },
+            {
+              "word": "foot",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2600,
+              "endMs": 2820
+            },
+            {
+              "word": "at",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2820,
+              "endMs": 3220
+            },
+            {
+              "word": "a",
+              "charStart": 41,
+              "charEnd": 42,
+              "startMs": 3220,
+              "endMs": 3380
+            },
+            {
+              "word": "time",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3380,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He fell two more times, but each time he got back up.",
+          "translation_ko": "두 번 더 넘어졌지만 그때마다 다시 일어났어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "fell",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "two",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 960
+            },
+            {
+              "word": "more",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "times",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1760
+            },
+            {
+              "word": "but",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 2100,
+              "endMs": 2260
+            },
+            {
+              "word": "each",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2260,
+              "endMs": 2620
+            },
+            {
+              "word": "time",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2620,
+              "endMs": 3020
+            },
+            {
+              "word": "he",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 3020,
+              "endMs": 3300
+            },
+            {
+              "word": "got",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3300,
+              "endMs": 3500
+            },
+            {
+              "word": "back",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3500,
+              "endMs": 3780
+            },
+            {
+              "word": "up",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 3780,
+              "endMs": 4000
+            }
+          ]
+        },
+        {
+          "text": "Mina cheered him on every time he tried again.",
+          "translation_ko": "미나는 준이 다시 도전할 때마다 응원해 줬어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "cheered",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 860
+            },
+            {
+              "word": "him",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1080
+            },
+            {
+              "word": "on",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1080,
+              "endMs": 1420
+            },
+            {
+              "word": "every",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1840
+            },
+            {
+              "word": "time",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "he",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "tried",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2320,
+              "endMs": 2580
+            },
+            {
+              "word": "again",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2580,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After an hour, Jun could skate around the rink without holding the railing.",
+          "translation_ko": "한 시간이 지나자 준은 난간을 잡지 않고 링크를 돌 수 있었어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "an",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 940
+            },
+            {
+              "word": "hour",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1040
+            },
+            {
+              "word": "Jun",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1620,
+              "endMs": 1620
+            },
+            {
+              "word": "could",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1940
+            },
+            {
+              "word": "skate",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "around",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2480,
+              "endMs": 2840
+            },
+            {
+              "word": "rink",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2840,
+              "endMs": 2860
+            },
+            {
+              "word": "without",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2860,
+              "endMs": 3400
+            },
+            {
+              "word": "holding",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 3400,
+              "endMs": 3700
+            },
+            {
+              "word": "the",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 3700,
+              "endMs": 4060
+            },
+            {
+              "word": "railing",
+              "charStart": 67,
+              "charEnd": 74,
+              "startMs": 4060,
+              "endMs": 4240
+            }
+          ]
+        },
+        {
+          "text": "He grinned and waved to Mina as he passed her.",
+          "translation_ko": "준은 미나를 지나치며 씩 웃고 손을 흔들었어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "grinned",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 740
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 740,
+              "endMs": 1460
+            },
+            {
+              "word": "waved",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1460,
+              "endMs": 1580
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1580,
+              "endMs": 1920
+            },
+            {
+              "word": "Mina",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1920,
+              "endMs": 2140
+            },
+            {
+              "word": "as",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2140,
+              "endMs": 2640
+            },
+            {
+              "word": "he",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2640,
+              "endMs": 2800
+            },
+            {
+              "word": "passed",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2800,
+              "endMs": 3080
+            },
+            {
+              "word": "her",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3080,
+              "endMs": 3280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"You did it, Jun! I knew you could,\" Mina shouted happily.",
+          "translation_ko": "\"해냈어, 준! 할 수 있을 줄 알았어,\" 미나가 기쁘게 외쳤어요.",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "did",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 800
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1160
+            },
+            {
+              "word": "Jun",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "I",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 2100,
+              "endMs": 2180
+            },
+            {
+              "word": "knew",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2180,
+              "endMs": 2380
+            },
+            {
+              "word": "you",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2380,
+              "endMs": 2600
+            },
+            {
+              "word": "could",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2600,
+              "endMs": 3040
+            },
+            {
+              "word": "Mina",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 3420,
+              "endMs": 3640
+            },
+            {
+              "word": "shouted",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 3640,
+              "endMs": 3960
+            },
+            {
+              "word": "happily",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 3960,
+              "endMs": 4340
+            }
+          ]
+        },
+        {
+          "text": "Jun laughed and said, \"Falling down is okay if you keep getting up.\"",
+          "translation_ko": "준이 웃으며 말했어요. \"계속 일어나면 넘어져도 괜찮아.\"",
+          "audio": "/seed/daily-187-learning-to-skate/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "laughed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 840
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "said",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "Falling",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2260
+            },
+            {
+              "word": "down",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "is",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2500,
+              "endMs": 2680
+            },
+            {
+              "word": "okay",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 3100
+            },
+            {
+              "word": "if",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 3100,
+              "endMs": 3440
+            },
+            {
+              "word": "you",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3440,
+              "endMs": 3600
+            },
+            {
+              "word": "keep",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3600,
+              "endMs": 3800
+            },
+            {
+              "word": "getting",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 3800,
+              "endMs": 4060
+            },
+            {
+              "word": "up",
+              "charStart": 64,
+              "charEnd": 66,
+              "startMs": 4060,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun이 롤러스케이트장에 가기 전에 어떤 기분이었나요?",
+      "type": "mc",
+      "options": [
+        "신이 나서 뛰어다녔어요.",
+        "긴장되고 떨렸어요.",
+        "화가 나서 가기 싫었어요.",
+        "졸려서 피곤했어요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 스케이트를 타본 적이 없어서 조금 nervous(긴장)했다고 했어요."
+    },
+    {
+      "question_ko": "Jun이 처음 링크에서 한 행동은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "바로 빠르게 달려나갔어요.",
+        "Mina에게 가르쳐 달라고 울었어요.",
+        "난간을 꽉 잡고 앞으로 나아가려 했어요.",
+        "무릎 보호대를 꺼냈어요."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Jun은 railing(난간)을 tightly(꽉) 잡고 앞으로 움직이려고 했어요."
+    },
+    {
+      "question_ko": "Mina는 Jun이 넘어졌을 때 뭐라고 했나요?",
+      "type": "mc",
+      "options": [
+        "\"조심하지 않았잖아!\"",
+        "\"집에 가자, 너무 힘들어.\"",
+        "\"처음에는 다들 넘어져.\"",
+        "\"내가 대신 해줄게.\""
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Mina는 \"Everyone falls at first(처음에는 다들 넘어져)\"라고 부드럽게 격려했어요."
+    },
+    {
+      "question_ko": "Jun이 한 시간 후에 할 수 있게 된 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "스케이트를 신고 달리기를 했어요.",
+        "난간 없이 링크를 혼자 돌 수 있었어요.",
+        "Mina보다 빠르게 달렸어요.",
+        "점프하는 기술을 배웠어요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 한 시간 만에 railing(난간) 없이 링크를 돌 수 있게 되었어요."
+    },
+    {
+      "question_ko": "이 이야기의 주요 교훈은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "스케이트는 위험하니까 배우지 않는 게 좋아요.",
+        "친구 없이는 아무것도 할 수 없어요.",
+        "넘어져도 계속 일어나면 할 수 있어요.",
+        "처음부터 잘해야 성공할 수 있어요."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Jun은 \"Falling down is okay if you keep getting up(계속 일어나면 넘어져도 괜찮아)\"라는 교훈을 배웠어요."
+    }
+  ]
+}

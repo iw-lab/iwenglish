@@ -1,0 +1,2612 @@
+{
+  "slug": "daily-199-the-seed-library",
+  "title": "The Seed Library",
+  "title_ko": "씨앗 도서관",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "준이와 미나가 선생님과 함께 씨앗을 나누는 특별한 도서관을 만들어 이웃들과 식물 키우는 기쁨을 나눠요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun walked into class and saw small paper packets on every desk.",
+          "translation_ko": "준이는 교실에 들어서다 책상마다 작은 종이 봉투가 놓인 걸 발견했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "walked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 760
+            },
+            {
+              "word": "into",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "class",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1900
+            },
+            {
+              "word": "saw",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "small",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2540
+            },
+            {
+              "word": "paper",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2540,
+              "endMs": 2820
+            },
+            {
+              "word": "packets",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2820,
+              "endMs": 3200
+            },
+            {
+              "word": "on",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 3200,
+              "endMs": 3460
+            },
+            {
+              "word": "every",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3460,
+              "endMs": 3840
+            },
+            {
+              "word": "desk",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3840,
+              "endMs": 4120
+            }
+          ]
+        },
+        {
+          "text": "\"What are these?\" he asked, picking one up.",
+          "translation_ko": "\"이게 뭐예요?\" 준이가 봉투를 들어 올리며 물었어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "are",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "these",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 600,
+              "endMs": 1440
+            },
+            {
+              "word": "he",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1800
+            },
+            {
+              "word": "asked",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1800,
+              "endMs": 2160
+            },
+            {
+              "word": "picking",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2680,
+              "endMs": 2860
+            },
+            {
+              "word": "one",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2860,
+              "endMs": 3100
+            },
+            {
+              "word": "up",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 3100,
+              "endMs": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park smiled and held up a tiny seed between her fingers.",
+          "translation_ko": "박 선생님이 손가락 사이에 작은 씨앗을 집어 들고 웃으며 말했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 640,
+              "endMs": 920
+            },
+            {
+              "word": "smiled",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1720
+            },
+            {
+              "word": "held",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1720,
+              "endMs": 1840
+            },
+            {
+              "word": "up",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 2060,
+              "endMs": 2160
+            },
+            {
+              "word": "tiny",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2520
+            },
+            {
+              "word": "seed",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2520,
+              "endMs": 2820
+            },
+            {
+              "word": "between",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2820,
+              "endMs": 3120
+            },
+            {
+              "word": "her",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3120,
+              "endMs": 3380
+            },
+            {
+              "word": "fingers",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3380,
+              "endMs": 3680
+            }
+          ]
+        },
+        {
+          "text": "\"Today we are going to start something special together,\" she said.",
+          "translation_ko": "\"오늘 우리 함께 특별한 걸 시작할 거예요.\"",
+          "audio": "/seed/daily-199-the-seed-library/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "we",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 780
+            },
+            {
+              "word": "are",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "going",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1460
+            },
+            {
+              "word": "start",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1640
+            },
+            {
+              "word": "something",
+              "charStart": 29,
+              "charEnd": 38,
+              "startMs": 1640,
+              "endMs": 2100
+            },
+            {
+              "word": "special",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2100,
+              "endMs": 2540
+            },
+            {
+              "word": "together",
+              "charStart": 47,
+              "charEnd": 55,
+              "startMs": 2540,
+              "endMs": 3460
+            },
+            {
+              "word": "she",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 3460,
+              "endMs": 3620
+            },
+            {
+              "word": "said",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3620,
+              "endMs": 3860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina opened her packet and found three round tomato seeds inside.",
+          "translation_ko": "미나가 봉투를 열자 안에 동그란 토마토 씨앗 세 알이 들어 있었어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "opened",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 920
+            },
+            {
+              "word": "her",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "packet",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1500,
+              "endMs": 2240
+            },
+            {
+              "word": "found",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2240,
+              "endMs": 2440
+            },
+            {
+              "word": "three",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2440,
+              "endMs": 3020
+            },
+            {
+              "word": "round",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 3020,
+              "endMs": 3400
+            },
+            {
+              "word": "tomato",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3400,
+              "endMs": 3880
+            },
+            {
+              "word": "seeds",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3880,
+              "endMs": 4180
+            },
+            {
+              "word": "inside",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 4180,
+              "endMs": 4740
+            }
+          ]
+        },
+        {
+          "text": "\"Seeds from a real tomato plant!\" she said, her eyes wide.",
+          "translation_ko": "\"진짜 토마토 나무 씨앗이에요!\" 미나가 눈을 크게 뜨며 말했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Seeds",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "from",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "real",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "tomato",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1740
+            },
+            {
+              "word": "plant",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 2160
+            },
+            {
+              "word": "she",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2460,
+              "endMs": 2600
+            },
+            {
+              "word": "said",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2940
+            },
+            {
+              "word": "her",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3240,
+              "endMs": 3400
+            },
+            {
+              "word": "eyes",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3400,
+              "endMs": 3660
+            },
+            {
+              "word": "wide",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3660,
+              "endMs": 4020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park explained that a seed library lets people borrow seeds, grow plants, and then return new seeds later.",
+          "translation_ko": "박 선생님은 씨앗 도서관에서 씨앗을 빌려 식물을 키우고 나중에 새 씨앗을 돌려줄 수 있다고 설명했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "explained",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1500
+            },
+            {
+              "word": "that",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 2120
+            },
+            {
+              "word": "seed",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2120,
+              "endMs": 2260
+            },
+            {
+              "word": "library",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2260,
+              "endMs": 2740
+            },
+            {
+              "word": "lets",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2740,
+              "endMs": 3060
+            },
+            {
+              "word": "people",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3060,
+              "endMs": 3420
+            },
+            {
+              "word": "borrow",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 3420,
+              "endMs": 3840
+            },
+            {
+              "word": "seeds",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3840,
+              "endMs": 4240
+            },
+            {
+              "word": "grow",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4700,
+              "endMs": 4780
+            },
+            {
+              "word": "plants",
+              "charStart": 70,
+              "charEnd": 76,
+              "startMs": 4780,
+              "endMs": 5120
+            },
+            {
+              "word": "and",
+              "charStart": 78,
+              "charEnd": 81,
+              "startMs": 5560,
+              "endMs": 5600
+            },
+            {
+              "word": "then",
+              "charStart": 82,
+              "charEnd": 86,
+              "startMs": 5600,
+              "endMs": 6100
+            },
+            {
+              "word": "return",
+              "charStart": 87,
+              "charEnd": 93,
+              "startMs": 6100,
+              "endMs": 6120
+            },
+            {
+              "word": "new",
+              "charStart": 94,
+              "charEnd": 97,
+              "startMs": 6120,
+              "endMs": 6500
+            },
+            {
+              "word": "seeds",
+              "charStart": 98,
+              "charEnd": 103,
+              "startMs": 6500,
+              "endMs": 6780
+            },
+            {
+              "word": "later",
+              "charStart": 104,
+              "charEnd": 109,
+              "startMs": 6780,
+              "endMs": 7140
+            }
+          ]
+        },
+        {
+          "text": "\"It is like a book library, but for seeds,\" she added.",
+          "translation_ko": "\"책 도서관과 같은데, 씨앗으로 하는 거예요.\"",
+          "audio": "/seed/daily-199-the-seed-library/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 120
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 120,
+              "endMs": 340
+            },
+            {
+              "word": "like",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 540
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 800
+            },
+            {
+              "word": "book",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "library",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 980,
+              "endMs": 1420
+            },
+            {
+              "word": "but",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 1900
+            },
+            {
+              "word": "for",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "seeds",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2200,
+              "endMs": 2540
+            },
+            {
+              "word": "she",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2920,
+              "endMs": 3100
+            },
+            {
+              "word": "added",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3100,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun thought it was a great idea.",
+          "translation_ko": "준이는 정말 좋은 생각이라고 느꼈어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "thought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 1060
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1160
+            },
+            {
+              "word": "was",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1520
+            },
+            {
+              "word": "great",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "idea",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1780,
+              "endMs": 2120
+            }
+          ]
+        },
+        {
+          "text": "\"If we share seeds, everyone can have a garden even without a big yard,\" he said.",
+          "translation_ko": "\"씨앗을 나누면 넓은 마당이 없어도 누구나 텃밭을 가꿀 수 있어요.\"",
+          "audio": "/seed/daily-199-the-seed-library/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "If",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "we",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "share",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "seeds",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 820,
+              "endMs": 1260
+            },
+            {
+              "word": "everyone",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "can",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2060
+            },
+            {
+              "word": "have",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2220
+            },
+            {
+              "word": "a",
+              "charStart": 38,
+              "charEnd": 39,
+              "startMs": 2220,
+              "endMs": 2660
+            },
+            {
+              "word": "garden",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2660,
+              "endMs": 2660
+            },
+            {
+              "word": "even",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2900,
+              "endMs": 3000
+            },
+            {
+              "word": "without",
+              "charStart": 52,
+              "charEnd": 59,
+              "startMs": 3000,
+              "endMs": 3260
+            },
+            {
+              "word": "a",
+              "charStart": 60,
+              "charEnd": 61,
+              "startMs": 3260,
+              "endMs": 3440
+            },
+            {
+              "word": "big",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3440,
+              "endMs": 3720
+            },
+            {
+              "word": "yard",
+              "charStart": 66,
+              "charEnd": 70,
+              "startMs": 3720,
+              "endMs": 4280
+            },
+            {
+              "word": "he",
+              "charStart": 73,
+              "charEnd": 75,
+              "startMs": 4280,
+              "endMs": 4500
+            },
+            {
+              "word": "said",
+              "charStart": 76,
+              "charEnd": 80,
+              "startMs": 4500,
+              "endMs": 4700
+            }
+          ]
+        },
+        {
+          "text": "Mina nodded and smiled at him.",
+          "translation_ko": "미나도 고개를 끄덕이며 준이를 향해 웃었어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "nodded",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 820
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1260
+            },
+            {
+              "word": "smiled",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "at",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1840
+            },
+            {
+              "word": "him",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The class started making small envelopes out of old newspaper.",
+          "translation_ko": "반 친구들은 헌 신문지로 작은 봉투를 만들기 시작했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 140,
+              "endMs": 460
+            },
+            {
+              "word": "started",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "making",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "small",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1100,
+              "endMs": 1540
+            },
+            {
+              "word": "envelopes",
+              "charStart": 31,
+              "charEnd": 40,
+              "startMs": 1540,
+              "endMs": 2080
+            },
+            {
+              "word": "out",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2080,
+              "endMs": 2220
+            },
+            {
+              "word": "of",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2220,
+              "endMs": 2500
+            },
+            {
+              "word": "old",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2500,
+              "endMs": 2620
+            },
+            {
+              "word": "newspaper",
+              "charStart": 52,
+              "charEnd": 61,
+              "startMs": 2620,
+              "endMs": 3000
+            }
+          ]
+        },
+        {
+          "text": "Each student wrote the plant name and the date on the front.",
+          "translation_ko": "학생들은 앞면에 식물 이름과 날짜를 적었어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Each",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "student",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 800
+            },
+            {
+              "word": "wrote",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1380
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "plant",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1640,
+              "endMs": 1900
+            },
+            {
+              "word": "name",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1900,
+              "endMs": 2180
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2180,
+              "endMs": 2380
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2380,
+              "endMs": 2660
+            },
+            {
+              "word": "date",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2660,
+              "endMs": 2780
+            },
+            {
+              "word": "on",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3040
+            },
+            {
+              "word": "the",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3040,
+              "endMs": 3220
+            },
+            {
+              "word": "front",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3220,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun wrote \"sunflower\" on his envelope in his neatest handwriting.",
+          "translation_ko": "준이는 가장 예쁜 글씨로 봉투에 '해바라기'라고 썼어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "wrote",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "sunflower",
+              "charStart": 11,
+              "charEnd": 20,
+              "startMs": 820,
+              "endMs": 1700
+            },
+            {
+              "word": "on",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1700,
+              "endMs": 2100
+            },
+            {
+              "word": "his",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "envelope",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2720
+            },
+            {
+              "word": "in",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2720,
+              "endMs": 3140
+            },
+            {
+              "word": "his",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3140,
+              "endMs": 3340
+            },
+            {
+              "word": "neatest",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3340,
+              "endMs": 3840
+            },
+            {
+              "word": "handwriting",
+              "charStart": 53,
+              "charEnd": 64,
+              "startMs": 3840,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "He had saved the seeds from his grandmother's garden last autumn.",
+          "translation_ko": "지난가을 할머니 텃밭에서 모아 둔 씨앗이었어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "had",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 460
+            },
+            {
+              "word": "saved",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 720
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "seeds",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "from",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "his",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1480,
+              "endMs": 1700
+            },
+            {
+              "word": "grandmother's",
+              "charStart": 32,
+              "charEnd": 45,
+              "startMs": 1700,
+              "endMs": 2460
+            },
+            {
+              "word": "garden",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2460,
+              "endMs": 2660
+            },
+            {
+              "word": "last",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 2660,
+              "endMs": 3340
+            },
+            {
+              "word": "autumn",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3340,
+              "endMs": 3620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park brought out a big wooden box decorated with colorful drawings.",
+          "translation_ko": "박 선생님이 알록달록한 그림으로 꾸민 커다란 나무 상자를 가져왔어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "brought",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 700,
+              "endMs": 1020
+            },
+            {
+              "word": "out",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1180,
+              "endMs": 1360
+            },
+            {
+              "word": "big",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1360,
+              "endMs": 1740
+            },
+            {
+              "word": "wooden",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1740,
+              "endMs": 1940
+            },
+            {
+              "word": "box",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1940,
+              "endMs": 2420
+            },
+            {
+              "word": "decorated",
+              "charStart": 38,
+              "charEnd": 47,
+              "startMs": 2420,
+              "endMs": 3080
+            },
+            {
+              "word": "with",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3080,
+              "endMs": 3420
+            },
+            {
+              "word": "colorful",
+              "charStart": 53,
+              "charEnd": 61,
+              "startMs": 3420,
+              "endMs": 3820
+            },
+            {
+              "word": "drawings",
+              "charStart": 62,
+              "charEnd": 70,
+              "startMs": 3820,
+              "endMs": 4320
+            }
+          ]
+        },
+        {
+          "text": "\"This will be our seed library box,\" she announced proudly.",
+          "translation_ko": "\"이게 우리 씨앗 도서관 상자예요.\" 선생님이 자랑스럽게 말했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "will",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 840
+            },
+            {
+              "word": "be",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "our",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1480
+            },
+            {
+              "word": "seed",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1480,
+              "endMs": 1760
+            },
+            {
+              "word": "library",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1760,
+              "endMs": 2200
+            },
+            {
+              "word": "box",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 3060
+            },
+            {
+              "word": "she",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 3060,
+              "endMs": 3160
+            },
+            {
+              "word": "announced",
+              "charStart": 41,
+              "charEnd": 50,
+              "startMs": 3160,
+              "endMs": 3480
+            },
+            {
+              "word": "proudly",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 3480,
+              "endMs": 3920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One by one, students placed their seed envelopes inside the box.",
+          "translation_ko": "학생들이 차례차례 씨앗 봉투를 상자 안에 넣었어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "by",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "one",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "students",
+              "charStart": 12,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1600
+            },
+            {
+              "word": "placed",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1600,
+              "endMs": 1920
+            },
+            {
+              "word": "their",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "seed",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2160,
+              "endMs": 2400
+            },
+            {
+              "word": "envelopes",
+              "charStart": 39,
+              "charEnd": 48,
+              "startMs": 2400,
+              "endMs": 3000
+            },
+            {
+              "word": "inside",
+              "charStart": 49,
+              "charEnd": 55,
+              "startMs": 3000,
+              "endMs": 3400
+            },
+            {
+              "word": "the",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3400,
+              "endMs": 3580
+            },
+            {
+              "word": "box",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3580,
+              "endMs": 3900
+            }
+          ]
+        },
+        {
+          "text": "Soon the box was full of many different kinds of seeds.",
+          "translation_ko": "이내 상자는 온갖 종류의 씨앗으로 가득 찼어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 680,
+              "endMs": 840
+            },
+            {
+              "word": "box",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1160
+            },
+            {
+              "word": "was",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "full",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1620
+            },
+            {
+              "word": "of",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "many",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "different",
+              "charStart": 30,
+              "charEnd": 39,
+              "startMs": 2100,
+              "endMs": 2440
+            },
+            {
+              "word": "kinds",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2440,
+              "endMs": 2760
+            },
+            {
+              "word": "of",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2760,
+              "endMs": 3020
+            },
+            {
+              "word": "seeds",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3020,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "\"We have sunflowers, carrots, beans, and even mint!\" Mina said.",
+          "translation_ko": "\"해바라기, 당근, 콩, 그리고 민트도 있어요!\" 미나가 말했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "have",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "sunflowers",
+              "charStart": 9,
+              "charEnd": 19,
+              "startMs": 620,
+              "endMs": 1360
+            },
+            {
+              "word": "carrots",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1980,
+              "endMs": 1980
+            },
+            {
+              "word": "beans",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2580,
+              "endMs": 2640
+            },
+            {
+              "word": "and",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2840,
+              "endMs": 2960
+            },
+            {
+              "word": "even",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2960,
+              "endMs": 3260
+            },
+            {
+              "word": "mint",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3260,
+              "endMs": 4180
+            },
+            {
+              "word": "Mina",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 4180,
+              "endMs": 4200
+            },
+            {
+              "word": "said",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 4200,
+              "endMs": 4540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park said that neighbors and parents could also borrow seeds.",
+          "translation_ko": "박 선생님은 이웃과 부모님도 씨앗을 빌려 갈 수 있다고 했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "said",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1100
+            },
+            {
+              "word": "that",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "neighbors",
+              "charStart": 19,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 2040
+            },
+            {
+              "word": "parents",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2040,
+              "endMs": 2340
+            },
+            {
+              "word": "could",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2340,
+              "endMs": 2580
+            },
+            {
+              "word": "also",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2580,
+              "endMs": 3080
+            },
+            {
+              "word": "borrow",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3080,
+              "endMs": 3360
+            },
+            {
+              "word": "seeds",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3360,
+              "endMs": 3760
+            }
+          ]
+        },
+        {
+          "text": "\"When their plants grow, they will bring back more seeds to share,\" she explained.",
+          "translation_ko": "\"식물이 자라면 씨앗을 더 많이 가져와서 나눌 거예요.\"",
+          "audio": "/seed/daily-199-the-seed-library/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "their",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "plants",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "grow",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "they",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 1840
+            },
+            {
+              "word": "will",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 1840,
+              "endMs": 2020
+            },
+            {
+              "word": "bring",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2020,
+              "endMs": 2200
+            },
+            {
+              "word": "back",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2200,
+              "endMs": 2500
+            },
+            {
+              "word": "more",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2500,
+              "endMs": 2860
+            },
+            {
+              "word": "seeds",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2860,
+              "endMs": 3020
+            },
+            {
+              "word": "to",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3020,
+              "endMs": 3300
+            },
+            {
+              "word": "share",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3300,
+              "endMs": 3860
+            },
+            {
+              "word": "she",
+              "charStart": 68,
+              "charEnd": 71,
+              "startMs": 3860,
+              "endMs": 4080
+            },
+            {
+              "word": "explained",
+              "charStart": 72,
+              "charEnd": 81,
+              "startMs": 4080,
+              "endMs": 4460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After school, Jun told his mother about the seed library.",
+          "translation_ko": "학교가 끝난 후 준이는 엄마에게 씨앗 도서관 이야기를 했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 320,
+              "endMs": 760
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1380
+            },
+            {
+              "word": "told",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "his",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 1920
+            },
+            {
+              "word": "mother",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1920,
+              "endMs": 2140
+            },
+            {
+              "word": "about",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2140,
+              "endMs": 2540
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2540,
+              "endMs": 2740
+            },
+            {
+              "word": "seed",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2740,
+              "endMs": 2940
+            },
+            {
+              "word": "library",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 2940,
+              "endMs": 3380
+            }
+          ]
+        },
+        {
+          "text": "She was so excited that she gave him a bag of pepper seeds to donate.",
+          "translation_ko": "엄마는 너무 신이 나서 기증할 고추 씨앗 한 봉지를 건네줬어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 540
+            },
+            {
+              "word": "so",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "excited",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1240
+            },
+            {
+              "word": "that",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "she",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1760
+            },
+            {
+              "word": "gave",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 1880
+            },
+            {
+              "word": "him",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1880,
+              "endMs": 2060
+            },
+            {
+              "word": "a",
+              "charStart": 37,
+              "charEnd": 38,
+              "startMs": 2060,
+              "endMs": 2280
+            },
+            {
+              "word": "bag",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2440
+            },
+            {
+              "word": "of",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2440,
+              "endMs": 2760
+            },
+            {
+              "word": "pepper",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2760,
+              "endMs": 2980
+            },
+            {
+              "word": "seeds",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 2980,
+              "endMs": 3240
+            },
+            {
+              "word": "to",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 3240,
+              "endMs": 3580
+            },
+            {
+              "word": "donate",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3580,
+              "endMs": 3780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next morning, Jun proudly added the pepper seeds to the box.",
+          "translation_ko": "다음 날 아침 준이는 자랑스럽게 고추 씨앗을 상자에 추가했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 480
+            },
+            {
+              "word": "morning",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 480,
+              "endMs": 840
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1380
+            },
+            {
+              "word": "proudly",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1380,
+              "endMs": 1940
+            },
+            {
+              "word": "added",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1940,
+              "endMs": 2240
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2240,
+              "endMs": 2500
+            },
+            {
+              "word": "pepper",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2500,
+              "endMs": 2720
+            },
+            {
+              "word": "seeds",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2720,
+              "endMs": 2940
+            },
+            {
+              "word": "to",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 2940,
+              "endMs": 3140
+            },
+            {
+              "word": "the",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3140,
+              "endMs": 3280
+            },
+            {
+              "word": "box",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3280,
+              "endMs": 3560
+            }
+          ]
+        },
+        {
+          "text": "\"Our library is already growing,\" Mina laughed.",
+          "translation_ko": "\"우리 도서관이 벌써 커지고 있어요.\" 미나가 웃으며 말했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "library",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 300,
+              "endMs": 820
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1180
+            },
+            {
+              "word": "already",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1760
+            },
+            {
+              "word": "growing",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1760,
+              "endMs": 2740
+            },
+            {
+              "word": "Mina",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2740,
+              "endMs": 2740
+            },
+            {
+              "word": "laughed",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2740,
+              "endMs": 3100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park looked at the overflowing box and felt proud of the class.",
+          "translation_ko": "박 선생님은 씨앗이 넘칠 것 같은 상자를 보며 반 아이들이 자랑스러웠어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 720,
+              "endMs": 800
+            },
+            {
+              "word": "looked",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1440
+            },
+            {
+              "word": "at",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1440,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "overflowing",
+              "charStart": 23,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2360
+            },
+            {
+              "word": "box",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2360,
+              "endMs": 2880
+            },
+            {
+              "word": "and",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2880,
+              "endMs": 3440
+            },
+            {
+              "word": "felt",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3440,
+              "endMs": 3660
+            },
+            {
+              "word": "proud",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3660,
+              "endMs": 4020
+            },
+            {
+              "word": "of",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 4020,
+              "endMs": 4200
+            },
+            {
+              "word": "the",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 4200,
+              "endMs": 4360
+            },
+            {
+              "word": "class",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 4360,
+              "endMs": 4700
+            }
+          ]
+        },
+        {
+          "text": "\"When we share what we have, everyone grows,\" she said softly.",
+          "translation_ko": "\"우리가 가진 걸 나누면 모두가 함께 자라요.\" 선생님이 조용히 말했어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "we",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 920
+            },
+            {
+              "word": "share",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "what",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1440
+            },
+            {
+              "word": "we",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "have",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1700,
+              "endMs": 2040
+            },
+            {
+              "word": "everyone",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2580,
+              "endMs": 2980
+            },
+            {
+              "word": "grows",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2980,
+              "endMs": 3420
+            },
+            {
+              "word": "she",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3540,
+              "endMs": 3720
+            },
+            {
+              "word": "said",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3720,
+              "endMs": 3920
+            },
+            {
+              "word": "softly",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3920,
+              "endMs": 4320
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina smiled, already dreaming of the garden they would grow.",
+          "translation_ko": "준이와 미나는 앞으로 가꿀 텃밭을 벌써 꿈꾸며 미소 지었어요.",
+          "audio": "/seed/daily-199-the-seed-library/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "smiled",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1820
+            },
+            {
+              "word": "already",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "dreaming",
+              "charStart": 29,
+              "charEnd": 37,
+              "startMs": 2560,
+              "endMs": 2900
+            },
+            {
+              "word": "of",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2900,
+              "endMs": 3080
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3080,
+              "endMs": 3320
+            },
+            {
+              "word": "garden",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 3320,
+              "endMs": 3420
+            },
+            {
+              "word": "they",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3420,
+              "endMs": 3640
+            },
+            {
+              "word": "would",
+              "charStart": 57,
+              "charEnd": 62,
+              "startMs": 3640,
+              "endMs": 3780
+            },
+            {
+              "word": "grow",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3780,
+              "endMs": 4020
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "씨앗 도서관은 어떻게 작동하나요?",
+      "type": "mc",
+      "options": [
+        "씨앗을 사고파는 가게예요.",
+        "씨앗을 빌려 식물을 키우고 나중에 새 씨앗을 돌려줘요.",
+        "씨앗 그림을 그리는 미술 수업이에요.",
+        "씨앗을 모아서 버리는 곳이에요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "박 선생님이 설명했듯이, 씨앗 도서관은 씨앗을 빌려 식물을 키우고 나중에 새 씨앗을 돌려주는 방식으로 운영돼요."
+    },
+    {
+      "question_ko": "준이가 봉투에 담은 씨앗은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "토마토 씨앗",
+        "당근 씨앗",
+        "해바라기 씨앗",
+        "고추 씨앗"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준이는 할머니 텃밭에서 모아 둔 해바라기 씨앗을 봉투에 넣었어요."
+    },
+    {
+      "question_ko": "준이의 엄마는 무엇을 기증했나요?",
+      "type": "mc",
+      "options": [
+        "민트 씨앗",
+        "콩 씨앗",
+        "토마토 씨앗",
+        "고추 씨앗"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "준이가 씨앗 도서관 이야기를 하자 엄마는 기뻐하며 고추 씨앗 한 봉지를 줬어요."
+    },
+    {
+      "question_ko": "학생들은 씨앗 봉투를 무엇으로 만들었나요?",
+      "type": "mc",
+      "options": [
+        "비닐봉지",
+        "헌 신문지",
+        "색종이",
+        "나무 상자"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "반 친구들은 헌 신문지로 작은 봉투를 직접 만들었어요."
+    },
+    {
+      "question_ko": "박 선생님이 마지막에 한 말의 핵심 메시지는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "씨앗은 항상 비싸게 사야 해요.",
+        "식물을 혼자 키우는 게 제일 좋아요.",
+        "우리가 가진 걸 나누면 모두가 함께 자라요.",
+        "도서관에서는 책만 빌릴 수 있어요."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "박 선생님은 '우리가 가진 걸 나누면 모두가 함께 자란다'며 나눔의 가치를 강조했어요."
+    }
+  ]
+}

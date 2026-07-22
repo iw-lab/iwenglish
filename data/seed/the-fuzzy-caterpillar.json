@@ -1,0 +1,402 @@
+{
+  "slug": "the-fuzzy-caterpillar",
+  "title": "The Fuzzy Caterpillar",
+  "title_ko": "보송보송 애벌레",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "보송보송 애벌레가 잎에서 잎으로 꿈틀꿈틀 기어가며 먹는 하루.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A fuzzy caterpillar wakes up.",
+          "translation_ko": "보송보송 애벌레가 잠에서 깨어나요.",
+          "audio": "/seed/the-fuzzy-caterpillar/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "fuzzy",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "caterpillar",
+              "charStart": 8,
+              "charEnd": 19,
+              "startMs": 580,
+              "endMs": 1260
+            },
+            {
+              "word": "wakes",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1700
+            },
+            {
+              "word": "up",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 1980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She crawls onto a big leaf.",
+          "translation_ko": "애벌레는 큰 잎 위로 기어올라요.",
+          "audio": "/seed/the-fuzzy-caterpillar/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "crawls",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 840
+            },
+            {
+              "word": "onto",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1340
+            },
+            {
+              "word": "big",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "leaf",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She eats the green leaf.",
+          "translation_ko": "애벌레가 초록 잎을 먹어요.",
+          "audio": "/seed/the-fuzzy-caterpillar/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "eats",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 1040
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1040,
+              "endMs": 1580
+            },
+            {
+              "word": "green",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "leaf",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1880,
+              "endMs": 2180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She crawls to another leaf.",
+          "translation_ko": "애벌레가 다른 잎으로 기어가요.",
+          "audio": "/seed/the-fuzzy-caterpillar/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "crawls",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 980
+            },
+            {
+              "word": "to",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "another",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1560
+            },
+            {
+              "word": "leaf",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She eats and eats more.",
+          "translation_ko": "애벌레는 더 많이 먹고 또 먹어요.",
+          "audio": "/seed/the-fuzzy-caterpillar/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "eats",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 920
+            },
+            {
+              "word": "and",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 920,
+              "endMs": 1400
+            },
+            {
+              "word": "eats",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "more",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1760,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The fuzzy caterpillar feels full.",
+          "translation_ko": "보송보송 애벌레는 배가 불러요.",
+          "audio": "/seed/the-fuzzy-caterpillar/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "fuzzy",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "caterpillar",
+              "charStart": 10,
+              "charEnd": 21,
+              "startMs": 620,
+              "endMs": 1200
+            },
+            {
+              "word": "feels",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1200,
+              "endMs": 1640
+            },
+            {
+              "word": "full",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1640,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She curls up and rests.",
+          "translation_ko": "애벌레는 몸을 동그랗게 말고 쉬어요.",
+          "audio": "/seed/the-fuzzy-caterpillar/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "curls",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 840,
+              "endMs": 1100
+            },
+            {
+              "word": "up",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1340,
+              "endMs": 1880
+            },
+            {
+              "word": "rests",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1880,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "이 책에서 주인공은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "나비",
+        "달팽이",
+        "보송보송 애벌레",
+        "개구리"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "이 책의 주인공은 보송보송 애벌레예요."
+    },
+    {
+      "question_ko": "애벌레는 무엇 위로 기어올라갔나요?",
+      "type": "mc",
+      "options": [
+        "큰 잎",
+        "작은 돌",
+        "나무 기둥",
+        "꽃잎"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "애벌레는 큰 잎 위로 기어올라갔어요."
+    },
+    {
+      "question_ko": "애벌레는 무엇을 먹었나요?",
+      "type": "mc",
+      "options": [
+        "꽃",
+        "초록 잎",
+        "열매",
+        "풀"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "애벌레는 초록 잎을 먹었어요."
+    },
+    {
+      "question_ko": "애벌레가 배가 부른 후에 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "나무에 올랐어요",
+        "친구를 찾았어요",
+        "물을 마셨어요",
+        "몸을 말고 쉬었어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "애벌레는 배가 부르자 몸을 동그랗게 말고 쉬었어요."
+    },
+    {
+      "question_ko": "애벌레는 이야기에서 처음에 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "잠에서 깨어났어요",
+        "잎을 먹었어요",
+        "기어갔어요",
+        "쉬었어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이야기의 시작에서 애벌레는 잠에서 깨어났어요."
+    }
+  ]
+}

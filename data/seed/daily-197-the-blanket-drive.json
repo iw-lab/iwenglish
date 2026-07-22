@@ -1,0 +1,3249 @@
+{
+  "slug": "daily-197-the-blanket-drive",
+  "title": "The Blanket Drive",
+  "title_ko": "담요 나눔",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 Ms. Park 선생님과 함께 어르신들을 위한 담요를 모으고 직접 전달하는 따뜻한 나눔 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One morning, Ms. Park walked into class with a big cardboard box.",
+          "translation_ko": "어느 날 아침, Park 선생님이 커다란 종이 상자를 들고 교실로 들어오셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "morning",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 680
+            },
+            {
+              "word": "Ms",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "Park",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "walked",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1340,
+              "endMs": 1720
+            },
+            {
+              "word": "into",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "class",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2000,
+              "endMs": 2300
+            },
+            {
+              "word": "with",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2500
+            },
+            {
+              "word": "a",
+              "charStart": 45,
+              "charEnd": 46,
+              "startMs": 2500,
+              "endMs": 2760
+            },
+            {
+              "word": "big",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2760,
+              "endMs": 3040
+            },
+            {
+              "word": "cardboard",
+              "charStart": 51,
+              "charEnd": 60,
+              "startMs": 3040,
+              "endMs": 3400
+            },
+            {
+              "word": "box",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 3400,
+              "endMs": 3840
+            }
+          ]
+        },
+        {
+          "text": "She placed it on her desk and smiled at the students.",
+          "translation_ko": "선생님은 상자를 책상 위에 올려놓고 학생들을 향해 미소 지으셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "placed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "it",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 900,
+              "endMs": 1060
+            },
+            {
+              "word": "on",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1180
+            },
+            {
+              "word": "her",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "desk",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1400,
+              "endMs": 1680
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1680,
+              "endMs": 2260
+            },
+            {
+              "word": "smiled",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2540
+            },
+            {
+              "word": "at",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2540,
+              "endMs": 2760
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2760,
+              "endMs": 2980
+            },
+            {
+              "word": "students",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2980,
+              "endMs": 3240
+            }
+          ]
+        },
+        {
+          "text": "\"We have something special to do this week,\" she announced.",
+          "translation_ko": "\"이번 주에 특별한 일을 할 거예요,\" 선생님이 말씀하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "have",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "something",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "special",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 960,
+              "endMs": 1440
+            },
+            {
+              "word": "to",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "do",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1660,
+              "endMs": 1840
+            },
+            {
+              "word": "this",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1840,
+              "endMs": 2060
+            },
+            {
+              "word": "week",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2060,
+              "endMs": 2920
+            },
+            {
+              "word": "she",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2920,
+              "endMs": 3080
+            },
+            {
+              "word": "announced",
+              "charStart": 49,
+              "charEnd": 58,
+              "startMs": 3080,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Our neighborhood has a blanket drive for elderly people,\" Ms. Park explained.",
+          "translation_ko": "\"우리 동네에서 어르신들을 위한 담요 나눔 행사를 해요,\" Park 선생님이 설명하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Our",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "neighborhood",
+              "charStart": 5,
+              "charEnd": 17,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "has",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "blanket",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1620,
+              "endMs": 1800
+            },
+            {
+              "word": "drive",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1800,
+              "endMs": 2160
+            },
+            {
+              "word": "for",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2160,
+              "endMs": 2500
+            },
+            {
+              "word": "elderly",
+              "charStart": 42,
+              "charEnd": 49,
+              "startMs": 2500,
+              "endMs": 2880
+            },
+            {
+              "word": "people",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 2880,
+              "endMs": 3860
+            },
+            {
+              "word": "Ms",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 3860,
+              "endMs": 3900
+            },
+            {
+              "word": "Park",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 4080,
+              "endMs": 4140
+            },
+            {
+              "word": "explained",
+              "charStart": 68,
+              "charEnd": 77,
+              "startMs": 4140,
+              "endMs": 4620
+            }
+          ]
+        },
+        {
+          "text": "\"Winter is coming, and many grandparents need warm blankets.\"",
+          "translation_ko": "\"겨울이 다가오고 있어서, 많은 어르신들이 따뜻한 담요가 필요하답니다.\"",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Winter",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "coming",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1460,
+              "endMs": 1540
+            },
+            {
+              "word": "many",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1760
+            },
+            {
+              "word": "grandparents",
+              "charStart": 28,
+              "charEnd": 40,
+              "startMs": 1760,
+              "endMs": 2260
+            },
+            {
+              "word": "need",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2260,
+              "endMs": 2600
+            },
+            {
+              "word": "warm",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2600,
+              "endMs": 2920
+            },
+            {
+              "word": "blankets",
+              "charStart": 51,
+              "charEnd": 59,
+              "startMs": 2920,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "Jun raised his hand right away.",
+          "translation_ko": "Jun이 바로 손을 들었어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "raised",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 840
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1160
+            },
+            {
+              "word": "hand",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "right",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1780
+            },
+            {
+              "word": "away",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Can we collect blankets from our families?\" Jun asked eagerly.",
+          "translation_ko": "\"저희 가족들에게 담요를 모아도 될까요?\" Jun이 설레는 목소리로 물었어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "we",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "collect",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 520,
+              "endMs": 840
+            },
+            {
+              "word": "blankets",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 840,
+              "endMs": 1360
+            },
+            {
+              "word": "from",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "our",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 1840
+            },
+            {
+              "word": "families",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 1840,
+              "endMs": 2340
+            },
+            {
+              "word": "Jun",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3080
+            },
+            {
+              "word": "asked",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3080,
+              "endMs": 3440
+            },
+            {
+              "word": "eagerly",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 3440,
+              "endMs": 3980
+            }
+          ]
+        },
+        {
+          "text": "\"That is exactly the plan,\" said Ms. Park with a nod.",
+          "translation_ko": "\"바로 그게 계획이에요,\" Park 선생님이 고개를 끄덕이며 말씀하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 640,
+              "endMs": 860
+            },
+            {
+              "word": "exactly",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1280
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1560
+            },
+            {
+              "word": "plan",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 2220
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2300
+            },
+            {
+              "word": "Ms",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2300,
+              "endMs": 2500
+            },
+            {
+              "word": "Park",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2720,
+              "endMs": 2760
+            },
+            {
+              "word": "with",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2760,
+              "endMs": 2980
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 2980,
+              "endMs": 3300
+            },
+            {
+              "word": "nod",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3300,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "Mina clapped her hands and grinned at Jun.",
+          "translation_ko": "Mina가 손뼉을 치며 Jun을 보고 활짝 웃었어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "clapped",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 1000
+            },
+            {
+              "word": "her",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "hands",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 2000
+            },
+            {
+              "word": "grinned",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "at",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2220,
+              "endMs": 2540
+            },
+            {
+              "word": "Jun",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2540,
+              "endMs": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "That afternoon, Jun told his mom about the blanket drive.",
+          "translation_ko": "그날 오후, Jun은 엄마에게 담요 나눔 행사에 대해 말했어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "That",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "afternoon",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 340,
+              "endMs": 860
+            },
+            {
+              "word": "Jun",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 1520
+            },
+            {
+              "word": "told",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1860
+            },
+            {
+              "word": "his",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "mom",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "about",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2700,
+              "endMs": 2880
+            },
+            {
+              "word": "blanket",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2880,
+              "endMs": 3120
+            },
+            {
+              "word": "drive",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3120,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "His mom looked through the closet and found two thick blankets.",
+          "translation_ko": "엄마가 옷장을 뒤져서 두꺼운 담요 두 장을 찾아냈어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "mom",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 580,
+              "endMs": 840
+            },
+            {
+              "word": "looked",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "through",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1340
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1800
+            },
+            {
+              "word": "closet",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 1800
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1800,
+              "endMs": 2260
+            },
+            {
+              "word": "found",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2260,
+              "endMs": 2420
+            },
+            {
+              "word": "two",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2420,
+              "endMs": 2740
+            },
+            {
+              "word": "thick",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2740,
+              "endMs": 3020
+            },
+            {
+              "word": "blankets",
+              "charStart": 54,
+              "charEnd": 62,
+              "startMs": 3020,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "\"These are clean and warm. The grandparents will love them,\" she said.",
+          "translation_ko": "\"깨끗하고 따뜻해. 어르신들이 좋아하실 거야,\" 엄마가 말씀하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p4-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "These",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "are",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 800
+            },
+            {
+              "word": "clean",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1220,
+              "endMs": 1560
+            },
+            {
+              "word": "warm",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1860
+            },
+            {
+              "word": "The",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2360,
+              "endMs": 2500
+            },
+            {
+              "word": "grandparents",
+              "charStart": 31,
+              "charEnd": 43,
+              "startMs": 2500,
+              "endMs": 3000
+            },
+            {
+              "word": "will",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3000,
+              "endMs": 3300
+            },
+            {
+              "word": "love",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3300,
+              "endMs": 3540
+            },
+            {
+              "word": "them",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3540,
+              "endMs": 4280
+            },
+            {
+              "word": "she",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4280,
+              "endMs": 4440
+            },
+            {
+              "word": "said",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4440,
+              "endMs": 4680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next day, Jun brought the two blankets to school in a bag.",
+          "translation_ko": "다음 날, Jun은 가방에 담요 두 장을 넣어 학교에 가져왔어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "day",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "Jun",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1520
+            },
+            {
+              "word": "brought",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1800
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 1940
+            },
+            {
+              "word": "two",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1940,
+              "endMs": 2220
+            },
+            {
+              "word": "blankets",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2540
+            },
+            {
+              "word": "to",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2540,
+              "endMs": 2860
+            },
+            {
+              "word": "school",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2860,
+              "endMs": 3180
+            },
+            {
+              "word": "in",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3180,
+              "endMs": 3540
+            },
+            {
+              "word": "a",
+              "charStart": 56,
+              "charEnd": 57,
+              "startMs": 3540,
+              "endMs": 3920
+            },
+            {
+              "word": "bag",
+              "charStart": 58,
+              "charEnd": 61,
+              "startMs": 3920,
+              "endMs": 3940
+            }
+          ]
+        },
+        {
+          "text": "Mina had already put three blankets into the box on Ms. Park's desk.",
+          "translation_ko": "Mina는 이미 Park 선생님 책상의 상자에 담요 세 장을 넣어 두었어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "had",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "already",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1380
+            },
+            {
+              "word": "put",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "three",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 2100
+            },
+            {
+              "word": "blankets",
+              "charStart": 27,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2480
+            },
+            {
+              "word": "into",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2480,
+              "endMs": 2820
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2820,
+              "endMs": 3000
+            },
+            {
+              "word": "box",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3000,
+              "endMs": 3260
+            },
+            {
+              "word": "on",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 3260,
+              "endMs": 3480
+            },
+            {
+              "word": "Ms",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3480,
+              "endMs": 3720
+            },
+            {
+              "word": "Park's",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 3860,
+              "endMs": 4060
+            },
+            {
+              "word": "desk",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 4060,
+              "endMs": 4360
+            }
+          ]
+        },
+        {
+          "text": "\"Wow, you were fast!\" Jun said, surprised.",
+          "translation_ko": "\"와, 정말 빠르다!\" Jun이 놀라며 말했어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Wow",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "you",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "were",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1100
+            },
+            {
+              "word": "fast",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1100,
+              "endMs": 2260
+            },
+            {
+              "word": "Jun",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 2260,
+              "endMs": 2260
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2260,
+              "endMs": 2520
+            },
+            {
+              "word": "surprised",
+              "charStart": 32,
+              "charEnd": 41,
+              "startMs": 2900,
+              "endMs": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "All week, classmates kept bringing blankets from home.",
+          "translation_ko": "일주일 내내 반 친구들이 집에서 담요를 가져왔어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "All",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "week",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "classmates",
+              "charStart": 10,
+              "charEnd": 20,
+              "startMs": 1040,
+              "endMs": 1440
+            },
+            {
+              "word": "kept",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1740
+            },
+            {
+              "word": "bringing",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1740,
+              "endMs": 2120
+            },
+            {
+              "word": "blankets",
+              "charStart": 35,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2580
+            },
+            {
+              "word": "from",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2580,
+              "endMs": 2900
+            },
+            {
+              "word": "home",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2900,
+              "endMs": 3180
+            }
+          ]
+        },
+        {
+          "text": "Some were soft and fluffy, and others were thick and heavy.",
+          "translation_ko": "부드럽고 폭신한 것도 있었고, 두껍고 묵직한 것도 있었어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Some",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "were",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "soft",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1980
+            },
+            {
+              "word": "fluffy",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1980,
+              "endMs": 1980
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2640,
+              "endMs": 2860
+            },
+            {
+              "word": "others",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2860,
+              "endMs": 3120
+            },
+            {
+              "word": "were",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3120,
+              "endMs": 3500
+            },
+            {
+              "word": "thick",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3500,
+              "endMs": 3700
+            },
+            {
+              "word": "and",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3700,
+              "endMs": 4120
+            },
+            {
+              "word": "heavy",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 4120,
+              "endMs": 4200
+            }
+          ]
+        },
+        {
+          "text": "By Friday, the big box was nearly full.",
+          "translation_ko": "금요일이 되자, 커다란 상자가 거의 가득 찼어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p6-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "Friday",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 300,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1160,
+              "endMs": 1320
+            },
+            {
+              "word": "big",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "box",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 1860
+            },
+            {
+              "word": "was",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "nearly",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2480
+            },
+            {
+              "word": "full",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2480,
+              "endMs": 2820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Ms. Park counted the blankets carefully on Friday morning.",
+          "translation_ko": "Park 선생님이 금요일 아침에 담요를 꼼꼼하게 세셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ms",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Park",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 560,
+              "endMs": 720
+            },
+            {
+              "word": "counted",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "blankets",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1680
+            },
+            {
+              "word": "carefully",
+              "charStart": 30,
+              "charEnd": 39,
+              "startMs": 1680,
+              "endMs": 2240
+            },
+            {
+              "word": "on",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2240,
+              "endMs": 2580
+            },
+            {
+              "word": "Friday",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2580,
+              "endMs": 2820
+            },
+            {
+              "word": "morning",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 2820,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "\"We have collected twenty-two blankets in total!\" she announced proudly.",
+          "translation_ko": "\"총 스물두 장을 모았어요!\" 선생님이 자랑스럽게 말씀하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "have",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "collected",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 540,
+              "endMs": 880
+            },
+            {
+              "word": "twenty-two",
+              "charStart": 19,
+              "charEnd": 29,
+              "startMs": 880,
+              "endMs": 1580
+            },
+            {
+              "word": "blankets",
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 1580,
+              "endMs": 1980
+            },
+            {
+              "word": "in",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 1980,
+              "endMs": 2300
+            },
+            {
+              "word": "total",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2300,
+              "endMs": 2880
+            },
+            {
+              "word": "she",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 2880,
+              "endMs": 3040
+            },
+            {
+              "word": "announced",
+              "charStart": 54,
+              "charEnd": 63,
+              "startMs": 3040,
+              "endMs": 3320
+            },
+            {
+              "word": "proudly",
+              "charStart": 64,
+              "charEnd": 71,
+              "startMs": 3320,
+              "endMs": 3740
+            }
+          ]
+        },
+        {
+          "text": "The whole class cheered and clapped together.",
+          "translation_ko": "반 전체가 함께 환호하며 박수를 쳤어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "whole",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 500,
+              "endMs": 840
+            },
+            {
+              "word": "class",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "cheered",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1640
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1640,
+              "endMs": 2260
+            },
+            {
+              "word": "clapped",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2260
+            },
+            {
+              "word": "together",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2260,
+              "endMs": 2660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After school, Ms. Park, Jun, and Mina carried the box to a community center nearby.",
+          "translation_ko": "방과 후, 선생님과 두 친구는 상자를 들고 근처 마을 회관으로 갔어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "Ms",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1340
+            },
+            {
+              "word": "Park",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1560,
+              "endMs": 1660
+            },
+            {
+              "word": "Jun",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2480,
+              "endMs": 2640
+            },
+            {
+              "word": "Mina",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2640,
+              "endMs": 2860
+            },
+            {
+              "word": "carried",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2860,
+              "endMs": 3340
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3340,
+              "endMs": 3480
+            },
+            {
+              "word": "box",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3480,
+              "endMs": 3740
+            },
+            {
+              "word": "to",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3740,
+              "endMs": 3900
+            },
+            {
+              "word": "a",
+              "charStart": 57,
+              "charEnd": 58,
+              "startMs": 3900,
+              "endMs": 4140
+            },
+            {
+              "word": "community",
+              "charStart": 59,
+              "charEnd": 68,
+              "startMs": 4140,
+              "endMs": 4400
+            },
+            {
+              "word": "center",
+              "charStart": 69,
+              "charEnd": 75,
+              "startMs": 4400,
+              "endMs": 4740
+            },
+            {
+              "word": "nearby",
+              "charStart": 76,
+              "charEnd": 82,
+              "startMs": 4740,
+              "endMs": 5080
+            }
+          ]
+        },
+        {
+          "text": "An elderly woman named Mrs. Choi greeted them at the door.",
+          "translation_ko": "입구에서 최 할머니가 그들을 맞이해 주셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "An",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "elderly",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 660
+            },
+            {
+              "word": "woman",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "named",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1300
+            },
+            {
+              "word": "Mrs",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1680
+            },
+            {
+              "word": "Choi",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1940,
+              "endMs": 2040
+            },
+            {
+              "word": "greeted",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2040,
+              "endMs": 2620
+            },
+            {
+              "word": "them",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2620,
+              "endMs": 2900
+            },
+            {
+              "word": "at",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2900,
+              "endMs": 3140
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3300
+            },
+            {
+              "word": "door",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3300,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "She had kind eyes and a warm smile.",
+          "translation_ko": "할머니는 다정한 눈빛과 따뜻한 미소를 가지고 계셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p8-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "kind",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 940
+            },
+            {
+              "word": "eyes",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1740
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "warm",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2060,
+              "endMs": 2220
+            },
+            {
+              "word": "smile",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Oh my, so many blankets! Thank you so much,\" Mrs. Choi said softly.",
+          "translation_ko": "\"어머, 담요가 이렇게 많네요! 정말 고마워요,\" 최 할머니가 부드럽게 말씀하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Oh",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "my",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "so",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 1360,
+              "endMs": 1560
+            },
+            {
+              "word": "many",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1560,
+              "endMs": 1900
+            },
+            {
+              "word": "blankets",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 1900,
+              "endMs": 2340
+            },
+            {
+              "word": "Thank",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 3100,
+              "endMs": 3240
+            },
+            {
+              "word": "you",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 3240,
+              "endMs": 3520
+            },
+            {
+              "word": "so",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 3520,
+              "endMs": 3780
+            },
+            {
+              "word": "much",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 3780,
+              "endMs": 4100
+            },
+            {
+              "word": "Mrs",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 4540,
+              "endMs": 4740
+            },
+            {
+              "word": "Choi",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 5000,
+              "endMs": 5040
+            },
+            {
+              "word": "said",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 5040,
+              "endMs": 5360
+            },
+            {
+              "word": "softly",
+              "charStart": 61,
+              "charEnd": 67,
+              "startMs": 5360,
+              "endMs": 5820
+            }
+          ]
+        },
+        {
+          "text": "Jun felt a warm glow spread through his chest.",
+          "translation_ko": "Jun은 가슴속에서 따뜻한 기운이 퍼지는 것을 느꼈어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "warm",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1400
+            },
+            {
+              "word": "glow",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1780
+            },
+            {
+              "word": "spread",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1780,
+              "endMs": 2240
+            },
+            {
+              "word": "through",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2520
+            },
+            {
+              "word": "his",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "chest",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2800,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "He had never felt so proud of himself before.",
+          "translation_ko": "이렇게 스스로가 자랑스러웠던 적은 처음이었어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "had",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 660,
+              "endMs": 880
+            },
+            {
+              "word": "never",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1220
+            },
+            {
+              "word": "felt",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1460
+            },
+            {
+              "word": "so",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1460,
+              "endMs": 2000
+            },
+            {
+              "word": "proud",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 2000,
+              "endMs": 2000
+            },
+            {
+              "word": "of",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "himself",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2260,
+              "endMs": 2520
+            },
+            {
+              "word": "before",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2520,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina helped stack the blankets on a shelf inside the center.",
+          "translation_ko": "Mina는 마을 회관 안의 선반에 담요를 차곡차곡 쌓는 것을 도왔어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "helped",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "stack",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1200
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1360
+            },
+            {
+              "word": "blankets",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1360,
+              "endMs": 1720
+            },
+            {
+              "word": "on",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 1900
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 1900,
+              "endMs": 2060
+            },
+            {
+              "word": "shelf",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "inside",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2340,
+              "endMs": 2780
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2780,
+              "endMs": 2960
+            },
+            {
+              "word": "center",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 2960,
+              "endMs": 3240
+            }
+          ]
+        },
+        {
+          "text": "She folded each one neatly so they would stay in good shape.",
+          "translation_ko": "담요가 잘 보관되도록 하나하나 가지런히 접었어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "folded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "each",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1300
+            },
+            {
+              "word": "one",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1700
+            },
+            {
+              "word": "neatly",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1700,
+              "endMs": 2200
+            },
+            {
+              "word": "so",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2200,
+              "endMs": 2720
+            },
+            {
+              "word": "they",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2720,
+              "endMs": 2860
+            },
+            {
+              "word": "would",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2860,
+              "endMs": 3100
+            },
+            {
+              "word": "stay",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3100,
+              "endMs": 3320
+            },
+            {
+              "word": "in",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3320,
+              "endMs": 3540
+            },
+            {
+              "word": "good",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3540,
+              "endMs": 3780
+            },
+            {
+              "word": "shape",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3780,
+              "endMs": 4080
+            }
+          ]
+        },
+        {
+          "text": "\"Good teamwork,\" Ms. Park said, watching them with pride.",
+          "translation_ko": "\"정말 멋진 팀워크야,\" Park 선생님이 흐뭇하게 바라보며 말씀하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Good",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "teamwork",
+              "charStart": 6,
+              "charEnd": 14,
+              "startMs": 340,
+              "endMs": 900
+            },
+            {
+              "word": "Ms",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1340
+            },
+            {
+              "word": "Park",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1560
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1560,
+              "endMs": 1840
+            },
+            {
+              "word": "watching",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 2240,
+              "endMs": 2420
+            },
+            {
+              "word": "them",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2420,
+              "endMs": 2620
+            },
+            {
+              "word": "with",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2620,
+              "endMs": 2860
+            },
+            {
+              "word": "pride",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2860,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mrs. Choi brought out warm barley tea for the three of them.",
+          "translation_ko": "최 할머니가 세 사람에게 따뜻한 보리차를 내어 주셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mrs",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "Choi",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 820,
+              "endMs": 860
+            },
+            {
+              "word": "brought",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "out",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1520
+            },
+            {
+              "word": "warm",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1920
+            },
+            {
+              "word": "barley",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1920,
+              "endMs": 2240
+            },
+            {
+              "word": "tea",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2640
+            },
+            {
+              "word": "for",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 3000
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3000,
+              "endMs": 3180
+            },
+            {
+              "word": "three",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3180,
+              "endMs": 3360
+            },
+            {
+              "word": "of",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3360,
+              "endMs": 3500
+            },
+            {
+              "word": "them",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3500,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "They sat together and chatted about the coming winter.",
+          "translation_ko": "모두 함께 앉아 다가오는 겨울에 대해 이야기를 나눴어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "sat",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 380,
+              "endMs": 840
+            },
+            {
+              "word": "together",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 840,
+              "endMs": 1320
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 2060
+            },
+            {
+              "word": "chatted",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 2060,
+              "endMs": 2300
+            },
+            {
+              "word": "about",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2300,
+              "endMs": 2640
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2640,
+              "endMs": 2920
+            },
+            {
+              "word": "coming",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2920,
+              "endMs": 3140
+            },
+            {
+              "word": "winter",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3140,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "\"Winter feels less cold when people care for each other,\" said Mrs. Choi.",
+          "translation_ko": "\"서로 챙겨 주면 겨울도 덜 추운 법이지,\" 최 할머니가 말씀하셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Winter",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "feels",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 420,
+              "endMs": 840
+            },
+            {
+              "word": "less",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "cold",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1560
+            },
+            {
+              "word": "when",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "people",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "care",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2360
+            },
+            {
+              "word": "for",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2360,
+              "endMs": 2600
+            },
+            {
+              "word": "each",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2600,
+              "endMs": 2760
+            },
+            {
+              "word": "other",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 2760,
+              "endMs": 3780
+            },
+            {
+              "word": "said",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3780,
+              "endMs": 3860
+            },
+            {
+              "word": "Mrs",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 3860,
+              "endMs": 4140
+            },
+            {
+              "word": "Choi",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4380,
+              "endMs": 4420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the walk back to school, Mina turned to Jun.",
+          "translation_ko": "학교로 돌아오는 길에 Mina가 Jun에게 고개를 돌렸어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 180,
+              "endMs": 340
+            },
+            {
+              "word": "walk",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 540
+            },
+            {
+              "word": "back",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "school",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1040,
+              "endMs": 1360
+            },
+            {
+              "word": "Mina",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1740,
+              "endMs": 1860
+            },
+            {
+              "word": "turned",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 1860,
+              "endMs": 2220
+            },
+            {
+              "word": "to",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "Jun",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2420,
+              "endMs": 2640
+            }
+          ]
+        },
+        {
+          "text": "\"I want to do this again next year,\" she said quietly.",
+          "translation_ko": "\"내년에도 이거 또 하고 싶어,\" Mina가 조용히 말했어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "want",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 500
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 700
+            },
+            {
+              "word": "do",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 800
+            },
+            {
+              "word": "this",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 800,
+              "endMs": 1080
+            },
+            {
+              "word": "again",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1080,
+              "endMs": 1480
+            },
+            {
+              "word": "next",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 2000
+            },
+            {
+              "word": "year",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2000,
+              "endMs": 2840
+            },
+            {
+              "word": "she",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2840,
+              "endMs": 2960
+            },
+            {
+              "word": "said",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2960,
+              "endMs": 3180
+            },
+            {
+              "word": "quietly",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 3180,
+              "endMs": 3560
+            }
+          ]
+        },
+        {
+          "text": "Jun nodded and said, \"Me too. Let's start collecting even earlier.\"",
+          "translation_ko": "Jun도 고개를 끄덕이며 말했어요, \"나도. 내년엔 더 일찍 시작하자.\"",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1360
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1640
+            },
+            {
+              "word": "Me",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "too",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "Let's",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2980,
+              "endMs": 3320
+            },
+            {
+              "word": "start",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3320,
+              "endMs": 3600
+            },
+            {
+              "word": "collecting",
+              "charStart": 42,
+              "charEnd": 52,
+              "startMs": 3600,
+              "endMs": 3960
+            },
+            {
+              "word": "even",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3960,
+              "endMs": 4460
+            },
+            {
+              "word": "earlier",
+              "charStart": 58,
+              "charEnd": 65,
+              "startMs": 4460,
+              "endMs": 4860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Back in class, Ms. Park wrote a message on the board.",
+          "translation_ko": "교실로 돌아와 Park 선생님이 칠판에 메시지를 쓰셨어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Back",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "in",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "class",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "Ms",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "Park",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1820,
+              "endMs": 1920
+            },
+            {
+              "word": "wrote",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "a",
+              "charStart": 30,
+              "charEnd": 31,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "message",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2560
+            },
+            {
+              "word": "on",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2560,
+              "endMs": 2800
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2800,
+              "endMs": 2900
+            },
+            {
+              "word": "board",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2900,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "It said: \"Small acts of kindness can make a big difference.\"",
+          "translation_ko": "칠판에는 이렇게 쓰여 있었어요: \"작은 친절이 큰 변화를 만들 수 있어요.\"",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "said",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 800
+            },
+            {
+              "word": "Small",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 800,
+              "endMs": 1320
+            },
+            {
+              "word": "acts",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1660
+            },
+            {
+              "word": "of",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1660,
+              "endMs": 2340
+            },
+            {
+              "word": "kindness",
+              "charStart": 24,
+              "charEnd": 32,
+              "startMs": 2340,
+              "endMs": 2340
+            },
+            {
+              "word": "can",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2820
+            },
+            {
+              "word": "make",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2820,
+              "endMs": 2960
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 2960,
+              "endMs": 3200
+            },
+            {
+              "word": "big",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3200,
+              "endMs": 3460
+            },
+            {
+              "word": "difference",
+              "charStart": 48,
+              "charEnd": 58,
+              "startMs": 3460,
+              "endMs": 3820
+            }
+          ]
+        },
+        {
+          "text": "Jun copied it into his notebook and promised himself he would never forget it.",
+          "translation_ko": "Jun은 그 말을 공책에 옮겨 적고, 절대 잊지 않겠다고 스스로에게 다짐했어요.",
+          "audio": "/seed/daily-197-the-blanket-drive/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "copied",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 1160
+            },
+            {
+              "word": "it",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "into",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1620
+            },
+            {
+              "word": "his",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 1900
+            },
+            {
+              "word": "notebook",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2240
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2820
+            },
+            {
+              "word": "promised",
+              "charStart": 36,
+              "charEnd": 44,
+              "startMs": 2820,
+              "endMs": 3180
+            },
+            {
+              "word": "himself",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3600
+            },
+            {
+              "word": "he",
+              "charStart": 53,
+              "charEnd": 55,
+              "startMs": 3600,
+              "endMs": 3820
+            },
+            {
+              "word": "would",
+              "charStart": 56,
+              "charEnd": 61,
+              "startMs": 3820,
+              "endMs": 3940
+            },
+            {
+              "word": "never",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 3940,
+              "endMs": 4340
+            },
+            {
+              "word": "forget",
+              "charStart": 68,
+              "charEnd": 74,
+              "startMs": 4340,
+              "endMs": 4660
+            },
+            {
+              "word": "it",
+              "charStart": 75,
+              "charEnd": 77,
+              "startMs": 4660,
+              "endMs": 4880
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "담요 나눔 행사는 누구를 위한 것인가요?",
+      "type": "mc",
+      "options": [
+        "어린 아이들",
+        "어르신들",
+        "학교 선생님들",
+        "동네 가게 주인들"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Park 선생님이 어르신들을 위해 따뜻한 담요를 모은다고 설명하셨어요."
+    },
+    {
+      "question_ko": "Jun의 엄마가 옷장에서 찾은 담요는 몇 장인가요?",
+      "type": "mc",
+      "options": [
+        "한 장",
+        "세 장",
+        "두 장",
+        "네 장"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Jun의 엄마는 옷장에서 두꺼운 담요 두 장을 찾아냈어요."
+    },
+    {
+      "question_ko": "반 전체가 모은 담요는 모두 몇 장인가요?",
+      "type": "mc",
+      "options": [
+        "열다섯 장",
+        "스물두 장",
+        "열두 장",
+        "서른 장"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Park 선생님이 금요일 아침에 세어 보니 총 스물두 장이 모였어요."
+    },
+    {
+      "question_ko": "마을 회관에서 아이들을 맞이한 사람은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "Jun의 엄마",
+        "Mina의 할머니",
+        "최 할머니",
+        "마을 이장님"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "최 할머니(Mrs. Choi)가 마을 회관 입구에서 따뜻하게 맞이해 주셨어요."
+    },
+    {
+      "question_ko": "Park 선생님이 교실 칠판에 쓴 메시지는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "함께 공부하면 더 많이 배울 수 있어요.",
+        "작은 친절이 큰 변화를 만들 수 있어요.",
+        "겨울에는 두꺼운 옷을 입어야 해요.",
+        "나눔은 받는 것보다 더 행복해요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "선생님은 '작은 친절이 큰 변화를 만들 수 있어요.'라고 칠판에 쓰셨어요."
+    }
+  ]
+}

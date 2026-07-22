@@ -1,0 +1,940 @@
+{
+  "slug": "daily-163-feeding-the-ducks",
+  "title": "Feeding the Ducks",
+  "title_ko": "오리에게 먹이 주기",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 공원 연못에서 오리에게 빵을 나눠 주며 즐거운 시간을 보내요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina went to the park.",
+          "translation_ko": "Jun과 Mina는 공원에 갔어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 780
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1080
+            },
+            {
+              "word": "went",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1520
+            },
+            {
+              "word": "to",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1520,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1660,
+              "endMs": 1840
+            },
+            {
+              "word": "park",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1840,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "They saw a big pond.",
+          "translation_ko": "두 아이는 큰 연못을 발견했어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "saw",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 680,
+              "endMs": 1020
+            },
+            {
+              "word": "big",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1020,
+              "endMs": 1480
+            },
+            {
+              "word": "pond",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1480,
+              "endMs": 1840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Many ducks swam in the pond.",
+          "translation_ko": "연못에는 오리들이 헤엄치고 있었어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Many",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "ducks",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "swam",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1340
+            },
+            {
+              "word": "in",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1920
+            },
+            {
+              "word": "pond",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 1920
+            }
+          ]
+        },
+        {
+          "text": "Jun smiled and said, \"Look at the ducks!\"",
+          "translation_ko": "Jun이 웃으며 말했어요. \"오리들 좀 봐!\"",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1320,
+              "endMs": 1520
+            },
+            {
+              "word": "Look",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1820,
+              "endMs": 2140
+            },
+            {
+              "word": "at",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2140,
+              "endMs": 2280
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2280,
+              "endMs": 2420
+            },
+            {
+              "word": "ducks",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina had some bread in her bag.",
+          "translation_ko": "Mina는 가방 안에 빵을 가지고 있었어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "had",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 640
+            },
+            {
+              "word": "some",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 900
+            },
+            {
+              "word": "bread",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1120
+            },
+            {
+              "word": "in",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1120,
+              "endMs": 1360
+            },
+            {
+              "word": "her",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1360,
+              "endMs": 1520
+            },
+            {
+              "word": "bag",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1520,
+              "endMs": 1800
+            }
+          ]
+        },
+        {
+          "text": "She said, \"Let's feed the ducks!\"",
+          "translation_ko": "그녀가 말했어요. \"오리에게 먹이를 줘 보자!\"",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "Let's",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 700,
+              "endMs": 1200
+            },
+            {
+              "word": "feed",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "ducks",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1480,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun broke the bread into small pieces.",
+          "translation_ko": "Jun은 빵을 작은 조각으로 뜯었어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "broke",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1300
+            },
+            {
+              "word": "bread",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1300
+            },
+            {
+              "word": "into",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1640
+            },
+            {
+              "word": "small",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 2000
+            },
+            {
+              "word": "pieces",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "He threw a piece into the water.",
+          "translation_ko": "그는 조각 하나를 물 위에 던졌어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "threw",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 600,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 840,
+              "endMs": 1060
+            },
+            {
+              "word": "piece",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1400
+            },
+            {
+              "word": "into",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "water",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A duck swam fast and ate the bread.",
+          "translation_ko": "오리 한 마리가 빠르게 헤엄쳐 와서 빵을 먹었어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "duck",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 500
+            },
+            {
+              "word": "swam",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "fast",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1400,
+              "endMs": 1760
+            },
+            {
+              "word": "ate",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1760,
+              "endMs": 1960
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2200
+            },
+            {
+              "word": "bread",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2340
+            }
+          ]
+        },
+        {
+          "text": "More ducks came to them.",
+          "translation_ko": "더 많은 오리들이 두 아이에게 다가왔어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "More",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "ducks",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "came",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1180
+            },
+            {
+              "word": "to",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1180,
+              "endMs": 1340
+            },
+            {
+              "word": "them",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1340,
+              "endMs": 1560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina laughed and threw her bread too.",
+          "translation_ko": "Mina도 웃으며 빵을 던졌어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "laughed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "threw",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1440
+            },
+            {
+              "word": "her",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1440,
+              "endMs": 1680
+            },
+            {
+              "word": "bread",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 1920
+            },
+            {
+              "word": "too",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1920,
+              "endMs": 2300
+            }
+          ]
+        },
+        {
+          "text": "The ducks quacked loudly.",
+          "translation_ko": "오리들이 크게 꽥꽥 울었어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "ducks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 960
+            },
+            {
+              "word": "quacked",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1400
+            },
+            {
+              "word": "loudly",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1400,
+              "endMs": 2060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun said, \"They are hungry!\"",
+          "translation_ko": "Jun이 말했어요. \"오리들이 배고픈가 봐!\"",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "They",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1300
+            },
+            {
+              "word": "are",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1300,
+              "endMs": 1540
+            },
+            {
+              "word": "hungry",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1540,
+              "endMs": 1860
+            }
+          ]
+        },
+        {
+          "text": "But the bread was all gone.",
+          "translation_ko": "하지만 빵이 모두 없어졌어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 460
+            },
+            {
+              "word": "bread",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 460,
+              "endMs": 720
+            },
+            {
+              "word": "was",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 1020
+            },
+            {
+              "word": "all",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1420
+            },
+            {
+              "word": "gone",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1420,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina waved at the ducks and walked home.",
+          "translation_ko": "Jun과 Mina는 오리들에게 손을 흔들고 집으로 걸어갔어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 780
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1120
+            },
+            {
+              "word": "waved",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1720
+            },
+            {
+              "word": "at",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1720,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1940,
+              "endMs": 2060
+            },
+            {
+              "word": "ducks",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2360,
+              "endMs": 2980
+            },
+            {
+              "word": "walked",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2980,
+              "endMs": 3180
+            },
+            {
+              "word": "home",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 3180,
+              "endMs": 3500
+            }
+          ]
+        },
+        {
+          "text": "It was a fun afternoon.",
+          "translation_ko": "정말 즐거운 오후였어요.",
+          "audio": "/seed/daily-163-feeding-the-ducks/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 440
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "fun",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 920
+            },
+            {
+              "word": "afternoon",
+              "charStart": 13,
+              "charEnd": 22,
+              "startMs": 920,
+              "endMs": 1340
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun과 Mina는 공원에서 무엇을 보았나요?",
+      "type": "mc",
+      "options": [
+        "큰 연못",
+        "작은 강",
+        "수영장",
+        "분수대"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "공원에 도착한 두 아이는 큰 연못을 발견했어요."
+    },
+    {
+      "question_ko": "오리에게 줄 빵을 가지고 있던 사람은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "Jun의 엄마",
+        "Jun",
+        "Mina",
+        "공원 아저씨"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Mina가 가방 안에 빵을 가지고 있었어요."
+    },
+    {
+      "question_ko": "Jun은 빵을 어떻게 준비했나요?",
+      "type": "mc",
+      "options": [
+        "물에 적셨어요",
+        "작은 조각으로 뜯었어요",
+        "그냥 통째로 던졌어요",
+        "가위로 잘랐어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 빵을 작은 조각으로 뜯어서 물 위에 던졌어요."
+    },
+    {
+      "question_ko": "오리들이 크게 낸 소리는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "짹짹",
+        "꽥꽥",
+        "멍멍",
+        "야옹"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "오리들은 꽥꽥(quacked) 하고 크게 울었어요."
+    },
+    {
+      "question_ko": "빵이 다 없어진 후 Jun과 Mina는 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "연못에서 수영했어요",
+        "오리에게 손을 흔들고 집으로 갔어요",
+        "빵을 더 사러 갔어요",
+        "벤치에서 쉬었어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "두 아이는 오리들에게 손을 흔들고 집으로 걸어갔어요."
+    }
+  ]
+}

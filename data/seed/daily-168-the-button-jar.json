@@ -1,0 +1,807 @@
+{
+  "slug": "daily-168-the-button-jar",
+  "title": "The Button Jar",
+  "title_ko": "단추 통",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "준이 할머니와 함께 단추 통을 꺼내 색깔별로 분류하며 즐거운 시간을 보내요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun went to Grandma's house on Saturday.",
+          "translation_ko": "준은 토요일에 할머니 댁에 갔어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "went",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 1080
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1080,
+              "endMs": 1240
+            },
+            {
+              "word": "Grandma's",
+              "charStart": 12,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1740
+            },
+            {
+              "word": "house",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 1900
+            },
+            {
+              "word": "on",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "Saturday",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandma had a big jar on the table.",
+          "translation_ko": "할머니 식탁 위에 커다란 통이 있었어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "had",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 960
+            },
+            {
+              "word": "big",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "jar",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1580
+            },
+            {
+              "word": "on",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1580,
+              "endMs": 1800
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 1960
+            },
+            {
+              "word": "table",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1960,
+              "endMs": 2180
+            }
+          ]
+        },
+        {
+          "text": "It was full of buttons.",
+          "translation_ko": "통 안에는 단추가 가득 들어 있었어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 360,
+              "endMs": 580
+            },
+            {
+              "word": "full",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "of",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1020,
+              "endMs": 1420
+            },
+            {
+              "word": "buttons",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1420,
+              "endMs": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Can I look at the buttons?\" asked Jun.",
+          "translation_ko": "\"단추들 좀 봐도 돼요?\" 준이 물었어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 260,
+              "endMs": 440
+            },
+            {
+              "word": "look",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 600
+            },
+            {
+              "word": "at",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 780,
+              "endMs": 940
+            },
+            {
+              "word": "buttons",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 940,
+              "endMs": 1220
+            },
+            {
+              "word": "asked",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2040,
+              "endMs": 2340
+            },
+            {
+              "word": "Jun",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2620
+            }
+          ]
+        },
+        {
+          "text": "\"Yes, but be careful,\" said Grandma.",
+          "translation_ko": "\"그래, 하지만 조심하렴.\" 할머니가 말씀하셨어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "but",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 820,
+              "endMs": 960
+            },
+            {
+              "word": "be",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 960,
+              "endMs": 1240
+            },
+            {
+              "word": "careful",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1240,
+              "endMs": 2380
+            },
+            {
+              "word": "said",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2380,
+              "endMs": 2440
+            },
+            {
+              "word": "Grandma",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2440,
+              "endMs": 2760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun picked up a red button and a blue button.",
+          "translation_ko": "준은 빨간 단추와 파란 단추를 집어 들었어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 480,
+              "endMs": 1000
+            },
+            {
+              "word": "picked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 1000,
+              "endMs": 1300
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1500,
+              "endMs": 1780
+            },
+            {
+              "word": "red",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1780,
+              "endMs": 1940
+            },
+            {
+              "word": "button",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1940,
+              "endMs": 2200
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2200,
+              "endMs": 2660
+            },
+            {
+              "word": "a",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 2660,
+              "endMs": 2920
+            },
+            {
+              "word": "blue",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2920,
+              "endMs": 3060
+            },
+            {
+              "word": "button",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 3060,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Let's sort them by color,\" said Grandma.",
+          "translation_ko": "\"색깔별로 나눠 보자.\" 할머니가 말씀하셨어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Let's",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "sort",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 880,
+              "endMs": 980
+            },
+            {
+              "word": "them",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "by",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "color",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 2560
+            },
+            {
+              "word": "said",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2560,
+              "endMs": 2640
+            },
+            {
+              "word": "Grandma",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2640,
+              "endMs": 2980
+            }
+          ]
+        },
+        {
+          "text": "Jun liked that idea.",
+          "translation_ko": "준은 그 생각이 마음에 들었어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "liked",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "that",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 720,
+              "endMs": 1000
+            },
+            {
+              "word": "idea",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He put red buttons in one pile and blue buttons in another.",
+          "translation_ko": "준은 빨간 단추를 한 무더기에, 파란 단추를 다른 무더기에 놓았어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "put",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 560
+            },
+            {
+              "word": "red",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 980
+            },
+            {
+              "word": "buttons",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1240
+            },
+            {
+              "word": "in",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1600
+            },
+            {
+              "word": "one",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "word": "pile",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2000,
+              "endMs": 2100
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2600
+            },
+            {
+              "word": "blue",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2600,
+              "endMs": 2820
+            },
+            {
+              "word": "buttons",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2820,
+              "endMs": 3000
+            },
+            {
+              "word": "in",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3000,
+              "endMs": 3360
+            },
+            {
+              "word": "another",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 3360,
+              "endMs": 3560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandma found a yellow button and a green button.",
+          "translation_ko": "할머니는 노란 단추와 초록 단추를 찾으셨어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Grandma",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "found",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1040
+            },
+            {
+              "word": "yellow",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1040,
+              "endMs": 1240
+            },
+            {
+              "word": "button",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1500,
+              "endMs": 1880
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 1880,
+              "endMs": 2080
+            },
+            {
+              "word": "green",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "button",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2260,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "They sorted those too.",
+          "translation_ko": "그것들도 함께 나눴어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "sorted",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 640
+            },
+            {
+              "word": "those",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "too",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"We did it!\" said Jun, and Grandma smiled.",
+          "translation_ko": "\"다 했어요!\" 준이 외쳤고 할머니는 활짝 웃으셨어요.",
+          "audio": "/seed/daily-168-the-button-jar/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "did",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 880
+            },
+            {
+              "word": "it",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 880,
+              "endMs": 1680
+            },
+            {
+              "word": "said",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1680,
+              "endMs": 1780
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1780,
+              "endMs": 2080
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2640,
+              "endMs": 2860
+            },
+            {
+              "word": "Grandma",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2860,
+              "endMs": 3360
+            },
+            {
+              "word": "smiled",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 3360,
+              "endMs": 3980
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 무슨 요일에 할머니 댁에 갔나요?",
+      "type": "mc",
+      "options": [
+        "월요일",
+        "금요일",
+        "토요일",
+        "일요일"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "본문에서 준은 토요일(Saturday)에 할머니 댁을 방문했어요."
+    },
+    {
+      "question_ko": "할머니 식탁 위에 있던 통 안에는 무엇이 가득 들어 있었나요?",
+      "type": "mc",
+      "options": [
+        "사탕",
+        "단추",
+        "구슬",
+        "동전"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "통 안에는 단추(buttons)가 가득 들어 있었어요."
+    },
+    {
+      "question_ko": "준과 할머니는 단추를 어떻게 나눴나요?",
+      "type": "mc",
+      "options": [
+        "크기별로",
+        "모양별로",
+        "색깔별로",
+        "무게별로"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "할머니가 색깔별로(by color) 나누자고 제안했어요."
+    },
+    {
+      "question_ko": "준이 처음에 집어 든 단추 두 가지 색은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "노란색과 초록색",
+        "빨간색과 파란색",
+        "흰색과 검은색",
+        "분홍색과 보라색"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "준은 빨간(red) 단추와 파란(blue) 단추를 집어 들었어요."
+    },
+    {
+      "question_ko": "단추를 다 나눈 뒤 할머니는 어떤 표정을 지으셨나요?",
+      "type": "mc",
+      "options": [
+        "화가 나셨어요",
+        "슬퍼하셨어요",
+        "웃으셨어요",
+        "놀라셨어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준이 '다 했어요!'라고 외치자 할머니는 활짝 웃으셨어요(Grandma smiled)."
+    }
+  ]
+}

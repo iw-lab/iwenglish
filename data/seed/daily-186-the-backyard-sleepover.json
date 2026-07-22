@@ -1,0 +1,1655 @@
+{
+  "slug": "daily-186-the-backyard-sleepover",
+  "title": "The Backyard Sleepover",
+  "title_ko": "뒷마당 캠핑",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "Jun이 아빠와 함께 뒷마당에 텐트를 치고 별을 보며 특별한 하룻밤을 보내요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun ran to the backyard and saw a big tent.",
+          "translation_ko": "준이 뒷마당으로 달려가니 커다란 텐트가 보였어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "backyard",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1600,
+              "endMs": 2200
+            },
+            {
+              "word": "saw",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2200,
+              "endMs": 2420
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 2420,
+              "endMs": 2680
+            },
+            {
+              "word": "big",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2680,
+              "endMs": 2980
+            },
+            {
+              "word": "tent",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2980,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "\"Dad, did you set this up for me?\" Jun asked.",
+          "translation_ko": "\"아빠, 저를 위해 이걸 치신 거예요?\" 준이 물었어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "did",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 660,
+              "endMs": 1140
+            },
+            {
+              "word": "you",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "set",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1380,
+              "endMs": 1540
+            },
+            {
+              "word": "this",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1540,
+              "endMs": 1740
+            },
+            {
+              "word": "up",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1740,
+              "endMs": 1900
+            },
+            {
+              "word": "for",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2060
+            },
+            {
+              "word": "me",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2060,
+              "endMs": 2260
+            },
+            {
+              "word": "Jun",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 3560,
+              "endMs": 3620
+            },
+            {
+              "word": "asked",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 3620,
+              "endMs": 4040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad smiled and said, \"Yes! We are sleeping outside tonight.\"",
+          "translation_ko": "아빠가 웃으며 말했어요. \"그럼! 오늘 밤 우리 밖에서 자는 거야.\"",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1480
+            },
+            {
+              "word": "Yes",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1760,
+              "endMs": 2100
+            },
+            {
+              "word": "We",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 2440,
+              "endMs": 2840
+            },
+            {
+              "word": "are",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2840,
+              "endMs": 3100
+            },
+            {
+              "word": "sleeping",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 3100,
+              "endMs": 3380
+            },
+            {
+              "word": "outside",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 3380,
+              "endMs": 3880
+            },
+            {
+              "word": "tonight",
+              "charStart": 51,
+              "charEnd": 58,
+              "startMs": 3880,
+              "endMs": 4260
+            }
+          ]
+        },
+        {
+          "text": "Jun jumped up and down because he was so excited.",
+          "translation_ko": "준이 너무 신나서 펄쩍펄쩍 뛰었어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "jumped",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "down",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1540
+            },
+            {
+              "word": "because",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1540,
+              "endMs": 1900
+            },
+            {
+              "word": "he",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1900,
+              "endMs": 2060
+            },
+            {
+              "word": "was",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2220
+            },
+            {
+              "word": "so",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2220,
+              "endMs": 2620
+            },
+            {
+              "word": "excited",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2620,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They carried sleeping bags and pillows to the tent.",
+          "translation_ko": "두 사람은 침낭과 베개를 텐트로 가져갔어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "carried",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "sleeping",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 620,
+              "endMs": 1020
+            },
+            {
+              "word": "bags",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1380,
+              "endMs": 1720
+            },
+            {
+              "word": "pillows",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "to",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 1920,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2160,
+              "endMs": 2460
+            },
+            {
+              "word": "tent",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2460,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "\"This is cozy,\" Jun said as he crawled inside.",
+          "translation_ko": "\"여기 아늑하다!\" 준이 텐트 안으로 기어 들어가며 말했어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "cozy",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 1080
+            },
+            {
+              "word": "Jun",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1680,
+              "endMs": 1700
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1700,
+              "endMs": 2040
+            },
+            {
+              "word": "as",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2040,
+              "endMs": 2220
+            },
+            {
+              "word": "he",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2220,
+              "endMs": 2520
+            },
+            {
+              "word": "crawled",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2520,
+              "endMs": 2780
+            },
+            {
+              "word": "inside",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2780,
+              "endMs": 3260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad lit a small lantern, and warm light filled the tent.",
+          "translation_ko": "아빠가 작은 랜턴을 켜자 텐트 안이 따뜻한 빛으로 가득 찼어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "lit",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 1000
+            },
+            {
+              "word": "small",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "lantern",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 2320
+            },
+            {
+              "word": "warm",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2320,
+              "endMs": 2640
+            },
+            {
+              "word": "light",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2640,
+              "endMs": 2920
+            },
+            {
+              "word": "filled",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2920,
+              "endMs": 3240
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3240,
+              "endMs": 3580
+            },
+            {
+              "word": "tent",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3580,
+              "endMs": 3620
+            }
+          ]
+        },
+        {
+          "text": "\"It looks like a little house,\" Jun said happily.",
+          "translation_ko": "\"꼭 작은 집 같아요!\" 준이 기분 좋게 말했어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "like",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 800,
+              "endMs": 1000
+            },
+            {
+              "word": "little",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "house",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1260,
+              "endMs": 2160
+            },
+            {
+              "word": "Jun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2300
+            },
+            {
+              "word": "said",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2520
+            },
+            {
+              "word": "happily",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2520,
+              "endMs": 2860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun and Dad went outside to look at the night sky.",
+          "translation_ko": "준과 아빠는 밖으로 나가 밤하늘을 올려다보았어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 420,
+              "endMs": 680
+            },
+            {
+              "word": "Dad",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 960
+            },
+            {
+              "word": "went",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1280
+            },
+            {
+              "word": "outside",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1860
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2140
+            },
+            {
+              "word": "look",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2280
+            },
+            {
+              "word": "at",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2280,
+              "endMs": 2420
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2560
+            },
+            {
+              "word": "night",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2560,
+              "endMs": 2780
+            },
+            {
+              "word": "sky",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3000
+            }
+          ]
+        },
+        {
+          "text": "\"Wow, I can see so many stars!\" Jun said.",
+          "translation_ko": "\"와, 별이 정말 많다!\" 준이 말했어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Wow",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "I",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 1260,
+              "endMs": 1320
+            },
+            {
+              "word": "can",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "see",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1540,
+              "endMs": 1700
+            },
+            {
+              "word": "so",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1700,
+              "endMs": 2020
+            },
+            {
+              "word": "many",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "stars",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2300,
+              "endMs": 3340
+            },
+            {
+              "word": "Jun",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 3340,
+              "endMs": 3420
+            },
+            {
+              "word": "said",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3420,
+              "endMs": 3720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad pointed up and said, \"Those three stars are called Orion's Belt.\"",
+          "translation_ko": "아빠가 하늘을 가리키며 말했어요. \"저 별 세 개를 오리온의 허리띠라고 해.\"",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "pointed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "up",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1280
+            },
+            {
+              "word": "said",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "Those",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2100,
+              "endMs": 2280
+            },
+            {
+              "word": "three",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2280,
+              "endMs": 2660
+            },
+            {
+              "word": "stars",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2660,
+              "endMs": 3000
+            },
+            {
+              "word": "are",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3000,
+              "endMs": 3220
+            },
+            {
+              "word": "called",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 3220,
+              "endMs": 3560
+            },
+            {
+              "word": "Orion's",
+              "charStart": 55,
+              "charEnd": 62,
+              "startMs": 3560,
+              "endMs": 4340
+            },
+            {
+              "word": "Belt",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 4340,
+              "endMs": 4460
+            }
+          ]
+        },
+        {
+          "text": "Jun tried to find the shape, and his eyes grew wide.",
+          "translation_ko": "준이 별 모양을 찾으려고 눈을 크게 뜨고 바라보았어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "tried",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 800,
+              "endMs": 1100
+            },
+            {
+              "word": "find",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "shape",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2300,
+              "endMs": 2380
+            },
+            {
+              "word": "his",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2380,
+              "endMs": 2580
+            },
+            {
+              "word": "eyes",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2580,
+              "endMs": 2880
+            },
+            {
+              "word": "grew",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2880,
+              "endMs": 3140
+            },
+            {
+              "word": "wide",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3140,
+              "endMs": 3540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Later, they went back inside and Dad told a story.",
+          "translation_ko": "잠시 후 두 사람은 텐트로 돌아와 아빠가 이야기를 들려주었어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Later",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "they",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1100,
+              "endMs": 1200
+            },
+            {
+              "word": "went",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1360
+            },
+            {
+              "word": "back",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1720
+            },
+            {
+              "word": "inside",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2140
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2620,
+              "endMs": 2820
+            },
+            {
+              "word": "Dad",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2820,
+              "endMs": 3060
+            },
+            {
+              "word": "told",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 3060,
+              "endMs": 3340
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 3340,
+              "endMs": 3620
+            },
+            {
+              "word": "story",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3620,
+              "endMs": 3760
+            }
+          ]
+        },
+        {
+          "text": "Jun listened carefully and pulled his sleeping bag up tight.",
+          "translation_ko": "준은 귀를 기울이며 침낭을 꽉 당겨 덮었어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "listened",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 740
+            },
+            {
+              "word": "carefully",
+              "charStart": 13,
+              "charEnd": 22,
+              "startMs": 740,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1240,
+              "endMs": 1800
+            },
+            {
+              "word": "pulled",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 1980
+            },
+            {
+              "word": "his",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2220
+            },
+            {
+              "word": "sleeping",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2220,
+              "endMs": 2480
+            },
+            {
+              "word": "bag",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2480,
+              "endMs": 2780
+            },
+            {
+              "word": "up",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 2780,
+              "endMs": 3080
+            },
+            {
+              "word": "tight",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3080,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Suddenly Jun heard a strange sound outside the tent.",
+          "translation_ko": "그때 텐트 밖에서 이상한 소리가 들렸어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Suddenly",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "Jun",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1200,
+              "endMs": 1280
+            },
+            {
+              "word": "heard",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1540
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "strange",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2160
+            },
+            {
+              "word": "sound",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2540
+            },
+            {
+              "word": "outside",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2540,
+              "endMs": 3000
+            },
+            {
+              "word": "the",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3000,
+              "endMs": 3360
+            },
+            {
+              "word": "tent",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 3360,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "\"Dad, what is that?\" Jun asked in a small voice.",
+          "translation_ko": "\"아빠, 저게 뭐예요?\" 준이 작은 목소리로 물었어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "what",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 980,
+              "endMs": 1480
+            },
+            {
+              "word": "is",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1480,
+              "endMs": 1680
+            },
+            {
+              "word": "that",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1680,
+              "endMs": 2020
+            },
+            {
+              "word": "Jun",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2540,
+              "endMs": 2580
+            },
+            {
+              "word": "asked",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2580,
+              "endMs": 2940
+            },
+            {
+              "word": "in",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2940,
+              "endMs": 3080
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 3080,
+              "endMs": 3280
+            },
+            {
+              "word": "small",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3280,
+              "endMs": 3500
+            },
+            {
+              "word": "voice",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3500,
+              "endMs": 3880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad unzipped the tent and shone the lantern outside.",
+          "translation_ko": "아빠가 텐트 지퍼를 열고 랜턴을 밖으로 비추었어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "unzipped",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 540,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "tent",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1260,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1460,
+              "endMs": 2000
+            },
+            {
+              "word": "shone",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2000,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2140,
+              "endMs": 2620
+            },
+            {
+              "word": "lantern",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2620,
+              "endMs": 2620
+            },
+            {
+              "word": "outside",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 2620,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "It was just a small cat walking past the fence.",
+          "translation_ko": "담장 옆을 걸어가는 작은 고양이였어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 140,
+              "endMs": 400
+            },
+            {
+              "word": "just",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1020
+            },
+            {
+              "word": "small",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1300
+            },
+            {
+              "word": "cat",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1700
+            },
+            {
+              "word": "walking",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 2340
+            },
+            {
+              "word": "past",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2800
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2800,
+              "endMs": 3100
+            },
+            {
+              "word": "fence",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3100,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun laughed and felt much better right away.",
+          "translation_ko": "준이 웃음을 터뜨리며 금세 마음이 편안해졌어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "laughed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1340
+            },
+            {
+              "word": "felt",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1560
+            },
+            {
+              "word": "much",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 2000
+            },
+            {
+              "word": "better",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2000,
+              "endMs": 2340
+            },
+            {
+              "word": "right",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2880
+            },
+            {
+              "word": "away",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2880,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "\"This is the best night ever, Dad,\" Jun whispered before he fell asleep.",
+          "translation_ko": "\"아빠, 오늘이 제 생애 최고의 밤이에요.\" 준이 잠들기 전에 속삭였어요.",
+          "audio": "/seed/daily-186-the-backyard-sleepover/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "best",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "night",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1800
+            },
+            {
+              "word": "ever",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2180
+            },
+            {
+              "word": "Dad",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2620,
+              "endMs": 3260
+            },
+            {
+              "word": "Jun",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 3260,
+              "endMs": 3320
+            },
+            {
+              "word": "whispered",
+              "charStart": 40,
+              "charEnd": 49,
+              "startMs": 3320,
+              "endMs": 3880
+            },
+            {
+              "word": "before",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3880,
+              "endMs": 4080
+            },
+            {
+              "word": "he",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 4080,
+              "endMs": 4460
+            },
+            {
+              "word": "fell",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 4460,
+              "endMs": 4500
+            },
+            {
+              "word": "asleep",
+              "charStart": 65,
+              "charEnd": 71,
+              "startMs": 4500,
+              "endMs": 4940
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아빠가 뒷마당에 무엇을 준비했나요?",
+      "type": "mc",
+      "options": [
+        "바비큐 그릴",
+        "텐트",
+        "수영장",
+        "그네"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "아빠는 뒷마당에 텐트를 쳐서 Jun과 함께 밖에서 자기로 했어요."
+    },
+    {
+      "question_ko": "아빠가 밤하늘에서 가르쳐 준 별 이름은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "북두칠성",
+        "카시오페이아",
+        "오리온의 허리띠",
+        "큰곰자리"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아빠는 하늘의 세 별을 가리키며 '오리온의 허리띠'라고 알려 주었어요."
+    },
+    {
+      "question_ko": "텐트 밖에서 이상한 소리를 낸 것은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "개",
+        "새",
+        "작은 고양이",
+        "바람"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아빠가 랜턴을 비추자 담장 옆을 걷는 작은 고양이였어요."
+    },
+    {
+      "question_ko": "Jun과 아빠가 텐트 안에서 함께 한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "영화 감상",
+        "카드 게임",
+        "이야기 듣기",
+        "숙제하기"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아빠가 이야기를 들려주자 Jun은 귀를 기울이며 침낭을 당겨 덮었어요."
+    },
+    {
+      "question_ko": "Jun은 잠들기 전에 아빠에게 뭐라고 말했나요?",
+      "type": "mc",
+      "options": [
+        "\"내일 또 해요\"",
+        "\"오늘이 제 생애 최고의 밤이에요\"",
+        "\"너무 추워요\"",
+        "\"별이 안 보여요\""
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 잠들기 직전에 오늘이 최고의 밤이라고 아빠에게 속삭였어요."
+    }
+  ]
+}

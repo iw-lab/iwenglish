@@ -1,0 +1,2519 @@
+{
+  "slug": "the-thousand-paper-cranes",
+  "title": "A Thousand Paper Cranes",
+  "title_ko": "천 마리 종이학",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "아픈 친구의 회복을 빌며 천 마리 종이학을 접는 소녀와 함께한 반 친구들의 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Mia sat alone at her desk, folding a small square of paper.",
+          "translation_ko": "미아는 혼자 책상에 앉아 작은 종이 한 장을 접었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "sat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 740
+            },
+            {
+              "word": "alone",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 740,
+              "endMs": 1180
+            },
+            {
+              "word": "at",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "her",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "desk",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "folding",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2660,
+              "endMs": 2680
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2680,
+              "endMs": 3000
+            },
+            {
+              "word": "small",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 3000,
+              "endMs": 3400
+            },
+            {
+              "word": "square",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3400,
+              "endMs": 3780
+            },
+            {
+              "word": "of",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 3780,
+              "endMs": 4260
+            },
+            {
+              "word": "paper",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 4260,
+              "endMs": 4460
+            }
+          ]
+        },
+        {
+          "text": "Her fingers moved slowly, pressing each crease with care.",
+          "translation_ko": "그녀의 손가락이 천천히 움직이며 선 하나하나를 꼼꼼히 눌렀습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "fingers",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 200,
+              "endMs": 540
+            },
+            {
+              "word": "moved",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 540,
+              "endMs": 860
+            },
+            {
+              "word": "slowly",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 860,
+              "endMs": 1320
+            },
+            {
+              "word": "pressing",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 2160,
+              "endMs": 2160
+            },
+            {
+              "word": "each",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2600
+            },
+            {
+              "word": "crease",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2600,
+              "endMs": 2860
+            },
+            {
+              "word": "with",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2860,
+              "endMs": 3120
+            },
+            {
+              "word": "care",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3120,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A paper crane rested on her palm, small and white.",
+          "translation_ko": "하얗고 작은 종이학 한 마리가 그녀의 손바닥 위에 놓였습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "paper",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 480
+            },
+            {
+              "word": "crane",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "rested",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 940,
+              "endMs": 1600
+            },
+            {
+              "word": "on",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1940
+            },
+            {
+              "word": "her",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "palm",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2500
+            },
+            {
+              "word": "small",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 3140,
+              "endMs": 3420
+            },
+            {
+              "word": "and",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 3420,
+              "endMs": 3740
+            },
+            {
+              "word": "white",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 3740,
+              "endMs": 3960
+            }
+          ]
+        },
+        {
+          "text": "\"One down,\" she whispered, \"nine hundred and ninety-nine to go.\"",
+          "translation_ko": "\"한 마리 완성,\" 그녀가 속삭였습니다. \"아직 구백구십구 마리가 남았어.\"",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 30,
+              "endMs": 264
+            },
+            {
+              "word": "down",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 264,
+              "endMs": 592
+            },
+            {
+              "word": "she",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 592,
+              "endMs": 826
+            },
+            {
+              "word": "whispered",
+              "charStart": 16,
+              "charEnd": 25,
+              "startMs": 826,
+              "endMs": 1501
+            },
+            {
+              "word": "nine",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1501,
+              "endMs": 1734
+            },
+            {
+              "word": "hundred",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 1734,
+              "endMs": 2141
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2141,
+              "endMs": 2374
+            },
+            {
+              "word": "ninety-nine",
+              "charStart": 45,
+              "charEnd": 56,
+              "startMs": 2374,
+              "endMs": 3127
+            },
+            {
+              "word": "to",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 3127,
+              "endMs": 3361
+            },
+            {
+              "word": "go",
+              "charStart": 60,
+              "charEnd": 62,
+              "startMs": 3361,
+              "endMs": 3750
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Her best friend, Sora, had been in the hospital for three weeks.",
+          "translation_ko": "그녀의 가장 친한 친구 소라는 병원에 입원한 지 벌써 삼 주가 되었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "best",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 560
+            },
+            {
+              "word": "friend",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 1000
+            },
+            {
+              "word": "Sora",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "had",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2160,
+              "endMs": 2300
+            },
+            {
+              "word": "been",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2420
+            },
+            {
+              "word": "in",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2420,
+              "endMs": 2600
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2600,
+              "endMs": 2820
+            },
+            {
+              "word": "hospital",
+              "charStart": 39,
+              "charEnd": 47,
+              "startMs": 2820,
+              "endMs": 3040
+            },
+            {
+              "word": "for",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3040,
+              "endMs": 3380
+            },
+            {
+              "word": "three",
+              "charStart": 52,
+              "charEnd": 57,
+              "startMs": 3380,
+              "endMs": 3700
+            },
+            {
+              "word": "weeks",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 3700,
+              "endMs": 4020
+            }
+          ]
+        },
+        {
+          "text": "Sora loved cranes, and an old legend said a thousand cranes brought a wish.",
+          "translation_ko": "소라는 학을 무척 좋아했고, 옛 전설에 따르면 천 마리 학은 소원을 이루어 준다고 했습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Sora",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "loved",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 860
+            },
+            {
+              "word": "cranes",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1840,
+              "endMs": 1880
+            },
+            {
+              "word": "an",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1880,
+              "endMs": 2140
+            },
+            {
+              "word": "old",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2140,
+              "endMs": 2360
+            },
+            {
+              "word": "legend",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "said",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2620,
+              "endMs": 3000
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 3000,
+              "endMs": 3240
+            },
+            {
+              "word": "thousand",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 3240,
+              "endMs": 3600
+            },
+            {
+              "word": "cranes",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "word": "brought",
+              "charStart": 60,
+              "charEnd": 67,
+              "startMs": 4000,
+              "endMs": 4360
+            },
+            {
+              "word": "a",
+              "charStart": 68,
+              "charEnd": 69,
+              "startMs": 4360,
+              "endMs": 4740
+            },
+            {
+              "word": "wish",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4740,
+              "endMs": 4740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mia had made up her mind: she would fold every single one.",
+          "translation_ko": "미아는 마음을 굳혔습니다. 한 마리도 빠짐없이 직접 접겠다고.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 660
+            },
+            {
+              "word": "made",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 660,
+              "endMs": 820
+            },
+            {
+              "word": "up",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 980
+            },
+            {
+              "word": "her",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "mind",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1440
+            },
+            {
+              "word": "she",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "would",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2320
+            },
+            {
+              "word": "fold",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2660
+            },
+            {
+              "word": "every",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2660,
+              "endMs": 3260
+            },
+            {
+              "word": "single",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3260,
+              "endMs": 3560
+            },
+            {
+              "word": "one",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3560,
+              "endMs": 3840
+            }
+          ]
+        },
+        {
+          "text": "\"I will get this done,\" she told herself firmly.",
+          "translation_ko": "\"반드시 해낼 거야,\" 그녀는 스스로에게 다짐했습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "will",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 640
+            },
+            {
+              "word": "get",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "this",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1280
+            },
+            {
+              "word": "done",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1560
+            },
+            {
+              "word": "she",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 2020
+            },
+            {
+              "word": "told",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2020,
+              "endMs": 2240
+            },
+            {
+              "word": "herself",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2240,
+              "endMs": 2640
+            },
+            {
+              "word": "firmly",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 3040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Days passed, and her stack of cranes grew slowly.",
+          "translation_ko": "날이 지날수록 학 무더기는 조금씩 쌓여 갔습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Days",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "passed",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1340,
+              "endMs": 1420
+            },
+            {
+              "word": "her",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1640
+            },
+            {
+              "word": "stack",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1640,
+              "endMs": 1880
+            },
+            {
+              "word": "of",
+              "charStart": 27,
+              "charEnd": 29,
+              "startMs": 1880,
+              "endMs": 2440
+            },
+            {
+              "word": "cranes",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2440,
+              "endMs": 2440
+            },
+            {
+              "word": "grew",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2440,
+              "endMs": 2740
+            },
+            {
+              "word": "slowly",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2740,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "But after a week, she had only folded eighty-three.",
+          "translation_ko": "그러나 일주일이 지나도 그녀가 접은 건 고작 여든세 마리뿐이었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "after",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 960,
+              "endMs": 1240
+            },
+            {
+              "word": "week",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "she",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1660,
+              "endMs": 1820
+            },
+            {
+              "word": "had",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1820,
+              "endMs": 1960
+            },
+            {
+              "word": "only",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1960,
+              "endMs": 2320
+            },
+            {
+              "word": "folded",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2320,
+              "endMs": 2600
+            },
+            {
+              "word": "eighty-three",
+              "charStart": 38,
+              "charEnd": 50,
+              "startMs": 2600,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "Her hands ached, and doubt crept into her heart.",
+          "translation_ko": "손이 욱신거렸고, 마음속에 의심이 스며들었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Her",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "hands",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 740
+            },
+            {
+              "word": "ached",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1940
+            },
+            {
+              "word": "doubt",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1940,
+              "endMs": 2160
+            },
+            {
+              "word": "crept",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2160,
+              "endMs": 2520
+            },
+            {
+              "word": "into",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2520,
+              "endMs": 2760
+            },
+            {
+              "word": "her",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2760,
+              "endMs": 3060
+            },
+            {
+              "word": "heart",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3060,
+              "endMs": 3280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One morning, her classmate Jin watched her working at lunch.",
+          "translation_ko": "어느 날 아침, 같은 반 친구 진이 점심시간에 그녀가 일하는 것을 지켜보았습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "morning",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 660
+            },
+            {
+              "word": "her",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "classmate",
+              "charStart": 17,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1820
+            },
+            {
+              "word": "Jin",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2060
+            },
+            {
+              "word": "watched",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2060,
+              "endMs": 2580
+            },
+            {
+              "word": "her",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2580,
+              "endMs": 2800
+            },
+            {
+              "word": "working",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2800,
+              "endMs": 3100
+            },
+            {
+              "word": "at",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 3100,
+              "endMs": 3300
+            },
+            {
+              "word": "lunch",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3300,
+              "endMs": 3540
+            }
+          ]
+        },
+        {
+          "text": "\"Can I try?\" he asked, picking up a sheet of paper.",
+          "translation_ko": "\"나도 해도 돼?\" 그가 종이 한 장을 집어 들며 물었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "I",
+              "charStart": 5,
+              "charEnd": 6,
+              "startMs": 560,
+              "endMs": 760
+            },
+            {
+              "word": "try",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "he",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "asked",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "picking",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 2240,
+              "endMs": 2400
+            },
+            {
+              "word": "up",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 2400,
+              "endMs": 2560
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "sheet",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2760,
+              "endMs": 2840
+            },
+            {
+              "word": "of",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2840,
+              "endMs": 3300
+            },
+            {
+              "word": "paper",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3300,
+              "endMs": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mia taught Jin the careful steps, fold by fold.",
+          "translation_ko": "미아는 진에게 접는 방법을 한 단계씩 차근차근 가르쳐 주었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "taught",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "Jin",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1000
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "careful",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1180,
+              "endMs": 1540
+            },
+            {
+              "word": "steps",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1540,
+              "endMs": 1980
+            },
+            {
+              "word": "fold",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2500,
+              "endMs": 2540
+            },
+            {
+              "word": "by",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2540,
+              "endMs": 2860
+            },
+            {
+              "word": "fold",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2860,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "His first crane looked a little lopsided, but he grinned with pride.",
+          "translation_ko": "그가 처음 만든 학은 약간 삐뚤었지만, 그는 뿌듯한 미소를 지었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "first",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 740
+            },
+            {
+              "word": "crane",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1140
+            },
+            {
+              "word": "looked",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1560
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1560,
+              "endMs": 1740
+            },
+            {
+              "word": "little",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 1940
+            },
+            {
+              "word": "lopsided",
+              "charStart": 32,
+              "charEnd": 40,
+              "startMs": 1940,
+              "endMs": 2480
+            },
+            {
+              "word": "but",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2840,
+              "endMs": 2940
+            },
+            {
+              "word": "he",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 3200
+            },
+            {
+              "word": "grinned",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 3200,
+              "endMs": 3420
+            },
+            {
+              "word": "with",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3420,
+              "endMs": 3720
+            },
+            {
+              "word": "pride",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 3720,
+              "endMs": 4000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Word spread quickly, and soon more classmates gathered around the table.",
+          "translation_ko": "소문은 금방 퍼졌고, 곧 더 많은 반 친구들이 책상 주위로 모여들었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Word",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "spread",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 1060
+            },
+            {
+              "word": "quickly",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1520
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2100,
+              "endMs": 2220
+            },
+            {
+              "word": "soon",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "more",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2400,
+              "endMs": 2740
+            },
+            {
+              "word": "classmates",
+              "charStart": 35,
+              "charEnd": 45,
+              "startMs": 2740,
+              "endMs": 3220
+            },
+            {
+              "word": "gathered",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 3220,
+              "endMs": 3560
+            },
+            {
+              "word": "around",
+              "charStart": 55,
+              "charEnd": 61,
+              "startMs": 3560,
+              "endMs": 3820
+            },
+            {
+              "word": "the",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3820,
+              "endMs": 4160
+            },
+            {
+              "word": "table",
+              "charStart": 66,
+              "charEnd": 71,
+              "startMs": 4160,
+              "endMs": 4220
+            }
+          ]
+        },
+        {
+          "text": "Everyone had heard about Sora, and everyone wanted to help.",
+          "translation_ko": "모두가 소라의 이야기를 알고 있었고, 모두가 돕고 싶어 했습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "had",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 780
+            },
+            {
+              "word": "heard",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 780,
+              "endMs": 1100
+            },
+            {
+              "word": "about",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1100,
+              "endMs": 1500
+            },
+            {
+              "word": "Sora",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2560,
+              "endMs": 2700
+            },
+            {
+              "word": "everyone",
+              "charStart": 35,
+              "charEnd": 43,
+              "startMs": 2700,
+              "endMs": 3240
+            },
+            {
+              "word": "wanted",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 3240,
+              "endMs": 3520
+            },
+            {
+              "word": "to",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 3520,
+              "endMs": 3860
+            },
+            {
+              "word": "help",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3860,
+              "endMs": 3980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After school, the classroom buzzed with laughter and rustling paper.",
+          "translation_ko": "방과 후, 교실 안은 웃음소리와 종이 바스락거리는 소리로 가득했습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1200,
+              "endMs": 1400
+            },
+            {
+              "word": "classroom",
+              "charStart": 18,
+              "charEnd": 27,
+              "startMs": 1400,
+              "endMs": 1780
+            },
+            {
+              "word": "buzzed",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1780,
+              "endMs": 2300
+            },
+            {
+              "word": "with",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2300,
+              "endMs": 2940
+            },
+            {
+              "word": "laughter",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 2940
+            },
+            {
+              "word": "and",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2940,
+              "endMs": 3460
+            },
+            {
+              "word": "rustling",
+              "charStart": 53,
+              "charEnd": 61,
+              "startMs": 3460,
+              "endMs": 3780
+            },
+            {
+              "word": "paper",
+              "charStart": 62,
+              "charEnd": 67,
+              "startMs": 3780,
+              "endMs": 4100
+            }
+          ]
+        },
+        {
+          "text": "Stacks of cranes in red, blue, and gold filled the windowsill.",
+          "translation_ko": "빨강, 파랑, 금색 종이학이 창턱을 가득 메웠습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Stacks",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "of",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 600,
+              "endMs": 1000
+            },
+            {
+              "word": "cranes",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "in",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1340,
+              "endMs": 1800
+            },
+            {
+              "word": "red",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1800,
+              "endMs": 2140
+            },
+            {
+              "word": "blue",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2620,
+              "endMs": 2620
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2680,
+              "endMs": 3000
+            },
+            {
+              "word": "gold",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 3000,
+              "endMs": 3160
+            },
+            {
+              "word": "filled",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 3160,
+              "endMs": 3760
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 3760,
+              "endMs": 4060
+            },
+            {
+              "word": "windowsill",
+              "charStart": 51,
+              "charEnd": 61,
+              "startMs": 4060,
+              "endMs": 4520
+            }
+          ]
+        },
+        {
+          "text": "\"Look how many we have!\" someone cheered.",
+          "translation_ko": "\"얼마나 많이 만들었는지 봐!\" 누군가가 환호했습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Look",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "how",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "many",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 740
+            },
+            {
+              "word": "we",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 960
+            },
+            {
+              "word": "have",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 960,
+              "endMs": 1820
+            },
+            {
+              "word": "someone",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2000
+            },
+            {
+              "word": "cheered",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2000,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Two weeks later, Mia counted the last batch with trembling hands.",
+          "translation_ko": "이 주가 지나 미아는 떨리는 손으로 마지막 묶음을 세었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Two",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "weeks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 540
+            },
+            {
+              "word": "later",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 960
+            },
+            {
+              "word": "Mia",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1360,
+              "endMs": 1500
+            },
+            {
+              "word": "counted",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1500,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2060
+            },
+            {
+              "word": "last",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2400
+            },
+            {
+              "word": "batch",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2400,
+              "endMs": 2740
+            },
+            {
+              "word": "with",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2740,
+              "endMs": 3000
+            },
+            {
+              "word": "trembling",
+              "charStart": 49,
+              "charEnd": 58,
+              "startMs": 3000,
+              "endMs": 3420
+            },
+            {
+              "word": "hands",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3420,
+              "endMs": 3900
+            }
+          ]
+        },
+        {
+          "text": "\"Nine hundred and ninety-eight, nine hundred and ninety-nine, one thousand!\"",
+          "translation_ko": "\"구백구십팔, 구백구십구, 천 마리!\"",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Nine",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 30,
+              "endMs": 285
+            },
+            {
+              "word": "hundred",
+              "charStart": 6,
+              "charEnd": 13,
+              "startMs": 285,
+              "endMs": 729
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 729,
+              "endMs": 984
+            },
+            {
+              "word": "ninety-eight",
+              "charStart": 18,
+              "charEnd": 30,
+              "startMs": 984,
+              "endMs": 1721
+            },
+            {
+              "word": "nine",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1721,
+              "endMs": 1976
+            },
+            {
+              "word": "hundred",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 1976,
+              "endMs": 2420
+            },
+            {
+              "word": "and",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2420,
+              "endMs": 2675
+            },
+            {
+              "word": "ninety-nine",
+              "charStart": 49,
+              "charEnd": 60,
+              "startMs": 2675,
+              "endMs": 3601
+            },
+            {
+              "word": "one",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3601,
+              "endMs": 3856
+            },
+            {
+              "word": "thousand",
+              "charStart": 66,
+              "charEnd": 74,
+              "startMs": 3856,
+              "endMs": 4470
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The class cheered so loudly that the teacher came to see what was happening.",
+          "translation_ko": "반 아이들이 너무 크게 환호해서 선생님이 무슨 일인지 보러 오셨습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "class",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 160,
+              "endMs": 520
+            },
+            {
+              "word": "cheered",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "so",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 880,
+              "endMs": 1320
+            },
+            {
+              "word": "loudly",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "that",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1620,
+              "endMs": 2080
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2080,
+              "endMs": 2240
+            },
+            {
+              "word": "teacher",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2240,
+              "endMs": 2520
+            },
+            {
+              "word": "came",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "to",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2800,
+              "endMs": 3040
+            },
+            {
+              "word": "see",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3040,
+              "endMs": 3160
+            },
+            {
+              "word": "what",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3160,
+              "endMs": 3280
+            },
+            {
+              "word": "was",
+              "charStart": 62,
+              "charEnd": 65,
+              "startMs": 3280,
+              "endMs": 3440
+            },
+            {
+              "word": "happening",
+              "charStart": 66,
+              "charEnd": 75,
+              "startMs": 3440,
+              "endMs": 3700
+            }
+          ]
+        },
+        {
+          "text": "She smiled, her eyes shining, and helped them tie the cranes into a long ribbon.",
+          "translation_ko": "선생님은 눈을 반짝이며 미소 짓고는 아이들이 학을 긴 리본에 꿰는 것을 도와주셨습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "her",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1200,
+              "endMs": 1340
+            },
+            {
+              "word": "eyes",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1640
+            },
+            {
+              "word": "shining",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1640,
+              "endMs": 2040
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2440,
+              "endMs": 2540
+            },
+            {
+              "word": "helped",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2540,
+              "endMs": 2740
+            },
+            {
+              "word": "them",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2740,
+              "endMs": 3120
+            },
+            {
+              "word": "tie",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3120,
+              "endMs": 3140
+            },
+            {
+              "word": "the",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3140,
+              "endMs": 3660
+            },
+            {
+              "word": "cranes",
+              "charStart": 54,
+              "charEnd": 60,
+              "startMs": 3660,
+              "endMs": 3660
+            },
+            {
+              "word": "into",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3660,
+              "endMs": 3920
+            },
+            {
+              "word": "a",
+              "charStart": 66,
+              "charEnd": 67,
+              "startMs": 3920,
+              "endMs": 4120
+            },
+            {
+              "word": "long",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4120,
+              "endMs": 4380
+            },
+            {
+              "word": "ribbon",
+              "charStart": 73,
+              "charEnd": 79,
+              "startMs": 4380,
+              "endMs": 4540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They visited Sora together and hung the ribbon of cranes beside her bed.",
+          "translation_ko": "아이들은 함께 소라를 찾아가 침대 옆에 학 리본을 걸어 주었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "visited",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 360,
+              "endMs": 780
+            },
+            {
+              "word": "Sora",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1180
+            },
+            {
+              "word": "together",
+              "charStart": 18,
+              "charEnd": 26,
+              "startMs": 1180,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1720,
+              "endMs": 2260
+            },
+            {
+              "word": "hung",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2500,
+              "endMs": 2860
+            },
+            {
+              "word": "ribbon",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2860,
+              "endMs": 2940
+            },
+            {
+              "word": "of",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2940,
+              "endMs": 3160
+            },
+            {
+              "word": "cranes",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3160,
+              "endMs": 3540
+            },
+            {
+              "word": "beside",
+              "charStart": 57,
+              "charEnd": 63,
+              "startMs": 3540,
+              "endMs": 3960
+            },
+            {
+              "word": "her",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3960,
+              "endMs": 4220
+            },
+            {
+              "word": "bed",
+              "charStart": 68,
+              "charEnd": 71,
+              "startMs": 4220,
+              "endMs": 4420
+            }
+          ]
+        },
+        {
+          "text": "Sora reached out and touched a crane gently, her eyes wide with wonder.",
+          "translation_ko": "소라는 손을 뻗어 학 한 마리를 살며시 어루만졌고, 눈을 크게 뜨고 감탄했습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Sora",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "reached",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 460,
+              "endMs": 900
+            },
+            {
+              "word": "out",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1460
+            },
+            {
+              "word": "touched",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1460,
+              "endMs": 1680
+            },
+            {
+              "word": "a",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "crane",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "gently",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2560
+            },
+            {
+              "word": "her",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3020,
+              "endMs": 3160
+            },
+            {
+              "word": "eyes",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3160,
+              "endMs": 3440
+            },
+            {
+              "word": "wide",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3440,
+              "endMs": 3980
+            },
+            {
+              "word": "with",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3980,
+              "endMs": 4260
+            },
+            {
+              "word": "wonder",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 4260,
+              "endMs": 4500
+            }
+          ]
+        },
+        {
+          "text": "\"You all did this for me?\" she asked in a soft voice.",
+          "translation_ko": "\"이걸 모두 나를 위해 했어?\" 그녀가 부드럽게 물었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "all",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "did",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 720
+            },
+            {
+              "word": "this",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "for",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "me",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "she",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1740,
+              "endMs": 1900
+            },
+            {
+              "word": "asked",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1900,
+              "endMs": 2200
+            },
+            {
+              "word": "in",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2200,
+              "endMs": 2340
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2340,
+              "endMs": 2560
+            },
+            {
+              "word": "soft",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2560,
+              "endMs": 2760
+            },
+            {
+              "word": "voice",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2760,
+              "endMs": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mia squeezed her hand and smiled.",
+          "translation_ko": "미아는 그녀의 손을 꼭 잡고 미소 지었습니다.",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "squeezed",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 720,
+              "endMs": 1220
+            },
+            {
+              "word": "her",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1220,
+              "endMs": 1400
+            },
+            {
+              "word": "hand",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1720,
+              "endMs": 2120
+            },
+            {
+              "word": "smiled",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "\"Every single one,\" she said, \"because a thousand wishes are stronger than one.\"",
+          "translation_ko": "\"한 마리도 빠짐없이,\" 그녀가 말했습니다. \"천 가지 소원이 하나보다 훨씬 강하니까.\"",
+          "audio": "/seed/the-thousand-paper-cranes/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "single",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "one",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1280
+            },
+            {
+              "word": "she",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1640,
+              "endMs": 1800
+            },
+            {
+              "word": "said",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "because",
+              "charStart": 31,
+              "charEnd": 38,
+              "startMs": 2260,
+              "endMs": 2780
+            },
+            {
+              "word": "a",
+              "charStart": 39,
+              "charEnd": 40,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "thousand",
+              "charStart": 41,
+              "charEnd": 49,
+              "startMs": 2980,
+              "endMs": 3400
+            },
+            {
+              "word": "wishes",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3400,
+              "endMs": 3720
+            },
+            {
+              "word": "are",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3720,
+              "endMs": 4100
+            },
+            {
+              "word": "stronger",
+              "charStart": 61,
+              "charEnd": 69,
+              "startMs": 4100,
+              "endMs": 4440
+            },
+            {
+              "word": "than",
+              "charStart": 70,
+              "charEnd": 74,
+              "startMs": 4440,
+              "endMs": 4760
+            },
+            {
+              "word": "one",
+              "charStart": 75,
+              "charEnd": 78,
+              "startMs": 4760,
+              "endMs": 5040
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "미아가 종이학을 접기 시작한 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "미술 숙제를 하기 위해서",
+        "병원에 입원한 친구 소라의 회복을 빌기 위해서",
+        "선생님의 부탁을 받아서",
+        "종이학 접기 대회에 나가기 위해서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "소라가 병원에 입원해 있었고, 천 마리 학을 접으면 소원이 이루어진다는 전설을 믿은 미아가 친구의 회복을 바라며 학을 접기 시작했습니다."
+    },
+    {
+      "question_ko": "미아가 혼자 일주일 동안 접은 학은 몇 마리였나요?",
+      "type": "mc",
+      "options": [
+        "사십 마리",
+        "이백 마리",
+        "여든세 마리",
+        "천 마리"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "본문에서 일주일 뒤 미아가 접은 학은 고작 여든세 마리뿐이었다고 나와 있습니다."
+    },
+    {
+      "question_ko": "반 친구들이 함께 돕기 시작한 계기는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "선생님이 과제로 내주셔서",
+        "진이 먼저 같이 하고 싶다고 말했고, 소문이 퍼져 친구들이 모였기 때문에",
+        "소라가 직접 친구들에게 부탁했기 때문에",
+        "학교 신문에 기사가 실려서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "진이 점심시간에 미아를 보고 먼저 도전하겠다고 했고, 그 소문이 퍼져 더 많은 반 친구들이 모여들어 함께 접기 시작했습니다."
+    },
+    {
+      "question_ko": "아이들이 천 마리를 다 채웠을 때 선생님은 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "아이들에게 조용히 하라고 하셨다",
+        "학을 모두 버리셨다",
+        "미소 지으며 학을 리본에 꿰는 것을 도와주셨다",
+        "소라 부모님께 전화를 거셨다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "선생님은 눈을 반짝이며 미소 짓고, 아이들이 학을 긴 리본에 꿰는 것을 도와주셨습니다."
+    },
+    {
+      "question_ko": "이야기 마지막에 미아가 소라에게 한 말의 의미는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "소원은 혼자 빌어야 이루어진다",
+        "천 마리 학은 전설일 뿐이라 의미 없다",
+        "함께 나누는 소원이 혼자 비는 소원보다 더 강하다",
+        "많은 학을 접을수록 더 빨리 낫는다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "미아는 '천 가지 소원이 하나보다 훨씬 강하다'고 말했습니다. 이는 친구들이 함께 마음을 모은 것이 혼자보다 더 강한 힘을 가진다는 우정과 희망의 메시지입니다."
+    }
+  ]
+}

@@ -1,0 +1,1075 @@
+{
+  "slug": "beavers-wobbly-dam",
+  "title": "Beaver's Wobbly Dam",
+  "title_ko": "비버의 흔들리는 댐",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "비버가 만든 댐이 자꾸 새자, 친구들과 힘을 모아 튼튼하게 고치는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Beaver lived by a wide blue river.",
+          "translation_ko": "비버는 넓고 파란 강가에 살았어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Beaver",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "lived",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 880
+            },
+            {
+              "word": "by",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1140
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1140,
+              "endMs": 1380
+            },
+            {
+              "word": "wide",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "blue",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1760,
+              "endMs": 2080
+            },
+            {
+              "word": "river",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2340
+            }
+          ]
+        },
+        {
+          "text": "He worked hard every day.",
+          "translation_ko": "그는 매일 열심히 일했어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "worked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 620,
+              "endMs": 860
+            },
+            {
+              "word": "hard",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1180
+            },
+            {
+              "word": "every",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1540
+            },
+            {
+              "word": "day",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One morning, Beaver built a big dam.",
+          "translation_ko": "어느 날 아침, 비버는 큰 댐을 지었어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "morning",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 740
+            },
+            {
+              "word": "Beaver",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1540
+            },
+            {
+              "word": "built",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1840
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "big",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "dam",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2420,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "He used thick sticks and heavy logs.",
+          "translation_ko": "두꺼운 나뭇가지와 무거운 통나무를 썼지요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "used",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 560
+            },
+            {
+              "word": "thick",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 1060
+            },
+            {
+              "word": "sticks",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1640
+            },
+            {
+              "word": "heavy",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 1840
+            },
+            {
+              "word": "logs",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1840,
+              "endMs": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Beaver looked at his dam and smiled.",
+          "translation_ko": "비버는 자신의 댐을 바라보며 미소 지었어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Beaver",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "looked",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 480,
+              "endMs": 760
+            },
+            {
+              "word": "at",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 920
+            },
+            {
+              "word": "his",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "dam",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 2020
+            },
+            {
+              "word": "smiled",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2020,
+              "endMs": 2440
+            }
+          ]
+        },
+        {
+          "text": "\"It is the best dam!\" he said.",
+          "translation_ko": "\"최고의 댐이야!\" 그가 말했어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 880,
+              "endMs": 1320
+            },
+            {
+              "word": "is",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 1320,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "best",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1720,
+              "endMs": 2120
+            },
+            {
+              "word": "dam",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 2120,
+              "endMs": 3640
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 3640,
+              "endMs": 3840
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 3840,
+              "endMs": 4060
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "But the dam shook and water dripped out.",
+          "translation_ko": "그런데 댐이 흔들리고 물이 새기 시작했어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 500
+            },
+            {
+              "word": "dam",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "shook",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1280
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1980
+            },
+            {
+              "word": "water",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1980,
+              "endMs": 2340
+            },
+            {
+              "word": "dripped",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2340,
+              "endMs": 2700
+            },
+            {
+              "word": "out",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2700,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "\"Oh no! My dam is wobbly!\" cried Beaver.",
+          "translation_ko": "\"이런! 내 댐이 흔들려!\" 비버가 외쳤어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Oh",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "no",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 300,
+              "endMs": 900
+            },
+            {
+              "word": "My",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 1020,
+              "endMs": 1540
+            },
+            {
+              "word": "dam",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1540,
+              "endMs": 1820
+            },
+            {
+              "word": "is",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1820,
+              "endMs": 2100
+            },
+            {
+              "word": "wobbly",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 2100,
+              "endMs": 2520
+            },
+            {
+              "word": "cried",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 3100,
+              "endMs": 3140
+            },
+            {
+              "word": "Beaver",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 3140,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Beaver pushed more sticks into the dam.",
+          "translation_ko": "비버는 댐에 나뭇가지를 더 끼워 넣었어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Beaver",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "pushed",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 940
+            },
+            {
+              "word": "more",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1320
+            },
+            {
+              "word": "sticks",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1580
+            },
+            {
+              "word": "into",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1840,
+              "endMs": 2000
+            },
+            {
+              "word": "dam",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2000,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "But the water still came through.",
+          "translation_ko": "하지만 물은 여전히 빠져나왔어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 540
+            },
+            {
+              "word": "water",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "still",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1320
+            },
+            {
+              "word": "came",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1320,
+              "endMs": 1620
+            },
+            {
+              "word": "through",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1620,
+              "endMs": 1900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He packed mud into every gap.",
+          "translation_ko": "그는 모든 틈새에 진흙을 채워 넣었어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "packed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 540
+            },
+            {
+              "word": "mud",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "into",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1180
+            },
+            {
+              "word": "every",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1180,
+              "endMs": 1520
+            },
+            {
+              "word": "gap",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 1780
+            }
+          ]
+        },
+        {
+          "text": "But the dam was still wobbly.",
+          "translation_ko": "하지만 댐은 여전히 흔들거렸어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 680
+            },
+            {
+              "word": "dam",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 960
+            },
+            {
+              "word": "was",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 960,
+              "endMs": 1360
+            },
+            {
+              "word": "still",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1660
+            },
+            {
+              "word": "wobbly",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1660,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "His friends Otter and Duck ran over.",
+          "translation_ko": "친구 수달과 오리가 달려왔어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "friends",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "Otter",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 660,
+              "endMs": 1100
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "Duck",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1640
+            },
+            {
+              "word": "ran",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 2180
+            },
+            {
+              "word": "over",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2180,
+              "endMs": 2420
+            }
+          ]
+        },
+        {
+          "text": "\"We will help you!\" said Otter.",
+          "translation_ko": "\"우리가 도와줄게!\" 수달이 말했어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "will",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "help",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1040
+            },
+            {
+              "word": "you",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1840
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1840,
+              "endMs": 1940
+            },
+            {
+              "word": "Otter",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1940,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Together they pushed sticks and packed mud.",
+          "translation_ko": "함께 나뭇가지를 밀고 진흙을 채웠어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Together",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "they",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 1440
+            },
+            {
+              "word": "pushed",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "sticks",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1640,
+              "endMs": 2060
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2060,
+              "endMs": 2460
+            },
+            {
+              "word": "packed",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2460,
+              "endMs": 2740
+            },
+            {
+              "word": "mud",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2740,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "They worked fast and did not stop.",
+          "translation_ko": "그들은 빠르게 쉬지 않고 일했어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "worked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "fast",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 560,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "did",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1580
+            },
+            {
+              "word": "not",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1860
+            },
+            {
+              "word": "stop",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1860,
+              "endMs": 2120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The dam held! The water stopped.",
+          "translation_ko": "댐이 버텼어요! 물이 멈췄어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "dam",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 480
+            },
+            {
+              "word": "held",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "The",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "water",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "stopped",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 2200
+            }
+          ]
+        },
+        {
+          "text": "Beaver smiled and felt very proud.",
+          "translation_ko": "비버는 환하게 웃으며 뿌듯해했어요.",
+          "audio": "/seed/beavers-wobbly-dam/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Beaver",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "smiled",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1240,
+              "endMs": 1800
+            },
+            {
+              "word": "felt",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1800,
+              "endMs": 1900
+            },
+            {
+              "word": "very",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2420
+            },
+            {
+              "word": "proud",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2420,
+              "endMs": 2660
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "비버는 댐을 짓기 위해 무엇을 사용했나요?",
+      "type": "mc",
+      "options": [
+        "나뭇가지와 통나무",
+        "돌과 모래",
+        "잎사귀와 꽃",
+        "종이와 끈"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "비버는 두꺼운 나뭇가지와 무거운 통나무로 댐을 만들었어요."
+    },
+    {
+      "question_ko": "댐에서 어떤 문제가 생겼나요?",
+      "type": "mc",
+      "options": [
+        "댐이 너무 높았어요",
+        "댐이 흔들리고 물이 샜어요",
+        "댐이 강을 막지 못했어요",
+        "댐이 불에 탔어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "댐이 흔들리고 물이 빠져나오는 문제가 생겼어요."
+    },
+    {
+      "question_ko": "비버가 진흙을 채워 넣은 곳은 어디인가요?",
+      "type": "mc",
+      "options": [
+        "나무 위",
+        "강 바닥",
+        "댐의 모든 틈새",
+        "집 안"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "비버는 댐의 모든 틈새에 진흙을 채워 넣었어요."
+    },
+    {
+      "question_ko": "비버를 도우러 온 친구들은 누구인가요?",
+      "type": "mc",
+      "options": [
+        "토끼와 곰",
+        "여우와 사슴",
+        "수달과 오리",
+        "두꺼비와 개구리"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "친구 수달과 오리가 비버를 도우러 왔어요."
+    },
+    {
+      "question_ko": "댐이 고쳐진 후 비버의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "슬프고 지쳐 있었어요",
+        "화가 나서 집에 갔어요",
+        "무서워서 떨었어요",
+        "환하게 웃으며 뿌듯해했어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "댐이 버티자 비버는 환하게 웃으며 뿌듯해했어요."
+    }
+  ]
+}

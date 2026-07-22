@@ -1,0 +1,390 @@
+{
+  "slug": "daily-151-i-tie-my-shoes",
+  "title": "I Tie My Shoes",
+  "title_ko": "신발 끈을 묶어요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "준이 혼자 신발 끈을 묶는 방법을 배우며 뿌듯해하는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun puts on his shoes.",
+          "translation_ko": "준이 신발을 신어요.",
+          "audio": "/seed/daily-151-i-tie-my-shoes/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "puts",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 820,
+              "endMs": 1120
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "shoes",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun holds the laces.",
+          "translation_ko": "준이 신발 끈을 잡아요.",
+          "audio": "/seed/daily-151-i-tie-my-shoes/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "holds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "laces",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1080,
+              "endMs": 1400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun crosses the laces.",
+          "translation_ko": "준이 신발 끈을 엇갈려요.",
+          "audio": "/seed/daily-151-i-tie-my-shoes/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "crosses",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "laces",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun makes a loop.",
+          "translation_ko": "준이 고리를 만들어요.",
+          "audio": "/seed/daily-151-i-tie-my-shoes/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "makes",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "loop",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1200,
+              "endMs": 1360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun wraps the lace around.",
+          "translation_ko": "준이 끈을 감아요.",
+          "audio": "/seed/daily-151-i-tie-my-shoes/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "wraps",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 440,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1160
+            },
+            {
+              "word": "lace",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "around",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun pulls the loop tight.",
+          "translation_ko": "준이 고리를 꽉 당겨요.",
+          "audio": "/seed/daily-151-i-tie-my-shoes/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "pulls",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 540,
+              "endMs": 1080
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "loop",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "tight",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1560,
+              "endMs": 1920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun ties his shoes all by himself.",
+          "translation_ko": "준이 혼자서 신발 끈을 묶었어요!",
+          "audio": "/seed/daily-151-i-tie-my-shoes/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "ties",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 920
+            },
+            {
+              "word": "his",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "shoes",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "all",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1480,
+              "endMs": 1900
+            },
+            {
+              "word": "by",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "himself",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2140,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준이 처음에 한 행동은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "신발을 신었어요",
+        "끈을 잘랐어요",
+        "양말을 벗었어요",
+        "모자를 썼어요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준이 신발을 신는 것으로 시작해요."
+    },
+    {
+      "question_ko": "준이 신발 끈으로 처음 만든 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "나비",
+        "고리(루프)",
+        "매듭",
+        "리본"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun makes a loop — 준이 고리를 만들어요."
+    },
+    {
+      "question_ko": "준이 고리를 만든 후에 한 일은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "끈을 잘랐어요",
+        "신발을 벗었어요",
+        "끈을 감았어요",
+        "도움을 요청했어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Jun wraps the lace around — 준이 끈을 고리에 감아요."
+    },
+    {
+      "question_ko": "준이 신발 끈을 완전히 묶은 방법은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "엄마가 도와줬어요",
+        "끈을 잘라냈어요",
+        "테이프를 붙였어요",
+        "고리를 꽉 당겼어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "Jun pulls the loop tight — 준이 고리를 꽉 당겨서 묶어요."
+    },
+    {
+      "question_ko": "이 이야기에서 준은 신발 끈을 어떻게 묶었나요?",
+      "type": "mc",
+      "options": [
+        "선생님과 함께",
+        "혼자서",
+        "친구와 함께",
+        "아빠와 함께"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun ties his shoes all by himself — 준이 혼자서 신발 끈을 묶었어요."
+    }
+  ]
+}

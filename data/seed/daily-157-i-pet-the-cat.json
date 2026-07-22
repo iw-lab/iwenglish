@@ -1,0 +1,355 @@
+{
+  "slug": "daily-157-i-pet-the-cat",
+  "title": "I Pet the Cat",
+  "title_ko": "고양이를 쓰다듬어요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "Jun이 집 고양이를 부드럽게 쓰다듬으며 함께 즐거운 시간을 보내요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun sees a cat.",
+          "translation_ko": "준은 고양이를 봐요.",
+          "audio": "/seed/daily-157-i-pet-the-cat/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "sees",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 540,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "cat",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1440,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The cat is soft.",
+          "translation_ko": "고양이는 부드러워요.",
+          "audio": "/seed/daily-157-i-pet-the-cat/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "cat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 680
+            },
+            {
+              "word": "is",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 680,
+              "endMs": 1700
+            },
+            {
+              "word": "soft",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1700,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun pets the cat.",
+          "translation_ko": "준은 고양이를 쓰다듬어요.",
+          "audio": "/seed/daily-157-i-pet-the-cat/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "pets",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 860,
+              "endMs": 1040
+            },
+            {
+              "word": "cat",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1040,
+              "endMs": 1340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The cat likes it.",
+          "translation_ko": "고양이는 좋아해요.",
+          "audio": "/seed/daily-157-i-pet-the-cat/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 620
+            },
+            {
+              "word": "cat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 620,
+              "endMs": 940
+            },
+            {
+              "word": "likes",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1220
+            },
+            {
+              "word": "it",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1220,
+              "endMs": 1420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun pets it again.",
+          "translation_ko": "준은 다시 쓰다듬어요.",
+          "audio": "/seed/daily-157-i-pet-the-cat/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "pets",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 480,
+              "endMs": 900
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "again",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1100,
+              "endMs": 1520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The cat purrs and purrs.",
+          "translation_ko": "고양이가 그르렁그르렁 울어요.",
+          "audio": "/seed/daily-157-i-pet-the-cat/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 700
+            },
+            {
+              "word": "cat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 700,
+              "endMs": 1000
+            },
+            {
+              "word": "purrs",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1440,
+              "endMs": 1720
+            },
+            {
+              "word": "purrs",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1720,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun loves the cat.",
+          "translation_ko": "준은 고양이를 아주 좋아해요.",
+          "audio": "/seed/daily-157-i-pet-the-cat/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "loves",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 540,
+              "endMs": 1180
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1180,
+              "endMs": 1460
+            },
+            {
+              "word": "cat",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1460,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun은 무엇을 봤나요?",
+      "type": "mc",
+      "options": [
+        "강아지",
+        "고양이",
+        "토끼",
+        "새"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "본문에서 Jun은 고양이(cat)를 봤어요."
+    },
+    {
+      "question_ko": "고양이의 느낌은 어떤가요?",
+      "type": "mc",
+      "options": [
+        "딱딱해요",
+        "차가워요",
+        "부드러워요",
+        "거칠어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "'The cat is soft.'에서 고양이는 부드럽다고 했어요."
+    },
+    {
+      "question_ko": "Jun은 고양이에게 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "먹이를 줬어요",
+        "목욕을 시켰어요",
+        "쓰다듬었어요",
+        "안아 들었어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "'Jun pets the cat.'에서 준은 고양이를 쓰다듬었어요."
+    },
+    {
+      "question_ko": "고양이가 쓰다듬기를 어떻게 생각했나요?",
+      "type": "mc",
+      "options": [
+        "싫어했어요",
+        "무서워했어요",
+        "좋아했어요",
+        "도망쳤어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "'The cat likes it.'에서 고양이는 쓰다듬기를 좋아했어요."
+    },
+    {
+      "question_ko": "고양이는 어떤 소리를 냈나요?",
+      "type": "mc",
+      "options": [
+        "짖는 소리",
+        "그르렁 소리",
+        "야옹 소리",
+        "아무 소리도 안 냈어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "'The cat purrs and purrs.'에서 고양이가 그르렁그르렁 울었어요."
+    }
+  ]
+}

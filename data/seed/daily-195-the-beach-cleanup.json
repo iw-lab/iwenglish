@@ -1,0 +1,2584 @@
+{
+  "slug": "daily-195-the-beach-cleanup",
+  "title": "The Beach Cleanup",
+  "title_ko": "해변 청소",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun이 아빠, Mina와 함께 해변 청소 봉사에 참여해 환경 보호의 소중함을 배우는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun woke up early on Saturday morning.",
+          "translation_ko": "준은 토요일 아침 일찍 눈을 떴어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "woke",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "up",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 820,
+              "endMs": 1040
+            },
+            {
+              "word": "early",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1420
+            },
+            {
+              "word": "on",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1420,
+              "endMs": 1740
+            },
+            {
+              "word": "Saturday",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "morning",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2060,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "Dad had signed the family up for a beach cleanup.",
+          "translation_ko": "아빠가 가족을 해변 청소 봉사 활동에 신청해 두었거든요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 840
+            },
+            {
+              "word": "signed",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1100
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "family",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1580
+            },
+            {
+              "word": "up",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1940
+            },
+            {
+              "word": "for",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "a",
+              "charStart": 33,
+              "charEnd": 34,
+              "startMs": 2180,
+              "endMs": 2280
+            },
+            {
+              "word": "beach",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2280,
+              "endMs": 2600
+            },
+            {
+              "word": "cleanup",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2600,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "\"We can make a real difference today,\" Dad said with a smile.",
+          "translation_ko": "\"오늘 우리가 진짜 변화를 만들 수 있어,\" 아빠가 미소 지으며 말했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p1-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "We",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "can",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 180,
+              "endMs": 420
+            },
+            {
+              "word": "make",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 640
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "real",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 960,
+              "endMs": 1240
+            },
+            {
+              "word": "difference",
+              "charStart": 20,
+              "charEnd": 30,
+              "startMs": 1240,
+              "endMs": 1600
+            },
+            {
+              "word": "today",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1600,
+              "endMs": 2500
+            },
+            {
+              "word": "Dad",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2500,
+              "endMs": 2620
+            },
+            {
+              "word": "said",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "with",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2840,
+              "endMs": 2980
+            },
+            {
+              "word": "a",
+              "charStart": 53,
+              "charEnd": 54,
+              "startMs": 2980,
+              "endMs": 3180
+            },
+            {
+              "word": "smile",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3180,
+              "endMs": 3460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They arrived at the beach and saw many people already there.",
+          "translation_ko": "해변에 도착하니 이미 많은 사람들이 나와 있었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "arrived",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "at",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 960,
+              "endMs": 1120
+            },
+            {
+              "word": "beach",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1120,
+              "endMs": 1320
+            },
+            {
+              "word": "and",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "saw",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1600,
+              "endMs": 1780
+            },
+            {
+              "word": "many",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1780,
+              "endMs": 2100
+            },
+            {
+              "word": "people",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2100,
+              "endMs": 2500
+            },
+            {
+              "word": "already",
+              "charStart": 46,
+              "charEnd": 53,
+              "startMs": 2500,
+              "endMs": 2960
+            },
+            {
+              "word": "there",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2960,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "Volunteers were wearing gloves and carrying big trash bags.",
+          "translation_ko": "자원봉사자들은 장갑을 끼고 큰 쓰레기봉투를 들고 있었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Volunteers",
+              "charStart": 0,
+              "charEnd": 10,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "were",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "wearing",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 980,
+              "endMs": 1260
+            },
+            {
+              "word": "gloves",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1260,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1700,
+              "endMs": 2060
+            },
+            {
+              "word": "carrying",
+              "charStart": 35,
+              "charEnd": 43,
+              "startMs": 2060,
+              "endMs": 2260
+            },
+            {
+              "word": "big",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2260,
+              "endMs": 2740
+            },
+            {
+              "word": "trash",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 2740,
+              "endMs": 3040
+            },
+            {
+              "word": "bags",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3040,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun spotted his classmate Mina near the water.",
+          "translation_ko": "준은 물가 근처에서 반 친구 미나를 발견했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "spotted",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1320
+            },
+            {
+              "word": "classmate",
+              "charStart": 16,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1840
+            },
+            {
+              "word": "Mina",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2140
+            },
+            {
+              "word": "near",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2140,
+              "endMs": 2600
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2600,
+              "endMs": 2820
+            },
+            {
+              "word": "water",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2820,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "\"I didn't know you were coming!\" Jun called out.",
+          "translation_ko": "\"네가 올 줄은 몰랐어!\" 준이 소리쳤어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "didn't",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "know",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1020
+            },
+            {
+              "word": "you",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1020,
+              "endMs": 1160
+            },
+            {
+              "word": "were",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "coming",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1340,
+              "endMs": 1660
+            },
+            {
+              "word": "Jun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2320,
+              "endMs": 2320
+            },
+            {
+              "word": "called",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2320,
+              "endMs": 2560
+            },
+            {
+              "word": "out",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2560,
+              "endMs": 2840
+            }
+          ]
+        },
+        {
+          "text": "Mina waved and ran over to join them.",
+          "translation_ko": "미나는 손을 흔들며 달려와 합류했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "waved",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 860
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1220
+            },
+            {
+              "word": "ran",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1220,
+              "endMs": 1380
+            },
+            {
+              "word": "over",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1660
+            },
+            {
+              "word": "to",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 1960
+            },
+            {
+              "word": "join",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1960,
+              "endMs": 2080
+            },
+            {
+              "word": "them",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2080,
+              "endMs": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A leader gave everyone gloves, tongs, and a trash bag.",
+          "translation_ko": "담당자가 모두에게 장갑, 집게, 쓰레기봉투를 나눠 줬어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "leader",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 160,
+              "endMs": 520
+            },
+            {
+              "word": "gave",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "everyone",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 900,
+              "endMs": 1420
+            },
+            {
+              "word": "gloves",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1420,
+              "endMs": 1840
+            },
+            {
+              "word": "tongs",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2440,
+              "endMs": 2440
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2440,
+              "endMs": 2700
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 2700,
+              "endMs": 2860
+            },
+            {
+              "word": "trash",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2860,
+              "endMs": 3060
+            },
+            {
+              "word": "bag",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3060,
+              "endMs": 3340
+            }
+          ]
+        },
+        {
+          "text": "\"Please sort the trash into the right bins,\" she explained.",
+          "translation_ko": "\"쓰레기를 올바른 통에 분리해 주세요,\" 그녀가 설명했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Please",
+              "charStart": 1,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "sort",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "trash",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "into",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1680
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 1880
+            },
+            {
+              "word": "right",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "bins",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2100,
+              "endMs": 2820
+            },
+            {
+              "word": "she",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2820,
+              "endMs": 2940
+            },
+            {
+              "word": "explained",
+              "charStart": 49,
+              "charEnd": 58,
+              "startMs": 2940,
+              "endMs": 3360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun picked up a plastic bottle half buried in the sand.",
+          "translation_ko": "준은 모래 속에 반쯤 묻힌 플라스틱 병을 집어 들었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "picked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 860
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 860,
+              "endMs": 1040
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1040,
+              "endMs": 1220
+            },
+            {
+              "word": "plastic",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1580
+            },
+            {
+              "word": "bottle",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1580,
+              "endMs": 1920
+            },
+            {
+              "word": "half",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "buried",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2260,
+              "endMs": 2580
+            },
+            {
+              "word": "in",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2580,
+              "endMs": 2760
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2760,
+              "endMs": 3160
+            },
+            {
+              "word": "sand",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3160,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "\"Plastic takes hundreds of years to break down,\" Dad said.",
+          "translation_ko": "\"플라스틱은 분해되는 데 수백 년이 걸려,\" 아빠가 말했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Plastic",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "takes",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 780,
+              "endMs": 1140
+            },
+            {
+              "word": "hundreds",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1140,
+              "endMs": 1620
+            },
+            {
+              "word": "of",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "years",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 2100
+            },
+            {
+              "word": "to",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "break",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2400,
+              "endMs": 2600
+            },
+            {
+              "word": "down",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2600,
+              "endMs": 2940
+            },
+            {
+              "word": "Dad",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3460,
+              "endMs": 3560
+            },
+            {
+              "word": "said",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3560,
+              "endMs": 3820
+            }
+          ]
+        },
+        {
+          "text": "Jun dropped it carefully into the recycling bag.",
+          "translation_ko": "준은 재활용 봉투에 조심스럽게 넣었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "dropped",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 1060
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "carefully",
+              "charStart": 15,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1720
+            },
+            {
+              "word": "into",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2060
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "recycling",
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 2340,
+              "endMs": 2720
+            },
+            {
+              "word": "bag",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2720,
+              "endMs": 3180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina found a tangled fishing net near the rocks.",
+          "translation_ko": "미나는 바위 근처에서 엉킨 어망을 발견했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "found",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "tangled",
+              "charStart": 13,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1440
+            },
+            {
+              "word": "fishing",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1440,
+              "endMs": 1880
+            },
+            {
+              "word": "net",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1880,
+              "endMs": 2200
+            },
+            {
+              "word": "near",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2500
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2500,
+              "endMs": 2720
+            },
+            {
+              "word": "rocks",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2720,
+              "endMs": 3000
+            }
+          ]
+        },
+        {
+          "text": "\"This could trap sea animals,\" she said with a worried look.",
+          "translation_ko": "\"이게 바다 동물을 가둘 수 있어,\" 미나가 걱정스러운 표정으로 말했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "could",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "trap",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "sea",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "animals",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1260,
+              "endMs": 1720
+            },
+            {
+              "word": "she",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2160
+            },
+            {
+              "word": "said",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2160,
+              "endMs": 2380
+            },
+            {
+              "word": "with",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2380,
+              "endMs": 2520
+            },
+            {
+              "word": "a",
+              "charStart": 45,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 2680
+            },
+            {
+              "word": "worried",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2680,
+              "endMs": 2920
+            },
+            {
+              "word": "look",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 2920,
+              "endMs": 3180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad helped Mina roll the net into a tight bundle.",
+          "translation_ko": "아빠가 미나와 함께 어망을 단단하게 둘둘 말았어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "helped",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 900
+            },
+            {
+              "word": "Mina",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1360
+            },
+            {
+              "word": "roll",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1360,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 2020,
+              "endMs": 2360
+            },
+            {
+              "word": "net",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2360,
+              "endMs": 2380
+            },
+            {
+              "word": "into",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2380,
+              "endMs": 2700
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "tight",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3080,
+              "endMs": 3200
+            },
+            {
+              "word": "bundle",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 3200,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "They placed it in a special bag for large waste.",
+          "translation_ko": "두 사람은 그것을 대형 폐기물 봉투에 넣었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "placed",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1020
+            },
+            {
+              "word": "in",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "special",
+              "charStart": 20,
+              "charEnd": 27,
+              "startMs": 1340,
+              "endMs": 1640
+            },
+            {
+              "word": "bag",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "for",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2180
+            },
+            {
+              "word": "large",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2180,
+              "endMs": 2420
+            },
+            {
+              "word": "waste",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2420,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "Jun felt proud that they had rescued it from the beach.",
+          "translation_ko": "준은 해변에서 그것을 치워냈다는 사실이 뿌듯했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 760,
+              "endMs": 1140
+            },
+            {
+              "word": "proud",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1140,
+              "endMs": 1500
+            },
+            {
+              "word": "that",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1500,
+              "endMs": 1720
+            },
+            {
+              "word": "they",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1720,
+              "endMs": 1860
+            },
+            {
+              "word": "had",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2060
+            },
+            {
+              "word": "rescued",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2060,
+              "endMs": 2420
+            },
+            {
+              "word": "it",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2420,
+              "endMs": 2620
+            },
+            {
+              "word": "from",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2620,
+              "endMs": 2780
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 3120
+            },
+            {
+              "word": "beach",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3120,
+              "endMs": 3180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The three friends moved along the shoreline together.",
+          "translation_ko": "세 사람은 함께 해안선을 따라 이동했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "three",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "friends",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 680,
+              "endMs": 1060
+            },
+            {
+              "word": "moved",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1380
+            },
+            {
+              "word": "along",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1380,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1660,
+              "endMs": 2040
+            },
+            {
+              "word": "shoreline",
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 2040,
+              "endMs": 2400
+            },
+            {
+              "word": "together",
+              "charStart": 44,
+              "charEnd": 52,
+              "startMs": 2400,
+              "endMs": 2740
+            }
+          ]
+        },
+        {
+          "text": "They collected candy wrappers, bottle caps, and foam cups.",
+          "translation_ko": "사탕 봉지, 병뚜껑, 발포 컵들을 모았어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "collected",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 380,
+              "endMs": 920
+            },
+            {
+              "word": "candy",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1420
+            },
+            {
+              "word": "wrappers",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1420,
+              "endMs": 1940
+            },
+            {
+              "word": "bottle",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2480,
+              "endMs": 2620
+            },
+            {
+              "word": "caps",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2620,
+              "endMs": 2940
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3400,
+              "endMs": 3700
+            },
+            {
+              "word": "foam",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3700,
+              "endMs": 3820
+            },
+            {
+              "word": "cups",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3820,
+              "endMs": 4100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After an hour, Jun's bag was almost full.",
+          "translation_ko": "한 시간이 지나자 준의 봉투가 거의 꽉 찼어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "an",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 980
+            },
+            {
+              "word": "hour",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 980,
+              "endMs": 1060
+            },
+            {
+              "word": "Jun's",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1360,
+              "endMs": 1660
+            },
+            {
+              "word": "bag",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "was",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1900,
+              "endMs": 2140
+            },
+            {
+              "word": "almost",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2140,
+              "endMs": 2560
+            },
+            {
+              "word": "full",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2560,
+              "endMs": 2880
+            }
+          ]
+        },
+        {
+          "text": "\"We've collected so much trash,\" Jun said, wiping his forehead.",
+          "translation_ko": "\"쓰레기를 정말 많이 모았다,\" 준이 이마를 닦으며 말했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "We've",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "collected",
+              "charStart": 7,
+              "charEnd": 16,
+              "startMs": 420,
+              "endMs": 720
+            },
+            {
+              "word": "so",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 720,
+              "endMs": 1220
+            },
+            {
+              "word": "much",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1220,
+              "endMs": 1540
+            },
+            {
+              "word": "trash",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1540,
+              "endMs": 2580
+            },
+            {
+              "word": "Jun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2580,
+              "endMs": 2700
+            },
+            {
+              "word": "said",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2700,
+              "endMs": 3020
+            },
+            {
+              "word": "wiping",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 3680,
+              "endMs": 3680
+            },
+            {
+              "word": "his",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3680,
+              "endMs": 4000
+            },
+            {
+              "word": "forehead",
+              "charStart": 54,
+              "charEnd": 62,
+              "startMs": 4000,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "Mina nodded and tied her bag shut.",
+          "translation_ko": "미나가 고개를 끄덕이며 봉투를 묶었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "nodded",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 420,
+              "endMs": 920
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1540
+            },
+            {
+              "word": "tied",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1540,
+              "endMs": 1800
+            },
+            {
+              "word": "her",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "bag",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "shut",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2300,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A volunteer counted all the bags at the end.",
+          "translation_ko": "마지막에 자원봉사자 한 명이 봉투를 모두 세어 봤어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "volunteer",
+              "charStart": 2,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 1040
+            },
+            {
+              "word": "counted",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "all",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 1960
+            },
+            {
+              "word": "bags",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1960,
+              "endMs": 1960
+            },
+            {
+              "word": "at",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2140,
+              "endMs": 2320
+            },
+            {
+              "word": "end",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2320,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "\"Forty bags in total — amazing teamwork!\" she announced.",
+          "translation_ko": "\"모두 마흔 봉투예요 — 정말 대단한 팀워크!\" 그녀가 발표했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Forty",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "bags",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "in",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "total",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "amazing",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 1920,
+              "endMs": 2300
+            },
+            {
+              "word": "teamwork",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 2300,
+              "endMs": 2840
+            },
+            {
+              "word": "she",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3180,
+              "endMs": 3340
+            },
+            {
+              "word": "announced",
+              "charStart": 46,
+              "charEnd": 55,
+              "startMs": 3340,
+              "endMs": 3660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Everyone clapped and cheered for the group.",
+          "translation_ko": "모두가 박수를 치며 환호했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Everyone",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "clapped",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1520
+            },
+            {
+              "word": "cheered",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 1520
+            },
+            {
+              "word": "for",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1780,
+              "endMs": 1920
+            },
+            {
+              "word": "group",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 1920,
+              "endMs": 2100
+            }
+          ]
+        },
+        {
+          "text": "Jun looked at the clean, smooth beach and felt a warm glow inside.",
+          "translation_ko": "준은 깨끗하고 넓어진 해변을 바라보며 가슴이 따뜻해졌어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 940
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 940,
+              "endMs": 1100
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1100,
+              "endMs": 1280
+            },
+            {
+              "word": "clean",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1680
+            },
+            {
+              "word": "smooth",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2180,
+              "endMs": 2240
+            },
+            {
+              "word": "beach",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2240,
+              "endMs": 2600
+            },
+            {
+              "word": "and",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 3140
+            },
+            {
+              "word": "felt",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 3140,
+              "endMs": 3320
+            },
+            {
+              "word": "a",
+              "charStart": 47,
+              "charEnd": 48,
+              "startMs": 3320,
+              "endMs": 3600
+            },
+            {
+              "word": "warm",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3600,
+              "endMs": 3840
+            },
+            {
+              "word": "glow",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3840,
+              "endMs": 4100
+            },
+            {
+              "word": "inside",
+              "charStart": 59,
+              "charEnd": 65,
+              "startMs": 4100,
+              "endMs": 4560
+            }
+          ]
+        },
+        {
+          "text": "\"I want to come back next month,\" he told Dad.",
+          "translation_ko": "\"다음 달에도 오고 싶어요,\" 준이 아빠에게 말했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "want",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 160,
+              "endMs": 400
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 620
+            },
+            {
+              "word": "come",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 620,
+              "endMs": 760
+            },
+            {
+              "word": "back",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "next",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1040,
+              "endMs": 1360
+            },
+            {
+              "word": "month",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1360,
+              "endMs": 2280
+            },
+            {
+              "word": "he",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2280,
+              "endMs": 2460
+            },
+            {
+              "word": "told",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2460,
+              "endMs": 2660
+            },
+            {
+              "word": "Dad",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2660,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad put his hand on Jun's shoulder.",
+          "translation_ko": "아빠가 준의 어깨에 손을 올렸어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "put",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 640
+            },
+            {
+              "word": "his",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "hand",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "on",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "Jun's",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1760
+            },
+            {
+              "word": "shoulder",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1760,
+              "endMs": 1940
+            }
+          ]
+        },
+        {
+          "text": "\"Small actions by many people can protect our oceans,\" he said.",
+          "translation_ko": "\"많은 사람들의 작은 행동이 우리 바다를 지킬 수 있어,\" 아빠가 말했어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Small",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "actions",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 1020
+            },
+            {
+              "word": "by",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1300
+            },
+            {
+              "word": "many",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "people",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1580,
+              "endMs": 1940
+            },
+            {
+              "word": "can",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1940,
+              "endMs": 2180
+            },
+            {
+              "word": "protect",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2180,
+              "endMs": 2560
+            },
+            {
+              "word": "our",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2560,
+              "endMs": 2820
+            },
+            {
+              "word": "oceans",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2820,
+              "endMs": 3620
+            },
+            {
+              "word": "he",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3620,
+              "endMs": 3820
+            },
+            {
+              "word": "said",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3820,
+              "endMs": 4040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "On the way home, Jun thought about what he had learned.",
+          "translation_ko": "집으로 돌아오는 길에 준은 오늘 배운 것들을 떠올렸어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "On",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "the",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 340
+            },
+            {
+              "word": "way",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 560
+            },
+            {
+              "word": "home",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1280,
+              "endMs": 1360
+            },
+            {
+              "word": "thought",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1360,
+              "endMs": 1660
+            },
+            {
+              "word": "about",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1660,
+              "endMs": 1940
+            },
+            {
+              "word": "what",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "he",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2120,
+              "endMs": 2260
+            },
+            {
+              "word": "had",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2260,
+              "endMs": 2440
+            },
+            {
+              "word": "learned",
+              "charStart": 47,
+              "charEnd": 54,
+              "startMs": 2440,
+              "endMs": 2680
+            }
+          ]
+        },
+        {
+          "text": "The beach was beautiful, and it was everyone's job to keep it that way.",
+          "translation_ko": "해변은 아름다웠고, 그것을 지키는 건 모두의 몫이었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "beach",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "was",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "beautiful",
+              "charStart": 14,
+              "charEnd": 23,
+              "startMs": 900,
+              "endMs": 1440
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1920,
+              "endMs": 1940
+            },
+            {
+              "word": "it",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1940,
+              "endMs": 2020
+            },
+            {
+              "word": "was",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2020,
+              "endMs": 2320
+            },
+            {
+              "word": "everyone's",
+              "charStart": 36,
+              "charEnd": 46,
+              "startMs": 2320,
+              "endMs": 2880
+            },
+            {
+              "word": "job",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2880,
+              "endMs": 3120
+            },
+            {
+              "word": "to",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 3120,
+              "endMs": 3360
+            },
+            {
+              "word": "keep",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3360,
+              "endMs": 3540
+            },
+            {
+              "word": "it",
+              "charStart": 59,
+              "charEnd": 61,
+              "startMs": 3540,
+              "endMs": 3720
+            },
+            {
+              "word": "that",
+              "charStart": 62,
+              "charEnd": 66,
+              "startMs": 3720,
+              "endMs": 3900
+            },
+            {
+              "word": "way",
+              "charStart": 67,
+              "charEnd": 70,
+              "startMs": 3900,
+              "endMs": 4120
+            }
+          ]
+        },
+        {
+          "text": "He smiled and decided to tell his whole class about the cleanup.",
+          "translation_ko": "준은 미소 지으며 친구들에게 청소 활동 이야기를 꼭 전하기로 마음먹었어요.",
+          "audio": "/seed/daily-195-the-beach-cleanup/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "smiled",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 800
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1220
+            },
+            {
+              "word": "decided",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1520
+            },
+            {
+              "word": "to",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1520,
+              "endMs": 1900
+            },
+            {
+              "word": "tell",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 1980
+            },
+            {
+              "word": "his",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2220
+            },
+            {
+              "word": "whole",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2220,
+              "endMs": 2540
+            },
+            {
+              "word": "class",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2540,
+              "endMs": 2800
+            },
+            {
+              "word": "about",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2800,
+              "endMs": 3060
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3060,
+              "endMs": 3200
+            },
+            {
+              "word": "cleanup",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 3200,
+              "endMs": 3480
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun의 아빠가 가족을 무엇에 신청했나요?",
+      "type": "mc",
+      "options": [
+        "해변 수영 대회",
+        "해변 청소 봉사 활동",
+        "모래 조각 경연",
+        "낚시 체험 행사"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "아빠는 가족을 해변 청소 봉사 활동에 신청했어요."
+    },
+    {
+      "question_ko": "미나가 바위 근처에서 발견한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "플라스틱 병",
+        "발포 컵",
+        "엉킨 어망",
+        "유리병"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "미나는 바위 근처에서 바다 동물을 위험에 빠뜨릴 수 있는 엉킨 어망을 발견했어요."
+    },
+    {
+      "question_ko": "자원봉사자들이 모은 쓰레기봉투는 모두 몇 개였나요?",
+      "type": "mc",
+      "options": [
+        "스무 개",
+        "서른 개",
+        "마흔 개",
+        "쉰 개"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "자원봉사자가 마흔 봉투라고 발표했어요."
+    },
+    {
+      "question_ko": "아빠는 집으로 돌아오는 길에 Jun에게 무엇을 가르쳐 주었나요?",
+      "type": "mc",
+      "options": [
+        "바다에서 수영하는 방법",
+        "플라스틱을 만드는 과정",
+        "많은 사람의 작은 행동이 바다를 지킬 수 있다는 것",
+        "해변 청소를 매일 해야 한다는 것"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아빠는 많은 사람들의 작은 행동이 우리 바다를 지킬 수 있다고 말했어요."
+    },
+    {
+      "question_ko": "청소가 끝난 뒤 Jun이 결심한 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "다음 달에도 해변 청소에 참여하겠다",
+        "낚시 봉사 활동을 찾아보겠다",
+        "아빠에게 플라스틱 사용을 줄이라고 하겠다",
+        "반 친구들을 다음 주에 해변으로 초대하겠다"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "준은 다음 달에도 해변 청소에 오고 싶다고 아빠에게 말했어요."
+    }
+  ]
+}

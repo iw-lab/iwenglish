@@ -1,0 +1,423 @@
+{
+  "slug": "five-baby-ducks",
+  "title": "Five Baby Ducks",
+  "title_ko": "아기 오리 다섯 마리",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "아기 오리 다섯 마리가 엄마를 따라 줄지어 연못으로 가는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One duck walks by a flower.",
+          "translation_ko": "오리 한 마리가 꽃 옆을 지나가요.",
+          "audio": "/seed/five-baby-ducks/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "duck",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 680
+            },
+            {
+              "word": "walks",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 680,
+              "endMs": 980
+            },
+            {
+              "word": "by",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "flower",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1400,
+              "endMs": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Two ducks walk by a stone.",
+          "translation_ko": "오리 두 마리가 돌 옆을 지나가요.",
+          "audio": "/seed/five-baby-ducks/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Two",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "ducks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "walk",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 920
+            },
+            {
+              "word": "by",
+              "charStart": 15,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1120
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "stone",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Three ducks walk by a log.",
+          "translation_ko": "오리 세 마리가 통나무 옆을 지나가요.",
+          "audio": "/seed/five-baby-ducks/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Three",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "ducks",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 640
+            },
+            {
+              "word": "walk",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 640,
+              "endMs": 1020
+            },
+            {
+              "word": "by",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1220
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1440
+            },
+            {
+              "word": "log",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Four ducks follow mama duck.",
+          "translation_ko": "오리 네 마리가 엄마 오리를 따라가요.",
+          "audio": "/seed/five-baby-ducks/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Four",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "ducks",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 880
+            },
+            {
+              "word": "follow",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 880,
+              "endMs": 1620
+            },
+            {
+              "word": "mama",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 1960
+            },
+            {
+              "word": "duck",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1960,
+              "endMs": 2280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Five ducks reach the pond.",
+          "translation_ko": "오리 다섯 마리가 연못에 도착해요.",
+          "audio": "/seed/five-baby-ducks/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Five",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "ducks",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 860,
+              "endMs": 1260
+            },
+            {
+              "word": "reach",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1760,
+              "endMs": 2220
+            },
+            {
+              "word": "pond",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 2220,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They all splash in the water.",
+          "translation_ko": "모두 물속으로 퐁당 뛰어들어요.",
+          "audio": "/seed/five-baby-ducks/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "all",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 1060
+            },
+            {
+              "word": "splash",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1060,
+              "endMs": 1500
+            },
+            {
+              "word": "in",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "water",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1980,
+              "endMs": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mama duck smiles at them.",
+          "translation_ko": "엄마 오리가 새끼들을 보며 웃어요.",
+          "audio": "/seed/five-baby-ducks/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mama",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 860
+            },
+            {
+              "word": "duck",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 860,
+              "endMs": 1120
+            },
+            {
+              "word": "smiles",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1120,
+              "endMs": 1580
+            },
+            {
+              "word": "at",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "them",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1840,
+              "endMs": 1920
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "아기 오리들은 모두 몇 마리인가요?",
+      "type": "mc",
+      "options": [
+        "세 마리",
+        "네 마리",
+        "다섯 마리",
+        "여섯 마리"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "제목과 본문에서 아기 오리는 모두 다섯 마리예요."
+    },
+    {
+      "question_ko": "오리들이 마지막에 도착한 곳은 어디인가요?",
+      "type": "mc",
+      "options": [
+        "꽃밭",
+        "연못",
+        "숲속",
+        "돌 위"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "다섯 마리 오리는 연못에 도착해 물속으로 뛰어들었어요."
+    },
+    {
+      "question_ko": "오리 한 마리가 처음 지나친 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "돌",
+        "통나무",
+        "꽃",
+        "연못"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "첫 번째 페이지에서 오리 한 마리는 꽃 옆을 지나갔어요."
+    },
+    {
+      "question_ko": "오리들이 연못에서 한 행동은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "잠을 잤어요",
+        "노래를 불렀어요",
+        "물속으로 퐁당 뛰어들었어요",
+        "꽃을 따왔어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "오리들은 연못에 도착하자마자 물속으로 퐁당 뛰어들었어요."
+    },
+    {
+      "question_ko": "오리 세 마리가 지나친 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "꽃",
+        "돌",
+        "통나무",
+        "연못"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "세 번째 페이지에서 오리 세 마리는 통나무 옆을 지나갔어요."
+    }
+  ]
+}

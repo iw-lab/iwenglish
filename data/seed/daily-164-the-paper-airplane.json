@@ -1,0 +1,884 @@
+{
+  "slug": "daily-164-the-paper-airplane",
+  "title": "The Paper Airplane",
+  "title_ko": "종이비행기",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "준이 아빠와 함께 종이비행기를 접어 공원에서 멀리 날려요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun had a piece of paper.",
+          "translation_ko": "준에게 종이 한 장이 있었어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 700,
+              "endMs": 840
+            },
+            {
+              "word": "piece",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1080
+            },
+            {
+              "word": "of",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1080,
+              "endMs": 1260
+            },
+            {
+              "word": "paper",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1460
+            }
+          ]
+        },
+        {
+          "text": "He wanted to make an airplane.",
+          "translation_ko": "준은 비행기를 만들고 싶었어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 1000
+            },
+            {
+              "word": "wanted",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 1340,
+              "endMs": 1860
+            },
+            {
+              "word": "make",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1860,
+              "endMs": 2020
+            },
+            {
+              "word": "an",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "airplane",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 2300,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad sat next to Jun.",
+          "translation_ko": "아빠가 준 옆에 앉았어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "sat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 740
+            },
+            {
+              "word": "next",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 740,
+              "endMs": 1080
+            },
+            {
+              "word": "to",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1080,
+              "endMs": 1360
+            },
+            {
+              "word": "Jun",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1540
+            }
+          ]
+        },
+        {
+          "text": "\"I can help you,\" said Dad.",
+          "translation_ko": "\"내가 도와줄게,\" 아빠가 말했어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 140
+            },
+            {
+              "word": "can",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 140,
+              "endMs": 340
+            },
+            {
+              "word": "help",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "you",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 580,
+              "endMs": 1260
+            },
+            {
+              "word": "said",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1260,
+              "endMs": 1340
+            },
+            {
+              "word": "Dad",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad folded the paper in half.",
+          "translation_ko": "아빠가 종이를 반으로 접었어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "folded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 520,
+              "endMs": 920
+            },
+            {
+              "word": "the",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "paper",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "in",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1720
+            },
+            {
+              "word": "half",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 1980
+            }
+          ]
+        },
+        {
+          "text": "Then he folded the corners down.",
+          "translation_ko": "그런 다음 모서리를 아래로 접었어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Then",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "he",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "folded",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1100
+            },
+            {
+              "word": "corners",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "down",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1440,
+              "endMs": 1820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun watched and tried to fold his paper.",
+          "translation_ko": "준은 보면서 자기 종이를 접으려 했어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "watched",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 820
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "tried",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "to",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1800
+            },
+            {
+              "word": "fold",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1800,
+              "endMs": 1800
+            },
+            {
+              "word": "his",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "paper",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2080,
+              "endMs": 2280
+            }
+          ]
+        },
+        {
+          "text": "It was a little hard but he did it.",
+          "translation_ko": "조금 어려웠지만 준은 해냈어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 440,
+              "endMs": 620
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 620,
+              "endMs": 820
+            },
+            {
+              "word": "little",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 820,
+              "endMs": 920
+            },
+            {
+              "word": "hard",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1360
+            },
+            {
+              "word": "but",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1540,
+              "endMs": 2060
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2060,
+              "endMs": 2220
+            },
+            {
+              "word": "did",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "it",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2400,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"It looks like a real airplane!\" said Jun.",
+          "translation_ko": "\"진짜 비행기 같아요!\" 준이 말했어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 160
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 160,
+              "endMs": 460
+            },
+            {
+              "word": "like",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 900
+            },
+            {
+              "word": "real",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "airplane",
+              "charStart": 22,
+              "charEnd": 30,
+              "startMs": 1160,
+              "endMs": 2380
+            },
+            {
+              "word": "said",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2380,
+              "endMs": 2440
+            },
+            {
+              "word": "Jun",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2440,
+              "endMs": 2740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They went to the park.",
+          "translation_ko": "두 사람은 공원에 갔어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "went",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 780
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1140,
+              "endMs": 1360
+            },
+            {
+              "word": "park",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1540
+            }
+          ]
+        },
+        {
+          "text": "Jun threw his airplane into the sky.",
+          "translation_ko": "준은 비행기를 하늘로 던졌어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 580
+            },
+            {
+              "word": "threw",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 580,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1220
+            },
+            {
+              "word": "airplane",
+              "charStart": 14,
+              "charEnd": 22,
+              "startMs": 1220,
+              "endMs": 1680
+            },
+            {
+              "word": "into",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1680,
+              "endMs": 2100
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "sky",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2400,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The airplane flew far and fast.",
+          "translation_ko": "비행기는 멀리 빠르게 날아갔어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "airplane",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 920
+            },
+            {
+              "word": "flew",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 920,
+              "endMs": 1300
+            },
+            {
+              "word": "far",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1820
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1820,
+              "endMs": 2160
+            },
+            {
+              "word": "fast",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2160,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "Jun ran after it and laughed.",
+          "translation_ko": "준은 뒤쫓아 달리며 웃었어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 460,
+              "endMs": 760
+            },
+            {
+              "word": "after",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1080
+            },
+            {
+              "word": "it",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1260
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1600
+            },
+            {
+              "word": "laughed",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Can we make more?\" Jun asked.",
+          "translation_ko": "\"더 만들어도 돼요?\" 준이 물었어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Can",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "we",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 560
+            },
+            {
+              "word": "make",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 760
+            },
+            {
+              "word": "more",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 1120
+            },
+            {
+              "word": "Jun",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1680
+            },
+            {
+              "word": "asked",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1680,
+              "endMs": 2040
+            }
+          ]
+        },
+        {
+          "text": "\"Yes! Let's make ten,\" said Dad.",
+          "translation_ko": "\"물론이지! 열 개 만들자,\" 아빠가 말했어요.",
+          "audio": "/seed/daily-164-the-paper-airplane/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Yes",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "Let's",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "make",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1060,
+              "endMs": 1260
+            },
+            {
+              "word": "ten",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 2040
+            },
+            {
+              "word": "said",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2040,
+              "endMs": 2120
+            },
+            {
+              "word": "Dad",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2120,
+              "endMs": 2400
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준은 무엇을 만들고 싶었나요?",
+      "type": "mc",
+      "options": [
+        "종이배",
+        "종이비행기",
+        "종이인형",
+        "종이꽃"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "준은 종이비행기를 만들고 싶었어요."
+    },
+    {
+      "question_ko": "아빠는 종이를 어떻게 먼저 접었나요?",
+      "type": "mc",
+      "options": [
+        "모서리부터 접었어요",
+        "반으로 접었어요",
+        "세모로 접었어요",
+        "길게 접었어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "아빠는 종이를 반으로 접었어요."
+    },
+    {
+      "question_ko": "준과 아빠는 비행기를 날리러 어디에 갔나요?",
+      "type": "mc",
+      "options": [
+        "학교",
+        "집 마당",
+        "공원",
+        "운동장"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준과 아빠는 공원에 가서 비행기를 날렸어요."
+    },
+    {
+      "question_ko": "비행기를 날린 뒤 준은 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "울었어요",
+        "그냥 서 있었어요",
+        "집에 들어갔어요",
+        "뒤쫓아 달리며 웃었어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "준은 비행기를 뒤쫓아 달리며 웃었어요."
+    },
+    {
+      "question_ko": "준이 더 만들자고 하자 아빠는 몇 개 만들자고 했나요?",
+      "type": "mc",
+      "options": [
+        "다섯 개",
+        "스무 개",
+        "열 개",
+        "세 개"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아빠는 열 개 만들자고 했어요."
+    }
+  ]
+}

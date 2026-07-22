@@ -1,0 +1,1608 @@
+{
+  "slug": "the-otters-floating-market",
+  "title": "The Otter's Floating Market",
+  "title_ko": "수달의 뗏목 시장",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "강 위에서 작은 뗏목 시장을 여는 수달들이 물건을 바꾸며 어울리는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Ollie the otter woke up early one morning.",
+          "translation_ko": "수달 올리는 어느 날 아침 일찍 눈을 떴어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Ollie",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "the",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 840
+            },
+            {
+              "word": "otter",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 840
+            },
+            {
+              "word": "woke",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "up",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1480
+            },
+            {
+              "word": "early",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "one",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1740,
+              "endMs": 2020
+            },
+            {
+              "word": "morning",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2020,
+              "endMs": 2260
+            }
+          ]
+        },
+        {
+          "text": "He had a basket full of fresh fish.",
+          "translation_ko": "그의 바구니에는 신선한 물고기가 가득 담겨 있었어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "had",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 680,
+              "endMs": 1220
+            },
+            {
+              "word": "basket",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1340
+            },
+            {
+              "word": "full",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1900
+            },
+            {
+              "word": "of",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1900,
+              "endMs": 2520
+            },
+            {
+              "word": "fresh",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2520,
+              "endMs": 2520
+            },
+            {
+              "word": "fish",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2520,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Today is market day!\" he said with a smile.",
+          "translation_ko": "\"오늘은 시장 날이야!\" 그가 활짝 웃으며 말했어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Today",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "is",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 1020
+            },
+            {
+              "word": "market",
+              "charStart": 10,
+              "charEnd": 16,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "day",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1320,
+              "endMs": 1900
+            },
+            {
+              "word": "he",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1900,
+              "endMs": 2060
+            },
+            {
+              "word": "said",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 2060,
+              "endMs": 2200
+            },
+            {
+              "word": "with",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2200,
+              "endMs": 2360
+            },
+            {
+              "word": "a",
+              "charStart": 36,
+              "charEnd": 37,
+              "startMs": 2360,
+              "endMs": 2560
+            },
+            {
+              "word": "smile",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2560,
+              "endMs": 2800
+            }
+          ]
+        },
+        {
+          "text": "He pushed his little raft into the river.",
+          "translation_ko": "그는 작은 뗏목을 강 위로 밀어 넣었어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "pushed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 960
+            },
+            {
+              "word": "little",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "raft",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1220,
+              "endMs": 1560
+            },
+            {
+              "word": "into",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1560,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "river",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When Ollie arrived, other otters were already there.",
+          "translation_ko": "올리가 도착했을 때, 다른 수달들은 이미 와 있었어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "Ollie",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "arrived",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 520,
+              "endMs": 1080
+            },
+            {
+              "word": "other",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "otters",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1660,
+              "endMs": 1920
+            },
+            {
+              "word": "were",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1920,
+              "endMs": 2200
+            },
+            {
+              "word": "already",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2200,
+              "endMs": 2600
+            },
+            {
+              "word": "there",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2600,
+              "endMs": 2900
+            }
+          ]
+        },
+        {
+          "text": "Their rafts carried reeds, berries, and nuts.",
+          "translation_ko": "그들의 뗏목에는 갈대, 열매, 도토리가 실려 있었어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Their",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "rafts",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 860
+            },
+            {
+              "word": "carried",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "reeds",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1060,
+              "endMs": 1480
+            },
+            {
+              "word": "berries",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2060,
+              "endMs": 2300
+            },
+            {
+              "word": "and",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2540,
+              "endMs": 2940
+            },
+            {
+              "word": "nuts",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2940,
+              "endMs": 2940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Bella had a big pile of sweet red berries.",
+          "translation_ko": "벨라에게는 달콤한 붉은 열매가 가득 쌓여 있었어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Bella",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "had",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 680
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 860
+            },
+            {
+              "word": "big",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 860,
+              "endMs": 1160
+            },
+            {
+              "word": "pile",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "of",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1400,
+              "endMs": 1960
+            },
+            {
+              "word": "sweet",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1960,
+              "endMs": 2040
+            },
+            {
+              "word": "red",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2040,
+              "endMs": 2280
+            },
+            {
+              "word": "berries",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "\"I will trade my berries for some fish,\" she said.",
+          "translation_ko": "\"열매를 물고기랑 바꿀게요.\" 그녀가 말했어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "will",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "trade",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 860
+            },
+            {
+              "word": "my",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1200
+            },
+            {
+              "word": "berries",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1200,
+              "endMs": 1480
+            },
+            {
+              "word": "for",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1480,
+              "endMs": 1800
+            },
+            {
+              "word": "some",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 2080
+            },
+            {
+              "word": "fish",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2080,
+              "endMs": 2560
+            },
+            {
+              "word": "she",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2560,
+              "endMs": 2740
+            },
+            {
+              "word": "said",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2740,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Rex carried tall green reeds on his raft.",
+          "translation_ko": "렉스는 뗏목에 키 큰 푸른 갈대를 싣고 왔어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "carried",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 820
+            },
+            {
+              "word": "tall",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1320
+            },
+            {
+              "word": "green",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1320,
+              "endMs": 1720
+            },
+            {
+              "word": "reeds",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1720,
+              "endMs": 2040
+            },
+            {
+              "word": "on",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2040,
+              "endMs": 2260
+            },
+            {
+              "word": "his",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2500
+            },
+            {
+              "word": "raft",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2500,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "He wanted to trade them because reeds make good baskets.",
+          "translation_ko": "갈대로 바구니를 만들 수 있어서 물건을 바꾸려 했어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "wanted",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 500
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 500,
+              "endMs": 720
+            },
+            {
+              "word": "trade",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "them",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 980,
+              "endMs": 1160
+            },
+            {
+              "word": "because",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "reeds",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1480,
+              "endMs": 1880
+            },
+            {
+              "word": "make",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 1880,
+              "endMs": 2220
+            },
+            {
+              "word": "good",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2220,
+              "endMs": 2540
+            },
+            {
+              "word": "baskets",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 2540,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The otters called out and laughed on the river.",
+          "translation_ko": "수달들은 강 위에서 서로 소리치며 웃음꽃을 피웠어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "otters",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "called",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 560,
+              "endMs": 920
+            },
+            {
+              "word": "out",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1200,
+              "endMs": 1760
+            },
+            {
+              "word": "laughed",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1800
+            },
+            {
+              "word": "on",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2020,
+              "endMs": 2200
+            },
+            {
+              "word": "river",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2200,
+              "endMs": 2340
+            }
+          ]
+        },
+        {
+          "text": "The floating market was busy and full of life.",
+          "translation_ko": "뗏목 시장은 활기차고 생기 넘쳤어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "floating",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "market",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 620,
+              "endMs": 920
+            },
+            {
+              "word": "was",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "busy",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1500
+            },
+            {
+              "word": "and",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1500,
+              "endMs": 2000
+            },
+            {
+              "word": "full",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2000,
+              "endMs": 2120
+            },
+            {
+              "word": "of",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2340
+            },
+            {
+              "word": "life",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2340,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Suddenly, a big wave made Rex's raft tip over.",
+          "translation_ko": "갑자기 큰 파도가 치면서 렉스의 뗏목이 뒤집혔어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Suddenly",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 1000,
+              "endMs": 1180
+            },
+            {
+              "word": "big",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "wave",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "made",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "Rex's",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2100,
+              "endMs": 2580
+            },
+            {
+              "word": "raft",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2580,
+              "endMs": 2900
+            },
+            {
+              "word": "tip",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2900,
+              "endMs": 3360
+            },
+            {
+              "word": "over",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3360,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "His reeds fell into the cold river water.",
+          "translation_ko": "그의 갈대들이 차가운 강물 속으로 쏟아졌어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "reeds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 720,
+              "endMs": 1180
+            },
+            {
+              "word": "fell",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "into",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1500,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1760,
+              "endMs": 2220
+            },
+            {
+              "word": "cold",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2220,
+              "endMs": 2340
+            },
+            {
+              "word": "river",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2340,
+              "endMs": 2620
+            },
+            {
+              "word": "water",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2620,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"I will help you!\" Ollie called to Rex.",
+          "translation_ko": "\"내가 도와줄게!\" 올리가 렉스에게 외쳤어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "will",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 580
+            },
+            {
+              "word": "help",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "you",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1920
+            },
+            {
+              "word": "Ollie",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1920,
+              "endMs": 1920
+            },
+            {
+              "word": "called",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "to",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2220,
+              "endMs": 2660
+            },
+            {
+              "word": "Rex",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2660,
+              "endMs": 2920
+            }
+          ]
+        },
+        {
+          "text": "When Ollie swam over, Bella came to help too.",
+          "translation_ko": "올리가 헤엄쳐 가자, 벨라도 함께 달려왔어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "Ollie",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "swam",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 640,
+              "endMs": 1020
+            },
+            {
+              "word": "over",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1300
+            },
+            {
+              "word": "Bella",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1880,
+              "endMs": 1920
+            },
+            {
+              "word": "came",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2240
+            },
+            {
+              "word": "to",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "help",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "too",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Together they pulled the reeds back onto the raft.",
+          "translation_ko": "셋이 함께 갈대를 뗏목 위로 다시 끌어올렸어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Together",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "they",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 920
+            },
+            {
+              "word": "pulled",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1320
+            },
+            {
+              "word": "reeds",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "back",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1540,
+              "endMs": 1860
+            },
+            {
+              "word": "onto",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 1860,
+              "endMs": 2040
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2040,
+              "endMs": 2360
+            },
+            {
+              "word": "raft",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2360,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "Rex felt happy because his friends did not leave him.",
+          "translation_ko": "친구들이 곁을 떠나지 않아 렉스는 행복했어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 980
+            },
+            {
+              "word": "happy",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1380
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 2020
+            },
+            {
+              "word": "his",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 2020,
+              "endMs": 2280
+            },
+            {
+              "word": "friends",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2280,
+              "endMs": 2580
+            },
+            {
+              "word": "did",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2580,
+              "endMs": 2840
+            },
+            {
+              "word": "not",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2840,
+              "endMs": 3100
+            },
+            {
+              "word": "leave",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3100,
+              "endMs": 3300
+            },
+            {
+              "word": "him",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3300,
+              "endMs": 3500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Thank you both,\" Rex said with a big hug.",
+          "translation_ko": "\"둘 다 고마워.\" 렉스가 꼭 안아 주며 말했어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "both",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 520,
+              "endMs": 920
+            },
+            {
+              "word": "Rex",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1460
+            },
+            {
+              "word": "said",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "with",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1700,
+              "endMs": 1820
+            },
+            {
+              "word": "a",
+              "charStart": 32,
+              "charEnd": 33,
+              "startMs": 1820,
+              "endMs": 2040
+            },
+            {
+              "word": "big",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2040,
+              "endMs": 2280
+            },
+            {
+              "word": "hug",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "\"Friends always help each other,\" said Bella cheerfully.",
+          "translation_ko": "\"친구는 언제나 서로 돕는 거야.\" 벨라가 밝게 말했어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Friends",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "always",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 420,
+              "endMs": 900
+            },
+            {
+              "word": "help",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "each",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1140,
+              "endMs": 1400
+            },
+            {
+              "word": "other",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1400,
+              "endMs": 1640
+            },
+            {
+              "word": "said",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2200,
+              "endMs": 2280
+            },
+            {
+              "word": "Bella",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2280,
+              "endMs": 2540
+            },
+            {
+              "word": "cheerfully",
+              "charStart": 45,
+              "charEnd": 55,
+              "startMs": 2540,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The market opened again and everyone traded fairly.",
+          "translation_ko": "시장이 다시 열리고 모두가 사이좋게 물건을 바꿨어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "market",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "opened",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 1000
+            },
+            {
+              "word": "again",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1000,
+              "endMs": 1420
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 2000
+            },
+            {
+              "word": "everyone",
+              "charStart": 28,
+              "charEnd": 36,
+              "startMs": 2000,
+              "endMs": 2500
+            },
+            {
+              "word": "traded",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2500,
+              "endMs": 2900
+            },
+            {
+              "word": "fairly",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2900,
+              "endMs": 3460
+            }
+          ]
+        },
+        {
+          "text": "When the sun set, the otters paddled home with smiles.",
+          "translation_ko": "해가 질 무렵, 수달들은 웃는 얼굴로 집을 향해 노를 저었어요.",
+          "audio": "/seed/the-otters-floating-market/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "the",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "sun",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "set",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "otters",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "paddled",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2100,
+              "endMs": 2520
+            },
+            {
+              "word": "home",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2520,
+              "endMs": 2960
+            },
+            {
+              "word": "with",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2960,
+              "endMs": 3420
+            },
+            {
+              "word": "smiles",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3420,
+              "endMs": 3820
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "올리의 바구니에는 무엇이 가득 담겨 있었나요?",
+      "type": "mc",
+      "options": [
+        "신선한 물고기",
+        "달콤한 열매",
+        "푸른 갈대",
+        "도토리"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "올리의 바구니에는 신선한 물고기(fresh fish)가 가득 담겨 있었어요."
+    },
+    {
+      "question_ko": "렉스의 뗏목이 뒤집힌 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "바람이 너무 강했다",
+        "다른 수달이 밀었다",
+        "큰 파도가 쳤다",
+        "뗏목이 너무 낡았다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "갑자기 큰 파도(a big wave)가 쳐서 렉스의 뗏목이 뒤집혔어요."
+    },
+    {
+      "question_ko": "렉스의 뗏목이 뒤집혔을 때 올리와 벨라는 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "그냥 지켜보았다",
+        "다른 쪽으로 노를 저었다",
+        "렉스에게 소리를 질렀다",
+        "함께 갈대를 끌어올려 주었다"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "올리와 벨라는 힘을 합쳐 갈대를 뗏목 위로 다시 끌어올려 렉스를 도와줬어요."
+    },
+    {
+      "question_ko": "벨라가 시장에 가져온 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "물고기",
+        "달콤한 붉은 열매",
+        "갈대",
+        "도토리"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "벨라는 달콤한 붉은 열매(sweet red berries)를 가득 싣고 왔어요."
+    },
+    {
+      "question_ko": "이야기 속 수달들이 시장에서 한 일은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "물고기 잡기 대회를 열었다",
+        "서로의 물건을 사고팔았다",
+        "새 뗏목을 함께 만들었다",
+        "강에서 수영 경주를 했다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "수달들은 물고기, 열매, 갈대 등 각자 가져온 물건을 서로 바꾸며(trade) 시장을 열었어요."
+    }
+  ]
+}

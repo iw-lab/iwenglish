@@ -1,0 +1,835 @@
+{
+  "slug": "daily-162-the-new-shoes",
+  "title": "The New Shoes",
+  "title_ko": "새 신발",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "Jun이 엄마와 함께 새 신발을 사서 신어 보는 즐거운 하루를 담은 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun looked at his old shoes.",
+          "translation_ko": "Jun은 낡은 신발을 바라봤어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 840,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1140
+            },
+            {
+              "word": "old",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1140,
+              "endMs": 1560
+            },
+            {
+              "word": "shoes",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1940
+            }
+          ]
+        },
+        {
+          "text": "They were too small.",
+          "translation_ko": "신발이 너무 작았거든요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "were",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 600
+            },
+            {
+              "word": "too",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 1060
+            },
+            {
+              "word": "small",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Mom, I need new shoes,\" said Jun.",
+          "translation_ko": "\"엄마, 저 새 신발이 필요해요,\" 하고 Jun이 말했어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "I",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 1200,
+              "endMs": 1380
+            },
+            {
+              "word": "need",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "new",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1580,
+              "endMs": 1880
+            },
+            {
+              "word": "shoes",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1880,
+              "endMs": 2980
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2980,
+              "endMs": 3060
+            },
+            {
+              "word": "Jun",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 3060,
+              "endMs": 3360
+            }
+          ]
+        },
+        {
+          "text": "Mom smiled and said, \"Let's go!\"",
+          "translation_ko": "엄마가 웃으며 말했어요. \"어서 가자!\"",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 900
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1280
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "Let's",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1680,
+              "endMs": 2280
+            },
+            {
+              "word": "go",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2280,
+              "endMs": 2480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They went to the shoe store.",
+          "translation_ko": "둘은 신발 가게에 갔어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "went",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 360,
+              "endMs": 640
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1060
+            },
+            {
+              "word": "shoe",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1060,
+              "endMs": 1220
+            },
+            {
+              "word": "store",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1220,
+              "endMs": 1540
+            }
+          ]
+        },
+        {
+          "text": "There were many shoes.",
+          "translation_ko": "신발이 정말 많았어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "There",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "were",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 920
+            },
+            {
+              "word": "many",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1360
+            },
+            {
+              "word": "shoes",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun saw red shoes and blue shoes.",
+          "translation_ko": "Jun은 빨간 신발과 파란 신발을 봤어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "saw",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "red",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 700,
+              "endMs": 1000
+            },
+            {
+              "word": "shoes",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "and",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "blue",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1820
+            },
+            {
+              "word": "shoes",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2120
+            }
+          ]
+        },
+        {
+          "text": "He liked the white ones best.",
+          "translation_ko": "하지만 흰색 신발이 제일 마음에 들었어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "liked",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "white",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1080
+            },
+            {
+              "word": "ones",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1080,
+              "endMs": 1320
+            },
+            {
+              "word": "best",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1320,
+              "endMs": 1720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun tried on the white shoes.",
+          "translation_ko": "Jun은 흰색 신발을 신어 봤어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "tried",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 780
+            },
+            {
+              "word": "on",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1140
+            },
+            {
+              "word": "white",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1340
+            },
+            {
+              "word": "shoes",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1340,
+              "endMs": 1680
+            }
+          ]
+        },
+        {
+          "text": "They felt great!",
+          "translation_ko": "딱 맞고 기분이 좋았어요!",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "felt",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "great",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 560,
+              "endMs": 1020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"These are perfect,\" said Jun.",
+          "translation_ko": "\"이 신발이 딱 좋아요,\" 하고 Jun이 말했어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "These",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "are",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 460
+            },
+            {
+              "word": "perfect",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 460,
+              "endMs": 1420
+            },
+            {
+              "word": "said",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1540
+            },
+            {
+              "word": "Jun",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1540,
+              "endMs": 1820
+            }
+          ]
+        },
+        {
+          "text": "Mom nodded and bought them.",
+          "translation_ko": "엄마는 고개를 끄덕이고 신발을 사 줬어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 940
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "bought",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "them",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1440,
+              "endMs": 1620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun wore his new shoes home.",
+          "translation_ko": "Jun은 새 신발을 신고 집으로 왔어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "wore",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 1000,
+              "endMs": 1260
+            },
+            {
+              "word": "new",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1580
+            },
+            {
+              "word": "shoes",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "home",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1820,
+              "endMs": 2160
+            }
+          ]
+        },
+        {
+          "text": "He walked fast and smiled.",
+          "translation_ko": "빠른 걸음으로 걸으며 활짝 웃었어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "walked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 500
+            },
+            {
+              "word": "fast",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 500,
+              "endMs": 1040
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1520
+            },
+            {
+              "word": "smiled",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1520,
+              "endMs": 1860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Thank you, Mom!\" said Jun.",
+          "translation_ko": "\"고마워요, 엄마!\" 하고 Jun이 말했어요.",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Thank",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "you",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 660
+            },
+            {
+              "word": "Mom",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1400
+            },
+            {
+              "word": "said",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1400,
+              "endMs": 1560
+            },
+            {
+              "word": "Jun",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1560,
+              "endMs": 1860
+            }
+          ]
+        },
+        {
+          "text": "Mom hugged him and said, \"You're welcome!\"",
+          "translation_ko": "엄마는 Jun을 꼭 안아 주며 말했어요. \"천만에!\"",
+          "audio": "/seed/daily-162-the-new-shoes/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "hugged",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "him",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 980,
+              "endMs": 1320
+            },
+            {
+              "word": "said",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1560
+            },
+            {
+              "word": "You're",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 2280
+            },
+            {
+              "word": "welcome",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2280,
+              "endMs": 2580
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun은 왜 새 신발이 필요했나요?",
+      "type": "mc",
+      "options": [
+        "신발이 더러워서",
+        "신발이 너무 작아서",
+        "신발이 찢어져서",
+        "신발을 잃어버려서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "본문에서 Jun의 신발이 너무 작았다(They were too small)고 했어요."
+    },
+    {
+      "question_ko": "Jun이 가장 마음에 든 신발 색깔은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "빨간색",
+        "파란색",
+        "흰색",
+        "초록색"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Jun은 흰색 신발(the white ones)이 제일 좋았다고 했어요."
+    },
+    {
+      "question_ko": "신발을 신어 본 Jun의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "불편했어요",
+        "너무 컸어요",
+        "기분이 좋았어요",
+        "마음에 안 들었어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "신발을 신어 보고 'They felt great!'라고 했으니 기분이 아주 좋았어요."
+    },
+    {
+      "question_ko": "Jun과 엄마는 신발을 사러 어디에 갔나요?",
+      "type": "mc",
+      "options": [
+        "마트",
+        "백화점",
+        "신발 가게",
+        "시장"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "본문에서 'They went to the shoe store'라고 했어요."
+    },
+    {
+      "question_ko": "집으로 돌아온 Jun의 행동으로 맞는 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "신발을 벗고 뛰었어요",
+        "빠르게 걸으며 웃었어요",
+        "엄마에게 화를 냈어요",
+        "신발을 다시 바꿨어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 새 신발을 신고 'walked fast and smiled'라고 했어요."
+    }
+  ]
+}

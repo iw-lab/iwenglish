@@ -1,0 +1,1858 @@
+{
+  "slug": "daily-178-the-shadow-puppets",
+  "title": "The Shadow Puppets",
+  "title_ko": "그림자 인형",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "준이 아빠와 함께 손으로 그림자 인형을 만들며 빛과 그림자의 신기한 원리를 발견하는 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Dad turned off the lights in the living room.",
+          "translation_ko": "준과 아빠는 거실의 불을 껐어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "Dad",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 820,
+              "endMs": 1200
+            },
+            {
+              "word": "turned",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1700
+            },
+            {
+              "word": "off",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1700,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "lights",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "in",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2300,
+              "endMs": 2460
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2640
+            },
+            {
+              "word": "living",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2640,
+              "endMs": 2820
+            },
+            {
+              "word": "room",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 2820,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "Jun was excited because the room became very dark.",
+          "translation_ko": "방이 아주 어두워져서 준은 신이 났어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "excited",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 580,
+              "endMs": 1060
+            },
+            {
+              "word": "because",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1480,
+              "endMs": 1720
+            },
+            {
+              "word": "room",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1720,
+              "endMs": 1900
+            },
+            {
+              "word": "became",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 1900,
+              "endMs": 2320
+            },
+            {
+              "word": "very",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2320,
+              "endMs": 2780
+            },
+            {
+              "word": "dark",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad turned on a small flashlight and pointed it at the white wall.",
+          "translation_ko": "아빠는 작은 손전등을 켜서 하얀 벽을 향해 비췄어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "turned",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 680
+            },
+            {
+              "word": "on",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 680,
+              "endMs": 880
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1040
+            },
+            {
+              "word": "small",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1340
+            },
+            {
+              "word": "flashlight",
+              "charStart": 22,
+              "charEnd": 32,
+              "startMs": 1340,
+              "endMs": 1860
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1860,
+              "endMs": 2520
+            },
+            {
+              "word": "pointed",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "it",
+              "charStart": 45,
+              "charEnd": 47,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "at",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3000,
+              "endMs": 3160
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3160,
+              "endMs": 3300
+            },
+            {
+              "word": "white",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3300,
+              "endMs": 3520
+            },
+            {
+              "word": "wall",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3520,
+              "endMs": 3820
+            }
+          ]
+        },
+        {
+          "text": "Jun saw a big bright circle of light on the wall.",
+          "translation_ko": "준은 벽에 크고 밝은 빛의 원이 생기는 걸 봤어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "saw",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 820
+            },
+            {
+              "word": "a",
+              "charStart": 8,
+              "charEnd": 9,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "big",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1100,
+              "endMs": 1540
+            },
+            {
+              "word": "bright",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1740,
+              "endMs": 1840
+            },
+            {
+              "word": "circle",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "of",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2120,
+              "endMs": 2420
+            },
+            {
+              "word": "light",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2420,
+              "endMs": 2580
+            },
+            {
+              "word": "on",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 2580,
+              "endMs": 3120
+            },
+            {
+              "word": "the",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 3120,
+              "endMs": 3280
+            },
+            {
+              "word": "wall",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3280,
+              "endMs": 3460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad put his hands between the flashlight and the wall.",
+          "translation_ko": "아빠는 손전등과 벽 사이에 두 손을 놓았어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "put",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 800
+            },
+            {
+              "word": "his",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1020
+            },
+            {
+              "word": "hands",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1360
+            },
+            {
+              "word": "between",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "flashlight",
+              "charStart": 30,
+              "charEnd": 40,
+              "startMs": 1980,
+              "endMs": 2400
+            },
+            {
+              "word": "and",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2400,
+              "endMs": 2820
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2820,
+              "endMs": 3160
+            },
+            {
+              "word": "wall",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3160,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "A shadow appeared on the wall because his hands blocked the light.",
+          "translation_ko": "아빠의 손이 빛을 막아서 벽에 그림자가 생겼어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "shadow",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 600
+            },
+            {
+              "word": "appeared",
+              "charStart": 9,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 1100
+            },
+            {
+              "word": "on",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1260
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "wall",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1560,
+              "endMs": 1660
+            },
+            {
+              "word": "because",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 1660,
+              "endMs": 2420
+            },
+            {
+              "word": "his",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2420,
+              "endMs": 2700
+            },
+            {
+              "word": "hands",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2700,
+              "endMs": 3040
+            },
+            {
+              "word": "blocked",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 3040,
+              "endMs": 3360
+            },
+            {
+              "word": "the",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 3360,
+              "endMs": 3660
+            },
+            {
+              "word": "light",
+              "charStart": 60,
+              "charEnd": 65,
+              "startMs": 3660,
+              "endMs": 3840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad spread his fingers wide to make the shape of a bird.",
+          "translation_ko": "아빠는 손가락을 넓게 펼쳐서 새 모양을 만들었어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "spread",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 960
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1240
+            },
+            {
+              "word": "fingers",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "wide",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1580,
+              "endMs": 2140
+            },
+            {
+              "word": "to",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2140,
+              "endMs": 2680
+            },
+            {
+              "word": "make",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2680,
+              "endMs": 2840
+            },
+            {
+              "word": "the",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2840,
+              "endMs": 3080
+            },
+            {
+              "word": "shape",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 3080,
+              "endMs": 3260
+            },
+            {
+              "word": "of",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3260,
+              "endMs": 3480
+            },
+            {
+              "word": "a",
+              "charStart": 49,
+              "charEnd": 50,
+              "startMs": 3480,
+              "endMs": 3840
+            },
+            {
+              "word": "bird",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3840,
+              "endMs": 3840
+            }
+          ]
+        },
+        {
+          "text": "Jun clapped when the shadow bird seemed to fly across the wall.",
+          "translation_ko": "그림자 새가 벽을 가로질러 날아가는 것처럼 보이자 준은 손뼉을 쳤어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "clapped",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 500,
+              "endMs": 920
+            },
+            {
+              "word": "when",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1300,
+              "endMs": 1520
+            },
+            {
+              "word": "shadow",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1800
+            },
+            {
+              "word": "bird",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2140
+            },
+            {
+              "word": "seemed",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "to",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2420,
+              "endMs": 2900
+            },
+            {
+              "word": "fly",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2900,
+              "endMs": 2920
+            },
+            {
+              "word": "across",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 2920,
+              "endMs": 3320
+            },
+            {
+              "word": "the",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3320,
+              "endMs": 3580
+            },
+            {
+              "word": "wall",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3580,
+              "endMs": 3780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun wanted to try, so he put his hands in front of the light.",
+          "translation_ko": "준도 해 보고 싶어서 빛 앞에 두 손을 내밀었어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "wanted",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "to",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "try",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 1140
+            },
+            {
+              "word": "so",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1840,
+              "endMs": 1960
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1960,
+              "endMs": 2120
+            },
+            {
+              "word": "put",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2120,
+              "endMs": 2260
+            },
+            {
+              "word": "his",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2260,
+              "endMs": 2520
+            },
+            {
+              "word": "hands",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2520,
+              "endMs": 2760
+            },
+            {
+              "word": "in",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2760,
+              "endMs": 3000
+            },
+            {
+              "word": "front",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3000,
+              "endMs": 3080
+            },
+            {
+              "word": "of",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3080,
+              "endMs": 3240
+            },
+            {
+              "word": "the",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3240,
+              "endMs": 3340
+            },
+            {
+              "word": "light",
+              "charStart": 55,
+              "charEnd": 60,
+              "startMs": 3340,
+              "endMs": 3600
+            }
+          ]
+        },
+        {
+          "text": "He curled his fingers slowly to make the shape of a rabbit.",
+          "translation_ko": "준은 손가락을 천천히 구부려서 토끼 모양을 만들었어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "curled",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 660
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 880
+            },
+            {
+              "word": "fingers",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 880,
+              "endMs": 1240
+            },
+            {
+              "word": "slowly",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1240,
+              "endMs": 1760
+            },
+            {
+              "word": "to",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1760,
+              "endMs": 2160
+            },
+            {
+              "word": "make",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2160,
+              "endMs": 2300
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2540
+            },
+            {
+              "word": "shape",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "of",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3040
+            },
+            {
+              "word": "a",
+              "charStart": 50,
+              "charEnd": 51,
+              "startMs": 3040,
+              "endMs": 3180
+            },
+            {
+              "word": "rabbit",
+              "charStart": 52,
+              "charEnd": 58,
+              "startMs": 3180,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The rabbit shadow had two long ears on the wall.",
+          "translation_ko": "벽에 생긴 토끼 그림자에는 귀가 두 개 길게 솟아 있었어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "rabbit",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 300,
+              "endMs": 1020
+            },
+            {
+              "word": "shadow",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1020
+            },
+            {
+              "word": "had",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "two",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1320,
+              "endMs": 1660
+            },
+            {
+              "word": "long",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 1960
+            },
+            {
+              "word": "ears",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2200
+            },
+            {
+              "word": "on",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2200,
+              "endMs": 2480
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2480,
+              "endMs": 2780
+            },
+            {
+              "word": "wall",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2780,
+              "endMs": 2840
+            }
+          ]
+        },
+        {
+          "text": "Jun felt proud because his first shadow puppet looked great.",
+          "translation_ko": "준은 첫 번째 그림자 인형이 정말 멋지게 나와서 뿌듯했어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "proud",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1220
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1700,
+              "endMs": 1900
+            },
+            {
+              "word": "his",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "first",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2520
+            },
+            {
+              "word": "shadow",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2520,
+              "endMs": 2840
+            },
+            {
+              "word": "puppet",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2840,
+              "endMs": 3160
+            },
+            {
+              "word": "looked",
+              "charStart": 47,
+              "charEnd": 53,
+              "startMs": 3160,
+              "endMs": 3460
+            },
+            {
+              "word": "great",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3460,
+              "endMs": 3860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Dad moved the flashlight closer to Jun's hands.",
+          "translation_ko": "아빠가 손전등을 준의 손에 더 가까이 가져다 댔어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "moved",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 920
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "flashlight",
+              "charStart": 14,
+              "charEnd": 24,
+              "startMs": 1160,
+              "endMs": 1660
+            },
+            {
+              "word": "closer",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1660,
+              "endMs": 2140
+            },
+            {
+              "word": "to",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2140,
+              "endMs": 2440
+            },
+            {
+              "word": "Jun's",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 2440,
+              "endMs": 2880
+            },
+            {
+              "word": "hands",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2880,
+              "endMs": 3200
+            }
+          ]
+        },
+        {
+          "text": "The shadow became bigger when the light moved nearer.",
+          "translation_ko": "빛이 가까워지자 그림자가 더 크게 변했어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "shadow",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 600
+            },
+            {
+              "word": "became",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "bigger",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1020,
+              "endMs": 1440
+            },
+            {
+              "word": "when",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1440,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2060
+            },
+            {
+              "word": "light",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2260
+            },
+            {
+              "word": "moved",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2260,
+              "endMs": 2580
+            },
+            {
+              "word": "nearer",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2580,
+              "endMs": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun was surprised because the rabbit now looked as big as a bear.",
+          "translation_ko": "준은 토끼가 이제 곰만큼 크게 보여서 깜짝 놀랐어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "was",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "surprised",
+              "charStart": 8,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 1180
+            },
+            {
+              "word": "because",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1540,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1720,
+              "endMs": 2000
+            },
+            {
+              "word": "rabbit",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2000,
+              "endMs": 2120
+            },
+            {
+              "word": "now",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2120,
+              "endMs": 2480
+            },
+            {
+              "word": "looked",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 2480,
+              "endMs": 2680
+            },
+            {
+              "word": "as",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 2680,
+              "endMs": 3120
+            },
+            {
+              "word": "big",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3120,
+              "endMs": 3200
+            },
+            {
+              "word": "as",
+              "charStart": 55,
+              "charEnd": 57,
+              "startMs": 3200,
+              "endMs": 3440
+            },
+            {
+              "word": "a",
+              "charStart": 58,
+              "charEnd": 59,
+              "startMs": 3440,
+              "endMs": 3680
+            },
+            {
+              "word": "bear",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3680,
+              "endMs": 3740
+            }
+          ]
+        },
+        {
+          "text": "Dad explained that the closer the light, the bigger the shadow.",
+          "translation_ko": "아빠는 빛이 가까울수록 그림자가 더 커진다고 설명해 주었어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Dad",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "explained",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 460,
+              "endMs": 1060
+            },
+            {
+              "word": "that",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1480
+            },
+            {
+              "word": "closer",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1480,
+              "endMs": 1800
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 2020
+            },
+            {
+              "word": "light",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2720,
+              "endMs": 2940
+            },
+            {
+              "word": "bigger",
+              "charStart": 45,
+              "charEnd": 51,
+              "startMs": 2940,
+              "endMs": 3100
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3100,
+              "endMs": 3400
+            },
+            {
+              "word": "shadow",
+              "charStart": 56,
+              "charEnd": 62,
+              "startMs": 3400,
+              "endMs": 3620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They took turns making different animals on the wall.",
+          "translation_ko": "준과 아빠는 번갈아 가며 벽에 다양한 동물을 만들었어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "took",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "turns",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1340
+            },
+            {
+              "word": "making",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1340,
+              "endMs": 1800
+            },
+            {
+              "word": "different",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1800,
+              "endMs": 2300
+            },
+            {
+              "word": "animals",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2680
+            },
+            {
+              "word": "on",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 2960
+            },
+            {
+              "word": "the",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2960,
+              "endMs": 3140
+            },
+            {
+              "word": "wall",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3140,
+              "endMs": 3380
+            }
+          ]
+        },
+        {
+          "text": "Jun laughed when Dad made a funny crocodile with his elbow.",
+          "translation_ko": "아빠가 팔꿈치로 웃긴 악어를 만들자 준은 웃음이 터졌어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "laughed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 820
+            },
+            {
+              "word": "when",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "Dad",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1360
+            },
+            {
+              "word": "made",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1360,
+              "endMs": 1540
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 1540,
+              "endMs": 1780
+            },
+            {
+              "word": "funny",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1780,
+              "endMs": 1980
+            },
+            {
+              "word": "crocodile",
+              "charStart": 34,
+              "charEnd": 43,
+              "startMs": 1980,
+              "endMs": 2440
+            },
+            {
+              "word": "with",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2440,
+              "endMs": 2820
+            },
+            {
+              "word": "his",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2820,
+              "endMs": 3020
+            },
+            {
+              "word": "elbow",
+              "charStart": 53,
+              "charEnd": 58,
+              "startMs": 3020,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When Mom turned on the lights, Jun felt a little sad because the show was over.",
+          "translation_ko": "엄마가 불을 켜자 공연이 끝나서 준은 조금 아쉬웠어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "Mom",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "turned",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "on",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1420,
+              "endMs": 1620
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1620,
+              "endMs": 2060
+            },
+            {
+              "word": "lights",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2060,
+              "endMs": 2060
+            },
+            {
+              "word": "Jun",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2560,
+              "endMs": 2700
+            },
+            {
+              "word": "felt",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2700,
+              "endMs": 2960
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2960,
+              "endMs": 3120
+            },
+            {
+              "word": "little",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 3120,
+              "endMs": 3300
+            },
+            {
+              "word": "sad",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3300,
+              "endMs": 3620
+            },
+            {
+              "word": "because",
+              "charStart": 53,
+              "charEnd": 60,
+              "startMs": 3620,
+              "endMs": 4180
+            },
+            {
+              "word": "the",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 4180,
+              "endMs": 4400
+            },
+            {
+              "word": "show",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4400,
+              "endMs": 4540
+            },
+            {
+              "word": "was",
+              "charStart": 70,
+              "charEnd": 73,
+              "startMs": 4540,
+              "endMs": 4800
+            },
+            {
+              "word": "over",
+              "charStart": 74,
+              "charEnd": 78,
+              "startMs": 4800,
+              "endMs": 5020
+            }
+          ]
+        },
+        {
+          "text": "But he was happy because he learned that hands and light can tell a great story.",
+          "translation_ko": "하지만 손과 빛으로도 멋진 이야기를 만들 수 있다는 걸 배워서 기뻤어요.",
+          "audio": "/seed/daily-178-the-shadow-puppets/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "he",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 280,
+              "endMs": 480
+            },
+            {
+              "word": "was",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 680
+            },
+            {
+              "word": "happy",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 680,
+              "endMs": 1080
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1080,
+              "endMs": 1720
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "learned",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2200
+            },
+            {
+              "word": "that",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2200,
+              "endMs": 2480
+            },
+            {
+              "word": "hands",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2480,
+              "endMs": 2760
+            },
+            {
+              "word": "and",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2760,
+              "endMs": 3000
+            },
+            {
+              "word": "light",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3000,
+              "endMs": 3240
+            },
+            {
+              "word": "can",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3240,
+              "endMs": 3760
+            },
+            {
+              "word": "tell",
+              "charStart": 61,
+              "charEnd": 65,
+              "startMs": 3760,
+              "endMs": 3940
+            },
+            {
+              "word": "a",
+              "charStart": 66,
+              "charEnd": 67,
+              "startMs": 3940,
+              "endMs": 4140
+            },
+            {
+              "word": "great",
+              "charStart": 68,
+              "charEnd": 73,
+              "startMs": 4140,
+              "endMs": 4400
+            },
+            {
+              "word": "story",
+              "charStart": 74,
+              "charEnd": 79,
+              "startMs": 4400,
+              "endMs": 4740
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "준과 아빠는 그림자 인형을 만들기 위해 무엇을 사용했나요?",
+      "type": "mc",
+      "options": [
+        "손전등과 하얀 벽",
+        "색종이와 가위",
+        "스탠드와 검은 종이",
+        "촛불과 유리창"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "아빠가 작은 손전등을 켜서 하얀 벽을 향해 비추었어요."
+    },
+    {
+      "question_ko": "아빠가 처음 만든 그림자 인형의 모양은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "토끼",
+        "악어",
+        "새",
+        "곰"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "아빠는 손가락을 넓게 펼쳐서 새 모양을 만들었어요."
+    },
+    {
+      "question_ko": "손전등을 손에 더 가까이 가져갔을 때 그림자는 어떻게 되었나요?",
+      "type": "mc",
+      "options": [
+        "더 작아졌어요",
+        "사라졌어요",
+        "색이 바뀌었어요",
+        "더 커졌어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "빛이 가까울수록 그림자가 더 커진다는 것을 준은 배웠어요."
+    },
+    {
+      "question_ko": "준이 처음으로 만든 그림자 인형의 모양은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "악어",
+        "새",
+        "토끼",
+        "공룡"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "준은 손가락을 구부려서 귀가 두 개 달린 토끼 모양을 만들었어요."
+    },
+    {
+      "question_ko": "이야기 마지막에 준의 기분은 어떠했나요?",
+      "type": "mc",
+      "options": [
+        "화가 났어요",
+        "슬프기도 하고 기쁘기도 했어요",
+        "지루했어요",
+        "아무 감정이 없었어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "불이 켜져 공연이 끝나서 아쉬웠지만, 빛과 손으로 이야기를 만들 수 있다는 걸 배워서 기뻤어요."
+    }
+  ]
+}

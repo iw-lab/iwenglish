@@ -1,0 +1,1012 @@
+{
+  "slug": "the-lonely-scarecrow",
+  "title": "The Lonely Scarecrow",
+  "title_ko": "외로운 허수아비",
+  "level": "A1",
+  "ageBand": "8-10",
+  "summary_ko": "새를 쫓느라 외롭던 허수아비가 작은 새들과 친구가 되는 따뜻한 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Sam the scarecrow stood in a big field.",
+          "translation_ko": "허수아비 샘은 넓은 밭에 서 있었어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sam",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 480,
+              "endMs": 680
+            },
+            {
+              "word": "scarecrow",
+              "charStart": 8,
+              "charEnd": 17,
+              "startMs": 680,
+              "endMs": 1200
+            },
+            {
+              "word": "stood",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1720
+            },
+            {
+              "word": "in",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "a",
+              "charStart": 27,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2140
+            },
+            {
+              "word": "big",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2420
+            },
+            {
+              "word": "field",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Birds flew down to eat the seeds.",
+          "translation_ko": "새들이 날아와 씨앗을 먹으려 했어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Birds",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "flew",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 840
+            },
+            {
+              "word": "down",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "to",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1380
+            },
+            {
+              "word": "eat",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1380,
+              "endMs": 1520
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1760
+            },
+            {
+              "word": "seeds",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2020
+            }
+          ]
+        },
+        {
+          "text": "Sam waved his arms and scared them away.",
+          "translation_ko": "샘은 팔을 흔들어 새들을 쫓아 버렸어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Sam",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 620,
+              "endMs": 1100
+            },
+            {
+              "word": "waved",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "his",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1380,
+              "endMs": 1620
+            },
+            {
+              "word": "arms",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "and",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1880,
+              "endMs": 2320
+            },
+            {
+              "word": "scared",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 2320,
+              "endMs": 2480
+            },
+            {
+              "word": "them",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2480,
+              "endMs": 2680
+            },
+            {
+              "word": "away",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2680,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The birds flew off, but Sam felt alone.",
+          "translation_ko": "새들은 날아가 버렸지만, 샘은 외로웠어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "birds",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "flew",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 600,
+              "endMs": 900
+            },
+            {
+              "word": "off",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 900,
+              "endMs": 1260
+            },
+            {
+              "word": "but",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "Sam",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1860,
+              "endMs": 2120
+            },
+            {
+              "word": "felt",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2420
+            },
+            {
+              "word": "alone",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2420,
+              "endMs": 2780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "No one talked to him all day.",
+          "translation_ko": "온종일 아무도 그에게 말을 걸지 않았어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "No",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "one",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 340,
+              "endMs": 580
+            },
+            {
+              "word": "talked",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 920
+            },
+            {
+              "word": "to",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "him",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1140,
+              "endMs": 1320
+            },
+            {
+              "word": "all",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1320,
+              "endMs": 1680
+            },
+            {
+              "word": "day",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1680,
+              "endMs": 1920
+            }
+          ]
+        },
+        {
+          "text": "Sam looked at the empty sky and sighed.",
+          "translation_ko": "샘은 텅 빈 하늘을 바라보며 한숨을 쉬었어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Sam",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 700
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 860
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "empty",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1100,
+              "endMs": 1260
+            },
+            {
+              "word": "sky",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1260,
+              "endMs": 1720
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1720,
+              "endMs": 2520
+            },
+            {
+              "word": "sighed",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2520,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One morning, a little bird landed near Sam.",
+          "translation_ko": "어느 날 아침, 작은 새 한 마리가 샘 곁에 내려앉았어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "morning",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 280,
+              "endMs": 660
+            },
+            {
+              "word": "a",
+              "charStart": 13,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1080
+            },
+            {
+              "word": "little",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "bird",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "landed",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1560,
+              "endMs": 1880
+            },
+            {
+              "word": "near",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1880,
+              "endMs": 2240
+            },
+            {
+              "word": "Sam",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2240,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "Sam waved, but the bird did not fly away.",
+          "translation_ko": "샘이 팔을 흔들었지만, 새는 날아가지 않았어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Sam",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "waved",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 400,
+              "endMs": 740
+            },
+            {
+              "word": "but",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1160,
+              "endMs": 1380
+            },
+            {
+              "word": "bird",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1560
+            },
+            {
+              "word": "did",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1820
+            },
+            {
+              "word": "not",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 2100
+            },
+            {
+              "word": "fly",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "away",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2340,
+              "endMs": 2620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Why do you look sad?\" sang the bird.",
+          "translation_ko": "\"왜 슬퍼 보여요?\" 새가 노래하듯 물었어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Why",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "do",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 520
+            },
+            {
+              "word": "you",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 720
+            },
+            {
+              "word": "look",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "sad",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 960,
+              "endMs": 1440
+            },
+            {
+              "word": "sang",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2060,
+              "endMs": 2100
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2100,
+              "endMs": 2340
+            },
+            {
+              "word": "bird",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2500
+            }
+          ]
+        },
+        {
+          "text": "\"I have no friends,\" said Sam softly.",
+          "translation_ko": "\"저는 친구가 없어요.\" 샘이 조용히 말했어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "have",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "no",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 940
+            },
+            {
+              "word": "friends",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1820
+            },
+            {
+              "word": "said",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1820,
+              "endMs": 1900
+            },
+            {
+              "word": "Sam",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1900,
+              "endMs": 2260
+            },
+            {
+              "word": "softly",
+              "charStart": 30,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The bird flew up and sat in his hat.",
+          "translation_ko": "새는 날아올라 샘의 모자 위에 앉았어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "bird",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "flew",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "up",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 820,
+              "endMs": 1100
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1440
+            },
+            {
+              "word": "sat",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1660
+            },
+            {
+              "word": "in",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1660,
+              "endMs": 1780
+            },
+            {
+              "word": "his",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1780,
+              "endMs": 1960
+            },
+            {
+              "word": "hat",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2220
+            }
+          ]
+        },
+        {
+          "text": "She built a small nest inside it.",
+          "translation_ko": "새는 모자 안에 작은 둥지를 만들었어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "built",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 520
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "small",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 1020
+            },
+            {
+              "word": "nest",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1320
+            },
+            {
+              "word": "inside",
+              "charStart": 23,
+              "charEnd": 29,
+              "startMs": 1320,
+              "endMs": 1760
+            },
+            {
+              "word": "it",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "More birds came and sang around Sam.",
+          "translation_ko": "더 많은 새들이 날아와 샘 주변에서 노래했어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "More",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "birds",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 340,
+              "endMs": 700
+            },
+            {
+              "word": "came",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1380
+            },
+            {
+              "word": "sang",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "around",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 1900
+            },
+            {
+              "word": "Sam",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1900,
+              "endMs": 2260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Sam smiled and stood tall in the sun.",
+          "translation_ko": "샘은 미소 지으며 햇살 속에 당당히 서 있었어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Sam",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1440
+            },
+            {
+              "word": "stood",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1440,
+              "endMs": 1560
+            },
+            {
+              "word": "tall",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1960
+            },
+            {
+              "word": "in",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2180
+            },
+            {
+              "word": "the",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2180,
+              "endMs": 2340
+            },
+            {
+              "word": "sun",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2340,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "He was not lonely anymore.",
+          "translation_ko": "샘은 이제 더 이상 외롭지 않았어요.",
+          "audio": "/seed/the-lonely-scarecrow/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 560,
+              "endMs": 840
+            },
+            {
+              "word": "not",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "lonely",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 1220,
+              "endMs": 1600
+            },
+            {
+              "word": "anymore",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "허수아비 샘은 어디에 서 있었나요?",
+      "type": "mc",
+      "options": [
+        "넓은 밭",
+        "학교 운동장",
+        "강가",
+        "숲속"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "샘은 넓은 밭에 서서 씨앗을 지키는 허수아비였어요."
+    },
+    {
+      "question_ko": "샘이 외로웠던 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "비가 많이 왔기 때문에",
+        "모자를 잃어버렸기 때문에",
+        "모두를 쫓아 버려서 친구가 없었기 때문에",
+        "밭이 너무 넓었기 때문에"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "샘은 새들을 계속 쫓아 버렸기 때문에 친구가 하나도 없어서 외로웠어요."
+    },
+    {
+      "question_ko": "작은 새는 샘에게 다가왔을 때 무엇을 했나요?",
+      "type": "mc",
+      "options": [
+        "씨앗을 빼앗았다",
+        "도망갔다",
+        "샘의 모자에 둥지를 틀었다",
+        "샘의 팔을 물었다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "작은 새는 날아올라 샘의 모자 안에 작은 둥지를 만들었어요."
+    },
+    {
+      "question_ko": "이야기 마지막에 샘의 기분은 어땠나요?",
+      "type": "mc",
+      "options": [
+        "여전히 외로웠다",
+        "무서웠다",
+        "슬프고 지쳤다",
+        "더 이상 외롭지 않고 행복했다"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "많은 새 친구들이 생긴 샘은 이제 더 이상 외롭지 않고 미소를 지었어요."
+    },
+    {
+      "question_ko": "작은 새가 샘에게 한 말은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "씨앗을 줘!",
+        "날아가!",
+        "왜 슬퍼 보여요?",
+        "집에 가!"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "작은 새는 \"왜 슬퍼 보여요?\"라고 노래하듯 샘에게 물었어요."
+    }
+  ]
+}

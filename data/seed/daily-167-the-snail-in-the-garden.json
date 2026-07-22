@@ -1,0 +1,863 @@
+{
+  "slug": "daily-167-the-snail-in-the-garden",
+  "title": "The Snail in the Garden",
+  "title_ko": "정원의 달팽이",
+  "level": "A1",
+  "ageBand": "8-10",
+  "stage": 2,
+  "collection": "daily",
+  "summary_ko": "Jun이 정원에서 달팽이를 발견하고 자세히 관찰하며 신기함을 느껴요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun went to the garden.",
+          "translation_ko": "Jun은 정원으로 나갔어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "went",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 920
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1200
+            },
+            {
+              "word": "garden",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1320
+            }
+          ]
+        },
+        {
+          "text": "He saw something small and slow.",
+          "translation_ko": "그는 작고 느린 무언가를 발견했어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "saw",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "something",
+              "charStart": 7,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 980
+            },
+            {
+              "word": "small",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1480,
+              "endMs": 1900
+            },
+            {
+              "word": "slow",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"What is that?\" Jun said.",
+          "translation_ko": "\"저게 뭐지?\" Jun이 말했어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "What",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "that",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 1360
+            },
+            {
+              "word": "Jun",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1420
+            },
+            {
+              "word": "said",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1420,
+              "endMs": 1760
+            }
+          ]
+        },
+        {
+          "text": "It was a snail!",
+          "translation_ko": "달팽이였어요!",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "was",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 680,
+              "endMs": 920
+            },
+            {
+              "word": "a",
+              "charStart": 7,
+              "charEnd": 8,
+              "startMs": 920,
+              "endMs": 1220
+            },
+            {
+              "word": "snail",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 1220,
+              "endMs": 1420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The snail had a brown shell.",
+          "translation_ko": "달팽이는 갈색 껍데기를 가지고 있었어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "snail",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 920
+            },
+            {
+              "word": "had",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "a",
+              "charStart": 14,
+              "charEnd": 15,
+              "startMs": 1160,
+              "endMs": 1400
+            },
+            {
+              "word": "brown",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1640
+            },
+            {
+              "word": "shell",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1640,
+              "endMs": 1960
+            }
+          ]
+        },
+        {
+          "text": "Jun looked at it slowly.",
+          "translation_ko": "Jun은 천천히 그것을 들여다봤어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 920
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "it",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1140,
+              "endMs": 1460
+            },
+            {
+              "word": "slowly",
+              "charStart": 17,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The snail moved on a leaf.",
+          "translation_ko": "달팽이는 나뭇잎 위를 기어갔어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "snail",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 580
+            },
+            {
+              "word": "moved",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 580,
+              "endMs": 960
+            },
+            {
+              "word": "on",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 960,
+              "endMs": 1220
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "leaf",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1520
+            }
+          ]
+        },
+        {
+          "text": "It moved very slowly.",
+          "translation_ko": "달팽이는 아주 천천히 움직였어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "moved",
+              "charStart": 3,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "very",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 600,
+              "endMs": 1260
+            },
+            {
+              "word": "slowly",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Come and look!\" Jun called.",
+          "translation_ko": "\"와서 봐봐!\" Jun이 불렀어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Come",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 880
+            },
+            {
+              "word": "and",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "look",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 1200,
+              "endMs": 2140
+            },
+            {
+              "word": "Jun",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 2140,
+              "endMs": 2240
+            },
+            {
+              "word": "called",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 2240,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "His mom came out and smiled.",
+          "translation_ko": "엄마가 나와서 미소 지었어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "mom",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 780
+            },
+            {
+              "word": "came",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1260
+            },
+            {
+              "word": "out",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1520
+            },
+            {
+              "word": "and",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1520,
+              "endMs": 1900
+            },
+            {
+              "word": "smiled",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1900,
+              "endMs": 2220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"It has two long horns,\" Jun said.",
+          "translation_ko": "\"더듬이가 두 개 있어요,\" Jun이 말했어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "has",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 600
+            },
+            {
+              "word": "two",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 1160
+            },
+            {
+              "word": "long",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1160,
+              "endMs": 1560
+            },
+            {
+              "word": "horns",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1560,
+              "endMs": 2600
+            },
+            {
+              "word": "Jun",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2600,
+              "endMs": 2660
+            },
+            {
+              "word": "said",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2660,
+              "endMs": 2980
+            }
+          ]
+        },
+        {
+          "text": "\"You are right,\" his mom said.",
+          "translation_ko": "\"맞아,\" 엄마가 말했어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "You",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "are",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "right",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 1080
+            },
+            {
+              "word": "his",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "mom",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "said",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun watched the snail for a long time.",
+          "translation_ko": "Jun은 한참 동안 달팽이를 지켜봤어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "watched",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1620
+            },
+            {
+              "word": "snail",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "for",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1920,
+              "endMs": 2220
+            },
+            {
+              "word": "a",
+              "charStart": 26,
+              "charEnd": 27,
+              "startMs": 2220,
+              "endMs": 2440
+            },
+            {
+              "word": "long",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2440,
+              "endMs": 2760
+            },
+            {
+              "word": "time",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2760,
+              "endMs": 3160
+            }
+          ]
+        },
+        {
+          "text": "But he did not touch it.",
+          "translation_ko": "하지만 그는 달팽이를 건드리지 않았어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "But",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "he",
+              "charStart": 4,
+              "charEnd": 6,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "did",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 820
+            },
+            {
+              "word": "not",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1120
+            },
+            {
+              "word": "touch",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "it",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Goodbye, snail,\" Jun said and went inside.",
+          "translation_ko": "\"잘 있어, 달팽이야,\" Jun이 말하고 집에 들어갔어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Goodbye",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "snail",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 1440
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1440,
+              "endMs": 1900
+            },
+            {
+              "word": "said",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1900,
+              "endMs": 2180
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2180,
+              "endMs": 2620
+            },
+            {
+              "word": "went",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2620,
+              "endMs": 2840
+            },
+            {
+              "word": "inside",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2840,
+              "endMs": 3440
+            }
+          ]
+        },
+        {
+          "text": "He wanted to come back tomorrow.",
+          "translation_ko": "그는 내일도 다시 오고 싶었어요.",
+          "audio": "/seed/daily-167-the-snail-in-the-garden/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "wanted",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "come",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "back",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1140,
+              "endMs": 1420
+            },
+            {
+              "word": "tomorrow",
+              "charStart": 23,
+              "charEnd": 31,
+              "startMs": 1420,
+              "endMs": 1820
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun은 정원에서 무엇을 발견했나요?",
+      "type": "mc",
+      "options": [
+        "달팽이",
+        "개구리",
+        "나비",
+        "지렁이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Jun은 정원에서 달팽이(snail)를 발견했어요."
+    },
+    {
+      "question_ko": "달팽이 껍데기는 무슨 색이었나요?",
+      "type": "mc",
+      "options": [
+        "하얀색",
+        "갈색",
+        "검은색",
+        "초록색"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "달팽이는 갈색(brown) 껍데기를 가지고 있었어요."
+    },
+    {
+      "question_ko": "Jun이 엄마를 불렀을 때 엄마는 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "소리를 질렀어요",
+        "화를 냈어요",
+        "나와서 미소 지었어요",
+        "달팽이를 잡았어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "엄마는 나와서 미소 지었어요(smiled)."
+    },
+    {
+      "question_ko": "Jun이 달팽이를 관찰하면서 하지 않은 행동은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "달팽이를 바라봤어요",
+        "엄마를 불렀어요",
+        "달팽이를 만졌어요",
+        "정원에 나갔어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Jun은 달팽이를 건드리지(touch) 않았어요."
+    },
+    {
+      "question_ko": "Jun은 집에 들어가면서 어떤 마음이었나요?",
+      "type": "mc",
+      "options": [
+        "달팽이가 무서웠어요",
+        "내일 다시 오고 싶었어요",
+        "달팽이가 싫었어요",
+        "집에 있고 싶지 않았어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 내일 다시 정원에 오고 싶었어요."
+    }
+  ]
+}

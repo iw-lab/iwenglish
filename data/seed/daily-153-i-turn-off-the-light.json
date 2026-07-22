@@ -1,0 +1,635 @@
+{
+  "slug": "daily-153-i-turn-off-the-light",
+  "title": "I Turn Off the Light",
+  "title_ko": "불을 꺼요",
+  "level": "preA1",
+  "ageBand": "8-10",
+  "stage": 1,
+  "collection": "daily",
+  "summary_ko": "Jun이 잠자리에 들기 전 불을 끄는 일상을 담은 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "It is night. Jun is very sleepy. He yawns.",
+          "translation_ko": "밤이에요. Jun은 많이 졸려요. Jun이 하품을 해요.",
+          "audio": "/seed/daily-153-i-turn-off-the-light/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "is",
+              "charStart": 3,
+              "charEnd": 5,
+              "startMs": 180,
+              "endMs": 400
+            },
+            {
+              "word": "night",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "Jun",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1420,
+              "endMs": 1640
+            },
+            {
+              "word": "is",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1640,
+              "endMs": 1820
+            },
+            {
+              "word": "very",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1820,
+              "endMs": 2220
+            },
+            {
+              "word": "sleepy",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 2220,
+              "endMs": 2540
+            },
+            {
+              "word": "He",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 3340,
+              "endMs": 3500
+            },
+            {
+              "word": "yawns",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3500,
+              "endMs": 3940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun goes to the bathroom. He brushes his teeth.",
+          "translation_ko": "Jun은 화장실에 가요. Jun은 이를 닦아요.",
+          "audio": "/seed/daily-153-i-turn-off-the-light/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "goes",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 980
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 980,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1140,
+              "endMs": 1760
+            },
+            {
+              "word": "bathroom",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 1760,
+              "endMs": 1760
+            },
+            {
+              "word": "He",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2480,
+              "endMs": 2660
+            },
+            {
+              "word": "brushes",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2660,
+              "endMs": 2820
+            },
+            {
+              "word": "his",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2820,
+              "endMs": 3400
+            },
+            {
+              "word": "teeth",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3400,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun puts on his pajamas. He is ready for bed.",
+          "translation_ko": "Jun은 잠옷을 입어요. 이제 잘 준비가 됐어요.",
+          "audio": "/seed/daily-153-i-turn-off-the-light/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "puts",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 780
+            },
+            {
+              "word": "on",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 780,
+              "endMs": 1000
+            },
+            {
+              "word": "his",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "pajamas",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1240,
+              "endMs": 1660
+            },
+            {
+              "word": "He",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2160,
+              "endMs": 2240
+            },
+            {
+              "word": "is",
+              "charStart": 28,
+              "charEnd": 30,
+              "startMs": 2240,
+              "endMs": 2480
+            },
+            {
+              "word": "ready",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2480,
+              "endMs": 2600
+            },
+            {
+              "word": "for",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 3060
+            },
+            {
+              "word": "bed",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3060,
+              "endMs": 3080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun says good night to Mom. Mom gives him a hug.",
+          "translation_ko": "Jun은 엄마에게 잘 자라고 해요. 엄마가 Jun을 안아줘요.",
+          "audio": "/seed/daily-153-i-turn-off-the-light/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "says",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 500,
+              "endMs": 1120
+            },
+            {
+              "word": "good",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 1120,
+              "endMs": 1380
+            },
+            {
+              "word": "night",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1680
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1680,
+              "endMs": 1880
+            },
+            {
+              "word": "Mom",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1880,
+              "endMs": 2300
+            },
+            {
+              "word": "Mom",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 3020,
+              "endMs": 3020
+            },
+            {
+              "word": "gives",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 3020,
+              "endMs": 3260
+            },
+            {
+              "word": "him",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 3260,
+              "endMs": 3480
+            },
+            {
+              "word": "a",
+              "charStart": 42,
+              "charEnd": 43,
+              "startMs": 3480,
+              "endMs": 3620
+            },
+            {
+              "word": "hug",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3620,
+              "endMs": 3820
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun gets into his bed. He pulls up the blanket.",
+          "translation_ko": "Jun은 침대에 누워요. Jun은 이불을 끌어올려요.",
+          "audio": "/seed/daily-153-i-turn-off-the-light/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "gets",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "into",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 820,
+              "endMs": 1080
+            },
+            {
+              "word": "his",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1080,
+              "endMs": 1320
+            },
+            {
+              "word": "bed",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1580
+            },
+            {
+              "word": "He",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 2080,
+              "endMs": 2220
+            },
+            {
+              "word": "pulls",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2220,
+              "endMs": 2440
+            },
+            {
+              "word": "up",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2640,
+              "endMs": 2780
+            },
+            {
+              "word": "blanket",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2780,
+              "endMs": 3040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun turns off the light. The room is dark and quiet.",
+          "translation_ko": "Jun은 불을 꺼요. 방이 어둡고 조용해요.",
+          "audio": "/seed/daily-153-i-turn-off-the-light/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "turns",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 920
+            },
+            {
+              "word": "off",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 920,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1160,
+              "endMs": 1360
+            },
+            {
+              "word": "light",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "The",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "room",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2260,
+              "endMs": 2440
+            },
+            {
+              "word": "is",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 2440,
+              "endMs": 2780
+            },
+            {
+              "word": "dark",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2780,
+              "endMs": 3060
+            },
+            {
+              "word": "and",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3060,
+              "endMs": 3440
+            },
+            {
+              "word": "quiet",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 3440,
+              "endMs": 3640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun closes his eyes. He smiles and falls asleep.",
+          "translation_ko": "Jun은 눈을 감아요. Jun은 미소 지으며 잠들어요.",
+          "audio": "/seed/daily-153-i-turn-off-the-light/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "closes",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 380,
+              "endMs": 840
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "eyes",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1480
+            },
+            {
+              "word": "He",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 2140,
+              "endMs": 2320
+            },
+            {
+              "word": "smiles",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 2320,
+              "endMs": 2740
+            },
+            {
+              "word": "and",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2740,
+              "endMs": 3460
+            },
+            {
+              "word": "falls",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 3460,
+              "endMs": 3640
+            },
+            {
+              "word": "asleep",
+              "charStart": 41,
+              "charEnd": 47,
+              "startMs": 3640,
+              "endMs": 4120
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun이 잠자리에 들기 전 가장 먼저 한 일은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "불을 꺼요.",
+        "이를 닦아요.",
+        "침대에 누워요.",
+        "눈을 감아요."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun은 화장실에 가서 이를 닦은 뒤 잠자리를 준비했어요."
+    },
+    {
+      "question_ko": "Jun이 불을 끄면 방이 어떻게 되나요?",
+      "type": "mc",
+      "options": [
+        "밝아요.",
+        "시끄러워요.",
+        "어둡고 조용해요.",
+        "춥고 조용해요."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "불을 끄면 방이 어둡고 조용해진다고 했어요."
+    },
+    {
+      "question_ko": "엄마는 Jun에게 무엇을 해 주었나요?",
+      "type": "mc",
+      "options": [
+        "책을 읽어줬어요.",
+        "노래를 불러줬어요.",
+        "안아줬어요.",
+        "물을 가져다줬어요."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "엄마(Mom)는 Jun에게 안아주었다(gave him a hug)고 했어요."
+    },
+    {
+      "question_ko": "이 이야기는 언제 일어나는 일인가요?",
+      "type": "mc",
+      "options": [
+        "아침",
+        "낮",
+        "저녁 식사 시간",
+        "밤"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "이야기 첫 문장에서 밤(night)이라고 했어요."
+    },
+    {
+      "question_ko": "불을 끄다를 영어로 어떻게 말하나요?",
+      "type": "mc",
+      "options": [
+        "turn on the light",
+        "put up the light",
+        "turn off the light",
+        "take off the light"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "불을 끄다는 영어로 'turn off the light'이라고 해요."
+    }
+  ]
+}

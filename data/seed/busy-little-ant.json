@@ -1,0 +1,458 @@
+{
+  "slug": "busy-little-ant",
+  "title": "Busy Little Ant",
+  "title_ko": "부지런한 작은 개미",
+  "level": "preA1",
+  "ageBand": "5-7",
+  "summary_ko": "작은 개미가 자기보다 큰 빵 부스러기를 집까지 옮기는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "A little ant finds a big crumb.",
+          "translation_ko": "작은 개미가 큰 빵 부스러기를 발견해요.",
+          "audio": "/seed/busy-little-ant/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "little",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 480
+            },
+            {
+              "word": "ant",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 480,
+              "endMs": 880
+            },
+            {
+              "word": "finds",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1300
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "big",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "crumb",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She lifts the big crumb up.",
+          "translation_ko": "개미가 큰 부스러기를 번쩍 들어 올려요.",
+          "audio": "/seed/busy-little-ant/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "lifts",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 600,
+              "endMs": 1360
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1360,
+              "endMs": 1720
+            },
+            {
+              "word": "big",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1720,
+              "endMs": 2120
+            },
+            {
+              "word": "crumb",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "up",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 2360,
+              "endMs": 2680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She pulls and pulls it along.",
+          "translation_ko": "개미가 부스러기를 힘껏 끌고 가요.",
+          "audio": "/seed/busy-little-ant/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "pulls",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 320,
+              "endMs": 760
+            },
+            {
+              "word": "and",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1060
+            },
+            {
+              "word": "pulls",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1360
+            },
+            {
+              "word": "it",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "along",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1580,
+              "endMs": 1880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She climbs over a green leaf.",
+          "translation_ko": "개미가 초록 잎사귀 위를 기어올라가요.",
+          "audio": "/seed/busy-little-ant/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "climbs",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "over",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 700,
+              "endMs": 1100
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 1100,
+              "endMs": 1320
+            },
+            {
+              "word": "green",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1320,
+              "endMs": 1600
+            },
+            {
+              "word": "leaf",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She goes under a brown stick.",
+          "translation_ko": "개미가 갈색 나뭇가지 아래를 지나가요.",
+          "audio": "/seed/busy-little-ant/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "goes",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "under",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 960
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1160
+            },
+            {
+              "word": "brown",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1160,
+              "endMs": 1420
+            },
+            {
+              "word": "stick",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1420,
+              "endMs": 1780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She does not stop at all.",
+          "translation_ko": "개미는 전혀 멈추지 않아요.",
+          "audio": "/seed/busy-little-ant/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "does",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "not",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 900
+            },
+            {
+              "word": "stop",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 900,
+              "endMs": 1160
+            },
+            {
+              "word": "at",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1160,
+              "endMs": 1340
+            },
+            {
+              "word": "all",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She brings it home to the nest.",
+          "translation_ko": "개미가 집인 개미굴까지 부스러기를 가져다 놓아요.",
+          "audio": "/seed/busy-little-ant/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "brings",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 540,
+              "endMs": 960
+            },
+            {
+              "word": "it",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "home",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1520,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "nest",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1860,
+              "endMs": 2100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "개미가 처음에 무엇을 발견했나요?",
+      "type": "mc",
+      "options": [
+        "큰 빵 부스러기",
+        "초록 잎사귀",
+        "갈색 나뭇가지",
+        "작은 돌"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이야기 첫 장에서 작은 개미는 큰 빵 부스러기를 발견해요."
+    },
+    {
+      "question_ko": "개미가 초록 잎사귀를 어떻게 지나갔나요?",
+      "type": "mc",
+      "options": [
+        "잎사귀 옆으로 돌아갔어요",
+        "잎사귀 위를 기어올라갔어요",
+        "잎사귀 아래를 지나갔어요",
+        "잎사귀를 치웠어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "개미는 초록 잎사귀 위를(over) 기어올라갔어요."
+    },
+    {
+      "question_ko": "개미가 나뭇가지를 지날 때 어떻게 했나요?",
+      "type": "mc",
+      "options": [
+        "나뭇가지 위로 올라갔어요",
+        "나뭇가지를 옮겼어요",
+        "나뭇가지 아래로 지나갔어요",
+        "나뭇가지 옆을 돌았어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "개미는 갈색 나뭇가지 아래를(under) 통과했어요."
+    },
+    {
+      "question_ko": "개미는 힘들어도 멈추었나요?",
+      "type": "mc",
+      "options": [
+        "잠깐 멈췄어요",
+        "여러 번 멈췄어요",
+        "포기했어요",
+        "전혀 멈추지 않았어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "개미는 not stop at all, 즉 전혀 멈추지 않고 끝까지 나아갔어요."
+    },
+    {
+      "question_ko": "개미는 마지막에 부스러기를 어디로 가져갔나요?",
+      "type": "mc",
+      "options": [
+        "나뭇잎 위",
+        "강가",
+        "집인 개미굴",
+        "큰 돌 밑"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "개미는 부스러기를 집인 개미굴(nest)로 가져갔어요."
+    }
+  ]
+}

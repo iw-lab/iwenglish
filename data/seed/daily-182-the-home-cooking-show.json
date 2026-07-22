@@ -1,0 +1,1746 @@
+{
+  "slug": "daily-182-the-home-cooking-show",
+  "title": "The Home Cooking Show",
+  "title_ko": "집에서 요리쇼",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 집에서 간식을 만들며 신나는 요리쇼 놀이를 즐깁니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina wanted to make a cooking show at home.",
+          "translation_ko": "Jun과 Mina는 집에서 요리쇼를 만들기로 했어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 520,
+              "endMs": 880
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 880,
+              "endMs": 1160
+            },
+            {
+              "word": "wanted",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1160,
+              "endMs": 1720
+            },
+            {
+              "word": "to",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "make",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2080
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2360
+            },
+            {
+              "word": "cooking",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2360,
+              "endMs": 2540
+            },
+            {
+              "word": "show",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2540,
+              "endMs": 2940
+            },
+            {
+              "word": "at",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2940,
+              "endMs": 3320
+            },
+            {
+              "word": "home",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3320,
+              "endMs": 3580
+            }
+          ]
+        },
+        {
+          "text": "They set up a camera on the table and put on their aprons.",
+          "translation_ko": "두 아이는 탁자 위에 카메라를 세우고 앞치마를 입었어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 520
+            },
+            {
+              "word": "set",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 520,
+              "endMs": 940
+            },
+            {
+              "word": "up",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 940,
+              "endMs": 1080
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "camera",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1380,
+              "endMs": 1560
+            },
+            {
+              "word": "on",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1560,
+              "endMs": 1800
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1800,
+              "endMs": 2000
+            },
+            {
+              "word": "table",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2260
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2260,
+              "endMs": 2780
+            },
+            {
+              "word": "put",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2780,
+              "endMs": 2920
+            },
+            {
+              "word": "on",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2920,
+              "endMs": 3160
+            },
+            {
+              "word": "their",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3160,
+              "endMs": 3340
+            },
+            {
+              "word": "aprons",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 3340,
+              "endMs": 3760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun said, \"Welcome to our cooking show! Today we will make a fruit salad.\"",
+          "translation_ko": "Jun이 말했어요. \"우리 요리쇼에 오신 걸 환영해요! 오늘은 과일 샐러드를 만들 거예요.\"",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 860
+            },
+            {
+              "word": "Welcome",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 1140,
+              "endMs": 1760
+            },
+            {
+              "word": "to",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1760,
+              "endMs": 1980
+            },
+            {
+              "word": "our",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1980,
+              "endMs": 2180
+            },
+            {
+              "word": "cooking",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2180,
+              "endMs": 2440
+            },
+            {
+              "word": "show",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2440,
+              "endMs": 2820
+            },
+            {
+              "word": "Today",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 3260,
+              "endMs": 3460
+            },
+            {
+              "word": "we",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 3460,
+              "endMs": 3620
+            },
+            {
+              "word": "will",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3620,
+              "endMs": 3800
+            },
+            {
+              "word": "make",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3800,
+              "endMs": 3960
+            },
+            {
+              "word": "a",
+              "charStart": 59,
+              "charEnd": 60,
+              "startMs": 3960,
+              "endMs": 4120
+            },
+            {
+              "word": "fruit",
+              "charStart": 61,
+              "charEnd": 66,
+              "startMs": 4120,
+              "endMs": 4320
+            },
+            {
+              "word": "salad",
+              "charStart": 67,
+              "charEnd": 72,
+              "startMs": 4320,
+              "endMs": 4640
+            }
+          ]
+        },
+        {
+          "text": "Mina waved at the camera and smiled her biggest smile.",
+          "translation_ko": "Mina는 카메라를 향해 손을 흔들며 활짝 웃었어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "waved",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 880
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1040
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1320
+            },
+            {
+              "word": "camera",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1320,
+              "endMs": 1520
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1520,
+              "endMs": 2160
+            },
+            {
+              "word": "smiled",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2500
+            },
+            {
+              "word": "her",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2500,
+              "endMs": 2820
+            },
+            {
+              "word": "biggest",
+              "charStart": 40,
+              "charEnd": 47,
+              "startMs": 2820,
+              "endMs": 3180
+            },
+            {
+              "word": "smile",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3180,
+              "endMs": 3580
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They put strawberries, bananas, and grapes on the cutting board.",
+          "translation_ko": "두 아이는 도마 위에 딸기, 바나나, 포도를 올려놓았어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 560
+            },
+            {
+              "word": "put",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "strawberries",
+              "charStart": 9,
+              "charEnd": 21,
+              "startMs": 860,
+              "endMs": 1580
+            },
+            {
+              "word": "bananas",
+              "charStart": 23,
+              "charEnd": 30,
+              "startMs": 2380,
+              "endMs": 2380
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2760,
+              "endMs": 3240
+            },
+            {
+              "word": "grapes",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 3240,
+              "endMs": 3240
+            },
+            {
+              "word": "on",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 3240,
+              "endMs": 3700
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 3700,
+              "endMs": 3860
+            },
+            {
+              "word": "cutting",
+              "charStart": 50,
+              "charEnd": 57,
+              "startMs": 3860,
+              "endMs": 4020
+            },
+            {
+              "word": "board",
+              "charStart": 58,
+              "charEnd": 63,
+              "startMs": 4020,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "\"First, we need to wash all the fruit,\" said Mina.",
+          "translation_ko": "\"먼저 과일을 모두 씻어야 해요.\" Mina가 말했어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "First",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "we",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1100
+            },
+            {
+              "word": "need",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1280
+            },
+            {
+              "word": "to",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1700
+            },
+            {
+              "word": "wash",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1700,
+              "endMs": 1720
+            },
+            {
+              "word": "all",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1980,
+              "endMs": 2200
+            },
+            {
+              "word": "fruit",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 3060
+            },
+            {
+              "word": "said",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 3060,
+              "endMs": 3060
+            },
+            {
+              "word": "Mina",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun carefully cut the strawberries into small pieces.",
+          "translation_ko": "Jun은 조심스럽게 딸기를 작게 썰었어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "carefully",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 440,
+              "endMs": 940
+            },
+            {
+              "word": "cut",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1220,
+              "endMs": 1420
+            },
+            {
+              "word": "strawberries",
+              "charStart": 22,
+              "charEnd": 34,
+              "startMs": 1420,
+              "endMs": 1820
+            },
+            {
+              "word": "into",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1820,
+              "endMs": 2240
+            },
+            {
+              "word": "small",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2240,
+              "endMs": 2640
+            },
+            {
+              "word": "pieces",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 2640,
+              "endMs": 3080
+            }
+          ]
+        },
+        {
+          "text": "Mina peeled the bananas and broke them into chunks.",
+          "translation_ko": "Mina는 바나나 껍질을 벗기고 한 입 크기로 나누었어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "peeled",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 880
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 880,
+              "endMs": 1460
+            },
+            {
+              "word": "bananas",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 1460
+            },
+            {
+              "word": "and",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1860
+            },
+            {
+              "word": "broke",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "them",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2080,
+              "endMs": 2300
+            },
+            {
+              "word": "into",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2300,
+              "endMs": 2620
+            },
+            {
+              "word": "chunks",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2620,
+              "endMs": 2920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun added the grapes to the bowl and mixed everything together.",
+          "translation_ko": "Jun은 그릇에 포도를 넣고 모든 재료를 함께 섞었어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "added",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 800
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 800,
+              "endMs": 1020
+            },
+            {
+              "word": "grapes",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1280
+            },
+            {
+              "word": "to",
+              "charStart": 21,
+              "charEnd": 23,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "bowl",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 1940
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2340
+            },
+            {
+              "word": "mixed",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "everything",
+              "charStart": 43,
+              "charEnd": 53,
+              "startMs": 2600,
+              "endMs": 3160
+            },
+            {
+              "word": "together",
+              "charStart": 54,
+              "charEnd": 62,
+              "startMs": 3160,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "\"It looks so colorful and yummy!\" Mina said.",
+          "translation_ko": "\"정말 알록달록하고 맛있어 보여요!\" Mina가 말했어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 640
+            },
+            {
+              "word": "so",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "colorful",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1040,
+              "endMs": 1480
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1900
+            },
+            {
+              "word": "yummy",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1900,
+              "endMs": 2760
+            },
+            {
+              "word": "Mina",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2760,
+              "endMs": 2820
+            },
+            {
+              "word": "said",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2820,
+              "endMs": 3160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina poured a little honey over the fruit salad.",
+          "translation_ko": "Mina는 과일 샐러드 위에 꿀을 조금 뿌렸어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "poured",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 900
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 900,
+              "endMs": 1080
+            },
+            {
+              "word": "little",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "honey",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1300,
+              "endMs": 1580
+            },
+            {
+              "word": "over",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1580,
+              "endMs": 2000
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "fruit",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2220,
+              "endMs": 2380
+            },
+            {
+              "word": "salad",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2380,
+              "endMs": 2720
+            }
+          ]
+        },
+        {
+          "text": "Jun stirred it gently so the honey covered all the fruit.",
+          "translation_ko": "Jun은 꿀이 과일 전체에 고루 묻도록 살살 저었어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "word": "stirred",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 680,
+              "endMs": 1000
+            },
+            {
+              "word": "it",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "gently",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1280,
+              "endMs": 1480
+            },
+            {
+              "word": "so",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1780,
+              "endMs": 2040
+            },
+            {
+              "word": "honey",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2040,
+              "endMs": 2140
+            },
+            {
+              "word": "covered",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2140,
+              "endMs": 2540
+            },
+            {
+              "word": "all",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2540,
+              "endMs": 2900
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2900,
+              "endMs": 3320
+            },
+            {
+              "word": "fruit",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3320,
+              "endMs": 3320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Now let's taste it,\" said Jun, picking up a fork.",
+          "translation_ko": "\"이제 맛을 볼게요.\" Jun이 포크를 들며 말했어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 740
+            },
+            {
+              "word": "let's",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 740,
+              "endMs": 1080
+            },
+            {
+              "word": "taste",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 1080,
+              "endMs": 1380
+            },
+            {
+              "word": "it",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1940
+            },
+            {
+              "word": "said",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1940,
+              "endMs": 2060
+            },
+            {
+              "word": "Jun",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2060,
+              "endMs": 2320
+            },
+            {
+              "word": "picking",
+              "charStart": 32,
+              "charEnd": 39,
+              "startMs": 2780,
+              "endMs": 2980
+            },
+            {
+              "word": "up",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 2980,
+              "endMs": 3140
+            },
+            {
+              "word": "a",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 3140,
+              "endMs": 3340
+            },
+            {
+              "word": "fork",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3340,
+              "endMs": 3520
+            }
+          ]
+        },
+        {
+          "text": "Both of them took a bite and said, \"Delicious!\"",
+          "translation_ko": "두 아이는 한 입씩 먹어보고는 \"맛있다!\" 하고 외쳤어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Both",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "of",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 260,
+              "endMs": 420
+            },
+            {
+              "word": "them",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 600
+            },
+            {
+              "word": "took",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 600,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 18,
+              "charEnd": 19,
+              "startMs": 780,
+              "endMs": 1120
+            },
+            {
+              "word": "bite",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1120,
+              "endMs": 1120
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1120,
+              "endMs": 1440
+            },
+            {
+              "word": "said",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1440,
+              "endMs": 1700
+            },
+            {
+              "word": "Delicious",
+              "charStart": 36,
+              "charEnd": 45,
+              "startMs": 2200,
+              "endMs": 2540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina said, \"Our viewers can make this snack at home too!\"",
+          "translation_ko": "Mina가 말했어요. \"시청자 여러분도 집에서 이 간식을 만들 수 있어요!\"",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "said",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 700
+            },
+            {
+              "word": "Our",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "viewers",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "can",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1560,
+              "endMs": 1820
+            },
+            {
+              "word": "make",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 1980
+            },
+            {
+              "word": "this",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2260
+            },
+            {
+              "word": "snack",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2260,
+              "endMs": 2520
+            },
+            {
+              "word": "at",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2520,
+              "endMs": 2740
+            },
+            {
+              "word": "home",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2740,
+              "endMs": 2920
+            },
+            {
+              "word": "too",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 2920,
+              "endMs": 3260
+            }
+          ]
+        },
+        {
+          "text": "Jun nodded and said, \"It is easy and healthy!\"",
+          "translation_ko": "Jun이 고개를 끄덕이며 말했어요. \"쉽고 건강에도 좋아요!\"",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 480,
+              "endMs": 960
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 960,
+              "endMs": 1380
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1380,
+              "endMs": 1580
+            },
+            {
+              "word": "It",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2100
+            },
+            {
+              "word": "is",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2100,
+              "endMs": 2380
+            },
+            {
+              "word": "easy",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2380,
+              "endMs": 2640
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2640,
+              "endMs": 3040
+            },
+            {
+              "word": "healthy",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 3040,
+              "endMs": 3220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They put the fruit salad in two small bowls and sat down to eat.",
+          "translation_ko": "두 아이는 과일 샐러드를 작은 그릇 두 개에 나눠 담고 앉아서 먹었어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 820
+            },
+            {
+              "word": "put",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 820,
+              "endMs": 980
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 980,
+              "endMs": 1200
+            },
+            {
+              "word": "fruit",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1440
+            },
+            {
+              "word": "salad",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1440,
+              "endMs": 1740
+            },
+            {
+              "word": "in",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1740,
+              "endMs": 2000
+            },
+            {
+              "word": "two",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2000,
+              "endMs": 2300
+            },
+            {
+              "word": "small",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2300,
+              "endMs": 2580
+            },
+            {
+              "word": "bowls",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 2900
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2900,
+              "endMs": 3580
+            },
+            {
+              "word": "sat",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3580,
+              "endMs": 3800
+            },
+            {
+              "word": "down",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3800,
+              "endMs": 4100
+            },
+            {
+              "word": "to",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 4100,
+              "endMs": 4340
+            },
+            {
+              "word": "eat",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 4340,
+              "endMs": 4500
+            }
+          ]
+        },
+        {
+          "text": "\"This is the best cooking show ever!\" said Jun with a big grin.",
+          "translation_ko": "\"지금까지 중에 제일 좋은 요리쇼야!\" Jun이 활짝 웃으며 말했어요.",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "This",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "is",
+              "charStart": 6,
+              "charEnd": 8,
+              "startMs": 320,
+              "endMs": 560
+            },
+            {
+              "word": "the",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 800
+            },
+            {
+              "word": "best",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "cooking",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1120,
+              "endMs": 1440
+            },
+            {
+              "word": "show",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1440,
+              "endMs": 1760
+            },
+            {
+              "word": "ever",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1760,
+              "endMs": 2560
+            },
+            {
+              "word": "said",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2560,
+              "endMs": 2680
+            },
+            {
+              "word": "Jun",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 2680,
+              "endMs": 2940
+            },
+            {
+              "word": "with",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2940,
+              "endMs": 3120
+            },
+            {
+              "word": "a",
+              "charStart": 52,
+              "charEnd": 53,
+              "startMs": 3120,
+              "endMs": 3320
+            },
+            {
+              "word": "big",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3320,
+              "endMs": 3480
+            },
+            {
+              "word": "grin",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3480,
+              "endMs": 3700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina laughed and said, \"Let's make another recipe next time!\"",
+          "translation_ko": "Mina가 웃으며 말했어요. \"다음엔 또 다른 레시피를 만들어 보자!\"",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "laughed",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "and",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "said",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1400
+            },
+            {
+              "word": "Let's",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1460,
+              "endMs": 2100
+            },
+            {
+              "word": "make",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2240
+            },
+            {
+              "word": "another",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2240,
+              "endMs": 2700
+            },
+            {
+              "word": "recipe",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2700,
+              "endMs": 3100
+            },
+            {
+              "word": "next",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3100,
+              "endMs": 3460
+            },
+            {
+              "word": "time",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 3460,
+              "endMs": 3760
+            }
+          ]
+        },
+        {
+          "text": "They waved at the camera and said, \"Goodbye, everyone! See you next time!\"",
+          "translation_ko": "두 아이는 카메라를 향해 손을 흔들며 말했어요. \"안녕히 계세요! 다음에 또 만나요!\"",
+          "audio": "/seed/daily-182-the-home-cooking-show/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "waved",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 620
+            },
+            {
+              "word": "at",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 780
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 780,
+              "endMs": 1040
+            },
+            {
+              "word": "camera",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1040,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1580
+            },
+            {
+              "word": "said",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1580,
+              "endMs": 1780
+            },
+            {
+              "word": "Goodbye",
+              "charStart": 36,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2520
+            },
+            {
+              "word": "everyone",
+              "charStart": 45,
+              "charEnd": 53,
+              "startMs": 2520,
+              "endMs": 2980
+            },
+            {
+              "word": "See",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3360,
+              "endMs": 3560
+            },
+            {
+              "word": "you",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 3560,
+              "endMs": 3700
+            },
+            {
+              "word": "next",
+              "charStart": 63,
+              "charEnd": 67,
+              "startMs": 3700,
+              "endMs": 3940
+            },
+            {
+              "word": "time",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 3940,
+              "endMs": 4200
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun과 Mina가 오늘 요리쇼에서 만든 음식은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "야채 수프",
+        "과일 샐러드",
+        "팬케이크",
+        "샌드위치"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun이 \"오늘은 과일 샐러드를 만들 거예요\"라고 말했습니다."
+    },
+    {
+      "question_ko": "과일 샐러드에 들어간 재료가 아닌 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "딸기",
+        "바나나",
+        "포도",
+        "사과"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "딸기, 바나나, 포도를 사용했고 사과는 재료에 없었습니다."
+    },
+    {
+      "question_ko": "Mina가 과일 샐러드 위에 뿌린 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "설탕",
+        "소금",
+        "꿀",
+        "레몬즙"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "Mina는 과일 샐러드 위에 꿀을 조금 뿌렸습니다."
+    },
+    {
+      "question_ko": "두 아이가 과일 샐러드를 맛본 후 어떤 반응을 보였나요?",
+      "type": "mc",
+      "options": [
+        "너무 달다고 했어요",
+        "맛없다고 했어요",
+        "짜다고 했어요",
+        "맛있다고 했어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "두 아이는 한 입씩 먹어보고 \"맛있다!\"라고 외쳤습니다."
+    },
+    {
+      "question_ko": "이 요리쇼를 마치며 두 아이는 다음에 무엇을 하기로 했나요?",
+      "type": "mc",
+      "options": [
+        "요리쇼를 그만두기로 했어요",
+        "다른 레시피를 만들어 보기로 했어요",
+        "같은 요리를 다시 만들기로 했어요",
+        "요리책을 사러 가기로 했어요"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Mina가 \"다음엔 또 다른 레시피를 만들어 보자!\"라고 말했습니다."
+    }
+  ]
+}

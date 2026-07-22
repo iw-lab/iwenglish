@@ -1,0 +1,1676 @@
+{
+  "slug": "daily-181-the-backyard-treasure-map",
+  "title": "The Backyard Treasure Map",
+  "title_ko": "뒷마당 보물 지도",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 4,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 뒷마당에서 발견한 보물 지도의 단서를 하나씩 따라가며 숨겨진 보물을 찾아 나섭니다.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun found an old piece of paper under the big tree.",
+          "translation_ko": "Jun은 큰 나무 아래에서 낡은 종이 한 장을 발견했어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "found",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 980
+            },
+            {
+              "word": "an",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 980,
+              "endMs": 1180
+            },
+            {
+              "word": "old",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1180,
+              "endMs": 1580
+            },
+            {
+              "word": "piece",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1580,
+              "endMs": 1840
+            },
+            {
+              "word": "of",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1840,
+              "endMs": 2400
+            },
+            {
+              "word": "paper",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 2400,
+              "endMs": 2400
+            },
+            {
+              "word": "under",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2800,
+              "endMs": 3020
+            },
+            {
+              "word": "big",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3020,
+              "endMs": 3340
+            },
+            {
+              "word": "tree",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3340,
+              "endMs": 3600
+            }
+          ]
+        },
+        {
+          "text": "\"It looks like a treasure map!\" he shouted.",
+          "translation_ko": "\"보물 지도 같아!\" 그가 소리쳤어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 1,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "looks",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 520
+            },
+            {
+              "word": "like",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 740
+            },
+            {
+              "word": "a",
+              "charStart": 15,
+              "charEnd": 16,
+              "startMs": 740,
+              "endMs": 1120
+            },
+            {
+              "word": "treasure",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1120,
+              "endMs": 1260
+            },
+            {
+              "word": "map",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 1260,
+              "endMs": 2020
+            },
+            {
+              "word": "he",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2180
+            },
+            {
+              "word": "shouted",
+              "charStart": 35,
+              "charEnd": 42,
+              "startMs": 2180,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun ran to find his friend Mina next door.",
+          "translation_ko": "Jun은 옆집 친구 Mina를 찾으러 달려갔어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 1000,
+              "endMs": 1240
+            },
+            {
+              "word": "find",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1240,
+              "endMs": 1400
+            },
+            {
+              "word": "his",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "friend",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "Mina",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1880,
+              "endMs": 2180
+            },
+            {
+              "word": "next",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2180,
+              "endMs": 2500
+            },
+            {
+              "word": "door",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2500,
+              "endMs": 2760
+            }
+          ]
+        },
+        {
+          "text": "\"Mina, look at this map. Can you help me find the treasure?\" he asked.",
+          "translation_ko": "\"Mina, 이 지도 봐. 보물 찾는 거 도와줄 수 있어?\" 그가 물었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "look",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 1060,
+              "endMs": 1140
+            },
+            {
+              "word": "at",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1140,
+              "endMs": 1240
+            },
+            {
+              "word": "this",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1240,
+              "endMs": 1480
+            },
+            {
+              "word": "map",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "Can",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2180,
+              "endMs": 2220
+            },
+            {
+              "word": "you",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2220,
+              "endMs": 2400
+            },
+            {
+              "word": "help",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2400,
+              "endMs": 2480
+            },
+            {
+              "word": "me",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2480,
+              "endMs": 2720
+            },
+            {
+              "word": "find",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 2720,
+              "endMs": 2860
+            },
+            {
+              "word": "the",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2860,
+              "endMs": 3060
+            },
+            {
+              "word": "treasure",
+              "charStart": 50,
+              "charEnd": 58,
+              "startMs": 3060,
+              "endMs": 3640
+            },
+            {
+              "word": "he",
+              "charStart": 61,
+              "charEnd": 63,
+              "startMs": 3640,
+              "endMs": 3800
+            },
+            {
+              "word": "asked",
+              "charStart": 64,
+              "charEnd": 69,
+              "startMs": 3800,
+              "endMs": 4160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina looked at the map carefully.",
+          "translation_ko": "Mina는 지도를 꼼꼼하게 살펴봤어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "looked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 440,
+              "endMs": 800
+            },
+            {
+              "word": "at",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 940
+            },
+            {
+              "word": "the",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1080
+            },
+            {
+              "word": "map",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1080,
+              "endMs": 1300
+            },
+            {
+              "word": "carefully",
+              "charStart": 23,
+              "charEnd": 32,
+              "startMs": 1300,
+              "endMs": 1760
+            }
+          ]
+        },
+        {
+          "text": "\"The first clue says: go to the red flower bed,\" she read.",
+          "translation_ko": "\"첫 번째 단서에는 이렇게 써 있어, 빨간 꽃밭으로 가세요.\" 그녀가 읽었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "first",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "clue",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 1000,
+              "endMs": 1340
+            },
+            {
+              "word": "says",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1720
+            },
+            {
+              "word": "go",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 2120,
+              "endMs": 2120
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2320,
+              "endMs": 2520
+            },
+            {
+              "word": "red",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2520,
+              "endMs": 2680
+            },
+            {
+              "word": "flower",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2680,
+              "endMs": 3020
+            },
+            {
+              "word": "bed",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3020,
+              "endMs": 3280
+            },
+            {
+              "word": "she",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3600,
+              "endMs": 3760
+            },
+            {
+              "word": "read",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3760,
+              "endMs": 3980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They ran to the red flower bed in the backyard.",
+          "translation_ko": "둘은 뒷마당의 빨간 꽃밭으로 달려갔어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "ran",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 600
+            },
+            {
+              "word": "to",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 740,
+              "endMs": 1000
+            },
+            {
+              "word": "red",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1160
+            },
+            {
+              "word": "flower",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1160,
+              "endMs": 1480
+            },
+            {
+              "word": "bed",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1480,
+              "endMs": 1720
+            },
+            {
+              "word": "in",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1920,
+              "endMs": 2080
+            },
+            {
+              "word": "backyard",
+              "charStart": 38,
+              "charEnd": 46,
+              "startMs": 2080,
+              "endMs": 2460
+            }
+          ]
+        },
+        {
+          "text": "Under a big rock, they found a small note.",
+          "translation_ko": "큰 돌 아래에서 작은 쪽지를 발견했어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Under",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 300,
+              "endMs": 640
+            },
+            {
+              "word": "big",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 640,
+              "endMs": 960
+            },
+            {
+              "word": "rock",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1300
+            },
+            {
+              "word": "they",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1760,
+              "endMs": 1920
+            },
+            {
+              "word": "found",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1920,
+              "endMs": 2100
+            },
+            {
+              "word": "a",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 2100,
+              "endMs": 2380
+            },
+            {
+              "word": "small",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2380,
+              "endMs": 2640
+            },
+            {
+              "word": "note",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun picked up the note and read it out loud.",
+          "translation_ko": "Jun이 쪽지를 집어 들고 큰 소리로 읽었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "picked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 1120,
+              "endMs": 1300
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "note",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1660,
+              "endMs": 2100
+            },
+            {
+              "word": "read",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2100,
+              "endMs": 2200
+            },
+            {
+              "word": "it",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "out",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2400,
+              "endMs": 2580
+            },
+            {
+              "word": "loud",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2580,
+              "endMs": 2800
+            }
+          ]
+        },
+        {
+          "text": "\"Next, go to the tall sunflower near the fence,\" the note said.",
+          "translation_ko": "\"다음은 울타리 옆 키 큰 해바라기로 가세요.\" 쪽지에 이렇게 적혀 있었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Next",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "go",
+              "charStart": 7,
+              "charEnd": 9,
+              "startMs": 800,
+              "endMs": 980
+            },
+            {
+              "word": "to",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 980,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 1140,
+              "endMs": 1460
+            },
+            {
+              "word": "tall",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1460,
+              "endMs": 1600
+            },
+            {
+              "word": "sunflower",
+              "charStart": 22,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 2060
+            },
+            {
+              "word": "near",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2060,
+              "endMs": 2340
+            },
+            {
+              "word": "the",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2340,
+              "endMs": 2840
+            },
+            {
+              "word": "fence",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2840,
+              "endMs": 2840
+            },
+            {
+              "word": "the",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3160,
+              "endMs": 3280
+            },
+            {
+              "word": "note",
+              "charStart": 53,
+              "charEnd": 57,
+              "startMs": 3280,
+              "endMs": 3480
+            },
+            {
+              "word": "said",
+              "charStart": 58,
+              "charEnd": 62,
+              "startMs": 3480,
+              "endMs": 3760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They found a yellow sunflower standing tall by the fence.",
+          "translation_ko": "울타리 옆에 키 큰 노란 해바라기가 서 있었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "found",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 580
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "yellow",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 880,
+              "endMs": 1200
+            },
+            {
+              "word": "sunflower",
+              "charStart": 20,
+              "charEnd": 29,
+              "startMs": 1200,
+              "endMs": 1700
+            },
+            {
+              "word": "standing",
+              "charStart": 30,
+              "charEnd": 38,
+              "startMs": 1700,
+              "endMs": 2280
+            },
+            {
+              "word": "tall",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2280,
+              "endMs": 2760
+            },
+            {
+              "word": "by",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 2760,
+              "endMs": 2980
+            },
+            {
+              "word": "the",
+              "charStart": 47,
+              "charEnd": 50,
+              "startMs": 2980,
+              "endMs": 3160
+            },
+            {
+              "word": "fence",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3160,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "\"Look! There is something wrapped around the stem!\" Mina said.",
+          "translation_ko": "\"봐! 줄기에 뭔가 감겨 있어!\" Mina가 말했어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Look",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 800
+            },
+            {
+              "word": "There",
+              "charStart": 7,
+              "charEnd": 12,
+              "startMs": 1000,
+              "endMs": 1300
+            },
+            {
+              "word": "is",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "something",
+              "charStart": 16,
+              "charEnd": 25,
+              "startMs": 1500,
+              "endMs": 1840
+            },
+            {
+              "word": "wrapped",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 1840,
+              "endMs": 2100
+            },
+            {
+              "word": "around",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2400,
+              "endMs": 2880
+            },
+            {
+              "word": "stem",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2880,
+              "endMs": 3580
+            },
+            {
+              "word": "Mina",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3580,
+              "endMs": 3580
+            },
+            {
+              "word": "said",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3580,
+              "endMs": 3880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina carefully unwrapped a small ribbon from the sunflower.",
+          "translation_ko": "Mina는 해바라기에서 작은 리본을 조심조심 풀었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "carefully",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 440,
+              "endMs": 1060
+            },
+            {
+              "word": "unwrapped",
+              "charStart": 15,
+              "charEnd": 24,
+              "startMs": 1060,
+              "endMs": 1580
+            },
+            {
+              "word": "a",
+              "charStart": 25,
+              "charEnd": 26,
+              "startMs": 1580,
+              "endMs": 1820
+            },
+            {
+              "word": "small",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2180
+            },
+            {
+              "word": "ribbon",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2180,
+              "endMs": 2420
+            },
+            {
+              "word": "from",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2420,
+              "endMs": 2860
+            },
+            {
+              "word": "the",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3100
+            },
+            {
+              "word": "sunflower",
+              "charStart": 49,
+              "charEnd": 58,
+              "startMs": 3100,
+              "endMs": 3480
+            }
+          ]
+        },
+        {
+          "text": "Another clue was tied to the ribbon.",
+          "translation_ko": "리본에 또 다른 단서가 묶여 있었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Another",
+              "charStart": 0,
+              "charEnd": 7,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "clue",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 440,
+              "endMs": 840
+            },
+            {
+              "word": "was",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 840,
+              "endMs": 1200
+            },
+            {
+              "word": "tied",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1460
+            },
+            {
+              "word": "to",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "ribbon",
+              "charStart": 29,
+              "charEnd": 35,
+              "startMs": 1960,
+              "endMs": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The clue said: \"Dig near the old wooden bench.\"",
+          "translation_ko": "단서에는 이렇게 쓰여 있었어요. '낡은 나무 벤치 옆을 파세요.'",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "clue",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 560
+            },
+            {
+              "word": "said",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 1200
+            },
+            {
+              "word": "Dig",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1560,
+              "endMs": 1660
+            },
+            {
+              "word": "near",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1860,
+              "endMs": 2100
+            },
+            {
+              "word": "old",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2100,
+              "endMs": 2520
+            },
+            {
+              "word": "wooden",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 2520,
+              "endMs": 2640
+            },
+            {
+              "word": "bench",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2640,
+              "endMs": 3080
+            }
+          ]
+        },
+        {
+          "text": "Jun grabbed a small shovel from the shed.",
+          "translation_ko": "Jun은 창고에서 작은 삽을 가져왔어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "grabbed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 820,
+              "endMs": 1140
+            },
+            {
+              "word": "small",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1520
+            },
+            {
+              "word": "shovel",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1520,
+              "endMs": 1780
+            },
+            {
+              "word": "from",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1780,
+              "endMs": 2240
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "shed",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They dug carefully near the old wooden bench.",
+          "translation_ko": "둘은 낡은 나무 벤치 옆을 조심스럽게 팠어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "dug",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 260,
+              "endMs": 520
+            },
+            {
+              "word": "carefully",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 520,
+              "endMs": 1180
+            },
+            {
+              "word": "near",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1440
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "old",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1640,
+              "endMs": 2140
+            },
+            {
+              "word": "wooden",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 2140,
+              "endMs": 2320
+            },
+            {
+              "word": "bench",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2320,
+              "endMs": 2780
+            }
+          ]
+        },
+        {
+          "text": "\"I can feel something hard!\" Jun said with excitement.",
+          "translation_ko": "\"딱딱한 게 손에 느껴져!\" Jun이 흥분해서 말했어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "I",
+              "charStart": 1,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "can",
+              "charStart": 3,
+              "charEnd": 6,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "feel",
+              "charStart": 7,
+              "charEnd": 11,
+              "startMs": 560,
+              "endMs": 860
+            },
+            {
+              "word": "something",
+              "charStart": 12,
+              "charEnd": 21,
+              "startMs": 860,
+              "endMs": 1260
+            },
+            {
+              "word": "hard",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1260,
+              "endMs": 2400
+            },
+            {
+              "word": "Jun",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2400,
+              "endMs": 2480
+            },
+            {
+              "word": "said",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2480,
+              "endMs": 2760
+            },
+            {
+              "word": "with",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2760,
+              "endMs": 3040
+            },
+            {
+              "word": "excitement",
+              "charStart": 43,
+              "charEnd": 53,
+              "startMs": 3040,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They pulled out a small box with a note inside that read: \"You did it! Friendship is the real treasure.\"",
+          "translation_ko": "안에 쪽지가 든 작은 상자를 꺼냈는데, '해냈어! 우정이 진짜 보물이야.'라고 적혀 있었어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "pulled",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 360,
+              "endMs": 680
+            },
+            {
+              "word": "out",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 680,
+              "endMs": 940
+            },
+            {
+              "word": "a",
+              "charStart": 16,
+              "charEnd": 17,
+              "startMs": 940,
+              "endMs": 1160
+            },
+            {
+              "word": "small",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1160,
+              "endMs": 1500
+            },
+            {
+              "word": "box",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1820
+            },
+            {
+              "word": "with",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1820,
+              "endMs": 2040
+            },
+            {
+              "word": "a",
+              "charStart": 33,
+              "charEnd": 34,
+              "startMs": 2040,
+              "endMs": 2360
+            },
+            {
+              "word": "note",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2360
+            },
+            {
+              "word": "inside",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2360,
+              "endMs": 2780
+            },
+            {
+              "word": "that",
+              "charStart": 47,
+              "charEnd": 51,
+              "startMs": 2780,
+              "endMs": 3160
+            },
+            {
+              "word": "read",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3160,
+              "endMs": 3220
+            },
+            {
+              "word": "You",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 3780,
+              "endMs": 3840
+            },
+            {
+              "word": "did",
+              "charStart": 63,
+              "charEnd": 66,
+              "startMs": 3840,
+              "endMs": 4080
+            },
+            {
+              "word": "it",
+              "charStart": 67,
+              "charEnd": 69,
+              "startMs": 4080,
+              "endMs": 4460
+            },
+            {
+              "word": "Friendship",
+              "charStart": 71,
+              "charEnd": 81,
+              "startMs": 4880,
+              "endMs": 5100
+            },
+            {
+              "word": "is",
+              "charStart": 82,
+              "charEnd": 84,
+              "startMs": 5100,
+              "endMs": 5300
+            },
+            {
+              "word": "the",
+              "charStart": 85,
+              "charEnd": 88,
+              "startMs": 5300,
+              "endMs": 5520
+            },
+            {
+              "word": "real",
+              "charStart": 89,
+              "charEnd": 93,
+              "startMs": 5520,
+              "endMs": 5800
+            },
+            {
+              "word": "treasure",
+              "charStart": 94,
+              "charEnd": 102,
+              "startMs": 5800,
+              "endMs": 6100
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina smiled and gave each other a big high five.",
+          "translation_ko": "Jun과 Mina는 환하게 웃으며 힘차게 하이파이브를 했어요.",
+          "audio": "/seed/daily-181-the-backyard-treasure-map/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1180
+            },
+            {
+              "word": "smiled",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1180,
+              "endMs": 2000
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 2000,
+              "endMs": 2480
+            },
+            {
+              "word": "gave",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2480,
+              "endMs": 2700
+            },
+            {
+              "word": "each",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2700,
+              "endMs": 2940
+            },
+            {
+              "word": "other",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2940,
+              "endMs": 3160
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 3160,
+              "endMs": 3380
+            },
+            {
+              "word": "big",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3380,
+              "endMs": 3740
+            },
+            {
+              "word": "high",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 3740,
+              "endMs": 3980
+            },
+            {
+              "word": "five",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3980,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun은 보물 지도를 어디에서 발견했나요?",
+      "type": "mc",
+      "options": [
+        "큰 나무 아래",
+        "빨간 꽃밭 속",
+        "낡은 나무 벤치 옆",
+        "해바라기 줄기에"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Jun은 뒷마당 큰 나무 아래에서 낡은 종이를 발견했어요."
+    },
+    {
+      "question_ko": "첫 번째 단서는 어디로 가라고 했나요?",
+      "type": "mc",
+      "options": [
+        "낡은 나무 벤치",
+        "큰 나무 아래",
+        "울타리 옆 해바라기",
+        "빨간 꽃밭"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "첫 번째 단서는 '빨간 꽃밭으로 가세요'라고 했어요."
+    },
+    {
+      "question_ko": "해바라기에서 발견한 것은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "작은 상자",
+        "낡은 지도",
+        "단서가 묶인 리본",
+        "작은 삽"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "해바라기 줄기에는 또 다른 단서가 묶인 리본이 감겨 있었어요."
+    },
+    {
+      "question_ko": "Jun과 Mina는 마지막에 상자를 어디에서 꺼냈나요?",
+      "type": "mc",
+      "options": [
+        "빨간 꽃밭 돌 아래",
+        "해바라기 뿌리 아래",
+        "창고 안",
+        "낡은 나무 벤치 옆 땅속"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "낡은 나무 벤치 옆을 파서 작은 상자를 꺼냈어요."
+    },
+    {
+      "question_ko": "상자 안 쪽지에는 무엇이 진짜 보물이라고 했나요?",
+      "type": "mc",
+      "options": [
+        "황금 동전",
+        "우정",
+        "지도",
+        "해바라기"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "쪽지에는 '우정이 진짜 보물이야'라고 적혀 있었어요."
+    }
+  ]
+}

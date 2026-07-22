@@ -1,0 +1,2375 @@
+{
+  "slug": "the-keeper-of-the-stone-garden",
+  "title": "The Keeper of the Stone Garden",
+  "title_ko": "돌 정원지기",
+  "level": "B1",
+  "ageBand": "11-13",
+  "summary_ko": "돌만 가득한 정원을 가꾸는 노인에게서 아이가 기다림과 정성의 의미를 배우는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Beyond the old village wall stood a quiet garden.",
+          "translation_ko": "낡은 마을 담장 너머에 고요한 정원이 있었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Beyond",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "the",
+              "charStart": 7,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 860
+            },
+            {
+              "word": "old",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1280
+            },
+            {
+              "word": "village",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1280,
+              "endMs": 1500
+            },
+            {
+              "word": "wall",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1880
+            },
+            {
+              "word": "stood",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1880,
+              "endMs": 2520
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 2520,
+              "endMs": 3140
+            },
+            {
+              "word": "quiet",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 3140,
+              "endMs": 3140
+            },
+            {
+              "word": "garden",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 3140,
+              "endMs": 3400
+            }
+          ]
+        },
+        {
+          "text": "It held no flowers, only grey and mossy stones.",
+          "translation_ko": "그곳에는 꽃 한 송이 없고 이끼 낀 회색 돌들만 가득했습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "It",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "held",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "no",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 560,
+              "endMs": 1040
+            },
+            {
+              "word": "flowers",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1560
+            },
+            {
+              "word": "only",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 2100,
+              "endMs": 2400
+            },
+            {
+              "word": "grey",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 2400,
+              "endMs": 2860
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2860,
+              "endMs": 3400
+            },
+            {
+              "word": "mossy",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 3400,
+              "endMs": 3860
+            },
+            {
+              "word": "stones",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 3860,
+              "endMs": 4180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A curious child named Mia peeked through the gate.",
+          "translation_ko": "미아라는 호기심 많은 아이가 문 사이로 살짝 들여다보았습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "curious",
+              "charStart": 2,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 720
+            },
+            {
+              "word": "child",
+              "charStart": 10,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1100
+            },
+            {
+              "word": "named",
+              "charStart": 16,
+              "charEnd": 21,
+              "startMs": 1100,
+              "endMs": 1380
+            },
+            {
+              "word": "Mia",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1380,
+              "endMs": 1720
+            },
+            {
+              "word": "peeked",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1720,
+              "endMs": 2460
+            },
+            {
+              "word": "through",
+              "charStart": 33,
+              "charEnd": 40,
+              "startMs": 2460,
+              "endMs": 2560
+            },
+            {
+              "word": "the",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2560,
+              "endMs": 2680
+            },
+            {
+              "word": "gate",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2680,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "She saw an old man kneeling beside the largest stone.",
+          "translation_ko": "그녀는 한 노인이 가장 큰 돌 곁에 무릎을 꿇고 있는 것을 보았습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "saw",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 380,
+              "endMs": 700
+            },
+            {
+              "word": "an",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 700,
+              "endMs": 980
+            },
+            {
+              "word": "old",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1340
+            },
+            {
+              "word": "man",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1340,
+              "endMs": 1640
+            },
+            {
+              "word": "kneeling",
+              "charStart": 19,
+              "charEnd": 27,
+              "startMs": 1640,
+              "endMs": 2020
+            },
+            {
+              "word": "beside",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2020,
+              "endMs": 2380
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2620
+            },
+            {
+              "word": "largest",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2620,
+              "endMs": 2960
+            },
+            {
+              "word": "stone",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 2960,
+              "endMs": 3300
+            }
+          ]
+        },
+        {
+          "text": "His white hair caught the morning light.",
+          "translation_ko": "그의 흰 머리카락이 아침 햇살에 빛났습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p2-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "His",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "white",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 680
+            },
+            {
+              "word": "hair",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 680,
+              "endMs": 1200
+            },
+            {
+              "word": "caught",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1780,
+              "endMs": 2180
+            },
+            {
+              "word": "morning",
+              "charStart": 26,
+              "charEnd": 33,
+              "startMs": 2180,
+              "endMs": 2440
+            },
+            {
+              "word": "light",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2440,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The old keeper held a bamboo rake and smiled.",
+          "translation_ko": "노인은 대나무 갈퀴를 들고 미소를 지었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "old",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 660
+            },
+            {
+              "word": "keeper",
+              "charStart": 8,
+              "charEnd": 14,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "held",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1020,
+              "endMs": 1360
+            },
+            {
+              "word": "a",
+              "charStart": 20,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1740
+            },
+            {
+              "word": "bamboo",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 1740,
+              "endMs": 1960
+            },
+            {
+              "word": "rake",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 1960,
+              "endMs": 2260
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2260,
+              "endMs": 2720
+            },
+            {
+              "word": "smiled",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2720,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "He drew slow, careful lines across the pale gravel.",
+          "translation_ko": "그는 옅은 자갈 위에 천천히 조심스럽게 선을 그었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "drew",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 420
+            },
+            {
+              "word": "slow",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 980
+            },
+            {
+              "word": "careful",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1460,
+              "endMs": 1460
+            },
+            {
+              "word": "lines",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1460,
+              "endMs": 1880
+            },
+            {
+              "word": "across",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1880,
+              "endMs": 2260
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2260,
+              "endMs": 2680
+            },
+            {
+              "word": "pale",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2680,
+              "endMs": 2780
+            },
+            {
+              "word": "gravel",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2780,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "Every line followed the curve of the stone beside it.",
+          "translation_ko": "모든 선은 그 옆 돌의 곡선을 따라 흘렀습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p3-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Every",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "line",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 800
+            },
+            {
+              "word": "followed",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1120
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "curve",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1400,
+              "endMs": 1560
+            },
+            {
+              "word": "of",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1560,
+              "endMs": 1720
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "stone",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 1980,
+              "endMs": 2140
+            },
+            {
+              "word": "beside",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2140,
+              "endMs": 2600
+            },
+            {
+              "word": "it",
+              "charStart": 50,
+              "charEnd": 52,
+              "startMs": 2600,
+              "endMs": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mia frowned and whispered, This place is so dull.",
+          "translation_ko": "미아는 눈살을 찌푸리며 중얼거렸습니다. '이곳은 정말 지루해.'",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "frowned",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 900
+            },
+            {
+              "word": "and",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1280
+            },
+            {
+              "word": "whispered",
+              "charStart": 16,
+              "charEnd": 25,
+              "startMs": 1280,
+              "endMs": 1740
+            },
+            {
+              "word": "This",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2120,
+              "endMs": 2440
+            },
+            {
+              "word": "place",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2440,
+              "endMs": 2800
+            },
+            {
+              "word": "is",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2800,
+              "endMs": 3120
+            },
+            {
+              "word": "so",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 3120,
+              "endMs": 3440
+            },
+            {
+              "word": "dull",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 3440,
+              "endMs": 3880
+            }
+          ]
+        },
+        {
+          "text": "The keeper heard her and beckoned her inside.",
+          "translation_ko": "노인은 그 말을 듣고 손짓으로 그녀를 안으로 불렀습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "keeper",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 540
+            },
+            {
+              "word": "heard",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 540,
+              "endMs": 760
+            },
+            {
+              "word": "her",
+              "charStart": 17,
+              "charEnd": 20,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 980,
+              "endMs": 1460
+            },
+            {
+              "word": "beckoned",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1460,
+              "endMs": 1700
+            },
+            {
+              "word": "her",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1700,
+              "endMs": 1880
+            },
+            {
+              "word": "inside",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 1880,
+              "endMs": 2340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "He handed her the rake and guided her hand gently.",
+          "translation_ko": "노인은 그녀에게 갈퀴를 건네며 손을 부드럽게 이끌어 주었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "handed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 540
+            },
+            {
+              "word": "her",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 740
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 740,
+              "endMs": 1300
+            },
+            {
+              "word": "rake",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1400
+            },
+            {
+              "word": "and",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1400,
+              "endMs": 1720
+            },
+            {
+              "word": "guided",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 1720,
+              "endMs": 1980
+            },
+            {
+              "word": "her",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1980,
+              "endMs": 2240
+            },
+            {
+              "word": "hand",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2240,
+              "endMs": 2620
+            },
+            {
+              "word": "gently",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2620,
+              "endMs": 3040
+            }
+          ]
+        },
+        {
+          "text": "The gravel shifted with a soft, satisfying sound.",
+          "translation_ko": "자갈이 부드럽고 기분 좋은 소리를 내며 흘러내렸습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 180
+            },
+            {
+              "word": "gravel",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 180,
+              "endMs": 520
+            },
+            {
+              "word": "shifted",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 520,
+              "endMs": 920
+            },
+            {
+              "word": "with",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 920,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 24,
+              "charEnd": 25,
+              "startMs": 1180,
+              "endMs": 1420
+            },
+            {
+              "word": "soft",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1420,
+              "endMs": 1760
+            },
+            {
+              "word": "satisfying",
+              "charStart": 32,
+              "charEnd": 42,
+              "startMs": 2400,
+              "endMs": 2400
+            },
+            {
+              "word": "sound",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2400,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "Mia felt something change inside her chest.",
+          "translation_ko": "미아는 가슴속에서 무언가가 달라지는 것을 느꼈습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 660
+            },
+            {
+              "word": "something",
+              "charStart": 9,
+              "charEnd": 18,
+              "startMs": 660,
+              "endMs": 1000
+            },
+            {
+              "word": "change",
+              "charStart": 19,
+              "charEnd": 25,
+              "startMs": 1000,
+              "endMs": 1500
+            },
+            {
+              "word": "inside",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1500,
+              "endMs": 1880
+            },
+            {
+              "word": "her",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1880,
+              "endMs": 2080
+            },
+            {
+              "word": "chest",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2080,
+              "endMs": 2360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "She returned the next morning and the morning after that.",
+          "translation_ko": "그녀는 다음 날 아침에도, 그다음 날 아침에도 다시 찾아왔습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "returned",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 280,
+              "endMs": 720
+            },
+            {
+              "word": "the",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 720,
+              "endMs": 920
+            },
+            {
+              "word": "next",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 920,
+              "endMs": 1240
+            },
+            {
+              "word": "morning",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2020,
+              "endMs": 2100
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2100,
+              "endMs": 2260
+            },
+            {
+              "word": "morning",
+              "charStart": 38,
+              "charEnd": 45,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "after",
+              "charStart": 46,
+              "charEnd": 51,
+              "startMs": 2480,
+              "endMs": 2780
+            },
+            {
+              "word": "that",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 2780,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "The keeper taught her the name of every stone.",
+          "translation_ko": "노인은 그녀에게 돌 하나하나의 이름을 가르쳐 주었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "keeper",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 760,
+              "endMs": 960
+            },
+            {
+              "word": "taught",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 960,
+              "endMs": 1320
+            },
+            {
+              "word": "her",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 1480
+            },
+            {
+              "word": "the",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1660
+            },
+            {
+              "word": "name",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1660,
+              "endMs": 1860
+            },
+            {
+              "word": "of",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1860,
+              "endMs": 2060
+            },
+            {
+              "word": "every",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2400
+            },
+            {
+              "word": "stone",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2400,
+              "endMs": 2720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Autumn arrived and the moss turned a deeper green.",
+          "translation_ko": "가을이 찾아오자 이끼는 더욱 짙은 초록빛으로 물들었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Autumn",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "arrived",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 360,
+              "endMs": 1020
+            },
+            {
+              "word": "and",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1440,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1460,
+              "endMs": 1680
+            },
+            {
+              "word": "moss",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "turned",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 1940,
+              "endMs": 2280
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2280,
+              "endMs": 2740
+            },
+            {
+              "word": "deeper",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2740,
+              "endMs": 2740
+            },
+            {
+              "word": "green",
+              "charStart": 44,
+              "charEnd": 49,
+              "startMs": 2740,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "text": "Mia had not noticed that colour before.",
+          "translation_ko": "미아는 예전에 그 색깔을 전혀 알아채지 못했었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "had",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "not",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1060
+            },
+            {
+              "word": "noticed",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 1060,
+              "endMs": 1340
+            },
+            {
+              "word": "that",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1600
+            },
+            {
+              "word": "colour",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "before",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1840,
+              "endMs": 2240
+            }
+          ]
+        },
+        {
+          "text": "She pressed her fingers against the cool, velvet surface.",
+          "translation_ko": "그녀는 차갑고 부드러운 이끼 표면에 손가락을 살며시 대어 보았습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "pressed",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 760
+            },
+            {
+              "word": "her",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "fingers",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1040,
+              "endMs": 1440
+            },
+            {
+              "word": "against",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1440,
+              "endMs": 1820
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1820,
+              "endMs": 2100
+            },
+            {
+              "word": "cool",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2100,
+              "endMs": 2740
+            },
+            {
+              "word": "velvet",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 3040,
+              "endMs": 3140
+            },
+            {
+              "word": "surface",
+              "charStart": 49,
+              "charEnd": 56,
+              "startMs": 3140,
+              "endMs": 3680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Winter brought frost that outlined every stone in white.",
+          "translation_ko": "겨울이 오자 서리가 돌마다 하얀 윤곽을 그려 주었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Winter",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "brought",
+              "charStart": 7,
+              "charEnd": 14,
+              "startMs": 460,
+              "endMs": 840
+            },
+            {
+              "word": "frost",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 840,
+              "endMs": 1300
+            },
+            {
+              "word": "that",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1300,
+              "endMs": 1640
+            },
+            {
+              "word": "outlined",
+              "charStart": 26,
+              "charEnd": 34,
+              "startMs": 1640,
+              "endMs": 1960
+            },
+            {
+              "word": "every",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 1960,
+              "endMs": 2480
+            },
+            {
+              "word": "stone",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2480,
+              "endMs": 2780
+            },
+            {
+              "word": "in",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2780,
+              "endMs": 3120
+            },
+            {
+              "word": "white",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3120,
+              "endMs": 3320
+            }
+          ]
+        },
+        {
+          "text": "The garden looked like a painting no one had planned.",
+          "translation_ko": "정원은 누구도 계획하지 않은 그림처럼 보였습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "garden",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 240,
+              "endMs": 520
+            },
+            {
+              "word": "looked",
+              "charStart": 11,
+              "charEnd": 17,
+              "startMs": 520,
+              "endMs": 900
+            },
+            {
+              "word": "like",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 900,
+              "endMs": 1140
+            },
+            {
+              "word": "a",
+              "charStart": 23,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1340
+            },
+            {
+              "word": "painting",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 1340,
+              "endMs": 1660
+            },
+            {
+              "word": "no",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 1660,
+              "endMs": 2020
+            },
+            {
+              "word": "one",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2020,
+              "endMs": 2220
+            },
+            {
+              "word": "had",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 2220,
+              "endMs": 2460
+            },
+            {
+              "word": "planned",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2460,
+              "endMs": 2780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "By spring, Mia woke before sunrise to be there first.",
+          "translation_ko": "봄이 되자 미아는 제일 먼저 도착하려고 해 뜨기 전에 일어났습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "By",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "spring",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 460,
+              "endMs": 1120
+            },
+            {
+              "word": "Mia",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1640,
+              "endMs": 1740
+            },
+            {
+              "word": "woke",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1740,
+              "endMs": 2060
+            },
+            {
+              "word": "before",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 2060,
+              "endMs": 2500
+            },
+            {
+              "word": "sunrise",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2500,
+              "endMs": 3020
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 3020,
+              "endMs": 3240
+            },
+            {
+              "word": "be",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 3240,
+              "endMs": 3400
+            },
+            {
+              "word": "there",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3400,
+              "endMs": 3620
+            },
+            {
+              "word": "first",
+              "charStart": 47,
+              "charEnd": 52,
+              "startMs": 3620,
+              "endMs": 3980
+            }
+          ]
+        },
+        {
+          "text": "She raked her own pattern across the gravel with care.",
+          "translation_ko": "그녀는 정성껏 자갈 위에 자신만의 무늬를 그었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "raked",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 620
+            },
+            {
+              "word": "her",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 620,
+              "endMs": 820
+            },
+            {
+              "word": "own",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 820,
+              "endMs": 1240
+            },
+            {
+              "word": "pattern",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1240,
+              "endMs": 1560
+            },
+            {
+              "word": "across",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1560,
+              "endMs": 2100
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2100,
+              "endMs": 2360
+            },
+            {
+              "word": "gravel",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2360,
+              "endMs": 2680
+            },
+            {
+              "word": "with",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2680,
+              "endMs": 3140
+            },
+            {
+              "word": "care",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3140,
+              "endMs": 3500
+            }
+          ]
+        },
+        {
+          "text": "The keeper watched from the gate and nodded slowly.",
+          "translation_ko": "노인은 문 앞에서 바라보며 천천히 고개를 끄덕였습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p9-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "keeper",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 220,
+              "endMs": 520
+            },
+            {
+              "word": "watched",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 520,
+              "endMs": 920
+            },
+            {
+              "word": "from",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 920,
+              "endMs": 1140
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1140,
+              "endMs": 1460
+            },
+            {
+              "word": "gate",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1460,
+              "endMs": 1520
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1520,
+              "endMs": 2200
+            },
+            {
+              "word": "nodded",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2200,
+              "endMs": 2580
+            },
+            {
+              "word": "slowly",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2580,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "One summer afternoon the keeper sat under the old pine.",
+          "translation_ko": "어느 여름 오후, 노인은 오래된 소나무 아래 앉았습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "summer",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 420,
+              "endMs": 700
+            },
+            {
+              "word": "afternoon",
+              "charStart": 11,
+              "charEnd": 20,
+              "startMs": 700,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1340,
+              "endMs": 1500
+            },
+            {
+              "word": "keeper",
+              "charStart": 25,
+              "charEnd": 31,
+              "startMs": 1500,
+              "endMs": 1660
+            },
+            {
+              "word": "sat",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1660,
+              "endMs": 2040
+            },
+            {
+              "word": "under",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2040,
+              "endMs": 2240
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2240,
+              "endMs": 2440
+            },
+            {
+              "word": "old",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2440,
+              "endMs": 2660
+            },
+            {
+              "word": "pine",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 2660,
+              "endMs": 2900
+            }
+          ]
+        },
+        {
+          "text": "He said, You have learned what stones cannot teach alone.",
+          "translation_ko": "그는 말했습니다. '넌 돌만으로는 배울 수 없는 것을 배웠구나.'",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "said",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 280,
+              "endMs": 580
+            },
+            {
+              "word": "You",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1260
+            },
+            {
+              "word": "have",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1260,
+              "endMs": 1480
+            },
+            {
+              "word": "learned",
+              "charStart": 18,
+              "charEnd": 25,
+              "startMs": 1480,
+              "endMs": 1780
+            },
+            {
+              "word": "what",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1780,
+              "endMs": 2080
+            },
+            {
+              "word": "stones",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2080,
+              "endMs": 2340
+            },
+            {
+              "word": "cannot",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2340,
+              "endMs": 2740
+            },
+            {
+              "word": "teach",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2740,
+              "endMs": 3060
+            },
+            {
+              "word": "alone",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 3060,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "Mia understood that patience was the real lesson.",
+          "translation_ko": "미아는 기다림 자체가 진짜 교훈임을 깨달았습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mia",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "understood",
+              "charStart": 4,
+              "charEnd": 14,
+              "startMs": 340,
+              "endMs": 900
+            },
+            {
+              "word": "that",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 900,
+              "endMs": 1200
+            },
+            {
+              "word": "patience",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1700
+            },
+            {
+              "word": "was",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1700,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1860,
+              "endMs": 2020
+            },
+            {
+              "word": "real",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "lesson",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2300,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Years later the keeper grew too old to kneel.",
+          "translation_ko": "몇 년이 흐른 뒤 노인은 무릎을 꿇기에는 너무 늙어 버렸습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Years",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "later",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 380,
+              "endMs": 820
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1100,
+              "endMs": 1300
+            },
+            {
+              "word": "keeper",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1500
+            },
+            {
+              "word": "grew",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1500,
+              "endMs": 1780
+            },
+            {
+              "word": "too",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1780,
+              "endMs": 2120
+            },
+            {
+              "word": "old",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2340
+            },
+            {
+              "word": "to",
+              "charStart": 36,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2700
+            },
+            {
+              "word": "kneel",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2700,
+              "endMs": 2760
+            }
+          ]
+        },
+        {
+          "text": "He placed the bamboo rake into Mia's hands.",
+          "translation_ko": "그는 대나무 갈퀴를 미아의 손에 쥐어 주었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "placed",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 1020
+            },
+            {
+              "word": "bamboo",
+              "charStart": 14,
+              "charEnd": 20,
+              "startMs": 1020,
+              "endMs": 1260
+            },
+            {
+              "word": "rake",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1260,
+              "endMs": 1560
+            },
+            {
+              "word": "into",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1560,
+              "endMs": 1820
+            },
+            {
+              "word": "Mia's",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1820,
+              "endMs": 2260
+            },
+            {
+              "word": "hands",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2260,
+              "endMs": 2520
+            }
+          ]
+        },
+        {
+          "text": "She held it the same careful way he always had.",
+          "translation_ko": "그녀는 노인이 늘 그랬던 것처럼 갈퀴를 조심스럽게 쥐었습니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p11-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 760
+            },
+            {
+              "word": "held",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 760,
+              "endMs": 1020
+            },
+            {
+              "word": "it",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 1020,
+              "endMs": 1220
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 1220,
+              "endMs": 1360
+            },
+            {
+              "word": "same",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1360,
+              "endMs": 1740
+            },
+            {
+              "word": "careful",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1740,
+              "endMs": 2140
+            },
+            {
+              "word": "way",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2140,
+              "endMs": 2400
+            },
+            {
+              "word": "he",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2400,
+              "endMs": 2700
+            },
+            {
+              "word": "always",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2700,
+              "endMs": 3080
+            },
+            {
+              "word": "had",
+              "charStart": 43,
+              "charEnd": 46,
+              "startMs": 3080,
+              "endMs": 3380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Now Mia tends the garden each morning with quiet joy.",
+          "translation_ko": "이제 미아는 매일 아침 잔잔한 기쁨으로 정원을 가꿉니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Now",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "Mia",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 320,
+              "endMs": 660
+            },
+            {
+              "word": "tends",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 660,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1020,
+              "endMs": 1240
+            },
+            {
+              "word": "garden",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1240,
+              "endMs": 1500
+            },
+            {
+              "word": "each",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1860
+            },
+            {
+              "word": "morning",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 1860,
+              "endMs": 2220
+            },
+            {
+              "word": "with",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2220,
+              "endMs": 2480
+            },
+            {
+              "word": "quiet",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2480,
+              "endMs": 2900
+            },
+            {
+              "word": "joy",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 2900,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Children press their faces against the gate and wonder.",
+          "translation_ko": "아이들이 문에 얼굴을 붙이고 신기한 듯 바라봅니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Children",
+              "charStart": 0,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "press",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "their",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 860,
+              "endMs": 1080
+            },
+            {
+              "word": "faces",
+              "charStart": 21,
+              "charEnd": 26,
+              "startMs": 1080,
+              "endMs": 1460
+            },
+            {
+              "word": "against",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1460,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 1780,
+              "endMs": 2000
+            },
+            {
+              "word": "gate",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2000,
+              "endMs": 2220
+            },
+            {
+              "word": "and",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2220,
+              "endMs": 2700
+            },
+            {
+              "word": "wonder",
+              "charStart": 48,
+              "charEnd": 54,
+              "startMs": 2700,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "She smiles and waits for one of them to ask.",
+          "translation_ko": "그녀는 미소를 지으며 그중 누군가가 물어오기를 기다립니다.",
+          "audio": "/seed/the-keeper-of-the-stone-garden/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "She",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "smiles",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 280,
+              "endMs": 760
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 760,
+              "endMs": 1100
+            },
+            {
+              "word": "waits",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1100,
+              "endMs": 1280
+            },
+            {
+              "word": "for",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "one",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1600,
+              "endMs": 1740
+            },
+            {
+              "word": "of",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 1740,
+              "endMs": 1900
+            },
+            {
+              "word": "them",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1900,
+              "endMs": 1980
+            },
+            {
+              "word": "to",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 1980,
+              "endMs": 2420
+            },
+            {
+              "word": "ask",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2420,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "미아가 처음 정원을 보았을 때 어떻게 생각했나요?",
+      "type": "mc",
+      "options": [
+        "정원이 너무 아름답다고 생각했다.",
+        "정원이 지루하고 볼 것이 없다고 생각했다.",
+        "정원에 꽃을 심고 싶다고 생각했다.",
+        "정원이 너무 커서 무섭다고 생각했다."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미아는 처음에 '이곳은 정말 지루해'라고 속삭였습니다. 꽃도 없이 돌만 있는 정원이 재미없어 보였던 것입니다."
+    },
+    {
+      "question_ko": "노인이 갈퀴로 자갈 위에 선을 그을 때, 그 선들은 어떤 모양을 따랐나요?",
+      "type": "mc",
+      "options": [
+        "나무의 가지 모양을 따랐다.",
+        "햇빛이 비치는 방향을 따랐다.",
+        "곁에 있는 돌의 곡선을 따랐다.",
+        "미아가 알려준 무늬를 따랐다."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "이야기에서 '모든 선은 그 옆 돌의 곡선을 따라 흘렀습니다'라고 나와 있습니다."
+    },
+    {
+      "question_ko": "가을이 되었을 때 정원에서 달라진 것은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "자갈이 모두 사라졌다.",
+        "꽃들이 활짝 피어났다.",
+        "이끼가 더욱 짙은 초록빛으로 변했다.",
+        "노인이 정원을 떠났다."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "가을이 오자 이끼가 더욱 짙은 초록빛으로 물들었고, 미아는 예전에는 그 색깔을 전혀 알아채지 못했었습니다."
+    },
+    {
+      "question_ko": "노인이 미아에게 '돌만으로는 배울 수 없는 것을 배웠다'고 말한 것은 무엇을 의미하나요?",
+      "type": "mc",
+      "options": [
+        "돌을 쌓는 기술을 배웠다는 뜻이다.",
+        "기다림과 정성이 진짜 교훈이라는 뜻이다.",
+        "정원 이름을 모두 외웠다는 뜻이다.",
+        "겨울 서리의 아름다움을 알게 되었다는 뜻이다."
+      ],
+      "answerIndex": 1,
+      "explain_ko": "미아는 계절이 바뀌는 동안 정원을 가꾸며 기다림 자체가 진짜 교훈임을 깨달았습니다."
+    },
+    {
+      "question_ko": "이야기의 끝에서 미아는 왜 미소를 지으며 기다리나요?",
+      "type": "mc",
+      "options": [
+        "정원 일이 끝나서 쉬려고 기다린다.",
+        "노인이 돌아오기를 기다린다.",
+        "문 앞의 아이들 중 누군가가 정원에 관심을 가지길 기다린다.",
+        "계절이 바뀌기를 기다린다."
+      ],
+      "answerIndex": 2,
+      "explain_ko": "미아는 자신이 어린 시절 노인에게 이끌렸던 것처럼, 문 밖의 아이들 중 누군가가 먼저 물어오기를 기다리고 있습니다."
+    }
+  ]
+}

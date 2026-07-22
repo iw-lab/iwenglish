@@ -1,0 +1,1662 @@
+{
+  "slug": "daily-177-the-quiet-library-rule",
+  "title": "The Quiet Library Rule",
+  "title_ko": "도서관 규칙",
+  "level": "A2",
+  "ageBand": "9-11",
+  "stage": 3,
+  "collection": "daily",
+  "summary_ko": "도서관에서 조용히 해야 하는 이유를 배운 Jun과 Mina의 이야기예요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Jun and Mina walked into the library after school.",
+          "translation_ko": "Jun과 Mina는 방과 후 도서관에 들어갔어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 840
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1120
+            },
+            {
+              "word": "walked",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1120,
+              "endMs": 1620
+            },
+            {
+              "word": "into",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1620,
+              "endMs": 1880
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 1880,
+              "endMs": 2060
+            },
+            {
+              "word": "library",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2060,
+              "endMs": 2460
+            },
+            {
+              "word": "after",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2460,
+              "endMs": 2960
+            },
+            {
+              "word": "school",
+              "charStart": 43,
+              "charEnd": 49,
+              "startMs": 2960,
+              "endMs": 3280
+            }
+          ]
+        },
+        {
+          "text": "Jun felt excited because he wanted to find a new book.",
+          "translation_ko": "Jun은 새 책을 찾고 싶어서 신이 났어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 1020
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 1020,
+              "endMs": 1380
+            },
+            {
+              "word": "excited",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 1380,
+              "endMs": 1960
+            },
+            {
+              "word": "because",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1960,
+              "endMs": 2540
+            },
+            {
+              "word": "he",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2540,
+              "endMs": 2780
+            },
+            {
+              "word": "wanted",
+              "charStart": 28,
+              "charEnd": 34,
+              "startMs": 2780,
+              "endMs": 3000
+            },
+            {
+              "word": "to",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 3000,
+              "endMs": 3260
+            },
+            {
+              "word": "find",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 3260,
+              "endMs": 3520
+            },
+            {
+              "word": "a",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 3520,
+              "endMs": 3840
+            },
+            {
+              "word": "new",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3840,
+              "endMs": 4080
+            },
+            {
+              "word": "book",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 4080,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When they entered, Mina saw a big sign on the wall.",
+          "translation_ko": "도서관에 들어서자 Mina는 벽에 큰 표지판을 발견했어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "they",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 460
+            },
+            {
+              "word": "entered",
+              "charStart": 10,
+              "charEnd": 17,
+              "startMs": 460,
+              "endMs": 820
+            },
+            {
+              "word": "Mina",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1420,
+              "endMs": 1480
+            },
+            {
+              "word": "saw",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1480,
+              "endMs": 1740
+            },
+            {
+              "word": "a",
+              "charStart": 28,
+              "charEnd": 29,
+              "startMs": 1740,
+              "endMs": 1980
+            },
+            {
+              "word": "big",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1980,
+              "endMs": 2280
+            },
+            {
+              "word": "sign",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2500
+            },
+            {
+              "word": "on",
+              "charStart": 39,
+              "charEnd": 41,
+              "startMs": 2500,
+              "endMs": 2700
+            },
+            {
+              "word": "the",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2700,
+              "endMs": 2860
+            },
+            {
+              "word": "wall",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2860,
+              "endMs": 3020
+            }
+          ]
+        },
+        {
+          "text": "The sign said, \"Please be quiet in the library.\"",
+          "translation_ko": "표지판에는 '도서관에서 조용히 해 주세요.'라고 쓰여 있었어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "sign",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 560
+            },
+            {
+              "word": "said",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 560,
+              "endMs": 900
+            },
+            {
+              "word": "Please",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 1020,
+              "endMs": 1560
+            },
+            {
+              "word": "be",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1560,
+              "endMs": 1820
+            },
+            {
+              "word": "quiet",
+              "charStart": 26,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 2100
+            },
+            {
+              "word": "in",
+              "charStart": 32,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2360
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2360,
+              "endMs": 2620
+            },
+            {
+              "word": "library",
+              "charStart": 39,
+              "charEnd": 46,
+              "startMs": 2620,
+              "endMs": 2880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun started to talk loudly because he was happy.",
+          "translation_ko": "Jun은 기분이 좋아서 큰 소리로 말하기 시작했어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "started",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 460,
+              "endMs": 840
+            },
+            {
+              "word": "to",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1220
+            },
+            {
+              "word": "talk",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1220,
+              "endMs": 1320
+            },
+            {
+              "word": "loudly",
+              "charStart": 20,
+              "charEnd": 26,
+              "startMs": 1320,
+              "endMs": 1680
+            },
+            {
+              "word": "because",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 1680,
+              "endMs": 2100
+            },
+            {
+              "word": "he",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2100,
+              "endMs": 2240
+            },
+            {
+              "word": "was",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2240,
+              "endMs": 2420
+            },
+            {
+              "word": "happy",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2420,
+              "endMs": 2700
+            }
+          ]
+        },
+        {
+          "text": "A girl nearby frowned and put her finger to her lips.",
+          "translation_ko": "근처에 있던 여자아이가 눈살을 찌푸리며 입술에 손가락을 갖다 댔어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "girl",
+              "charStart": 2,
+              "charEnd": 6,
+              "startMs": 220,
+              "endMs": 580
+            },
+            {
+              "word": "nearby",
+              "charStart": 7,
+              "charEnd": 13,
+              "startMs": 580,
+              "endMs": 1180
+            },
+            {
+              "word": "frowned",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1180,
+              "endMs": 1780
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1780,
+              "endMs": 2080
+            },
+            {
+              "word": "put",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2080,
+              "endMs": 2260
+            },
+            {
+              "word": "her",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2260,
+              "endMs": 2480
+            },
+            {
+              "word": "finger",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2480,
+              "endMs": 2720
+            },
+            {
+              "word": "to",
+              "charStart": 41,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 2980
+            },
+            {
+              "word": "her",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2980,
+              "endMs": 3180
+            },
+            {
+              "word": "lips",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun felt embarrassed when he saw the girl's face.",
+          "translation_ko": "Jun은 그 여자아이의 표정을 보고 부끄러워졌어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 420,
+              "endMs": 820
+            },
+            {
+              "word": "embarrassed",
+              "charStart": 9,
+              "charEnd": 20,
+              "startMs": 820,
+              "endMs": 1280
+            },
+            {
+              "word": "when",
+              "charStart": 21,
+              "charEnd": 25,
+              "startMs": 1280,
+              "endMs": 1620
+            },
+            {
+              "word": "he",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 1620,
+              "endMs": 1840
+            },
+            {
+              "word": "saw",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1840,
+              "endMs": 1940
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1940,
+              "endMs": 2120
+            },
+            {
+              "word": "girl's",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2120,
+              "endMs": 2480
+            },
+            {
+              "word": "face",
+              "charStart": 44,
+              "charEnd": 48,
+              "startMs": 2480,
+              "endMs": 2780
+            }
+          ]
+        },
+        {
+          "text": "He quickly covered his mouth because he wanted to say sorry.",
+          "translation_ko": "Jun은 미안하다는 마음에 얼른 입을 막았어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "quickly",
+              "charStart": 3,
+              "charEnd": 10,
+              "startMs": 260,
+              "endMs": 620
+            },
+            {
+              "word": "covered",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 620,
+              "endMs": 980
+            },
+            {
+              "word": "his",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1240
+            },
+            {
+              "word": "mouth",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1240,
+              "endMs": 1520
+            },
+            {
+              "word": "because",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 1520,
+              "endMs": 1840
+            },
+            {
+              "word": "he",
+              "charStart": 37,
+              "charEnd": 39,
+              "startMs": 1840,
+              "endMs": 2080
+            },
+            {
+              "word": "wanted",
+              "charStart": 40,
+              "charEnd": 46,
+              "startMs": 2080,
+              "endMs": 2220
+            },
+            {
+              "word": "to",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2220,
+              "endMs": 2440
+            },
+            {
+              "word": "say",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 2440,
+              "endMs": 2620
+            },
+            {
+              "word": "sorry",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 2620,
+              "endMs": 2940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina whispered, \"We need to use quiet voices here.\"",
+          "translation_ko": "Mina가 속삭였어요. '여기서는 작은 목소리를 써야 해.'",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 840
+            },
+            {
+              "word": "whispered",
+              "charStart": 5,
+              "charEnd": 14,
+              "startMs": 840,
+              "endMs": 1380
+            },
+            {
+              "word": "We",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 1800,
+              "endMs": 1940
+            },
+            {
+              "word": "need",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1940,
+              "endMs": 2100
+            },
+            {
+              "word": "to",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 2100,
+              "endMs": 2480
+            },
+            {
+              "word": "use",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2480,
+              "endMs": 2480
+            },
+            {
+              "word": "quiet",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2480,
+              "endMs": 2760
+            },
+            {
+              "word": "voices",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 2760,
+              "endMs": 3060
+            },
+            {
+              "word": "here",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3060,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "Jun nodded because he understood the library rule.",
+          "translation_ko": "Jun은 도서관 규칙을 이해했기 때문에 고개를 끄덕였어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "nodded",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 940
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1300
+            },
+            {
+              "word": "he",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1300,
+              "endMs": 1560
+            },
+            {
+              "word": "understood",
+              "charStart": 22,
+              "charEnd": 32,
+              "startMs": 1560,
+              "endMs": 1920
+            },
+            {
+              "word": "the",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1920,
+              "endMs": 2180
+            },
+            {
+              "word": "library",
+              "charStart": 37,
+              "charEnd": 44,
+              "startMs": 2180,
+              "endMs": 2540
+            },
+            {
+              "word": "rule",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 2540,
+              "endMs": 2960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They walked softly between the bookshelves to find books.",
+          "translation_ko": "두 사람은 책을 찾으려고 서가 사이를 살금살금 걸었어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "walked",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 240,
+              "endMs": 540
+            },
+            {
+              "word": "softly",
+              "charStart": 12,
+              "charEnd": 18,
+              "startMs": 540,
+              "endMs": 1060
+            },
+            {
+              "word": "between",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "the",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1460,
+              "endMs": 1680
+            },
+            {
+              "word": "bookshelves",
+              "charStart": 31,
+              "charEnd": 42,
+              "startMs": 1680,
+              "endMs": 2180
+            },
+            {
+              "word": "to",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2180,
+              "endMs": 2520
+            },
+            {
+              "word": "find",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2520,
+              "endMs": 2800
+            },
+            {
+              "word": "books",
+              "charStart": 51,
+              "charEnd": 56,
+              "startMs": 2800,
+              "endMs": 3120
+            }
+          ]
+        },
+        {
+          "text": "Jun felt calm when he saw so many colorful books.",
+          "translation_ko": "Jun은 알록달록한 책이 가득한 것을 보자 마음이 차분해졌어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "calm",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 700,
+              "endMs": 1200
+            },
+            {
+              "word": "when",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1200,
+              "endMs": 1680
+            },
+            {
+              "word": "he",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1680,
+              "endMs": 1880
+            },
+            {
+              "word": "saw",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1880,
+              "endMs": 2060
+            },
+            {
+              "word": "so",
+              "charStart": 26,
+              "charEnd": 28,
+              "startMs": 2060,
+              "endMs": 2360
+            },
+            {
+              "word": "many",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2360,
+              "endMs": 2600
+            },
+            {
+              "word": "colorful",
+              "charStart": 34,
+              "charEnd": 42,
+              "startMs": 2600,
+              "endMs": 2980
+            },
+            {
+              "word": "books",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 2980,
+              "endMs": 3420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina found a book about animals and showed it to Jun.",
+          "translation_ko": "Mina는 동물에 관한 책을 찾아 Jun에게 보여 주었어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "found",
+              "charStart": 5,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 840
+            },
+            {
+              "word": "a",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 840,
+              "endMs": 1040
+            },
+            {
+              "word": "book",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1040,
+              "endMs": 1180
+            },
+            {
+              "word": "about",
+              "charStart": 18,
+              "charEnd": 23,
+              "startMs": 1180,
+              "endMs": 1500
+            },
+            {
+              "word": "animals",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1500,
+              "endMs": 1940
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 1940,
+              "endMs": 2500
+            },
+            {
+              "word": "showed",
+              "charStart": 36,
+              "charEnd": 42,
+              "startMs": 2500,
+              "endMs": 2720
+            },
+            {
+              "word": "it",
+              "charStart": 43,
+              "charEnd": 45,
+              "startMs": 2720,
+              "endMs": 2860
+            },
+            {
+              "word": "to",
+              "charStart": 46,
+              "charEnd": 48,
+              "startMs": 2860,
+              "endMs": 3280
+            },
+            {
+              "word": "Jun",
+              "charStart": 49,
+              "charEnd": 52,
+              "startMs": 3280,
+              "endMs": 3340
+            }
+          ]
+        },
+        {
+          "text": "Jun smiled because the cover had a cute elephant on it.",
+          "translation_ko": "표지에 귀여운 코끼리가 있어서 Jun은 미소를 지었어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 360,
+              "endMs": 880
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1420
+            },
+            {
+              "word": "the",
+              "charStart": 19,
+              "charEnd": 22,
+              "startMs": 1420,
+              "endMs": 1760
+            },
+            {
+              "word": "cover",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1760,
+              "endMs": 1900
+            },
+            {
+              "word": "had",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "a",
+              "charStart": 33,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2360
+            },
+            {
+              "word": "cute",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2360,
+              "endMs": 2560
+            },
+            {
+              "word": "elephant",
+              "charStart": 40,
+              "charEnd": 48,
+              "startMs": 2560,
+              "endMs": 2820
+            },
+            {
+              "word": "on",
+              "charStart": 49,
+              "charEnd": 51,
+              "startMs": 2820,
+              "endMs": 3180
+            },
+            {
+              "word": "it",
+              "charStart": 52,
+              "charEnd": 54,
+              "startMs": 3180,
+              "endMs": 3340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They sat at a table and opened their books quietly.",
+          "translation_ko": "두 사람은 테이블에 앉아 조용히 책을 펼쳤어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "sat",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 300,
+              "endMs": 580
+            },
+            {
+              "word": "at",
+              "charStart": 9,
+              "charEnd": 11,
+              "startMs": 580,
+              "endMs": 780
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 780,
+              "endMs": 1200
+            },
+            {
+              "word": "table",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1200,
+              "endMs": 1200
+            },
+            {
+              "word": "and",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1200,
+              "endMs": 1680
+            },
+            {
+              "word": "opened",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1680,
+              "endMs": 1960
+            },
+            {
+              "word": "their",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 1960,
+              "endMs": 2280
+            },
+            {
+              "word": "books",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2280,
+              "endMs": 2540
+            },
+            {
+              "word": "quietly",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2540,
+              "endMs": 3060
+            }
+          ]
+        },
+        {
+          "text": "Jun felt happy because the library was a peaceful place.",
+          "translation_ko": "도서관이 평화로운 곳이라는 걸 느꼈기 때문에 Jun은 행복했어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "word": "happy",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1200,
+              "endMs": 1760
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1760,
+              "endMs": 2000
+            },
+            {
+              "word": "library",
+              "charStart": 27,
+              "charEnd": 34,
+              "startMs": 2000,
+              "endMs": 2340
+            },
+            {
+              "word": "was",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2340,
+              "endMs": 2600
+            },
+            {
+              "word": "a",
+              "charStart": 39,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 2840
+            },
+            {
+              "word": "peaceful",
+              "charStart": 41,
+              "charEnd": 49,
+              "startMs": 2840,
+              "endMs": 3100
+            },
+            {
+              "word": "place",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 3100,
+              "endMs": 3520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "When it was time to leave, Jun chose two books to borrow.",
+          "translation_ko": "돌아갈 시간이 되자 Jun은 빌릴 책 두 권을 골랐어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "When",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "it",
+              "charStart": 5,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 300
+            },
+            {
+              "word": "was",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 300,
+              "endMs": 520
+            },
+            {
+              "word": "time",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 520,
+              "endMs": 840
+            },
+            {
+              "word": "to",
+              "charStart": 17,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1420
+            },
+            {
+              "word": "leave",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1420,
+              "endMs": 1420
+            },
+            {
+              "word": "Jun",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 2080,
+              "endMs": 2180
+            },
+            {
+              "word": "chose",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2180,
+              "endMs": 2600
+            },
+            {
+              "word": "two",
+              "charStart": 37,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 3060
+            },
+            {
+              "word": "books",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 3060,
+              "endMs": 3220
+            },
+            {
+              "word": "to",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3220,
+              "endMs": 3760
+            },
+            {
+              "word": "borrow",
+              "charStart": 50,
+              "charEnd": 56,
+              "startMs": 3760,
+              "endMs": 3760
+            }
+          ]
+        },
+        {
+          "text": "He felt proud because he followed the quiet library rule.",
+          "translation_ko": "조용한 도서관 규칙을 잘 지켰기 때문에 Jun은 뿌듯했어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 500
+            },
+            {
+              "word": "felt",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 500,
+              "endMs": 880
+            },
+            {
+              "word": "proud",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1320
+            },
+            {
+              "word": "because",
+              "charStart": 14,
+              "charEnd": 21,
+              "startMs": 1320,
+              "endMs": 2080
+            },
+            {
+              "word": "he",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 2080,
+              "endMs": 2460
+            },
+            {
+              "word": "followed",
+              "charStart": 25,
+              "charEnd": 33,
+              "startMs": 2460,
+              "endMs": 2660
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2660,
+              "endMs": 2940
+            },
+            {
+              "word": "quiet",
+              "charStart": 38,
+              "charEnd": 43,
+              "startMs": 2940,
+              "endMs": 3340
+            },
+            {
+              "word": "library",
+              "charStart": 44,
+              "charEnd": 51,
+              "startMs": 3340,
+              "endMs": 3760
+            },
+            {
+              "word": "rule",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 3760,
+              "endMs": 4140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mina said, \"Let's come back next week!\" in a soft voice.",
+          "translation_ko": "Mina가 작은 목소리로 말했어요. '다음 주에 또 오자!'",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 900
+            },
+            {
+              "word": "said",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 900,
+              "endMs": 1280
+            },
+            {
+              "word": "Let's",
+              "charStart": 12,
+              "charEnd": 17,
+              "startMs": 1840,
+              "endMs": 2120
+            },
+            {
+              "word": "come",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 2120,
+              "endMs": 2260
+            },
+            {
+              "word": "back",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 2260,
+              "endMs": 2540
+            },
+            {
+              "word": "next",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 2540,
+              "endMs": 2820
+            },
+            {
+              "word": "week",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2820,
+              "endMs": 3120
+            },
+            {
+              "word": "in",
+              "charStart": 40,
+              "charEnd": 42,
+              "startMs": 3660,
+              "endMs": 3740
+            },
+            {
+              "word": "a",
+              "charStart": 43,
+              "charEnd": 44,
+              "startMs": 3740,
+              "endMs": 3960
+            },
+            {
+              "word": "soft",
+              "charStart": 45,
+              "charEnd": 49,
+              "startMs": 3960,
+              "endMs": 4260
+            },
+            {
+              "word": "voice",
+              "charStart": 50,
+              "charEnd": 55,
+              "startMs": 4260,
+              "endMs": 4620
+            }
+          ]
+        },
+        {
+          "text": "Jun agreed because he wanted to read more great books.",
+          "translation_ko": "Jun은 좋은 책을 더 읽고 싶어서 동의했어요.",
+          "audio": "/seed/daily-177-the-quiet-library-rule/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 780
+            },
+            {
+              "word": "agreed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 780,
+              "endMs": 1260
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 1260,
+              "endMs": 1740
+            },
+            {
+              "word": "he",
+              "charStart": 19,
+              "charEnd": 21,
+              "startMs": 1740,
+              "endMs": 2020
+            },
+            {
+              "word": "wanted",
+              "charStart": 22,
+              "charEnd": 28,
+              "startMs": 2020,
+              "endMs": 2300
+            },
+            {
+              "word": "to",
+              "charStart": 29,
+              "charEnd": 31,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "read",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2560,
+              "endMs": 2740
+            },
+            {
+              "word": "more",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2740,
+              "endMs": 3020
+            },
+            {
+              "word": "great",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 3020,
+              "endMs": 3380
+            },
+            {
+              "word": "books",
+              "charStart": 48,
+              "charEnd": 53,
+              "startMs": 3380,
+              "endMs": 3600
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun과 Mina는 방과 후 어디에 갔나요?",
+      "type": "mc",
+      "options": [
+        "공원",
+        "도서관",
+        "슈퍼마켓",
+        "학교 운동장"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun과 Mina는 방과 후 도서관에 갔어요."
+    },
+    {
+      "question_ko": "도서관 벽에 있던 표지판에는 어떤 내용이 쓰여 있었나요?",
+      "type": "mc",
+      "options": [
+        "뛰지 마세요",
+        "도서관에서 조용히 해 주세요",
+        "음식을 먹지 마세요",
+        "책을 빌릴 수 없습니다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "표지판에는 '도서관에서 조용히 해 주세요.'라고 쓰여 있었어요."
+    },
+    {
+      "question_ko": "Jun이 큰 소리로 말했을 때 근처 여자아이는 어떻게 반응했나요?",
+      "type": "mc",
+      "options": [
+        "같이 크게 웃었어요",
+        "도서관 밖으로 나갔어요",
+        "눈살을 찌푸리며 입술에 손가락을 댔어요",
+        "사서에게 달려갔어요"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "근처 여자아이는 눈살을 찌푸리며 조용히 하라는 표시를 했어요."
+    },
+    {
+      "question_ko": "Jun이 빌릴 책을 고른 후 어떤 기분이었나요?",
+      "type": "mc",
+      "options": [
+        "슬펐어요",
+        "지루했어요",
+        "화가 났어요",
+        "뿌듯했어요"
+      ],
+      "answerIndex": 3,
+      "explain_ko": "Jun은 도서관 규칙을 잘 지키고 책을 골라서 뿌듯했어요."
+    },
+    {
+      "question_ko": "도서관을 나서면서 Mina가 Jun에게 한 말은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "다음 주에 또 오자!",
+        "이 책은 재미없어",
+        "빨리 집에 가자",
+        "책을 더 빌려 줘"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "Mina는 작은 목소리로 '다음 주에 또 오자!'라고 했어요."
+    }
+  ]
+}

@@ -1,0 +1,2976 @@
+{
+  "slug": "daily-193-the-stray-cat-shelter",
+  "title": "The Stray Cat Shelter",
+  "title_ko": "길고양이 쉼터",
+  "level": "B1",
+  "ageBand": "10-12",
+  "stage": 5,
+  "collection": "daily",
+  "summary_ko": "Jun과 Mina가 엄마의 도움으로 추운 겨울을 보내는 길고양이들을 위해 따뜻한 쉼터를 만들어요.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "One cold winter morning, Jun saw a stray cat shivering near the school gate.",
+          "translation_ko": "추운 겨울 아침, Jun은 학교 정문 근처에서 떨고 있는 길고양이를 발견했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "One",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "cold",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 900
+            },
+            {
+              "word": "winter",
+              "charStart": 9,
+              "charEnd": 15,
+              "startMs": 900,
+              "endMs": 1220
+            },
+            {
+              "word": "morning",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1660
+            },
+            {
+              "word": "Jun",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2200,
+              "endMs": 2400
+            },
+            {
+              "word": "saw",
+              "charStart": 29,
+              "charEnd": 32,
+              "startMs": 2400,
+              "endMs": 2780
+            },
+            {
+              "word": "a",
+              "charStart": 33,
+              "charEnd": 34,
+              "startMs": 2780,
+              "endMs": 3060
+            },
+            {
+              "word": "stray",
+              "charStart": 35,
+              "charEnd": 40,
+              "startMs": 3060,
+              "endMs": 3280
+            },
+            {
+              "word": "cat",
+              "charStart": 41,
+              "charEnd": 44,
+              "startMs": 3280,
+              "endMs": 3640
+            },
+            {
+              "word": "shivering",
+              "charStart": 45,
+              "charEnd": 54,
+              "startMs": 3640,
+              "endMs": 4140
+            },
+            {
+              "word": "near",
+              "charStart": 55,
+              "charEnd": 59,
+              "startMs": 4140,
+              "endMs": 4420
+            },
+            {
+              "word": "the",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 4420,
+              "endMs": 4700
+            },
+            {
+              "word": "school",
+              "charStart": 64,
+              "charEnd": 70,
+              "startMs": 4700,
+              "endMs": 4860
+            },
+            {
+              "word": "gate",
+              "charStart": 71,
+              "charEnd": 75,
+              "startMs": 4860,
+              "endMs": 5120
+            }
+          ]
+        },
+        {
+          "text": "The cat's fur was wet and its eyes looked sad.",
+          "translation_ko": "고양이의 털은 젖어 있었고 눈빛이 슬퍼 보였어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 260
+            },
+            {
+              "word": "cat's",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 260,
+              "endMs": 880
+            },
+            {
+              "word": "fur",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 980
+            },
+            {
+              "word": "was",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 980,
+              "endMs": 1360
+            },
+            {
+              "word": "wet",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1360,
+              "endMs": 1580
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1580,
+              "endMs": 2040
+            },
+            {
+              "word": "its",
+              "charStart": 26,
+              "charEnd": 29,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "eyes",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2320,
+              "endMs": 2640
+            },
+            {
+              "word": "looked",
+              "charStart": 35,
+              "charEnd": 41,
+              "startMs": 2640,
+              "endMs": 3000
+            },
+            {
+              "word": "sad",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 3000,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Jun ran to his friend Mina and said, \"That poor cat has nowhere to sleep!\"",
+          "translation_ko": "Jun은 친구 Mina에게 달려가 말했어요. \"저 불쌍한 고양이는 잠잘 곳이 없어!\"",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "ran",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 720
+            },
+            {
+              "word": "to",
+              "charStart": 8,
+              "charEnd": 10,
+              "startMs": 720,
+              "endMs": 900
+            },
+            {
+              "word": "his",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 900,
+              "endMs": 1080
+            },
+            {
+              "word": "friend",
+              "charStart": 15,
+              "charEnd": 21,
+              "startMs": 1080,
+              "endMs": 1340
+            },
+            {
+              "word": "Mina",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1340,
+              "endMs": 1640
+            },
+            {
+              "word": "and",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1640,
+              "endMs": 2100
+            },
+            {
+              "word": "said",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "That",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2760,
+              "endMs": 2900
+            },
+            {
+              "word": "poor",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2900,
+              "endMs": 3220
+            },
+            {
+              "word": "cat",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 3220,
+              "endMs": 3500
+            },
+            {
+              "word": "has",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3500,
+              "endMs": 3740
+            },
+            {
+              "word": "nowhere",
+              "charStart": 56,
+              "charEnd": 63,
+              "startMs": 3740,
+              "endMs": 4040
+            },
+            {
+              "word": "to",
+              "charStart": 64,
+              "charEnd": 66,
+              "startMs": 4040,
+              "endMs": 4320
+            },
+            {
+              "word": "sleep",
+              "charStart": 67,
+              "charEnd": 72,
+              "startMs": 4320,
+              "endMs": 4560
+            }
+          ]
+        },
+        {
+          "text": "Mina nodded with a worried face. \"We should do something to help.\"",
+          "translation_ko": "Mina는 걱정스러운 얼굴로 고개를 끄덕였어요. \"우리가 뭔가 도와줘야 해.\"",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "nodded",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 540,
+              "endMs": 1260
+            },
+            {
+              "word": "with",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 1260,
+              "endMs": 1640
+            },
+            {
+              "word": "a",
+              "charStart": 17,
+              "charEnd": 18,
+              "startMs": 1640,
+              "endMs": 1920
+            },
+            {
+              "word": "worried",
+              "charStart": 19,
+              "charEnd": 26,
+              "startMs": 1920,
+              "endMs": 2120
+            },
+            {
+              "word": "face",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 2120,
+              "endMs": 2560
+            },
+            {
+              "word": "We",
+              "charStart": 34,
+              "charEnd": 36,
+              "startMs": 3760,
+              "endMs": 3940
+            },
+            {
+              "word": "should",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 3940,
+              "endMs": 4180
+            },
+            {
+              "word": "do",
+              "charStart": 44,
+              "charEnd": 46,
+              "startMs": 4180,
+              "endMs": 4440
+            },
+            {
+              "word": "something",
+              "charStart": 47,
+              "charEnd": 56,
+              "startMs": 4440,
+              "endMs": 4720
+            },
+            {
+              "word": "to",
+              "charStart": 57,
+              "charEnd": 59,
+              "startMs": 4720,
+              "endMs": 5080
+            },
+            {
+              "word": "help",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 5080,
+              "endMs": 5180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "After school, they asked Jun's mom for advice.",
+          "translation_ko": "방과 후, 두 사람은 Jun의 엄마에게 조언을 구했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "school",
+              "charStart": 6,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 780
+            },
+            {
+              "word": "they",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1120,
+              "endMs": 1280
+            },
+            {
+              "word": "asked",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "Jun's",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1600,
+              "endMs": 2060
+            },
+            {
+              "word": "mom",
+              "charStart": 31,
+              "charEnd": 34,
+              "startMs": 2060,
+              "endMs": 2280
+            },
+            {
+              "word": "for",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2280,
+              "endMs": 2580
+            },
+            {
+              "word": "advice",
+              "charStart": 39,
+              "charEnd": 45,
+              "startMs": 2580,
+              "endMs": 2940
+            }
+          ]
+        },
+        {
+          "text": "Mom smiled and said, \"We can build a small shelter for the stray cats in our neighborhood.\"",
+          "translation_ko": "엄마는 미소를 지으며 말했어요. \"우리 동네 길고양이들을 위해 작은 쉼터를 만들어 볼 수 있어.\"",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 460
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 460,
+              "endMs": 1060
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 1060,
+              "endMs": 1460
+            },
+            {
+              "word": "said",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 1460,
+              "endMs": 1680
+            },
+            {
+              "word": "We",
+              "charStart": 22,
+              "charEnd": 24,
+              "startMs": 2100,
+              "endMs": 2220
+            },
+            {
+              "word": "can",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2220,
+              "endMs": 2440
+            },
+            {
+              "word": "build",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "a",
+              "charStart": 35,
+              "charEnd": 36,
+              "startMs": 2640,
+              "endMs": 2840
+            },
+            {
+              "word": "small",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2840,
+              "endMs": 3140
+            },
+            {
+              "word": "shelter",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 3140,
+              "endMs": 3440
+            },
+            {
+              "word": "for",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3440,
+              "endMs": 3680
+            },
+            {
+              "word": "the",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3680,
+              "endMs": 3940
+            },
+            {
+              "word": "stray",
+              "charStart": 59,
+              "charEnd": 64,
+              "startMs": 3940,
+              "endMs": 4140
+            },
+            {
+              "word": "cats",
+              "charStart": 65,
+              "charEnd": 69,
+              "startMs": 4140,
+              "endMs": 4400
+            },
+            {
+              "word": "in",
+              "charStart": 70,
+              "charEnd": 72,
+              "startMs": 4400,
+              "endMs": 4540
+            },
+            {
+              "word": "our",
+              "charStart": 73,
+              "charEnd": 76,
+              "startMs": 4540,
+              "endMs": 4700
+            },
+            {
+              "word": "neighborhood",
+              "charStart": 77,
+              "charEnd": 89,
+              "startMs": 4700,
+              "endMs": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom explained that a shelter keeps cats warm and safe from wind and rain.",
+          "translation_ko": "엄마는 쉼터가 고양이들을 바람과 비로부터 따뜻하고 안전하게 지켜준다고 설명했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "explained",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 340,
+              "endMs": 940
+            },
+            {
+              "word": "that",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 940,
+              "endMs": 1180
+            },
+            {
+              "word": "a",
+              "charStart": 19,
+              "charEnd": 20,
+              "startMs": 1180,
+              "endMs": 1400
+            },
+            {
+              "word": "shelter",
+              "charStart": 21,
+              "charEnd": 28,
+              "startMs": 1400,
+              "endMs": 1620
+            },
+            {
+              "word": "keeps",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1620,
+              "endMs": 1980
+            },
+            {
+              "word": "cats",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 1980,
+              "endMs": 2380
+            },
+            {
+              "word": "warm",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2380,
+              "endMs": 2780
+            },
+            {
+              "word": "and",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 2780,
+              "endMs": 3100
+            },
+            {
+              "word": "safe",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 3100,
+              "endMs": 3300
+            },
+            {
+              "word": "from",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 3300,
+              "endMs": 3620
+            },
+            {
+              "word": "wind",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3620,
+              "endMs": 3820
+            },
+            {
+              "word": "and",
+              "charStart": 64,
+              "charEnd": 67,
+              "startMs": 3820,
+              "endMs": 4220
+            },
+            {
+              "word": "rain",
+              "charStart": 68,
+              "charEnd": 72,
+              "startMs": 4220,
+              "endMs": 4400
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina listened carefully and felt excited about the project.",
+          "translation_ko": "Jun과 Mina는 주의 깊게 들으며 그 계획에 설레었어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 400,
+              "endMs": 700
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 1000
+            },
+            {
+              "word": "listened",
+              "charStart": 13,
+              "charEnd": 21,
+              "startMs": 1000,
+              "endMs": 1680
+            },
+            {
+              "word": "carefully",
+              "charStart": 22,
+              "charEnd": 31,
+              "startMs": 1680,
+              "endMs": 2260
+            },
+            {
+              "word": "and",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2260,
+              "endMs": 2760
+            },
+            {
+              "word": "felt",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2760,
+              "endMs": 2940
+            },
+            {
+              "word": "excited",
+              "charStart": 41,
+              "charEnd": 48,
+              "startMs": 2940,
+              "endMs": 3440
+            },
+            {
+              "word": "about",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3440,
+              "endMs": 3700
+            },
+            {
+              "word": "the",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 3700,
+              "endMs": 3880
+            },
+            {
+              "word": "project",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 3880,
+              "endMs": 4280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They gathered old wooden boxes, foam boards, and thick blankets from the garage.",
+          "translation_ko": "그들은 창고에서 낡은 나무 상자, 발포 보드, 두꺼운 담요를 모았어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 300
+            },
+            {
+              "word": "gathered",
+              "charStart": 5,
+              "charEnd": 13,
+              "startMs": 300,
+              "endMs": 620
+            },
+            {
+              "word": "old",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 620,
+              "endMs": 1180
+            },
+            {
+              "word": "wooden",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 1180,
+              "endMs": 1380
+            },
+            {
+              "word": "boxes",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 1380,
+              "endMs": 1940
+            },
+            {
+              "word": "foam",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2640,
+              "endMs": 2720
+            },
+            {
+              "word": "boards",
+              "charStart": 37,
+              "charEnd": 43,
+              "startMs": 2720,
+              "endMs": 3100
+            },
+            {
+              "word": "and",
+              "charStart": 45,
+              "charEnd": 48,
+              "startMs": 3560,
+              "endMs": 3780
+            },
+            {
+              "word": "thick",
+              "charStart": 49,
+              "charEnd": 54,
+              "startMs": 3780,
+              "endMs": 3980
+            },
+            {
+              "word": "blankets",
+              "charStart": 55,
+              "charEnd": 63,
+              "startMs": 3980,
+              "endMs": 4280
+            },
+            {
+              "word": "from",
+              "charStart": 64,
+              "charEnd": 68,
+              "startMs": 4280,
+              "endMs": 4560
+            },
+            {
+              "word": "the",
+              "charStart": 69,
+              "charEnd": 72,
+              "startMs": 4560,
+              "endMs": 4760
+            },
+            {
+              "word": "garage",
+              "charStart": 73,
+              "charEnd": 79,
+              "startMs": 4760,
+              "endMs": 5100
+            }
+          ]
+        },
+        {
+          "text": "\"These materials will trap heat inside the shelter,\" Mom said.",
+          "translation_ko": "\"이 재료들이 쉼터 안에 열을 가둬줄 거야,\" 엄마가 말했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "These",
+              "charStart": 1,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "materials",
+              "charStart": 7,
+              "charEnd": 16,
+              "startMs": 340,
+              "endMs": 900
+            },
+            {
+              "word": "will",
+              "charStart": 17,
+              "charEnd": 21,
+              "startMs": 900,
+              "endMs": 1220
+            },
+            {
+              "word": "trap",
+              "charStart": 22,
+              "charEnd": 26,
+              "startMs": 1220,
+              "endMs": 1520
+            },
+            {
+              "word": "heat",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1520,
+              "endMs": 1820
+            },
+            {
+              "word": "inside",
+              "charStart": 32,
+              "charEnd": 38,
+              "startMs": 1820,
+              "endMs": 2180
+            },
+            {
+              "word": "the",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2180,
+              "endMs": 2420
+            },
+            {
+              "word": "shelter",
+              "charStart": 43,
+              "charEnd": 50,
+              "startMs": 2420,
+              "endMs": 3420
+            },
+            {
+              "word": "Mom",
+              "charStart": 53,
+              "charEnd": 56,
+              "startMs": 3420,
+              "endMs": 3520
+            },
+            {
+              "word": "said",
+              "charStart": 57,
+              "charEnd": 61,
+              "startMs": 3520,
+              "endMs": 3820
+            }
+          ]
+        },
+        {
+          "text": "Jun and Mina high-fived each other with big smiles.",
+          "translation_ko": "Jun과 Mina는 활짝 웃으며 서로 하이파이브를 했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p5-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 30,
+              "endMs": 250
+            },
+            {
+              "word": "and",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 250,
+              "endMs": 470
+            },
+            {
+              "word": "Mina",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 470,
+              "endMs": 853
+            },
+            {
+              "word": "high-fived",
+              "charStart": 13,
+              "charEnd": 23,
+              "startMs": 853,
+              "endMs": 1398
+            },
+            {
+              "word": "each",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1398,
+              "endMs": 1618
+            },
+            {
+              "word": "other",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 1618,
+              "endMs": 2001
+            },
+            {
+              "word": "with",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2001,
+              "endMs": 2221
+            },
+            {
+              "word": "big",
+              "charStart": 40,
+              "charEnd": 43,
+              "startMs": 2221,
+              "endMs": 2441
+            },
+            {
+              "word": "smiles",
+              "charStart": 44,
+              "charEnd": 50,
+              "startMs": 2441,
+              "endMs": 2970
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They cut a small entrance hole so cats could enter easily.",
+          "translation_ko": "그들은 고양이들이 쉽게 들어올 수 있도록 작은 입구 구멍을 잘랐어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "cut",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 500
+            },
+            {
+              "word": "a",
+              "charStart": 9,
+              "charEnd": 10,
+              "startMs": 500,
+              "endMs": 760
+            },
+            {
+              "word": "small",
+              "charStart": 11,
+              "charEnd": 16,
+              "startMs": 760,
+              "endMs": 1040
+            },
+            {
+              "word": "entrance",
+              "charStart": 17,
+              "charEnd": 25,
+              "startMs": 1040,
+              "endMs": 1380
+            },
+            {
+              "word": "hole",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1380,
+              "endMs": 1700
+            },
+            {
+              "word": "so",
+              "charStart": 31,
+              "charEnd": 33,
+              "startMs": 1700,
+              "endMs": 1960
+            },
+            {
+              "word": "cats",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 1960,
+              "endMs": 2240
+            },
+            {
+              "word": "could",
+              "charStart": 39,
+              "charEnd": 44,
+              "startMs": 2240,
+              "endMs": 2460
+            },
+            {
+              "word": "enter",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 2460,
+              "endMs": 2720
+            },
+            {
+              "word": "easily",
+              "charStart": 51,
+              "charEnd": 57,
+              "startMs": 2720,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "Mom taped the edges carefully so no one would get hurt.",
+          "translation_ko": "엄마는 아무도 다치지 않도록 가장자리를 조심스럽게 테이프로 붙였어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "taped",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 420,
+              "endMs": 760
+            },
+            {
+              "word": "the",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 760,
+              "endMs": 1000
+            },
+            {
+              "word": "edges",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "carefully",
+              "charStart": 20,
+              "charEnd": 29,
+              "startMs": 1280,
+              "endMs": 1760
+            },
+            {
+              "word": "so",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2340
+            },
+            {
+              "word": "no",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2340,
+              "endMs": 2580
+            },
+            {
+              "word": "one",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2580,
+              "endMs": 2760
+            },
+            {
+              "word": "would",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2760,
+              "endMs": 2960
+            },
+            {
+              "word": "get",
+              "charStart": 46,
+              "charEnd": 49,
+              "startMs": 2960,
+              "endMs": 3160
+            },
+            {
+              "word": "hurt",
+              "charStart": 50,
+              "charEnd": 54,
+              "startMs": 3160,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Inside, they placed the thick blanket to make a soft, cozy bed.",
+          "translation_ko": "안쪽에는 두꺼운 담요를 깔아 부드럽고 아늑한 잠자리를 만들었어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Inside",
+              "charStart": 0,
+              "charEnd": 6,
+              "startMs": 0,
+              "endMs": 660
+            },
+            {
+              "word": "they",
+              "charStart": 8,
+              "charEnd": 12,
+              "startMs": 780,
+              "endMs": 1360
+            },
+            {
+              "word": "placed",
+              "charStart": 13,
+              "charEnd": 19,
+              "startMs": 1360,
+              "endMs": 1660
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1660,
+              "endMs": 2180
+            },
+            {
+              "word": "thick",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 2180,
+              "endMs": 2480
+            },
+            {
+              "word": "blanket",
+              "charStart": 30,
+              "charEnd": 37,
+              "startMs": 2480,
+              "endMs": 2820
+            },
+            {
+              "word": "to",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2820,
+              "endMs": 3280
+            },
+            {
+              "word": "make",
+              "charStart": 41,
+              "charEnd": 45,
+              "startMs": 3280,
+              "endMs": 3420
+            },
+            {
+              "word": "a",
+              "charStart": 46,
+              "charEnd": 47,
+              "startMs": 3420,
+              "endMs": 3640
+            },
+            {
+              "word": "soft",
+              "charStart": 48,
+              "charEnd": 52,
+              "startMs": 3640,
+              "endMs": 4000
+            },
+            {
+              "word": "cozy",
+              "charStart": 54,
+              "charEnd": 58,
+              "startMs": 4600,
+              "endMs": 4720
+            },
+            {
+              "word": "bed",
+              "charStart": 59,
+              "charEnd": 62,
+              "startMs": 4720,
+              "endMs": 5000
+            }
+          ]
+        },
+        {
+          "text": "\"Cats love warm and quiet places,\" Mina said, pressing the blanket gently.",
+          "translation_ko": "\"고양이들은 따뜻하고 조용한 곳을 좋아해,\" Mina가 담요를 부드럽게 누르며 말했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Cats",
+              "charStart": 1,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "love",
+              "charStart": 6,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 920
+            },
+            {
+              "word": "warm",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1340
+            },
+            {
+              "word": "and",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 1340,
+              "endMs": 1660
+            },
+            {
+              "word": "quiet",
+              "charStart": 20,
+              "charEnd": 25,
+              "startMs": 1660,
+              "endMs": 1900
+            },
+            {
+              "word": "places",
+              "charStart": 26,
+              "charEnd": 32,
+              "startMs": 1900,
+              "endMs": 2400
+            },
+            {
+              "word": "Mina",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2880,
+              "endMs": 2920
+            },
+            {
+              "word": "said",
+              "charStart": 40,
+              "charEnd": 44,
+              "startMs": 2920,
+              "endMs": 3280
+            },
+            {
+              "word": "pressing",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 4000,
+              "endMs": 4000
+            },
+            {
+              "word": "the",
+              "charStart": 55,
+              "charEnd": 58,
+              "startMs": 4000,
+              "endMs": 4580
+            },
+            {
+              "word": "blanket",
+              "charStart": 59,
+              "charEnd": 66,
+              "startMs": 4580,
+              "endMs": 4580
+            },
+            {
+              "word": "gently",
+              "charStart": 67,
+              "charEnd": 73,
+              "startMs": 4580,
+              "endMs": 4940
+            }
+          ]
+        },
+        {
+          "text": "Jun agreed and added a small piece of old cloth on top.",
+          "translation_ko": "Jun도 동의하며 위에 낡은 천 조각을 하나 더 얹었어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p7-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "agreed",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 440,
+              "endMs": 980
+            },
+            {
+              "word": "and",
+              "charStart": 11,
+              "charEnd": 14,
+              "startMs": 980,
+              "endMs": 1520
+            },
+            {
+              "word": "added",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1520,
+              "endMs": 1720
+            },
+            {
+              "word": "a",
+              "charStart": 21,
+              "charEnd": 22,
+              "startMs": 1720,
+              "endMs": 1960
+            },
+            {
+              "word": "small",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1960,
+              "endMs": 2200
+            },
+            {
+              "word": "piece",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "of",
+              "charStart": 35,
+              "charEnd": 37,
+              "startMs": 2460,
+              "endMs": 2740
+            },
+            {
+              "word": "old",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2740,
+              "endMs": 2960
+            },
+            {
+              "word": "cloth",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2960,
+              "endMs": 3200
+            },
+            {
+              "word": "on",
+              "charStart": 48,
+              "charEnd": 50,
+              "startMs": 3200,
+              "endMs": 3520
+            },
+            {
+              "word": "top",
+              "charStart": 51,
+              "charEnd": 54,
+              "startMs": 3520,
+              "endMs": 3760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "They placed the finished shelter near the school gate where they had seen the stray cat.",
+          "translation_ko": "그들은 완성된 쉼터를 길고양이를 처음 본 학교 정문 근처에 놓았어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "They",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "placed",
+              "charStart": 5,
+              "charEnd": 11,
+              "startMs": 320,
+              "endMs": 720
+            },
+            {
+              "word": "the",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 720,
+              "endMs": 1060
+            },
+            {
+              "word": "finished",
+              "charStart": 16,
+              "charEnd": 24,
+              "startMs": 1060,
+              "endMs": 1360
+            },
+            {
+              "word": "shelter",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1360,
+              "endMs": 1760
+            },
+            {
+              "word": "near",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1760,
+              "endMs": 2220
+            },
+            {
+              "word": "the",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2220,
+              "endMs": 2500
+            },
+            {
+              "word": "school",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2500,
+              "endMs": 2740
+            },
+            {
+              "word": "gate",
+              "charStart": 49,
+              "charEnd": 53,
+              "startMs": 2740,
+              "endMs": 3040
+            },
+            {
+              "word": "where",
+              "charStart": 54,
+              "charEnd": 59,
+              "startMs": 3040,
+              "endMs": 3360
+            },
+            {
+              "word": "they",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3360,
+              "endMs": 3480
+            },
+            {
+              "word": "had",
+              "charStart": 65,
+              "charEnd": 68,
+              "startMs": 3480,
+              "endMs": 3660
+            },
+            {
+              "word": "seen",
+              "charStart": 69,
+              "charEnd": 73,
+              "startMs": 3660,
+              "endMs": 3860
+            },
+            {
+              "word": "the",
+              "charStart": 74,
+              "charEnd": 77,
+              "startMs": 3860,
+              "endMs": 4140
+            },
+            {
+              "word": "stray",
+              "charStart": 78,
+              "charEnd": 83,
+              "startMs": 4140,
+              "endMs": 4340
+            },
+            {
+              "word": "cat",
+              "charStart": 84,
+              "charEnd": 87,
+              "startMs": 4340,
+              "endMs": 4620
+            }
+          ]
+        },
+        {
+          "text": "Mom brought a small bowl of water and dry cat food to put beside it.",
+          "translation_ko": "엄마는 작은 물그릇과 건식 사료를 가져와 쉼터 옆에 놓았어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "brought",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 400,
+              "endMs": 640
+            },
+            {
+              "word": "a",
+              "charStart": 12,
+              "charEnd": 13,
+              "startMs": 640,
+              "endMs": 840
+            },
+            {
+              "word": "small",
+              "charStart": 14,
+              "charEnd": 19,
+              "startMs": 840,
+              "endMs": 1140
+            },
+            {
+              "word": "bowl",
+              "charStart": 20,
+              "charEnd": 24,
+              "startMs": 1140,
+              "endMs": 1280
+            },
+            {
+              "word": "of",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1280,
+              "endMs": 1760
+            },
+            {
+              "word": "water",
+              "charStart": 28,
+              "charEnd": 33,
+              "startMs": 1760,
+              "endMs": 1760
+            },
+            {
+              "word": "and",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 1760,
+              "endMs": 2040
+            },
+            {
+              "word": "dry",
+              "charStart": 38,
+              "charEnd": 41,
+              "startMs": 2040,
+              "endMs": 2320
+            },
+            {
+              "word": "cat",
+              "charStart": 42,
+              "charEnd": 45,
+              "startMs": 2320,
+              "endMs": 2620
+            },
+            {
+              "word": "food",
+              "charStart": 46,
+              "charEnd": 50,
+              "startMs": 2620,
+              "endMs": 2800
+            },
+            {
+              "word": "to",
+              "charStart": 51,
+              "charEnd": 53,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "put",
+              "charStart": 54,
+              "charEnd": 57,
+              "startMs": 3000,
+              "endMs": 3140
+            },
+            {
+              "word": "beside",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3140,
+              "endMs": 3500
+            },
+            {
+              "word": "it",
+              "charStart": 65,
+              "charEnd": 67,
+              "startMs": 3500,
+              "endMs": 3720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The three of them waited quietly behind a wall to see if any cat would come.",
+          "translation_ko": "세 사람은 고양이가 오는지 보려고 벽 뒤에서 조용히 기다렸어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "three",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "of",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 600,
+              "endMs": 760
+            },
+            {
+              "word": "them",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "waited",
+              "charStart": 18,
+              "charEnd": 24,
+              "startMs": 980,
+              "endMs": 1300
+            },
+            {
+              "word": "quietly",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1300,
+              "endMs": 1880
+            },
+            {
+              "word": "behind",
+              "charStart": 33,
+              "charEnd": 39,
+              "startMs": 1880,
+              "endMs": 2320
+            },
+            {
+              "word": "a",
+              "charStart": 40,
+              "charEnd": 41,
+              "startMs": 2320,
+              "endMs": 2560
+            },
+            {
+              "word": "wall",
+              "charStart": 42,
+              "charEnd": 46,
+              "startMs": 2560,
+              "endMs": 2720
+            },
+            {
+              "word": "to",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 2720,
+              "endMs": 3020
+            },
+            {
+              "word": "see",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3020,
+              "endMs": 3160
+            },
+            {
+              "word": "if",
+              "charStart": 54,
+              "charEnd": 56,
+              "startMs": 3160,
+              "endMs": 3360
+            },
+            {
+              "word": "any",
+              "charStart": 57,
+              "charEnd": 60,
+              "startMs": 3360,
+              "endMs": 3580
+            },
+            {
+              "word": "cat",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 3580,
+              "endMs": 3820
+            },
+            {
+              "word": "would",
+              "charStart": 65,
+              "charEnd": 70,
+              "startMs": 3820,
+              "endMs": 4000
+            },
+            {
+              "word": "come",
+              "charStart": 71,
+              "charEnd": 75,
+              "startMs": 4000,
+              "endMs": 4260
+            }
+          ]
+        },
+        {
+          "text": "After a few minutes, the same stray cat crept slowly toward the shelter.",
+          "translation_ko": "몇 분 후, 아까 그 길고양이가 천천히 쉼터 쪽으로 다가왔어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "After",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "a",
+              "charStart": 6,
+              "charEnd": 7,
+              "startMs": 360,
+              "endMs": 600
+            },
+            {
+              "word": "few",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 800
+            },
+            {
+              "word": "minutes",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 800,
+              "endMs": 1160
+            },
+            {
+              "word": "the",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1500,
+              "endMs": 1620
+            },
+            {
+              "word": "same",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1620,
+              "endMs": 1920
+            },
+            {
+              "word": "stray",
+              "charStart": 30,
+              "charEnd": 35,
+              "startMs": 1920,
+              "endMs": 2340
+            },
+            {
+              "word": "cat",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2340,
+              "endMs": 2680
+            },
+            {
+              "word": "crept",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2680,
+              "endMs": 3180
+            },
+            {
+              "word": "slowly",
+              "charStart": 46,
+              "charEnd": 52,
+              "startMs": 3180,
+              "endMs": 3660
+            },
+            {
+              "word": "toward",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3660,
+              "endMs": 3960
+            },
+            {
+              "word": "the",
+              "charStart": 60,
+              "charEnd": 63,
+              "startMs": 3960,
+              "endMs": 4200
+            },
+            {
+              "word": "shelter",
+              "charStart": 64,
+              "charEnd": 71,
+              "startMs": 4200,
+              "endMs": 4420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The cat sniffed the entrance, then carefully stepped inside.",
+          "translation_ko": "고양이는 입구를 냄새 맡더니 조심스럽게 안으로 들어갔어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "cat",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 200,
+              "endMs": 540
+            },
+            {
+              "word": "sniffed",
+              "charStart": 8,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 960
+            },
+            {
+              "word": "the",
+              "charStart": 16,
+              "charEnd": 19,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "entrance",
+              "charStart": 20,
+              "charEnd": 28,
+              "startMs": 1200,
+              "endMs": 1520
+            },
+            {
+              "word": "then",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "carefully",
+              "charStart": 35,
+              "charEnd": 44,
+              "startMs": 2300,
+              "endMs": 2760
+            },
+            {
+              "word": "stepped",
+              "charStart": 45,
+              "charEnd": 52,
+              "startMs": 2760,
+              "endMs": 3140
+            },
+            {
+              "word": "inside",
+              "charStart": 53,
+              "charEnd": 59,
+              "startMs": 3140,
+              "endMs": 3660
+            }
+          ]
+        },
+        {
+          "text": "Jun whispered, \"It likes our shelter!\"",
+          "translation_ko": "Jun이 속삭였어요. \"우리 쉼터가 마음에 드나 봐!\"",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "whispered",
+              "charStart": 4,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 1300
+            },
+            {
+              "word": "It",
+              "charStart": 16,
+              "charEnd": 18,
+              "startMs": 1640,
+              "endMs": 1880
+            },
+            {
+              "word": "likes",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1880,
+              "endMs": 2120
+            },
+            {
+              "word": "our",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2120,
+              "endMs": 2400
+            },
+            {
+              "word": "shelter",
+              "charStart": 29,
+              "charEnd": 36,
+              "startMs": 2400,
+              "endMs": 2660
+            }
+          ]
+        },
+        {
+          "text": "Mina covered her mouth to hold back her happy laughter.",
+          "translation_ko": "Mina는 기쁜 웃음을 참으려고 입을 손으로 가렸어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p10-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "Mina",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 420
+            },
+            {
+              "word": "covered",
+              "charStart": 5,
+              "charEnd": 12,
+              "startMs": 420,
+              "endMs": 860
+            },
+            {
+              "word": "her",
+              "charStart": 13,
+              "charEnd": 16,
+              "startMs": 860,
+              "endMs": 1100
+            },
+            {
+              "word": "mouth",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1100,
+              "endMs": 1340
+            },
+            {
+              "word": "to",
+              "charStart": 23,
+              "charEnd": 25,
+              "startMs": 1340,
+              "endMs": 1620
+            },
+            {
+              "word": "hold",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1620,
+              "endMs": 1780
+            },
+            {
+              "word": "back",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 1780,
+              "endMs": 2060
+            },
+            {
+              "word": "her",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2060,
+              "endMs": 2320
+            },
+            {
+              "word": "happy",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2320,
+              "endMs": 2500
+            },
+            {
+              "word": "laughter",
+              "charStart": 46,
+              "charEnd": 54,
+              "startMs": 2500,
+              "endMs": 2840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom put her arm around them both and said, \"You two made a real difference today.\"",
+          "translation_ko": "엄마는 두 아이를 양팔로 안으며 말했어요. \"너희 둘이 오늘 정말 의미 있는 일을 했어.\"",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p11-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Mom",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "put",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 520
+            },
+            {
+              "word": "her",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "arm",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 780,
+              "endMs": 940
+            },
+            {
+              "word": "around",
+              "charStart": 16,
+              "charEnd": 22,
+              "startMs": 940,
+              "endMs": 1200
+            },
+            {
+              "word": "them",
+              "charStart": 23,
+              "charEnd": 27,
+              "startMs": 1200,
+              "endMs": 1380
+            },
+            {
+              "word": "both",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1380,
+              "endMs": 1640
+            },
+            {
+              "word": "and",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 1640,
+              "endMs": 1960
+            },
+            {
+              "word": "said",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 1960,
+              "endMs": 2160
+            },
+            {
+              "word": "You",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 2600,
+              "endMs": 2740
+            },
+            {
+              "word": "two",
+              "charStart": 48,
+              "charEnd": 51,
+              "startMs": 2740,
+              "endMs": 2960
+            },
+            {
+              "word": "made",
+              "charStart": 52,
+              "charEnd": 56,
+              "startMs": 2960,
+              "endMs": 3080
+            },
+            {
+              "word": "a",
+              "charStart": 57,
+              "charEnd": 58,
+              "startMs": 3080,
+              "endMs": 3280
+            },
+            {
+              "word": "real",
+              "charStart": 59,
+              "charEnd": 63,
+              "startMs": 3280,
+              "endMs": 3600
+            },
+            {
+              "word": "difference",
+              "charStart": 64,
+              "charEnd": 74,
+              "startMs": 3600,
+              "endMs": 3940
+            },
+            {
+              "word": "today",
+              "charStart": 75,
+              "charEnd": 80,
+              "startMs": 3940,
+              "endMs": 4280
+            }
+          ]
+        },
+        {
+          "text": "Jun felt proud, knowing the cat would stay warm through the cold night.",
+          "translation_ko": "고양이가 추운 밤을 따뜻하게 지낼 수 있다는 생각에 Jun은 뿌듯함을 느꼈어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p11-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Jun",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 360
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 360,
+              "endMs": 700
+            },
+            {
+              "word": "proud",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 700,
+              "endMs": 1160
+            },
+            {
+              "word": "knowing",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1520
+            },
+            {
+              "word": "the",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1520,
+              "endMs": 1820
+            },
+            {
+              "word": "cat",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1820,
+              "endMs": 1900
+            },
+            {
+              "word": "would",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1900,
+              "endMs": 2100
+            },
+            {
+              "word": "stay",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2100,
+              "endMs": 2300
+            },
+            {
+              "word": "warm",
+              "charStart": 43,
+              "charEnd": 47,
+              "startMs": 2300,
+              "endMs": 2700
+            },
+            {
+              "word": "through",
+              "charStart": 48,
+              "charEnd": 55,
+              "startMs": 2700,
+              "endMs": 2900
+            },
+            {
+              "word": "the",
+              "charStart": 56,
+              "charEnd": 59,
+              "startMs": 2900,
+              "endMs": 3080
+            },
+            {
+              "word": "cold",
+              "charStart": 60,
+              "charEnd": 64,
+              "startMs": 3080,
+              "endMs": 3340
+            },
+            {
+              "word": "night",
+              "charStart": 65,
+              "charEnd": 70,
+              "startMs": 3340,
+              "endMs": 3600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The next morning, Jun and Mina rushed to check on the shelter before school.",
+          "translation_ko": "다음 날 아침, Jun과 Mina는 학교 가기 전 쉼터를 확인하러 달려갔어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p12-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "next",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 240,
+              "endMs": 600
+            },
+            {
+              "word": "morning",
+              "charStart": 9,
+              "charEnd": 16,
+              "startMs": 600,
+              "endMs": 1020
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1200,
+              "endMs": 1620
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1620,
+              "endMs": 1820
+            },
+            {
+              "word": "Mina",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2160
+            },
+            {
+              "word": "rushed",
+              "charStart": 31,
+              "charEnd": 37,
+              "startMs": 2160,
+              "endMs": 2600
+            },
+            {
+              "word": "to",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2600,
+              "endMs": 2800
+            },
+            {
+              "word": "check",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2800,
+              "endMs": 3000
+            },
+            {
+              "word": "on",
+              "charStart": 47,
+              "charEnd": 49,
+              "startMs": 3000,
+              "endMs": 3160
+            },
+            {
+              "word": "the",
+              "charStart": 50,
+              "charEnd": 53,
+              "startMs": 3160,
+              "endMs": 3260
+            },
+            {
+              "word": "shelter",
+              "charStart": 54,
+              "charEnd": 61,
+              "startMs": 3260,
+              "endMs": 3560
+            },
+            {
+              "word": "before",
+              "charStart": 62,
+              "charEnd": 68,
+              "startMs": 3560,
+              "endMs": 3960
+            },
+            {
+              "word": "school",
+              "charStart": 69,
+              "charEnd": 75,
+              "startMs": 3960,
+              "endMs": 4360
+            }
+          ]
+        },
+        {
+          "text": "The blanket was warm and the food bowl was empty.",
+          "translation_ko": "담요는 따뜻했고 밥그릇은 비어 있었어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p12-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "blanket",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 600,
+              "endMs": 920
+            },
+            {
+              "word": "was",
+              "charStart": 12,
+              "charEnd": 15,
+              "startMs": 920,
+              "endMs": 1340
+            },
+            {
+              "word": "warm",
+              "charStart": 16,
+              "charEnd": 20,
+              "startMs": 1340,
+              "endMs": 1700
+            },
+            {
+              "word": "and",
+              "charStart": 21,
+              "charEnd": 24,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "the",
+              "charStart": 25,
+              "charEnd": 28,
+              "startMs": 2000,
+              "endMs": 2280
+            },
+            {
+              "word": "food",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2280,
+              "endMs": 2440
+            },
+            {
+              "word": "bowl",
+              "charStart": 34,
+              "charEnd": 38,
+              "startMs": 2440,
+              "endMs": 2640
+            },
+            {
+              "word": "was",
+              "charStart": 39,
+              "charEnd": 42,
+              "startMs": 2640,
+              "endMs": 3220
+            },
+            {
+              "word": "empty",
+              "charStart": 43,
+              "charEnd": 48,
+              "startMs": 3220,
+              "endMs": 3220
+            }
+          ]
+        },
+        {
+          "text": "\"The cat slept here all night,\" Mina said softly.",
+          "translation_ko": "\"고양이가 밤새 여기서 잤네,\" Mina가 조용히 말했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p12-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "cat",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 200,
+              "endMs": 580
+            },
+            {
+              "word": "slept",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 580,
+              "endMs": 880
+            },
+            {
+              "word": "here",
+              "charStart": 15,
+              "charEnd": 19,
+              "startMs": 880,
+              "endMs": 1220
+            },
+            {
+              "word": "all",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1220,
+              "endMs": 1500
+            },
+            {
+              "word": "night",
+              "charStart": 24,
+              "charEnd": 29,
+              "startMs": 1500,
+              "endMs": 1780
+            },
+            {
+              "word": "Mina",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 2280,
+              "endMs": 2440
+            },
+            {
+              "word": "said",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2440,
+              "endMs": 2700
+            },
+            {
+              "word": "softly",
+              "charStart": 42,
+              "charEnd": 48,
+              "startMs": 2700,
+              "endMs": 3120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "From that day on, Jun and Mina took turns refilling the food and water every day.",
+          "translation_ko": "그날부터 Jun과 Mina는 매일 번갈아 가며 먹이와 물을 채워 넣었어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p13-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "From",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "that",
+              "charStart": 5,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 520
+            },
+            {
+              "word": "day",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 520,
+              "endMs": 780
+            },
+            {
+              "word": "on",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 780,
+              "endMs": 1180
+            },
+            {
+              "word": "Jun",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1380,
+              "endMs": 1600
+            },
+            {
+              "word": "and",
+              "charStart": 22,
+              "charEnd": 25,
+              "startMs": 1600,
+              "endMs": 1820
+            },
+            {
+              "word": "Mina",
+              "charStart": 26,
+              "charEnd": 30,
+              "startMs": 1820,
+              "endMs": 2060
+            },
+            {
+              "word": "took",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2060,
+              "endMs": 2600
+            },
+            {
+              "word": "turns",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2600,
+              "endMs": 2960
+            },
+            {
+              "word": "refilling",
+              "charStart": 42,
+              "charEnd": 51,
+              "startMs": 2960,
+              "endMs": 3380
+            },
+            {
+              "word": "the",
+              "charStart": 52,
+              "charEnd": 55,
+              "startMs": 3380,
+              "endMs": 3600
+            },
+            {
+              "word": "food",
+              "charStart": 56,
+              "charEnd": 60,
+              "startMs": 3600,
+              "endMs": 3860
+            },
+            {
+              "word": "and",
+              "charStart": 61,
+              "charEnd": 64,
+              "startMs": 3860,
+              "endMs": 4400
+            },
+            {
+              "word": "water",
+              "charStart": 65,
+              "charEnd": 70,
+              "startMs": 4400,
+              "endMs": 4660
+            },
+            {
+              "word": "every",
+              "charStart": 71,
+              "charEnd": 76,
+              "startMs": 4660,
+              "endMs": 5200
+            },
+            {
+              "word": "day",
+              "charStart": 77,
+              "charEnd": 80,
+              "startMs": 5200,
+              "endMs": 5420
+            }
+          ]
+        },
+        {
+          "text": "Soon, other neighbors noticed and decided to build more shelters together.",
+          "translation_ko": "얼마 지나지 않아 다른 이웃들도 알아채고 함께 쉼터를 더 만들기로 했어요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p13-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Soon",
+              "charStart": 0,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 540
+            },
+            {
+              "word": "other",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 800,
+              "endMs": 1000
+            },
+            {
+              "word": "neighbors",
+              "charStart": 12,
+              "charEnd": 21,
+              "startMs": 1000,
+              "endMs": 1360
+            },
+            {
+              "word": "noticed",
+              "charStart": 22,
+              "charEnd": 29,
+              "startMs": 1360,
+              "endMs": 1800
+            },
+            {
+              "word": "and",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1800,
+              "endMs": 2280
+            },
+            {
+              "word": "decided",
+              "charStart": 34,
+              "charEnd": 41,
+              "startMs": 2280,
+              "endMs": 2640
+            },
+            {
+              "word": "to",
+              "charStart": 42,
+              "charEnd": 44,
+              "startMs": 2640,
+              "endMs": 3020
+            },
+            {
+              "word": "build",
+              "charStart": 45,
+              "charEnd": 50,
+              "startMs": 3020,
+              "endMs": 3120
+            },
+            {
+              "word": "more",
+              "charStart": 51,
+              "charEnd": 55,
+              "startMs": 3120,
+              "endMs": 3560
+            },
+            {
+              "word": "shelters",
+              "charStart": 56,
+              "charEnd": 64,
+              "startMs": 3560,
+              "endMs": 3900
+            },
+            {
+              "word": "together",
+              "charStart": 65,
+              "charEnd": 73,
+              "startMs": 3900,
+              "endMs": 4320
+            }
+          ]
+        },
+        {
+          "text": "A small act of kindness had brought their whole community closer.",
+          "translation_ko": "작은 친절이 동네 전체를 더 가깝게 만든 거예요.",
+          "audio": "/seed/daily-193-the-stray-cat-shelter/audio/p13-s3.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "word": "small",
+              "charStart": 2,
+              "charEnd": 7,
+              "startMs": 240,
+              "endMs": 760
+            },
+            {
+              "word": "act",
+              "charStart": 8,
+              "charEnd": 11,
+              "startMs": 760,
+              "endMs": 1100
+            },
+            {
+              "word": "of",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 1100,
+              "endMs": 1800
+            },
+            {
+              "word": "kindness",
+              "charStart": 15,
+              "charEnd": 23,
+              "startMs": 1800,
+              "endMs": 1800
+            },
+            {
+              "word": "had",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1800,
+              "endMs": 2320
+            },
+            {
+              "word": "brought",
+              "charStart": 28,
+              "charEnd": 35,
+              "startMs": 2320,
+              "endMs": 2520
+            },
+            {
+              "word": "their",
+              "charStart": 36,
+              "charEnd": 41,
+              "startMs": 2520,
+              "endMs": 2780
+            },
+            {
+              "word": "whole",
+              "charStart": 42,
+              "charEnd": 47,
+              "startMs": 2780,
+              "endMs": 3160
+            },
+            {
+              "word": "community",
+              "charStart": 48,
+              "charEnd": 57,
+              "startMs": 3160,
+              "endMs": 3540
+            },
+            {
+              "word": "closer",
+              "charStart": 58,
+              "charEnd": 64,
+              "startMs": 3540,
+              "endMs": 3960
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "Jun이 학교 정문 근처에서 발견한 것은 무엇이었나요?",
+      "type": "mc",
+      "options": [
+        "떨고 있는 길고양이",
+        "잃어버린 강아지",
+        "다친 새",
+        "울고 있는 아이"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "이야기 첫 부분에서 Jun은 학교 정문 근처에서 추위에 떨고 있는 길고양이를 발견했어요."
+    },
+    {
+      "question_ko": "쉼터를 만들기 위해 사용하지 않은 재료는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "페인트 통",
+        "나무 상자",
+        "발포 보드",
+        "두꺼운 담요"
+      ],
+      "answerIndex": 0,
+      "explain_ko": "나무 상자, 발포 보드, 두꺼운 담요는 사용했지만 페인트 통은 이야기에 나오지 않아요."
+    },
+    {
+      "question_ko": "엄마가 쉼터 입구 가장자리를 테이프로 붙인 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "쉼터를 예쁘게 꾸미려고",
+        "바람이 들어오지 않게 하려고",
+        "아무도 다치지 않도록",
+        "입구를 더 작게 만들려고"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "엄마는 날카로운 가장자리에 아무도 다치지 않도록 테이프로 조심스럽게 붙였어요."
+    },
+    {
+      "question_ko": "다음 날 아침 쉼터를 확인했을 때 알게 된 사실은 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "고양이가 쉼터를 떠났다",
+        "담요가 젖어 있었다",
+        "밥그릇이 비어 있고 담요가 따뜻했다",
+        "쉼터가 부서져 있었다"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "다음 날 아침 밥그릇은 비어 있고 담요는 따뜻했어요. 고양이가 밤새 쉼터에서 지냈다는 것을 알 수 있었어요."
+    },
+    {
+      "question_ko": "이 이야기에서 Jun과 Mina의 작은 친절이 가져온 결과는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "학교에서 상을 받았다",
+        "다른 이웃들도 함께 쉼터를 더 만들기로 했다",
+        "시에서 지원금을 보내 주었다",
+        "고양이가 그들의 집에서 살게 됐다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "Jun과 Mina의 친절한 행동을 보고 이웃들도 함께 쉼터를 더 만들기로 했어요. 동네 전체가 더 가까워졌답니다."
+    }
+  ]
+}

@@ -1,0 +1,1408 @@
+{
+  "slug": "the-sock-thief-mystery",
+  "title": "The Sock Thief Mystery",
+  "title_ko": "사라진 양말의 비밀",
+  "level": "A2",
+  "ageBand": "8-10",
+  "summary_ko": "빨랫줄에서 양말이 자꾸 사라지자, 강아지 탐정이 단서를 따라 범인을 찾는 이야기.",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "text": "Three pairs of socks vanished from the line.",
+          "translation_ko": "빨랫줄에서 양말 세 켤레가 사라졌어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p1-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Three",
+              "charStart": 0,
+              "charEnd": 5,
+              "startMs": 0,
+              "endMs": 480
+            },
+            {
+              "word": "pairs",
+              "charStart": 6,
+              "charEnd": 11,
+              "startMs": 480,
+              "endMs": 860
+            },
+            {
+              "word": "of",
+              "charStart": 12,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1600
+            },
+            {
+              "word": "socks",
+              "charStart": 15,
+              "charEnd": 20,
+              "startMs": 1600,
+              "endMs": 1600
+            },
+            {
+              "word": "vanished",
+              "charStart": 21,
+              "charEnd": 29,
+              "startMs": 1600,
+              "endMs": 2100
+            },
+            {
+              "word": "from",
+              "charStart": 30,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2380
+            },
+            {
+              "word": "the",
+              "charStart": 35,
+              "charEnd": 38,
+              "startMs": 2380,
+              "endMs": 2520
+            },
+            {
+              "word": "line",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2520,
+              "endMs": 2820
+            }
+          ]
+        },
+        {
+          "text": "Rex the puppy detective sniffed the air.",
+          "translation_ko": "강아지 탐정 렉스가 코를 킁킁거렸어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p1-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "the",
+              "charStart": 4,
+              "charEnd": 7,
+              "startMs": 340,
+              "endMs": 540
+            },
+            {
+              "word": "puppy",
+              "charStart": 8,
+              "charEnd": 13,
+              "startMs": 540,
+              "endMs": 800
+            },
+            {
+              "word": "detective",
+              "charStart": 14,
+              "charEnd": 23,
+              "startMs": 800,
+              "endMs": 1360
+            },
+            {
+              "word": "sniffed",
+              "charStart": 24,
+              "charEnd": 31,
+              "startMs": 1360,
+              "endMs": 2160
+            },
+            {
+              "word": "the",
+              "charStart": 32,
+              "charEnd": 35,
+              "startMs": 2160,
+              "endMs": 2280
+            },
+            {
+              "word": "air",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2280,
+              "endMs": 2560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Someone took my socks!\" cried Mama Bear.",
+          "translation_ko": "\"누군가 내 양말을 가져갔어!\" 엄마 곰이 외쳤어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p2-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Someone",
+              "charStart": 1,
+              "charEnd": 8,
+              "startMs": 0,
+              "endMs": 720
+            },
+            {
+              "word": "took",
+              "charStart": 9,
+              "charEnd": 13,
+              "startMs": 720,
+              "endMs": 1000
+            },
+            {
+              "word": "my",
+              "charStart": 14,
+              "charEnd": 16,
+              "startMs": 1000,
+              "endMs": 1420
+            },
+            {
+              "word": "socks",
+              "charStart": 17,
+              "charEnd": 22,
+              "startMs": 1420,
+              "endMs": 2420
+            },
+            {
+              "word": "cried",
+              "charStart": 25,
+              "charEnd": 30,
+              "startMs": 2420,
+              "endMs": 2960
+            },
+            {
+              "word": "Mama",
+              "charStart": 31,
+              "charEnd": 35,
+              "startMs": 2960,
+              "endMs": 3260
+            },
+            {
+              "word": "Bear",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 3260,
+              "endMs": 3640
+            }
+          ]
+        },
+        {
+          "text": "Rex said, \"I will find the thief today.\"",
+          "translation_ko": "렉스가 말했어요. \"제가 오늘 범인을 찾아볼게요.\"",
+          "audio": "/seed/the-sock-thief-mystery/audio/p2-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "said",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 400,
+              "endMs": 760
+            },
+            {
+              "word": "I",
+              "charStart": 11,
+              "charEnd": 12,
+              "startMs": 900,
+              "endMs": 1320
+            },
+            {
+              "word": "will",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1320,
+              "endMs": 1540
+            },
+            {
+              "word": "find",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 1540,
+              "endMs": 1780
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1780,
+              "endMs": 2120
+            },
+            {
+              "word": "thief",
+              "charStart": 27,
+              "charEnd": 32,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "today",
+              "charStart": 33,
+              "charEnd": 38,
+              "startMs": 2300,
+              "endMs": 2700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Rex found a blue feather near the basket.",
+          "translation_ko": "렉스는 바구니 근처에서 파란 깃털을 발견했어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p3-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "found",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 340,
+              "endMs": 720
+            },
+            {
+              "word": "a",
+              "charStart": 10,
+              "charEnd": 11,
+              "startMs": 720,
+              "endMs": 960
+            },
+            {
+              "word": "blue",
+              "charStart": 12,
+              "charEnd": 16,
+              "startMs": 960,
+              "endMs": 1200
+            },
+            {
+              "word": "feather",
+              "charStart": 17,
+              "charEnd": 24,
+              "startMs": 1200,
+              "endMs": 1420
+            },
+            {
+              "word": "near",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1420,
+              "endMs": 1640
+            },
+            {
+              "word": "the",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 1640,
+              "endMs": 1860
+            },
+            {
+              "word": "basket",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 1860,
+              "endMs": 2160
+            }
+          ]
+        },
+        {
+          "text": "He picked it up because it was a clue.",
+          "translation_ko": "그것이 단서였기 때문에 렉스는 깃털을 집어 들었어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p3-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "picked",
+              "charStart": 3,
+              "charEnd": 9,
+              "startMs": 280,
+              "endMs": 560
+            },
+            {
+              "word": "it",
+              "charStart": 10,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 760
+            },
+            {
+              "word": "up",
+              "charStart": 13,
+              "charEnd": 15,
+              "startMs": 760,
+              "endMs": 980
+            },
+            {
+              "word": "because",
+              "charStart": 16,
+              "charEnd": 23,
+              "startMs": 980,
+              "endMs": 1380
+            },
+            {
+              "word": "it",
+              "charStart": 24,
+              "charEnd": 26,
+              "startMs": 1380,
+              "endMs": 1540
+            },
+            {
+              "word": "was",
+              "charStart": 27,
+              "charEnd": 30,
+              "startMs": 1540,
+              "endMs": 1680
+            },
+            {
+              "word": "a",
+              "charStart": 31,
+              "charEnd": 32,
+              "startMs": 1680,
+              "endMs": 1940
+            },
+            {
+              "word": "clue",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 1940,
+              "endMs": 2080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Two tiny footprints led away from the yard.",
+          "translation_ko": "작은 발자국 두 개가 마당에서 이어져 있었어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p4-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Two",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "tiny",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 640,
+              "endMs": 1040
+            },
+            {
+              "word": "footprints",
+              "charStart": 9,
+              "charEnd": 19,
+              "startMs": 1040,
+              "endMs": 1460
+            },
+            {
+              "word": "led",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1460,
+              "endMs": 1800
+            },
+            {
+              "word": "away",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2000
+            },
+            {
+              "word": "from",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2000,
+              "endMs": 2200
+            },
+            {
+              "word": "the",
+              "charStart": 34,
+              "charEnd": 37,
+              "startMs": 2200,
+              "endMs": 2460
+            },
+            {
+              "word": "yard",
+              "charStart": 38,
+              "charEnd": 42,
+              "startMs": 2460,
+              "endMs": 2560
+            }
+          ]
+        },
+        {
+          "text": "Rex followed them when the wind blew cold.",
+          "translation_ko": "바람이 차가워질 때 렉스는 발자국을 따라갔어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p4-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 380
+            },
+            {
+              "word": "followed",
+              "charStart": 4,
+              "charEnd": 12,
+              "startMs": 380,
+              "endMs": 720
+            },
+            {
+              "word": "them",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 720,
+              "endMs": 980
+            },
+            {
+              "word": "when",
+              "charStart": 18,
+              "charEnd": 22,
+              "startMs": 980,
+              "endMs": 1120
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1120,
+              "endMs": 1420
+            },
+            {
+              "word": "wind",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1420,
+              "endMs": 1500
+            },
+            {
+              "word": "blew",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1500,
+              "endMs": 1800
+            },
+            {
+              "word": "cold",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 1800,
+              "endMs": 2140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The trail went through the tall green bushes.",
+          "translation_ko": "발자국은 키 큰 초록 덤불을 지나 이어졌어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p5-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 200
+            },
+            {
+              "word": "trail",
+              "charStart": 4,
+              "charEnd": 9,
+              "startMs": 200,
+              "endMs": 520
+            },
+            {
+              "word": "went",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 520,
+              "endMs": 820
+            },
+            {
+              "word": "through",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 820,
+              "endMs": 1020
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1020,
+              "endMs": 1240
+            },
+            {
+              "word": "tall",
+              "charStart": 27,
+              "charEnd": 31,
+              "startMs": 1240,
+              "endMs": 1580
+            },
+            {
+              "word": "green",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 1580,
+              "endMs": 1920
+            },
+            {
+              "word": "bushes",
+              "charStart": 38,
+              "charEnd": 44,
+              "startMs": 1920,
+              "endMs": 2200
+            }
+          ]
+        },
+        {
+          "text": "Rex stopped because he heard a rattling sound.",
+          "translation_ko": "달가닥거리는 소리가 들려서 렉스는 멈춰 섰어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p5-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "stopped",
+              "charStart": 4,
+              "charEnd": 11,
+              "startMs": 340,
+              "endMs": 740
+            },
+            {
+              "word": "because",
+              "charStart": 12,
+              "charEnd": 19,
+              "startMs": 740,
+              "endMs": 1440
+            },
+            {
+              "word": "he",
+              "charStart": 20,
+              "charEnd": 22,
+              "startMs": 1440,
+              "endMs": 1640
+            },
+            {
+              "word": "heard",
+              "charStart": 23,
+              "charEnd": 28,
+              "startMs": 1640,
+              "endMs": 1880
+            },
+            {
+              "word": "a",
+              "charStart": 29,
+              "charEnd": 30,
+              "startMs": 1880,
+              "endMs": 2220
+            },
+            {
+              "word": "rattling",
+              "charStart": 31,
+              "charEnd": 39,
+              "startMs": 2220,
+              "endMs": 2420
+            },
+            {
+              "word": "sound",
+              "charStart": 40,
+              "charEnd": 45,
+              "startMs": 2420,
+              "endMs": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A big old oak tree stood in the field.",
+          "translation_ko": "들판에 커다란 오래된 참나무가 서 있었어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p6-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 280
+            },
+            {
+              "word": "big",
+              "charStart": 2,
+              "charEnd": 5,
+              "startMs": 280,
+              "endMs": 640
+            },
+            {
+              "word": "old",
+              "charStart": 6,
+              "charEnd": 9,
+              "startMs": 640,
+              "endMs": 1000
+            },
+            {
+              "word": "oak",
+              "charStart": 10,
+              "charEnd": 13,
+              "startMs": 1000,
+              "endMs": 1280
+            },
+            {
+              "word": "tree",
+              "charStart": 14,
+              "charEnd": 18,
+              "startMs": 1280,
+              "endMs": 1600
+            },
+            {
+              "word": "stood",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1600,
+              "endMs": 1940
+            },
+            {
+              "word": "in",
+              "charStart": 25,
+              "charEnd": 27,
+              "startMs": 1940,
+              "endMs": 2140
+            },
+            {
+              "word": "the",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 2140,
+              "endMs": 2340
+            },
+            {
+              "word": "field",
+              "charStart": 32,
+              "charEnd": 37,
+              "startMs": 2340,
+              "endMs": 2600
+            }
+          ]
+        },
+        {
+          "text": "Rex looked up and saw a cozy round nest.",
+          "translation_ko": "렉스가 위를 올려다보니 아늑한 둥근 둥지가 보였어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p6-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 640
+            },
+            {
+              "word": "looked",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 640,
+              "endMs": 880
+            },
+            {
+              "word": "up",
+              "charStart": 11,
+              "charEnd": 13,
+              "startMs": 880,
+              "endMs": 1120
+            },
+            {
+              "word": "and",
+              "charStart": 14,
+              "charEnd": 17,
+              "startMs": 1120,
+              "endMs": 1400
+            },
+            {
+              "word": "saw",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1400,
+              "endMs": 1520
+            },
+            {
+              "word": "a",
+              "charStart": 22,
+              "charEnd": 23,
+              "startMs": 1520,
+              "endMs": 1800
+            },
+            {
+              "word": "cozy",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 1800,
+              "endMs": 2100
+            },
+            {
+              "word": "round",
+              "charStart": 29,
+              "charEnd": 34,
+              "startMs": 2100,
+              "endMs": 2480
+            },
+            {
+              "word": "nest",
+              "charStart": 35,
+              "charEnd": 39,
+              "startMs": 2480,
+              "endMs": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "A magpie sat there with bright shiny eyes.",
+          "translation_ko": "반짝반짝 빛나는 눈을 가진 까치가 그곳에 앉아 있었어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p7-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "A",
+              "charStart": 0,
+              "charEnd": 1,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "magpie",
+              "charStart": 2,
+              "charEnd": 8,
+              "startMs": 220,
+              "endMs": 700
+            },
+            {
+              "word": "sat",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 700,
+              "endMs": 1060
+            },
+            {
+              "word": "there",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 1060,
+              "endMs": 1380
+            },
+            {
+              "word": "with",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1380,
+              "endMs": 1840
+            },
+            {
+              "word": "bright",
+              "charStart": 24,
+              "charEnd": 30,
+              "startMs": 1840,
+              "endMs": 2200
+            },
+            {
+              "word": "shiny",
+              "charStart": 31,
+              "charEnd": 36,
+              "startMs": 2200,
+              "endMs": 2540
+            },
+            {
+              "word": "eyes",
+              "charStart": 37,
+              "charEnd": 41,
+              "startMs": 2540,
+              "endMs": 2960
+            }
+          ]
+        },
+        {
+          "text": "The nest was lined with red and blue socks.",
+          "translation_ko": "둥지 안쪽은 빨간색과 파란색 양말로 채워져 있었어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p7-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 340
+            },
+            {
+              "word": "nest",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 340,
+              "endMs": 560
+            },
+            {
+              "word": "was",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 560,
+              "endMs": 780
+            },
+            {
+              "word": "lined",
+              "charStart": 13,
+              "charEnd": 18,
+              "startMs": 780,
+              "endMs": 1060
+            },
+            {
+              "word": "with",
+              "charStart": 19,
+              "charEnd": 23,
+              "startMs": 1060,
+              "endMs": 1420
+            },
+            {
+              "word": "red",
+              "charStart": 24,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1600
+            },
+            {
+              "word": "and",
+              "charStart": 28,
+              "charEnd": 31,
+              "startMs": 1600,
+              "endMs": 1840
+            },
+            {
+              "word": "blue",
+              "charStart": 32,
+              "charEnd": 36,
+              "startMs": 1840,
+              "endMs": 2020
+            },
+            {
+              "word": "socks",
+              "charStart": 37,
+              "charEnd": 42,
+              "startMs": 2020,
+              "endMs": 2420
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "\"Why did you take our socks?\" Rex asked.",
+          "translation_ko": "\"왜 우리 양말을 가져갔나요?\" 렉스가 물었어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p8-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Why",
+              "charStart": 1,
+              "charEnd": 4,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "did",
+              "charStart": 5,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 760
+            },
+            {
+              "word": "you",
+              "charStart": 9,
+              "charEnd": 12,
+              "startMs": 760,
+              "endMs": 1180
+            },
+            {
+              "word": "take",
+              "charStart": 13,
+              "charEnd": 17,
+              "startMs": 1180,
+              "endMs": 1480
+            },
+            {
+              "word": "our",
+              "charStart": 18,
+              "charEnd": 21,
+              "startMs": 1480,
+              "endMs": 1920
+            },
+            {
+              "word": "socks",
+              "charStart": 22,
+              "charEnd": 27,
+              "startMs": 1920,
+              "endMs": 2900
+            },
+            {
+              "word": "Rex",
+              "charStart": 30,
+              "charEnd": 33,
+              "startMs": 2900,
+              "endMs": 2960
+            },
+            {
+              "word": "asked",
+              "charStart": 34,
+              "charEnd": 39,
+              "startMs": 2960,
+              "endMs": 3420
+            }
+          ]
+        },
+        {
+          "text": "The magpie said, \"My chicks were cold at night.\"",
+          "translation_ko": "까치가 말했어요. \"밤에 새끼들이 추웠거든요.\"",
+          "audio": "/seed/the-sock-thief-mystery/audio/p8-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 320
+            },
+            {
+              "word": "magpie",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 320,
+              "endMs": 540
+            },
+            {
+              "word": "said",
+              "charStart": 11,
+              "charEnd": 15,
+              "startMs": 540,
+              "endMs": 900
+            },
+            {
+              "word": "My",
+              "charStart": 18,
+              "charEnd": 20,
+              "startMs": 1260,
+              "endMs": 1420
+            },
+            {
+              "word": "chicks",
+              "charStart": 21,
+              "charEnd": 27,
+              "startMs": 1420,
+              "endMs": 1760
+            },
+            {
+              "word": "were",
+              "charStart": 28,
+              "charEnd": 32,
+              "startMs": 1760,
+              "endMs": 2120
+            },
+            {
+              "word": "cold",
+              "charStart": 33,
+              "charEnd": 37,
+              "startMs": 2120,
+              "endMs": 2300
+            },
+            {
+              "word": "at",
+              "charStart": 38,
+              "charEnd": 40,
+              "startMs": 2300,
+              "endMs": 2560
+            },
+            {
+              "word": "night",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2560,
+              "endMs": 2720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "Rex felt sorry because the chicks looked small.",
+          "translation_ko": "새끼들이 작아 보여서 렉스는 마음이 짠해졌어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p9-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 440
+            },
+            {
+              "word": "felt",
+              "charStart": 4,
+              "charEnd": 8,
+              "startMs": 440,
+              "endMs": 820
+            },
+            {
+              "word": "sorry",
+              "charStart": 9,
+              "charEnd": 14,
+              "startMs": 820,
+              "endMs": 1300
+            },
+            {
+              "word": "because",
+              "charStart": 15,
+              "charEnd": 22,
+              "startMs": 1300,
+              "endMs": 1860
+            },
+            {
+              "word": "the",
+              "charStart": 23,
+              "charEnd": 26,
+              "startMs": 1860,
+              "endMs": 2080
+            },
+            {
+              "word": "chicks",
+              "charStart": 27,
+              "charEnd": 33,
+              "startMs": 2080,
+              "endMs": 2360
+            },
+            {
+              "word": "looked",
+              "charStart": 34,
+              "charEnd": 40,
+              "startMs": 2360,
+              "endMs": 2720
+            },
+            {
+              "word": "small",
+              "charStart": 41,
+              "charEnd": 46,
+              "startMs": 2720,
+              "endMs": 3140
+            }
+          ]
+        },
+        {
+          "text": "He said, \"Keep two socks when it is cold.\"",
+          "translation_ko": "렉스가 말했어요. \"추울 때는 양말 두 켤레를 가져도 돼요.\"",
+          "audio": "/seed/the-sock-thief-mystery/audio/p9-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "He",
+              "charStart": 0,
+              "charEnd": 2,
+              "startMs": 0,
+              "endMs": 220
+            },
+            {
+              "word": "said",
+              "charStart": 3,
+              "charEnd": 7,
+              "startMs": 220,
+              "endMs": 500
+            },
+            {
+              "word": "Keep",
+              "charStart": 10,
+              "charEnd": 14,
+              "startMs": 860,
+              "endMs": 1040
+            },
+            {
+              "word": "two",
+              "charStart": 15,
+              "charEnd": 18,
+              "startMs": 1040,
+              "endMs": 1360
+            },
+            {
+              "word": "socks",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1360,
+              "endMs": 1700
+            },
+            {
+              "word": "when",
+              "charStart": 25,
+              "charEnd": 29,
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "word": "it",
+              "charStart": 30,
+              "charEnd": 32,
+              "startMs": 2000,
+              "endMs": 2120
+            },
+            {
+              "word": "is",
+              "charStart": 33,
+              "charEnd": 35,
+              "startMs": 2120,
+              "endMs": 2320
+            },
+            {
+              "word": "cold",
+              "charStart": 36,
+              "charEnd": 40,
+              "startMs": 2320,
+              "endMs": 2520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "text": "The magpie returned the rest with a bow.",
+          "translation_ko": "까치는 나머지 양말을 꾸벅 인사하며 돌려줬어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p10-s1.mp3",
+          "wordTimings": [
+            {
+              "word": "The",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 600
+            },
+            {
+              "word": "magpie",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 600,
+              "endMs": 1140
+            },
+            {
+              "word": "returned",
+              "charStart": 11,
+              "charEnd": 19,
+              "startMs": 1140,
+              "endMs": 1900
+            },
+            {
+              "word": "the",
+              "charStart": 20,
+              "charEnd": 23,
+              "startMs": 1900,
+              "endMs": 2120
+            },
+            {
+              "word": "rest",
+              "charStart": 24,
+              "charEnd": 28,
+              "startMs": 2120,
+              "endMs": 2420
+            },
+            {
+              "word": "with",
+              "charStart": 29,
+              "charEnd": 33,
+              "startMs": 2420,
+              "endMs": 2660
+            },
+            {
+              "word": "a",
+              "charStart": 34,
+              "charEnd": 35,
+              "startMs": 2660,
+              "endMs": 2980
+            },
+            {
+              "word": "bow",
+              "charStart": 36,
+              "charEnd": 39,
+              "startMs": 2980,
+              "endMs": 2980
+            }
+          ]
+        },
+        {
+          "text": "Rex smiled because every mystery has a kind end.",
+          "translation_ko": "모든 수수께끼에는 다정한 결말이 있기 때문에 렉스는 미소 지었어요.",
+          "audio": "/seed/the-sock-thief-mystery/audio/p10-s2.mp3",
+          "wordTimings": [
+            {
+              "word": "Rex",
+              "charStart": 0,
+              "charEnd": 3,
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "word": "smiled",
+              "charStart": 4,
+              "charEnd": 10,
+              "startMs": 400,
+              "endMs": 880
+            },
+            {
+              "word": "because",
+              "charStart": 11,
+              "charEnd": 18,
+              "startMs": 880,
+              "endMs": 1460
+            },
+            {
+              "word": "every",
+              "charStart": 19,
+              "charEnd": 24,
+              "startMs": 1460,
+              "endMs": 1920
+            },
+            {
+              "word": "mystery",
+              "charStart": 25,
+              "charEnd": 32,
+              "startMs": 1920,
+              "endMs": 2260
+            },
+            {
+              "word": "has",
+              "charStart": 33,
+              "charEnd": 36,
+              "startMs": 2260,
+              "endMs": 2580
+            },
+            {
+              "word": "a",
+              "charStart": 37,
+              "charEnd": 38,
+              "startMs": 2580,
+              "endMs": 2740
+            },
+            {
+              "word": "kind",
+              "charStart": 39,
+              "charEnd": 43,
+              "startMs": 2740,
+              "endMs": 3040
+            },
+            {
+              "word": "end",
+              "charStart": 44,
+              "charEnd": 47,
+              "startMs": 3040,
+              "endMs": 3400
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "words": {},
+  "quiz": [
+    {
+      "question_ko": "누가 양말을 가져갔나요?",
+      "type": "mc",
+      "options": [
+        "강아지 렉스",
+        "엄마 곰",
+        "까치",
+        "바람"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "까치가 새끼들을 따뜻하게 하려고 양말을 둥지에 가져다 썼어요."
+    },
+    {
+      "question_ko": "렉스가 바구니 근처에서 발견한 단서는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "빨간 열매",
+        "파란 깃털",
+        "작은 돌멩이",
+        "젖은 양말"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "렉스는 바구니 근처에서 파란 깃털을 발견하고 그것을 단서로 삼았어요."
+    },
+    {
+      "question_ko": "까치가 양말을 가져간 이유는 무엇인가요?",
+      "type": "mc",
+      "options": [
+        "양말이 예뻐서",
+        "장난을 치려고",
+        "새끼들이 추워서",
+        "둥지를 꾸미려고"
+      ],
+      "answerIndex": 2,
+      "explain_ko": "까치는 밤에 새끼들이 추웠기 때문에 양말로 둥지를 따뜻하게 만들었어요."
+    },
+    {
+      "question_ko": "렉스와 까치는 어떤 약속을 했나요?",
+      "type": "mc",
+      "options": [
+        "다시는 양말을 안 가져간다",
+        "추울 때 양말 두 켤레를 가져도 된다",
+        "나무 위에 새 둥지를 만든다",
+        "양말을 모두 돌려준다"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "렉스는 추울 때 양말 두 켤레는 가져도 된다고 말하며 까치와 사이좋게 해결했어요."
+    },
+    {
+      "question_ko": "이 이야기에서 양말은 어디에서 사라졌나요?",
+      "type": "mc",
+      "options": [
+        "서랍 안에서",
+        "빨랫줄에서",
+        "세탁기 속에서",
+        "침대 밑에서"
+      ],
+      "answerIndex": 1,
+      "explain_ko": "양말은 빨랫줄에서 사라졌고, 렉스가 단서를 따라 범인을 찾았어요."
+    }
+  ]
+}

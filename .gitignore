@@ -55,3 +55,6 @@ public/seed/**/*.png
 .vqa-tmp/
 .tqa-tmp/
 **/.vision-qa-3way.json
+
+# 로컬 육안 검수 컨택트시트(배포 제외)
+public/_qa/

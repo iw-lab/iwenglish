@@ -21,7 +21,6 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@google/genai": "^2.8.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.4.0",
     "framer-motion": "^12.40.0",

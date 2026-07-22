@@ -10,7 +10,6 @@ export const env = {
 
 /** 서버 전용 시크릿 (클라이언트 번들에 들어가면 안 됨) */
 export const serverEnv = {
-  geminiApiKey: process.env.GEMINI_API_KEY ?? "",
   openaiApiKey: process.env.OPENAI_API_KEY ?? "",
   myVoiceBaseUrl: process.env.MYVOICE_BASE_URL ?? "",
   myVoiceApiKey: process.env.MYVOICE_API_KEY ?? "",
@@ -18,7 +17,6 @@ export const serverEnv = {
 
 /** 각 외부 서비스 사용 가능 여부 (선택 기능 UI 분기용) */
 export const featureAvailability = {
-  gemini: () => Boolean(serverEnv.geminiApiKey),
   openai: () => Boolean(serverEnv.openaiApiKey),
   myVoice: () => Boolean(serverEnv.myVoiceBaseUrl && serverEnv.myVoiceApiKey),
 };

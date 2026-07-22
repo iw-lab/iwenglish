@@ -1,8 +1,6 @@
 import { NextResponse } from "next/server";
 import { normalizeWord } from "@/lib/utils";
 import { lookupDictionary } from "@/lib/dictionary";
-import { geminiWordMeaning } from "@/lib/gemini";
-import { featureAvailability } from "@/lib/env";
 import { getStaticWord, localWordAudio } from "@/lib/data/staticBooks";
 import type { Word } from "@/types/book";
 
@@ -21,7 +19,7 @@ export async function GET(request: Request) {
   if (seeded && seeded.meaning_ko)
     return NextResponse.json({ ...seeded, audioUrl: localAudio || seeded.audioUrl });
 
-  // 2) 런타임 조회 (dictionary + gemini)
+  // 2) 런타임 조회 (dictionary)
   const dict = await lookupDictionary(word);
   if (!dict) {
     // 뜻은 못 찾아도 로컬 발음이 있으면 음성만이라도 제공(폴백 방지)
@@ -39,26 +37,15 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "not found" }, { status: 404 });
   }
 
-  let meaning_ko = "";
-  let example_en = dict.example_en;
-  let example_ko = "";
-  if (featureAvailability.gemini()) {
-    const g = await geminiWordMeaning(word, dict.pos, dict.definition_en);
-    if (g) {
-      meaning_ko = g.meaning_ko;
-      example_en = g.example_en || example_en;
-      example_ko = g.example_ko;
-    }
-  }
-
+  // 뜻·예문은 정적 사전에서만 (Gemini API 경로 제거됨 — 2026-07-12)
   const result: Word = {
     text: word,
     lemma: word,
     ipa: dict.ipa,
     pos: dict.pos,
-    meaning_ko: meaning_ko || dict.definition_en,
-    example_en,
-    example_ko,
+    meaning_ko: dict.definition_en,
+    example_en: dict.example_en,
+    example_ko: "",
     audioUrl: localAudio || dict.audioUrl,
   };
 

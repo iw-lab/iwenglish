@@ -112,11 +112,31 @@
   line-height: 1.7;
 }
 
-/* 카라오케: 현재 읽는 단어 */
+/* 카라오케: 현재 읽는 단어(원어민 트랙) */
 @utility word-active {
   background-color: var(--highlight);
   border-radius: 0.35rem;
   box-shadow: 0 0 0 3px var(--highlight);
+}
+
+/* 쉐도잉: 내가 따라 말할 단어(원어민보다 한 박자 뒤처진 "내 차례" 트랙).
+   원어민 하이라이트와 동시에 걸릴 수 있으므로 배경이 아닌 밑줄+색으로 구분한다. */
+@utility word-echo {
+  border-radius: 0.35rem;
+  color: var(--accent);
+  font-weight: 800;
+  box-shadow: inset 0 -0.28em 0 0 color-mix(in oklch, var(--accent) 30%, transparent);
+}
+
+/* 쉐도잉 안내 배너 숨쉬기 */
+@keyframes echotale-echo-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.55;
+  }
 }
 
 /* 따라 말하기 간격 진행바 */
@@ -141,6 +161,13 @@
 }
 .shelf-row::-webkit-scrollbar {
   display: none;
+}
+
+/* 오프스크린 선반은 렌더(레이아웃·페인트)를 건너뛴다 — 352권 서재를 저사양 기기에서
+   가볍게. 화면에 들어오면 자동으로 렌더되고, intrinsic-size로 스크롤 점프를 막는다. */
+@utility shelf-cv {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 260px;
 }
 
 /* 모던 카드 — 색 틴트 소프트 섀도 + 호버 리프트 */

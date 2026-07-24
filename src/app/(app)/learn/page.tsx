@@ -6,7 +6,8 @@ export default function LearnPage() {
       <section>
         <h1 className="text-2xl font-extrabold tracking-tight">단어 학습</h1>
         <p className="font-ko text-sm text-muted-foreground">
-          간격반복(SRS) 플래시카드로 단어를 오래 기억해요.
+          듣기·뜻·빈칸·철자 문제로 진짜 아는지 확인하고, 간격반복(SRS)으로 오래
+          기억해요.
         </p>
       </section>
 

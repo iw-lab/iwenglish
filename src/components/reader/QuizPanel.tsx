@@ -4,33 +4,60 @@ import { useState } from "react";
 import { Check, X, RotateCcw, ArrowRight, Trophy } from "lucide-react";
 import type { QuizQuestion } from "@/types/book";
 import { Button } from "@/components/ui/Button";
+import { isQuizPassed, QUIZ_PASS_RATIO } from "@/lib/learning";
+import { shuffle } from "@/lib/quizEngine";
 import { cn } from "@/lib/utils";
 
-/** 책을 다 읽은 뒤 이해 퀴즈 (한 문제씩, 즉시 피드백, 최종 점수) */
+/** 보기 순서까지 섞은 1회분 문제 (답 위치 암기 차단) */
+interface ShuffledQ {
+  q: QuizQuestion;
+  options: string[];
+  answerIndex: number;
+}
+
+const buildDeck = (quiz: QuizQuestion[]): ShuffledQ[] =>
+  shuffle(quiz).map((q) => {
+    const answer = q.options[q.answerIndex];
+    const options = shuffle(q.options);
+    return { q, options, answerIndex: options.indexOf(answer) };
+  });
+
+/**
+ * 책을 다 읽은 뒤 이해 퀴즈 (한 문제씩, 즉시 피드백, 최종 점수).
+ * 문항·보기를 매번 섞어 "답 위치 외우기"를 막고, 80% 이상이면 통과로 기록한다.
+ */
 export function QuizPanel({
   quiz,
   onClose,
+  onResult,
+  alreadyPassed = false,
 }: {
   quiz: QuizQuestion[];
   onClose: () => void;
+  /** 채점 완료 시 1회 호출 */
+  onResult?: (passed: boolean, score: number, total: number) => void;
+  alreadyPassed?: boolean;
 }) {
+  const [deck, setDeck] = useState<ShuffledQ[]>(() => buildDeck(quiz));
   const [idx, setIdx] = useState(0);
   const [picked, setPicked] = useState<number | null>(null);
   const [score, setScore] = useState(0);
   const [done, setDone] = useState(false);
 
-  const q = quiz[idx];
-  const last = idx === quiz.length - 1;
+  const cur = deck[idx];
+  const last = idx === deck.length - 1;
 
   const choose = (i: number) => {
     if (picked !== null) return;
     setPicked(i);
-    if (i === q.answerIndex) setScore((s) => s + 1);
+    if (i === cur.answerIndex) setScore((s) => s + 1);
   };
 
   const next = () => {
     if (last) {
+      const finalScore = score;
       setDone(true);
+      onResult?.(isQuizPassed(finalScore, deck.length), finalScore, deck.length);
     } else {
       setIdx((i) => i + 1);
       setPicked(null);
@@ -38,6 +65,7 @@ export function QuizPanel({
   };
 
   const restart = () => {
+    setDeck(buildDeck(quiz)); // 다시 풀 때마다 새로 섞는다
     setIdx(0);
     setPicked(null);
     setScore(0);
@@ -45,25 +73,26 @@ export function QuizPanel({
   };
 
   if (done) {
-    const pct = Math.round((score / quiz.length) * 100);
-    const great = pct >= 80;
+    const passed = isQuizPassed(score, deck.length);
     return (
       <div className="mx-auto max-w-md space-y-5 py-8 text-center">
         <Trophy
-          className={cn(
-            "mx-auto h-16 w-16",
-            great ? "text-warn" : "text-primary",
-          )}
+          className={cn("mx-auto h-16 w-16", passed ? "text-warn" : "text-primary")}
         />
         <div>
           <h2 className="text-2xl font-extrabold">
-            {score} / {quiz.length} 정답!
+            {score} / {deck.length} 정답!
           </h2>
           <p className="font-ko text-muted-foreground">
-            {great
-              ? "정말 잘했어요! 이야기를 완벽하게 이해했네요 🌟"
-              : "좋아요! 다시 읽어보면 더 잘할 수 있어요 💪"}
+            {passed
+              ? "통과! 이야기를 완벽하게 이해했네요 🌟"
+              : `조금만 더! ${Math.ceil(deck.length * QUIZ_PASS_RATIO)}개 이상 맞히면 통과예요 💪`}
           </p>
+          {passed && (
+            <p className="mt-1 font-ko text-sm font-semibold text-good">
+              이해 퀴즈 통과가 기록되었어요 ✓
+            </p>
+          )}
         </div>
         <div className="flex justify-center gap-2">
           <Button variant="outline" onClick={restart}>
@@ -79,7 +108,8 @@ export function QuizPanel({
     <div className="mx-auto max-w-md space-y-5 py-6">
       <div className="flex items-center justify-between text-sm text-muted-foreground">
         <span className="font-semibold">
-          이해 퀴즈 {idx + 1} / {quiz.length}
+          이해 퀴즈 {idx + 1} / {deck.length}
+          {alreadyPassed && <span className="ml-1.5 text-good">· 통과함 ✓</span>}
         </span>
         <button onClick={onClose} className="hover:text-foreground" aria-label="닫기">
           <X className="h-5 w-5" />
@@ -89,15 +119,17 @@ export function QuizPanel({
       <div className="h-1.5 w-full overflow-hidden rounded-full bg-muted">
         <div
           className="h-full rounded-full bg-primary transition-all"
-          style={{ width: `${((idx + (picked !== null ? 1 : 0)) / quiz.length) * 100}%` }}
+          style={{
+            width: `${((idx + (picked !== null ? 1 : 0)) / deck.length) * 100}%`,
+          }}
         />
       </div>
 
-      <h2 className="font-ko text-lg font-bold">{q.question_ko}</h2>
+      <h2 className="font-ko text-lg font-bold">{cur.q.question_ko}</h2>
 
       <div className="space-y-2">
-        {q.options.map((opt, i) => {
-          const isAnswer = i === q.answerIndex;
+        {cur.options.map((opt, i) => {
+          const isAnswer = i === cur.answerIndex;
           const isPicked = i === picked;
           const reveal = picked !== null;
           return (
@@ -124,7 +156,7 @@ export function QuizPanel({
       {picked !== null && (
         <div className="space-y-3">
           <p className="rounded-card bg-muted px-4 py-3 font-ko text-sm">
-            {q.explain_ko}
+            {cur.q.explain_ko}
           </p>
           <Button onClick={next} className="w-full">
             {last ? "결과 보기" : "다음 문제"} <ArrowRight className="h-4 w-4" />

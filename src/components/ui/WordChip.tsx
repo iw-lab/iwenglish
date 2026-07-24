@@ -18,10 +18,13 @@ import type { Word } from "@/types/book";
 export function WordChip({
   word,
   active,
+  echo,
   className,
 }: {
   word: string;
   active?: boolean;
+  /** 쉐도잉 "내 차례" 트랙 하이라이트 */
+  echo?: boolean;
   className?: string;
 }) {
   const [open, setOpen] = useState(false);
@@ -141,7 +144,12 @@ export function WordChip({
     }).catch(() => {});
   };
 
-  if (!tappable) return <span className={className}>{word}</span>;
+  if (!tappable)
+    return (
+      <span className={cn(active && "word-active", echo && "word-echo", className)}>
+        {word}
+      </span>
+    );
 
   return (
     <span ref={ref} className="relative inline-block">
@@ -154,6 +162,7 @@ export function WordChip({
         className={cn(
           "rounded-[0.35rem] px-0.5 transition-colors hover:bg-primary/15",
           active && "word-active",
+          echo && "word-echo",
           className,
         )}
       >

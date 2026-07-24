@@ -1,6 +1,31 @@
 import { describe, it, expect } from "vitest";
 import { tokenizeWords, normalizeWord, scoreColor } from "@/lib/utils";
-import { sm2 } from "@/lib/srs";
+import {
+  MIN_COVERAGE,
+  READS_TO_COMPLETE,
+  SHADOW_STEPS,
+  addDaysISO,
+  allQuestsDone,
+  coverageRatio,
+  diffDaysISO,
+  echoIndexAt,
+  emptyDay,
+  evaluateStamp,
+  isQuizPassed,
+  todayISO,
+  wordIndexAt,
+  ymd,
+} from "@/lib/learning";
+import {
+  buildPlacement,
+  buildWordQuestion,
+  checkSpelling,
+  kindsForBox,
+  recommendLevel,
+  shuffle,
+  type QuizWord,
+} from "@/lib/quizEngine";
+import type { WordTiming } from "@/types/book";
 
 describe("tokenizeWords", () => {
   it("단어와 charStart/charEnd 를 정확히 추출한다", () => {
@@ -32,21 +57,334 @@ describe("scoreColor", () => {
   });
 });
 
-describe("sm2", () => {
-  const now = new Date("2026-01-01T00:00:00Z");
-  it("실패(q<3)면 반복 초기화 + 1일 후", () => {
-    const r = sm2(2, { ef: 2.5, repetitions: 5, intervalDays: 30 }, now);
-    expect(r.repetitions).toBe(0);
-    expect(r.intervalDays).toBe(1);
+/* ───────── 날짜 (로컬 기준 — UTC 밀림 방지) ───────── */
+
+describe("로컬 날짜 헬퍼", () => {
+  it("ymd 는 로컬 연·월·일을 그대로 쓴다", () => {
+    // 로컬 자정 — UTC 변환 시 KST(+9)에서는 전날로 밀리는 시각
+    expect(ymd(new Date(2026, 6, 24, 0, 0, 0))).toBe("2026-07-24");
+    expect(ymd(new Date(2026, 0, 1, 23, 59, 0))).toBe("2026-01-01");
   });
-  it("성공이면 반복 증가 + EF 갱신", () => {
-    const r = sm2(5, { ef: 2.5, repetitions: 0, intervalDays: 0 }, now);
-    expect(r.repetitions).toBe(1);
-    expect(r.intervalDays).toBe(1);
-    expect(r.ef).toBeGreaterThan(2.5);
+
+  it("0일 더하면 같은 날 (하루 밀림 회귀 방지)", () => {
+    expect(addDaysISO("2026-07-24", 0)).toBe("2026-07-24");
+    expect(addDaysISO(todayISO(), 0)).toBe(todayISO());
   });
-  it("EF 하한 1.3 을 지킨다", () => {
-    const r = sm2(3, { ef: 1.3, repetitions: 2, intervalDays: 6 }, now);
-    expect(r.ef).toBeGreaterThanOrEqual(1.3);
+
+  it("날짜를 앞뒤로 옮긴다 (월·연 경계 포함)", () => {
+    expect(addDaysISO("2026-07-24", 1)).toBe("2026-07-25");
+    expect(addDaysISO("2026-07-24", -7)).toBe("2026-07-17");
+    expect(addDaysISO("2026-07-31", 1)).toBe("2026-08-01");
+    expect(addDaysISO("2026-12-31", 1)).toBe("2027-01-01");
+    expect(addDaysISO("2028-02-28", 1)).toBe("2028-02-29"); // 윤년
+  });
+
+  it("최근 7일 창에는 반드시 오늘이 들어간다", () => {
+    const today = todayISO();
+    const window = Array.from({ length: 7 }, (_, i) =>
+      addDaysISO(today, -(6 - i)),
+    );
+    expect(window).toHaveLength(7);
+    expect(window[window.length - 1]).toBe(today);
+    expect(new Set(window).size).toBe(7);
+  });
+
+  it("diffDaysISO 는 일수 차이를 준다", () => {
+    expect(diffDaysISO("2026-07-24", "2026-07-25")).toBe(1);
+    expect(diffDaysISO("2026-07-24", "2026-07-24")).toBe(0);
+    expect(diffDaysISO("2026-07-24", "2026-07-26")).toBe(2);
+  });
+});
+
+/* ───────── 학습 무결성 (치팅 방지) ───────── */
+
+describe("coverageRatio", () => {
+  it("전체가 0이면 0", () => expect(coverageRatio(0, 0)).toBe(0));
+  it("1을 넘지 않는다", () => expect(coverageRatio(12, 10)).toBe(1));
+  it("비율을 그대로 돌려준다", () => expect(coverageRatio(9, 10)).toBeCloseTo(0.9));
+});
+
+describe("evaluateStamp — 완독 도장 게이트", () => {
+  const base = {
+    total: 20,
+    readCount: 0,
+    completed: false,
+    hasQuiz: true,
+    quizPassed: false,
+  };
+
+  it("한 문장도 안 들으면 도장을 못 찍는다 (막 넘기기 차단)", () => {
+    const v = evaluateStamp({ ...base, heard: 0 });
+    expect(v.ok).toBe(false);
+    expect(v.reason).toBe("coverage");
+    expect(v.missing).toBe(20);
+  });
+
+  it("커버리지가 기준 미만이면 어떤 경우에도 막힌다", () => {
+    // 0% ~ 89% 전 구간에서 ok 가 나오면 안 된다
+    for (let heard = 0; heard < MIN_COVERAGE * 20; heard++) {
+      const v = evaluateStamp({ ...base, heard });
+      expect(v.ok, `heard=${heard}`).toBe(false);
+      expect(v.reason).toBe("coverage");
+    }
+  });
+
+  it("90% 이상 들으면 도장을 찍을 수 있다", () => {
+    const v = evaluateStamp({ ...base, heard: 18 });
+    expect(v.ok).toBe(true);
+    expect(v.reason).toBe("ok");
+  });
+
+  it("마지막(10번째) 도장은 퀴즈를 통과해야 찍힌다", () => {
+    const last = { ...base, heard: 20, readCount: READS_TO_COMPLETE - 1 };
+    expect(evaluateStamp(last).ok).toBe(false);
+    expect(evaluateStamp(last).reason).toBe("quiz");
+    expect(evaluateStamp({ ...last, quizPassed: true }).ok).toBe(true);
+  });
+
+  it("퀴즈가 없는 책은 마지막 도장에서 퀴즈를 요구하지 않는다", () => {
+    const v = evaluateStamp({
+      ...base,
+      heard: 20,
+      readCount: READS_TO_COMPLETE - 1,
+      hasQuiz: false,
+    });
+    expect(v.ok).toBe(true);
+  });
+
+  it("이미 완료한 책은 더 찍히지 않는다", () => {
+    const v = evaluateStamp({ ...base, heard: 20, completed: true });
+    expect(v.ok).toBe(false);
+    expect(v.reason).toBe("already");
+  });
+
+  it("도장 횟수가 상한이면 막힌다", () => {
+    const v = evaluateStamp({
+      ...base,
+      heard: 20,
+      readCount: READS_TO_COMPLETE,
+      quizPassed: true,
+    });
+    expect(v.ok).toBe(false);
+    expect(v.reason).toBe("already");
+  });
+});
+
+describe("isQuizPassed", () => {
+  it("80% 이상이면 통과", () => {
+    expect(isQuizPassed(4, 5)).toBe(true);
+    expect(isQuizPassed(3, 5)).toBe(false);
+    expect(isQuizPassed(0, 0)).toBe(false);
+  });
+});
+
+/* ───────── 쉐도잉 엔진 ───────── */
+
+const timings: WordTiming[] = [
+  { word: "The", startMs: 0, endMs: 200, charStart: 0, charEnd: 3 },
+  { word: "cat", startMs: 250, endMs: 600, charStart: 4, charEnd: 7 },
+  { word: "sat", startMs: 650, endMs: 1000, charStart: 8, charEnd: 11 },
+  { word: "down", startMs: 1050, endMs: 1500, charStart: 12, charEnd: 16 },
+];
+
+describe("wordIndexAt", () => {
+  it("시작 전에는 -1", () => expect(wordIndexAt(timings, -10)).toBe(-1));
+  it("단어 사이 공백에서는 직전 단어를 유지한다", () =>
+    expect(wordIndexAt(timings, 620)).toBe(1));
+  it("마지막 단어 이후에도 마지막을 유지한다", () =>
+    expect(wordIndexAt(timings, 9999)).toBe(3));
+});
+
+describe("echoIndexAt — 지연 추적 쉐도잉", () => {
+  it("지연 0이면 원어민과 같은 위치(같이 읽기)", () => {
+    for (let ms = 0; ms <= 1600; ms += 25)
+      expect(echoIndexAt(timings, ms, 0)).toBe(wordIndexAt(timings, ms));
+  });
+
+  it("에코는 항상 원어민보다 뒤처진다 (핵심 불변식)", () => {
+    for (const delay of [250, 300, 450, 800]) {
+      for (let ms = 0; ms <= 2000; ms += 10) {
+        expect(
+          echoIndexAt(timings, ms, delay),
+          `delay=${delay} ms=${ms}`,
+        ).toBeLessThanOrEqual(wordIndexAt(timings, ms));
+      }
+    }
+  });
+
+  it("한 단어(450ms) 지연이면 실제로 한 박자 뒤 단어를 가리킨다", () => {
+    // 700ms: 원어민은 "sat"(2), 나는 250ms 시점 → "cat"(1)
+    expect(wordIndexAt(timings, 700)).toBe(2);
+    expect(echoIndexAt(timings, 700, 450)).toBe(1);
+  });
+
+  it("음수 지연은 0으로 취급(에코가 앞서지 않는다)", () => {
+    expect(echoIndexAt(timings, 700, -500)).toBe(wordIndexAt(timings, 700));
+  });
+});
+
+describe("SHADOW_STEPS — 사다리", () => {
+  it("5단계이며 뒤로 갈수록 지연이 짧아진다", () => {
+    expect(SHADOW_STEPS).toHaveLength(5);
+    const delays = SHADOW_STEPS.filter((s) => s.delayMs !== null).map(
+      (s) => s.delayMs as number,
+    );
+    // 2단계(0) 이후로는 감소 수열
+    const withDelay = SHADOW_STEPS.filter((s) => (s.delayMs ?? 0) > 0);
+    for (let i = 1; i < withDelay.length; i++)
+      expect(withDelay[i].delayMs!).toBeLessThan(withDelay[i - 1].delayMs!);
+    expect(delays.every((d) => d >= 0)).toBe(true);
+  });
+
+  it("단계가 오를수록 원어민 볼륨은 커지지 않는다(내 목소리 확보)", () => {
+    for (let i = 1; i < SHADOW_STEPS.length; i++)
+      expect(SHADOW_STEPS[i].volume).toBeLessThanOrEqual(
+        SHADOW_STEPS[i - 1].volume,
+      );
+  });
+
+  it("마지막 단계만 텍스트를 가린다", () => {
+    expect(SHADOW_STEPS.filter((s) => s.hideText)).toHaveLength(1);
+    expect(SHADOW_STEPS[SHADOW_STEPS.length - 1].hideText).toBe(true);
+  });
+});
+
+/* ───────── 퀘스트 ───────── */
+
+describe("allQuestsDone", () => {
+  it("빈 하루는 미완료", () => expect(allQuestsDone(emptyDay())).toBe(false));
+  it("셋 다 채우면 완료", () =>
+    expect(
+      allQuestsDone({ ...emptyDay(), books: 1, words: 10, shadow: 5 }),
+    ).toBe(true));
+  it("하나라도 모자라면 미완료", () =>
+    expect(
+      allQuestsDone({ ...emptyDay(), books: 1, words: 9, shadow: 5 }),
+    ).toBe(false));
+});
+
+/* ───────── 단어 문제 생성기 ───────── */
+
+const W = (o: Partial<QuizWord> & { english: string; korean: string }): QuizWord => ({
+  emoji: "🍎",
+  example: "",
+  exampleKo: "",
+  level: 1,
+  ...o,
+});
+
+const pool: QuizWord[] = [
+  W({ english: "apple", korean: "사과", example: "I eat an apple." }),
+  W({ english: "banana", korean: "바나나", example: "The banana is yellow." }),
+  W({ english: "cat", korean: "고양이", example: "The cat is cute." }),
+  W({ english: "dog", korean: "개", example: "I have a dog." }),
+  W({ english: "book", korean: "책", example: "I read a book." }),
+  W({ english: "water", korean: "물", example: "I drink water." }),
+];
+
+/** 결정적 rng — 항상 첫 요소를 고르게 해 스냅샷 가능한 결과를 만든다 */
+const rng0 = () => 0;
+
+describe("kindsForBox", () => {
+  it("박스가 오를수록 산출형 문제가 나온다", () => {
+    expect(kindsForBox(0)).toContain("listen");
+    expect(kindsForBox(3)).toContain("cloze");
+    expect(kindsForBox(5)).toContain("spell");
+  });
+});
+
+describe("buildWordQuestion", () => {
+  it("모든 박스에서 유효한 문제를 만든다", () => {
+    for (let box = 0; box <= 5; box++) {
+      for (const w of pool) {
+        const q = buildWordQuestion(w, box, pool);
+        expect(q.word.english).toBe(w.english);
+        if (q.kind === "spell") {
+          expect(q.letters!.sort().join("")).toBe(
+            w.english.split("").sort().join(""),
+          );
+        } else {
+          expect(q.options).toHaveLength(4);
+          expect(q.answerIndex).toBeGreaterThanOrEqual(0);
+          expect(q.answerIndex).toBeLessThan(4);
+          // 보기 중복 없음
+          expect(new Set(q.options).size).toBe(4);
+        }
+      }
+    }
+  });
+
+  it("정답 보기는 실제 정답과 일치한다", () => {
+    const q = buildWordQuestion(pool[0], 0, pool, rng0);
+    expect(q.options[q.answerIndex]).toBe(pool[0].korean);
+  });
+
+  it("빈칸 문제는 대상 단어를 실제로 가린다", () => {
+    const w = pool[0]; // "I eat an apple."
+    const q = buildWordQuestion(w, 3, pool, rng0);
+    if (q.kind === "cloze") {
+      expect(q.sentence).toContain("______");
+      expect(q.sentence!.toLowerCase()).not.toContain("apple");
+      expect(q.options[q.answerIndex]).toBe("apple");
+    }
+  });
+
+  it("예문이 없으면 빈칸 문제 대신 다른 유형으로 강등된다", () => {
+    const noExample = W({ english: "zebra", korean: "얼룩말" });
+    const q = buildWordQuestion(noExample, 3, pool);
+    expect(q.kind).not.toBe("cloze");
+    expect(q.options).toHaveLength(4);
+  });
+
+  it("너무 긴 단어는 철자 문제로 내지 않는다", () => {
+    const long = W({ english: "refrigerator", korean: "냉장고" });
+    const q = buildWordQuestion(long, 5, pool);
+    expect(q.kind).not.toBe("spell");
+  });
+});
+
+describe("checkSpelling", () => {
+  const w = pool[0];
+  it("대소문자를 무시하고 채점한다", () => {
+    expect(checkSpelling(w, "APPLE")).toBe(true);
+    expect(checkSpelling(w, " apple ")).toBe(true);
+    expect(checkSpelling(w, "aple")).toBe(false);
+  });
+});
+
+describe("shuffle", () => {
+  it("원본을 바꾸지 않고 같은 원소를 돌려준다", () => {
+    const src = [1, 2, 3, 4, 5];
+    const out = shuffle(src);
+    expect(src).toEqual([1, 2, 3, 4, 5]);
+    expect(out.sort()).toEqual(src);
+  });
+});
+
+describe("레벨 진단", () => {
+  it("10문항(레벨당 2개)을 만든다", () => {
+    expect(buildPlacement()).toHaveLength(10);
+  });
+
+  it("다 맞히면 상위 레벨을, 초반에 틀리면 1을 추천한다", () => {
+    const all = [1, 2, 3, 4, 5].flatMap((level) => [
+      { level, correct: true },
+      { level, correct: true },
+    ]);
+    expect(recommendLevel(all)).toBe(5);
+    expect(
+      recommendLevel([
+        { level: 1, correct: false },
+        { level: 1, correct: true },
+      ]),
+    ).toBe(1);
+    expect(
+      recommendLevel([
+        { level: 1, correct: true },
+        { level: 1, correct: true },
+        { level: 2, correct: false },
+        { level: 2, correct: true },
+      ]),
+    ).toBe(2);
   });
 });

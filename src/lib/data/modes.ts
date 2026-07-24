@@ -40,15 +40,15 @@ export const MODES: ModeInfo[] = [
     emoji: "🎙️",
     title: "쉐도잉",
     subtitle: "Shadowing",
-    desc: "6단계 사다리로 따라 말하고 발음을 점수로 확인. 내 목소리 vs 원어민 비교.",
-    principle: "출력가설 · Shadowing(Hamada)",
+    desc: "원어민이 말하는 중에 한 박자 뒤에서 겹쳐 따라 말해요. 주황색 '내 차례' 글씨를 쫓아가며, 5단계 사다리로 지연을 좁혀가요.",
+    principle: "출력가설 · 지연추적 Shadowing(Hamada)",
   },
   {
     id: "read-yourself",
     emoji: "🌟",
     title: "따라 읽기",
     subtitle: "Read-It-Yourself",
-    desc: "한 페이지를 통째로 낭독하고 유창성·정확도·WPM 평가. 별점과 배지를 모아요.",
+    desc: "한 문장을 다 들은 뒤 조용한 시간 동안 혼자 또박또박 따라 말해요. '혼자 읽기'를 켜면 소리 없이 하이라이트만 보며 직접 읽어요.",
     principle: "자동화 · 유창성",
   },
 ];

@@ -1,5 +1,6 @@
 import { BottomNav } from "./BottomNav";
 import { TopNav } from "./TopNav";
+import { Onboarding } from "./Onboarding";
 
 export function AppShell({
   children,
@@ -28,6 +29,7 @@ export function AppShell({
         {children}
       </main>
       <BottomNav />
+      <Onboarding />
     </div>
   );
 }

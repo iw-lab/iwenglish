@@ -18,16 +18,22 @@ import {
   SkipBack,
   Stamp,
   Award,
+  Headphones,
+  Lock,
 } from "lucide-react";
 import type { Book, LearningMode } from "@/types/book";
 import { MODES } from "@/lib/data/modes";
 import { useKaraoke } from "@/hooks/useKaraoke";
 import { useSettings } from "@/store/settings";
 import { useProgress, READS_TO_COMPLETE } from "@/store/progress";
+import { evaluateStamp, shadowStep, MIN_COVERAGE } from "@/lib/learning";
 import { SentenceView } from "./SentenceView";
 import { PracticeControls, type PracticeMode } from "./PracticeControls";
 import { QuizPanel } from "./QuizPanel";
 import { cn } from "@/lib/utils";
+
+/** 쉐도잉 문장 수를 스토어에 몰아 쓰는 단위(매 문장 저장은 과함) */
+const SHADOW_FLUSH_AT = 5;
 
 export function Reader({ book }: { book: Book }) {
   const [mode, setMode] = useState<LearningMode>("read-aloud");
@@ -36,29 +42,41 @@ export function Reader({ book }: { book: Book }) {
   const [sentIdx, setSentIdx] = useState(0);
   const [repeatCount, setRepeatCount] = useState(1); // 0 = 무한(∞)
   const [showQuiz, setShowQuiz] = useState(false);
-  const [practiceMode, setPracticeMode] = useState<PracticeMode>("repeat");
+  const [practiceMode, setPracticeMode] = useState<PracticeMode>("off");
   const [gapScale, setGapScale] = useState(1);
   const [gap, setGap] = useState<{ active: boolean; ms: number }>({
     active: false,
     ms: 0,
   });
   const gapTimerRef = useRef<number | null>(null);
-  // 쉐도잉: 같은 문장 2회 재생(듣기→겹쳐 말하기). passRef=현재 문장 재생 횟수
-  const passRef = useRef(0);
-  const [shadowEcho, setShadowEcho] = useState(false);
   // 문장 반복 횟수 카운터
   const repRef = useRef(0);
   const { playbackRate, setPlaybackRate, showTranslation, toggleTranslation } =
     useSettings();
   // 혼자 읽기(무음·하이라이트만): 학생이 직접 소리 내어 읽음
   const [selfRead, setSelfRead] = useState(false);
+
+  /* ── 진도(검증 학습) ── */
   const recordReading = useProgress((s) => s.recordReading);
   const finishBook = useProgress((s) => s.finishBook);
   const addBookRead = useProgress((s) => s.addBookRead);
+  const recordShadow = useProgress((s) => s.recordShadow);
+  const setQuizPassed = useProgress((s) => s.setQuizPassed);
+  const setShadowStepStore = useProgress((s) => s.setShadowStep);
   const readCount = useProgress((s) => s.bookReads?.[book.slug] ?? 0);
   const completed = useProgress(
     (s) => s.booksCompleted?.includes(book.slug) ?? false,
   );
+  const quizPassed = useProgress((s) => s.quizPassed?.[book.slug] ?? false);
+  const savedShadowStep = useProgress((s) => s.shadowStep?.[book.slug] ?? 1);
+  const [step, setStep] = useState(1);
+  // 저장된 사다리 단계 복원(마운트/책 변경 시 1회)
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setStep(savedShadowStep);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [book.slug]);
+
   // 도장 찍을 때 살짝 튀는 피드백
   const [stampPulse, setStampPulse] = useState(false);
   // 한 번 읽을 때 도장은 한 번만 — 처음부터 다시 읽어야 재허용
@@ -72,20 +90,6 @@ export function Reader({ book }: { book: Book }) {
   }, []);
   const hasQuiz = book.quiz.length > 0;
 
-  // 책 완독 기록(중복 방지) + XP/진도 반영
-  const markFinished = () => {
-    if (recordedRef.current) return;
-    recordedRef.current = true;
-    finishBook(book.slug);
-    recordReading({
-      slug: book.slug,
-      title: book.title,
-      mode: selfRead ? "혼자 읽기" : "낭독",
-      words: book.wordCount,
-      ms: Date.now() - sessionStartRef.current,
-    });
-  };
-
   const flat = useMemo(
     () =>
       book.pages.flatMap((p, pi) =>
@@ -93,6 +97,50 @@ export function Reader({ book }: { book: Book }) {
       ),
     [book],
   );
+  const totalSentences = flat.length;
+
+  /* ── 청취 커버리지 — "끝까지 재생된 문장"만 인정(페이지 점프·스킵은 미인정) ── */
+  // ref = 즉시 읽을 수 있는 최신 집합(같은 콜백 안에서 방금 추가한 문장까지 반영),
+  // state = 렌더용 사본. 마지막 문장에서 markHeard 직후 완독을 판정해야 하므로 둘 다 필요.
+  const heardRef = useRef<Set<string>>(new Set());
+  const [heard, setHeard] = useState<Set<string>>(new Set());
+  const markHeard = (id: string) => {
+    if (heardRef.current.has(id)) return;
+    heardRef.current.add(id);
+    setHeard(new Set(heardRef.current));
+  };
+  const coverage = totalSentences ? heard.size / totalSentences : 0;
+  /** 지금 이 순간의 커버리지(렌더 지연 없음) */
+  const coverageNow = () =>
+    totalSentences ? heardRef.current.size / totalSentences : 0;
+
+  const stampVerdict = evaluateStamp({
+    heard: heard.size,
+    total: totalSentences,
+    readCount,
+    completed,
+    hasQuiz,
+    quizPassed,
+  });
+
+  /* ── 쉐도잉 문장 카운터(배치 저장) ── */
+  const shadowPendingRef = useRef(0);
+  const flushShadow = () => {
+    const n = shadowPendingRef.current;
+    if (n <= 0) return;
+    shadowPendingRef.current = 0;
+    recordShadow(n);
+  };
+  const bumpShadow = () => {
+    shadowPendingRef.current += 1;
+    if (shadowPendingRef.current >= SHADOW_FLUSH_AT) flushShadow();
+  };
+  // 화면을 떠날 때 남은 쉐도잉 문장 저장 (최신 flush 를 ref 로 잡아 stale 방지)
+  const flushRef = useRef(flushShadow);
+  useEffect(() => {
+    flushRef.current = flushShadow;
+  });
+  useEffect(() => () => flushRef.current(), []);
 
   const page = book.pages[pageIdx];
   const sentence = page?.sentences[sentIdx] ?? null;
@@ -128,12 +176,31 @@ export function Reader({ book }: { book: Book }) {
     setSentIdx(0);
   };
 
+  /** 아직 안 들은 첫 문장으로 점프 — "이어서 읽기" */
+  const goToFirstUnheard = () => {
+    const gi = flat.findIndex((f) => !heard.has(f.s.id));
+    if (gi === -1) return;
+    stopAuto();
+    goTo(gi);
+    if (typeof window !== "undefined")
+      window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  /* ── 쉐도잉 설정 ── */
+  const shadowing = practiceMode === "shadow";
+  const curStep = shadowStep(step);
+  const echoDelayMs = shadowing ? curStep.delayMs : null;
+  const nativeVolume = shadowing ? curStep.volume : 1;
+  const blindText = shadowing && curStep.hideText;
+
   // onEnd 는 stable 콜백으로 넘기고 최신 로직은 ref 로 갱신(stale closure 방지)
   const onEndRef = useRef<() => void>(() => {});
   const karaoke = useKaraoke(sentence, {
     rate: playbackRate,
     onEnd: () => onEndRef.current(),
     silent: selfRead,
+    echoDelayMs,
+    volume: nativeVolume,
   });
 
   // 현재 문장 길이(ms) — 마지막 단어 타임스탬프, 없으면 글자수 추정
@@ -160,30 +227,38 @@ export function Reader({ book }: { book: Book }) {
     }, ms);
   };
 
-  // 따라 말할 간격(ms): 쉐도잉=짧게, 따라 읽기=문장 길이보다 넉넉히(초등 또박또박), slider 로 미세조정
-  const gapMs = () => {
-    const base = practiceMode === "repeat" ? sentDurMs * 1.7 : sentDurMs * 0.6;
-    const floor = practiceMode === "repeat" ? 1400 : 700;
-    return Math.max(floor, Math.round(base * gapScale));
+  // 따라 읽기 간격(ms): 문장 길이보다 넉넉히(초등 또박또박), slider 로 미세조정
+  const gapMs = () =>
+    Math.max(1400, Math.round(sentDurMs * 1.7 * gapScale));
+
+  // 책 완독 기록 — 실제로 90% 이상 들었을 때만 XP·진도 인정
+  const markFinished = () => {
+    if (recordedRef.current) return;
+    const cov = coverageNow(); // 방금 들은 마지막 문장까지 포함해야 한다
+    if (cov < MIN_COVERAGE) return; // 검증 실패 → 기록하지 않음
+    recordedRef.current = true;
+    finishBook(book.slug);
+    recordReading({
+      slug: book.slug,
+      title: book.title,
+      mode: shadowing ? "쉐도잉" : selfRead ? "혼자 읽기" : "낭독",
+      words: book.wordCount,
+      ms: Date.now() - sessionStartRef.current,
+      coverage: cov,
+    });
   };
 
   // 매 렌더 후 최신 로직으로 ref 갱신 (stale closure 방지)
   useEffect(() => {
     onEndRef.current = () => {
-      // 쉐도잉: 1회차면 곧바로 같은 문장을 다시 재생(이때 겹쳐 따라 말함)
-      if (practiceMode === "shadow" && passRef.current === 0) {
-        passRef.current = 1;
-        setShadowEcho(true);
-        karaoke.play();
-        return;
-      }
-      passRef.current = 0;
-      setShadowEcho(false);
+      // 한 문장을 끝까지 재생 = 청취 인정 (스킵·점프로는 절대 쌓이지 않음)
+      if (sentence) markHeard(sentence.id);
+      // 쉐도잉(에코 트랙이 도는 단계)으로 완주한 문장만 쉐도잉 실적
+      if (shadowing && echoDelayMs !== null) bumpShadow();
 
       // 한 번의 완전한 반복(rep) 완료
       repRef.current += 1;
-      const moreReps =
-        repeatCount === 0 || repRef.current < repeatCount; // 0=무한
+      const moreReps = repeatCount === 0 || repRef.current < repeatCount; // 0=무한
       const gapMode = practiceMode === "repeat";
 
       // 같은 문장을 한 번 더 (다음 rep)
@@ -197,9 +272,10 @@ export function Reader({ book }: { book: Book }) {
       repRef.current = 0;
       if (mode === "sentence") return; // 한 문장씩: 정지
       if (!autoRef.current || globalIdx >= flat.length - 1) {
-        // 마지막 문장까지 연속으로 읽으면 완독 기록 + XP
+        // 마지막 문장까지 연속으로 읽으면 완독 기록 + XP(커버리지 통과 시)
         if (globalIdx >= flat.length - 1) markFinished();
         autoRef.current = false;
+        flushShadow();
         return;
       }
       if (gapMode) runGap(gapMs(), () => goTo(globalIdx + 1));
@@ -207,9 +283,8 @@ export function Reader({ book }: { book: Book }) {
     };
   });
 
-  // 문장이 바뀌면(자동 진행 중) 새 문장을 이어서 재생 + 패스/반복 카운터 리셋
+  // 문장이 바뀌면(자동 진행 중) 새 문장을 이어서 재생 + 반복 카운터 리셋
   useEffect(() => {
-    passRef.current = 0; // shadowEcho 는 onEndRef/stopAuto 에서 이미 해제됨
     repRef.current = 0;
     if (autoRef.current && sentence) karaoke.play();
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -227,14 +302,12 @@ export function Reader({ book }: { book: Book }) {
   const togglePlay = () => {
     if (karaoke.playing || gap.active) {
       autoRef.current = false;
-      passRef.current = 0;
       repRef.current = 0;
-      setShadowEcho(false);
       clearGap();
       karaoke.pause();
+      flushShadow();
     } else {
       autoRef.current = mode === "read-aloud";
-      passRef.current = 0;
       repRef.current = 0;
       karaoke.play();
     }
@@ -243,9 +316,7 @@ export function Reader({ book }: { book: Book }) {
   // 수동 이동/모드변경 시 자동 진행 중단
   const stopAuto = () => {
     autoRef.current = false;
-    passRef.current = 0;
     repRef.current = 0;
-    setShadowEcho(false);
     clearGap();
     karaoke.pause();
   };
@@ -253,17 +324,23 @@ export function Reader({ book }: { book: Book }) {
   // 이 책의 처음(첫 쪽·첫 문장)으로 — 다시 읽기
   const goToStart = () => {
     stopAuto();
+    flushShadow();
     setPageIdx(0);
     setSentIdx(0);
     recordedRef.current = false; // 다시 읽으면 완독 세션 재기록 허용
     setStampedThisRead(false); // 다시 읽으면 도장 1회 재허용
-    if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
+    heardRef.current = new Set(); // 커버리지도 초기화 — 새로 다 들어야 다음 도장
+    setHeard(new Set());
+    sessionStartRef.current = Date.now();
+    if (typeof window !== "undefined")
+      window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  // 완독 도장 — 한 번 읽기에 1회만, 10회 모이면 '완료'
+  // 완독 도장 — 90% 이상 듣고, 마지막 도장은 퀴즈까지 통과해야 찍힌다
   const onStamp = () => {
-    if (completed || stampedThisRead) return;
+    if (!stampVerdict.ok || stampedThisRead) return;
     markFinished(); // 첫 완독 세션 기록(중복 방지됨)
+    flushShadow();
     addBookRead(book.slug);
     setStampedThisRead(true);
     setStampPulse(true);
@@ -272,10 +349,18 @@ export function Reader({ book }: { book: Book }) {
     window.setTimeout(() => setConfetti(false), 950);
   };
 
+  const changeStep = (n: number) => {
+    stopAuto();
+    setStep(n);
+    setShadowStepStore(book.slug, n);
+  };
+
   // 읽기 모드는 2개(쭉 읽어주기·한 문장씩)만. 단어 탭·쉐도잉·따라 읽기는 읽기 화면에 통합됨.
   const tabModes = MODES.filter(
     (m) => m.id === "read-aloud" || m.id === "sentence",
   );
+
+  const coveragePct = Math.round(coverage * 100);
 
   return (
     <div className="mx-auto flex min-h-dvh w-full max-w-lg flex-col lg:max-w-none lg:px-8 2xl:px-20">
@@ -321,6 +406,14 @@ export function Reader({ book }: { book: Book }) {
             </button>
           </div>
         </div>
+        {/* 오늘 이 책에서 들은 문장 비율 — 도장의 근거를 항상 보여준다 */}
+        <div
+          className="hidden items-center gap-1.5 rounded-full bg-muted px-2.5 py-1 sm:flex"
+          title={`끝까지 들은 문장 ${heard.size}/${totalSentences}`}
+        >
+          <Headphones className="h-4 w-4 text-primary" />
+          <span className="text-xs font-bold tabular-nums">{coveragePct}%</span>
+        </div>
         <button
           onClick={toggleTranslation}
           aria-pressed={showTranslation}
@@ -352,7 +445,14 @@ export function Reader({ book }: { book: Book }) {
 
       {showQuiz ? (
         <div className="flex-1 px-4">
-          <QuizPanel quiz={book.quiz} onClose={() => setShowQuiz(false)} />
+          <QuizPanel
+            quiz={book.quiz}
+            alreadyPassed={quizPassed}
+            onResult={(passed) => {
+              if (passed) setQuizPassed(book.slug, true);
+            }}
+            onClose={() => setShowQuiz(false)}
+          />
         </div>
       ) : (
         <>
@@ -406,6 +506,7 @@ export function Reader({ book }: { book: Book }) {
             key={page.imageUrl}
             src={page.imageUrl}
             alt={`${book.title} ${pageIdx + 1}쪽`}
+            decoding="async"
             onLoad={(e) => {
               e.currentTarget.style.opacity = "1";
             }}
@@ -445,7 +546,9 @@ export function Reader({ book }: { book: Book }) {
                   <SentenceView
                     text={s.text}
                     activeWord={isActive ? karaoke.activeWord : -1}
-                    wordTap
+                    echoWord={isActive ? karaoke.echoWord : -1}
+                    wordTap={!blindText}
+                    hidden={blindText}
                   />
                   {showTranslation && s.translation_ko && (
                     <p className="mt-1.5 font-ko text-sm text-muted-foreground">
@@ -455,6 +558,7 @@ export function Reader({ book }: { book: Book }) {
                 </div>
               );
             })}
+
             {/* 마지막 쪽: 완독 도장(10번 읽으면 완료) */}
             {pageIdx === book.pages.length - 1 && (
               <div className="rounded-card border-2 border-dashed border-accent/50 bg-accent/5 p-4 text-center">
@@ -502,8 +606,10 @@ export function Reader({ book }: { book: Book }) {
                         },
                       )}
                     <p className="text-base font-bold">
-                      {stampedThisRead ? "도장 꾹! 🎉" : "📖 완전히 다 읽었어요!"}
+                      {stampedThisRead ? "도장 꾹! 🎉" : "📖 마지막 쪽이에요!"}
                     </p>
+
+                    {/* 도장 진행 */}
                     <div className="flex flex-wrap justify-center gap-1.5">
                       {Array.from({ length: READS_TO_COMPLETE }).map((_, i) => (
                         <span
@@ -520,20 +626,45 @@ export function Reader({ book }: { book: Book }) {
                         </span>
                       ))}
                     </div>
-                    <p className="font-ko text-xs text-muted-foreground">
-                      {stampedThisRead
-                        ? `${readCount}/${READS_TO_COMPLETE} — 또 찍으려면 처음부터 다시 읽어요!`
-                        : `${readCount}/${READS_TO_COMPLETE} — 다 읽을 때마다 도장 1개를 찍어요`}
-                    </p>
+
+                    {/* 청취 커버리지 — 도장의 근거 */}
+                    <div className="w-full max-w-xs space-y-1">
+                      <div className="flex items-center justify-between text-xs">
+                        <span className="font-ko text-muted-foreground">
+                          끝까지 들은 문장
+                        </span>
+                        <span className="font-bold tabular-nums">
+                          {heard.size} / {totalSentences}
+                        </span>
+                      </div>
+                      <div className="h-2.5 overflow-hidden rounded-full bg-muted">
+                        <div
+                          className={cn(
+                            "h-full rounded-full transition-all",
+                            coverage >= MIN_COVERAGE ? "bg-good" : "bg-primary",
+                          )}
+                          style={{ width: `${coveragePct}%` }}
+                        />
+                      </div>
+                    </div>
+
                     {stampedThisRead ? (
-                      <button
-                        onClick={goToStart}
-                        className="mt-1 inline-flex items-center gap-2 rounded-chip bg-primary px-6 py-3 text-base font-extrabold text-primary-foreground shadow-sm transition active:scale-95"
-                      >
-                        <SkipBack className="h-5 w-5" /> 처음부터 다시 읽기
-                      </button>
-                    ) : (
                       <>
+                        <p className="font-ko text-xs text-muted-foreground">
+                          {readCount}/{READS_TO_COMPLETE} — 또 찍으려면 처음부터 다시 읽어요!
+                        </p>
+                        <button
+                          onClick={goToStart}
+                          className="mt-1 inline-flex items-center gap-2 rounded-chip bg-primary px-6 py-3 text-base font-extrabold text-primary-foreground shadow-sm transition active:scale-95"
+                        >
+                          <SkipBack className="h-5 w-5" /> 처음부터 다시 읽기
+                        </button>
+                      </>
+                    ) : stampVerdict.ok ? (
+                      <>
+                        <p className="font-ko text-xs text-muted-foreground">
+                          {readCount}/{READS_TO_COMPLETE} — 다 들었어요! 도장을 찍어요
+                        </p>
                         <button
                           onClick={onStamp}
                           className={cn(
@@ -543,21 +674,57 @@ export function Reader({ book }: { book: Book }) {
                         >
                           <Stamp className="h-5 w-5" /> 도장 찍기 (+1)
                         </button>
-                        {readCount > 0 && (
-                          <button
-                            onClick={goToStart}
-                            className="inline-flex items-center gap-1 text-xs font-semibold text-primary hover:underline"
-                          >
-                            <SkipBack className="h-3.5 w-3.5" /> 처음부터 다시 읽기
-                          </button>
-                        )}
                       </>
+                    ) : stampVerdict.reason === "coverage" ? (
+                      <>
+                        <p className="font-ko text-sm font-semibold text-primary">
+                          아직 안 들은 문장이 {stampVerdict.missing}개 있어요!
+                        </p>
+                        <p className="font-ko text-xs text-muted-foreground">
+                          문장을 끝까지 들어야 도장을 찍을 수 있어요.
+                        </p>
+                        <button
+                          onClick={goToFirstUnheard}
+                          className="mt-1 inline-flex items-center gap-2 rounded-chip bg-primary px-6 py-3 text-base font-extrabold text-primary-foreground shadow-sm transition active:scale-95"
+                        >
+                          <Play className="h-5 w-5" /> 이어서 읽기
+                        </button>
+                      </>
+                    ) : stampVerdict.reason === "quiz" ? (
+                      <>
+                        <p className="font-ko text-sm font-semibold text-primary">
+                          마지막 도장이에요! 이해 퀴즈를 풀면 완독 왕관을 받아요 👑
+                        </p>
+                        <button
+                          onClick={() => {
+                            stopAuto();
+                            setShowQuiz(true);
+                          }}
+                          className="mt-1 inline-flex items-center gap-2 rounded-chip bg-primary px-6 py-3 text-base font-extrabold text-primary-foreground shadow-sm transition active:scale-95"
+                        >
+                          <ListChecks className="h-5 w-5" /> 이해 퀴즈 풀기
+                        </button>
+                      </>
+                    ) : (
+                      <p className="font-ko text-xs text-muted-foreground">
+                        {readCount}/{READS_TO_COMPLETE}
+                      </p>
+                    )}
+
+                    {readCount > 0 && !stampedThisRead && (
+                      <button
+                        onClick={goToStart}
+                        className="inline-flex items-center gap-1 text-xs font-semibold text-primary hover:underline"
+                      >
+                        <SkipBack className="h-3.5 w-3.5" /> 처음부터 다시 읽기
+                      </button>
                     )}
                   </div>
                 )}
               </div>
             )}
-            {hasQuiz && pageIdx === book.pages.length - 1 && (
+
+            {hasQuiz && pageIdx === book.pages.length - 1 && !showQuiz && (
               <button
                 onClick={() => {
                   stopAuto();
@@ -567,17 +734,22 @@ export function Reader({ book }: { book: Book }) {
                 className="flex w-full items-center justify-center gap-2 rounded-card bg-card px-4 py-3.5 font-semibold shadow-sm ring-1 ring-border transition hover:bg-muted"
               >
                 <ListChecks className="h-5 w-5 text-primary" /> 이해 퀴즈 풀기
+                {quizPassed && <span className="text-good">· 통과 ✓</span>}
               </button>
             )}
-            {/* 따라 말하기·쉐도잉 (간격) */}
+
+            {/* 따라 말하기·쉐도잉 */}
             <PracticeControls
               mode={practiceMode}
               setMode={(m) => {
-                clearGap();
+                stopAuto();
+                flushShadow();
                 setPracticeMode(m);
               }}
               gapScale={gapScale}
               setGapScale={setGapScale}
+              step={step}
+              setStep={changeStep}
             />
           </div>
       </div>
@@ -601,15 +773,20 @@ export function Reader({ book }: { book: Book }) {
         </div>
       )}
 
-      {/* 쉐도잉 — 같이 따라 말하기 배너(2회차 재생 중) */}
-      {shadowEcho && (
+      {/* 쉐도잉 — 지연 추적 안내(재생 중) */}
+      {shadowing && karaoke.playing && echoDelayMs !== null && (
         <div className="sticky bottom-[68px] z-30 mx-auto w-full max-w-lg px-4">
-          <div className="flex items-center gap-2 rounded-card border border-primary/40 bg-primary/10 px-4 py-2.5">
-            <span className="animate-pulse text-sm font-bold text-primary">
-              🗣 같이 따라 말해요!
+          <div className="flex items-center gap-2 rounded-card border border-accent/50 bg-accent/10 px-4 py-2.5 shadow-lg backdrop-blur-sm">
+            <span className="text-sm font-bold text-accent">
+              {curStep.emoji} {curStep.name}
             </span>
-            <span className="ml-auto text-xs text-muted-foreground">
-              원어민과 겹쳐서
+            <span className="font-ko text-xs text-muted-foreground">
+              {blindText
+                ? "주황 칸이 지금 말할 단어예요"
+                : "주황 글씨를 따라 말해요"}
+            </span>
+            <span className="ml-auto shrink-0 text-[11px] tabular-nums text-muted-foreground">
+              {echoDelayMs === 0 ? "동시" : `${echoDelayMs}ms 뒤`}
             </span>
           </div>
         </div>
@@ -645,7 +822,7 @@ export function Reader({ book }: { book: Book }) {
         >
           <button
             onClick={goToStart}
-            disabled={globalIdx <= 0}
+            disabled={globalIdx <= 0 && heard.size === 0}
             aria-label="이 책 처음으로"
             title="이 책 처음으로 돌아가기"
             className="grid h-11 w-11 place-items-center rounded-full hover:bg-muted disabled:opacity-40"
@@ -731,6 +908,19 @@ export function Reader({ book }: { book: Book }) {
               <option value={0}>무한 반복</option>
             </select>
           </label>
+
+          {/* 모바일용 커버리지 */}
+          <span
+            className="flex items-center gap-1 rounded-full bg-muted px-2.5 py-1.5 text-sm sm:hidden"
+            title={`끝까지 들은 문장 ${heard.size}/${totalSentences}`}
+          >
+            {coverage >= MIN_COVERAGE ? (
+              <Headphones className="h-4 w-4 text-good" />
+            ) : (
+              <Lock className="h-4 w-4 text-muted-foreground" />
+            )}
+            <span className="font-bold tabular-nums">{coveragePct}%</span>
+          </span>
         </div>
       )}
         </>

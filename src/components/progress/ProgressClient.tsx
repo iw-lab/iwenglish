@@ -1,7 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Flame, Star, BookOpen, Brain, Target } from "lucide-react";
+import dynamic from "next/dynamic";
+import { Flame, Star, BookOpen, Brain, Target, Mic } from "lucide-react";
 import {
   useProgress,
   ACHIEVEMENTS,
@@ -13,8 +14,21 @@ import {
 import { Card } from "@/components/ui/Card";
 import { cn } from "@/lib/utils";
 
+// 보호자 리포트는 차트(recharts, ~356KB)를 쓴다 → 탭을 열 때만 내려받도록 지연 로드.
+// 저사양 기기에서 기본 "내 기록" 탭 로딩이 그만큼 가벼워진다.
+const ParentReport = dynamic(
+  () => import("./ParentReport").then((m) => m.ParentReport),
+  {
+    ssr: false,
+    loading: () => (
+      <div className="h-96 animate-pulse rounded-card bg-muted/40" />
+    ),
+  },
+);
+
 export function ProgressClient() {
   const [mounted, setMounted] = useState(false);
+  const [tab, setTab] = useState<"me" | "parent">("me");
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
@@ -24,6 +38,40 @@ export function ProgressClient() {
   if (!mounted)
     return <div className="h-40 animate-pulse rounded-card bg-muted/40" />;
 
+  const tabBtn = (id: "me" | "parent", label: string) => (
+    <button
+      key={id}
+      onClick={() => setTab(id)}
+      aria-pressed={tab === id}
+      className={cn(
+        "flex-1 rounded-chip py-2 text-sm font-bold transition",
+        tab === id
+          ? "bg-primary text-primary-foreground"
+          : "bg-muted text-muted-foreground",
+      )}
+    >
+      {label}
+    </button>
+  );
+
+  return (
+    <div className="space-y-5">
+      <div className="flex gap-2">
+        {tabBtn("me", "🌟 내 기록")}
+        {tabBtn("parent", "👨‍👩‍👧 보호자 리포트")}
+      </div>
+
+      {tab === "parent" ? (
+        <ParentReport />
+      ) : (
+        <ChildProgress s={s} />
+      )}
+    </div>
+  );
+}
+
+/** 아이용 진행 화면 — 레벨·업적 중심 */
+function ChildProgress({ s }: { s: ReturnType<typeof useProgress.getState> }) {
   const level = xpForLevel(s.xp);
   const intoLevel = s.xp - levelFloor(level);
   const levelPct = Math.min(100, intoLevel); // 레벨당 100xp
@@ -63,7 +111,7 @@ export function ProgressClient() {
       </Card>
 
       {/* 통계 그리드 */}
-      <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+      <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
         <StatCard icon={Flame} tone="accent" value={s.streak} label="연속 학습일" />
         <StatCard icon={Brain} tone="primary" value={mastered} label="마스터 단어" />
         <StatCard icon={Star} tone="good" value={studied} label="학습한 단어" />
@@ -72,6 +120,12 @@ export function ProgressClient() {
           tone="primary"
           value={s.booksFinished.length}
           label="완독한 책"
+        />
+        <StatCard
+          icon={Mic}
+          tone="accent"
+          value={s.shadowTotal ?? 0}
+          label="쉐도잉 문장"
         />
       </div>
 

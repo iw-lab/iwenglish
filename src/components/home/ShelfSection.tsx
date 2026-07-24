@@ -23,7 +23,7 @@ export function ShelfSection({
   const [expanded, setExpanded] = useState(false);
 
   return (
-    <section className="space-y-2">
+    <section className={expanded ? "space-y-2" : "shelf-cv space-y-2"}>
       <div className="flex items-baseline justify-between gap-2">
         <div className="flex min-w-0 items-baseline gap-2">
           <h3 className="text-base font-extrabold">

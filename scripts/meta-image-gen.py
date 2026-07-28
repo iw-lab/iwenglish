@@ -48,6 +48,13 @@ def sh(cmd: list[str]) -> str:
 
 
 def load_tasks() -> list[dict]:
+    # 외부 프로젝트 재사용 후크(하위호환): META_TASKS_JSON 이 가리키는 파일이 있으면
+    # 그 작업목록을 그대로 소비한다. 계약은 동일 = {label, out, dir, prompt, anchor?}.
+    # 미설정 시 기존 EchoTale dump 경로 그대로 — iwenglish 동작에 영향 0.
+    ext = os.environ.get("META_TASKS_JSON")
+    if ext:
+        data = json.loads(Path(ext).read_text())
+        return data.get("tasks", data) if isinstance(data, dict) else data
     tasks = []
     for gen in ("gen-book-images.mjs", "gen-storybook-images.mjs"):
         out = sh(["node", str(ROOT / "scripts" / gen), "dump"])
@@ -274,17 +281,21 @@ def gen_one(ctx, page, task: dict, known: set[str]) -> bool:
             if not attach_ref(page, ref):
                 print(f"  ❌ {task['label']} 첨부 실패", flush=True)
                 return False
-            lead = ("Generate an image based on the attached reference illustration "
+            # job이 lead를 주면 그걸 쓴다(외부 프로젝트 재사용 후크·하위호환).
+            # 미지정 시 기존 그림책 기본 lead — iwenglish 동작 불변.
+            lead = task.get("lead") or (
+                    "Generate an image based on the attached reference illustration "
                     "(this book's cover). Keep every recurring character's face, hair, fur, "
                     "colors and outfit IDENTICAL to the reference — zero drift. Do NOT add "
                     "clothing or accessories that are not in the reference. ")
         else:
-            lead = "Generate an image. "
+            lead = task.get("lead") or "Generate an image. "
         # codex 관리 라벨([slug · pN · salt])을 Meta는 그림 속 글자로 그림 — 제거 (p3 실측 사고)
         prompt_body = "\n".join(
             ln for ln in task["prompt"].splitlines() if not ln.strip().startswith("[")
         )
-        tail = (" Absolutely NO text, letters, captions, watermarks, borders or frames "
+        tail = task.get("tail") or (
+                " Absolutely NO text, letters, captions, watermarks, borders or frames "
                 "anywhere in the image.")
 
         box = find_box(page) or box

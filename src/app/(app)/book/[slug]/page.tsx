@@ -39,7 +39,7 @@ export default async function BookDetailPage({
         <p className="font-ko text-muted-foreground">{planned.title_ko}</p>
         <p className="font-ko">{planned.summary_ko}</p>
         <Card className="p-4 font-ko text-sm text-muted-foreground">
-          이 그림책은 곧 만나볼 수 있어요. 준비 중입니다.
+          이 그림책은 곧 만나볼 수 있어요. 준비 중이에요.
         </Card>
       </div>
     );

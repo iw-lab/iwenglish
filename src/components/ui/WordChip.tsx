@@ -136,12 +136,7 @@ export function WordChip({
       example_ko: data?.example_ko ?? "",
       audioUrl: data?.audioUrl ?? "",
     });
-    // 비로그인이라도 로그인 사용자면 서버에도 best-effort 동기화
-    fetch("/api/wordbook", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ word: key }),
-    }).catch(() => {});
+    // 단어장은 로컬 전용(localStorage). 서버로 전송하지 않는다.
   };
 
   if (!tappable)

@@ -453,7 +453,7 @@ export function LearnClient() {
             <h2 className="font-extrabold">레벨 진단</h2>
             <p className="font-ko text-sm text-muted-foreground">
               {s.placementLevel > 0
-                ? `내 추천 레벨은 ${s.placementLevel} 이에요 · 다시 진단하기`
+                ? `내 추천 레벨은 ${s.placementLevel}이에요 · 다시 진단하기`
                 : "10문제로 내게 맞는 시작 레벨을 찾아요 (3분)"}
             </p>
           </div>

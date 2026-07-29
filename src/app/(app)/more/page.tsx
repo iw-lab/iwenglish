@@ -15,7 +15,7 @@ export default function MorePage() {
         <div className="min-w-0 flex-1">
           <p className="font-semibold">계정 없이 바로 사용</p>
           <p className="font-ko text-xs text-muted-foreground">
-            로그인이 필요 없어요. 진도·단어장은 이 기기에 저장됩니다.
+            로그인이 필요 없어요. 진도·단어장은 이 기기에만 저장돼요.
           </p>
         </div>
       </Card>

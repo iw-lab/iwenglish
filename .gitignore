@@ -51,6 +51,10 @@ src/data/content.generated.ts
 # 그림 원본 PNG는 커밋/배포 제외 — 앱은 webp만 사용(webp는 커밋함)
 public/seed/**/*.png
 
+# python 캐시(콘텐츠 생성 스크립트)
+__pycache__/
+*.pyc
+
 # 비전 QA 임시 변환·codex out 캐시
 .vqa-tmp/
 .tqa-tmp/

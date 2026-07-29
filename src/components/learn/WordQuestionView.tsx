@@ -52,7 +52,6 @@ export function WordQuestionView({
 
   const submitSpelling = () => {
     if (spellResult !== null) return;
-    // eslint-disable-next-line react-hooks/purity
     const elapsed = Math.round(performance.now() - shownAt.current);
     const ok = checkSpelling(question.word, typed.join(""));
     setSpellResult(ok);

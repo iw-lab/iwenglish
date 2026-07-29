@@ -2,36 +2,44 @@ import Link from "next/link";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { env } from "@/lib/env";
-import { Check, ArrowLeft } from "lucide-react";
+import { Check, Clock, ArrowLeft } from "lucide-react";
 
+/**
+ * 요금제 안내.
+ * ⚠️ 표기 원칙 — 실제 동작하는 기능만 체크(✓)로 쓰고, 미구현은 반드시 planned 로
+ * 분리해 "개발 예정"으로 표시한다. 앱이 하지 않는 일을 광고하지 않는다.
+ */
 const tiers = [
   {
     name: "Free",
     price: "₩0",
-    desc: "가볍게 시작",
-    features: ["하루 책 5권", "쭉 읽기 · 문장 · 단어 탭", "기본 쉐도잉"],
+    desc: "지금 바로 · 현재 모든 사용자",
+    features: [
+      "352권 전권 열람",
+      "지연 추적 쉐도잉 5단계",
+      "청취 커버리지 검증 · 도장",
+      "단어 학습(5유형) · 학부모 리포트",
+      "계정 · 로그인 불필요",
+    ],
+    planned: [],
     cta: "무료로 시작",
-    highlight: false,
+    highlight: true,
   },
   {
     name: "Pro",
     price: "₩9,900/월",
-    desc: "제대로 말하기까지",
-    features: [
-      "모든 책 무제한",
-      "6단계 쉐도잉 사다리",
-      "음소단위 정밀 발음평가",
-      "오프라인 낭독",
-      "학습 리포트 PDF",
-    ],
+    desc: "향후 상용화 구상",
+    features: [],
+    planned: ["음소단위 발음평가", "오프라인 낭독(책 팩)", "학습 리포트 PDF 내보내기"],
     cta: "Pro 시작",
-    highlight: true,
+    highlight: false,
   },
   {
     name: "교실",
     price: "문의",
-    desc: "학급 단체",
-    features: ["전 기능 무료 개방", "교사 대시보드 · 과제", "학급 진도 리포트", "학생 일괄 관리"],
+    desc: "학급 단체 · 향후 상용화 구상",
+    features: [],
+    planned: ["교사 대시보드 · 과제", "학급 진도 리포트", "학생 일괄 관리"],
     cta: "교실 도입 문의",
     highlight: false,
   },
@@ -52,7 +60,7 @@ export default function PricingPage() {
         <p className="mt-2 font-ko text-muted-foreground">
           {env.billingEnabled
             ? "필요한 만큼 골라 쓰세요."
-            : "지금은 교실 모드 — 모든 기능이 무료로 열려 있어요."}
+            : "지금은 모든 기능이 무료로 열려 있어요. 아래 유료 플랜은 향후 상용화 구상안이며, 시계 아이콘(개발 예정) 항목은 아직 제공하지 않습니다."}
         </p>
       </div>
 
@@ -75,6 +83,17 @@ export default function PricingPage() {
                 <li key={f} className="flex items-start gap-2">
                   <Check className="mt-0.5 h-4 w-4 shrink-0 text-good" />
                   <span className="font-ko">{f}</span>
+                </li>
+              ))}
+              {t.planned.map((f) => (
+                <li
+                  key={f}
+                  className="flex items-start gap-2 text-muted-foreground"
+                >
+                  <Clock className="mt-0.5 h-4 w-4 shrink-0" />
+                  <span className="font-ko">
+                    {f} <span className="text-xs">(개발 예정)</span>
+                  </span>
                 </li>
               ))}
             </ul>

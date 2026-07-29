@@ -16,7 +16,8 @@ export function ReaderLoader({ slug }: { slug: string }) {
 
   useEffect(() => {
     let alive = true;
-    setState("loading");
+    // 초기 상태가 이미 "loading"이고, 상위에서 key={slug}로 재마운트하므로
+    // 여기서 상태를 되돌릴 필요가 없다(연쇄 렌더 방지).
     fetch(`/seed/${slug}/book.json`)
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
       .then((b: Book) => {

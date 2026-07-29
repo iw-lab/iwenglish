@@ -15,10 +15,7 @@ interface SettingsState {
   playbackRate: number;
   /** 문장별 한글 번역 기본 표시 */
   showTranslation: boolean;
-  /** 기기간 동기화 코드(D1). 비어있으면 동기화 끔 */
-  syncId: string;
   setTheme: (t: ThemeMode) => void;
-  setSyncId: (id: string) => void;
   toggleDyslexiaFont: () => void;
   setFontScale: (n: number) => void;
   setPlaybackRate: (n: number) => void;
@@ -33,9 +30,7 @@ export const useSettings = create<SettingsState>()(
       fontScale: 1,
       playbackRate: 1,
       showTranslation: false,
-      syncId: "",
       setTheme: (theme) => set({ theme }),
-      setSyncId: (syncId) => set({ syncId: syncId.trim() }),
       toggleDyslexiaFont: () =>
         set((s) => ({ dyslexiaFont: !s.dyslexiaFont })),
       setFontScale: (fontScale) =>

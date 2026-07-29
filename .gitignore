@@ -32,6 +32,9 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+# 예시 파일은 커밋한다 — README 와 lib/env.ts 가 이 파일을 참조하는데,
+# .env* 로 통째 무시하면 클론한 사람에게 없는 파일을 가리키게 된다.
+!.env.local.example
 
 # vercel
 .vercel

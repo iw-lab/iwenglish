@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Play, Pause, Loader2, Volume2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { speak } from "@/lib/speech";
@@ -77,6 +77,17 @@ export function AudioButton({
     setState("playing");
     speak(text, { rate, onEnd: () => setState("idle") });
   };
+
+  // 언마운트 시 재생 중이던 소리를 끊는다. 이게 없으면 아이가 단어를 탭한 뒤
+  // 곧바로 다른 화면·단어로 넘어갔을 때 이전 발음이 백그라운드에 남아 겹쳐 들린다.
+  // (audioRef 를 수정하는 play() 정의 뒤에 두어야 린트 규칙과 충돌하지 않는다)
+  useEffect(
+    () => () => {
+      audioRef.current?.pause();
+      window.speechSynthesis?.cancel();
+    },
+    [],
+  );
 
   const px = size === "lg" ? "h-14 w-14" : size === "sm" ? "h-8 w-8" : "h-11 w-11";
   const Icon =

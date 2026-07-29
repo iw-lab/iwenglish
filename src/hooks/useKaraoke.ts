@@ -48,6 +48,16 @@ export function useKaraoke(
   const rafRef = useRef<number | null>(null);
   const tailTimerRef = useRef<number | null>(null);
   const speechRef = useRef<{ cancel: () => void } | null>(null);
+  /**
+   * 재생 세대. cleanup 마다 증가시키고 각 rAF 루프는 자기 세대를 캡처한다.
+   * rafRef 는 핸들이 하나뿐이라, onended 가 tailTick 을 예약하며 덮어쓰면
+   * 앞서 돌던 tick 의 핸들을 잃어 취소할 수 없게 된다(오디오가 끝나면
+   * currentTime 이 멈춰 tick 의 종료 조건에 영영 닿지 못한다 → 영구 루프).
+   * 세대가 어긋난 루프는 스스로 멈추게 해 이 경로를 원천 차단한다.
+   */
+  const genRef = useRef(0);
+  /** 이 재생에 건 오디오 이벤트 리스너 일괄 해제용 */
+  const listenersRef = useRef<AbortController | null>(null);
 
   const tokens = sentence ? tokenizeWords(sentence.text) : [];
   const hasTimings =
@@ -56,12 +66,17 @@ export function useKaraoke(
   const volume = opts.volume ?? 1;
 
   const cleanup = useCallback(() => {
+    genRef.current += 1; // 진행 중이던 모든 rAF 루프를 무효화
     if (rafRef.current) cancelAnimationFrame(rafRef.current);
     rafRef.current = null;
     if (tailTimerRef.current) clearTimeout(tailTimerRef.current);
     tailTimerRef.current = null;
     speechRef.current?.cancel();
     speechRef.current = null;
+    // addEventListener 로 건 것들(applyRate 4종·재시도용 canplaythrough)까지 해제한다.
+    // 남겨두면 오토플레이 차단 후 지연 발화한 canplaythrough 가 옛 오디오를 재생시킨다.
+    listenersRef.current?.abort();
+    listenersRef.current = null;
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.onended = null;
@@ -90,6 +105,13 @@ export function useKaraoke(
     setActiveWord(-1);
     setEchoWord(-1);
 
+    // 이번 재생의 세대·리스너 묶음. 아래 rAF 루프들은 전부 gen 을 캡처해
+    // 세대가 바뀌면(=cleanup 이 돌면) 스스로 종료한다.
+    const gen = genRef.current;
+    const alive = () => gen === genRef.current;
+    const ac = new AbortController();
+    listenersRef.current = ac;
+
     const timings = sentence.wordTimings;
     /** 재생 위치(ms) → 두 하이라이트 트랙 갱신 */
     const syncTracks = (ms: number) => {
@@ -105,6 +127,7 @@ export function useKaraoke(
       const rate = opts.rate ?? 1;
       const startT = performance.now();
       const tickSilent = () => {
+        if (!alive()) return;
         const ms = (performance.now() - startT) * rate;
         syncTracks(ms);
         if (ms >= lastEnd + TAIL) {
@@ -133,10 +156,11 @@ export function useKaraoke(
         if (a.playbackRate !== rate) a.playbackRate = rate;
       };
       applyRate();
-      a.addEventListener("loadedmetadata", applyRate);
-      a.addEventListener("canplay", applyRate);
-      a.addEventListener("play", applyRate);
-      a.addEventListener("playing", applyRate);
+      const sig = { signal: ac.signal };
+      a.addEventListener("loadedmetadata", applyRate, sig);
+      a.addEventListener("canplay", applyRate, sig);
+      a.addEventListener("play", applyRate, sig);
+      a.addEventListener("playing", applyRate, sig);
       audioRef.current = a;
       const lastEnd = timings.length
         ? timings[timings.length - 1].endMs
@@ -146,6 +170,7 @@ export function useKaraoke(
       // 쉐도잉 중에는 에코 트랙이 문장 끝까지 따라오도록 지연만큼 더 기다린다.
       const TAIL = 360 + (echoDelay ?? 0);
       const tick = () => {
+        if (!alive()) return;
         const ms = a.currentTime * 1000;
         syncTracks(ms);
         // 마지막 단어가 끝나고 무음만 남으면 즉시 종료(다음 문장으로 바로)
@@ -160,9 +185,15 @@ export function useKaraoke(
         // ⚠️ 백그라운드 탭·화면 꺼짐에서는 requestAnimationFrame 이 완전히 멈춘다.
         // 화면 갱신은 rAF 로 하되, "문장 종료" 확정은 반드시 타이머로 보장해야
         // 자동 진행과 청취 인정이 멈추지 않는다.
+        if (!alive()) return;
         if (echoDelay && echoDelay > 0) {
+          // tick 을 먼저 취소하고 tailTick 으로 교체한다. 곧바로 덮어쓰면
+          // tick 의 rAF 핸들을 잃어 취소할 수 없게 된다(오디오 종료 후
+          // currentTime 이 멈춰 tick 은 스스로 끝나지도 못한다).
+          if (rafRef.current) cancelAnimationFrame(rafRef.current);
           const endedAt = performance.now();
           const tailTick = () => {
+            if (!alive()) return;
             syncTracks(lastEnd + (performance.now() - endedAt));
             rafRef.current = requestAnimationFrame(tailTick);
           };
@@ -178,15 +209,20 @@ export function useKaraoke(
         a.playbackRate = opts.rate ?? 1; // 매 재생 시도마다 재적용(load() 리셋 방지)
         a.play()
           .then(() => {
+            if (!alive()) return;
             rafRef.current = requestAnimationFrame(tick);
           })
           .catch(() => {
+            if (!alive()) return;
             if (retried) {
               speakFallback();
               return;
             }
             retried = true;
-            a.addEventListener("canplaythrough", startAudio, { once: true });
+            a.addEventListener("canplaythrough", startAudio, {
+              once: true,
+              signal: ac.signal,
+            });
             try {
               a.load();
             } catch {

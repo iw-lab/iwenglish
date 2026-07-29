@@ -20,8 +20,33 @@ const todayStr = todayISO;
 const addDays = addDaysISO;
 const diffDays = diffDaysISO;
 
-/** Leitner 박스별 복습 간격(일). 박스5(마스터)도 60일 뒤 망각 재검 */
+/**
+ * Leitner 박스별 복습 간격(일). box 는 1~5 이므로 BOX_DAYS[box] 로 인덱싱한다.
+ * box1=1일 · box2=3 · box3=7 · box4=21 · box5(마스터)=60일 뒤 망각 재검.
+ * (0번 자리는 box0 이 존재하지 않아 쓰이지 않는 자리표시자다.)
+ */
 const BOX_DAYS = [0, 1, 3, 7, 21, 60];
+
+/**
+ * Leitner 박스(1~5) → 다음 복습까지 일수.
+ * 과거 `BOX_DAYS[box - 1]` 로 잘못 인덱싱해 마스터(box5)가 60일이 아니라 21일을
+ * 쓰고 BOX_DAYS[5]=60 은 영영 도달하지 못했다. 회귀 방지를 위해 함수로 고정한다.
+ */
+export const boxIntervalDays = (box: number) => BOX_DAYS[box] ?? 60;
+
+/**
+ * 스트릭·프리즈 전이(순수). gapDays = 마지막 활동일과 오늘의 간격(일).
+ * 1일이면 연속, 2일이면 프리즈를 1개 소모해 연속 유지, 그 외에는 1로 리셋한다.
+ */
+export function nextStreak(
+  prev: { streak: number; freezes: number },
+  gapDays: number,
+): { streak: number; freezes: number } {
+  if (gapDays === 1) return { streak: prev.streak + 1, freezes: prev.freezes };
+  if (gapDays === 2 && prev.freezes > 0)
+    return { streak: prev.streak + 1, freezes: prev.freezes - 1 };
+  return { streak: 1, freezes: prev.freezes };
+}
 /** 레벨업 곡선: 레벨 n 까지 누적 XP = 100 * n */
 export const xpForLevel = (xp: number) => Math.floor(xp / 100) + 1;
 export const levelFloor = (lvl: number) => (lvl - 1) * 100;
@@ -191,12 +216,7 @@ function touchDay(s: ProgressState): Partial<ProgressState> {
   let freezes = s.freezes ?? 0;
   if (s.lastActiveDate !== today) {
     const gap = s.lastActiveDate ? diffDays(s.lastActiveDate, today) : 999;
-    if (gap === 1) streak = s.streak + 1;
-    else if (gap === 2 && freezes > 0) {
-      // 하루 빠졌지만 프리즈 사용 → 연속 유지
-      freezes -= 1;
-      streak = s.streak + 1;
-    } else streak = 1;
+    ({ streak, freezes } = nextStreak({ streak: s.streak, freezes }, gap));
     longest = Math.max(longest, streak);
   }
   return {
@@ -324,7 +344,7 @@ export const useProgress = create<ProgressState>()(
             correct: (prev?.correct ?? 0) + (correct ? 1 : 0),
             wrong: (prev?.wrong ?? 0) + (correct ? 0 : 1),
             lastReview: today,
-            nextReview: addDays(today, BOX_DAYS[box - 1] ?? 1),
+            nextReview: addDays(today, boxIntervalDays(box)),
           };
           const gained = awardXp ? (correct ? 10 : 3) : 0;
           return commit(s, {

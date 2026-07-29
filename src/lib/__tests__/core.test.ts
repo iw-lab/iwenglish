@@ -1,5 +1,6 @@
 import { describe, it, expect } from "vitest";
 import { tokenizeWords, normalizeWord, scoreColor } from "@/lib/utils";
+import { boxIntervalDays, nextStreak } from "@/store/progress";
 import {
   MIN_COVERAGE,
   READS_TO_COMPLETE,
@@ -386,5 +387,62 @@ describe("레벨 진단", () => {
         { level: 2, correct: true },
       ]),
     ).toBe(2);
+  });
+});
+
+describe("Leitner 복습 간격 (boxIntervalDays)", () => {
+  it("박스 1~4 간격이 설계값과 일치한다", () => {
+    expect(boxIntervalDays(1)).toBe(1);
+    expect(boxIntervalDays(2)).toBe(3);
+    expect(boxIntervalDays(3)).toBe(7);
+    expect(boxIntervalDays(4)).toBe(21);
+  });
+
+  it("마스터(박스5)는 60일 뒤 망각 재검 — 21일로 되돌아가는 회귀 방지", () => {
+    // 과거 BOX_DAYS[box-1] 로 인덱싱해 box5 가 21일을 쓰고
+    // 60일 값은 영영 도달하지 못하는 버그가 있었다.
+    expect(boxIntervalDays(5)).toBe(60);
+  });
+
+  it("범위를 벗어난 박스도 최장 간격으로 안전하게 떨어진다", () => {
+    expect(boxIntervalDays(6)).toBe(60);
+    expect(boxIntervalDays(99)).toBe(60);
+  });
+});
+
+describe("스트릭·프리즈 전이 (nextStreak)", () => {
+  it("어제 학습했으면 연속 +1, 프리즈는 그대로", () => {
+    expect(nextStreak({ streak: 3, freezes: 2 }, 1)).toEqual({
+      streak: 4,
+      freezes: 2,
+    });
+  });
+
+  it("하루 결석 + 프리즈 보유 → 프리즈 1개 쓰고 연속 유지", () => {
+    expect(nextStreak({ streak: 3, freezes: 2 }, 2)).toEqual({
+      streak: 4,
+      freezes: 1,
+    });
+  });
+
+  it("하루 결석인데 프리즈가 없으면 1로 리셋", () => {
+    expect(nextStreak({ streak: 9, freezes: 0 }, 2)).toEqual({
+      streak: 1,
+      freezes: 0,
+    });
+  });
+
+  it("이틀 이상 결석은 프리즈가 있어도 리셋된다(프리즈는 소모하지 않음)", () => {
+    expect(nextStreak({ streak: 9, freezes: 3 }, 3)).toEqual({
+      streak: 1,
+      freezes: 3,
+    });
+  });
+
+  it("첫 학습(이전 기록 없음)은 연속 1부터 시작", () => {
+    expect(nextStreak({ streak: 0, freezes: 0 }, 999)).toEqual({
+      streak: 1,
+      freezes: 0,
+    });
   });
 });

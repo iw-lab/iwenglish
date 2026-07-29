@@ -37,7 +37,11 @@ export function WordQuestionView({
     setSpellResult(null);
     /* eslint-enable react-hooks/set-state-in-effect */
     shownAt.current = performance.now();
-    if (question.kind === "listen" && audioSrc) playAudioUrl(audioSrc);
+    if (question.kind !== "listen" || !audioSrc) return;
+    const audio = playAudioUrl(audioSrc);
+    // 다음 문제로 넘어가면 이전 단어 발음을 즉시 끊는다.
+    // (없으면 빠르게 답할 때 두 단어 발음이 겹쳐 들려 듣기 문제가 망가진다)
+    return () => audio.pause();
   }, [question, audioSrc]);
 
   // 이벤트 핸들러에서의 시각 측정(응답속도 가드용) — 렌더가 아니라 사용자 액션 시점이므로

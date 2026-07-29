@@ -8,6 +8,11 @@ import type { Word } from "@/types/book";
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const raw = searchParams.get("w") ?? "";
+  // 길이 상한 — 이 엔드포인트는 정적 사전에 없는 단어를 외부 무료 사전으로 프록시하므로,
+  // 장문 요청이 그대로 외부 서브리퀘스트가 되지 않도록 입구에서 막는다.
+  // 영어 최장 단어도 45자라 64자면 충분하다.
+  if (raw.length > 64)
+    return NextResponse.json({ error: "too long" }, { status: 400 });
   const word = normalizeWord(raw);
   if (!word) return NextResponse.json({ error: "no word" }, { status: 400 });
 
@@ -38,12 +43,15 @@ export async function GET(request: Request) {
   }
 
   // 뜻·예문은 정적 사전에서만 (Gemini API 경로 제거됨 — 2026-07-12)
+  // meaning_ko 에 외부 사전의 영어 정의(definition_en)를 넣지 않는다 —
+  // 초등학생에게 "한국어 뜻" 자리에 영어 문장이 노출돼 어휘 퀴즈까지 오염된다.
+  // 한국어 뜻이 없으면 비워 두고 발음·예문만 제공한다.
   const result: Word = {
     text: word,
     lemma: word,
     ipa: dict.ipa,
     pos: dict.pos,
-    meaning_ko: dict.definition_en,
+    meaning_ko: "",
     example_en: dict.example_en,
     example_ko: "",
     audioUrl: localAudio || dict.audioUrl,

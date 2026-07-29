@@ -252,9 +252,14 @@ export function Reader({ book }: { book: Book }) {
   useEffect(() => {
     onEndRef.current = () => {
       // 한 문장을 끝까지 재생 = 청취 인정 (스킵·점프로는 절대 쌓이지 않음)
-      if (sentence) markHeard(sentence.id);
+      //
+      // ⚠️ 혼자 읽기(selfRead)는 제외한다. 이 모드는 오디오를 틀지 않고 가상 시계로
+      // 하이라이트만 자동 진행하므로, 인정해 버리면 화면만 켜 두어도 커버리지가 차서
+      // "끝까지 들어야만 도장" 게이트가 통째로 무력화된다. 혼자 읽기는 연습 수단이지
+      // 청취 실적이 아니다. (쉐도잉 실적도 같은 이유로 제외)
+      if (sentence && !selfRead) markHeard(sentence.id);
       // 쉐도잉(에코 트랙이 도는 단계)으로 완주한 문장만 쉐도잉 실적
-      if (shadowing && echoDelayMs !== null) bumpShadow();
+      if (shadowing && !selfRead && echoDelayMs !== null) bumpShadow();
 
       // 한 번의 완전한 반복(rep) 완료
       repRef.current += 1;
@@ -484,7 +489,7 @@ export function Reader({ book }: { book: Book }) {
             setSelfRead((v) => !v);
           }}
           aria-pressed={selfRead}
-          title="음성 없이 하이라이트만 — 직접 소리 내어 읽어요"
+          title="음성 없이 하이라이트만 — 직접 소리 내어 읽어요 (연습 모드라 도장 진도에는 반영되지 않아요)"
           className={cn(
             "shrink-0 rounded-full px-3 py-1.5 text-xs font-semibold transition",
             selfRead
@@ -495,6 +500,15 @@ export function Reader({ book }: { book: Book }) {
           🎤 혼자 읽기
         </button>
       </div>
+
+      {/* 혼자 읽기는 오디오 없이 자동 진행되므로 청취 커버리지에 넣지 않는다.
+          그 사실을 학생에게 먼저 알려 준다(안 알리면 도장이 안 찍히는 이유를 모른다). */}
+      {selfRead && (
+        <p className="mx-3 mt-1 rounded-chip bg-accent/15 px-3 py-1.5 text-center font-ko text-xs text-muted-foreground">
+          혼자 읽기는 연습 모드예요. 소리를 듣지 않으니{" "}
+          <strong className="font-semibold">도장 진도에는 반영되지 않아요.</strong>
+        </p>
+      )}
 
       {/* 그림 + 본문 (데스크톱 2단) — 그림 칸을 auto 트랙으로: 이미지 실제 폭만큼만 차지해 가운데 빈 공간 제거 */}
       <div className="flex flex-1 flex-col lg:grid lg:grid-cols-[auto_minmax(0,1fr)] lg:items-start lg:gap-6 lg:px-6 lg:py-4 xl:gap-8">
@@ -525,22 +539,42 @@ export function Reader({ book }: { book: Book }) {
           <div className="space-y-2.5">
             {page?.sentences.map((s, i) => {
               const isActive = i === sentIdx;
+              // 문장 탭으로 낭독 위치를 옮길 수 있는 모드인지
+              const selectable = mode === "sentence" || mode === "read-aloud";
+              const select = () => {
+                stopAuto();
+                setSentIdx(i);
+              };
               return (
                 <div
                   key={s.id}
+                  // 마우스·터치 전용이면 키보드/스크린리더 사용자는 문장 이동이 불가능하다.
+                  // 내부에 단어 탭 <button> 이 있어 <button> 중첩은 불가 → role="button".
+                  role={selectable ? "button" : undefined}
+                  tabIndex={selectable ? 0 : undefined}
+                  aria-current={isActive ? "true" : undefined}
+                  aria-label={selectable ? `${i + 1}번째 문장 듣기` : undefined}
                   onClick={(e) => {
                     // 단어 탭(버튼) 클릭이면 문장 선택/낭독위치 이동 안 함
                     if ((e.target as HTMLElement).closest("button")) return;
-                    if (mode === "sentence" || mode === "read-aloud") {
-                      stopAuto();
-                      setSentIdx(i);
-                    }
+                    if (selectable) select();
                   }}
+                  onKeyDown={
+                    selectable
+                      ? (e) => {
+                          if (e.key !== "Enter" && e.key !== " ") return;
+                          // 단어 버튼에 포커스가 있을 때는 그 버튼이 처리하게 둔다
+                          if ((e.target as HTMLElement).closest("button")) return;
+                          e.preventDefault(); // Space 스크롤 방지
+                          select();
+                        }
+                      : undefined
+                  }
                   className={cn(
                     "rounded-card p-3 transition",
                     isActive ? "bg-card shadow-sm ring-1 ring-primary/30" : "opacity-70",
-                    (mode === "sentence" || mode === "read-aloud") &&
-                      "cursor-pointer",
+                    selectable &&
+                      "cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary",
                   )}
                 >
                   <SentenceView

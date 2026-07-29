@@ -9,7 +9,9 @@
     "binding": "ASSETS"
   },
   "observability": { "enabled": true },
-  // D1: 배포 전 `wrangler d1 create echotale-db` 후 database_id 를 채우세요.
+  // D1: 현재 앱 코드에서 사용하지 않는 예약 바인딩이다.
+  // 학습 기록은 전부 기기의 localStorage 에만 저장되며 서버로 전송되지 않는다.
+  // 향후 "기기간 동기화"를 선택 기능으로 붙일 때 쓰려고 남겨 둔 자리(schema.sql 참고).
   "d1_databases": [
     {
       "binding": "DB",

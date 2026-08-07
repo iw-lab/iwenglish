@@ -168,7 +168,7 @@ export const SHADOW_STEPS: ShadowStep[] = [
     id: 2,
     emoji: "👫",
     name: "같이 읽기",
-    desc: "원어민과 동시에 읽어요. 주황 글씨가 파랑과 같이 움직여요.",
+    desc: "원어민과 동시에 읽어요. 주황 글씨가 노란 칸과 같이 움직여요.",
     delayMs: 0,
     hideText: false,
     volume: 0.85,

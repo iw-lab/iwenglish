@@ -160,6 +160,9 @@ export function Reader({ book }: { book: Book }) {
 
   // 연속 낭독(쭉 읽어주기) 진행 플래그
   const autoRef = useRef(false);
+  // "이어서 읽기"처럼 점프 직후 곧바로 재생해야 하는 경우의 1회성 플래그.
+  // setState 직후에는 karaoke 가 아직 옛 문장에 묶여 있어 즉시 play() 할 수 없다.
+  const resumeRef = useRef(false);
 
   const goTo = (gi: number) => {
     const target = flat[gi];
@@ -180,8 +183,15 @@ export function Reader({ book }: { book: Book }) {
   const goToFirstUnheard = () => {
     const gi = flat.findIndex((f) => !heard.has(f.s.id));
     if (gi === -1) return;
+    const same = flat[gi]?.s.id === sentence?.id;
     stopAuto();
     goTo(gi);
+    // 버튼에 재생 아이콘이 붙어 있고 문구도 "이어서 읽기"다. 점프만 하고 멈춰 있으면
+    // 커버리지에 막힌 아이가 재생 버튼을 다시 찾아야 한다 — 그 문장에서 재생을 누른
+    // 것과 똑같이 동작시킨다.
+    autoRef.current = mode === "read-aloud";
+    if (same) karaoke.play(); // 문장이 그대로면 아래 sentence.id 이펙트가 돌지 않는다
+    else resumeRef.current = true;
     if (typeof window !== "undefined")
       window.scrollTo({ top: 0, behavior: "smooth" });
   };
@@ -291,7 +301,9 @@ export function Reader({ book }: { book: Book }) {
   // 문장이 바뀌면(자동 진행 중) 새 문장을 이어서 재생 + 반복 카운터 리셋
   useEffect(() => {
     repRef.current = 0;
-    if (autoRef.current && sentence) karaoke.play();
+    const resume = resumeRef.current;
+    resumeRef.current = false;
+    if ((autoRef.current || resume) && sentence) karaoke.play();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [sentence?.id]);
 

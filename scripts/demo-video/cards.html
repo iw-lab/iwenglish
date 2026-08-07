@@ -1,0 +1,89 @@
+<!doctype html>
+<!--
+  시연영상 타이틀 카드 — 앱과 같은 색 토큰(globals.css)을 써서 화면 톤을 맞춘다.
+  #intro (오프닝 문제 제기) / #outro (오픈소스 마무리). 애니메이션은 로드 즉시 시작하고
+  나레이션 길이에 맞춰 delay 를 박아 두었다.
+-->
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      :root {
+        --background: oklch(0.975 0.012 85);
+        --foreground: oklch(0.28 0.02 60);
+        --muted-foreground: oklch(0.52 0.02 65);
+        --primary: oklch(0.62 0.07 155);
+        --accent: oklch(0.72 0.13 40);
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1280px; height: 720px; overflow: hidden;
+        background: var(--background); color: var(--foreground);
+        font-family: "Apple SD Gothic Neo", "Pretendard", system-ui, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      .stage {
+        width: 100%; height: 100%; display: none;
+        flex-direction: column; justify-content: center;
+        padding: 0 108px; gap: 26px;
+      }
+      body[data-card="intro"] .stage#intro,
+      body[data-card="outro"] .stage#outro { display: flex; }
+
+      .line { opacity: 0; transform: translateY(14px); animation: rise .75s ease-out forwards; }
+      @keyframes rise { to { opacity: 1; transform: none; } }
+
+      .sub { font-size: 40px; font-weight: 600; color: var(--muted-foreground); letter-spacing: -0.02em; }
+      .big { font-size: 62px; font-weight: 800; letter-spacing: -0.03em; line-height: 1.25; }
+      .punch { font-size: 66px; font-weight: 900; letter-spacing: -0.035em; line-height: 1.3; }
+      .punch em { font-style: normal; color: var(--accent); }
+      .rule { width: 96px; height: 6px; border-radius: 99px; background: var(--accent); opacity: 0; animation: rise .6s ease-out forwards; }
+
+      /* ── intro 타이밍(나레이션 15.3초) ── */
+      #intro .l1 { animation-delay: .35s; }
+      #intro .l2 { animation-delay: 4.6s; }
+      #intro .rule { animation-delay: 8.4s; }
+      #intro .l3 { animation-delay: 8.9s; }
+
+      /* ── outro ── */
+      #outro { align-items: flex-start; }
+      .brand { display: flex; align-items: baseline; gap: 16px; }
+      .brand b { font-size: 72px; font-weight: 900; letter-spacing: -0.04em; }
+      .brand b i { font-style: normal; color: var(--primary); }
+      .badge {
+        display: inline-block; padding: 8px 20px; border-radius: 999px;
+        background: var(--primary); color: #fff; font-size: 26px; font-weight: 800;
+      }
+      .urls { margin-top: 12px; display: flex; flex-direction: column; gap: 14px; }
+      .urls div { font-size: 31px; font-weight: 700; }
+      .urls span { color: var(--muted-foreground); font-weight: 600; margin-right: 14px; }
+      .foot { margin-top: 26px; font-size: 24px; color: var(--muted-foreground); font-weight: 600; }
+      #outro .l1 { animation-delay: .3s; }
+      #outro .l2 { animation-delay: 2.4s; }
+      #outro .l3 { animation-delay: 4.4s; }
+      #outro .l4 { animation-delay: 7.4s; }
+    </style>
+  </head>
+  <body>
+    <section class="stage" id="intro">
+      <div class="line l1 sub">초등 영어 시간 · 교사 한 명, 학생 서른 명</div>
+      <div class="line l2 big">발음은 1:1로 봐줄 수 없습니다.</div>
+      <div class="line rule"></div>
+      <div class="line l3 punch">그리고 대부분의 학습 앱은<br />— <em>재생 버튼만 눌러도 '완료'</em>가 됩니다.</div>
+    </section>
+
+    <section class="stage" id="outro">
+      <div class="line l1 brand"><b>Echo<i>Tale</i></b><span class="badge">MIT License</span></div>
+      <div class="line l2 urls">
+        <div><span>바로 써보기</span>echotale.simssijjang-d79.workers.dev</div>
+        <div><span>소스 코드</span>github.com/iw-lab/iwenglish</div>
+      </div>
+      <div class="line l3 big" style="font-size: 40px">교실에서 시작해, 교실로 돌려보냅니다.</div>
+      <div class="line l4 foot">2026 오픈소스 개발자대회 · 접수번호 857 · 에코테일 프로젝트</div>
+    </section>
+
+    <script>
+      document.body.dataset.card = location.hash.replace("#", "") || "intro";
+    </script>
+  </body>
+</html>

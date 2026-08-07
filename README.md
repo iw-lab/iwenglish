@@ -4,6 +4,9 @@
 
 > **Read it. Hear it. Echo it. Speak it.**
 
+**▶ 3분 시연영상 — https://youtu.be/EQGmaTMdnxY**
+(실제 배포본을 스크립트로 구동해 녹화했습니다. 녹화 파이프라인은 [`scripts/demo-video`](scripts/demo-video)에 있습니다.)
+
 EchoTale은 초등 영어 학습자를 위한 오픈소스 PWA입니다. AI가 생성한 그림책과
 원어민 음성으로 **Read → Hear → Echo → Speak**(읽고 → 듣고 → 따라 하고 → 말하기)
 셰도잉 루프를 제공합니다. 계정 없이 바로 실행되며, 학습 상태는 기기에 로컬 저장됩니다.

@@ -1,0 +1,51 @@
+<!doctype html>
+<!-- 유튜브 썸네일(1280×720) — 앱과 같은 색 토큰. 작게 줄여도 읽히도록 문장 하나만 크게. -->
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      :root {
+        --background: oklch(0.975 0.012 85);
+        --foreground: oklch(0.28 0.02 60);
+        --muted-foreground: oklch(0.52 0.02 65);
+        --primary: oklch(0.62 0.07 155);
+        --accent: oklch(0.72 0.13 40);
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1280px; height: 720px; overflow: hidden;
+        background: var(--background); color: var(--foreground);
+        font-family: "Apple SD Gothic Neo", system-ui, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      .wrap { height: 100%; display: flex; flex-direction: column; justify-content: center; padding: 0 76px; gap: 30px; }
+      .kicker { display: flex; align-items: center; gap: 16px; }
+      .kicker b { font-size: 46px; font-weight: 900; letter-spacing: -0.04em; }
+      .kicker b i { font-style: normal; color: var(--primary); }
+      .kicker span {
+        padding: 7px 18px; border-radius: 999px; background: var(--primary);
+        color: #fff; font-size: 21px; font-weight: 800;
+      }
+      h1 { font-size: 92px; font-weight: 900; letter-spacing: -0.045em; line-height: 1.18; }
+      h1 em { font-style: normal; color: var(--accent); }
+      .strike { position: relative; display: inline-block; }
+      .strike::after {
+        content: ""; position: absolute; left: -6px; right: -6px; top: 56%; height: 9px;
+        background: var(--accent); border-radius: 99px; transform: rotate(-1.6deg);
+      }
+      .foot { display: flex; align-items: center; gap: 14px; font-size: 25px; font-weight: 700; color: var(--muted-foreground); }
+      .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--muted-foreground); opacity: .5; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="kicker"><b>Echo<i>Tale</i></b><span>오픈소스 · MIT</span></div>
+      <h1><span class="strike">재생만 눌러도 '완료'</span><br />인 앱은,<br /><em>배운 걸 증명하지 못합니다.</em></h1>
+      <div class="foot">
+        <span>끝까지 들은 문장만 인정</span><span class="dot"></span>
+        <span>그림책 352권</span><span class="dot"></span>
+        <span>계정·비용 없음</span>
+      </div>
+    </div>
+  </body>
+</html>

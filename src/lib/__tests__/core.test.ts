@@ -446,3 +446,33 @@ describe("스트릭·프리즈 전이 (nextStreak)", () => {
     });
   });
 });
+
+/**
+ * 🔴 자산 무결성 — '듣고 고르기'는 단어를 화면에 보여주지 않는다.
+ * 발음 mp3 가 없으면 아이는 소리도 글자도 없이 4지선다를 찍어야 하고,
+ * 그 결과가 Leitner 박스에 그대로 기록된다. "검증된 학습"의 근간이 무너지는 결함이라
+ * 데이터 쪽에서 막는다.
+ *
+ * 실측 사고(2026-08-10): gen-word-audio 가 **책 본문 단어만** 대상으로 삼아
+ * 그림책에 안 나오는 학술 어휘가 통째로 빠졌다 — 1000개 중 403개 결손, 레벨5는 92%.
+ * 라이브에서 실제로 404 였고 화면엔 아무 경고도 없었다.
+ */
+describe("자산 무결성 — 학습 단어 발음", () => {
+  it("ewords 1000개 전부 발음 mp3 가 실재한다", async () => {
+    const { existsSync, statSync } = await import("node:fs");
+    const { join } = await import("node:path");
+    const { ewords } = await import("@/data/ewords");
+    const { wordAudioBase } = await import("@/lib/utils");
+
+    const dir = join(process.cwd(), "public", "seed", "_words");
+    const missing = ewords
+      .map((w) => ({ w: w.english, f: join(dir, `${wordAudioBase(w.english)}.mp3`) }))
+      .filter(({ f }) => !existsSync(f) || statSync(f).size < 300)
+      .map(({ w }) => w);
+
+    expect(
+      missing,
+      `발음 mp3 결손 ${missing.length}개 — 'pnpm seed:words' 로 생성하세요. 예: ${missing.slice(0, 8).join(", ")}`,
+    ).toEqual([]);
+  });
+});

@@ -27,6 +27,7 @@ import { join } from "node:path";
 
 import { tokenizeWords, normalizeWord, wordAudioBase } from "@/lib/utils";
 import { openaiTTS } from "@/lib/openai";
+import { ewords } from "@/data/ewords";
 
 const SEED_DIR = join(process.cwd(), "data", "seed");
 const SHARED = process.env.OUT || join(process.cwd(), "public", "seed", "_words");
@@ -104,6 +105,17 @@ async function main() {
           const base = wordAudioBase(w);
           if (base && !words.has(base)) words.set(base, w);
         }
+  }
+
+  // 🔴 학습용 1000단어(ewords)도 대상이다. 책 본문만 훑으면 그림책에 안 나오는
+  //    학술 어휘(레벨 4~5)가 통째로 빠지고, 그 단어의 '듣고 고르기' 문제는
+  //    소리 없이 출제된다 — 단어가 화면에 없는 유형이라 아이는 찍을 수밖에 없다.
+  //    실측(2026-08-10): 1000개 중 403개 결손, 레벨5는 92%.
+  for (const e of ewords) {
+    const w = normalizeWord(e.english);
+    if (!w) continue;
+    const base = wordAudioBase(w);
+    if (base && !words.has(base)) words.set(base, w);
   }
 
   // 생성 대상 선별(재사용/스킵). 엔진 전환 시 FORCE=1로 기존 파일까지 재생성.

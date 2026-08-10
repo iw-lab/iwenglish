@@ -863,7 +863,9 @@ export function Reader({ book }: { book: Book }) {
       {/* 컨트롤 */}
       {(
         <div
-          className="sticky bottom-0 z-30 flex items-center justify-center gap-3 border-t border-border bg-background/90 px-3 py-3 backdrop-blur-md"
+          // 🔴 flex-wrap 필수. 자식 합계가 좁은 폰에서 538px 라 줄바꿈이 없으면
+          //    화면 밖으로 밀려 리더 전체에 가로 스크롤이 생긴다(320~414px 전부 재현).
+          className="sticky bottom-0 z-30 flex flex-wrap items-center justify-center gap-2 border-t border-border bg-background/90 px-3 py-3 backdrop-blur-md sm:gap-3"
           style={{ paddingBottom: "calc(0.75rem + env(safe-area-inset-bottom))" }}
         >
           <button

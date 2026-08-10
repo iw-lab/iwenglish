@@ -12,6 +12,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "pretypecheck": "tsx scripts/build-content.ts",
     "typecheck": "tsc --noEmit",
     "seed:audio": "tsx scripts/gen-audio.ts",
     "seed:words": "tsx scripts/gen-word-audio.ts",

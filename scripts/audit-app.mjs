@@ -76,6 +76,7 @@ async function main() {
 
   // ── 0. 오디오 디코딩 살아 있는지 먼저 확인(대조군) ──
   await page.goto(`${BASE}/`, { waitUntil: "domcontentloaded" });
+  await page.waitForTimeout(1500);
   const decodes = await page.evaluate(async () => {
     const a = document.createElement("audio");
     a.src = "/seed/brown-boot-marches/audio/p1-s1.mp3";
@@ -95,7 +96,8 @@ async function main() {
   // ── 1. 모든 라우트가 뜨는가 ──
   const routes = ["/", "/learn", "/wordbook", "/progress", "/more", "/pricing"];
   for (const r of routes) {
-    const res = await page.goto(BASE + r, { waitUntil: "networkidle" }).catch(() => null);
+    const res = await page.goto(BASE + r, { waitUntil: "domcontentloaded" }).catch(() => null);
+    await page.waitForTimeout(1800); // 라이브(Worker)는 networkidle 이 안 와서 고정 대기로 정착시킨다
     if (!res || res.status() >= 400) add("HIGH", "라우트", `${r} 응답 ${res?.status()}`);
     const txt = await page.locator("body").innerText();
     if (/Application error|Unhandled|hydration/i.test(txt))
@@ -105,7 +107,8 @@ async function main() {
 
   // ── 2. 낭독: 재생하면 커버리지가 실제로 오르는가 ──
   console.log("\n[낭독] 재생 → 커버리지 상승 검사");
-  await page.goto(`${BASE}/read/brown-boot-marches`, { waitUntil: "networkidle" });
+  await page.goto(`${BASE}/read/brown-boot-marches`, { waitUntil: "domcontentloaded" });
+  await page.waitForTimeout(1500);
   await skipOnboarding(page);
   const before = await num(page, /(\d+)%/);
   // 재생 버튼은 aria-label 로 잡되, 없으면 하단 중앙의 원형 버튼으로 폴백한다
@@ -129,7 +132,8 @@ async function main() {
   console.log("\n[치팅 차단] 무청취 점프 검사");
   const p2 = await ctx.newPage();
   watch(p2, "cheat", bag);
-  await p2.goto(`${BASE}/read/busy-little-ant`, { waitUntil: "networkidle" });
+  await p2.goto(`${BASE}/read/busy-little-ant`, { waitUntil: "domcontentloaded" });
+  await p2.waitForTimeout(1500);
   await skipOnboarding(p2);
   for (let i = 0; i < 12; i++) {
     const b = p2.getByRole("button", { name: /다음 쪽/ });
@@ -158,7 +162,8 @@ async function main() {
   for (const lv of [1, 3, 5]) {
     const p3 = await ctx.newPage();
     watch(p3, `learn-lv${lv}`, bag);
-    await p3.goto(`${BASE}/learn`, { waitUntil: "networkidle" });
+    await p3.goto(`${BASE}/learn`, { waitUntil: "domcontentloaded" });
+  await p3.waitForTimeout(1500);
     await skipOnboarding(p3);
     await p3.evaluate((n) => {
       const b = [...document.querySelectorAll("button")].find((x) => new RegExp(`레벨 ${n}`).test(x.textContent));
@@ -197,7 +202,8 @@ async function main() {
   console.log("\n[진도] 보호자 탭 렌더 검사");
   const p4 = await ctx.newPage();
   watch(p4, "progress", bag);
-  await p4.goto(`${BASE}/progress`, { waitUntil: "networkidle" });
+  await p4.goto(`${BASE}/progress`, { waitUntil: "domcontentloaded" });
+  await p4.waitForTimeout(1500);
   await skipOnboarding(p4);
   await p4.evaluate(() => [...document.querySelectorAll("button")].find((b) => /보호자|학부모/.test(b.textContent))?.click());
   await p4.waitForTimeout(3000);
@@ -211,7 +217,8 @@ async function main() {
   console.log("\n[쉐도잉] 사다리 5단계 검사");
   const p5 = await ctx.newPage();
   watch(p5, "shadow", bag);
-  await p5.goto(`${BASE}/read/a-rainy-day-friend`, { waitUntil: "networkidle" });
+  await p5.goto(`${BASE}/read/a-rainy-day-friend`, { waitUntil: "domcontentloaded" });
+  await p5.waitForTimeout(1500);
   await skipOnboarding(p5);
   await p5.getByRole("button", { name: /쉐도잉/ }).first().click();
   await p5.waitForTimeout(900);
@@ -243,7 +250,8 @@ async function main() {
   console.log("\n[단어탭] 본문 단어 탭 → 뜻 팝업");
   const p6 = await ctx.newPage();
   watch(p6, "wordtap", bag);
-  await p6.goto(`${BASE}/read/a-rainy-day-friend`, { waitUntil: "networkidle" });
+  await p6.goto(`${BASE}/read/a-rainy-day-friend`, { waitUntil: "domcontentloaded" });
+  await p6.waitForTimeout(1500);
   await skipOnboarding(p6);
   // 🔴 특정 단어("rainy")를 찾아 누르면 안 된다 — 리더는 마지막으로 본 쪽에서 열려
   //    그 단어가 화면에 없을 수 있고, 그러면 "뜻이 안 나온다"는 거짓 결함이 난다(실측 오탐).
@@ -270,7 +278,7 @@ async function main() {
   const p7 = await mob.newPage();
   watch(p7, "mobile", bag);
   for (const r of ["/", "/learn", "/progress", "/read/busy-little-ant"]) {
-    await p7.goto(BASE + r, { waitUntil: "networkidle" });
+    await p7.goto(BASE + r, { waitUntil: "domcontentloaded" });
     await skipOnboarding(p7);
     const o = await p7.evaluate(() => ({
       doc: document.documentElement.scrollWidth,

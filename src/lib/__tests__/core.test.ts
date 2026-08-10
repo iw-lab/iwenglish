@@ -458,13 +458,22 @@ describe("스트릭·프리즈 전이 (nextStreak)", () => {
  * 라이브에서 실제로 404 였고 화면엔 아무 경고도 없었다.
  */
 describe("자산 무결성 — 학습 단어 발음", () => {
-  it("ewords 1000개 전부 발음 mp3 가 실재한다", async () => {
+  it("ewords 1000개 전부 발음 mp3 가 실재한다", async ({ skip }) => {
     const { existsSync, statSync } = await import("node:fs");
     const { join } = await import("node:path");
     const { ewords } = await import("@/data/ewords");
     const { wordAudioBase } = await import("@/lib/utils");
 
     const dir = join(process.cwd(), "public", "seed", "_words");
+    // 대회 제출 ZIP 은 용량 때문에 public/seed(1.8GB)를 뺀 소스만 담는다.
+    // 그 상태로 pnpm test 를 돌리면 "에셋이 없다"는 이유로 실패해 버려,
+    // 코드 결함이 아닌 것을 결함으로 보고하게 된다 → 에셋이 아예 없으면 건너뛴다.
+    // (에셋을 포함한 저장소·개발 환경에서는 정상적으로 검사된다.)
+    if (!existsSync(dir)) {
+      skip();
+      return;
+    }
+
     const missing = ewords
       .map((w) => ({ w: w.english, f: join(dir, `${wordAudioBase(w.english)}.mp3`) }))
       .filter(({ f }) => !existsSync(f) || statSync(f).size < 300)

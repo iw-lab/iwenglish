@@ -200,8 +200,23 @@ export function WordChip({
                   {data.ipa} · {data.pos}
                 </span>
               )}
-              <span className="block font-ko text-base">{data.meaning_ko}</span>
-              {data.example_en && (
+              {data.lemma && data.lemma !== data.text && (
+                <span className="block font-ko text-xs text-muted-foreground">
+                  원형: {data.lemma}
+                </span>
+              )}
+              {data.meaning_ko ? (
+                <span className="block font-ko text-base">
+                  {data.meaning_ko}
+                </span>
+              ) : (
+                // 한글 뜻이 없으면 그 자리를 비워 두지 않는다 — 예전엔 빈 줄 아래로
+                // 영어 예문만 남아 초등학생에게 "영어 정의"처럼 보였다(2026-08-25).
+                <span className="block font-ko text-base text-muted-foreground">
+                  아직 뜻을 준비하지 못했어요
+                </span>
+              )}
+              {data.meaning_ko && data.example_en && (
                 <span className="block rounded-md bg-muted px-2 py-1 text-sm">
                   {data.example_en}
                   <br />

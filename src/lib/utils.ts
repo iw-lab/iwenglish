@@ -37,9 +37,16 @@ export function tokenizeWords(
   return tokens;
 }
 
-/** 단어 정규화(사전 캐시 키): 소문자 + 양끝 구두점 제거 */
+/** 단어 정규화(사전 캐시 키): 소문자 + 양끝 구두점 제거.
+ *  ⚠️ 양끝의 아포스트로피·하이픈도 벗긴다 — 작은따옴표 대사('brave)나 복수 소유격
+ *  (grandparents')이 사전에 없는 키를 만들어 "뜻 없음"으로 새는 것을 막는다.
+ *  단어 **안쪽**의 '·- 는 보존한다(don't · grown-ups). */
 export function normalizeWord(w: string): string {
-  return w.toLowerCase().replace(/^[^a-z0-9']+|[^a-z0-9']+$/g, "");
+  return w
+    .toLowerCase()
+    .normalize("NFKC")
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/^[^a-z0-9]+|[^a-z0-9]+$/g, "");
 }
 
 /** 단어 발음 mp3 파일명 베이스(공용 _words 폴더). normalizeWord 후 영숫자 외 → _ */

@@ -48,6 +48,41 @@ describe("normalizeWord", () => {
     expect(normalizeWord("Sky!")).toBe("sky");
     expect(normalizeWord('"Hello,"')).toBe("hello");
   });
+  // 2026-08-25 실측 결함: 작은따옴표 대사에서 'brave · 'i'm 같은 키가 생겨
+  // 사전에 영원히 없는 단어가 됐다(34개). 양끝 아포스트로피는 벗겨야 한다.
+  it("양끝 아포스트로피·하이픈을 벗긴다", () => {
+    expect(normalizeWord("'brave")).toBe("brave");
+    expect(normalizeWord("grandparents'")).toBe("grandparents");
+    expect(normalizeWord("'")).toBe("");
+    expect(normalizeWord("-well-")).toBe("well");
+  });
+  it("단어 안쪽의 아포스트로피·하이픈은 보존한다", () => {
+    expect(normalizeWord("don't")).toBe("don't");
+    expect(normalizeWord("grown-ups")).toBe("grown-ups");
+    expect(normalizeWord("'it's'")).toBe("it's");
+  });
+  it("둥근 따옴표(U+2019)를 곧은 것으로 통일한다", () => {
+    expect(normalizeWord("don\u2019t")).toBe("don't");
+  });
+});
+
+describe("lemmaCandidates", () => {
+  it("규칙 굴절의 원형 후보를 낸다", async () => {
+    const { lemmaCandidates } = await import("@/lib/lemma");
+    expect(lemmaCandidates("waddles")).toContain("waddle");
+    expect(lemmaCandidates("bellies")).toContain("belly");
+    expect(lemmaCandidates("stopped")).toContain("stop");
+    expect(lemmaCandidates("running")).toContain("run");
+    expect(lemmaCandidates("making")).toContain("make");
+    expect(lemmaCandidates("happiest")).toContain("happy");
+    expect(lemmaCandidates("quickly")).toContain("quick");
+    expect(lemmaCandidates("dog's")).toContain("dog");
+  });
+  it("자기 자신·두 글자 미만은 내지 않는다", async () => {
+    const { lemmaCandidates } = await import("@/lib/lemma");
+    expect(lemmaCandidates("cat")).not.toContain("cat");
+    expect(lemmaCandidates("is")).toEqual([]);
+  });
 });
 
 describe("scoreColor", () => {
@@ -483,5 +518,97 @@ describe("자산 무결성 — 학습 단어 발음", () => {
       missing,
       `발음 mp3 결손 ${missing.length}개 — 'pnpm seed:words' 로 생성하세요. 예: ${missing.slice(0, 8).join(", ")}`,
     ).toEqual([]);
+  });
+});
+
+/**
+ * 🔴 사전 커버리지 — 본문에 나온 단어를 아이가 탭했는데 한글 뜻이 안 뜨면
+ * 그건 "사전 정보를 못 찾았다"가 아니라 콘텐츠 결손이다.
+ *
+ * 실측 사고(2026-08-25): 책을 추가하고 `pnpm seed:worddict` 를 다시 돌리지 않아
+ * dict.json 이 낡은 채로 배포됐다 — 본문 고유단어 4,478개 중 **977개(92권)** 가
+ * 한글 뜻 없음. 화면엔 경고 대신 외부 사전의 영어 예문("the waddle of a duck")만
+ * 떴다. qa-seed.mjs 에 WARN 이 있었지만 아무도 안 봤다 → 테스트로 내린다.
+ */
+describe("사전 커버리지 — 본문 단어 한글 뜻", () => {
+  it("모든 책의 본문 단어에 한글 뜻이 있다", async ({ skip }) => {
+    const { existsSync, readFileSync, readdirSync } = await import("node:fs");
+    const { join } = await import("node:path");
+    const { tokenizeWords, normalizeWord } = await import("@/lib/utils");
+    const { lemmaCandidates } = await import("@/lib/lemma");
+
+    const dictFile = join(process.cwd(), "public", "dict.json");
+    const seedDir = join(process.cwd(), "data", "seed");
+    // dict.json 은 `pnpm seed:content` 산출물 — 없는 체크아웃에선 건너뛴다.
+    if (!existsSync(dictFile) || !existsSync(seedDir)) {
+      skip();
+      return;
+    }
+
+    const dict = JSON.parse(readFileSync(dictFile, "utf8")) as Record<
+      string,
+      { meaning_ko?: string }
+    >;
+    const known = (w: string) => Boolean(dict[w]?.meaning_ko);
+
+    const missing = new Map<string, string>(); // 단어 → 처음 발견된 책
+    for (const f of readdirSync(seedDir).filter(
+      (x) => x.endsWith(".json") && !x.startsWith("_"),
+    )) {
+      const book = JSON.parse(readFileSync(join(seedDir, f), "utf8")) as {
+        words?: Record<string, { meaning_ko?: string }>;
+        pages: { sentences: { text: string }[] }[];
+      };
+      for (const p of book.pages)
+        for (const s of p.sentences)
+          for (const t of tokenizeWords(s.text)) {
+            const w = normalizeWord(t.word);
+            if (!w || /^[0-9-]+$/.test(w) || missing.has(w)) continue;
+            if (book.words?.[w]?.meaning_ko || known(w)) continue;
+            if (lemmaCandidates(w).some(known)) continue;
+            missing.set(w, f.replace(/\.json$/, ""));
+          }
+    }
+
+    const list = [...missing].map(([w, b]) => `${w}(${b})`);
+    expect(
+      list,
+      `한글 뜻 없는 본문 단어 ${list.length}개 — 'pnpm seed:worddict' 로 생성하세요. 예: ${list.slice(0, 8).join(", ")}`,
+    ).toEqual([]);
+  });
+});
+
+/**
+ * 🔴 정규화 규칙 단일화 — 토큰화/정규화 규칙은 src/lib/utils.ts 와
+ * scripts/_word-norm.mjs 두 구현으로 존재한다(.mjs 스크립트가 tsx 없이 돌아야 해서).
+ * 예전엔 이 규칙이 스크립트 3곳에 각각 복붙돼 있어 utils.ts 를 고쳐도 따라오지 않았다.
+ * 두 구현이 어긋나면 dict.json 키와 앱의 조회 키가 갈라져 단어 뜻이 통째로 샌다.
+ */
+describe("정규화 규칙 단일화 — utils.ts ↔ scripts/_word-norm.mjs", () => {
+  it("같은 입력에 같은 결과를 낸다", async () => {
+    const { normalizeWord, wordAudioBase } = await import("@/lib/utils");
+    const mjs = await import("../../../scripts/_word-norm.mjs");
+    const samples = [
+      "Sky!",
+      '"Hello,"',
+      "'brave",
+      "grandparents'",
+      "don't",
+      "grown-ups",
+      "Tae's",
+      "K-Pop",
+      "-well-",
+      "waddles",
+      "'",
+      "1",
+    ];
+    for (const s of samples) {
+      expect(mjs.normalizeWord(s), `normalizeWord("${s}")`).toBe(
+        normalizeWord(s),
+      );
+      expect(mjs.wordAudioBase(s), `wordAudioBase("${s}")`).toBe(
+        wordAudioBase(s),
+      );
+    }
   });
 });

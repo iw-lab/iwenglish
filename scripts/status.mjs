@@ -21,6 +21,7 @@
  */
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join, basename } from "node:path";
+import { tokenize, wordAudioBase } from "./_word-norm.mjs";
 
 const ROOT = process.cwd();
 const SEED = join(ROOT, "data", "seed");
@@ -53,14 +54,7 @@ const wordMp3 = new Set(
 
 const listDir = (dir) => (existsSync(dir) ? new Set(readdirSync(dir)) : new Set());
 
-/** 본문 토큰화 — src/lib/utils.ts tokenizeWords/normalizeWord 복제 (원본 변경 시 동기화).
- *  dict.json 키·_words mp3 파일명이 이 기준(하이픈·아포스트로피 보존)으로 생성됨. */
-const tokenize = (text) =>
-  (text.normalize("NFKC").replace(/[‘’]/g, "'").match(/[A-Za-z0-9']+(?:[-'][A-Za-z0-9']+)*/g) ?? [])
-    .map((w) => w.toLowerCase().replace(/^[^a-z0-9']+|[^a-z0-9']+$/g, ""))
-    .filter(Boolean);
-/** 단어 mp3 파일명 베이스 — utils.ts wordAudioBase 복제 (tae's → tae_s) */
-const wordAudioBase = (w) => w.replace(/[^a-z0-9]+/gi, "_");
+// 토큰화·mp3 파일명 규칙은 scripts/_word-norm.mjs 단일 정본(src/lib/utils.ts 와 동기)
 
 // ── 권별 스캔 ────────────────────────────────────────────────────────────
 function scanBook(file) {

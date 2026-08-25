@@ -2,6 +2,7 @@
 
 import type { Word } from "@/types/book";
 import { normalizeWord } from "@/lib/utils";
+import { lemmaCandidates } from "@/lib/lemma";
 
 interface RawEntry {
   ipa?: string;
@@ -38,21 +39,34 @@ async function load(): Promise<Record<string, RawEntry>> {
   return inflight;
 }
 
+function toWord(key: string, e: RawEntry, lemma = key): Word {
+  return {
+    text: key,
+    lemma,
+    ipa: e.ipa ?? "",
+    pos: e.pos ?? "",
+    meaning_ko: e.meaning_ko ?? "",
+    example_en: e.example_en ?? "",
+    example_ko: e.example_ko ?? "",
+    // 원형으로 찾아온 경우 원형의 mp3 를 쓰면 "waddles" 를 눌렀는데 "waddle" 이
+    // 들린다 — 표면형이 다르면 음원을 비워 Web Speech 가 실제 단어를 읽게 한다.
+    audioUrl: lemma === key ? (e.audioUrl ?? "") : "",
+  };
+}
+
 /** 정적 사전에서 단어 조회. 없으면 null(→ /api/word 폴백) */
 export async function getDictWord(raw: string): Promise<Word | null> {
   const key = normalizeWord(raw);
   if (!key) return null;
   const d = await load();
   const e = d[key];
-  if (!e || !e.meaning_ko) return null;
-  return {
-    text: key,
-    lemma: key,
-    ipa: e.ipa ?? "",
-    pos: e.pos ?? "",
-    meaning_ko: e.meaning_ko,
-    example_en: e.example_en ?? "",
-    example_ko: e.example_ko ?? "",
-    audioUrl: e.audioUrl ?? "",
-  };
+  if (e?.meaning_ko) return toWord(key, e);
+
+  // 표면형이 없으면 규칙 굴절을 벗겨 원형으로 한 번 더 — 사전 재생성을 놓친
+  // 신간의 단어가 통째로 "뜻 없음"으로 새는 것을 막는 안전망(src/lib/lemma.ts 주석 참고).
+  for (const base of lemmaCandidates(key)) {
+    const b = d[base];
+    if (b?.meaning_ko) return toWord(key, b, base);
+  }
+  return null;
 }

@@ -16,6 +16,7 @@
 import { createHash } from "node:crypto";
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import { join } from "node:path";
+import { normalizeWord, wordAudioBase } from "./_word-norm.mjs";
 
 const ROOT = process.cwd();
 const SEED = join(ROOT, "data", "seed");
@@ -25,13 +26,9 @@ const WORDS_AUDIO = join(PUB, "_words");
 const TRUNC_PNG = 50 * 1024; // 이 미만 png = 잘린 파일(과거 codex hang 잔재 실사례)
 const MAX_LINES = 150; // 미달 나열 상한(폭주 방지)
 
-// ── src/lib/utils.ts 의 tokenizeWords/normalizeWord/wordAudioBase 복제 ──
-// (.mjs 를 tsx 없이 node 단독 실행하기 위함 — 원본 변경 시 동기화 필요)
+// 토큰화·정규화 규칙은 scripts/_word-norm.mjs 단일 정본(src/lib/utils.ts 와 동기)
 const tokenizeWords = (text) =>
   text.match(/[A-Za-z0-9']+(?:[-'][A-Za-z0-9']+)*/g) ?? [];
-const normalizeWord = (w) =>
-  w.toLowerCase().replace(/^[^a-z0-9']+|[^a-z0-9']+$/g, "");
-const wordAudioBase = (w) => normalizeWord(w).replace(/[^a-z0-9]+/gi, "_");
 
 const fileSize = (p) => (existsSync(p) ? statSync(p).size : -1);
 const kb = (n) => `${Math.round(n / 1024)}KB`;

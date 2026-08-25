@@ -10,6 +10,7 @@
 import { readFileSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { tokenize } from "./_word-norm.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SEED = join(ROOT, "data", "seed");
@@ -29,17 +30,19 @@ const STORY_BAND = { preA1: [20, 90], A1: [40, 135], A2: [80, 215], B1: [200, 34
 const DAILY_AVG = { 1: 60, 2: 113, 3: 180, 4: 192, 5: 300, 6: 318 };
 
 const enWordCount = (s) => (s.match(/[A-Za-z']+/g) || []).length;
-// src/lib/utils.ts tokenizeWords/normalizeWord 정합 — dict.json 키가 하이픈·아포스트로피 보존(grown-ups 등)
-const tokensLower = (s) =>
-  (s.normalize("NFKC").replace(/[‘’]/g, "'").match(/[A-Za-z0-9']+(?:[-'][A-Za-z0-9']+)*/g) || [])
-    .map((w) => w.toLowerCase().replace(/^[^a-z0-9']+|[^a-z0-9']+$/g, ""))
-    .filter(Boolean);
+// 토큰화·정규화는 scripts/_word-norm.mjs 단일 정본(src/lib/utils.ts 와 동기)
+const tokensLower = tokenize;
 
 // ---------- 사전 ----------
 let dictKeys = new Set();
 try {
   const dict = JSON.parse(readFileSync(DICT, "utf8"));
-  dictKeys = new Set(Object.keys(dict).map((k) => k.toLowerCase()));
+  // 키만 있고 meaning_ko 가 비면 화면엔 "뜻 없음"으로 뜬다 — 뜻이 있는 것만 등재로 센다.
+  dictKeys = new Set(
+    Object.entries(dict)
+      .filter(([, v]) => v?.meaning_ko)
+      .map(([k]) => k.toLowerCase()),
+  );
 } catch (e) {
   console.error(`dict.json 로드 실패: ${e.message} — words 커버리지 검사 생략`);
 }

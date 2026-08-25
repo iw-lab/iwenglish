@@ -40,6 +40,7 @@ export interface BookMeta {
 }
 
 import { SEED_BOOKS_META, SHARED_DICT } from "@/data/content.generated";
+import { lemmaCandidates } from "@/lib/lemma";
 
 function loadMeta(): BookMeta[] {
   return SEED_BOOKS_META;
@@ -121,5 +122,13 @@ export function getStaticWord(key: string): Word | null {
   }
   const shared = SHARED_DICT[key];
   if (shared) return toWord(shared);
+
+  // 표면형이 없으면 규칙 굴절을 벗겨 원형으로 한 번 더(클라이언트 dict.ts 와 같은 안전망).
+  // 원형으로 찾았으면 음원은 비운다 — 표면형과 다른 발음이 나가지 않게.
+  for (const base of lemmaCandidates(key)) {
+    const w = SHARED_DICT[base];
+    if (w?.meaning_ko)
+      return { ...toWord(w), lemma: base, audioUrl: "" };
+  }
   return null;
 }

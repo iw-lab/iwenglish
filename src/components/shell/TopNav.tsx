@@ -16,7 +16,7 @@ const tabs = [
   { href: "/learn", label: "학습", icon: GraduationCap, match: (p: string) => p.startsWith("/learn") },
   { href: "/wordbook", label: "단어장", icon: NotebookPen, match: (p: string) => p.startsWith("/wordbook") },
   { href: "/progress", label: "진도", icon: BarChart3, match: (p: string) => p.startsWith("/progress") },
-  { href: "/more", label: "설정", icon: Settings, match: (p: string) => p.startsWith("/more") },
+  { href: "/more", label: "더보기", icon: Settings, match: (p: string) => p.startsWith("/more") },
 ];
 
 /** 데스크톱 상단 네비 (모바일은 BottomNav 사용) */

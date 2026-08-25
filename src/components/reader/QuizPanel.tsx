@@ -72,6 +72,17 @@ export function QuizPanel({
     setDone(false);
   };
 
+  // 호출부(Reader)가 book.quiz.length > 0 을 보고 막아주지만, 컴포넌트가 자기
+  // 전제를 스스로 지키게 한다 — 빈 덱이면 아래 cur.q.question_ko 에서 터진다.
+  if (!cur && !done)
+    return (
+      <div className="mx-auto max-w-md py-8 text-center">
+        <p className="font-ko text-muted-foreground">
+          이 책은 아직 이해 퀴즈가 준비되지 않았어요.
+        </p>
+      </div>
+    );
+
   if (done) {
     const passed = isQuizPassed(score, deck.length);
     return (

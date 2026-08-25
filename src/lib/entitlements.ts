@@ -6,7 +6,7 @@ export type Feature =
   | "sentence"
   | "word-tap"
   | "shadowing-basic"
-  | "shadowing-ladder" // 6단계 쉐도잉 사다리
+  | "shadowing-ladder" // 5단계 쉐도잉 사다리(SHADOW_STEPS 와 일치)
   | "pronunciation-precise" // 음소단위 정밀 발음평가
   | "offline" // PWA 오프라인 낭독
   | "teacher-report" // 교사 리포트 PDF

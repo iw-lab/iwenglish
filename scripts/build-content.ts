@@ -23,6 +23,9 @@ const PUBLIC_SEED = join(ROOT, "public", "seed");
 const OUT = join(ROOT, "src", "data", "content.generated.ts");
 const PUBLIC_DICT = join(ROOT, "public", "dict.json");
 
+/** 허용 연령대 — src/types/book.ts 의 AgeBand 와 반드시 같아야 한다. */
+const AGE_BANDS = ["5-7", "8-10", "9-11", "10-12", "11-13"] as const;
+
 function walkAssets(dir: string, base = "/seed"): string[] {
   if (!existsSync(dir)) return [];
   const out: string[] = [];
@@ -50,6 +53,13 @@ function validateBook(
   };
   for (const k of ["slug", "title", "title_ko", "level", "ageBand", "summary_ko", "words", "quiz"])
     if (b[k] == null || b[k] === "") fail(`필수 필드 누락: ${k}`);
+  // ageBand 는 src/types/book.ts 의 AgeBand 유니온으로 앱에 들어간다. 여기서
+  // 검증하지 않으면 시드에만 새 값이 생겨도 타입은 조용히 거짓말을 한다
+  // (2026-08-25 실측: 106권/30% 가 유니온 밖 값이었는데 tsc 가 못 봤다).
+  if (!AGE_BANDS.includes(b.ageBand as (typeof AGE_BANDS)[number]))
+    fail(
+      `ageBand '${b.ageBand}' 는 허용 목록 밖 — src/types/book.ts 의 AgeBand 와 scripts/build-content.ts 의 AGE_BANDS 를 함께 고치세요. 허용: ${AGE_BANDS.join(", ")}`,
+    );
   if (!Array.isArray(b.pages) || b.pages.length === 0) fail("pages 빈 배열");
   b.pages!.forEach((p, pi) => {
     if (!Array.isArray(p.sentences) || p.sentences.length === 0)

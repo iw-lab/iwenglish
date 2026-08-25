@@ -81,9 +81,15 @@ for (const f of files) {
   if (b.level !== undefined && !LEVELS.has(b.level)) E(`level '${b.level}' 유효하지 않음(preA1|A1|A2|B1)`);
 
   const isDaily = b.collection === "daily" || /^daily-\d+-/.test(fileSlug);
+  // myth(그리스로마신화 학습만화)는 stage 를 "권 번호"로 쓴다 — daily 의 난이도
+  // 단계와 다른 의미다. 신화 탭을 추가하고도 이 규칙이 안 따라와서 2권이 상시
+  // ERROR 였고, 그 소음이 진짜 ERROR 를 덮고 있었다(2026-08-25).
+  const isMyth = b.collection === "myth";
   if (isDaily) {
     if (b.collection !== "daily") E(`daily책 collection 누락/불일치('${b.collection}')`);
     if (!Number.isInteger(b.stage) || b.stage < 1 || b.stage > 6) E(`daily책 stage 누락/범위밖(${b.stage})`);
+  } else if (isMyth) {
+    if (!Number.isInteger(b.stage) || b.stage < 1) E(`myth책 권번호(stage) 누락/범위밖(${b.stage})`);
   } else {
     if (b.stage !== undefined) E(`스토리북에 stage(${b.stage}) 잘못 존재`);
   }
@@ -151,7 +157,7 @@ for (const f of files) {
       W(`dict.json 미등재 ${missing.length}단어: ${missing.slice(0, 10).join(", ")}${missing.length > 10 ? " …" : ""}`);
   }
 
-  results.push({ slug: fileSlug, errors, warns, words: totalWords, level: b.level, stage: b.stage ?? null, quiz: quiz.length });
+  results.push({ slug: fileSlug, errors, warns, words: totalWords, level: b.level, stage: b.stage ?? null, collection: b.collection ?? null, quiz: quiz.length });
 }
 
 // ---------- 출력 ----------
@@ -173,7 +179,13 @@ if (asJson) {
   console.log(`\n===== qa-seed: ${results.length}권 검수 =====`);
   for (const r of results) {
     if (!r.errors.length && !r.warns.length) continue;
-    console.log(`\n📖 ${r.slug} (${r.stage ? `daily st${r.stage}` : r.level}, ${r.words}단어)`);
+    const kind =
+      r.collection === "myth"
+        ? `myth vol${r.stage}`
+        : r.stage
+          ? `daily st${r.stage}`
+          : r.level;
+    console.log(`\n📖 ${r.slug} (${kind}, ${r.words}단어)`);
     r.errors.forEach((m) => console.log(`  🔴 ERROR ${m}`));
     r.warns.forEach((m) => console.log(`  🟡 WARN  ${m}`));
   }

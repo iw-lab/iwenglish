@@ -4,6 +4,7 @@ import { useSettings, type ThemeMode } from "@/store/settings";
 import { Card } from "@/components/ui/Card";
 import { Sun, Moon, Monitor, Type, Gauge } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { useHydrated } from "@/hooks/useHydrated";
 
 const themeOptions: { value: ThemeMode; label: string; icon: typeof Sun }[] = [
   { value: "light", label: "밝게", icon: Sun },
@@ -22,6 +23,17 @@ export function SettingsPanel() {
     playbackRate,
     setPlaybackRate,
   } = useSettings();
+  // persist 재수화 전에는 저장된 테마·글자크기·배속이 아직 기본값이라, 그대로
+  // 그리면 한 프레임 뒤에 값이 바뀌며 깜빡인다(다른 6곳은 이미 가드돼 있었다).
+  const hydrated = useHydrated();
+  if (!hydrated)
+    return (
+      <div className="space-y-3" aria-hidden>
+        <div className="h-32 animate-pulse rounded-card bg-muted" />
+        <div className="h-24 animate-pulse rounded-card bg-muted" />
+        <div className="h-24 animate-pulse rounded-card bg-muted" />
+      </div>
+    );
 
   return (
     <div className="space-y-3">

@@ -1,7 +1,12 @@
 // 책꽃 ↔ EchoTale 브리지 정규 스키마
 
 export type CefrLevel = "preA1" | "A1" | "A2" | "B1";
-export type AgeBand = "5-7" | "8-10" | "11-13" | "adult";
+/** 연령대 — data/seed/*.json 의 실제 값과 반드시 일치해야 한다.
+ *  값을 늘리면 scripts/build-content.ts 의 AGE_BANDS 도 같이 고칠 것
+ *  (거기서 검증하므로 어긋나면 빌드가 멈춘다).
+ *  ⚠️ 2026-08-25: 타입은 4종인데 시드는 9-11(54권)·10-12(52권)을 쓰고 있었다 —
+ *  106권(30%)이 유니온 밖이었고, 생성기가 ageBand:string 으로 받아 tsc 가 못 봤다. */
+export type AgeBand = "5-7" | "8-10" | "9-11" | "10-12" | "11-13";
 export type LearningMode =
   | "read-aloud"
   | "sentence"

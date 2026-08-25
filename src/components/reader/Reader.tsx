@@ -354,6 +354,16 @@ export function Reader({ book }: { book: Book }) {
   };
 
   // 완독 도장 — 90% 이상 듣고, 마지막 도장은 퀴즈까지 통과해야 찍힌다
+  // 도장 연출 타이머 — 언마운트 시 전부 해제한다.
+  const stampTimers = useRef<number[]>([]);
+  useEffect(
+    () => () => {
+      stampTimers.current.forEach(window.clearTimeout);
+      stampTimers.current = [];
+    },
+    [],
+  );
+
   const onStamp = () => {
     if (!stampVerdict.ok || stampedThisRead) return;
     markFinished(); // 첫 완독 세션 기록(중복 방지됨)
@@ -362,8 +372,11 @@ export function Reader({ book }: { book: Book }) {
     setStampedThisRead(true);
     setStampPulse(true);
     setConfetti(true);
-    window.setTimeout(() => setStampPulse(false), 450);
-    window.setTimeout(() => setConfetti(false), 950);
+    // 도장 직후 홈으로 나가면 언마운트된 화면의 setState 가 950ms 뒤에 불린다.
+    stampTimers.current.push(
+      window.setTimeout(() => setStampPulse(false), 450),
+      window.setTimeout(() => setConfetti(false), 950),
+    );
   };
 
   const changeStep = (n: number) => {

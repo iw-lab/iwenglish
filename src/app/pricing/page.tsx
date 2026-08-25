@@ -109,9 +109,9 @@ export default function PricingPage() {
       </div>
 
       {!env.billingEnabled && (
+        // 개발자용 환경변수명은 화면에 쓰지 않는다 — 교사·학부모·심사위원이 보는 곳이다.
         <p className="mt-6 text-center text-xs text-muted-foreground">
-          상용화 시 <code>NEXT_PUBLIC_BILLING_ENABLED=true</code> + Stripe 연결로
-          전환됩니다. (코드 재작성 불필요)
+          지금은 모든 기능을 무료로 쓸 수 있어요. 유료 플랜은 준비 중입니다.
         </p>
       )}
     </div>

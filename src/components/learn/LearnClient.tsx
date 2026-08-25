@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   RotateCcw,
   ArrowLeft,
@@ -52,6 +52,16 @@ export function LearnClient() {
   const [idx, setIdx] = useState(0);
   const [stats, setStats] = useState({ right: 0, wrong: 0, rushed: 0 });
   const [sourceLabel, setSourceLabel] = useState("");
+  // 다음 문제 전환 타이머 — 진단 중 하단 탭으로 이탈하면 사라진 화면의
+  // setState 를 900ms 뒤에 부르는 좀비 타이머가 남는다.
+  const placementTimer = useRef<number | null>(null);
+  useEffect(
+    () => () => {
+      if (placementTimer.current !== null)
+        window.clearTimeout(placementTimer.current);
+    },
+    [],
+  );
   const [graded, setGraded] = useState(false);
 
   /* 레벨 진단 */
@@ -180,7 +190,7 @@ export function LearnClient() {
     const q = placement[pIdx];
     const next = [...pResults, { level: q.word.level, correct }];
     setPResults(next);
-    window.setTimeout(() => {
+    placementTimer.current = window.setTimeout(() => {
       if (pIdx + 1 >= placement.length) {
         s.setPlacementLevel(recommendLevel(next));
         setPlacement(null);
@@ -454,7 +464,7 @@ export function LearnClient() {
             <h2 className="font-extrabold">레벨 진단</h2>
             <p className="font-ko text-sm text-muted-foreground">
               {s.placementLevel > 0
-                ? `내 추천 레벨은 ${s.placementLevel}이에요 · 다시 진단하기`
+                ? `내 추천 레벨 ${s.placementLevel} · 다시 진단하기`
                 : "10문제로 내게 맞는 시작 레벨을 찾아요 (3분)"}
             </p>
           </div>

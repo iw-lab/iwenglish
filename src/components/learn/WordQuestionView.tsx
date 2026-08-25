@@ -22,11 +22,14 @@ export function WordQuestionView({
   question: WordQuestion;
   audioSrc: string;
   /** 채점 결과 — correct: 정답 여부, elapsedMs: 문제를 본 뒤 답하기까지 걸린 시간 */
-  onGraded: (correct: boolean, elapsedMs: number) => void;
+  /** noCredit=true 면 XP·퀘스트 진척 없이 박스만 갱신한다(무음 재생 등) */
+  onGraded: (correct: boolean, elapsedMs: number, noCredit?: boolean) => void;
 }) {
   const [picked, setPicked] = useState<number | null>(null);
   const [typed, setTyped] = useState<string[]>([]);
   const [spellResult, setSpellResult] = useState<boolean | null>(null);
+  // 듣기 문제인데 음원이 안 나온 경우 — 단어를 글자로 드러내고 채점은 XP 없이 한다.
+  const [audioFailed, setAudioFailed] = useState(false);
   const shownAt = useRef<number>(0);
 
   // 문제가 바뀌면 입력·타이머 초기화 + 듣기 문제는 자동 재생
@@ -35,10 +38,17 @@ export function WordQuestionView({
     setPicked(null);
     setTyped([]);
     setSpellResult(null);
+    setAudioFailed(false);
     /* eslint-enable react-hooks/set-state-in-effect */
     shownAt.current = performance.now();
-    if (question.kind !== "listen" || !audioSrc) return;
-    const audio = playAudioUrl(audioSrc);
+    if (question.kind !== "listen") return;
+    if (!audioSrc) {
+      setAudioFailed(true);
+      return;
+    }
+    const audio = playAudioUrl(audioSrc, {
+      onError: () => setAudioFailed(true),
+    });
     // 다음 문제로 넘어가면 이전 단어 발음을 즉시 끊는다.
     // (없으면 빠르게 답할 때 두 단어 발음이 겹쳐 들려 듣기 문제가 망가진다)
     return () => audio.pause();
@@ -51,7 +61,9 @@ export function WordQuestionView({
     // eslint-disable-next-line react-hooks/purity
     const elapsed = Math.round(performance.now() - shownAt.current);
     setPicked(i);
-    onGraded(i === question.answerIndex, elapsed);
+    // 소리가 안 난 듣기 문제의 답은 "들어서 맞힌 것"이 아니다 — 박스는 갱신하되
+    // XP·퀘스트 진척은 주지 않는다(연타 가드와 같은 통로).
+    onGraded(i === question.answerIndex, elapsed, audioFailed);
   };
 
   const submitSpelling = () => {
@@ -153,15 +165,30 @@ export function WordQuestionView({
         {question.kind === "listen" ? (
           <>
             <button
-              onClick={() => playAudioUrl(audioSrc)}
+              onClick={() =>
+                audioSrc &&
+                playAudioUrl(audioSrc, { onError: () => setAudioFailed(true) })
+              }
               aria-label="다시 듣기"
               className="mx-auto grid h-20 w-20 place-items-center rounded-full bg-primary text-primary-foreground shadow-lg transition active:scale-95"
             >
               <Volume2 className="h-10 w-10" />
             </button>
-            <p className="font-ko text-sm text-muted-foreground">
-              {question.prompt}
-            </p>
+            {audioFailed ? (
+              // 소리도 글자도 없이 찍게 두지 않는다 — 단어를 드러내고 이유를 밝힌다.
+              <>
+                <p className="text-3xl font-bold tracking-tight">
+                  {question.word.english}
+                </p>
+                <p className="font-ko text-sm text-warn">
+                  소리를 불러오지 못했어요 · 글자를 보고 골라요
+                </p>
+              </>
+            ) : (
+              <p className="font-ko text-sm text-muted-foreground">
+                {question.prompt}
+              </p>
+            )}
           </>
         ) : (
           <>

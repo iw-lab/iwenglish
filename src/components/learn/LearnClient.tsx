@@ -149,12 +149,13 @@ export function LearnClient() {
     );
 
   /* ── 채점 ── */
-  const onGraded = (correct: boolean, elapsedMs: number) => {
+  const onGraded = (correct: boolean, elapsedMs: number, noCredit = false) => {
     if (graded || !deck) return;
     setGraded(true);
-    // 너무 빠른 응답(찍기·연타)은 박스만 갱신하고 XP·퀘스트 진척은 주지 않는다
+    // 너무 빠른 응답(찍기·연타)과 무음으로 출제된 듣기 문제는
+    // 박스만 갱신하고 XP·퀘스트 진척은 주지 않는다.
     const rushed = elapsedMs < MIN_ANSWER_MS;
-    recordWord(deck[idx].word.english, correct, !rushed);
+    recordWord(deck[idx].word.english, correct, !rushed && !noCredit);
     setStats((st) => ({
       right: st.right + (correct ? 1 : 0),
       wrong: st.wrong + (correct ? 0 : 1),

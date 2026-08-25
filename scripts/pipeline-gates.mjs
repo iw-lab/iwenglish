@@ -16,7 +16,7 @@
 import { createHash } from "node:crypto";
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import { join } from "node:path";
-import { normalizeWord, wordAudioBase } from "./_word-norm.mjs";
+import { tokenize, wordAudioBase } from "./_word-norm.mjs";
 
 const ROOT = process.cwd();
 const SEED = join(ROOT, "data", "seed");
@@ -26,9 +26,9 @@ const WORDS_AUDIO = join(PUB, "_words");
 const TRUNC_PNG = 50 * 1024; // 이 미만 png = 잘린 파일(과거 codex hang 잔재 실사례)
 const MAX_LINES = 150; // 미달 나열 상한(폭주 방지)
 
-// 토큰화·정규화 규칙은 scripts/_word-norm.mjs 단일 정본(src/lib/utils.ts 와 동기)
-const tokenizeWords = (text) =>
-  text.match(/[A-Za-z0-9']+(?:[-'][A-Za-z0-9']+)*/g) ?? [];
+// 토큰화·정규화 규칙은 scripts/_word-norm.mjs 단일 정본(src/lib/utils.ts 와 동기).
+// ⚠️ 여기에 로컬 토큰화를 다시 두지 말 것 — normalizeWord 만 공유하고 토큰화는 따로 두면
+// NFKC·컬리쿼트(’) 전처리가 빠져 경계 따옴표에서 다시 갈라진다(2026-08-25 Grok 지적).
 
 const fileSize = (p) => (existsSync(p) ? statSync(p).size : -1);
 const kb = (n) => `${Math.round(n / 1024)}KB`;
@@ -47,9 +47,8 @@ function collectWords(books) {
   for (const b of books)
     for (const p of b.pages)
       for (const s of p.sentences)
-        for (const t of tokenizeWords(s.text)) {
-          const w = normalizeWord(t);
-          if (w && !map.has(w)) map.set(w, b.slug);
+        for (const w of tokenize(s.text)) {
+          if (!map.has(w)) map.set(w, b.slug);
         }
   return map;
 }

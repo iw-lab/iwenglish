@@ -2,6 +2,11 @@
 
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
+import { safeStorage } from "./_persist";
+
+/** persist 스키마 버전 — 저장 구조를 바꿀 때마다 올리고 migrate 에 변환을 적는다. */
+const SETTINGS_SCHEMA_VERSION = 1;
+
 
 export type ThemeMode = "light" | "dark" | "system";
 
@@ -40,6 +45,15 @@ export const useSettings = create<SettingsState>()(
       toggleTranslation: () =>
         set((s) => ({ showTranslation: !s.showTranslation })),
     }),
-    { name: "echotale-settings" },
+    {
+      name: "echotale-settings",
+      storage: safeStorage<SettingsState>(),
+      version: SETTINGS_SCHEMA_VERSION,
+      migrate: (persisted) => persisted as SettingsState,
+      merge: (persisted, current) => ({
+        ...current,
+        ...(persisted as Partial<SettingsState>),
+      }),
+    },
   ),
 );

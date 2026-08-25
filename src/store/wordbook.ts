@@ -3,6 +3,11 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { Word } from "@/types/book";
+import { safeStorage } from "./_persist";
+
+/** persist 스키마 버전 — 저장 구조를 바꿀 때마다 올리고 migrate 에 변환을 적는다. */
+const WORDBOOK_SCHEMA_VERSION = 1;
+
 
 export interface SavedWord extends Word {
   /** 추가 시각(ms) */
@@ -50,6 +55,20 @@ export const useWordbook = create<WordbookState>()(
         })),
       clear: () => set({ items: [] }),
     }),
-    { name: "echotale-wordbook" },
+    {
+      name: "echotale-wordbook",
+      storage: safeStorage<WordbookState>(),
+      version: WORDBOOK_SCHEMA_VERSION,
+      migrate: (persisted) => persisted as WordbookState,
+      merge: (persisted, current) => {
+        const p = persisted as Partial<WordbookState>;
+        return {
+          ...current,
+          ...p,
+          // 저장분이 배열이 아니면(손상·구버전) 빈 목록으로 — 렌더에서 터지지 않게.
+          items: Array.isArray(p?.items) ? p.items : current.items,
+        };
+      },
+    },
   ),
 );

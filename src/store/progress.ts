@@ -14,6 +14,10 @@ import {
   todayISO,
   type DayStat,
 } from "@/lib/learning";
+import { safeStorage } from "./_persist";
+
+/** persist 스키마 버전 — 저장 구조를 바꿀 때마다 올리고 migrate 에 변환을 적는다. */
+const SCHEMA_VERSION = 1;
 
 /* ───────── 유틸 (전부 로컬 날짜 기준 — lib/learning 참고) ───────── */
 const todayStr = todayISO;
@@ -426,7 +430,21 @@ export const useProgress = create<ProgressState>()(
 
       resetAll: () => set({ ...initial, todayDate: todayStr(), onboarded: true }),
     }),
-    { name: "echotale-progress" },
+    {
+      name: "echotale-progress",
+      storage: safeStorage<ProgressState>(),
+      version: SCHEMA_VERSION,
+      // 스키마를 바꾸면 여기에 old→new 변환을 **명시적으로** 적는다.
+      // 지금은 v0(버전 없이 저장되던 값) → v1 무변환 승격만 한다.
+      migrate: (persisted) => persisted as ProgressState,
+      // 얕은 병합이 기본이라 신규 필드가 undefined 로 남는다 — 기본값을 먼저 깔고
+      // 저장분을 덮어 "필드를 추가해도 기존 사용자가 깨지지 않는" 상태를 만든다.
+      merge: (persisted, current) => ({
+        ...current,
+        ...initial,
+        ...(persisted as Partial<ProgressState>),
+      }),
+    },
   ),
 );
 

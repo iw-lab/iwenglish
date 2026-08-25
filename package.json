@@ -17,7 +17,7 @@
     "seed:audio": "tsx scripts/gen-audio.ts",
     "seed:words": "tsx scripts/gen-word-audio.ts",
     "seed:worddict": "tsx scripts/gen-word-dict.ts",
-    "cf:build": "tsx scripts/build-content.ts && opennextjs-cloudflare build && node scripts/write-assetsignore.mjs",
+    "cf:build": "tsx scripts/build-content.ts && opennextjs-cloudflare build && node scripts/check-asset-count.mjs",
     "cf:deploy": "pnpm cf:build && opennextjs-cloudflare deploy",
     "test": "vitest run"
   },

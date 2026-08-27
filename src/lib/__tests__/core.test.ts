@@ -13,7 +13,9 @@ import {
   emptyDay,
   evaluateStamp,
   isQuizPassed,
+  nextUnheardIndex,
   todayISO,
+  unheardByPage,
   wordIndexAt,
   ymd,
 } from "@/lib/learning";
@@ -203,6 +205,51 @@ describe("evaluateStamp — 완독 도장 게이트", () => {
     });
     expect(v.ok).toBe(false);
     expect(v.reason).toBe("already");
+  });
+});
+
+describe("nextUnheardIndex — 안 들은 문장만 이어 듣기", () => {
+  const ids = ["a", "b", "c", "d"];
+  it("아무것도 안 들었으면 첫 문장", () => {
+    expect(nextUnheardIndex(ids, new Set())).toBe(0);
+  });
+  it("이미 들은 문장은 건너뛴다", () => {
+    expect(nextUnheardIndex(ids, new Set(["a", "b"]))).toBe(2);
+  });
+  it("after 이후만 본다", () => {
+    expect(nextUnheardIndex(ids, new Set(["c"]), 1)).toBe(3);
+  });
+  it("뒤에 남은 게 없으면 -1 (호출부가 앞으로 되돌아간다)", () => {
+    expect(nextUnheardIndex(ids, new Set(["c", "d"]), 1)).toBe(-1);
+  });
+  it("전부 들었으면 -1 — 무한 루프 방지", () => {
+    expect(nextUnheardIndex(ids, new Set(ids))).toBe(-1);
+  });
+});
+
+describe("unheardByPage — 어디를 안 들었는지 지도", () => {
+  const flat = [
+    { id: "a", pageIdx: 0 },
+    { id: "b", pageIdx: 0 },
+    { id: "c", pageIdx: 1 },
+    { id: "d", pageIdx: 2 },
+    { id: "e", pageIdx: 2 },
+  ];
+  it("쪽 단위로 묶고 개수와 점프 지점을 준다", () => {
+    const out = unheardByPage(flat, new Set(["a", "d"]));
+    expect(out).toEqual([
+      { pageIdx: 0, count: 1, firstIndex: 1 },
+      { pageIdx: 1, count: 1, firstIndex: 2 },
+      { pageIdx: 2, count: 1, firstIndex: 4 },
+    ]);
+  });
+  it("같은 쪽 여러 문장은 한 항목으로 합친다", () => {
+    expect(unheardByPage(flat, new Set(["c", "d", "e"]))).toEqual([
+      { pageIdx: 0, count: 2, firstIndex: 0 },
+    ]);
+  });
+  it("전부 들었으면 빈 배열", () => {
+    expect(unheardByPage(flat, new Set(flat.map((f) => f.id)))).toEqual([]);
   });
 });
 

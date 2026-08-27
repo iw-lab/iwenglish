@@ -20,13 +20,21 @@ import {
   Award,
   Headphones,
   Lock,
+  Check,
+  Ear,
 } from "lucide-react";
 import type { Book, LearningMode } from "@/types/book";
 import { MODES } from "@/lib/data/modes";
 import { useKaraoke } from "@/hooks/useKaraoke";
 import { useSettings } from "@/store/settings";
 import { useProgress, READS_TO_COMPLETE } from "@/store/progress";
-import { evaluateStamp, shadowStep, MIN_COVERAGE } from "@/lib/learning";
+import {
+  evaluateStamp,
+  shadowStep,
+  nextUnheardIndex,
+  unheardByPage,
+  MIN_COVERAGE,
+} from "@/lib/learning";
 import { SentenceView } from "./SentenceView";
 import { PracticeControls, type PracticeMode } from "./PracticeControls";
 import { QuizPanel } from "./QuizPanel";
@@ -104,10 +112,63 @@ export function Reader({ book }: { book: Book }) {
   // state = 렌더용 사본. 마지막 문장에서 markHeard 직후 완독을 판정해야 하므로 둘 다 필요.
   const heardRef = useRef<Set<string>>(new Set());
   const [heard, setHeard] = useState<Set<string>>(new Set());
+
+  /**
+   * 같은 탭 안에서는 홈에 다녀오거나 새로고침해도 "끝까지 들은 문장"을 잃지 않는다.
+   * 이게 없으면 뒤로가기 한 번에 커버리지가 0%가 되어 책을 통째로 다시 들어야 했다.
+   * 도장을 찍거나 "처음부터 다시 읽기"를 누르면 지운다(= 도장 1개 = 한 번의 완독).
+   */
+  const heardKey = `echotale:heard:${book.slug}`;
+  const persistHeard = (ids: Set<string>, recorded: boolean) => {
+    try {
+      sessionStorage.setItem(
+        heardKey,
+        JSON.stringify({ ids: [...ids], recorded }),
+      );
+    } catch {
+      /* 저장소를 못 쓰는 환경(프라이빗 모드 등) — 이 화면에서만 유지된다 */
+    }
+  };
+  const clearHeardStore = () => {
+    try {
+      sessionStorage.removeItem(heardKey);
+    } catch {
+      /* 위와 같음 */
+    }
+  };
+  useEffect(() => {
+    let ids = new Set<string>();
+    let recorded = false;
+    try {
+      const raw = sessionStorage.getItem(`echotale:heard:${book.slug}`);
+      if (raw) {
+        const v = JSON.parse(raw) as { ids?: unknown; recorded?: unknown };
+        if (Array.isArray(v.ids)) {
+          const valid = new Set(flat.map((f) => f.s.id));
+          ids = new Set(
+            v.ids.filter(
+              (x): x is string => typeof x === "string" && valid.has(x),
+            ),
+          );
+        }
+        recorded = v.recorded === true;
+      }
+    } catch {
+      ids = new Set();
+    }
+    heardRef.current = ids;
+    recordedRef.current = recorded;
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setHeard(ids);
+    // flat 은 의도적으로 뺀다 — book 객체 identity 가 바뀌어도 들은 기록을 잃지 않아야 한다
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [book.slug]);
+
   const markHeard = (id: string) => {
     if (heardRef.current.has(id)) return;
     heardRef.current.add(id);
     setHeard(new Set(heardRef.current));
+    persistHeard(heardRef.current, recordedRef.current);
   };
   const coverage = totalSentences ? heard.size / totalSentences : 0;
   /** 지금 이 순간의 커버리지(렌더 지연 없음) */
@@ -122,6 +183,20 @@ export function Reader({ book }: { book: Book }) {
     hasQuiz,
     quizPassed,
   });
+
+  /* ── "어디를 안 들었는가" — 개수만으로는 다시 들을 곳을 찾을 수 없다 ── */
+  const flatIds = useMemo(() => flat.map((f) => f.s.id), [flat]);
+  const unheardPages = useMemo(
+    () =>
+      unheardByPage(
+        flat.map((f) => ({ id: f.s.id, pageIdx: f.pi })),
+        heard,
+      ),
+    [flat, heard],
+  );
+  const unheardCount = totalSentences - heard.size;
+  const unheardOnThisPage =
+    unheardPages.find((u) => u.pageIdx === pageIdx)?.count ?? 0;
 
   /* ── 쉐도잉 문장 카운터(배치 저장) ── */
   const shadowPendingRef = useRef(0);
@@ -160,6 +235,9 @@ export function Reader({ book }: { book: Book }) {
 
   // 연속 낭독(쭉 읽어주기) 진행 플래그
   const autoRef = useRef(false);
+  // "안 들은 문장만 이어 듣기" — 켜져 있으면 이미 들은 문장은 건너뛴다
+  const catchUpRef = useRef(false);
+  const [catchUp, setCatchUp] = useState(false);
   // "이어서 읽기"처럼 점프 직후 곧바로 재생해야 하는 경우의 1회성 플래그.
   // setState 직후에는 karaoke 가 아직 옛 문장에 묶여 있어 즉시 play() 할 수 없다.
   const resumeRef = useRef(false);
@@ -171,6 +249,16 @@ export function Reader({ book }: { book: Book }) {
     setSentIdx(target.si);
   };
 
+  // 수동 이동/모드변경 시 자동 진행 중단
+  const stopAuto = () => {
+    autoRef.current = false;
+    catchUpRef.current = false;
+    setCatchUp(false);
+    repRef.current = 0;
+    clearGap();
+    karaoke.pause();
+  };
+
   // 쪽(페이지) 단위 점프 — 해당 쪽 첫 문장으로 이동(문장 하나씩 넘기지 않아도 됨)
   const goToPage = (pi: number) => {
     if (pi < 0 || pi >= book.pages.length) return;
@@ -179,21 +267,42 @@ export function Reader({ book }: { book: Book }) {
     setSentIdx(0);
   };
 
-  /** 아직 안 들은 첫 문장으로 점프 — "이어서 읽기" */
-  const goToFirstUnheard = () => {
-    const gi = flat.findIndex((f) => !heard.has(f.s.id));
-    if (gi === -1) return;
-    const same = flat[gi]?.s.id === sentence?.id;
+  /**
+   * 안 들은 문장만 골라 이어서 듣기.
+   *
+   * 예전에는 "첫 미청취 문장으로 점프"만 했다. 놓친 문장이 3쪽·7쪽에 흩어져 있으면
+   * 3쪽부터 끝까지 (이미 들은 문장까지) 통째로 다시 들어야 했다 — 그게 "다시 하게 되는
+   * 불편함"의 정체다. 이제는 들은 문장을 건너뛰고 미청취 문장만 이어서 재생한다.
+   */
+  const playUnheardFrom = (gi: number) => {
+    const target = flat[gi];
+    if (!target) return;
+    const same = target.s.id === sentence?.id;
     stopAuto();
+    // 혼자 읽기는 소리가 없어 청취로 인정되지 않는다 → 이어 듣기와 양립 불가
+    setSelfRead(false);
+    catchUpRef.current = true;
+    setCatchUp(true);
+    autoRef.current = true; // 미청취 문장끼리는 읽기 모드와 무관하게 이어진다
     goTo(gi);
-    // 버튼에 재생 아이콘이 붙어 있고 문구도 "이어서 읽기"다. 점프만 하고 멈춰 있으면
-    // 커버리지에 막힌 아이가 재생 버튼을 다시 찾아야 한다 — 그 문장에서 재생을 누른
-    // 것과 똑같이 동작시킨다.
-    autoRef.current = mode === "read-aloud";
-    if (same) karaoke.play(); // 문장이 그대로면 아래 sentence.id 이펙트가 돌지 않는다
+    // 문장이 그대로면 아래 이펙트가 돌지 않으므로 직접 재생한다.
+    // 단 혼자 읽기를 방금 끈 경우엔 무음 훅이 아직 살아 있어 이펙트(selfRead 변화)에 맡긴다.
+    if (same && !selfRead) karaoke.play();
     else resumeRef.current = true;
     if (typeof window !== "undefined")
       window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  /** 처음 남은 미청취 문장부터 이어 듣기 */
+  const startCatchUp = () => {
+    const gi = nextUnheardIndex(flatIds, heard);
+    if (gi === -1) return;
+    playUnheardFrom(gi);
+  };
+
+  const stopCatchUp = () => {
+    catchUpRef.current = false;
+    setCatchUp(false);
   };
 
   /* ── 쉐도잉 설정 ── */
@@ -247,6 +356,7 @@ export function Reader({ book }: { book: Book }) {
     const cov = coverageNow(); // 방금 들은 마지막 문장까지 포함해야 한다
     if (cov < MIN_COVERAGE) return; // 검증 실패 → 기록하지 않음
     recordedRef.current = true;
+    persistHeard(heardRef.current, true); // 새로고침해도 XP 이중 지급 금지
     finishBook(book.slug);
     recordReading({
       slug: book.slug,
@@ -285,6 +395,41 @@ export function Reader({ book }: { book: Book }) {
 
       // 반복 끝 → 다음 문장(연속) 또는 정지(한 문장씩)
       repRef.current = 0;
+      /* "안 들은 문장만 이어 듣기" — 이미 들은 문장은 건너뛰고 다음 미청취 문장으로.
+         읽기 모드(쭉/한 문장씩)와 무관하게 이어져야 흩어진 구멍을 한 번에 메운다. */
+      if (catchUpRef.current) {
+        // 청취로 인정되지 않는 모드(혼자 읽기 등)에서 켜지면 영원히 같은 문장을 맴돈다.
+        // 방금 끝낸 문장이 인정되지 않았으면 즉시 멈춘다.
+        if (sentence && !heardRef.current.has(sentence.id)) {
+          stopCatchUp();
+          autoRef.current = false;
+          return;
+        }
+        const ahead = nextUnheardIndex(flatIds, heardRef.current, globalIdx);
+        // 앞쪽에 남은 게 없으면 책 처음부터 다시 훑는다(놓친 문장은 뒤에만 있지 않다)
+        const next =
+          ahead === -1 ? nextUnheardIndex(flatIds, heardRef.current) : ahead;
+        if (next === -1) {
+          // 구멍을 전부 메웠다 → 완독 기록 + 도장 패널로 데려다 준다
+          stopAuto();
+          flushShadow();
+          markFinished();
+          goToPage(book.pages.length - 1);
+          stampTimers.current.push(
+            window.setTimeout(() => {
+              window.scrollTo({
+                top: document.body.scrollHeight,
+                behavior: "smooth",
+              });
+            }, 260),
+          );
+          return;
+        }
+        if (gapMode) runGap(gapMs(), () => goTo(next));
+        else goTo(next);
+        return;
+      }
+
       if (mode === "sentence") return; // 한 문장씩: 정지
       if (!autoRef.current || globalIdx >= flat.length - 1) {
         // 마지막 문장까지 연속으로 읽으면 완독 기록 + XP(커버리지 통과 시)
@@ -304,8 +449,10 @@ export function Reader({ book }: { book: Book }) {
     const resume = resumeRef.current;
     resumeRef.current = false;
     if ((autoRef.current || resume) && sentence) karaoke.play();
+    // selfRead: 혼자 읽기를 끄면서 시작한 "이어 듣기"도 여기서 재생된다.
+    // (모드 토글 버튼은 stopAuto 를 먼저 부르므로 재생 중 토글로 되감기는 일은 없다)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [sentence?.id]);
+  }, [sentence?.id, selfRead]);
 
   // 언마운트 시 간격 타이머 정리
   useEffect(
@@ -319,6 +466,8 @@ export function Reader({ book }: { book: Book }) {
   const togglePlay = () => {
     if (karaoke.playing || gap.active) {
       autoRef.current = false;
+      catchUpRef.current = false;
+      setCatchUp(false);
       repRef.current = 0;
       clearGap();
       karaoke.pause();
@@ -328,14 +477,6 @@ export function Reader({ book }: { book: Book }) {
       repRef.current = 0;
       karaoke.play();
     }
-  };
-
-  // 수동 이동/모드변경 시 자동 진행 중단
-  const stopAuto = () => {
-    autoRef.current = false;
-    repRef.current = 0;
-    clearGap();
-    karaoke.pause();
   };
 
   // 이 책의 처음(첫 쪽·첫 문장)으로 — 다시 읽기
@@ -348,6 +489,7 @@ export function Reader({ book }: { book: Book }) {
     setStampedThisRead(false); // 다시 읽으면 도장 1회 재허용
     heardRef.current = new Set(); // 커버리지도 초기화 — 새로 다 들어야 다음 도장
     setHeard(new Set());
+    clearHeardStore();
     sessionStartRef.current = Date.now();
     if (typeof window !== "undefined")
       window.scrollTo({ top: 0, behavior: "smooth" });
@@ -369,6 +511,7 @@ export function Reader({ book }: { book: Book }) {
     markFinished(); // 첫 완독 세션 기록(중복 방지됨)
     flushShadow();
     addBookRead(book.slug);
+    clearHeardStore(); // 도장을 찍었으면 다음 도장은 처음부터 새로 들어야 한다
     setStampedThisRead(true);
     setStampPulse(true);
     setConfetti(true);
@@ -425,6 +568,15 @@ export function Reader({ book }: { book: Book }) {
             <span className="tabular-nums">
               {pageIdx + 1} / {book.pages.length} 쪽
             </span>
+            {/* 이 쪽에 안 들은 문장이 남아 있는지 — 쪽을 넘기며 바로 알 수 있다 */}
+            {unheardOnThisPage > 0 && heard.size > 0 && (
+              <span
+                title={`이 쪽에 안 들은 문장 ${unheardOnThisPage}개`}
+                className="ml-0.5 shrink-0 rounded-full bg-primary/10 px-1.5 font-ko text-[10px] font-bold tabular-nums text-primary"
+              >
+                안 들음 {unheardOnThisPage}
+              </span>
+            )}
             <button
               onClick={() => goToPage(pageIdx + 1)}
               disabled={pageIdx >= book.pages.length - 1}
@@ -436,14 +588,37 @@ export function Reader({ book }: { book: Book }) {
             </button>
           </div>
         </div>
-        {/* 오늘 이 책에서 들은 문장 비율 — 도장의 근거를 항상 보여준다 */}
-        <div
-          className="hidden items-center gap-1.5 rounded-full bg-muted px-2.5 py-1 sm:flex"
-          title={`끝까지 들은 문장 ${heard.size}/${totalSentences}`}
+        {/* 오늘 이 책에서 들은 문장 비율 — 도장의 근거를 항상 보여준다.
+            안 들은 문장이 남아 있으면 여기서 바로 이어 들을 수 있다(개수도 함께). */}
+        <button
+          type="button"
+          onClick={unheardCount > 0 ? startCatchUp : undefined}
+          disabled={unheardCount === 0}
+          title={
+            unheardCount > 0
+              ? `끝까지 들은 문장 ${heard.size}/${totalSentences} · 안 들은 문장 ${unheardCount}개 — 눌러서 이어 듣기`
+              : `끝까지 들은 문장 ${heard.size}/${totalSentences}`
+          }
+          className={cn(
+            "hidden items-center gap-1.5 rounded-full px-2.5 py-1 sm:flex",
+            unheardCount > 0
+              ? "bg-primary/10 text-primary hover:bg-primary/20"
+              : "bg-muted",
+          )}
         >
-          <Headphones className="h-4 w-4 text-primary" />
+          <Headphones
+            className={cn(
+              "h-4 w-4",
+              unheardCount > 0 ? "text-primary" : "text-good",
+            )}
+          />
           <span className="text-xs font-bold tabular-nums">{coveragePct}%</span>
-        </div>
+          {unheardCount > 0 && (
+            <span className="font-ko text-[11px] font-bold tabular-nums">
+              · 남은 {unheardCount}
+            </span>
+          )}
+        </button>
         <button
           onClick={toggleTranslation}
           aria-pressed={showTranslation}
@@ -535,6 +710,22 @@ export function Reader({ book }: { book: Book }) {
         </p>
       )}
 
+      {/* 안 들은 문장만 이어 듣는 중 — 지금 무슨 일이 일어나는지 알려 준다 */}
+      {catchUp && (
+        <div className="mx-3 mt-1 flex items-center justify-between gap-2 rounded-chip bg-primary/10 px-3 py-1.5 font-ko text-xs text-primary">
+          <span className="flex items-center gap-1.5 font-semibold">
+            <Ear className="h-4 w-4" />
+            안 들은 문장만 이어 듣는 중 · 남은 {unheardCount}개
+          </span>
+          <button
+            onClick={stopAuto}
+            className="shrink-0 rounded-full bg-primary/15 px-2 py-0.5 font-bold"
+          >
+            멈추기
+          </button>
+        </div>
+      )}
+
       {/* 그림 + 본문 (데스크톱 2단) — 그림 칸을 auto 트랙으로: 이미지 실제 폭만큼만 차지해 가운데 빈 공간 제거 */}
       <div className="flex flex-1 flex-col lg:grid lg:grid-cols-[auto_minmax(0,1fr)] lg:items-start lg:gap-6 lg:px-6 lg:py-4 xl:gap-8">
       {/* 그림: 자연 비율 그대로 높이만 제한(w-auto) → 세로/가로 무관 인물 잘림 0, 레터박스 띠 0 */}
@@ -564,6 +755,7 @@ export function Reader({ book }: { book: Book }) {
           <div className="space-y-2.5">
             {page?.sentences.map((s, i) => {
               const isActive = i === sentIdx;
+              const isHeard = heard.has(s.id);
               // 문장 탭으로 낭독 위치를 옮길 수 있는 모드인지
               const selectable = mode === "sentence" || mode === "read-aloud";
               const select = () => {
@@ -596,12 +788,34 @@ export function Reader({ book }: { book: Book }) {
                       : undefined
                   }
                   className={cn(
-                    "rounded-card p-3 transition",
+                    "relative rounded-card p-3 pr-11 transition",
                     isActive ? "bg-card shadow-sm ring-1 ring-primary/30" : "opacity-70",
+                    // 안 들은 문장은 왼쪽에 얇은 표시줄 — 어디를 다시 들어야 하는지 한눈에
+                    !isHeard && heard.size > 0 && "border-l-2 border-primary/40",
                     selectable &&
                       "cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary",
                   )}
                 >
+                  {/* 청취 표시 — "개수만 알려 주고 어디인지는 안 알려 주는" 문제를 없앤다 */}
+                  {isHeard ? (
+                    <span
+                      title="끝까지 들었어요"
+                      aria-label="끝까지 들은 문장"
+                      className="pointer-events-none absolute right-2.5 top-2.5 grid h-5 w-5 place-items-center rounded-full bg-good/15 text-good"
+                    >
+                      <Check className="h-3.5 w-3.5" />
+                    </span>
+                  ) : (
+                    heard.size > 0 && (
+                      <span
+                        title="아직 끝까지 듣지 않은 문장이에요"
+                        aria-label="아직 안 들은 문장"
+                        className="pointer-events-none absolute right-2.5 top-2.5 rounded-full bg-primary/10 px-1.5 py-0.5 font-ko text-[10px] font-bold text-primary"
+                      >
+                        아직
+                      </span>
+                    )
+                  )}
                   <SentenceView
                     text={s.text}
                     activeWord={isActive ? karaoke.activeWord : -1}
@@ -741,12 +955,37 @@ export function Reader({ book }: { book: Book }) {
                         </p>
                         <p className="font-ko text-xs text-muted-foreground">
                           문장을 끝까지 들어야 도장을 찍을 수 있어요.
+                          <br />
+                          안 들은 문장만 골라서 들려줄게요 — 처음부터 다시 안 들어도 돼요.
                         </p>
+
+                        {/* 어디를 안 들었는지 — 쪽을 눌러 그 자리로 바로 간다 */}
+                        <div className="flex w-full max-w-xs flex-wrap justify-center gap-1.5">
+                          {unheardPages.slice(0, 8).map((u) => (
+                            <button
+                              key={u.pageIdx}
+                              onClick={() => playUnheardFrom(u.firstIndex)}
+                              title={`${u.pageIdx + 1}쪽의 안 들은 문장부터 듣기`}
+                              className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-2.5 py-1 font-ko text-xs font-bold text-primary transition hover:bg-primary/20 active:scale-95"
+                            >
+                              {u.pageIdx + 1}쪽
+                              <span className="tabular-nums opacity-70">
+                                {u.count}개
+                              </span>
+                            </button>
+                          ))}
+                          {unheardPages.length > 8 && (
+                            <span className="self-center font-ko text-xs text-muted-foreground">
+                              외 {unheardPages.length - 8}쪽
+                            </span>
+                          )}
+                        </div>
+
                         <button
-                          onClick={goToFirstUnheard}
+                          onClick={startCatchUp}
                           className="mt-1 inline-flex items-center gap-2 rounded-chip bg-primary px-6 py-3 text-base font-extrabold text-primary-foreground shadow-sm transition active:scale-95"
                         >
-                          <Play className="h-5 w-5" /> 이어서 읽기
+                          <Play className="h-5 w-5" /> 안 들은 문장만 듣기
                         </button>
                       </>
                     ) : stampVerdict.reason === "quiz" ? (
@@ -970,10 +1209,22 @@ export function Reader({ book }: { book: Book }) {
             </select>
           </label>
 
-          {/* 모바일용 커버리지 */}
-          <span
-            className="flex items-center gap-1 rounded-full bg-muted px-2.5 py-1.5 text-sm sm:hidden"
-            title={`끝까지 들은 문장 ${heard.size}/${totalSentences}`}
+          {/* 모바일용 커버리지 — 안 들은 문장이 남았으면 눌러서 그 문장만 이어 듣기 */}
+          <button
+            type="button"
+            onClick={unheardCount > 0 ? startCatchUp : undefined}
+            disabled={unheardCount === 0}
+            title={
+              unheardCount > 0
+                ? `안 들은 문장 ${unheardCount}개 — 눌러서 이어 듣기`
+                : `끝까지 들은 문장 ${heard.size}/${totalSentences}`
+            }
+            className={cn(
+              "flex items-center gap-1 rounded-full px-2.5 py-1.5 text-sm sm:hidden",
+              unheardCount > 0
+                ? "bg-primary/10 text-primary"
+                : "bg-muted",
+            )}
           >
             {coverage >= MIN_COVERAGE ? (
               <Headphones className="h-4 w-4 text-good" />
@@ -981,7 +1232,7 @@ export function Reader({ book }: { book: Book }) {
               <Lock className="h-4 w-4 text-muted-foreground" />
             )}
             <span className="font-bold tabular-nums">{coveragePct}%</span>
-          </span>
+          </button>
         </div>
       )}
         </>

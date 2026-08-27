@@ -61,6 +61,49 @@ export function coverageRatio(heard: number, total: number): number {
   return Math.min(1, heard / total);
 }
 
+/**
+ * `after` 다음(순서상)으로 아직 듣지 않은 문장의 인덱스. 없으면 -1.
+ * "안 들은 문장만 이어 듣기"가 이미 들은 문장을 건너뛰는 근거.
+ */
+export function nextUnheardIndex(
+  ids: readonly string[],
+  heard: ReadonlySet<string>,
+  after = -1,
+): number {
+  for (let i = after + 1; i < ids.length; i++) {
+    if (!heard.has(ids[i])) return i;
+  }
+  return -1;
+}
+
+export interface UnheardPage {
+  /** 0-based 쪽 번호 */
+  pageIdx: number;
+  /** 그 쪽에서 아직 안 들은 문장 수 */
+  count: number;
+  /** 그 쪽 첫 미청취 문장의 전체(flat) 인덱스 — 탭하면 여기로 점프 */
+  firstIndex: number;
+}
+
+/**
+ * 미청취 문장을 쪽 단위로 묶는다 — "어디를 안 들었는지" 지도.
+ * 학생에게 개수만 알려 주면 어디를 다시 들어야 할지 몰라 책을 통째로 다시 듣게 된다.
+ */
+export function unheardByPage(
+  flat: readonly { id: string; pageIdx: number }[],
+  heard: ReadonlySet<string>,
+): UnheardPage[] {
+  const out: UnheardPage[] = [];
+  for (let i = 0; i < flat.length; i++) {
+    const f = flat[i];
+    if (heard.has(f.id)) continue;
+    const last = out[out.length - 1];
+    if (last && last.pageIdx === f.pageIdx) last.count += 1;
+    else out.push({ pageIdx: f.pageIdx, count: 1, firstIndex: i });
+  }
+  return out;
+}
+
 export type StampBlock = "ok" | "coverage" | "quiz" | "already";
 
 export interface StampVerdict {

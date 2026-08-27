@@ -2,6 +2,8 @@ import type { Metadata, Viewport } from "next";
 import { Nunito, Lexend, Gowun_Batang } from "next/font/google";
 import "./globals.css";
 import { ThemeManager } from "@/components/shell/ThemeManager";
+import { AliveBeacon } from "@/components/shell/AliveBeacon";
+import { RECOVERY_SCRIPT } from "@/components/shell/recovery-script";
 
 const nunito = Nunito({
   subsets: ["latin"],
@@ -65,10 +67,13 @@ export default function RootLayout({
     <html lang="ko" suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: noFlashScript }} />
+        {/* 배포로 사라진 옛 청크를 물고 있는 기기의 흰 화면 자가복구(리액트 밖에서 돈다) */}
+        <script dangerouslySetInnerHTML={{ __html: RECOVERY_SCRIPT }} />
       </head>
       <body
         className={`${nunito.variable} ${lexend.variable} ${gowun.variable} antialiased`}
       >
+        <AliveBeacon />
         <ThemeManager />
         {children}
       </body>

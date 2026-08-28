@@ -5,46 +5,69 @@ import { CompletedShelf, type ShelfBook } from "@/components/home/CompletedShelf
 import { ShelfRow } from "@/components/home/ShelfRow";
 import { ShelfSection } from "@/components/home/ShelfSection";
 import { PLANNED_BOOKS } from "@/lib/data/plannedBooks";
-import type { CefrLevel } from "@/types/book";
+import {
+  SHELVES,
+  HOME_SHELF_LIMIT,
+  shelfBooks,
+  MYTH_VOLUME_LABEL,
+  type ShelfGroup,
+} from "@/lib/data/shelves";
+import type { BookSummary } from "@/types/book";
 
-// 그림책(픽션) 레벨 섹션 — 한국 초등 영어(3학년 시작) 기준 라벨
-const LEVELS: { level: CefrLevel; emoji: string; label: string; grade: string }[] =
-  [
-    { level: "preA1", emoji: "🌱", label: "입문", grade: "3학년 시작 · 첫 영어" },
-    { level: "A1", emoji: "📗", label: "기초", grade: "3–4학년" },
-    { level: "A2", emoji: "📘", label: "발전", grade: "5학년" },
-    { level: "B1", emoji: "📙", label: "심화", grade: "6학년" },
-  ];
+/**
+ * 서재(홈).
+ *
+ * ⚠️ 선반마다 **앞 HOME_SHELF_LIMIT 권만** 그린다. 전권을 한 번에 그리던 시절엔
+ * 프리렌더 결과가 3.17MB 였고(책 1권 ≈ 8KB × Next 가 같은 데이터를 3~4벌 저장),
+ * 워커가 깨어나며 그걸 읽다가 간헐적으로 50초씩 매달렸다(2026-08-28 실측).
+ * 나머지는 `/shelf/<key>` 가 맡는다 — 선반 정의는 `lib/data/shelves.ts` 하나뿐이다.
+ */
 
-// 생활영어 단계 라벨 (1~6단계)
-const STAGES: { stage: number; emoji: string; label: string; grade: string }[] = [
-  { stage: 1, emoji: "🐣", label: "1단계 · 첫걸음", grade: "3학년" },
-  { stage: 2, emoji: "🌿", label: "2단계 · 익숙해지기", grade: "3–4학년" },
-  { stage: 3, emoji: "🚀", label: "3단계 · 자신감", grade: "4학년" },
-  { stage: 4, emoji: "⛰️", label: "4단계 · 도전", grade: "4–5학년" },
-  { stage: 5, emoji: "🌊", label: "5단계 · 실력 다지기", grade: "5학년" },
-  { stage: 6, emoji: "🏆", label: "6단계 · 마스터", grade: "6학년" },
-];
+const GROUP_HEADS: Record<
+  ShelfGroup,
+  { title: string; note: (n: number) => string }
+> = {
+  picture: {
+    title: "📕 그림책",
+    note: (n) => `동물·자연·우정·모험 이야기 · ${n}권`,
+  },
+  daily: {
+    title: "💬 생활 영어",
+    note: (n) => `주인공 준이의 하루하루 · 1~6단계 · ${n}권`,
+  },
+  myth: {
+    title: "🏛️ 그리스로마신화",
+    note: (n) => `하라의 신화 모험 · 학습만화 영어판 · ${n}권`,
+  },
+};
 
-// 그리스로마신화 — 권(volume)별 라벨
-const MYTH_VOLUMES: { stage: number; emoji: string; label: string; grade: string }[] = [
-  { stage: 1, emoji: "🌌", label: "1권 · 카오스와 태초의 신들", grade: "심화 · B1" },
-  { stage: 2, emoji: "🌾", label: "2권 · 우라노스와 가이아의 시대", grade: "심화 · B1" },
-];
+function card(b: BookSummary, group: ShelfGroup) {
+  const meta =
+    group === "myth" && b.stage && MYTH_VOLUME_LABEL[b.stage]
+      ? `${b.stage}권 · ${b.wordCount} words`
+      : `${b.wordCount} words`;
+  return (
+    <BookCard
+      key={b.id}
+      slug={b.slug}
+      title={b.title}
+      title_ko={b.title_ko}
+      level={b.level}
+      summary_ko={b.summary_ko}
+      coverUrl={b.coverUrl}
+      meta={meta}
+      shelf
+    />
+  );
+}
 
 export default async function LibraryPage() {
   const books = await getBooks();
   const seededSlugs = new Set(books.map((b) => b.slug));
   const upcoming = PLANNED_BOOKS.filter((b) => !seededSlugs.has(b.slug));
 
-  const daily = books.filter((b) => b.collection === "daily");
-  const myth = books.filter((b) => b.collection === "myth");
-  const pictureBooks = books.filter(
-    (b) => b.collection !== "daily" && b.collection !== "myth",
-  );
-
-  // 완독 책장용 최소 데이터 (클라이언트로 전달)
-  const shelfBooks: ShelfBook[] = books.map((b) => ({
+  // 완독 책장은 학생이 실제로 도장을 찍은 책만 필요하다 — 352권을 통째로 넘기지 않는다.
+  const shelfBooksForCompleted: ShelfBook[] = books.map((b) => ({
     slug: b.slug,
     title: b.title,
     title_ko: b.title_ko,
@@ -52,6 +75,14 @@ export default async function LibraryPage() {
     summary_ko: b.summary_ko,
     coverUrl: b.coverUrl,
   }));
+
+  const groups = (["picture", "daily", "myth"] as ShelfGroup[]).map((group) => {
+    const shelves = SHELVES.filter((s) => s.group === group)
+      .map((s) => ({ shelf: s, books: shelfBooks(s, books) }))
+      .filter((x) => x.books.length > 0);
+    const total = shelves.reduce((a, x) => a + x.books.length, 0);
+    return { group, shelves, total };
+  });
 
   return (
     <div className="space-y-7">
@@ -68,119 +99,37 @@ export default async function LibraryPage() {
       </section>
 
       {/* 👑 완독 책장 + ⭐ 도장 모으는 중 (로컬 진행도) */}
-      <CompletedShelf books={shelfBooks} />
+      <CompletedShelf books={shelfBooksForCompleted} />
 
-      {/* 📕 그림책 (픽션) — 레벨별 선반 */}
-      {pictureBooks.length > 0 ? (
-        <section className="space-y-4">
-          <div className="flex items-baseline gap-2">
-            <h2 className="text-xl font-extrabold">📕 그림책</h2>
-            <span className="text-xs font-semibold text-muted-foreground">
-              동물·자연·우정·모험 이야기 · {pictureBooks.length}권
-            </span>
-          </div>
-          {LEVELS.map(({ level, emoji, label, grade }) => {
-            const inLevel = pictureBooks.filter((b) => b.level === level);
-            if (inLevel.length === 0) return null;
-            return (
-              <ShelfSection
-                key={level}
-                emoji={emoji}
-                label={label}
-                meta={`${grade} · ${level} · ${inLevel.length}권`}
-              >
-                {inLevel.map((b) => (
-                  <BookCard
-                    key={b.id}
-                    slug={b.slug}
-                    title={b.title}
-                    title_ko={b.title_ko}
-                    level={b.level}
-                    summary_ko={b.summary_ko}
-                    coverUrl={b.coverUrl}
-                    meta={`${b.wordCount} words`}
-                    shelf
-                  />
-                ))}
-              </ShelfSection>
-            );
-          })}
-        </section>
-      ) : (
-        <p className="font-ko text-sm text-muted-foreground">
-          아직 준비된 그림책이 없어요.
-        </p>
-      )}
-
-      {/* 💬 생활 영어 — 단계별 선반 (1~6단계) */}
-      {daily.length > 0 && (
-        <section className="space-y-4">
-          <div className="flex items-baseline gap-2">
-            <h2 className="text-xl font-extrabold">💬 생활 영어</h2>
-            <span className="text-xs font-semibold text-muted-foreground">
-              주인공 준이의 하루하루 · 1~6단계 · {daily.length}권
-            </span>
-          </div>
-          {STAGES.map(({ stage, emoji, label, grade }) => {
-            const inStage = daily.filter((b) => b.stage === stage);
-            if (inStage.length === 0) return null;
-            return (
-              <ShelfSection
-                key={stage}
-                emoji={emoji}
-                label={label}
-                meta={`${grade} · ${inStage.length}권`}
-              >
-                {inStage.map((b) => (
-                  <BookCard
-                    key={b.id}
-                    slug={b.slug}
-                    title={b.title}
-                    title_ko={b.title_ko}
-                    level={b.level}
-                    summary_ko={b.summary_ko}
-                    coverUrl={b.coverUrl}
-                    meta={`${b.wordCount} words`}
-                    shelf
-                  />
-                ))}
-              </ShelfSection>
-            );
-          })}
-        </section>
-      )}
-
-      {/* 🏛️ 그리스로마신화 — 권별 선반 */}
-      {myth.length > 0 && (
-        <section className="space-y-4">
-          <div className="flex items-baseline gap-2">
-            <h2 className="text-xl font-extrabold">🏛️ 그리스로마신화</h2>
-            <span className="text-xs font-semibold text-muted-foreground">
-              하라의 신화 모험 · 학습만화 영어판 · {myth.length}권
-            </span>
-          </div>
-          <ShelfRow>
-            {[...myth]
-              .sort((a, b) => (a.stage ?? 0) - (b.stage ?? 0))
-              .map((b) => {
-                const vol = MYTH_VOLUMES.find((v) => v.stage === b.stage);
-                return (
-                  <BookCard
-                    key={b.id}
-                    slug={b.slug}
-                    title={b.title}
-                    title_ko={b.title_ko}
-                    level={b.level}
-                    summary_ko={b.summary_ko}
-                    coverUrl={b.coverUrl}
-                    meta={vol ? `${vol.stage}권 · ${b.wordCount} words` : `${b.wordCount} words`}
-                    shelf
-                  />
-                );
-              })}
-          </ShelfRow>
-        </section>
-      )}
+      {groups.map(({ group, shelves, total }) => {
+        if (shelves.length === 0) return null;
+        const head = GROUP_HEADS[group];
+        return (
+          <section key={group} className="space-y-4">
+            <div className="flex items-baseline gap-2">
+              <h2 className="text-xl font-extrabold">{head.title}</h2>
+              <span className="text-xs font-semibold text-muted-foreground">
+                {head.note(total)}
+              </span>
+            </div>
+            {shelves.map(({ shelf, books: inShelf }) => {
+              const more = inShelf.length > HOME_SHELF_LIMIT;
+              return (
+                <ShelfSection
+                  key={shelf.key}
+                  emoji={shelf.emoji}
+                  label={shelf.label}
+                  meta={`${shelf.grade} · ${inShelf.length}권`}
+                  href={more ? `/shelf/${shelf.key}` : undefined}
+                  moreLabel={more ? `${inShelf.length}권 전체` : undefined}
+                >
+                  {inShelf.slice(0, HOME_SHELF_LIMIT).map((b) => card(b, group))}
+                </ShelfSection>
+              );
+            })}
+          </section>
+        );
+      })}
 
       {/* 출간 예정 */}
       {upcoming.length > 0 && (

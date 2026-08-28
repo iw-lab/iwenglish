@@ -1,29 +1,32 @@
-"use client";
-
-import { useState } from "react";
-import { LayoutGrid, X } from "lucide-react";
+import Link from "next/link";
+import { ChevronRight } from "lucide-react";
 import { ShelfRow } from "./ShelfRow";
 
 /**
- * 단계/레벨별 책장 섹션 — 헤더 + "전체 보기" 토글.
- * - 기본: 가로 캐러셀(ShelfRow, 좌우 화살표)
- * - 전체 보기: 같은 카드를 flex-wrap 그리드로 펼침(고정폭 카드라 자동 줄바꿈)
+ * 단계/레벨별 책장 섹션 — 헤더 + 가로 캐러셀.
+ *
+ * 예전에는 "전체 보기"가 **그 자리에서 펼치는 토글**이었다. 그러면 접혀 있어도 35권이
+ * 이미 전부 실려 온 것이라 홈 페이로드가 전혀 줄지 않는다(홈 프리렌더 3.17MB의 원인).
+ * 지금은 홈이 앞부분만 그리고, 전체는 선반 페이지(`/shelf/<key>`)가 맡는다.
  */
 export function ShelfSection({
   emoji,
   label,
   meta,
+  href,
+  moreLabel,
   children,
 }: {
   emoji: string;
   label: string;
   meta: string;
+  /** 전체 보기 대상 선반 페이지. 없으면 버튼을 그리지 않는다(전권이 이미 보이는 선반) */
+  href?: string;
+  moreLabel?: string;
   children: React.ReactNode;
 }) {
-  const [expanded, setExpanded] = useState(false);
-
   return (
-    <section className={expanded ? "space-y-2" : "shelf-cv space-y-2"}>
+    <section className="shelf-cv space-y-2">
       <div className="flex items-baseline justify-between gap-2">
         <div className="flex min-w-0 items-baseline gap-2">
           <h3 className="text-base font-extrabold">
@@ -33,29 +36,19 @@ export function ShelfSection({
             {meta}
           </span>
         </div>
-        <button
-          type="button"
-          onClick={() => setExpanded((v) => !v)}
-          aria-expanded={expanded}
-          className="flex flex-none items-center gap-1 rounded-full border border-border/60 px-2.5 py-1 text-[11px] font-bold text-muted-foreground transition hover:bg-muted hover:text-foreground"
-        >
-          {expanded ? (
-            <>
-              <X className="h-3 w-3" /> 접기
-            </>
-          ) : (
-            <>
-              <LayoutGrid className="h-3 w-3" /> 전체 보기
-            </>
-          )}
-        </button>
+        {href && (
+          <Link
+            href={href}
+            prefetch={false}
+            className="flex flex-none items-center gap-0.5 rounded-full border border-border/60 px-2.5 py-1 text-[11px] font-bold text-muted-foreground transition hover:bg-muted hover:text-foreground"
+          >
+            {moreLabel ?? "전체 보기"}
+            <ChevronRight className="h-3 w-3" />
+          </Link>
+        )}
       </div>
 
-      {expanded ? (
-        <div className="flex flex-wrap gap-3">{children}</div>
-      ) : (
-        <ShelfRow>{children}</ShelfRow>
-      )}
+      <ShelfRow>{children}</ShelfRow>
     </section>
   );
 }

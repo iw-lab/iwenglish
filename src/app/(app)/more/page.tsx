@@ -1,8 +1,6 @@
-import Link from "next/link";
-import { env } from "@/lib/env";
 import { SettingsPanel } from "@/components/shell/SettingsPanel";
 import { Card } from "@/components/ui/Card";
-import { CreditCard, Smartphone } from "lucide-react";
+import { Smartphone, Heart } from "lucide-react";
 
 export default function MorePage() {
   return (
@@ -21,16 +19,17 @@ export default function MorePage() {
         </div>
       </Card>
 
-      {/* 결제가 꺼져 있는 동안엔 "요금제"라는 이름 자체를 쓰지 않는다 —
-          받지 않는 돈을 연상시킬 이유가 없다. 내용은 이용 안내 페이지가 그대로 담는다. */}
-      <Link href="/pricing" prefetch={false}>
-        <Card className="flex flex-col items-center gap-1.5 p-4 text-center transition hover:bg-muted">
-          <CreditCard className="h-6 w-6 text-accent" />
-          <span className="text-sm font-semibold">
-            {env.billingEnabled ? "요금제" : "이용 안내"}
-          </span>
-        </Card>
-      </Link>
+      <Card className="flex items-center gap-3 p-4">
+        <div className="grid h-12 w-12 place-items-center rounded-full bg-accent/15 text-accent">
+          <Heart className="h-5 w-5" />
+        </div>
+        <div className="min-w-0 flex-1">
+          <p className="font-semibold">모든 기능 무료 · 오픈소스</p>
+          <p className="font-ko text-xs text-muted-foreground">
+            결제도 광고도 없어요. 소스 코드는 MIT 라이선스로 공개돼 있어요.
+          </p>
+        </div>
+      </Card>
 
       <SettingsPanel />
 

@@ -94,7 +94,7 @@ async function main() {
   await skipOnboarding(page);
 
   // ── 1. 모든 라우트가 뜨는가 ──
-  const routes = ["/", "/learn", "/wordbook", "/progress", "/more", "/pricing"];
+  const routes = ["/", "/learn", "/wordbook", "/progress", "/more"];
   for (const r of routes) {
     const res = await page.goto(BASE + r, { waitUntil: "domcontentloaded" }).catch(() => null);
     await page.waitForTimeout(1800); // 라이브(Worker)는 networkidle 이 안 와서 고정 대기로 정착시킨다

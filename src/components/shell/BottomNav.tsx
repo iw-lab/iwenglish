@@ -30,6 +30,9 @@ export function BottomNav() {
             <li key={t.href} className="flex-1">
               <Link
                 href={t.href}
+                // 탭 5개를 매 페이지마다 미리 당겨오면 한 세션의 워커 요청이 90건대로
+                // 부푼다(2026-08-28 실측). 전부 SSG 라 실제 이동은 프리페치 없이도 빠르다.
+                prefetch={false}
                 aria-current={active ? "page" : undefined}
                 className="flex flex-col items-center gap-0.5 py-2 text-[11px] font-semibold"
               >

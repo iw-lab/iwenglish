@@ -541,6 +541,7 @@ export function Reader({ book }: { book: Book }) {
       <header className="sticky top-0 z-30 flex items-center gap-2 border-b border-border bg-background/85 px-3 py-2.5 backdrop-blur-md">
         <Link
           href={`/book/${book.slug}`}
+          prefetch={false}
           aria-label="뒤로"
           className="grid h-9 w-9 place-items-center rounded-full hover:bg-muted"
         >
@@ -548,6 +549,7 @@ export function Reader({ book }: { book: Book }) {
         </Link>
         <Link
           href="/"
+          prefetch={false}
           aria-label="홈(서재)으로"
           className="grid h-9 w-9 place-items-center rounded-full hover:bg-muted"
         >

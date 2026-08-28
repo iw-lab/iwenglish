@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { env } from "@/lib/env";
 import { SettingsPanel } from "@/components/shell/SettingsPanel";
 import { Card } from "@/components/ui/Card";
 import { CreditCard, Smartphone } from "lucide-react";
@@ -20,10 +21,14 @@ export default function MorePage() {
         </div>
       </Card>
 
-      <Link href="/pricing">
+      {/* 결제가 꺼져 있는 동안엔 "요금제"라는 이름 자체를 쓰지 않는다 —
+          받지 않는 돈을 연상시킬 이유가 없다. 내용은 이용 안내 페이지가 그대로 담는다. */}
+      <Link href="/pricing" prefetch={false}>
         <Card className="flex flex-col items-center gap-1.5 p-4 text-center transition hover:bg-muted">
           <CreditCard className="h-6 w-6 text-accent" />
-          <span className="text-sm font-semibold">요금제</span>
+          <span className="text-sm font-semibold">
+            {env.billingEnabled ? "요금제" : "이용 안내"}
+          </span>
         </Card>
       </Link>
 

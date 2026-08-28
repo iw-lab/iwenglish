@@ -31,6 +31,7 @@ export function TopNav() {
           <Link
             key={t.href}
             href={t.href}
+            prefetch={false} // BottomNav 와 같은 이유 — 세션당 워커 요청 급감
             aria-current={active ? "page" : undefined}
             className={cn(
               "inline-flex items-center gap-1.5 rounded-chip px-3 py-1.5 text-sm font-semibold transition-colors",

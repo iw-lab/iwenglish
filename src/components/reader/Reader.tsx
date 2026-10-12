@@ -38,6 +38,7 @@ import {
 import { SentenceView } from "./SentenceView";
 import { PracticeControls, type PracticeMode } from "./PracticeControls";
 import { QuizPanel } from "./QuizPanel";
+import { getJuice, xyOf } from "@/lib/juice";
 import { cn } from "@/lib/utils";
 
 /** 쉐도잉 문장 수를 스토어에 몰아 쓰는 단위(매 문장 저장은 과함) */
@@ -506,7 +507,7 @@ export function Reader({ book }: { book: Book }) {
     [],
   );
 
-  const onStamp = () => {
+  const onStamp = (e?: React.MouseEvent) => {
     if (!stampVerdict.ok || stampedThisRead) return;
     markFinished(); // 첫 완독 세션 기록(중복 방지됨)
     flushShadow();
@@ -515,6 +516,7 @@ export function Reader({ book }: { book: Book }) {
     setStampedThisRead(true);
     setStampPulse(true);
     setConfetti(true);
+    getJuice()?.fire("stamp", { ...xyOf(e), title: "완독!" });
     // 도장 직후 홈으로 나가면 언마운트된 화면의 setState 가 950ms 뒤에 불린다.
     stampTimers.current.push(
       window.setTimeout(() => setStampPulse(false), 450),
@@ -941,7 +943,7 @@ export function Reader({ book }: { book: Book }) {
                           {readCount}/{READS_TO_COMPLETE} — 다 들었어요! 도장을 찍어요
                         </p>
                         <button
-                          onClick={onStamp}
+                          onClick={(e) => onStamp(e)}
                           className={cn(
                             "mt-1 inline-flex items-center gap-2 rounded-chip bg-accent px-6 py-3 text-base font-extrabold text-accent-foreground shadow-sm transition active:scale-95",
                             stampPulse && "stamp-slam",

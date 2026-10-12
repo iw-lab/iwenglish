@@ -134,9 +134,9 @@ export function useKaraoke(
           finish();
           return;
         }
-        rafRef.current = requestAnimationFrame(tickSilent);
+        rafRef.current = requestAnimationFrame(tickSilent); // gb-juice-ok 오디오 하이라이트 동기화 시계(플레이어 행동 아님)
       };
-      rafRef.current = requestAnimationFrame(tickSilent);
+      rafRef.current = requestAnimationFrame(tickSilent); // gb-juice-ok 오디오 하이라이트 동기화 시계(플레이어 행동 아님)
       // 오디오가 없는 모드라 rAF 가 유일한 시계 — 백그라운드에서 멈춰도
       // 문장이 영영 안 끝나지 않도록 타이머로 종료를 보장한다.
       tailTimerRef.current = window.setTimeout(finish, (lastEnd + TAIL) / rate);
@@ -178,7 +178,7 @@ export function useKaraoke(
           finish();
           return;
         }
-        rafRef.current = requestAnimationFrame(tick);
+        rafRef.current = requestAnimationFrame(tick); // gb-juice-ok 오디오 하이라이트 동기화 시계(플레이어 행동 아님)
       };
       a.onended = () => {
         // 오디오가 끝나도 에코가 남아 있으면 남은 지연만큼 트랙만 더 굴린다.
@@ -195,9 +195,9 @@ export function useKaraoke(
           const tailTick = () => {
             if (!alive()) return;
             syncTracks(lastEnd + (performance.now() - endedAt));
-            rafRef.current = requestAnimationFrame(tailTick);
+            rafRef.current = requestAnimationFrame(tailTick); // gb-juice-ok 오디오 하이라이트 동기화 시계(플레이어 행동 아님)
           };
-          rafRef.current = requestAnimationFrame(tailTick);
+          rafRef.current = requestAnimationFrame(tailTick); // gb-juice-ok 오디오 하이라이트 동기화 시계(플레이어 행동 아님)
           tailTimerRef.current = window.setTimeout(finish, echoDelay + 200);
           return;
         }
@@ -210,7 +210,7 @@ export function useKaraoke(
         a.play()
           .then(() => {
             if (!alive()) return;
-            rafRef.current = requestAnimationFrame(tick);
+            rafRef.current = requestAnimationFrame(tick); // gb-juice-ok 오디오 하이라이트 동기화 시계(플레이어 행동 아님)
           })
           .catch(() => {
             if (!alive()) return;

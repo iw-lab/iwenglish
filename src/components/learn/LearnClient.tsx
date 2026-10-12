@@ -24,6 +24,7 @@ import {
   type QuizWord,
 } from "@/lib/quizEngine";
 import { MIN_ANSWER_MS, todayISO } from "@/lib/learning";
+import { getJuice } from "@/lib/juice";
 import { WordQuestionView } from "./WordQuestionView";
 
 interface DeckItem {
@@ -63,6 +64,16 @@ export function LearnClient() {
     [],
   );
   const [graded, setGraded] = useState(false);
+
+  // 완료 화면은 idx 가 deck.length 를 넘는 "렌더 결과"라 렌더 중 바로 fire 하면
+  // 순수성이 깨진다 — 완료 화면이 뜰 때 1번만 반응하도록 effect + 가드로 뗀다.
+  const sessionDoneFired = useRef(false);
+  useEffect(() => {
+    if (deck && idx >= deck.length && !sessionDoneFired.current) {
+      sessionDoneFired.current = true;
+      getJuice()?.fire("sessionDone");
+    }
+  }, [deck, idx]);
 
   /* 레벨 진단 */
   const [placement, setPlacement] = useState<ReturnType<typeof buildPlacement> | null>(
@@ -125,6 +136,7 @@ export function LearnClient() {
 
   const start = (items: DeckItem[], label: string) => {
     if (items.length === 0) return;
+    sessionDoneFired.current = false;
     setDeck(shuffle(items));
     setIdx(0);
     setGraded(false);

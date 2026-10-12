@@ -1,0 +1,52 @@
+[
+  {
+    "file": "error.wav",
+    "recipe": "error",
+    "seed": 9153,
+    "sha1": "afb0ac831b675da3c52cde50d40d4e44f5aafde0",
+    "sec": 0.22,
+    "bytes": 19448,
+    "license": "self-generated",
+    "source": "game-builder/tools/gen-sfx.py"
+  },
+  {
+    "file": "gauge_full.wav",
+    "recipe": "gauge_full",
+    "seed": 32910,
+    "sha1": "1d62ade56272460542d6e874346f9183c7cdb9c2",
+    "sec": 0.42,
+    "bytes": 37088,
+    "license": "self-generated",
+    "source": "game-builder/tools/gen-sfx.py"
+  },
+  {
+    "file": "point.wav",
+    "recipe": "point",
+    "seed": 1234,
+    "sha1": "bb1c0fcf1c2790af867f52ca729bf9a4722837ee",
+    "sec": 0.4,
+    "bytes": 35324,
+    "license": "self-generated",
+    "source": "game-builder/tools/gen-sfx.py"
+  },
+  {
+    "file": "powerup.wav",
+    "recipe": "powerup",
+    "seed": 24991,
+    "sha1": "9cb53470a06bfce1eb3e5e05221aaa7db00c37e2",
+    "sec": 0.4,
+    "bytes": 35324,
+    "license": "self-generated",
+    "source": "game-builder/tools/gen-sfx.py"
+  },
+  {
+    "file": "win.wav",
+    "recipe": "win",
+    "seed": 17072,
+    "sha1": "cfc8e6185de2686c2e710510a6df78ce44b1e3d8",
+    "sec": 0.75,
+    "bytes": 66194,
+    "license": "self-generated",
+    "source": "game-builder/tools/gen-sfx.py"
+  }
+]

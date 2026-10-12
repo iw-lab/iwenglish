@@ -235,3 +235,18 @@
     transition-duration: 0.01ms !important;
   }
 }
+
+/* @gb-juice-css v1 — kit/juice/juice.css. 게임 스타일시트 끝에 그대로 붙인다(CSP style-src 'self' 라 JS 가 <style> 을 넣지 않는다). */
+.gbj-layer{position:fixed;inset:0;pointer-events:none;z-index:40;overflow:hidden}
+.gbj-pop{position:absolute;transform:translate(-50%,-50%) scale(var(--s));font:900 22px/1 system-ui,sans-serif;text-shadow:0 2px 0 #0008,0 0 12px currentColor;white-space:nowrap;animation:gbjPop .9s cubic-bezier(.2,1.6,.4,1) forwards}
+@keyframes gbjPop{0%{opacity:0;transform:translate(-50%,-50%) scale(calc(var(--s)*.3))}15%{opacity:1;transform:translate(-50%,-80%) scale(calc(var(--s)*1.35))}35%{transform:translate(calc(-50% + var(--dx)),-120%) scale(var(--s))}100%{opacity:0;transform:translate(calc(-50% + var(--dx)),-260%) scale(calc(var(--s)*.9))}}
+.gbj-punch{animation:gbjPunch .32s cubic-bezier(.2,2,.4,1)}
+@keyframes gbjPunch{0%{transform:scale(1)}30%{transform:scale(var(--gbj-p))}100%{transform:scale(1)}}
+.gbj-flash{position:absolute;inset:0;opacity:0}
+.gbj-flash.gbj-go{animation:gbjFlash .35s ease-out forwards}
+@keyframes gbjFlash{to{opacity:0}}
+/* 가운데 큰 글자 — 자리는 게임이 --gbj-banner-top 으로 옮긴다(HUD 배너·선택 카드와 겹치지 않게 · 2026-10-12 끝까지 진화 실측). 좁은 화면에서 넘치지 않게 vw 로 줄인다 */
+.gbj-banner{position:absolute;left:50%;top:var(--gbj-banner-top,40%);transform:translate(-50%,-50%);font:900 clamp(22px,8vw,44px)/1.1 system-ui,sans-serif;text-align:center;opacity:0;text-shadow:0 3px 0 #000a,0 0 24px currentColor;max-width:92vw;width:max-content}
+.gbj-banner.gbj-go{animation:gbjBan var(--d,1.4s) cubic-bezier(.2,1.5,.4,1) forwards}
+@keyframes gbjBan{0%{opacity:0;transform:translate(-50%,-50%) scale(.2) rotate(-8deg)}15%{opacity:1;transform:translate(-50%,-50%) scale(1.25) rotate(2deg)}30%{transform:translate(-50%,-50%) scale(1)}80%{opacity:1}100%{opacity:0;transform:translate(-50%,-70%) scale(1.05)}}
+@media (prefers-reduced-motion:reduce){.gbj-pop,.gbj-banner.gbj-go,.gbj-punch{animation-duration:.01s}}

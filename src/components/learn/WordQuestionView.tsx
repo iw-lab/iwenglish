@@ -7,6 +7,7 @@ import { checkSpelling } from "@/lib/quizEngine";
 import { AudioButton } from "@/components/ui/AudioButton";
 import { Card } from "@/components/ui/Card";
 import { playAudioUrl } from "@/lib/audio";
+import { getJuice, xyOf } from "@/lib/juice";
 import { cn } from "@/lib/utils";
 
 /**
@@ -56,21 +57,24 @@ export function WordQuestionView({
 
   // 이벤트 핸들러에서의 시각 측정(응답속도 가드용) — 렌더가 아니라 사용자 액션 시점이므로
   // performance.now() 호출이 정당하다. react-hooks/purity 는 이를 구분하지 못해 끈다.
-  const choose = (i: number) => {
+  const choose = (i: number, e?: React.MouseEvent) => {
     if (picked !== null) return;
     // eslint-disable-next-line react-hooks/purity
     const elapsed = Math.round(performance.now() - shownAt.current);
     setPicked(i);
+    const correct = i === question.answerIndex;
+    getJuice()?.fire(correct ? "correct" : "wrong", xyOf(e));
     // 소리가 안 난 듣기 문제의 답은 "들어서 맞힌 것"이 아니다 — 박스는 갱신하되
     // XP·퀘스트 진척은 주지 않는다(연타 가드와 같은 통로).
-    onGraded(i === question.answerIndex, elapsed, audioFailed);
+    onGraded(correct, elapsed, audioFailed);
   };
 
-  const submitSpelling = () => {
+  const submitSpelling = (e?: React.MouseEvent) => {
     if (spellResult !== null) return;
     const elapsed = Math.round(performance.now() - shownAt.current);
     const ok = checkSpelling(question.word, typed.join(""));
     setSpellResult(ok);
+    getJuice()?.fire(ok ? "correct" : "wrong", xyOf(e));
     onGraded(ok, elapsed);
   };
 
@@ -147,7 +151,7 @@ export function WordQuestionView({
             <Delete className="h-5 w-5" /> 지우기
           </button>
           <button
-            onClick={submitSpelling}
+            onClick={(e) => submitSpelling(e)}
             disabled={revealed || typed.length !== answer.length}
             className="flex-1 rounded-chip bg-primary py-3 font-bold text-primary-foreground disabled:opacity-40"
           >
@@ -212,7 +216,7 @@ export function WordQuestionView({
           return (
             <button
               key={i}
-              onClick={() => choose(i)}
+              onClick={(e) => choose(i, e)}
               disabled={revealed}
               className={cn(
                 "flex items-center justify-between rounded-chip border px-4 py-3.5 text-left font-ko text-lg font-semibold transition",

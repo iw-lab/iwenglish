@@ -5,6 +5,7 @@ import { Check, X, RotateCcw, ArrowRight, Trophy } from "lucide-react";
 import type { QuizQuestion } from "@/types/book";
 import { Button } from "@/components/ui/Button";
 import { isQuizPassed, QUIZ_PASS_RATIO } from "@/lib/learning";
+import { getJuice, xyOf } from "@/lib/juice";
 import { shuffle } from "@/lib/quizEngine";
 import { cn } from "@/lib/utils";
 
@@ -47,17 +48,21 @@ export function QuizPanel({
   const cur = deck[idx];
   const last = idx === deck.length - 1;
 
-  const choose = (i: number) => {
+  const choose = (i: number, e?: React.MouseEvent) => {
     if (picked !== null) return;
     setPicked(i);
-    if (i === cur.answerIndex) setScore((s) => s + 1);
+    const correct = i === cur.answerIndex;
+    if (correct) setScore((s) => s + 1);
+    getJuice()?.fire(correct ? "correct" : "wrong", xyOf(e));
   };
 
   const next = () => {
     if (last) {
       const finalScore = score;
+      const passed = isQuizPassed(finalScore, deck.length);
       setDone(true);
-      onResult?.(isQuizPassed(finalScore, deck.length), finalScore, deck.length);
+      if (passed) getJuice()?.fire("quizPass");
+      onResult?.(passed, finalScore, deck.length);
     } else {
       setIdx((i) => i + 1);
       setPicked(null);
@@ -146,7 +151,7 @@ export function QuizPanel({
           return (
             <button
               key={i}
-              onClick={() => choose(i)}
+              onClick={(e) => choose(i, e)}
               disabled={reveal}
               className={cn(
                 "flex w-full items-center justify-between rounded-chip border px-4 py-3 text-left font-ko transition",

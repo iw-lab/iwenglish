@@ -85,6 +85,16 @@ export function Onboarding() {
             )}
           </button>
         </div>
+
+        <a
+          href="https://ssamzip.com"
+          target="_blank"
+          rel="noopener"
+          data-gb="site-link"
+          className="mx-auto inline-flex min-h-11 items-center justify-center rounded-full border border-border bg-muted px-4 text-xs font-semibold text-muted-foreground"
+        >
+          선행쌤 · 선생님이 만든 다른 수업 놀이 보기
+        </a>
       </div>
     </div>
   );

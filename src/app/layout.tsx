@@ -76,6 +76,8 @@ export default function RootLayout({
         <AliveBeacon />
         <ThemeManager />
         {children}
+        {/* 오늘·누적 이용자 수 — 선행쌤 공용 카운터(ssam-count). 개인정보 0: 기기 무작위 id 해시만 */}
+        <script src="/ssam-count.js" data-app="echotale" data-place="host" defer />
       </body>
     </html>
   );

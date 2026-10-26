@@ -95,6 +95,8 @@ export default async function LibraryPage() {
             단계별 그림책으로 — Read it. Hear it. Echo it. Speak it.
           </p>
         </div>
+        {/* 오늘·누적 이용자 수(선행쌤 공용 카운터 ssam-count · public/ssam-count.js 가 채운다) */}
+        <div data-ssam-count className="min-h-[22px]" />
         <a
           href="https://ssamzip.com"
           target="_blank"

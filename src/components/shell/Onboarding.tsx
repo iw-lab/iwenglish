@@ -87,7 +87,7 @@ export function Onboarding() {
         </div>
 
         <a
-          href="https://ssamzip.com"
+          href="https://sunhaengssam.web.app"
           target="_blank"
           rel="noopener"
           data-gb="site-link"

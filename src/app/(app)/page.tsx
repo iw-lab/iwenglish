@@ -98,7 +98,7 @@ export default async function LibraryPage() {
         {/* 오늘·누적 이용자 수(선행쌤 공용 카운터 ssam-count · public/ssam-count.js 가 채운다) */}
         <div data-ssam-count className="min-h-[22px]" />
         <a
-          href="https://ssamzip.com"
+          href="https://sunhaengssam.web.app"
           target="_blank"
           rel="noopener"
           data-gb="site-link"

@@ -18,7 +18,7 @@
     "seed:words": "tsx scripts/gen-word-audio.ts",
     "seed:worddict": "tsx scripts/gen-word-dict.ts",
     "cf:build": "tsx scripts/build-content.ts && opennextjs-cloudflare build && node scripts/check-asset-count.mjs",
-    "cf:deploy": "pnpm cf:build && opennextjs-cloudflare deploy",
+    "cf:deploy": "pnpm cf:build && npm_config_cache=$HOME/.npm HOME=$HOME/.cf-homes/gmail CLOUDFLARE_ACCOUNT_ID=d793b56b68116f5a38bbcfd202661f1a opennextjs-cloudflare deploy",
     "test": "vitest run"
   },
   "dependencies": {

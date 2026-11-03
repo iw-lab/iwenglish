@@ -51,6 +51,21 @@
   /* 본문(이야기) 폰트 스택 — 기본 세리프, 난독증 토글 시 Lexend */
   --font-reading-stack: var(--font-gowun), Georgia, "Times New Roman", serif;
   --font-scale: 1;
+
+  /* school-hub 키트 색 토큰 — 키트 기본값(--gb-ui.css)은 어두운 배경을 전제해서
+     이 앱의 밝은 크림 바탕에선 흰 글자가 흰 바탕에 거의 묻혔다(게이트 B14 실측 1.1~1.4:1).
+     앱 시맨틱 토큰에 그대로 별칭을 달아 라이트/다크 전환에 같이 따라가게 한다(.dark 블록이 알아서 뒤집는다).
+     이 import 가 gb-ui.css 보다 뒤라 :root 같은 특이도에서 이긴다(layout.tsx import 순서). */
+  --gb-bg: var(--background);
+  --gb-panel: var(--card);
+  --gb-panel-2: var(--muted);
+  --gb-line: var(--border);
+  --gb-text: var(--foreground);
+  --gb-dim: var(--muted-foreground);
+  --gb-accent: var(--primary);
+  --gb-accent-ink: var(--primary-foreground);
+  --gb-gold: var(--primary);
+  --gb-danger: var(--bad);
 }
 
 /* 난독증 친화 모드: 본문 폰트를 Lexend 로 교체 + 자간/줄간 확대 */

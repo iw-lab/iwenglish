@@ -1,8 +1,10 @@
 import type { Metadata, Viewport } from "next";
 import { Nunito, Lexend, Gowun_Batang } from "next/font/google";
+import "@/gb/gb-ui.css";
 import "./globals.css";
 import { ThemeManager } from "@/components/shell/ThemeManager";
 import { AliveBeacon } from "@/components/shell/AliveBeacon";
+import { SchoolHubBoot } from "@/components/shell/SchoolHubBoot";
 import { RECOVERY_SCRIPT } from "@/components/shell/recovery-script";
 
 const nunito = Nunito({
@@ -74,6 +76,7 @@ export default function RootLayout({
         className={`${nunito.variable} ${lexend.variable} ${gowun.variable} antialiased`}
       >
         <AliveBeacon />
+        <SchoolHubBoot />
         <ThemeManager />
         {children}
         {/* 오늘·누적 이용자 수 — 선행쌤 공용 카운터(ssam-count). 개인정보 0: 기기 무작위 id 해시만 */}

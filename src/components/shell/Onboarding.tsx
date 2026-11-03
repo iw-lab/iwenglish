@@ -86,11 +86,14 @@ export function Onboarding() {
           </button>
         </div>
 
+        {/* 🔴 data-gb="site-link" 금지 — 그 속성은 school-hub 키트(mountSchoolRank)가 첫 화면
+            순위 카드 바로 밑에 붙이는 진짜 배너의 자리 표식이다. 여기서 같은 속성을 쓰면
+            ensureSiteLink() 가 "이미 있다"고 보고 *이 엘리먼트를* 떼어 그 자리로 옮겨 버려서
+            (React 가 모르는 새 onboarding 의 DOM 이 바뀐다) 다음 렌더에서 제거 충돌이 난다. */}
         <a
           href="https://sunhaengssam.web.app"
           target="_blank"
           rel="noopener"
-          data-gb="site-link"
           className="mx-auto inline-flex min-h-11 items-center justify-center rounded-full border border-border bg-muted px-4 text-xs font-semibold text-muted-foreground"
         >
           선행쌤 · 선생님이 만든 다른 수업 놀이 보기

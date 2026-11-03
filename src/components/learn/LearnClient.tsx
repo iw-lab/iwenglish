@@ -25,6 +25,7 @@ import {
 } from "@/lib/quizEngine";
 import { MIN_ANSWER_MS, todayISO } from "@/lib/learning";
 import { getJuice } from "@/lib/juice";
+import { gbGate, gbFinish, gbLeave } from "@/lib/schoolHub";
 import { WordQuestionView } from "./WordQuestionView";
 
 interface DeckItem {
@@ -65,6 +66,9 @@ export function LearnClient() {
   );
   const [graded, setGraded] = useState(false);
 
+  // 학교 순위 이용권 영수증 — 덱 1판 = 이용권 1장(gbGate 가 채워 준다. 허브가 죽었으면 null)
+  const ticketRef = useRef<string | null>(null);
+
   // 완료 화면은 idx 가 deck.length 를 넘는 "렌더 결과"라 렌더 중 바로 fire 하면
   // 순수성이 깨진다 — 완료 화면이 뜰 때 1번만 반응하도록 effect + 가드로 뗀다.
   const sessionDoneFired = useRef(false);
@@ -72,8 +76,12 @@ export function LearnClient() {
     if (deck && idx >= deck.length && !sessionDoneFired.current) {
       sessionDoneFired.current = true;
       getJuice()?.fire("sessionDone");
+      // 정확도 80% 이상(완료 화면의 🎉 기준과 동일)이면 "통과"로 학교 점수 반영
+      const acc = stats.right / Math.max(1, deck.length);
+      void gbFinish(ticketRef.current, acc >= 0.8);
+      ticketRef.current = null;
     }
-  }, [deck, idx]);
+  }, [deck, idx, stats]);
 
   /* 레벨 진단 */
   const [placement, setPlacement] = useState<ReturnType<typeof buildPlacement> | null>(
@@ -144,14 +152,27 @@ export function LearnClient() {
     setSourceLabel(label);
   };
 
+  // 덱 1판 시작 = 이용권 관문(gbGate). 학교를 안 정했거나 이용권이 없으면 키트가 먼저
+  // 학교 찾기·문제 풀이 창을 띄우고, "목록에 없어요"·허브 장애면 점수 없이 그냥 시작한다.
+  const playStart = (items: DeckItem[], label: string) => {
+    if (items.length === 0) return;
+    void gbGate(
+      (ref) => {
+        ticketRef.current = ref;
+        start(items, label);
+      },
+      { kind: "word" },
+    );
+  };
+
   const startReview = () =>
-    start(
+    playStart(
       dueKeys.map(itemFromEn).filter((c): c is DeckItem => !!c),
       "복습",
     );
 
   const startWordbook = () =>
-    start(
+    playStart(
       wb
         .map((w) => itemFromEn(w.text.toLowerCase()))
         .filter((c): c is DeckItem => !!c),
@@ -159,7 +180,7 @@ export function LearnClient() {
     );
 
   const startLevel = (lv: number) =>
-    start(
+    playStart(
       shuffle(ewords.filter((w) => w.level === lv))
         .slice(0, 20)
         .map((e) => ({
@@ -169,6 +190,15 @@ export function LearnClient() {
         })),
       `레벨 ${lv}`,
     );
+
+  // 판 중간에 나감(상단 ← 단추) — 이용권 환불/정산은 gbLeave 가 맡는다
+  const quitSession = () => {
+    if (ticketRef.current) {
+      void gbLeave(ticketRef.current);
+      ticketRef.current = null;
+    }
+    setDeck(null);
+  };
 
   /* ── 채점 ── */
   const onGraded = (correct: boolean, elapsedMs: number, noCredit = false) => {
@@ -279,7 +309,7 @@ export function LearnClient() {
             다른 학습
           </button>
           <button
-            onClick={() => start(deck, sourceLabel)}
+            onClick={() => playStart(deck, sourceLabel)}
             className="flex-1 rounded-chip bg-primary py-3 font-semibold text-primary-foreground"
           >
             <RotateCcw className="mr-1 inline h-4 w-4" /> 다시
@@ -296,7 +326,7 @@ export function LearnClient() {
       <div className="mx-auto max-w-md space-y-4">
         <div className="flex items-center gap-3">
           <button
-            onClick={() => setDeck(null)}
+            onClick={quitSession}
             aria-label="그만두기"
             className="grid h-9 w-9 place-items-center rounded-full hover:bg-muted"
           >

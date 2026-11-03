@@ -1,6 +1,7 @@
 import { BottomNav } from "./BottomNav";
 import { TopNav } from "./TopNav";
 import { Onboarding } from "./Onboarding";
+import { FullscreenButton } from "./FullscreenButton";
 
 export function AppShell({
   children,
@@ -23,7 +24,10 @@ export function AppShell({
           )}
         </span>
         <TopNav />
-        <div className="ml-auto flex items-center gap-2">{action}</div>
+        <div className="ml-auto flex items-center gap-2">
+          <FullscreenButton />
+          {action}
+        </div>
       </header>
       <main className="flex-1 px-4 pb-28 pt-4 lg:px-8 lg:pb-12 lg:pt-6">
         {children}

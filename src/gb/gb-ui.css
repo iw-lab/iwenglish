@@ -1,0 +1,186 @@
+/* gb-ui.css — game-builder 기본틀 UI(첫 화면 셸 · 학교 순위 · 학교 찾기 · 문제 · 모드 카드 · 모드 띠 · 전체화면 단추).
+ * 키트 정본 = ~/.claude/skills/game-builder/kit/school-hub/client. 게임은 :root 의 --gb-* 토큰만 덮어 자기 색을 입힌다.
+ * 🔴 원칙(2026-10-11 사용자 «심플하고 세련된 UI · 직관적인»): 주 행동 단추 1개 · 같은 종류는 같은 모양 · 장식 띠·배지 남발 금지 ·
+ *    글자 ≥ 12px · 누르는 곳 ≥ 44px · 첫 화면 맨 위 = 학교 순위(접지 않음).
+ */
+:root {
+  --gb-bg: #0f1729;
+  --gb-panel: rgba(255, 255, 255, 0.055);
+  --gb-panel-2: rgba(255, 255, 255, 0.09);
+  --gb-line: rgba(255, 255, 255, 0.1);
+  --gb-text: #eaf1ff;
+  --gb-dim: rgba(234, 241, 255, 0.6);
+  --gb-accent: #8fe3c0;
+  --gb-accent-ink: #062419;
+  --gb-gold: #ffd166;
+  --gb-danger: #ff6b6b;
+  --gb-radius: 16px;
+  --gb-font: system-ui, -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", Roboto, sans-serif;
+}
+
+/* ── 첫 화면 셸: 머리줄 → 학교 순위 → 주 단추 → 모드 → 보조 줄 ── */
+.gb-home { width: 100%; max-width: 440px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px; font-family: var(--gb-font); color: var(--gb-text); }
+.gb-home-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 44px; }
+.gb-brand { display: flex; align-items: center; gap: 8px; font-weight: 800; font-size: 20px; letter-spacing: -0.3px; }
+.gb-brand canvas, .gb-brand img { width: 34px; height: 34px; }
+.gb-tools { display: flex; gap: 6px; }
+.gb-icon { width: 44px; height: 44px; border-radius: 12px; border: 1px solid var(--gb-line); background: var(--gb-panel); color: var(--gb-text);
+  display: grid; place-items: center; font-size: 20px; cursor: pointer; padding: 0; }
+.gb-icon:active { transform: scale(0.94); }
+.gb-play { border: 0; border-radius: var(--gb-radius); min-height: 56px; font: 800 18px var(--gb-font); cursor: pointer;
+  background: var(--gb-accent); color: var(--gb-accent-ink); box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25); }
+.gb-play:active { transform: scale(0.98); }
+.gb-sub { display: grid; grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); gap: 8px; }
+.gb-sub > button { min-height: 44px; border-radius: 12px; border: 1px solid var(--gb-line); background: var(--gb-panel); color: var(--gb-text);
+  font: 700 13.5px var(--gb-font); cursor: pointer; padding: 6px 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gb-sub > button.done { color: var(--gb-accent); border-color: color-mix(in srgb, var(--gb-accent) 50%, transparent); }
+
+/* ── 학교 순위 카드(첫 화면 맨 위 · 접지 않음) ── */
+.gb-rank { background: var(--gb-panel); border: 1.5px solid color-mix(in srgb, var(--gb-gold) 55%, transparent); border-radius: var(--gb-radius);
+  padding: 10px 14px 8px; text-align: left; font-family: var(--gb-font); color: var(--gb-text); }
+.gb-rank-head { display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px; }
+.gb-rank-head b { font-size: 15px; color: var(--gb-gold); }
+.gb-rank-head small { flex: 1; color: var(--gb-dim); font-size: 12px; }
+.gb-tix { font-size: 12.5px; font-weight: 800; color: var(--gb-text); background: var(--gb-panel-2); border-radius: 999px; padding: 2px 9px; }
+.gb-rank-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 1px; font-size: 14px; }
+.gb-rank-list li { display: flex; align-items: center; gap: 8px; min-height: 24px; }
+.gb-rank-list .pos { flex: 0 0 24px; text-align: center; font-weight: 800; font-size: 13px; color: var(--gb-dim); }
+.gb-rank-list li.medal .pos { font-size: 15px; }
+.gb-rank-list .nm { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gb-rank-list .nm small { color: var(--gb-dim); font-size: 12px; }
+.gb-rank-list .pt { font-variant-numeric: tabular-nums; color: var(--gb-gold); }
+.gb-rank-list li.me { color: var(--gb-accent); font-weight: 800; }
+.gb-rank-list li.sep { border-top: 1px dashed var(--gb-line); margin-top: 3px; padding-top: 3px; }
+.gb-rank-list li.dim { color: var(--gb-dim); font-size: 13px; }
+.gb-rank-foot { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-top: 6px; padding-top: 6px; border-top: 1px solid var(--gb-line); font-size: 12.5px; }
+.gb-mine { color: var(--gb-dim); }
+.gb-mine b { color: var(--gb-accent); }
+.gb-link { background: none; border: 0; color: var(--gb-accent); font: 700 12.5px var(--gb-font); cursor: pointer; padding: 6px 2px; min-height: 44px; }
+
+/* ── 모드 카드(전부 같은 모양) ── */
+.gb-modes { display: grid; grid-template-columns: 1fr 1fr; grid-auto-rows: 1fr; gap: 8px; }
+.gb-mode { display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto auto; column-gap: 8px; align-items: center;
+  text-align: left; min-height: 76px; padding: 10px 12px; border-radius: 14px; border: 1px solid var(--gb-line); background: var(--gb-panel);
+  color: var(--gb-text); font-family: var(--gb-font); cursor: pointer; }
+.gb-mode:active { transform: scale(0.97); }
+.gb-mode-emoji { grid-row: 1 / span 2; width: 28px; height: 28px; line-height: 1; display: grid; place-items: center; color: var(--gb-accent, #ffcf5a); }
+.gb-mode-emoji svg { width: 26px; height: 26px; }
+.gb-mode-name { font-weight: 800; font-size: 15px; }
+.gb-mode-desc { font-size: 12px; color: var(--gb-dim); line-height: 1.3; }
+.gb-mode-best { grid-column: 1 / span 2; font-size: 12px; font-weight: 700; color: var(--gb-gold); min-height: 0; }
+.gb-mode-best:empty { display: none; }
+
+/* ── 게임 중 모드 띠 ── */
+.gb-modebar { display: flex; justify-content: center; align-items: center; gap: 8px; pointer-events: none; font-family: var(--gb-font); font-variant-numeric: tabular-nums; }
+.gb-chip { background: rgba(10, 16, 32, 0.72); color: var(--gb-text); border-radius: 12px; padding: 5px 12px; font-weight: 800; font-size: 15px; }
+.gb-time { font-size: 20px; }
+.gb-time.urgent { color: var(--gb-danger); animation: gbBlink 0.5s steps(2) infinite; }
+.gb-hearts i { font-style: normal; }
+.gb-hearts i.lost { opacity: 0.25; filter: grayscale(1); }
+@keyframes gbBlink { 50% { opacity: 0.55; } }
+
+/* ── 전체 덮개(학교 찾기 · 문제) ── */
+/* 🔴 열 = minmax(0,1fr) — auto 열이면 입력칸·단추의 고유 폭이 열을 넓혀 390px 폰에서 창이 오른쪽으로 잘렸다(보카웜 2026-10-12 실측 sheet 434px) */
+#gb-layer { position: fixed; inset: 0; z-index: 1000; display: grid; grid-template-columns: minmax(0, 1fr); place-items: center; padding: 16px; background: rgba(6, 10, 22, 0.72);
+  backdrop-filter: blur(4px); font-family: var(--gb-font); color: var(--gb-text); overflow-y: auto; }
+#gb-layer[hidden] { display: none; }
+.gb-sheet { width: 100%; max-width: 520px; background: var(--gb-bg); border: 1px solid var(--gb-line); border-radius: 20px; padding: 18px 16px; text-align: center;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45); }
+.gb-sheet h2 { margin: 0 0 6px; font-size: 21px; }
+.gb-hint { margin: 0 0 12px; color: var(--gb-dim); font-size: 13.5px; line-height: 1.5; }
+.gb-hint b { color: var(--gb-text); }
+.gb-row { display: flex; gap: 6px; }
+.gb-row select, .gb-row input { min-height: 46px; border-radius: 12px; border: 1px solid var(--gb-line); background: var(--gb-panel-2); color: var(--gb-text);
+  font: 600 16px var(--gb-font); padding: 0 10px; }
+.gb-row input { flex: 1; min-width: 0; user-select: text; -webkit-user-select: text; }
+.gb-list { list-style: none; padding: 0; margin: 10px 0 0; display: flex; flex-direction: column; gap: 6px; max-height: 46vh; overflow-y: auto; }
+.gb-pick { width: 100%; min-height: 46px; text-align: left; border-radius: 12px; border: 1px solid var(--gb-line); background: var(--gb-panel); color: var(--gb-text);
+  font: 700 15px var(--gb-font); padding: 8px 12px; cursor: pointer; }
+.gb-pick small { color: var(--gb-dim); font-weight: 600; }
+.gb-msg { min-height: 20px; margin: 10px 0 0; font-size: 14px; color: var(--gb-dim); }
+.gb-msg b { color: var(--gb-gold); }
+.gb-btns { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 12px; }
+.gb-btn { min-height: 46px; min-width: 110px; border-radius: 12px; border: 0; background: var(--gb-accent); color: var(--gb-accent-ink); font: 800 16px var(--gb-font);
+  padding: 0 18px; cursor: pointer; }
+.gb-btn.ghost { background: transparent; color: var(--gb-text); border: 1px solid var(--gb-line); }
+.gb-btn:disabled { opacity: 0.5; }
+.gb-opts { display: flex; flex-direction: column; gap: 8px; align-items: center; }
+.gb-seg { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
+.gb-pill { min-height: 44px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--gb-line); background: var(--gb-panel); color: var(--gb-text);
+  font: 700 14px var(--gb-font); cursor: pointer; }
+.gb-pill.on { background: var(--gb-accent); border-color: var(--gb-accent); color: var(--gb-accent-ink); }
+.gb-qprog { display: flex; gap: 6px; justify-content: center; margin: 6px 0 0; }
+.gb-qprog i { width: 30px; height: 7px; border-radius: 9px; background: var(--gb-panel-2); }
+.gb-qprog i.done { background: var(--gb-accent); }
+.gb-qprog i.now { background: var(--gb-gold); }
+.gb-qtext { font-size: clamp(26px, 7vw, 40px); font-weight: 800; margin: 16px 0; }
+.gb-choices { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.gb-choice { min-height: 72px; border-radius: 14px; border: 1px solid var(--gb-line); background: var(--gb-panel-2); color: var(--gb-text); font: 800 22px var(--gb-font); cursor: pointer; }
+.gb-choice:active { transform: scale(0.97); }
+.gb-review { text-align: left; display: flex; flex-direction: column; gap: 4px; font-size: 15px; }
+.gb-review .no { color: var(--gb-danger); }
+
+@media (max-height: 640px) {
+  .gb-home { gap: 8px; }
+  .gb-rank { padding: 7px 12px 6px; }
+  .gb-rank-list { font-size: 13px; }
+  .gb-rank-list li { min-height: 21px; }
+  .gb-play { min-height: 50px; font-size: 17px; }
+  .gb-mode { min-height: 64px; padding: 8px 10px; }
+}
+@media (max-width: 350px) {
+  .gb-mode-desc { display: none; }
+}
+
+/* 분수 = 위아래로 쌓기(kit/frac/frac.css 와 같은 규칙) — 여기 두는 이유: CSP style-src 'self' 게임은 frac.js 의 인라인 <style> 주입이 막힌다 */
+.frac{display:inline-flex;flex-direction:column;align-items:center;vertical-align:middle;line-height:1.05;margin:0 .12em;font-size:.9em;font-variant-numeric:tabular-nums}
+.frac-n{padding:0 .18em .06em;border-bottom:.09em solid currentColor}.frac-d{padding:.06em .18em 0}.frac-mixed{white-space:nowrap}.frac-mixed>.frac{margin-left:.06em}
+/* 키트 화면 안에서는 키트 분수가 이긴다 — 게임이 자기 분수용 .frac(inline-block·top 이동)을 따로 갖고 있으면 뒤에 로드된 그 규칙이
+   위 규칙을 덮어 «3 4»처럼 가로로 붙었다(퐁당 낚시 style.css 2026-10-12). id 선택자로 이기고, 게임이 흔히 주는 속성을 되돌린다. */
+#gb-layer .frac,[data-gb] .frac{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;vertical-align:middle;position:static;top:auto;float:none;width:auto;height:auto;text-align:center;line-height:1.05}
+#gb-layer .frac-n,#gb-layer .frac-d,[data-gb] .frac-n,[data-gb] .frac-d{display:block;position:static;float:none}
+/* 보기가 홀수(수학 = 3개)면 마지막 보기를 한 줄 전체로 — 2열 격자에 빈칸이 남아 «하나 빠진» 것처럼 보였다(티샷 사용자 화면) */
+#gb-layer .gb-choices > .gb-choice:last-child:nth-child(odd){grid-column:1/-1}
+
+/* 아이콘(gb-icons.js) — 이모지 대신 */
+.gb-ic { width: 1.1em; height: 1.1em; vertical-align: -0.18em; flex: none; }
+.gb-ic-ok { color: #6fdc8c; } .gb-ic-no { color: #ff7a6b; }
+.gb-hearts i .gb-ic { color: #ff5a6e; } .gb-hearts i.lost .gb-ic { color: rgba(255,255,255,.25); }
+.gb-rank-list .pos.m1, .gb-rank-list .pos.m2, .gb-rank-list .pos.m3 { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; font-weight: 900; color: #1b1b1b; }
+.gb-rank-list .pos.m1 { background: #ffd34d; } .gb-rank-list .pos.m2 { background: #d7dde6; } .gb-rank-list .pos.m3 { background: #e0a46a; }
+
+/* 1.4.0 — 첫 화면 통계 줄 · 전체 순위(더보기) */
+.gb-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; margin: 2px 0 6px; padding: 6px 0; border-bottom: 1px solid var(--gb-line); text-align: center; }
+.gb-stats span { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+.gb-stats b { font-size: 15px; font-variant-numeric: tabular-nums; color: var(--gb-text); }
+.gb-stats small { font-size: 12px; color: var(--gb-dim); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gb-more { display: block; width: 100%; text-align: center; }
+.gb-rank-all { text-align: left; }
+.gb-rank-all h2 { text-align: center; }
+.gb-tabs { display: flex; gap: 6px; justify-content: center; margin: 4px 0 8px; }
+.gb-tab { min-height: 44px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--gb-line); background: transparent; color: var(--gb-text); font: 700 14px var(--gb-font); cursor: pointer; }
+.gb-tab.on { background: var(--gb-accent); color: var(--gb-accent-ink); border-color: transparent; }
+.gb-rank-scroll { max-height: min(60vh, 520px); overflow-y: auto; padding: 0 4px; }
+.gb-rank-scroll li { min-height: 30px; }
+
+/* 첫 화면 맨 아래 선행쌤 링크(1.14.0) — 누르는 곳 ≥44px · 글자 ≥12px */
+.gb-site { position: relative; overflow: hidden; display: flex; align-items: center; gap: 12px; width: 100%; min-height: 60px; margin: 10px 0 6px; padding: 10px 14px;
+  box-sizing: border-box; flex-shrink: 0; border-radius: 16px; text-decoration: none; color: #fff; font: 500 13px var(--gb-font);
+  background: linear-gradient(110deg, #6d28d9, #db2777, #f97316, #db2777, #6d28d9); background-size: 300% 100%;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.35) inset, 0 8px 24px rgba(219, 39, 119, 0.45); animation: gb-site-flow 7s linear infinite; }
+.gb-site::after { content: ''; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(100deg, transparent 30%, rgba(255, 255, 255, 0.45) 50%, transparent 70%); transform: translateX(-120%); animation: gb-site-shine 3.2s ease-in-out infinite; }
+.gb-site-ic { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; flex-shrink: 0; border-radius: 12px;
+  background: rgba(255, 255, 255, 0.22); animation: gb-site-pop 1.6s ease-in-out infinite; }
+.gb-site-ic .gb-ic { width: 24px; height: 24px; }
+.gb-site-tx { display: flex; flex-direction: column; min-width: 0; flex: 1; text-align: left; line-height: 1.25; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35); }
+.gb-site-tx b { font-size: 18px; font-weight: 900; letter-spacing: -0.01em; }
+.gb-site-tx small { font-size: 13px; font-weight: 600; opacity: 0.95; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gb-site-go { display: inline-flex; align-items: center; gap: 4px; flex-shrink: 0; min-height: 36px; padding: 0 12px; border-radius: 999px;
+  background: #fff; color: #be185d; font-weight: 800; font-size: 13px; }
+.gb-site-go .gb-ic { width: 14px; height: 14px; }
+.gb-site:hover, .gb-site:focus-visible { filter: brightness(1.08); box-shadow: 0 0 0 2px #fff inset, 0 10px 30px rgba(219, 39, 119, 0.6); }
+@keyframes gb-site-flow { to { background-position: 300% 0; } }
+@keyframes gb-site-shine { 0%, 55% { transform: translateX(-120%); } 100% { transform: translateX(120%); } }
+@keyframes gb-site-pop { 0%, 100% { transform: scale(1) rotate(0); } 50% { transform: scale(1.12) rotate(-8deg); } }
+@media (prefers-reduced-motion: reduce) { .gb-site, .gb-site::after, .gb-site-ic { animation: none; } }

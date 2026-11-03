@@ -1,0 +1,10 @@
+{
+  "kit": "school-hub",
+  "version": "1.16.0 (2026-11-03)",
+  "id": "echotale",
+  "host": "pages",
+  "client": "src/gb",
+  "store": "do",
+  "freePlay": false,
+  "noCap": false
+}

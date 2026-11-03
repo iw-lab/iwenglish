@@ -1,0 +1,17 @@
+# echotale 학교 허브 — 저장소 = Durable Object 내장 SQLite(D1 자리 불필요 · 무료 플랜). game-builder kit/school-hub install.sh --store do 로 깔았다.
+# 배포 = tools/hub.sh deploy (로그인 이메일 확인 후). 비밀: QUIZ_KEY(문제 묶음 봉인) · PROXY_KEY(게임 페이지 중계만 받기)
+name = "echotale-hub"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+account_id = "a043bf13d2ac042d81de8aa70bd1f893"
+
+[[durable_objects.bindings]]
+name = "HUB_DO"
+class_name = "HubDO"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["HubDO"]
+
+[vars]
+DIRECT_ORIGINS = "https://ssamzip.com,https://echotale.simssijjang-d79.workers.dev"

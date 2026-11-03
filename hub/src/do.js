@@ -6,7 +6,7 @@ import { Hub, doD1 } from './hub.js';
 export class HubDO extends DurableObject {
   constructor(ctx, env) {
     super(ctx, env);
-    this.hub = new Hub({ db: doD1(ctx.storage), secret: env.QUIZ_KEY, free: env.FREE_PLAY === '1', nocap: env.NO_CAP === '1', switchPerDay: env.SCHOOL_SWITCH_PER_DAY });
+    this.hub = new Hub({ db: doD1(ctx.storage), secret: env.QUIZ_KEY, free: env.FREE_PLAY === '1', nocap: env.NO_CAP === '1', switchPerDay: env.SCHOOL_SWITCH_PER_DAY, topCache: true });   // 순위 목록 보관(키트 1.18)
   }
   /** 워커가 RPC 로 부른다 — 반환 {status, body} 는 구조적 복제로 건너간다 */
   async handle(path, body) { return this.hub.handle(path, body); }

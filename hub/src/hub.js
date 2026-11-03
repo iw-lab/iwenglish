@@ -9,6 +9,11 @@
 import { makeQuestions } from '../shared/quiz.js';
 import { T, kstDay, kstWeek, isDh, isCode, isRef, packKey, seal, unseal, shortName, SIDO, isCanonicalToken, tokenKey, resultPoints } from '../shared/school.js';
 
+/* 순위 목록 보관 — DO 모드에서만(인스턴스 하나가 모든 쓰기를 본다). D1 은 isolate 가 여럿이라 «결과 들어옴» 신호가 안 건너가 끈다(교차검증 4계열) */
+const TOPC = new WeakMap(); const TOP_TTL_MS = 15e3, TOP_DIRTY_MS = 5e3;
+const topCache = (db) => { let c = TOPC.get(db); if (!c) TOPC.set(db, (c = { lists: new Map(), gen: 0, dirtyAt: 0 })); return c; };
+/* 세대 번호로(같은 밀리초 쓰기·보관도 놓치지 않는다 · 교차검증 codex·grok) */
+export const topDirty = (db, at) => { const c = topCache(db); c.gen++; c.dirtyAt = at; };
 const READY = new Map();   // 표 모양 해시 → { db, p } — 같은 isolate 의 다음 요청은 DDL·확인 읽기 없이 지나간다
 /** 시험용 — 새 isolate(새 워커 기동) 흉내 */
 export function resetSchemaMemo() { READY.clear(); }
@@ -50,6 +55,10 @@ export const SCHEMA = [
   `CREATE TABLE IF NOT EXISTS sch (code TEXT PRIMARY KEY)`,
   `CREATE TABLE IF NOT EXISTS dact (day TEXT NOT NULL, dh TEXT NOT NULL, PRIMARY KEY (day, dh))`,
   `CREATE TABLE IF NOT EXISTS dplay (day TEXT PRIMARY KEY, n INTEGER NOT NULL DEFAULT 0)`,
+  /* 오늘 들어온 기기 수 — 통계마다 dact 를 COUNT(*) 하면 1분에 한 번씩 그날 기기 수만큼 읽는다(키트 1.18 · 2026-11-03 실측) → 트리거 카운터 */
+  `CREATE TABLE IF NOT EXISTS dactn (day TEXT PRIMARY KEY, n INTEGER NOT NULL DEFAULT 0)`,
+  `CREATE TRIGGER IF NOT EXISTS st_dact AFTER INSERT ON dact BEGIN INSERT OR IGNORE INTO dactn (day, n) VALUES (NEW.day, 0); UPDATE dactn SET n = n + 1 WHERE day = NEW.day; END`,
+  `INSERT OR REPLACE INTO dactn (day, n) SELECT day, COUNT(*) FROM dact GROUP BY day`,   // gb-scan-ok: 표 모양이 바뀔 때 한 번(이미 있는 허브의 오늘 기기 수 맞추기)
   `CREATE TRIGGER IF NOT EXISTS st_pact AFTER INSERT ON pact BEGIN INSERT OR IGNORE INTO cnt (k, n) VALUES ('players', 0); UPDATE cnt SET n = n + 1 WHERE k = 'players'; END`,
   `CREATE TRIGGER IF NOT EXISTS st_sch AFTER INSERT ON sch BEGIN INSERT OR IGNORE INTO cnt (k, n) VALUES ('schools', 0); UPDATE cnt SET n = n + 1 WHERE k = 'schools'; END`,
   `CREATE TRIGGER IF NOT EXISTS st_dev_sch AFTER UPDATE OF school ON dev WHEN NEW.school IS NOT NULL AND NEW.school != '' BEGIN INSERT OR IGNORE INTO sch (code) VALUES (NEW.school); END`,
@@ -74,6 +83,7 @@ const BACKFILL = [
   `INSERT OR REPLACE INTO dplay (day, n) SELECT date(at / 1000 + 32400, 'unixepoch'), COUNT(*) FROM spent WHERE state != 'refunded' GROUP BY 1`,
   // gb-scan-ok: 한 번만(트리거가 위에서 올린 수를 정확한 값으로 덮는다)
   `INSERT OR REPLACE INTO cnt (k, n) SELECT 'players', COUNT(*) FROM pact UNION ALL SELECT 'schools', COUNT(*) FROM sch UNION ALL SELECT 'plays', COUNT(*) FROM spent WHERE state != 'refunded'`,
+  `INSERT OR REPLACE INTO dactn (day, n) SELECT day, COUNT(*) FROM dact GROUP BY day`,   // gb-scan-ok: 옛 허브를 처음 올릴 때 한 번(표지 v)
   `INSERT OR REPLACE INTO cnt (k, n) VALUES ('v', 1)`,
 ];
 /** 첫 화면 순위 «더보기» 전체 목록 상한 — 학교 수가 이보다 많으면 위에서부터 이만큼(응답 크기 ≈ 60B × N) */
@@ -94,7 +104,8 @@ export class Hub {
   // nocap = NO_CAP 게임(1.5.0 · 타자왕국 2026-10-16 사용자 «다 풀어 상한»): 기기·IP 하루 학교 점수 상한을 걷는다 — 트리거도 지운다(이미 깔린 DB 포함).
   // switchPerDay = SCHOOL_SWITCH_PER_DAY(1.8.0 · 타자왕국 2026-10-19 사용자 «학교 바꾸기 하루 2번»): 기기 하나가 하루에 학교를 바꿀 수 있는 횟수(기본 1).
   //   센 수는 set_day 칸에 «날짜#횟수»로 적는다(스키마 그대로 · 옛 값 «날짜»만 = 1번 쓴 것).
-  constructor({ db, secret, now = () => Date.now(), free = false, nocap = false, switchPerDay = 1 }) {
+  constructor({ db, secret, now = () => Date.now(), free = false, nocap = false, switchPerDay = 1, topCache = false }) {
+    this.topCache = !!topCache;   // 순위 목록 보관(DO 모드만 켠다 — do.js)
     this.free = !!free; this.nocap = !!nocap; this.switchPerDay = Math.max(1, Math.min(10, Number(switchPerDay) | 0 || 1));
     if (!secret) throw new Error('QUIZ_KEY 없음 — 봉인 키 없이 묶음을 내면 워커가 바뀔 때마다 채점이 410 이 된다');
     Object.assign(this, { db, now }); this.keyP = packKey(secret); this.ready = null;
@@ -232,6 +243,7 @@ export class Hub {
       }
       try {
         await this.db.batch(stmts);
+        if (sc && this.topCache) topDirty(this.db, this.now());
         return { ok: true, added: n, school: sc ? shortName(sc.name) : null, capped: !!sc && n < want };
       } catch (e) {
         const m = String(e?.message || e);
@@ -245,17 +257,33 @@ export class Hub {
   }
 
   async top(day, week, myCode) {
-    const list = async (period, k) => (await this.db.prepare(`SELECT code, name, sido, s FROM board WHERE period = ? AND k = ? ORDER BY s DESC, code LIMIT ${RANK_ALL}`).bind(period, k).all()).results
-      .map((r) => ({ code: r.code, name: shortName(r.name), sido: SIDO[r.sido] || '', s: r.s }));
-    const rank = async (period, k) => {
+    /* 순위 목록은 잠깐 보관(키트 1.18 · 2026-11-03 타자왕국 허브 실측: 순위 화면 1번 = 1,618행 — 500교 × 오늘·이번 주 + 내 등수 COUNT).
+       보관 TOP_TTL_MS · 결과가 들어오면(topDirty) TOP_DIRTY_MS 안에 새로 읽는다. 내 학교 등수·바로 위와의 차이는 보관 목록에서 — 500위 밖일 때만 DB */
+    const t = this.now(), c = this.topCache ? topCache(this.db) : null;
+    const list = async (period, k) => {
+      const key = `${period}:${k}`, e = c?.lists.get(key);
+      if (e && t - e.at < TOP_TTL_MS && (e.gen === c.gen || t - e.at < TOP_DIRTY_MS)) return e.rows;
+      const rows = (await this.db.prepare(`SELECT code, name, sido, s FROM board WHERE period = ? AND k = ? ORDER BY s DESC, code LIMIT ${RANK_ALL}`).bind(period, k).all()).results
+        .map((r) => ({ code: r.code, name: shortName(r.name), sido: SIDO[r.sido] || '', s: r.s }));
+      if (c) { c.lists.set(key, { at: t, gen: c.gen, rows }); if (c.lists.size > 8) c.lists.delete(c.lists.keys().next().value); }
+      return rows;
+    };
+    const rank = async (period, k, rows) => {
       if (!myCode) return null;
+      const i = rows.findIndex((r) => r.code === myCode);
+      if (i >= 0 && rows.length) {
+        const s = rows[i].s; let above = 0, next = 0;
+        for (const r of rows) { if (r.s > s) { above++; next = r.s; } else break; }
+        return { rank: above + 1, s, gap: next ? next - s : 0 };
+      }
       const me = await this.db.prepare('SELECT s FROM board WHERE period = ? AND k = ? AND code = ?').bind(period, k, myCode).first();
       if (!me) return null;
       const above = await this.db.prepare('SELECT COUNT(*) AS n FROM board WHERE period = ? AND k = ? AND s > ?').bind(period, k, me.s).first();
       const next = await this.db.prepare('SELECT MIN(s) AS s FROM board WHERE period = ? AND k = ? AND s > ?').bind(period, k, me.s).first();
       return { rank: (above?.n | 0) + 1, s: me.s, gap: next?.s ? next.s - me.s : 0 };   // gap = 바로 위 학교까지 남은 점수(«다시 들어올 이유»)
     };
-    return { day, week, today: await list('d', day), weekly: await list('w', week), mine: myCode ? { today: await rank('d', day), weekly: await rank('w', week) } : null,
+    const today = await list('d', day), weekly = await list('w', week);
+    return { day, week, today, weekly, mine: myCode ? { today: await rank('d', day, today), weekly: await rank('w', week, weekly) } : null,
       stats: await this.stats() };
   }
 
@@ -270,7 +298,7 @@ export class Hub {
       const c = Object.fromEntries((await this.db.prepare("SELECT k, n FROM cnt WHERE k IN ('schools', 'players', 'plays')").all()).results.map((r) => [r.k, r.n | 0]));
       const v = {
         schools: c.schools | 0, players: c.players | 0, plays: c.plays | 0,
-        today: await one('SELECT COUNT(*) AS n FROM dact WHERE day = ?', day),
+        today: await one('SELECT n FROM dactn WHERE day = ?', day),
         playsToday: await one('SELECT n FROM dplay WHERE day = ?', day),
       };
       this._st = { at: t, v }; return v;

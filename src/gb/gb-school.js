@@ -113,7 +113,8 @@ function paintRank() {
 //   🔴 2026-10-28 바뀜: 두 문은 이제 ssamzip.com 으로 **넘기지 않고 제자리에 머문다**(simteacher src/lib/oldHostRedirect.ts).
 //   넘기면 검색엔진이 따라가 두 문을 색인하지 않아, 막힌 망에서는 검색으로 들어갈 길이 사라지기 때문이다.
 //   그래서 배너는 어느 망에서나 열리는 이 주소 하나만 쓴다 — 내용은 본 주소와 같다. 🔒 tests/site-link.test.mjs
-export const SITE_LINK = 'https://sunhaengssam.web.app';
+// 1.18.1 (2026-11-04) — 배너는 선행쌤 본 주소 ssamzip.kr 로(학교 와이파이 10.244.32.1 에서 열림 실측 · 같은 망에서 kkeutjinhwa 는 127.0.0.1). 링크만 — 게임을 .kr 아래 두지 않는다(B13).
+export const SITE_LINK = 'https://ssamzip.kr';
 let siteHost = null;   // 순위 카드가 없는 화면에서 게임이 mountSiteLink(요소)로 정한 자리
 /** 순위 카드가 화면에 붙어 있는데 링크가 없으면 붙인다 — 첫 화면을 다시 그려 링크가 지워져도 다음 칠하기에서 돌아온다 */
 function ensureSiteLink() {
@@ -333,6 +334,19 @@ async function chainOnce(go, kind) {
   if (r.ok || r.why === 'offline') { liveRef = { ref, at: Date.now() }; go(ref); return; }
   go(null);
 }
+/* 🎁 하루 첫 판은 문제 없이(2026-11-03 사용자 «시작할 때부터 문제를 풀면 거부감 · 한 판은 하게 해 주자»).
+ *  이용권이 없어도 그날 첫 판은 바로 시작한다 — 연습판(학교 점수 없음). 둘째 판부터 «문제 풀고 이용권».
+ *  🔴 첫 이용권(T.FIRST_TIX)은 0 그대로 — 공짜 표는 기기 토큰만 갈아 학교 점수를 찍는 뒷문이다(점수의 뿌리 = 푼 문제).
+ *  게임이 끄려면 configureSchool({ dayFree: false }). */
+const kstDay = () => new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
+export function takeDayFree(store = globalThis.localStorage, day = kstDay()) {
+  if (opt.dayFree === false) return false;
+  try { const k = hubKey('dayFree'); if (store.getItem(k) === day) return false; store.setItem(k, day); return true; } catch { return false; }
+}
+function gbNote(html, ms = 3200) {
+  try { const el = document.createElement('div'); el.className = 'gb-note'; el.setAttribute('role', 'status'); el.dataset.gbNote = ''; el.innerHTML = html; document.body.appendChild(el); setTimeout(() => el.remove(), ms); } catch { /* */ }
+}
+const dayFreeGo = (go) => { gbNote(`${gbIcon('sparkle')} 오늘 첫 ${opt.playWord}은 문제 없이! 다음 ${opt.playWord}부터 문제를 풀면 학교 점수가 쌓여요`); go(null); };
 async function gateOnce(go, kind) {
   // 모름이거나, «안 닿음» 판정이 1분 넘게 묵었으면 다시 본다 — 한 번 순단이 세션 끝까지 학교 점수를 끊지 않게(교차검증 grok)
   if (hubState.online === null || (hubState.online === false && Date.now() - (hubState.checkedAt || 0) > 60000)) await refreshMe();
@@ -341,11 +355,11 @@ async function gateOnce(go, kind) {
   // 문제 화면의 «그냥 하기»(free=true)면 이번 판만 점수 없이 바로 시작
   const retry = (free) => (free ? go(null) : gbGate(go, { kind }));
   // FREE_PLAY 허브면 이용권 화면을 건너뛴다(서버가 판마다 1장 넣고 바로 쓴다)
-  if (hubState.tix <= 0 && !free()) { openQuiz(retry, `${gbIcon('ticket')} 이용권이 없어요 — 문제를 풀면 바로 ${opt.playWord}할 수 있어요!`); return; }
+  if (hubState.tix <= 0 && !free()) { if (takeDayFree()) { dayFreeGo(go); return; } openQuiz(retry, `${gbIcon('ticket')} 이용권이 없어요 — 문제를 풀면 바로 ${opt.playWord}할 수 있어요!`); return; }
   const ref = newRef(kind);
   const r = await spendTicket(ref, kind);
   if (r.ok) { liveRef = { ref, at: Date.now() }; go(ref); return; }
-  if (r.why === 'ticket' && !free()) { openQuiz(retry, `${gbIcon('ticket')} 이용권이 없어요 — 문제를 풀면 바로 시작해요!`); return; }
+  if (r.why === 'ticket' && !free()) { if (takeDayFree()) { dayFreeGo(go); return; } openQuiz(retry, `${gbIcon('ticket')} 이용권이 없어요 — 문제를 풀면 바로 시작해요!`); return; }
   // 🔴 순단 = 차감이 커밋됐는지 모른다 — ref 를 버리지 않고 넘긴다. 끝·이탈에서 같은 ref 로 result/refund(서버 멱등 · 안 깎였으면 조용히 거절)
   //    (교차검증 codex·grok: ref 를 버리면 «깎였는데 정산 길이 없는» 이용권이 생긴다)
   if (r.why === 'offline') { liveRef = { ref, at: Date.now() }; go(ref); return; }

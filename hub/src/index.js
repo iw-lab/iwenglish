@@ -17,6 +17,22 @@ const hubOf = (env) => new Hub({ db: env.DB, secret: env.QUIZ_KEY, free: env.FRE
 // 저장소: D1(env.DB) 이 있으면 그대로, 없고 HUB_DO 가 있으면 Durable Object 하나에 맡긴다(같은 Hub 코드 · 같은 스키마·트리거)
 const handle = (env, path, body) => (env.DB || !env.HUB_DO ? hubOf(env).handle(path, body) : env.HUB_DO.get(env.HUB_DO.idFromName('hub')).handle(path, body));
 const POSTS = new Set(['/me', '/select', '/pack', '/grade', '/spend', '/refund', '/result']);
+const adminOf = (env, op, a) => (env.DB || !env.HUB_DO ? hubOf(env).admin(op, a) : env.HUB_DO.get(env.HUB_DO.idFromName('hub')).admin(op, a));
+/* 🚚 이사 길(1.19.0 · 2026-11-04 «허브를 korea 로 · 기록째») — ADMIN_KEY(32자+) 가 깔린 허브에서, 같은 열쇠를 x-bo-admin 머리글로 낸 요청만.
+   열쇠가 없거나 틀리면 «없는 길»(404)처럼 보인다. 브라우저 직접 연결·중계 길과 섞이지 않게 맨 먼저 가른다 */
+async function keyOk(got, want) {
+  if (!want || want.length < 32 || !got) return false;
+  const e = new TextEncoder(), a = new Uint8Array(await crypto.subtle.digest('SHA-256', e.encode(got))), b = new Uint8Array(await crypto.subtle.digest('SHA-256', e.encode(want)));
+  let d = 0; for (let i = 0; i < a.length; i++) d |= a[i] ^ b[i]; return d === 0;
+}
+export async function adminRoute(req, env, url, path) {
+  if (!(await keyOk(req.headers.get('x-bo-admin') || '', env.ADMIN_KEY || ''))) return J({ error: 'not found' }, 404);
+  if (path === '/admin/count' && req.method === 'GET') { const r = await adminOf(env, 'count', {}); return J(r.body, r.status); }
+  if (path === '/admin/dump' && req.method === 'GET') { const r = await adminOf(env, 'dump', { t: url.searchParams.get('t'), after: url.searchParams.get('after'), n: url.searchParams.get('n') }); return J(r.body, r.status); }
+  if (path === '/admin/load' && req.method === 'POST' && env.FROZEN === '1') return J({ error: 'moving' }, 503);   /* 얼린 옛 허브엔 넣지 않는다(교차검증 gemini·grok·meta) */
+  if (path === '/admin/load' && req.method === 'POST') { let b; try { b = await req.json(); } catch { return J({ error: 'json' }, 400); } const r = await adminOf(env, 'load', { t: b?.t, rows: b?.rows }); return J(r.body, r.status); }
+  return J({ error: 'not found' }, 404);
+}
 
 async function neis(url, ctx) {   // NEIS 조회 — 엣지 캐시 7일(학교 목록은 거의 안 바뀐다). 장애면 null(캐시하지 않는다)
   const cache = caches.default, key = new Request(url);
@@ -32,7 +48,8 @@ async function neis(url, ctx) {   // NEIS 조회 — 엣지 캐시 7일(학교 �
 export default {
   async fetch(req, env, ctx) {
     const url = new URL(req.url), path = url.pathname;
-    if (path === '/health') return J({ ok: true, v: 1 });
+    if (path === '/health') return J({ ok: true, v: 1, frozen: env.FROZEN === '1' });
+    if (path.startsWith('/admin/')) return adminRoute(req, env, url, path);
     /* IP 하나당 1분 상한(1.11.0 · RL 바인딩이 있을 때만) — 넘으면 저장소에 닿기 전에 429 */
     if (env.RL) { try { const { success } = await env.RL.limit({ key: req.headers.get('cf-connecting-ip') || 'none' }); if (!success) return cors(J({ error: 'busy' }, 429), req.headers.get('origin') || ''); } catch { /* 상한기 장애 — 막지 않는다 */ } }
     const origin = req.headers.get('origin') || '';
@@ -60,6 +77,8 @@ async function route(req, env, ctx, url, path, iph) {
       return J(r.body, r.status);
     }
     if (req.method !== 'POST' || !POSTS.has(path)) return J({ error: 'not found' }, 404);
+    /* 이사 중(FROZEN=1) — 쓰기는 잠깐 쉰다(게임은 «안 닿음»으로 보고 점수 없는 판으로 연다 · 옮긴 뒤 새 허브에서 이어진다) */
+    if (env.FROZEN === '1') return J({ error: 'moving' }, 503);
     let b; try { b = await req.json(); } catch { return J({ error: 'json' }, 400); }
     if (!b || !isDid(b.did)) return J({ error: 'did' }, 400);
     const body = { ...b, dh: await didHash(b.did), iph };

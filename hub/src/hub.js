@@ -86,6 +86,14 @@ const BACKFILL = [
   `INSERT OR REPLACE INTO dactn (day, n) SELECT day, COUNT(*) FROM dact GROUP BY day`,   // gb-scan-ok: 옛 허브를 처음 올릴 때 한 번(표지 v)
   `INSERT OR REPLACE INTO cnt (k, n) VALUES ('v', 1)`,
 ];
+/** 이사로 옮기는 표와 칸(SCHEMA 와 같아야 한다 — 시험 HB-MOVE 가 PRAGMA 로 맞춰 본다) */
+export const MOVE_COLS = {
+  dev: ['dh', 'school', 'sname', 'sido', 'set_day', 'correct', 'tix', 'packs', 'pts_day', 'pts'],
+  used: ['pk', 'dh', 'c', 't', 'at'], spent: ['ref', 'dh', 'kind', 'state', 'at'], scored: ['ref', 'dh', 'n', 'at'],
+  ipcap: ['day', 'iph', 's'], board: ['period', 'k', 'code', 'name', 'sido', 's'], cnt: ['k', 'n'],
+  pact: ['dh'], sch: ['code'], dact: ['day', 'dh'], dplay: ['day', 'n'], dactn: ['day', 'n'],
+};
+export const MOVE_TABLES = Object.keys(MOVE_COLS);
 /** 첫 화면 순위 «더보기» 전체 목록 상한 — 학교 수가 이보다 많으면 위에서부터 이만큼(응답 크기 ≈ 60B × N) */
 export const RANK_ALL = 500;
 /** 통계는 이 시간만큼 한 번만 센다(첫 화면마다 표 전체를 훑지 않게) */
@@ -110,7 +118,8 @@ export class Hub {
     if (!secret) throw new Error('QUIZ_KEY 없음 — 봉인 키 없이 묶음을 내면 워커가 바뀔 때마다 채점이 410 이 된다');
     Object.assign(this, { db, now }); this.keyP = packKey(secret); this.ready = null;
   }
-  init() {
+  /** 이 허브의 표 모양(free·nocap 에 따라 트리거를 걷은 SCHEMA) — init 과 이사(loadRows)가 같은 목록을 쓴다 */
+  schemaSql() {
     const CAP_TRG = /TRIGGER IF NOT EXISTS (dev_cap|ip_cap_u|ip_cap_i) /;
     /* free(1.9.0 · 2026-10-19 타자왕국 DO 무료 «하루 쓴 행 10만» 3시간 반 만에 소진): 판마다 «이용권 +1 → 트리거 −1» 이 dev 행을 두 번 써서 아무것도 안 바꿨다 →
        이용권 트리거(차감·확인·환불)를 걷고 판 영수증만 남긴다. FREE_PLAY 를 끄면 SCHEMA 의 IF NOT EXISTS 가 다시 깐다 */
@@ -118,6 +127,10 @@ export class Hub {
     let sql = SCHEMA;
     if (this.nocap) sql = [...sql.filter((s) => !CAP_TRG.test(s)), 'DROP TRIGGER IF EXISTS dev_cap', 'DROP TRIGGER IF EXISTS ip_cap_u', 'DROP TRIGGER IF EXISTS ip_cap_i'];
     if (this.free) sql = [...sql.filter((s) => !TIX_TRG.test(s)), 'DROP TRIGGER IF EXISTS spend_need', 'DROP TRIGGER IF EXISTS spend_take', 'DROP TRIGGER IF EXISTS refund_give'];
+    return sql;
+  }
+  init() {
+    const sql = this.schemaSql();
     /* 🔴 표 만들기는 한 번만(1.11.1 · 2026-10-19): 워커는 요청마다 new Hub 라 this.ready 캐시가 무력했다 → 요청마다 DDL ~40행 읽기 →
        끝까지 진화 하루 216만 행으로 D1 «하루 읽기 500만»(계정 공유)이 넘쳐 simfeelgood 허브 10개가 전부 1101. 표 모양 해시를 cnt 에 적어 두고
        같으면 건너뛴다(1행 읽기) · 같은 isolate 안에선 그 1행도 안 읽는다(모듈 기억). 표 모양이 바뀌면(free·nocap 전환) 해시가 달라 다시 깐다. 시험 HB-DDL */
@@ -139,6 +152,36 @@ export class Hub {
   async dev(dh) { return (await this.db.prepare('SELECT * FROM dev WHERE dh = ?').bind(dh).first()) || null; }
   schoolOfRow(d) { return d?.school ? { code: d.school, name: d.sname, sido: d.sido, region: SIDO[d.sido] || '' } : null; }
   async tix(dh) { try { return ((await this.dev(dh))?.tix) | 0; } catch { return 0; } }
+
+  /* 🚚 이사(1.19.0 · 2026-11-04 사용자 «모든 게임 학교 순위 허브를 korea 계정으로 · 기록째»): 표를 통째로 옮긴다.
+   *  관리 열쇠(ADMIN_KEY) 요청만 — index.js · 옮기는 동안 옛 허브는 FROZEN=1(쓰기 503).
+   *  가져오기는 «트리거 걷기 → 행 그대로 넣기 → 트리거 다시 깔기»를 한 트랜잭션에 — 넣는 행이 이용권·통계를 두 번 더하지 않는다. */
+  async admin(op, a = {}) {
+    await this.init();
+    const tbl = String(a.t || '');
+    if (op === 'count') { const o = {}; for (const t of MOVE_TABLES) o[t] = (await this.db.prepare(`SELECT COUNT(*) AS n FROM ${t}${t === 'cnt' ? " WHERE k NOT LIKE 'schema:%'" : ''}`).first()).n | 0; return json(o); }   /* 표 모양 표지는 허브마다 달라 세지 않는다(교차검증 grok·meta) */   // gb-scan-ok: 이사 확인 때만(관리 열쇠)
+    if (!MOVE_COLS[tbl]) return json({ error: 'table' }, 400);
+    if (op === 'dump') {
+      const n = Math.max(1, Math.min(1000, Number(a.n) | 0 || 200)), af = Number(a.after), after = a.after != null && a.after !== '' && Number.isSafeInteger(af) ? af : Number.MIN_SAFE_INTEGER;   /* rowid 는 64비트 — | 0 으로 자르면 2^31 넘는 행에서 커서가 돈다(교차검증 codex·grok) */
+      const { results } = await this.db.prepare(`SELECT rowid AS _r, ${MOVE_COLS[tbl].join(', ')} FROM ${tbl} WHERE rowid > ? ORDER BY rowid LIMIT ?`).bind(after, n).all();   // gb-scan-ok: 이사 때만(쪽마다 rowid 범위)
+      return json({ rows: results.map(({ _r, ...r }) => r), last: results.length ? results[results.length - 1]._r : after, more: results.length === n });
+    }
+    if (op === 'load') {
+      const rows = Array.isArray(a.rows) ? a.rows : null; if (!rows || rows.length > 200) return json({ error: 'rows' }, 400);   /* 한 번에 걷기 ~20 + 행 + 깔기 ~20 문장 — D1 한 요청 쿼리 상한 안(교차검증 gemini·meta) */
+      const cols = MOVE_COLS[tbl], ins = `INSERT OR REPLACE INTO ${tbl} (${cols.join(', ')}) VALUES (${cols.map(() => '?').join(', ')})`;
+      const keep = rows.filter((r) => r && typeof r === 'object' && !(tbl === 'cnt' && /^schema:/.test(String(r.k))));   // 옛 허브의 표 모양 표지는 옮기지 않는다
+      const sql = this.schemaSql(), trg = sql.filter((x) => /^\s*CREATE TRIGGER/.test(x));
+      const names = [...SCHEMA.join('\n').matchAll(/CREATE TRIGGER IF NOT EXISTS (\w+)/g)].map((m) => m[1]);
+      await this.db.batch([
+        ...names.map((nm) => this.db.prepare(`DROP TRIGGER IF EXISTS ${nm}`)),
+        ...keep.map((r) => this.db.prepare(ins).bind(...cols.map((c) => (r[c] === undefined ? null : r[c])))),
+        ...trg.map((x) => this.db.prepare(x)),
+      ]);
+      if (this.topCache) topDirty(this.db, this.now());
+      return json({ ok: true, n: keep.length });
+    }
+    return json({ error: 'op' }, 400);
+  }
 
   // path: '/me' | '/select' | '/pack' | '/grade' | '/spend' | '/refund' | '/result' | '/top' · body = 바깥에서 형식 검사한 객체(dh 는 did 해시)
   async handle(path, body = {}) {

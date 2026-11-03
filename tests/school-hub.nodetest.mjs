@@ -318,3 +318,38 @@ test('HB-RT 결과 응답에 순위(top) — 방금 낸 점수가 들어 있고 
   const me = r.top.today.find((x) => x.code === SCHOOL.code);
   assert.ok(me && me.s >= r.added, `오늘 순위에 방금 점수가 없다 ${JSON.stringify(r.top.today)}`);
 });
+
+// 🚚 HB-MOVE(1.19.0 · 2026-11-04 «모든 게임 학교 순위 허브를 korea 로 · 기록째») — 바쁜 허브를 새 허브로 통째로 옮긴다:
+//   표마다 행이 똑같고 · 이용권·점수·통계가 두 번 더해지지 않고 · 트리거가 다시 깔려 옮긴 뒤에도 차감·상한이 그대로 돈다
+test('HB-MOVE 이사 — 내보내기·가져오기 후 표 내용·트리거·이용권 동작이 같다', async () => {
+  for (const cfg of [{}, { nocap: true }]) {
+    const A = await mk(cfg);
+    await A.call('/me', { dh: A.dh }); await A.call('/select', { dh: A.dh, school: SCHOOL });
+    await A.earn(); await A.earn(A.dh2); await A.call('/select', { dh: A.dh2, school: SCHOOL });
+    await A.call('/spend', { dh: A.dh, ref: 'ref:m1:0001', kind: 'play' }); await A.call('/result', { dh: A.dh, ref: 'ref:m1:0001', won: true, iph: IPH });
+    await A.call('/spend', { dh: A.dh2, ref: 'ref:m2:0001', kind: 'play' });
+    await A.call('/top', { dh: A.dh });
+    const B = await mk(cfg); await B.hub.init();
+    const { MOVE_TABLES, MOVE_COLS } = await import('../hub/src/hub.js');
+    for (const t of MOVE_TABLES) {   // 쪽 크기 2 — 여러 쪽에 걸쳐도 빠짐·겹침 없이
+      let after = 0; for (;;) { const d = (await A.hub.admin('dump', { t, after, n: 2 })).body; if (d.rows.length) assert.equal((await B.hub.admin('load', { t, rows: d.rows })).body.ok, true); after = d.last; if (!d.more) break; }
+    }
+    const rowsOf = async (H, t) => (await H.hub.admin('dump', { t, n: 1000 })).body.rows.filter((r) => !(t === 'cnt' && /^schema:/.test(r.k))).map((r) => JSON.stringify(r)).sort();
+    for (const t of MOVE_TABLES) assert.deepEqual(await rowsOf(B, t), await rowsOf(A, t), `${t} 표가 같다 ${JSON.stringify(cfg)}`);
+    // 칸 목록 = 실제 표 칸(PRAGMA)
+    for (const t of MOVE_TABLES) { const cols = (await B.hub.db.prepare(`SELECT name FROM pragma_table_info('${t}')`).all()).results.map((r) => r.name); assert.deepEqual([...cols].sort(), [...MOVE_COLS[t]].sort(), `${t} 칸 목록`); }
+    // 트리거가 그대로 다시 깔렸다(개수·이름)
+    const trg = async (H) => (await H.hub.db.prepare("SELECT name FROM sqlite_master WHERE type = 'trigger' ORDER BY name").all()).results.map((r) => r.name).join();
+    assert.equal(await trg(B), await trg(A), '트리거 목록 같음');
+    // 옮긴 뒤에도 같은 기기 = 같은 이용권 · 한 판 쓰면 정확히 1장 준다 · 이용권 없으면 막힌다
+    const before = (await B.call('/me', { dh: A.dh })).tix;
+    assert.equal(before, (await A.call('/me', { dh: A.dh })).tix, '같은 이용권');
+    assert.equal((await B.call('/me', { dh: A.dh })).school?.code, SCHOOL.code, '학교도 그대로');
+    await B.call('/spend', { dh: A.dh, ref: 'ref:m3:0001', kind: 'play' });
+    assert.equal((await B.call('/me', { dh: A.dh })).tix, before - 1, '옮긴 뒤 차감 트리거가 돈다(한 장)');
+    const top = await B.call('/top', { dh: A.dh }); assert.ok(JSON.stringify(top).includes(SCHOOL.code), '학교 순위도 옮겨졌다');
+    // 표 이름·행 모양이 틀리면 거절
+    assert.equal((await B.hub.admin('load', { t: 'sqlite_master', rows: [] })).status, 400);
+    assert.equal((await B.hub.admin('dump', { t: 'dev; DROP TABLE dev' })).status, 400);
+  }
+});

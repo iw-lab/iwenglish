@@ -184,3 +184,10 @@
 @keyframes gb-site-shine { 0%, 55% { transform: translateX(-120%); } 100% { transform: translateX(120%); } }
 @keyframes gb-site-pop { 0%, 100% { transform: scale(1) rotate(0); } 50% { transform: scale(1.12) rotate(-8deg); } }
 @media (prefers-reduced-motion: reduce) { .gb-site, .gb-site::after, .gb-site-ic { animation: none; } }
+/* 🎁 하루 첫 판 안내(2026-11-03) — 판 위에 잠깐 떴다 사라진다(누를 것 없음) */
+.gb-note { position: fixed; left: 50%; top: max(14px, env(safe-area-inset-top)); transform: translateX(-50%); z-index: 9999; pointer-events: none; max-width: min(92vw, 520px);
+  padding: 10px 16px; border-radius: 14px; background: rgba(20, 28, 48, 0.92); color: #fff; font-size: 14px; font-weight: 700; line-height: 1.4; text-align: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35); animation: gb-note-in .25s ease-out; }
+.gb-note svg { width: 16px; height: 16px; vertical-align: -3px; }
+@keyframes gb-note-in { from { opacity: 0; transform: translate(-50%, -8px); } }
+@media (prefers-reduced-motion: reduce) { .gb-note { animation: none; } }

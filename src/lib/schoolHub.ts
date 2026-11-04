@@ -17,7 +17,7 @@
 //    없는 상대경로 api/hub/me 로 나가 404 가 났다(실측: 첫 로드 콘솔에 404 1건). 호출마다 보장한다.
 import type { GbResult } from "@/gb/gb-school.js";
 
-const HUB_DIRECT = "https://echotale-hub.simssijjang-a04.workers.dev";
+const HUB_DIRECT = "https://echotale-hub.simssijjang-korea.workers.dev";
 
 let schoolMod: typeof import("@/gb/gb-school.js") | null = null;
 let hubnetMod: typeof import("@/gb/hubnet.js") | null = null;

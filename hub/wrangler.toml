@@ -3,7 +3,7 @@
 name = "echotale-hub"
 main = "src/index.js"
 compatibility_date = "2026-08-01"
-account_id = "a043bf13d2ac042d81de8aa70bd1f893"
+account_id = "b3d436cfca3fb9f2d1d7af777e23e8f1"
 
 [[durable_objects.bindings]]
 name = "HUB_DO"

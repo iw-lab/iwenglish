@@ -12,7 +12,7 @@ import { NextResponse } from "next/server";
  * (hub/wrangler.toml 의 DIRECT_ORIGINS 에 이 도메인이 이미 등록돼 있다) — 그래서 이 라우트는 그 Origin을
  * 그대로 흉내 내어 서버에서 허브로 중계만 한다(쓰기 없음 · 비밀 0 · 순위 읽기 전용).
  */
-const HUB_DIRECT = "https://echotale-hub.simssijjang-a04.workers.dev";
+const HUB_DIRECT = "https://echotale-hub.simssijjang-korea.workers.dev";
 const SELF_ORIGIN = "https://echotale.simssijjang-d79.workers.dev";
 
 export async function GET(request: Request) {

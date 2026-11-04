@@ -91,7 +91,7 @@ export function Onboarding() {
             ensureSiteLink() 가 "이미 있다"고 보고 *이 엘리먼트를* 떼어 그 자리로 옮겨 버려서
             (React 가 모르는 새 onboarding 의 DOM 이 바뀐다) 다음 렌더에서 제거 충돌이 난다. */}
         <a
-          href="https://sunhaengssam.web.app"
+          href="https://ssamzip.kr"
           target="_blank"
           rel="noopener"
           className="mx-auto inline-flex min-h-11 items-center justify-center rounded-full border border-border bg-muted px-4 text-xs font-semibold text-muted-foreground"

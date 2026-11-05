@@ -51,17 +51,23 @@ export function showRoomLock(what = '친구랑 방 만들어 하기') {
   // 🔒 CSP 안전: innerHTML 의 style="…" 속성은 엄격한 CSP(style-src 'unsafe-inline' 없음)에서 버려진다(블록누리 실측)
   //    → 요소를 만들고 style.cssText(CSSOM)로만 칠한다.
   const mk = (tag, css, text) => { const e = d.createElement(tag); if (css) e.style.cssText = css; if (text != null) e.textContent = text; return e; };
-  const card = mk('div', 'max-width:360px;width:100%;background:#fff;color:#1b2140;border-radius:18px;padding:22px 20px;text-align:center;font:16px/1.5 system-ui,sans-serif;box-shadow:0 12px 40px rgba(0,0,0,.35)');
+  const card = mk('div', 'max-width:360px;width:100%;background:#fff;color:#1b2140;border-radius:18px;padding:22px 20px;text-align:center;font:16px/1.5 system-ui,sans-serif;word-break:keep-all;overflow-wrap:anywhere;box-shadow:0 12px 40px rgba(0,0,0,.35)');
   const c = what.charCodeAt(what.length - 1);
   const josa = c >= 0xac00 && c <= 0xd7a3 && (c - 0xac00) % 28 ? '은' : '는'; // 받침 있으면 «은»
-  const title = mk('div', 'font-weight:800;font-size:19px;margin:8px 0 4px', `${what}${josa} 선행쌤에서`);
+  const title = mk('div', 'font-weight:800;font-size:19px;margin:8px 0 4px', `${what}${josa} 선행쌤에서 열어요`);
   title.dataset.t = '';
-  const sub = mk('div', 'opacity:.8;margin-bottom:16px');
-  sub.append('선행쌤에서 들어오면 열려요.', d.createElement('br'), '한 번만 들어오면 이 기기에선 계속 열려요.');
-  const door = mk('a', 'display:block;background:linear-gradient(90deg,#6c5ce7,#00b894);color:#fff;text-decoration:none;font-weight:800;padding:13px;border-radius:12px', '선행쌤에서 열기');
+  // 2026-11-04 사용자 «그걸 친절하게 알려줘» — 왜 막혔는지 · 누르면 어떻게 되는지 · 기기마다 한 번 · 혼자 하기는 그대로 · 선생님 요령
+  const sub = mk('div', 'opacity:.85;margin-bottom:14px;text-align:left;font-size:15px');
+  const li = (txt) => { const r = mk('div', 'display:flex;gap:8px;margin:6px 0'); r.append(mk('span', 'flex:none;width:20px;height:20px;border-radius:50%;background:#efeafd;color:#6c5ce7;font:800 12px/20px system-ui,sans-serif;text-align:center', String(sub.childElementCount + 1)), mk('span', '', txt)); sub.append(r); };
+  li('친구랑 같이 하는 방은 선행쌤을 한 번 거쳐 온 기기에서 열려요.');
+  li('아래 단추를 누르면 선행쌤에 잠깐 들렀다가 이 게임으로 바로 돌아와요.');
+  li('기기마다 한 번만 하면 돼요. 그다음부터는 어디서 들어와도 계속 열려요.');
+  const door = mk('a', 'display:block;background:linear-gradient(90deg,#6c5ce7,#00b894);color:#fff;text-decoration:none;font-weight:800;padding:13px;border-radius:12px', '선행쌤 들렀다 오기');
   door.dataset.gb = 'ssam-door';
   door.target = '_top';
   door.href = ssamDoorUrl();
+  const solo = mk('div', 'margin-top:10px;font-size:13px;opacity:.75', '혼자 하기는 지금 그대로 할 수 있어요.');
+  const tip = mk('div', 'margin-top:8px;font-size:12.5px;line-height:1.45;background:#f4f6fb;border-radius:10px;padding:8px 10px;color:#3a4366', '선생님께: 아이들에게 선행쌤(sunhaengssam.web.app)의 게임 링크로 나눠 주면 처음부터 열려 있어요.');
   const x = mk('button', 'margin-top:10px;background:none;border:0;color:#556;font:inherit;padding:8px;cursor:pointer', '혼자 하기로 돌아가기');
   x.type = 'button';
   x.dataset.x = '';
@@ -71,7 +77,7 @@ export function showRoomLock(what = '친구랑 방 만들어 하기') {
   for (const [tag, at] of [['rect', { x: 5, y: 10, width: 14, height: 11, rx: 2.5, fill: '#6c5ce7' }], ['path', { d: 'M8 10V7a4 4 0 0 1 8 0v3', fill: 'none', stroke: '#6c5ce7', 'stroke-width': 2.4, 'stroke-linecap': 'round' }], ['circle', { cx: 12, cy: 15.5, r: 1.8, fill: '#fff' }]]) {
     const e = d.createElementNS(NS, tag); for (const [k, v] of Object.entries(at)) e.setAttribute(k, String(v)); lock.append(e);
   }
-  card.append(lock, title, sub, door, x);
+  card.append(lock, title, sub, door, solo, x, tip);
   wrap.append(card);
   const close = () => { wrap.remove(); open = null; };
   wrap.querySelector('[data-x]').addEventListener('click', close);

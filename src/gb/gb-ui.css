@@ -191,3 +191,19 @@
 .gb-note svg { width: 16px; height: 16px; vertical-align: -3px; }
 @keyframes gb-note-in { from { opacity: 0; transform: translate(-50%, -8px); } }
 @media (prefers-reduced-motion: reduce) { .gb-note { animation: none; } }
+
+/* 별명 만들기(gb-nick.js · 2026-11-04) — 아이가 꾸밈말·동물을 골라 만든다. 자유 입력 0 */
+.gb-nick-back { position: fixed; inset: 0; z-index: 9000; display: grid; place-items: center; padding: 16px; background: rgba(0, 0, 0, 0.55); }
+.gb-nick-card { width: min(560px, 100%); max-height: calc(100vh - 32px); overflow: auto; padding: 18px; border-radius: 18px; background: var(--gb-panel, #1b2333); color: var(--gb-text, #fff); display: grid; gap: 10px; }
+.gb-nick-title { margin: 0; font-size: 20px; }
+.gb-nick { display: grid; gap: 8px; }
+.gb-nick-out { font-size: 24px; font-weight: 800; text-align: center; padding: 10px; border-radius: 12px; background: color-mix(in srgb, var(--gb-accent) 18%, transparent); color: var(--gb-text, #fff); }
+.gb-nick-h { font-size: 14px; color: var(--gb-dim, #c9d2e3); }
+.gb-nick-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.gb-nick-chip { min-height: 48px; padding: 0 14px; border-radius: 999px; border: 1px solid color-mix(in srgb, var(--gb-text, #fff) 25%, transparent); background: transparent; color: var(--gb-text, #fff); font-size: 15px; cursor: pointer; }
+.gb-nick-chip.on { background: var(--gb-accent); color: var(--gb-accent-ink); border-color: var(--gb-accent); font-weight: 700; }
+.gb-nick-note { margin: 0; font-size: 13px; color: var(--gb-dim, #c9d2e3); }
+.gb-nick-cancel { min-height: 48px; background: transparent; border: 0; color: var(--gb-dim, #c9d2e3); font-size: 15px; cursor: pointer; }
+/* 길게 누르기가 글자 선택·복사 메뉴를 띄워 조작을 가리지 않게(2026-11-05 포물선 요새단) */
+html, body { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+input, textarea { -webkit-user-select: text; user-select: text; }

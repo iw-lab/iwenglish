@@ -26,6 +26,8 @@ export const shortSchool = (n) => String(n || '').replace(/초등학교$/, '초'
 const opt = { playWord: '게임', sfx: null };
 /** 게임마다 한 번: playWord = «판»/«곡»/«경기» 등 안내 문구에 들어갈 낱말, sfx = { tick(), win() } (선택) */
 export function configureSchool(o) { Object.assign(opt, o || {}); }
+// 🔴 playWord 뒤 은/는 — 받침 있으면 은, 없으면 는(게임마다 낱말이 달라 고정 글자로 못 박으면 틀린다 · 2026-11-04 수학도구 조사 관문).
+const playWordEun = () => { const c = String(opt.playWord || '').codePointAt(String(opt.playWord || '').length - 1) - 0xac00; return (c >= 0 && c <= 11171 && c % 28 > 0) ? '은' : '는'; };
 // FREE_PLAY 게임 — 게임이 선언(configureSchool({ freePlay: true }))하거나 허브가 알려 주면(/me free) 이용권 화면·표시를 안 쓴다.
 //   선언이 먼저다: 허브가 안 닿는 순간에도 «문제 풀고 이용권» 단추가 떠 있으면 안 된다.
 const free = () => !!(opt.freePlay || hubState.free);
@@ -114,13 +116,16 @@ function paintRank() {
 //   넘기면 검색엔진이 따라가 두 문을 색인하지 않아, 막힌 망에서는 검색으로 들어갈 길이 사라지기 때문이다.
 //   그래서 배너는 어느 망에서나 열리는 이 주소 하나만 쓴다 — 내용은 본 주소와 같다. 🔒 tests/site-link.test.mjs
 // 1.18.1 (2026-11-04) — 배너는 선행쌤 본 주소 ssamzip.kr 로(학교 와이파이 10.244.32.1 에서 열림 실측 · 같은 망에서 kkeutjinhwa 는 127.0.0.1). 링크만 — 게임을 .kr 아래 두지 않는다(B13).
-export const SITE_LINK = 'https://ssamzip.kr';
+// 1.21.2 (2026-11-05) — 학교 와이파이가 ssamzip.kr 도 막음(같은 망에서 전날 열림 → 11-05 08:40 127.0.0.1) · 사용자 «다 일단 web app 으로» → 두 문 주소.
+export const SITE_LINK = 'https://sunhaengssam.web.app';
 let siteHost = null;   // 순위 카드가 없는 화면에서 게임이 mountSiteLink(요소)로 정한 자리
 /** 순위 카드가 화면에 붙어 있는데 링크가 없으면 붙인다 — 첫 화면을 다시 그려 링크가 지워져도 다음 칠하기에서 돌아온다 */
 function ensureSiteLink() {
   if (!rankEl || !rankEl.isConnected) return;
   const a = document.querySelector('[data-gb="site-link"]');
-  if (a && a.isConnected && a.previousElementSibling === rankEl) return;
+  // 2026-11-04 — 자리가 맞아도 그냥 돌아가면 href 를 못 본다(numrush: 옛 스캐폴드가 순위 카드
+  // 바로 다음에 옛 주소 앵커를 이미 박아 둔 경우). 자리만 맞으면 재배치는 생략하되 주소는 맞춘다.
+  if (a && a.isConnected && a.previousElementSibling === rankEl) { a.href = SITE_LINK; a.target = '_blank'; a.rel = 'noopener'; return; }
   const host = rankEl.parentElement;
   if (!host || host === document.body || host === document.documentElement) return;
   rankEl.after(siteLinkEl());
@@ -129,9 +134,12 @@ function siteLinkEl() {
   let a = document.querySelector('[data-gb="site-link"]');
   if (!a) {
     a = document.createElement('a'); a.dataset.gb = 'site-link'; a.className = 'gb-site';
-    a.href = SITE_LINK; a.target = '_blank'; a.rel = 'noopener';
     a.innerHTML = `<span class="gb-site-ic">${gbIcon('sparkle')}</span><span class="gb-site-tx"><b>선행쌤</b><small>선생님이 만든 수업 놀이 더 보기</small></span><span class="gb-site-go">가 보기${gbIcon('out')}</span>`;
   }
+  // 2026-11-04 — 옛 스캐폴드가 index.html 에 이 앵커를 그대로 박아 둔 게임(numrush 등)은
+  // 여기까지 와도 a 가 이미 있어 href 를 한 번도 안 씀 → SITE_LINK 를 바꿔도 안 바뀌는 배너.
+  // 새로 만들었든 이미 있었든 매번 현재 SITE_LINK 로 맞춘다(🔒 site-link.test.mjs SL-6).
+  a.href = SITE_LINK; a.target = '_blank'; a.rel = 'noopener';
   return a;
 }
 export function mountSiteLink(host) {
@@ -346,7 +354,7 @@ export function takeDayFree(store = globalThis.localStorage, day = kstDay()) {
 function gbNote(html, ms = 3200) {
   try { const el = document.createElement('div'); el.className = 'gb-note'; el.setAttribute('role', 'status'); el.dataset.gbNote = ''; el.innerHTML = html; document.body.appendChild(el); setTimeout(() => el.remove(), ms); } catch { /* */ }
 }
-const dayFreeGo = (go) => { gbNote(`${gbIcon('sparkle')} 오늘 첫 ${opt.playWord}은 문제 없이! 다음 ${opt.playWord}부터 문제를 풀면 학교 점수가 쌓여요`); go(null); };
+const dayFreeGo = (go) => { gbNote(`${gbIcon('sparkle')} 오늘 첫 ${opt.playWord}${playWordEun()} 문제 없이! 다음 ${opt.playWord}부터 문제를 풀면 학교 점수가 쌓여요`); go(null); };
 async function gateOnce(go, kind) {
   // 모름이거나, «안 닿음» 판정이 1분 넘게 묵었으면 다시 본다 — 한 번 순단이 세션 끝까지 학교 점수를 끊지 않게(교차검증 grok)
   if (hubState.online === null || (hubState.online === false && Date.now() - (hubState.checkedAt || 0) > 60000)) await refreshMe();

@@ -7,6 +7,8 @@
 
 export const T = {
   PACK_Q: 5, TICKET_PASS_Q: 4, TIX_PER_PACK: 2, PACK_MIN_MS_PER_Q: 1200, PACK_TTL_MIN: 15,
+  /** 셈 묶음(sempack.js) 조각 하나의 최소 시간 — 사람 손보다 빠른 채점 요청을 늦춘다 */
+  SEM_MIN_MS_PER_STEP: 500,
   /** 이용권을 쓰고 이만큼 안에 나가면(로딩 실패·잘못 고른 판) 돌려준다 */
   TICKET_REFUND_SEC: 90,
   /** 결과 신고는 이용권을 쓴 뒤 이 시간 안에만. 🔴 30분이면 긴 판(캠페인 연속·대연대기 6시나리오·연습 9홀 36분·하트가 차는 모드)의 학교 점수가

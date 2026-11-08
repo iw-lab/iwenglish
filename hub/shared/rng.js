@@ -37,3 +37,7 @@ export function createRng(seed = 1) {
     setState: (st) => { [x, y, z, w] = st; },
   };
 }
+
+// 셈 문제(semtaja.js · 셈왕국 정본 사본)가 쓰는 시드 함수 — 같은 입력이면 어디서나 같은 문제
+export function hash32(str) { let h = 2166136261; for (const ch of String(str)) { h ^= ch.codePointAt(0); h = Math.imul(h, 16777619) >>> 0; } return h >>> 0; }
+export function rng32(seed) { let s = (typeof seed === 'number' ? seed : hash32(seed)) >>> 0 || 1; return () => { s ^= s << 13; s >>>= 0; s ^= s >> 17; s ^= s << 5; s >>>= 0; return s / 4294967296; }; }

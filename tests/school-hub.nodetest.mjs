@@ -138,6 +138,22 @@ test('HB-7 FREE_PLAY — 이용권 0장이어도 판 영수증이 나오고 학�
 });
 
 // HB-8 (1.2.0) — 음악 과목: 학년마다 문항이 만들어지고, 보기 3개가 서로 다르며 정답이 그 안에 있고, 정답 위치가 고르다
+test('셈 묶음: 답을 안 보고 2문제 풀면 이용권 · 답을 본 문제는 오답 · 같은 묶음 재채점 불가 · 너무 빠르면 대기', async () => {
+  const { call, dh, tick } = await mk();
+  const p = await call('/pack', { dh, subject: 'sem', grade: 4 });
+  assert.equal(p.sem, true); assert.equal(p.qs.length, 3); assert.equal(p.pass, 2);
+  const right = p.qs.map((q) => q.steps.map((s) => s.a));
+  const early = await call('/grade', { dh, pid: p.pid, answers: right });
+  assert.equal(early.tooFast, true); assert.ok(early.waitMs > 0);
+  tick(T.SEM_MIN_MS_PER_STEP * right.flat().length + 10);
+  const g = await call('/grade', { dh, pid: p.pid, answers: [right[0], right[1], right[2].map(() => null)] });
+  assert.equal(g.correct, 2); assert.equal(g.ticket, T.TIX_PER_PACK); assert.equal(g.tix, T.TIX_PER_PACK); assert.deepEqual(g.right, [true, true, false]);
+  assert.equal((await call('/grade', { dh, pid: p.pid, answers: right })).error, 'pack');
+  const p2 = await call('/pack', { dh, subject: 'sem', grade: 2 }); tick(60000);
+  const g2 = await call('/grade', { dh, pid: p2.pid, answers: p2.qs.map((q, i) => (i ? q.steps.map(() => null) : q.steps.map((s) => s.a))) });
+  assert.equal(g2.correct, 1); assert.equal(g2.ticket, 0);
+});
+
 test('HB-8 음악 과목 문항', async () => {
   const { makeQuestions } = await import('../hub/shared/quiz.js');
   const pos = [0, 0, 0];

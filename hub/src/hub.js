@@ -7,6 +7,7 @@
 //    · 채점 보상 = used INSERT 하나(묶음 정규형 해시가 PK). 트리거가 correct·tix 를 올린다 → 같은 묶음 재제출은 충돌로 배치 전체 롤백.
 //    · 결과 = scored INSERT 하나(ref 가 PK) + 같은 배치의 점수 갱신 — 같은 경기권 두 번 = 충돌로 배치 전체 롤백(이중 지급 0).
 import { makeQuestions } from '../shared/quiz.js';
+import { makeSemPack, gradeSem, SEM_PASS } from '../shared/sempack.js';
 import { T, kstDay, kstWeek, isDh, isCode, isRef, packKey, seal, unseal, shortName, SIDO, isCanonicalToken, tokenKey, resultPoints } from '../shared/school.js';
 
 /* 순위 목록 보관 — DO 모드에서만(인스턴스 하나가 모든 쓰기를 본다). D1 은 isolate 가 여럿이라 «결과 들어옴» 신호가 안 건너가 끈다(교차검증 4계열) */
@@ -237,6 +238,11 @@ export class Hub {
     if (path === '/pack') {
       const subject = SUBJ.includes(body.subject) ? body.subject : 'math', grade = Math.max(1, Math.min(6, body.grade | 0 || 3));
       const seed = crypto.getRandomValues(new Uint32Array(1))[0] >>> 1;
+      if (body.subject === 'sem') {   // 셈 직접 입력(configureSchool({ quizStyle: 'sem' })) — 조각마다 바로 판정하려고 답이 같이 간다(sempack.js 머리말)
+        const qs = makeSemPack(seed, grade);
+        const pid = await seal(await this.keyP, { dh, k: 'sem', s: qs.map((q) => q.steps.map((st) => st.a)), at: t });
+        return json({ pid, sem: true, qs, pass: SEM_PASS, per: T.TIX_PER_PACK });
+      }
       const qs = makeQuestions(seed, { subject, grade, count: T.PACK_Q });
       const pid = await seal(await this.keyP, { dh, a: qs.map((q) => q.answer), at: t });
       return json({ pid, qs: qs.map((q) => ({ text: q.text, choices: q.choices })), pass: T.TICKET_PASS_Q, per: T.TIX_PER_PACK });
@@ -246,13 +252,18 @@ export class Hub {
       const pid = String(body.pid || ''); if (!/^[A-Za-z0-9_-]{30,4096}$/.test(pid) || !isCanonicalToken(pid)) return json({ error: 'pack' }, 410);
       const P = await unseal(await this.keyP, pid);
       if (!P || P.dh !== dh || t - P.at > T.PACK_TTL_MIN * 60000) return json({ error: 'pack' }, 410);
-      if (t - P.at < T.PACK_MIN_MS_PER_Q * P.a.length) return json({ tooFast: true, waitMs: T.PACK_MIN_MS_PER_Q * P.a.length - (t - P.at) });
-      const got = (Array.isArray(body.answers) ? body.answers : []).slice(0, P.a.length).map((x) => (Number.isInteger(x) ? x : -1));
-      const right = P.a.map((a, i) => got[i] === a), correct = right.filter(Boolean).length, ticket = correct >= T.TICKET_PASS_Q ? T.TIX_PER_PACK : 0;
+      const isSem = P.k === 'sem', floorMs = isSem ? T.SEM_MIN_MS_PER_STEP * P.s.flat().length : T.PACK_MIN_MS_PER_Q * P.a.length;
+      if (t - P.at < floorMs) return json({ tooFast: true, waitMs: floorMs - (t - P.at) });
+      let right, correct, ticket, passN;
+      if (isSem) { const g = gradeSem(P.s, body.answers); right = g.right; correct = g.correct; ticket = g.passed ? T.TIX_PER_PACK : 0; passN = SEM_PASS; }
+      else {
+        const got = (Array.isArray(body.answers) ? body.answers : []).slice(0, P.a.length).map((x) => (Number.isInteger(x) ? x : -1));
+        right = P.a.map((a, i) => got[i] === a); correct = right.filter(Boolean).length; ticket = correct >= T.TICKET_PASS_Q ? T.TIX_PER_PACK : 0; passN = T.TICKET_PASS_Q;
+      }
       try {
         await this.db.batch([this.ensure(dh), this.db.prepare('INSERT INTO used (pk, dh, c, t, at) VALUES (?, ?, ?, ?, ?)').bind(await tokenKey(pid), dh, correct, ticket, t)]);
       } catch (e) { if (dup(e)) return json({ error: 'pack' }, 410); throw e; }
-      return json({ correct, total: P.a.length, right, answers: P.a, ticket, tix: await this.tix(dh), pass: T.TICKET_PASS_Q });
+      return json({ correct, total: right.length, right, answers: P.a, ticket, tix: await this.tix(dh), pass: passN });
     }
     return json({ error: 'not found' }, 404);
   }

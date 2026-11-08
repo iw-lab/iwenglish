@@ -1,11 +1,14 @@
 import { SettingsPanel } from "@/components/shell/SettingsPanel";
 import { Card } from "@/components/ui/Card";
+import { HelpBanner } from "@/components/shell/HelpBanner";
 import { Smartphone, Heart } from "lucide-react";
 
 export default function MorePage() {
   return (
     <div className="space-y-5">
       <h1 className="text-2xl font-extrabold tracking-tight">더보기</h1>
+
+      <HelpBanner />
 
       <Card className="flex items-center gap-3 p-4">
         <div className="grid h-12 w-12 place-items-center rounded-full bg-primary/15 text-primary">

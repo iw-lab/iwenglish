@@ -23,19 +23,24 @@ const SLIDES = [
   },
 ];
 
-/** 첫 실행 안내 — 세 장으로 앱의 약속(무엇을 어떻게 배우는지)을 먼저 말해준다 */
+/**
+ * 안내 — 세 장으로 앱의 약속(무엇을 어떻게 배우는지)을 말해준다.
+ * 2026-11-08 «아무튼 빨리 게임하도록» — 처음 열자마자 막던 걸 첫 번째 읽기가 끝난 뒤로 미뤘다
+ * (sessions.length > 0 = 적어도 한 번 다 읽음). 다시 보기는 더보기(/more) 단추에서.
+ */
 export function Onboarding() {
   const [mounted, setMounted] = useState(false);
   const [i, setI] = useState(0);
   const onboarded = useProgress((s) => s.onboarded);
   const setOnboarded = useProgress((s) => s.setOnboarded);
+  const hasReadOnce = useProgress((s) => s.sessions.length > 0);
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 
-  if (!mounted || onboarded) return null;
+  if (!mounted || onboarded || !hasReadOnce) return null;
 
   const last = i === SLIDES.length - 1;
   const s = SLIDES[i];

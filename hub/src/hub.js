@@ -60,6 +60,15 @@ export const SCHEMA = [
   `CREATE TABLE IF NOT EXISTS dactn (day TEXT PRIMARY KEY, n INTEGER NOT NULL DEFAULT 0)`,
   `CREATE TRIGGER IF NOT EXISTS st_dact AFTER INSERT ON dact BEGIN INSERT OR IGNORE INTO dactn (day, n) VALUES (NEW.day, 0); UPDATE dactn SET n = n + 1 WHERE day = NEW.day; END`,
   `INSERT OR REPLACE INTO dactn (day, n) SELECT day, COUNT(*) FROM dact GROUP BY day`,   // gb-scan-ok: 표 모양이 바뀔 때 한 번(이미 있는 허브의 오늘 기기 수 맞추기)
+  /* 🎮 이용권 없이 한 판(하루 첫 판·«그냥 하기»·허브 순단 뒤 연습) — 서버에 안 와서 «오늘 이용·오늘 판»에 0 으로 빠졌다(1.25 · 2026-11-09 사용자 «오늘 이용 0 이 맞아?»).
+     /play 한 번 = pday 1행 upsert. 기기당 하루 PLAY_DAY_CAP 판까지만 센다(넘으면 0행 — 숫자 부풀리기 막기). 이용권·학교 점수와 무관 */
+  `CREATE TABLE IF NOT EXISTS pday (day TEXT NOT NULL, dh TEXT NOT NULL, n INTEGER NOT NULL DEFAULT 0, PRIMARY KEY (day, dh))`,
+  `CREATE TRIGGER IF NOT EXISTS st_pday_i AFTER INSERT ON pday BEGIN
+     INSERT OR IGNORE INTO pact (dh) VALUES (NEW.dh); INSERT OR IGNORE INTO dact (day, dh) VALUES (NEW.day, NEW.dh);
+     INSERT OR IGNORE INTO dplay (day, n) VALUES (NEW.day, 0); UPDATE dplay SET n = n + 1 WHERE day = NEW.day;
+     INSERT OR IGNORE INTO cnt (k, n) VALUES ('plays', 0); UPDATE cnt SET n = n + 1 WHERE k = 'plays'; END`,
+  `CREATE TRIGGER IF NOT EXISTS st_pday_u AFTER UPDATE OF n ON pday WHEN NEW.n > OLD.n BEGIN
+     UPDATE dplay SET n = n + 1 WHERE day = NEW.day; UPDATE cnt SET n = n + 1 WHERE k = 'plays'; END`,
   `CREATE TRIGGER IF NOT EXISTS st_pact AFTER INSERT ON pact BEGIN INSERT OR IGNORE INTO cnt (k, n) VALUES ('players', 0); UPDATE cnt SET n = n + 1 WHERE k = 'players'; END`,
   `CREATE TRIGGER IF NOT EXISTS st_sch AFTER INSERT ON sch BEGIN INSERT OR IGNORE INTO cnt (k, n) VALUES ('schools', 0); UPDATE cnt SET n = n + 1 WHERE k = 'schools'; END`,
   `CREATE TRIGGER IF NOT EXISTS st_dev_sch AFTER UPDATE OF school ON dev WHEN NEW.school IS NOT NULL AND NEW.school != '' BEGIN INSERT OR IGNORE INTO sch (code) VALUES (NEW.school); END`,
@@ -92,13 +101,15 @@ export const MOVE_COLS = {
   dev: ['dh', 'school', 'sname', 'sido', 'set_day', 'correct', 'tix', 'packs', 'pts_day', 'pts'],
   used: ['pk', 'dh', 'c', 't', 'at'], spent: ['ref', 'dh', 'kind', 'state', 'at'], scored: ['ref', 'dh', 'n', 'at'],
   ipcap: ['day', 'iph', 's'], board: ['period', 'k', 'code', 'name', 'sido', 's'], cnt: ['k', 'n'],
-  pact: ['dh'], sch: ['code'], dact: ['day', 'dh'], dplay: ['day', 'n'], dactn: ['day', 'n'],
+  pact: ['dh'], sch: ['code'], dact: ['day', 'dh'], dplay: ['day', 'n'], dactn: ['day', 'n'], pday: ['day', 'dh', 'n'],
 };
 export const MOVE_TABLES = Object.keys(MOVE_COLS);
 /** 첫 화면 순위 «더보기» 전체 목록 상한 — 학교 수가 이보다 많으면 위에서부터 이만큼(응답 크기 ≈ 60B × N) */
 export const RANK_ALL = 500;
 /** 통계는 이 시간만큼 한 번만 센다(첫 화면마다 표 전체를 훑지 않게) */
 export const STATS_TTL_MS = 60e3;
+/** 이용권 없이 한 판은 기기당 하루 이만큼까지만 센다(통계 부풀리기 상한) */
+export const PLAY_DAY_CAP = 40;
 /** KST 오늘 0시(ms) */
 export const kstDayStart = (ms) => { const d = new Date(ms + 9 * 3600e3); d.setUTCHours(0, 0, 0, 0); return d.getTime() - 9 * 3600e3; };
 
@@ -184,12 +195,16 @@ export class Hub {
     return json({ error: 'op' }, 400);
   }
 
-  // path: '/me' | '/select' | '/pack' | '/grade' | '/spend' | '/refund' | '/result' | '/top' · body = 바깥에서 형식 검사한 객체(dh 는 did 해시)
+  // path: '/me' | '/select' | '/pack' | '/grade' | '/spend' | '/refund' | '/result' | '/top' | '/play' · body = 바깥에서 형식 검사한 객체(dh 는 did 해시)
   async handle(path, body = {}) {
     await this.init();
     const t = this.now(), day = kstDay(t), week = kstWeek(t);
     if (path === '/top') return json(await this.top(day, week, isDh(body.dh) ? (await this.dev(body.dh))?.school : null));
     const dh = String(body.dh || ''); if (!isDh(dh)) return json({ error: 'dh' }, 400);
+    if (path === '/play') {   // 이용권 없이 한 판 — 통계만(1.25)
+      const r = await this.db.prepare('INSERT INTO pday (day, dh, n) VALUES (?, ?, 1) ON CONFLICT (day, dh) DO UPDATE SET n = n + 1 WHERE n < ?').bind(day, dh, PLAY_DAY_CAP).run();
+      return json({ ok: true, counted: (r?.meta?.changes | 0) > 0 });
+    }
     if (path === '/me') {
       await this.ensure(dh).run();
       const d = await this.dev(dh), used = d.pts_day === day ? d.pts | 0 : 0;

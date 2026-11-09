@@ -16,7 +16,7 @@ const cors = (res, origin) => { if (!origin) return res; const h = new Headers(r
 const hubOf = (env) => new Hub({ db: env.DB, secret: env.QUIZ_KEY, free: env.FREE_PLAY === '1', nocap: env.NO_CAP === '1', switchPerDay: env.SCHOOL_SWITCH_PER_DAY });
 // 저장소: D1(env.DB) 이 있으면 그대로, 없고 HUB_DO 가 있으면 Durable Object 하나에 맡긴다(같은 Hub 코드 · 같은 스키마·트리거)
 const handle = (env, path, body) => (env.DB || !env.HUB_DO ? hubOf(env).handle(path, body) : env.HUB_DO.get(env.HUB_DO.idFromName('hub')).handle(path, body));
-const POSTS = new Set(['/me', '/select', '/pack', '/grade', '/spend', '/refund', '/result']);
+const POSTS = new Set(['/me', '/select', '/pack', '/grade', '/spend', '/refund', '/result', '/play']);
 const adminOf = (env, op, a) => (env.DB || !env.HUB_DO ? hubOf(env).admin(op, a) : env.HUB_DO.get(env.HUB_DO.idFromName('hub')).admin(op, a));
 /* 🚚 이사 길(1.19.0 · 2026-11-04 «허브를 korea 로 · 기록째») — ADMIN_KEY(32자+) 가 깔린 허브에서, 같은 열쇠를 x-bo-admin 머리글로 낸 요청만.
    열쇠가 없거나 틀리면 «없는 길»(404)처럼 보인다. 브라우저 직접 연결·중계 길과 섞이지 않게 맨 먼저 가른다 */

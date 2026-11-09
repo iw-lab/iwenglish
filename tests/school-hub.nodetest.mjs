@@ -212,6 +212,23 @@ test('HB-TTL 결과 허용 시간 ≥ 2시간 — 30분이면 긴 판(캠페인 
   assert.ok(T.RESULT_TTL_MIN >= 120, `RESULT_TTL_MIN ${T.RESULT_TTL_MIN}분`);
 });
 
+// HB-PLAY (1.25) — 2026-11-09 사용자 «꿀꺽 행성 오늘이용 0 이 맞아?» — 하루 첫 판·«그냥 하기»는 이용권 없이 돌아 서버에 안 와 0 으로 빠졌다
+test('HB-PLAY 이용권 없이 한 판도 오늘 이용·오늘 판·누적에 센다 · 기기당 하루 상한 · 이용권·학교 점수는 그대로 · 다음 날 0', async () => {
+  const { PLAY_DAY_CAP } = await import('../hub/src/hub.js');
+  const { dh, dh2, call, tick } = await mk();
+  assert.equal((await call('/play', { dh })).counted, true, '첫 판을 셌다');
+  await call('/play', { dh }); await call('/play', { dh: dh2 });
+  tick(61e3);
+  let s = (await call('/top', {})).stats;
+  assert.deepEqual(s, { schools: 0, players: 2, today: 2, playsToday: 3, plays: 3 }, '이용권 없는 판 3번 · 기기 2대');
+  const me = await call('/me', { dh }); assert.equal(me.tix, 0, '이용권이 바뀌었다'); assert.equal(me.todayPts, 0, '학교 점수가 올랐다');
+  for (let i = 0; i < PLAY_DAY_CAP + 5; i++) await call('/play', { dh: dh2 });
+  tick(61e3); s = (await call('/top', {})).stats;
+  assert.equal(s.playsToday, 2 + PLAY_DAY_CAP, `기기당 하루 ${PLAY_DAY_CAP} 판 상한`);
+  tick(24 * 3600e3); s = (await call('/top', {})).stats;
+  assert.equal(s.today, 0); assert.equal(s.playsToday, 0); assert.equal(s.plays, 2 + PLAY_DAY_CAP);
+});
+
 // HB-S (1.4.0) — 2026-10-16 사용자 «5위까지만 … 더보기로 나머지 다 · 참여학교 수·참여학생 수·하루 이용자수 등등을 첫화면에»
 test('HB-S 전체 순위(20개 넘게) · 통계 — 학교 수·기기 수·오늘 이용·판 수(환불 제외) · 다음 날 오늘 0 · 60초 캐시', async () => {
   const { hub, dh, dh2, call, earn, tick } = await mk();
@@ -310,6 +327,17 @@ test('HB-W 무료·상한 없음(타자왕국) 판 하나 쓰기 ≤ 7행(트리
   assert.ok(W / N <= 7, `판 하나 = ${W / N}행`);
   assert.equal((await call('/me', { dh })).tix, before, '무료 판은 이용권을 건드리지 않는다');
   const top = await call('/top', {}); assert.ok(top.today.some((s) => s.code === SCHOOL.code && s.s > 0), '학교 점수는 그대로 쌓인다');
+});
+
+test('HB-W2 이용권 없는 판 세기(/play) 쓰기 — 같은 날 둘째 판부터 ≤ 5행 · 상한 넘으면 0행(1.25)', async () => {
+  const { PLAY_DAY_CAP } = await import('../hub/src/hub.js');
+  const stg = fakeDOStorage(); let W = 0; const ex = stg.sql.exec.bind(stg.sql); stg.sql.exec = (...a) => { const c = ex(...a); W += c.rowsWritten; return c; };
+  const hub = new Hub({ db: doD1(stg), secret: 'k', now: () => Date.UTC(2026, 9, 10, 3) }); const dh = await didHash(DID), call = async (p, b) => (await hub.handle(p, b)).body;
+  await call('/play', { dh }); W = 0; const N = 10;
+  for (let k = 0; k < N; k++) await call('/play', { dh });
+  assert.ok(W / N <= 5, `둘째 판부터 판 하나 = ${W / N}행`);
+  for (let k = 0; k < PLAY_DAY_CAP; k++) await call('/play', { dh });
+  W = 0; assert.equal((await call('/play', { dh })).counted, false); assert.equal(W, 0, `상한 넘은 판이 ${W}행 썼다`);
 });
 
 // HB-DDL — 워커는 요청마다 new Hub 를 만든다(index.js hubOf). 그때마다 표·트리거 DDL 을 다시 돌리면 요청당 ~40행씩 읽어

@@ -187,7 +187,7 @@
 @keyframes gb-site-pop { 0%, 100% { transform: scale(1) rotate(0); } 50% { transform: scale(1.12) rotate(-8deg); } }
 @media (prefers-reduced-motion: reduce) { .gb-site, .gb-site::after, .gb-site-ic { animation: none; } }
 /* 🎁 하루 첫 판 안내(2026-11-03) — 판 위에 잠깐 떴다 사라진다(누를 것 없음) */
-.gb-note { position: fixed; left: 50%; top: max(14px, env(safe-area-inset-top)); transform: translateX(-50%); z-index: 9999; pointer-events: none; max-width: min(92vw, 520px);
+.gb-note { position: fixed; left: 50%; top: max(14px, env(safe-area-inset-top), 21vh);   /* 맨 위는 게임마다 점수·막대 칸 — 거기 뜨면 판 시작 3초 동안 덮었다(2026-11-09 콩콩 구름계단 «문까지 n초» 막대) */ transform: translateX(-50%); z-index: 9999; pointer-events: none; max-width: min(92vw, 520px);
   padding: 10px 16px; border-radius: 14px; background: rgba(20, 28, 48, 0.92); color: #fff; font-size: 14px; font-weight: 700; line-height: 1.4; text-align: center;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35); animation: gb-note-in .25s ease-out; }
 .gb-note svg { width: 16px; height: 16px; vertical-align: -3px; }
@@ -254,7 +254,7 @@ input, textarea { -webkit-user-select: text; user-select: text; }
 .gb-pick.hot { border-width: 3px; padding-right: 76px; }
 .gb-tapme { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: #ffc83d; color: #2b1d00; font-size: 13px; font-weight: 800;
   border-radius: 999px; padding: 4px 10px; animation: gbTapPop 0.9s ease-in-out infinite; }
-@keyframes gbPickIn { from { opacity: 0; transform: translateY(6px) scale(0.97); } }
+@keyframes gbPickIn { from { transform: translateY(6px) scale(0.97); } }   /* 투명도는 건드리지 않는다 — 대비 검사가 나타나는 순간을 1:1 로 잰다(매쓰스텝 D39 · SP-6) */
 @keyframes gbPickGlow { 50% { box-shadow: 0 0 14px 3px rgba(255, 200, 61, 0.55); } }
 @keyframes gbPickShine { 0%, 45% { transform: translateX(-120%); } 100% { transform: translateX(120%); } }
 @keyframes gbTapPop { 50% { transform: translateY(-50%) scale(1.12); } }

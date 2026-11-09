@@ -119,6 +119,8 @@ export async function spendTicket(ref, kind = 'play') {
   hubState.online = false; hubState.checkedAt = Date.now(); hubEmit();
   return { ok: false, why: 'offline' };
 }
+/** 이용권 없이 한 판(하루 첫 판·«그냥 하기») — 첫 화면 «오늘 이용·오늘 판»에만 센다. 기다리지 않고, 실패해도 판은 그대로(1.25) */
+export function countPlay() { if (hubState.online === false) return; void hubCall('play', {}).catch(() => {}); }
 export async function refundTicket(ref) {
   for (let i = 0; i < 2; i++) {   // spend·result 와 같이 같은 ref 로 한 번 더(서버 멱등)
     try { const j = await hubCall('refund', { ref }); if (typeof j.tix === 'number') { hubState.tix = j.tix; hubEmit(); } return j; }

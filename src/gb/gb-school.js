@@ -11,7 +11,7 @@
  *    «학생»이 아니라 «기기»라고 쓴다 — 계정이 없어 학생을 셀 수 없다(한 태블릿을 여럿이 쓰면 1). 게이트 = gate-baseline B11.
  */
 import { hubState, hubLoad, hubSave, refreshMe, searchSchool, selectSchool, topSchools, newPack, gradePack,
-  newRef, spendTicket, refundTicket, reportResult, onHub, hubKey } from './hubnet.js';
+  newRef, spendTicket, refundTicket, reportResult, onHub, hubKey, countPlay } from './hubnet.js';
 import { autoEnterFullscreen } from './gb-fullscreen.js';
 import { gbIcon } from './gb-icons.js';
 // 🔴 분수는 위아래로 쌓아 그린다 — 문항은 허브 «서버»가 만들어 보내서 게임 쪽 분수 게이트가 못 봤다(2026-10-12 티샷 사용자 제보 «2/3 + 2/4»).
@@ -227,7 +227,8 @@ async function findSchool(live = false) {
     const list = j.list || [];
     msg.innerHTML = list.length ? `<b class="gb-tapcue">${gbIcon('school')} 아래에서 우리 학교를 눌러요!</b>` : esc(j.error ? '학교 목록 서버가 잠시 대답이 없어요' : '찾는 학교가 없어요 — 시도를 고르거나 이름을 줄여 보세요');
     /* 1.24.0 결과가 반짝인다 · 첫 학교에 «눌러요» — 찾고도 안 누르는 아이가 있었다(2026-11-08 사용자 «반짝반짝 누르고 싶게») */
-    out.innerHTML = list.map((s, i) => `<li><button class="gb-pick${i === 0 ? ' hot' : ''}" data-i="${i}" style="--gb-i:${Math.min(i, 8)}">${esc(s.name)} <small>${esc(s.region || SIDO[s.sido] || '')}</small>${i === 0 ? '<span class="gb-tapme" data-gb-tapme>눌러요</span>' : ''}</button></li>`).join('');
+    out.innerHTML = list.map((s, i) => `<li><button class="gb-pick${i === 0 ? ' hot' : ''}" data-i="${i}">${esc(s.name)} <small>${esc(s.region || SIDO[s.sido] || '')}</small>${i === 0 ? '<span class="gb-tapme" data-gb-tapme>눌러요</span>' : ''}</button></li>`).join('');
+    out.querySelectorAll('[data-i]').forEach((b) => b.style.setProperty('--gb-i', String(Math.min(Number(b.dataset.i), 8))));   // CSSOM 은 엄격한 CSP(style-src 'self')에서도 된다 — innerHTML 의 style 속성은 막힌다(매쓰스텝 D15 · SP-5)
     out.querySelectorAll('[data-i]').forEach((b) => b.onclick = async () => {
       const sc = list[Number(b.dataset.i)];
       if (schoolThen) autoEnterFullscreen();   // 저장(await) 뒤엔 제스처가 끝난다 — 고르는 클릭 순간에
@@ -400,14 +401,14 @@ let freeLeft = 0;
 function gbNote(html, ms = 3200) {
   try { const el = document.createElement('div'); el.className = 'gb-note'; el.setAttribute('role', 'status'); el.dataset.gbNote = ''; el.innerHTML = html; document.body.appendChild(el); setTimeout(() => el.remove(), ms); } catch { /* */ }
 }
-const dayFreeGo = (go) => { gbNote(opt.freeRuns > 1 ? (freeLeft > 0 ? `${gbIcon('sparkle')} 문제 없이 ${freeLeft}${opt.playWord} 더 할 수 있어요! 문제를 풀면 학교 점수가 쌓여요` : `${gbIcon('sparkle')} 이번 ${opt.playWord}까지 문제 없이! 다음 ${opt.playWord}부터는 문제를 풀어요`) : `${gbIcon('sparkle')} 오늘 첫 ${opt.playWord}${playWordEun()} 문제 없이! 다음 ${opt.playWord}부터 문제를 풀면 학교 점수가 쌓여요`); go(null); };
+const dayFreeGo = (go) => { countPlay(); gbNote(opt.freeRuns > 1 ? (freeLeft > 0 ? `${gbIcon('sparkle')} 문제 없이 ${freeLeft}${opt.playWord} 더 할 수 있어요! 문제를 풀면 학교 점수가 쌓여요` : `${gbIcon('sparkle')} 이번 ${opt.playWord}까지 문제 없이! 다음 ${opt.playWord}부터는 문제를 풀어요`) : `${gbIcon('sparkle')} 오늘 첫 ${opt.playWord}${playWordEun()} 문제 없이! 다음 ${opt.playWord}부터 문제를 풀면 학교 점수가 쌓여요`); go(null); };
 async function gateOnce(go, kind) {
   // 모름이거나, «안 닿음» 판정이 1분 넘게 묵었으면 다시 본다 — 한 번 순단이 세션 끝까지 학교 점수를 끊지 않게(교차검증 grok)
   if (hubState.online === null || (hubState.online === false && Date.now() - (hubState.checkedAt || 0) > 60000)) await refreshMe();
   if (hubState.online === false) { go(null); return; }
   if (!hubState.school && !hubLoad().noSchool) { openSchool(() => gbGate(go, { kind })); return; }
   // 문제 화면의 «그냥 하기»(free=true)면 이번 판만 점수 없이 바로 시작
-  const retry = (free) => (free ? go(null) : gbGate(go, { kind }));
+  const retry = (free) => (free ? (countPlay(), go(null)) : gbGate(go, { kind }));
   // FREE_PLAY 허브면 이용권 화면을 건너뛴다(서버가 판마다 1장 넣고 바로 쓴다)
   if (hubState.tix <= 0 && !free()) { if (takeDayFree()) { dayFreeGo(go); return; } openQuiz(retry, `${gbIcon('ticket')} 이용권이 없어요 — 문제를 풀면 바로 ${opt.playWord}할 수 있어요!`); return; }
   const ref = newRef(kind);

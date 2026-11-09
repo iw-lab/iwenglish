@@ -1,7 +1,7 @@
 // 학교 허브 중계 — 게임 페이지와 같은 오리진(/api/hub/*)에서 daum 계정 허브 워커로 넘긴다(2026-10-10 리마스터).
 // 🔴 허브는 이 중계가 붙이는 비밀 머리글(HUB_PROXY_KEY)이 있어야만 받는다. 아이 IP 는 원문을 넘기지 않고
 //    «날짜를 섞은 해시 16자»만 넘긴다(학교 와이파이 하루 상한 전용 — 저장소에 IP 원문 0).
-const ALLOW = new Set(['school', 'schools', 'me', 'select', 'pack', 'grade', 'spend', 'refund', 'result']);
+const ALLOW = new Set(['school', 'schools', 'me', 'select', 'pack', 'grade', 'spend', 'refund', 'result', 'play']);
 const J = (body, status) => new Response(JSON.stringify(body), { status, headers: { 'content-type': 'application/json' } });
 async function ipHash(ip, salt) {
   const day = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);

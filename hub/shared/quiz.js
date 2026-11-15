@@ -1,3 +1,4 @@
+import { sciQ } from './sci.js';   // 과학(1.31 · 기체·전기·플라즈마 구 안전)
 import { createRng } from './rng.js';
 import { WORDS } from './data/words.js';
 // 꿀꺽 행성 quiz.js(2026-10-09)에서 옮겼다 — 경기권 문제 묶음 전용(허브가 출제·채점, 브라우저는 보여주기만).
@@ -229,11 +230,11 @@ export function makeQuestions(seed, { subject = 'math', grade = 2, count = 5 } =
   // 🔴 정답 «위치»가 시드만으로 정해지면, 문항을 하나도 모르는 사람이 위치만 재현해
   //    전부 맞힐 수 있다 — 서버가 «직접 채점»해도 소용이 없다(실측: eng/5 답을 math/2 로
   //    채점해도 6/6 이 나왔다). 과목·학년을 스트림에 섞어 판마다 위치가 달라지게 한다.
-  const salt = (0x51A7 * 0x9E3779B1) ^ (grade * 0x85EBCA6B) ^ (subject === 'eng' ? 0xC2B2AE35 : subject === 'music' ? 0x165667B1 : 0x27D4EB2F);
+  const salt = (0x51A7 * 0x9E3779B1) ^ (grade * 0x85EBCA6B) ^ (subject === 'eng' ? 0xC2B2AE35 : subject === 'music' ? 0x165667B1 : subject === 'sci' ? 0x5C1E5C1E : 0x27D4EB2F);
   const R = createRng((seed ^ salt) >>> 0), rnd = R.next;
   const deck = makePositionDeck(rnd);
   const out = [], seen = new Set();
-  const gen = () => (subject === 'eng' ? engQ(rnd, grade) : subject === 'music' ? musicQ(rnd, grade) : mathQ(rnd, grade));
+  const gen = () => (subject === 'eng' ? engQ(rnd, grade) : subject === 'music' ? musicQ(rnd, grade) : subject === 'sci' ? sciQ(rnd, grade) : mathQ(rnd, grade));
   for (let i = 0; i < count; i++) {
     // 같은 문항은 다시 뽑는다(같은 시드 = 같은 결과는 그대로) — 음악 3학년 5문제에 «3/4박자…»가 세 번 나왔다(2026-10-14)
     let q = gen();

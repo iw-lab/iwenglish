@@ -1,6 +1,6 @@
 {
   "kit": "school-hub",
-  "version": "1.30.1 개인 티어 — CSP 게임(인라인 style 0 · connect-src 자동) 2026-11-15",
+  "version": "1.31.0 과학 과목 — 기체·전기·플라즈마 구 안전 121문항(configureSchool({ quizSubject: 'sci' })) 2026-11-15",
   "id": "echotale",
   "host": "pages",
   "client": "src/gb",

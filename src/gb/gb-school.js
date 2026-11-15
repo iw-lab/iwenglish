@@ -19,7 +19,7 @@ import { gbIcon } from './gb-icons.js';
 import { fracHTML } from './gb-frac.js';
 import { playSemSteps } from './gb-sem.js';
 // 🏅 개인 티어·칭호(1.30 · 2026-11-15 사용자 «전체 게임 개인별 칭호·티어 · 학교에서 한 티어가 집에서도») — 판 시작·끝을 여기서 부르니 게임 코드는 그대로다
-import { tierStart, tierEnd, tierPillHTML, bindTierPill } from './gb-tier.js';
+import { tierStart, tierEnd, tierPillHTML, bindTierPill, tierHomeSeen } from './gb-tier.js';
 
 const SIDO = { B10: '서울', C10: '부산', D10: '대구', E10: '인천', F10: '광주', G10: '대전', H10: '울산', I10: '세종', J10: '경기',
   K10: '강원', M10: '충북', N10: '충남', P10: '전북', Q10: '전남', R10: '경북', S10: '경남', T10: '제주' };
@@ -62,9 +62,12 @@ export function mountSchoolRank(el) {
   paintRank();
   onHub(() => paintRank());
   refreshSchoolRank();
+  // 첫 화면이 다시 보이면 판이 끝난 것 — gbFinish 를 건너뛰는 게임의 티어 기록(1.30.3)
+  try { new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting)) tierHomeSeen(); }).observe(el); } catch { /* 옛 브라우저 — 다음 판 시작·탭 닫기에서 보낸다 */ }
 }
 export async function refreshSchoolRank() {
   if (!rankEl) return;
+  tierHomeSeen();
   if (rankBusy) { rankAgain = true; return; }   // 🔴 바쁠 때 버리면 방금 낸 점수가 화면에 안 붙는다(교차검증 grok) — 끝나고 한 번 더
   rankBusy = true;
   try {
@@ -248,7 +251,7 @@ async function findSchool(live = false) {
 }
 
 /* ── 문제 풀고 이용권 받기 ───────────────────────────────── */
-const quizPref = () => { if (isSem()) { let g = 3; try { const j = JSON.parse(localStorage.getItem(hubKey('quiz'))) || {}; if (j.g >= 1 && j.g <= 6) g = j.g; } catch { /* */ } return { s: 'sem', g }; } try { const j = JSON.parse(localStorage.getItem(hubKey('quiz'))) || {}; return { s: ['eng', 'music', 'math'].includes(j.s) ? j.s : (opt.quizSubject || 'math'), g: j.g >= 1 && j.g <= 6 ? j.g : 3 }; } catch { return { s: opt.quizSubject || 'math', g: 3 }; } };
+const quizPref = () => { if (isSem()) { let g = 3; try { const j = JSON.parse(localStorage.getItem(hubKey('quiz'))) || {}; if (j.g >= 1 && j.g <= 6) g = j.g; } catch { /* */ } return { s: 'sem', g }; } try { const j = JSON.parse(localStorage.getItem(hubKey('quiz'))) || {}; return { s: ['eng', 'music', 'math', ...(opt.quizSubject === 'sci' ? ['sci'] : [])].includes(j.s) ? j.s : (opt.quizSubject || 'math'), g: j.g >= 1 && j.g <= 6 ? j.g : 3 }; } catch { return { s: opt.quizSubject || 'math', g: 3 }; } };
 /** 셈 이용권: 학년을 한 번 골랐으면 다시 묻지 않고 문제를 잇는다(2026-11-05 사용자 «자꾸 학년 고르는 화면이 나옴») */
 const semPicked = () => { if (!isSem()) return false; try { const j = JSON.parse(localStorage.getItem(hubKey('quiz'))) || {}; return j.g >= 1 && j.g <= 6; } catch { return false; } };
 const saveQuizPref = (p) => { try { localStorage.setItem(hubKey('quiz'), JSON.stringify(p)); } catch { /* */ } };
@@ -285,7 +288,7 @@ function renderQuiz() {
       ${semOn ? '' : `<h2>${gbIcon('ticket')} ${isSem() ? '셈 풀고' : '문제 풀고'} 이용권 받기</h2>`}
       ${semOn ? '' : isSem() ? `<p class="gb-hint">${SEM_HINT.q}문제 중 <b>${SEM_HINT.pass}개</b>를 답 안 보고 풀면 <b>이용권 ${hubState.per}장</b> · 1장에 한 ${opt.playWord} · 지금 <b>${hubState.tix}장</b></p>` : `<p class="gb-hint">${hubState.q}문제 중 <b>${hubState.pass}개</b> 맞히면 <b>이용권 ${hubState.per}장</b> · ${opt.playWord} 한 판 = 이용권 1장 · 지금 <b>${hubState.tix}장</b></p>`}
       ${qz.pack || (semPicked() && !qz.pickGrade) ? '' : `<div class="gb-opts">
-        ${isSem() ? '' : `<div class="gb-seg">${[['math', '수학'], ['eng', '영어'], ['music', '음악']].map(([v, t]) => `<button class="gb-pill ${pref.s === v ? 'on' : ''}" data-subj="${v}">${t}</button>`).join('')}</div>`}
+        ${isSem() ? '' : `<div class="gb-seg">${[...(opt.quizSubject === 'sci' ? [['sci', '과학']] : []), ['math', '수학'], ['eng', '영어'], ['music', '음악']].map(([v, t]) => `<button class="gb-pill ${pref.s === v ? 'on' : ''}" data-subj="${v}">${t}</button>`).join('')}</div>`}
         <div class="gb-seg">${grades.join('')}</div></div>`}
       ${body}
       <p class="gb-msg" data-frac-ok>${qz.msg}</p>

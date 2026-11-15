@@ -65,6 +65,8 @@ function take(j) {
 /* ── 판 시작·끝 (gb-school 이 부른다) ─────────────────────────── */
 export function tierStart() { flush(false); pending = { at: Date.now() }; }
 export function tierEnd(won) { flush(!!won); }
+/** 첫 화면(순위 카드)이 다시 보였다 = 판이 끝났다. gbFinish 를 안 부르는 게임(이용권 없는 판은 정산을 건너뜀 — 냥장난 카페 2026-11-15 배포본 실측: 한 판 끝내도 요청 0)도 여기서 보낸다(이김 여부는 모름 → 기본 점수) */
+export function tierHomeSeen() { if (pending && Date.now() - pending.at >= opt.minMs) flush(false); }
 function flush(won) {
   const p = pending; pending = null;
   if (!p || Date.now() - p.at < opt.minMs) return;

@@ -118,7 +118,7 @@ export const PLAY_DAY_CAP = 40;
 export const kstDayStart = (ms) => { const d = new Date(ms + 9 * 3600e3); d.setUTCHours(0, 0, 0, 0); return d.getTime() - 9 * 3600e3; };
 
 const json = (body, status = 200) => ({ status, body });
-const SUBJ = ['math', 'eng', 'music'];
+const SUBJ = ['math', 'eng', 'music', 'sci'];   // sci = 과학(1.31 · 게임이 configureSchool({ quizSubject: 'sci' }))
 const dup = (e) => /UNIQUE|PRIMARY|constraint/i.test(String(e?.message || e));
 
 export class Hub {

@@ -184,10 +184,30 @@ test('HB-8 음악 과목 문항', async () => {
   assert.ok(p.qs.every((q) => !/[=×÷+]/.test(q.text)), '음악을 골랐는데 수학 문제: ' + p.qs.map((q) => q.text).join(' / '));
 });
 
+test('HB-SCI 과학 과목(1.31) — 범주별 40문항·학년 맞춤·보기·정답 위치·최장 보기 쏠림·허브 출제 경로', async () => {
+  const { makeQuestions } = await import('../hub/shared/quiz.js');
+  const { SCI, sciCount } = await import('../hub/shared/sci.js');
+  for (const [g, name] of [[4, '기체'], [6, '전기'], [3, '공통']]) assert.ok(sciCount((x) => x.g === g) >= 40, `${name} 문항 ${sciCount((x) => x.g === g)} < 40`);
+  const elec = new Set(SCI.filter((x) => x.g === 6).map((x) => x.q)), gas = new Set(SCI.filter((x) => x.g === 4).map((x) => x.q));
+  const pos = [0, 0, 0]; let longest = 0, n = 0;
+  for (const grade of [3, 4, 5, 6]) for (let seed = 1; seed <= 400; seed++) for (const q of makeQuestions(seed * 104729 + grade, { subject: 'sci', grade, count: 5 })) {
+    assert.equal(new Set(q.choices).size, 3, '보기 중복: ' + JSON.stringify(q));
+    if (grade < 6) assert.ok(!elec.has(q.text), `${grade}학년에 6학년 전기 문항: ${q.text}`);
+    if (grade < 4) assert.ok(!gas.has(q.text), `${grade}학년에 4학년 기체 문항: ${q.text}`);
+    pos[q.answer]++; n++;
+    const L = q.choices.map((c) => [...c].length), mx = Math.max(...L); if (L[q.answer] === mx && L.filter((x) => x === mx).length === 1) longest++;
+  }
+  for (const c of pos) assert.ok(Math.abs(c / n - 1 / 3) < 0.03, '정답 위치 쏠림: ' + pos);
+  assert.ok(longest / n <= 0.5, `정답이 가장 긴 보기 ${(longest / n * 100).toFixed(0)}% > 50%`);
+  const { dh, call } = await mk();
+  const p = await call('/pack', { dh, subject: 'sci', grade: 6 });
+  assert.ok(p.qs.every((q) => SCI.some((x) => x.q === q.text)), '과학을 골랐는데 다른 과목 문제: ' + p.qs.map((q) => q.text).join(' / '));
+});
+
 test('HB-Q 한 묶음 안 같은 문항 0 — 음악 3학년 5문제에 «3/4박자…»가 세 번 나왔다(2026-10-14 배포본)', async () => {
   const { makeQuestions } = await import('../hub/shared/quiz.js');
   const dup = [];
-  for (const subject of ['math', 'eng', 'music']) for (let grade = 1; grade <= 6; grade++) for (let seed = 0; seed < 400; seed++) {
+  for (const subject of ['math', 'eng', 'music', 'sci']) for (let grade = 1; grade <= 6; grade++) for (let seed = 0; seed < 400; seed++) {
     const qs = makeQuestions(seed, { subject, grade, count: 5 });
     if (new Set(qs.map((q) => q.text)).size !== qs.length) dup.push(`${subject}/${grade}/${seed}`);
   }

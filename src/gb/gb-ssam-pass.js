@@ -87,8 +87,76 @@ export function showRoomLock(what = '친구랑 방 만들어 하기') {
   return wrap;
 }
 
+/* ── 첫 화면 안내판(1.28 · 2026-11-13 사용자 «모든 게임에 안내좀 똑바로 · 멀티 플레이 게임») ──
+ * 멀티 게임이 선행쌤 없이 열리면 «시작»이 조용히 봇 대전이 되거나, 눌러 봐야 잠금 창이 떠서
+ * 아이는 «멀티가 기본 아님?»하고 헤맨다. guardRoom 을 한 번이라도 만든 게임(= 멀티 게임)은
+ * 주 행동 단추([data-gb="play"]) 바로 아래에 «지금은 누구와 하는지»를 늘 보이게 붙인다.
+ * 게임이 자리를 정하고 싶으면 빈 [data-gb="ssam-notice"] 를 두면 그 안에 채운다. */
+const NOTE = 'gb-ssam-notice';
+export function noticeText(passed) {
+  return passed
+    ? { title: '친구랑 같이 하기가 열려 있어요', sub: '빠른 대전·방 만들기로 친구들과 겨뤄요. 빈자리는 컴퓨터 친구가 채워요.' }
+    : { title: '지금은 컴퓨터 친구(봇)와 해요', sub: '진짜 친구랑 같이 하려면 선행쌤을 한 번 들렀다 오세요. 기기마다 한 번이면 계속 열려요.' };
+}
+function buildNotice(d, passed) {
+  const t = noticeText(passed);
+  const box = d.createElement('div');
+  box.className = NOTE; box.dataset.gbNotice = passed ? 'open' : 'locked';
+  box.setAttribute('role', 'note');
+  box.style.cssText = 'display:block;box-sizing:border-box;flex:none;align-self:stretch;width:100%;max-width:440px;margin:8px auto 0;padding:9px 12px;border-radius:12px;text-align:left;font:14px/1.4 system-ui,sans-serif;word-break:keep-all;overflow-wrap:anywhere;pointer-events:auto;'
+    + (passed ? 'background:rgba(255,255,255,.94);color:#0b4d3c;border:1.5px solid #00b894;box-shadow:0 4px 14px rgba(0,0,0,.18)' : 'background:rgba(255,255,255,.94);color:#1b2140;border:1.5px solid #6c5ce7;box-shadow:0 4px 14px rgba(0,0,0,.18)');
+  const h = d.createElement('div'); h.style.cssText = 'font-weight:800;font-size:15px'; h.textContent = t.title; h.dataset.t = '';
+  const s = d.createElement('div'); s.style.cssText = 'opacity:.85;font-size:13px;margin-top:2px'; s.textContent = t.sub;
+  box.append(h, s);
+  if (!passed) {
+    const a = d.createElement('a');
+    a.dataset.gb = 'ssam-door'; a.target = '_top'; a.href = ssamDoorUrl();
+    a.style.cssText = 'display:inline-flex;align-items:center;margin-top:7px;background:linear-gradient(90deg,#6c5ce7,#00b894);color:#fff;text-decoration:none;font-weight:800;font-size:14px;padding:0 16px;border-radius:10px;min-height:44px';   /* 누름 자리 44px(B5) — 36px 였다(2026-11-13 초성 번개 배포본) */
+    a.textContent = '선행쌤 들렀다 오기';
+    box.append(a);
+  }
+  return box;
+}
+/** 안내판을 지금 붙인다(이미 있으면 갱신). 붙인 개수를 돌려준다. */
+export function mountMultiNotice(root = document) {
+  const d = root.ownerDocument || root;
+  const passed = ssamPass();
+  let n = 0;
+  for (const host of root.querySelectorAll('[data-gb="ssam-notice"]')) {
+    if (host.querySelector('.' + NOTE)?.dataset.gbNotice === (passed ? 'open' : 'locked')) { n++; continue; }
+    host.replaceChildren(buildNotice(d, passed)); n++;
+  }
+  if (n) return n;
+  for (const play of root.querySelectorAll('[data-gb="play"]')) {
+    /* 주 단추 바로 뒤의 재방문 «반김 카드»는 건너뛴다 — 안내판이 그 사이에 끼면 작은 폰·PC 첫 화면 밖으로 밀린다(2026-11-13 넉자 정령 · SN-8) */
+    let at = play; while (at.nextElementSibling && at.nextElementSibling.matches('[data-ret="comeback"]')) at = at.nextElementSibling;
+    const nx = at.nextElementSibling;
+    const shown = play.getClientRects().length > 0 && getComputedStyle(play).visibility !== 'hidden';
+    if (nx && nx.classList.contains(NOTE)) {
+      if (nx.dataset.gbNotice === (passed ? 'open' : 'locked')) { if (nx.hidden === shown) nx.hidden = !shown; n++; break; }
+      nx.remove();
+    }
+    const box = buildNotice(d, passed); box.hidden = !shown; /* 단추가 숨으면(판 안) 안내판도 숨는다 */
+    at.after(box); n++;
+    break; /* 주 단추 하나에만 */
+  }
+  return n;
+}
+let watching = false;
+/** 멀티 게임 표시 — 첫 화면이 다시 그려져도 안내판이 따라 붙는다 */
+export function watchMultiNotice() {
+  if (watching || typeof document === 'undefined' || typeof MutationObserver === 'undefined') return;
+  watching = true;
+  let busy = false, due = 0;
+  const run = () => { due = 0; if (busy) return; busy = true; try { mountMultiNotice(document); } finally { busy = false; } };
+  /* 판 안 HUD 가 매 프레임 바뀌어도 0.25초에 한 번만 본다 */
+  const go = () => { run(); new MutationObserver(() => { if (!busy && !due) due = setTimeout(run, 250); }).observe(document.body, { childList: true, subtree: true, attributes: true, attributeFilter: ['hidden', 'class', 'style'] }); };
+  if (document.body) go(); else document.addEventListener('DOMContentLoaded', go, { once: true });
+}
+
 /** 방 만들기·방 들어가기 단추 처리기를 감싼다 — 통과면 그대로, 아니면 안내 창 */
 export function guardRoom(fn, what) {
+  watchMultiNotice();
   return function guarded(...args) {
     if (ssamPass()) return fn.apply(this, args);
     showRoomLock(what);

@@ -120,6 +120,10 @@ export async function spendTicket(ref, kind = 'play') {
   return { ok: false, why: 'offline' };
 }
 /** 이용권 없이 한 판(하루 첫 판·«그냥 하기») — 첫 화면 «오늘 이용·오늘 판»에만 센다. 기다리지 않고, 실패해도 판은 그대로(1.25) */
+/** 👻 유령 기록(1.26) — 판 끝에 «오늘 이 모드 내 최고»일 때만 부른다(서버도 더 높을 때만 덮는다). 학교 없으면 { why:'school' } · 안 닿으면 null */
+export async function putGhost(k, best, nick, data) { if (hubState.online === false) return null; try { return await hubCall('ghost', { k, best, nick, data }); } catch { return null; } }
+/** 👻 도전 상대 — 우리 학교 오늘 이 모드 { list:[{ tag:'top'|'near'|'below', nick, best, data }] } · 판 시작 화면에서 한 번 */
+export async function getGhosts(k, mine = 0) { if (hubState.online === false) return { list: [] }; try { return await hubCall('ghosts', { k, mine }); } catch { return { list: [] }; } }
 export function countPlay() { if (hubState.online === false) return; void hubCall('play', {}).catch(() => {}); }
 export async function refundTicket(ref) {
   for (let i = 0; i < 2; i++) {   // spend·result 와 같이 같은 ref 로 한 번 더(서버 멱등)

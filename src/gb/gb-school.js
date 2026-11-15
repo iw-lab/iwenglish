@@ -18,6 +18,8 @@ import { gbIcon } from './gb-icons.js';
 //    gb-frac.js = kit/frac/frac.js 사본(install.sh 가 복사 — 정본은 하나)
 import { fracHTML } from './gb-frac.js';
 import { playSemSteps } from './gb-sem.js';
+// 🏅 개인 티어·칭호(1.30 · 2026-11-15 사용자 «전체 게임 개인별 칭호·티어 · 학교에서 한 티어가 집에서도») — 판 시작·끝을 여기서 부르니 게임 코드는 그대로다
+import { tierStart, tierEnd, tierPillHTML, bindTierPill } from './gb-tier.js';
 
 const SIDO = { B10: '서울', C10: '부산', D10: '대구', E10: '인천', F10: '광주', G10: '대전', H10: '울산', I10: '세종', J10: '경기',
   K10: '강원', M10: '충북', N10: '충남', P10: '전북', Q10: '전남', R10: '경북', S10: '경남', T10: '제주' };
@@ -44,6 +46,7 @@ function show(html) {
   layer.hidden = false;
   return layer;
 }
+export const QUIZ_ARM_MS = 600;
 function hide() { qGen++; semCur?.stop(); semCur = null; if (layer) { layer.hidden = true; layer.innerHTML = ''; } }
 /** 덮개 세대 — 닫은 뒤 늦게 온 문제·채점 응답이 덮개를 게임 위에 다시 띄우지 않게(교차검증 codex) */
 let qGen = 0;
@@ -65,8 +68,9 @@ export async function refreshSchoolRank() {
   if (rankBusy) { rankAgain = true; return; }   // 🔴 바쁠 때 버리면 방금 낸 점수가 화면에 안 붙는다(교차검증 grok) — 끝나고 한 번 더
   rankBusy = true;
   try {
-    if (hubState.online === null) await refreshMe();
-    rankData = await topSchools();
+    // /me 와 /schools 를 같이 보낸다 — 차례로 기다리면 폰(느린 망·첫 깨움)에서 «불러오는 중»이 두 배로 길었다(2026-11-09 골든 휘슬 «왜 이용 수가 없어? … 아 늦게 떴네»). 순위는 기기 id 만 쓰므로 /me 를 안 기다려도 된다
+    const [, d] = await Promise.all([hubState.online === null ? refreshMe() : null, topSchools()]);
+    rankData = d;
   } catch { rankData = rankData || { failed: true, today: [], weekly: [] }; }
   finally { rankBusy = false; paintRank(); if (rankAgain) { rankAgain = false; void refreshSchoolRank(); } }
 }
@@ -97,13 +101,14 @@ function paintRank() {
     ? `<button class="gb-link" data-gb-act="school">${gbIcon('school')} 우리 학교 정하기</button>`
     : mine ? `<span class="gb-mine">${esc(shortSchool(hubState.school.name))} <b>${mine.rank}위</b>${mine.gap ? ` · 위 학교까지 ${mine.gap}점` : ' · 1등!'}</span>`
       : `<span class="gb-mine">${esc(shortSchool(hubState.school.name))} — 첫 점수를 올려요!</span>`;
-  rankEl.dataset.gbV = '1.5'; rankEl.dataset.gbN = String(rows.length);   // 게이트 B11 이 «통계 줄·더보기»를 판정할 표지
+  rankEl.dataset.gbV = '1.5'; rankEl.dataset.gbN = String(rows.length); rankEl.dataset.gbTier = '1';   // B18 표지(개인 티어 배지 · 1.30)   // 게이트 B11 이 «통계 줄·더보기»를 판정할 표지
   rankEl.innerHTML = `
-    <div class="gb-rank-head"><b>${gbIcon('trophy')} 학교 순위</b><small>${period}</small>${free() ? '' : `<span class="gb-tix" title="이용권">${gbIcon('ticket')} ${hubState.online === false ? '–' : hubState.tix}</span>`}</div>
+    <div class="gb-rank-head"><b>${gbIcon('trophy')} 학교 순위</b><small>${period}</small>${tierPillHTML()}${free() ? '' : `<span class="gb-tix" title="이용권">${gbIcon('ticket')} ${hubState.online === false ? '–' : hubState.tix}</span>`}</div>
     ${stats}
     <ol class="gb-rank-list">${body}</ol>
     ${rows.length > 5 ? `<button class="gb-link gb-more" data-gb-act="more">전체 순위 보기 · ${rows.length.toLocaleString('ko-KR')}개 학교</button>` : ''}
     <div class="gb-rank-foot">${me}${free() ? '' : `<button class="gb-link" data-gb-act="quiz">${gbIcon('ticket')} 문제 풀고 이용권</button>`}</div>`;
+  bindTierPill(rankEl);
   rankEl.querySelector('[data-gb-act="school"]')?.addEventListener('click', () => openSchool(() => hide())   /* 순위는 저장 직후 한 번 이미 다시 받는다 — 여기서 또 부르면 /schools 두 번(1.12.0) */);
   rankEl.querySelector('[data-gb-act="quiz"]')?.addEventListener('click', () => openQuiz(null));
   rankEl.querySelector('[data-gb-act="more"]')?.addEventListener('click', () => openRankAll(useToday ? 'd' : 'w'));
@@ -292,10 +297,13 @@ function renderQuiz() {
     </div>`);
   $$('[data-subj]').forEach((b) => b.onclick = () => { saveQuizPref({ ...pref, s: b.dataset.subj }); renderQuiz(); });
   $$('[data-grade]').forEach((b) => b.onclick = () => { saveQuizPref({ ...pref, g: Number(b.dataset.grade) }); if (isSem() && !qz.busy) { qz.pickGrade = false; startPack(); } else renderQuiz(); });
-  const gradeBtn = $('[data-qgrade]'); if (gradeBtn) gradeBtn.onclick = () => { qGen++; semCur?.stop(); semCur = null; Object.assign(qz, { pack: null, i: 0, answers: [], busy: false, passed: false, review: '', msg: '', pickGrade: true }); renderQuiz(); };
+  /* 👆 막 그린 창의 «취소·학년 바꾸기»는 0.6초 동안 안 받는다(1.26.1 · 2026-11-10 콩콩 구름계단 배포본 B15 5번에 2번 실패 — 마지막 «확인»을 뗄 때 오는 클릭이
+     통과 화면의 «취소»에 떨어져 이용권을 받고도 창이 닫혔다. 키패드의 유령 클릭 막기는 700ms 안·그 키 밖만 먹어 «화면이 바뀐 뒤 늦게 온 클릭»을 못 잡았다) */
+  const shownAt = performance.now(), fresh = () => performance.now() - shownAt < QUIZ_ARM_MS;
+  const gradeBtn = $('[data-qgrade]'); if (gradeBtn) gradeBtn.onclick = () => { if (fresh()) return; qGen++; semCur?.stop(); semCur = null; Object.assign(qz, { pack: null, i: 0, answers: [], busy: false, passed: false, review: '', msg: '', pickGrade: true }); renderQuiz(); };
   $$('[data-pick]').forEach((b) => b.onclick = () => pickAnswer(Number(b.dataset.pick)));
   const goBtn = $('[data-qgo]'); if (goBtn) goBtn.onclick = () => startPack();
-  $('[data-qback]').onclick = () => { const r = quizRoom; quizRoom = null; quizThen = null; hide(); paintRank(); r?.onClose?.(); };
+  $('[data-qback]').onclick = () => { if (fresh()) return; const r = quizRoom; quizRoom = null; quizThen = null; hide(); paintRank(); r?.onClose?.(); };
   paintQuizRoom();
   const free = $('[data-qfree]');
   // «그냥 하기» = 이번 판만 학교 점수 없이(허브 전체를 오프라인으로 찍지 않는다 — 교차검증 grok)
@@ -360,8 +368,9 @@ async function startPack() {
  * ref = 이번 판 영수증(허브가 죽었으면 null). 판이 끝나면 gbFinish(ref, cleared), 중간에 나가면 gbLeave(ref).
  */
 let gating = false;
-export async function gbGate(go, { kind = 'play', chain = false } = {}) {
+export async function gbGate(go0, { kind = 'play', chain = false } = {}) {
   autoEnterFullscreen();   // 🔴 맨 첫 줄 — await 전(제스처 안)이어야 브라우저가 받아 준다
+  const go = (ref) => { const r = go0(ref); tierStart(); return r; };   // 판이 실제로 시작된 뒤 티어 시계(점수 없는 판·연습판도 센다 · 시작이 던지면 안 센다 — 교차검증 grok)
   // 🔴 시작 단추 두 번 누름(아이들은 자주 그런다) = 이용권 2장·게임 두 번 시작 — 관문 하나가 도는 동안 다음 것은 버린다
   if (gating) return;
   gating = true;
@@ -398,7 +407,10 @@ export function takeDayFree(store = globalThis.localStorage, day = kstDay()) {
   } catch { return false; }
 }
 let freeLeft = 0;
+// 게임이 쪽지 자리를 정할 수 있다 — configureSchool({ onNote(html, ms) }) 면 화면 위 쪽지 대신 게임의 안내 줄로(판 밖).
+//   21vh 쪽지가 판 시작 3초 동안 놀이 말(사장님·장난 물건)을 덮었다(2026-11-15 냥난장 카페 배포본 screen-live G6). 시험 tests/note-hook.test.mjs
 function gbNote(html, ms = 3200) {
+  if (typeof opt.onNote === 'function') { try { opt.onNote(html, ms); return; } catch { /* 게임 쪽 실패면 기본 쪽지로 */ } }
   try { const el = document.createElement('div'); el.className = 'gb-note'; el.setAttribute('role', 'status'); el.dataset.gbNote = ''; el.innerHTML = html; document.body.appendChild(el); setTimeout(() => el.remove(), ms); } catch { /* */ }
 }
 const dayFreeGo = (go) => { countPlay(); gbNote(opt.freeRuns > 1 ? (freeLeft > 0 ? `${gbIcon('sparkle')} 문제 없이 ${freeLeft}${opt.playWord} 더 할 수 있어요! 문제를 풀면 학교 점수가 쌓여요` : `${gbIcon('sparkle')} 이번 ${opt.playWord}까지 문제 없이! 다음 ${opt.playWord}부터는 문제를 풀어요`) : `${gbIcon('sparkle')} 오늘 첫 ${opt.playWord}${playWordEun()} 문제 없이! 다음 ${opt.playWord}부터 문제를 풀면 학교 점수가 쌓여요`); go(null); };
@@ -406,7 +418,13 @@ async function gateOnce(go, kind) {
   // 모름이거나, «안 닿음» 판정이 1분 넘게 묵었으면 다시 본다 — 한 번 순단이 세션 끝까지 학교 점수를 끊지 않게(교차검증 grok)
   if (hubState.online === null || (hubState.online === false && Date.now() - (hubState.checkedAt || 0) > 60000)) await refreshMe();
   if (hubState.online === false) { go(null); return; }
-  if (!hubState.school && !hubLoad().noSchool) { openSchool(() => gbGate(go, { kind })); return; }
+  if (!hubState.school && !hubLoad().noSchool) {
+    /* 🎮 학교는 판을 해 본 뒤에(1.27 · 2026-11-13 눈보라 마을 플레이 기록: 첫 화면에서 나간 방문이 1위 15/36 — 첫 «시작»에 학교 창이 먼저 떴다).
+     *  configureSchool({ schoolAfter: n }) — 학교를 안 고른 기기는 처음 n판을 학교 창 없이 연다(점수 없는 연습판 · 그날 첫 판 무료 규칙 그대로). 기본 0 = 예전대로. */
+    const early = hubLoad().schoolEarly || 0;
+    if ((opt.schoolAfter || 0) > early) hubSave({ schoolEarly: early + 1 });
+    else { openSchool(() => gbGate(go, { kind })); return; }
+  }
   // 문제 화면의 «그냥 하기»(free=true)면 이번 판만 점수 없이 바로 시작
   const retry = (free) => (free ? (countPlay(), go(null)) : gbGate(go, { kind }));
   // FREE_PLAY 허브면 이용권 화면을 건너뛴다(서버가 판마다 1장 넣고 바로 쓴다)
@@ -453,7 +471,7 @@ export function gbRoomWait({ kind = 'play', onBusy = () => {}, ask = true } = {}
     open: openIt,
     /** 판 시작 — 동기로 ref 를 돌려준다(시작을 네트워크가 붙잡지 않게). 표가 없으면 null = 학교 점수 없는 판 */
     start() {
-      over = true; closeQuiz();
+      over = true; closeQuiz(); tierStart();
       if (!(hubState.online !== false && hubState.school && (hubState.tix > 0 || free()))) return null;
       const ref = newRef(kind);
       liveRef = { ref, at: Date.now() };
@@ -465,7 +483,9 @@ export function gbRoomWait({ kind = 'play', onBusy = () => {}, ask = true } = {}
   const begin = async () => {
     if (hubState.online === null) await refreshMe();
     if (over || !ask || hubState.online === false) return;   // 허브가 죽었으면 문제도 못 받는다 — 방 화면 그대로
-    if (!hubState.school && !hubLoad().noSchool) { picking = true; openSchool(openIt); return; }
+    // 무료판(freePlay·FREE_PLAY — 바둑 같은 보드게임 · 2026-11-14 사용자 «문제 풀기는 없어도 되겠어 바둑과 같은 보드 게임은»): 방에서도 문제 창을 열지 않는다(학교만 고른다)
+    if (!hubState.school && !hubLoad().noSchool) { picking = true; openSchool(free() ? () => { picking = false; } : openIt); return; }
+    if (free()) return;
     openIt();
   };
   void begin();
@@ -473,6 +493,7 @@ export function gbRoomWait({ kind = 'play', onBusy = () => {}, ask = true } = {}
 }
 /** 판이 끝남(이김·짐 모두). 학교 점수 결과 {added, school} 를 돌려준다(없으면 null) */
 export async function gbFinish(ref, cleared) {
+  tierEnd(!!cleared);   // 이용권 없는 판도 티어는 센다
   if (!ref) return null;
   if (liveRef && liveRef.ref === ref) liveRef = null;
   const j = await reportResult(ref, cleared);
@@ -482,7 +503,7 @@ export async function gbFinish(ref, cleared) {
 }
 /** 판 중간에 나감 — 90초 안이면 이용권 환불, 넘었으면 «끝까지 못 감»(1점)으로 정산 */
 export async function gbLeave(ref) {
-  if (!ref) return null;
+  if (!ref) { tierEnd(false); return null; }
   const fresh = liveRef && liveRef.ref === ref && Date.now() - liveRef.at < 85_000;
   if (liveRef && liveRef.ref === ref) liveRef = null;
   if (fresh) {
@@ -495,3 +516,4 @@ export async function gbLeave(ref) {
 
 // 탭을 닫거나 다른 주소로 떠날 때 진행 중 판을 정산한다(keepalive — hubnet). 앱 전환(visibilitychange)엔 안 건다 — 돌아와 이어 할 수 있다
 addEventListener('pagehide', (e) => { if (!e.persisted && liveRef) void gbLeave(liveRef.ref); });
+export { gbNote as _gbNoteForTest };

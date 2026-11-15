@@ -9,6 +9,7 @@
 import { makeQuestions } from '../shared/quiz.js';
 import { makeSemPack, gradeSem, SEM_PASS } from '../shared/sempack.js';
 import { T, kstDay, kstWeek, isDh, isCode, isRef, packKey, seal, unseal, shortName, SIDO, isCanonicalToken, tokenKey, resultPoints } from '../shared/school.js';
+import { ghostNickOk, isGhostKey, isGhostData, GHOST_KEEP_DAYS, GHOST_LIST } from '../shared/ghost.js';
 
 /* 순위 목록 보관 — DO 모드에서만(인스턴스 하나가 모든 쓰기를 본다). D1 은 isolate 가 여럿이라 «결과 들어옴» 신호가 안 건너가 끈다(교차검증 4계열) */
 const TOPC = new WeakMap(); const TOP_TTL_MS = 15e3, TOP_DIRTY_MS = 5e3;
@@ -78,6 +79,9 @@ export const SCHEMA = [
      INSERT OR IGNORE INTO cnt (k, n) VALUES ('plays', 0); UPDATE cnt SET n = n + 1 WHERE k = 'plays'; END`,
   `CREATE TRIGGER IF NOT EXISTS st_refund AFTER UPDATE OF state ON spent WHEN OLD.state = 'spent' AND NEW.state = 'refunded' BEGIN
      UPDATE dplay SET n = n - 1 WHERE day = date(OLD.at / 1000 + 32400, 'unixepoch'); UPDATE cnt SET n = n - 1 WHERE k = 'plays'; END`,
+  /* 👻 유령 기록(1.26 · 2026-11-10 «친구 기록에 도전하면 그 친구를 유령처럼 따라가게») — 기기·하루·모드마다 한 줄(자기 최고만 덮는다). 이사 표에 안 넣는다(이틀이면 지워지는 놀이 기록) */
+  `CREATE TABLE IF NOT EXISTS ghost (day TEXT NOT NULL, k TEXT NOT NULL, dh TEXT NOT NULL, school TEXT NOT NULL, nick TEXT NOT NULL, best INTEGER NOT NULL, data TEXT NOT NULL, at INTEGER NOT NULL, PRIMARY KEY (day, k, dh))`,
+  `CREATE INDEX IF NOT EXISTS ghost_s ON ghost (day, k, school, best)`,
   `CREATE TRIGGER IF NOT EXISTS st_used AFTER INSERT ON used BEGIN
      INSERT OR IGNORE INTO pact (dh) VALUES (NEW.dh); INSERT OR IGNORE INTO dact (day, dh) VALUES (date(NEW.at / 1000 + 32400, 'unixepoch'), NEW.dh); END`,
 ];
@@ -238,6 +242,25 @@ export class Hub {
       const r = await this.result(dh, body, day, week, t, String(body.iph || ''));
       if (r && r.ok) r.top = await this.top(day, week, (await this.dev(dh))?.school || null);
       return json(r);
+    }
+    if (path === '/ghost') {   // 👻 판 끝 — 오늘 이 모드 내 최고면 내 유령을 덮는다(학교 고른 기기만 · 쓰기 1행 + 옛것 지우기)
+      const k = String(body.k || ''), best = Math.floor(Number(body.best)), nick = String(body.nick || ''), data = body.data;
+      if (!isGhostKey(k) || !(best >= 1 && best <= 100000) || !ghostNickOk(nick) || !isGhostData(data)) return json({ error: 'ghost' }, 400);
+      const d = await this.dev(dh); if (!d?.school) return json({ ok: false, why: 'school' });
+      const old = kstDay(t - GHOST_KEEP_DAYS * 864e5);
+      const r = await this.db.prepare(`INSERT INTO ghost (day, k, dh, school, nick, best, data, at) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT (day, k, dh) DO UPDATE SET school = excluded.school, nick = excluded.nick, best = excluded.best, data = excluded.data, at = excluded.at WHERE excluded.best > ghost.best`).bind(day, k, dh, d.school, nick, best, data, t).run();
+      await this.db.prepare('DELETE FROM ghost WHERE rowid IN (SELECT rowid FROM ghost WHERE day <= ? LIMIT 50)').bind(old).run();   // gb-scan-ok: PK 앞머리(day) 범위 · 50줄씩
+      return json({ ok: true, saved: (r?.meta?.changes | 0) > 0 });
+    }
+    if (path === '/ghosts') {   // 👻 도전 상대 — 우리 학교 오늘 이 모드: 1등 · 내 기록 바로 위 · 바로 아래(나 빼고) — 판 시작 화면에서 한 번
+      const k = String(body.k || ''), mine = Math.max(0, Math.floor(Number(body.mine) || 0)); if (!isGhostKey(k)) return json({ error: 'ghost' }, 400);
+      const d = await this.dev(dh); if (!d?.school) return json({ list: [], why: 'school' });
+      const { results } = await this.db.prepare('SELECT dh, nick, best, data FROM ghost WHERE day = ? AND k = ? AND school = ? ORDER BY best DESC LIMIT ?').bind(day, k, d.school, GHOST_LIST).all();
+      const rows = (results || []).filter((x) => x.dh !== dh), pick = [];
+      const add = (x, tag) => { if (x && !pick.some((p) => p.x === x)) pick.push({ x, tag }); };
+      add(rows[0], 'top'); add([...rows].reverse().find((x) => x.best > mine), 'near'); add(rows.find((x) => x.best <= mine), 'below');
+      return json({ list: pick.map(({ x, tag }) => ({ tag, nick: x.nick, best: x.best | 0, data: x.data })) });
     }
     if (path === '/select') {
       const s = body.school; if (!s || !isCode(s.code) || !SIDO[s.sido]) return json({ error: 'code' }, 400);

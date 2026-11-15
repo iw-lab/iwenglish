@@ -16,3 +16,8 @@ export function newRef(kind?: string): string;
 export function spendTicket(ref: string, kind?: string): Promise<any>;
 export function refundTicket(ref: string): Promise<any>;
 export function reportResult(ref: string, cleared: boolean): Promise<any>;
+
+/** 👻 유령 기록(1.26) */
+export interface GhostRow { tag: 'top' | 'near' | 'below'; nick: string; best: number; data: string }
+export function putGhost(k: string, best: number, nick: string, data: string): Promise<{ ok?: boolean; saved?: boolean; why?: string; error?: string } | null>;
+export function getGhosts(k: string, mine?: number): Promise<{ list: GhostRow[]; why?: string }>;

@@ -397,3 +397,24 @@ test('HB-MOVE 이사 — 내보내기·가져오기 후 표 내용·트리거·�
     assert.equal((await B.hub.admin('dump', { t: 'dev; DROP TABLE dev' })).status, 400);
   }
 });
+
+// 👻 HB-GHOST(1.26 · 2026-11-10 «친구 기록에 도전하면 그 친구를 유령처럼») — 학교 고른 기기만 · 자기 최고만 덮음 · 목록 별명만(글쓰기 거절) · 나 빼고 1등·바로 위·바로 아래 · 이틀 지난 것 지움
+test('HB-GHOST 유령 기록 — 저장·덮기·별명 검사·상대 고르기·옛것 지우기', async () => {
+  const { dh, dh2, call, tick } = await mk();
+  const D = '0:0;50:1;120:2';
+  assert.equal((await call('/ghost', { dh, k: 'time', best: 10, nick: '용감한 수달', data: D })).why, 'school', '학교 없으면 안 받는다');
+  await call('/select', { dh, school: SCHOOL }); await call('/select', { dh: dh2, school: SCHOOL });
+  assert.equal((await call('/ghost', { dh, k: 'time', best: 10, nick: '김민수', data: D })).error, 'ghost', '목록 밖 별명(실명 가능) 거절');
+  assert.equal((await call('/ghost', { dh, k: 'time', best: 10, nick: '용감한 수달', data: '<script>' })).error, 'ghost', '기록 글자 형식');
+  assert.equal((await call('/ghost', { dh, k: 'time', best: 10, nick: '용감한 수달', data: D })).saved, true);
+  assert.equal((await call('/ghost', { dh, k: 'time', best: 8, nick: '용감한 수달', data: D })).saved, false, '더 낮은 기록은 안 덮는다');
+  assert.equal((await call('/ghost', { dh, k: 'time', best: 12, nick: '용감한 수달', data: D })).saved, true);
+  await call('/ghost', { dh: dh2, k: 'time', best: 20, nick: '날쌘 토끼', data: D });
+  const me = await call('/ghosts', { dh, k: 'time', mine: 12 });
+  assert.deepEqual(me.list.map((x) => [x.tag, x.nick, x.best]), [['top', '날쌘 토끼', 20]], '나는 빼고 · 1등 = 바로 위면 한 번만');
+  const other = await call('/ghosts', { dh: dh2, k: 'time', mine: 20 });
+  assert.deepEqual(other.list.map((x) => [x.tag, x.best]), [['top', 12]], '1등이 바로 아래면 한 번만');
+  assert.equal((await call('/ghosts', { dh, k: 'survival', mine: 0 })).list.length, 0, '모드가 다르면 따로');
+  tick(3 * 864e5); await call('/ghost', { dh, k: 'time', best: 3, nick: '용감한 수달', data: D });
+  assert.equal((await call('/ghosts', { dh: dh2, k: 'time', mine: 0 })).list.length, 1, '오늘 것만');
+});

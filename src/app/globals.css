@@ -256,7 +256,8 @@
 .gbj-pop{position:absolute;transform:translate(-50%,-50%) scale(var(--s));font:900 22px/1 system-ui,sans-serif;text-shadow:0 2px 0 #0008,0 0 12px currentColor;white-space:nowrap;animation:gbjPop .9s cubic-bezier(.2,1.6,.4,1) forwards}
 @keyframes gbjPop{0%{opacity:0;transform:translate(-50%,-50%) scale(calc(var(--s)*.3))}15%{opacity:1;transform:translate(-50%,-80%) scale(calc(var(--s)*1.35))}35%{transform:translate(calc(-50% + var(--dx)),-120%) scale(var(--s))}100%{opacity:0;transform:translate(calc(-50% + var(--dx)),-260%) scale(calc(var(--s)*.9))}}
 .gbj-punch{animation:gbjPunch .32s cubic-bezier(.2,2,.4,1)}
-@keyframes gbjPunch{0%{transform:scale(1)}30%{transform:scale(var(--gbj-p))}100%{transform:scale(1)}}
+/* 튕김은 독립 scale 속성 — transform:scale() 은 가운데 맞춤(translateX(-50%))을 덮어 글이 옆으로 밀렸다(키트 juice 2026-11-16) */
+@keyframes gbjPunch{0%{scale:1}30%{scale:var(--gbj-p)}100%{scale:1}}
 .gbj-flash{position:absolute;inset:0;opacity:0}
 .gbj-flash.gbj-go{animation:gbjFlash .35s ease-out forwards}
 @keyframes gbjFlash{to{opacity:0}}

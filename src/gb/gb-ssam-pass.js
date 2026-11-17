@@ -93,7 +93,13 @@ export function showRoomLock(what = '친구랑 방 만들어 하기') {
  * 주 행동 단추([data-gb="play"]) 바로 아래에 «지금은 누구와 하는지»를 늘 보이게 붙인다.
  * 게임이 자리를 정하고 싶으면 빈 [data-gb="ssam-notice"] 를 두면 그 안에 채운다. */
 const NOTE = 'gb-ssam-notice';
+let noticeOverride = null;
+/** 게임마다 안내 문구를 바꾼다(1.32.4 · 2026-11-16 알까기 — 봇이 빈자리를 안 채우는 게임에 «빈자리는 컴퓨터 친구가 채워요»가 떴다)
+ *  setNoticeText({ open: { title, sub }, locked: { title, sub } }) — 빠진 쪽은 기본 문구 */
+export function setNoticeText(o) { noticeOverride = o && typeof o === 'object' ? o : null; if (typeof document !== 'undefined') for (const el of document.querySelectorAll('.' + NOTE)) el.remove(); }
 export function noticeText(passed) {
+  const ov = noticeOverride && noticeOverride[passed ? 'open' : 'locked'];
+  if (ov && ov.title) return { title: String(ov.title), sub: String(ov.sub || '') };
   return passed
     ? { title: '친구랑 같이 하기가 열려 있어요', sub: '빠른 대전·방 만들기로 친구들과 겨뤄요. 빈자리는 컴퓨터 친구가 채워요.' }
     : { title: '지금은 컴퓨터 친구(봇)와 해요', sub: '진짜 친구랑 같이 하려면 선행쌤을 한 번 들렀다 오세요. 기기마다 한 번이면 계속 열려요.' };

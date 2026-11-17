@@ -1,6 +1,6 @@
 {
   "kit": "school-hub",
-  "version": "1.31.0 과학 과목 — 기체·전기·플라즈마 구 안전 121문항(configureSchool({ quizSubject: 'sci' })) 2026-11-15",
+  "version": "1.33.0",
   "id": "echotale",
   "host": "pages",
   "client": "src/gb",

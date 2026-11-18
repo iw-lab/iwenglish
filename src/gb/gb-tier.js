@@ -9,7 +9,13 @@
  * 🔴 개인 순위판 없음 — 남과 줄 세우는 화면은 만들지 않는다(gate-baseline B16).
  */
 import { tierOf, tierKey, TITLES, TIERS, titleName, showCode, normCode, codeOk, CODE_ABC, XP } from './gb-tier-core.js';
-import { tierBadgeSVG } from './gb-tier-badge.js';
+/* 배지 그림은 첫 화면 뒤에 따로 받는다(1.33.1 — 하루셈 첫 화면 250KB 상한을 2.9KB 넘김). 받기 전엔 같은 크기 빈칸, 받으면 알약을 다시 그린다 */
+let badgeFn = null, badgeP = null;
+const tierBadgeSVG = (id, div = 0, cls = '') => (badgeFn ? badgeFn(id, div, cls) : `<i class="gb-tb gb-tb-ph ${cls}" data-tier="${id}" aria-hidden="true"></i>`);
+/* 알약이 화면에 보일 때 받는다 — 첫 실행 환영 화면처럼 순위 카드가 안 보이는 첫 화면엔 싣지 않는다(하루셈 첫 화면 측정) · 관찰기 없으면 바로 */
+function whenSeen(el) { if (badgeFn || badgeP) return; if (typeof IntersectionObserver === 'undefined') { void loadBadge(); return; }
+  const io = new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting && e.intersectionRect.width > 0)) { io.disconnect(); void loadBadge(); } }); io.observe(el); }
+function loadBadge() { return (badgeP ||= import('./gb-tier-badge.js').then((m) => { badgeFn = m.tierBadgeSVG; paintPills(); }).catch(() => {})); }
 const divIx = (t) => Math.max(0, ['IV', 'III', 'II', 'I'].indexOf(t.div));   /* IV=0 … I=3 → 배지 아래 별 1~4개 */
 import { gbIcon } from './gb-icons.js';
 import { hubKey } from './hubnet.js';
@@ -20,7 +26,7 @@ import { loadNick } from './gb-nick.js';
 const TIER_CSS = `/* 🏅 개인 티어(1.30) — 배지는 학교 순위 머리줄 안(첫 화면 높이 0 추가), 누르면 내 티어 창 */
 #gb-tier-layer { z-index: 1001; }
 /* 누름 영역 44px(B5) · 겉모양은 28px 알약 — 위아래 −8px 여백으로 머리줄 높이는 거의 그대로 */
-.gb-rank button.gb-tier-pill[data-gb="tier"] { display: inline-flex; align-items: center; min-height: 44px; margin: -8px 0; padding: 0; border: 0; background: none; color: var(--gb-text); font: 800 12.5px var(--gb-font); cursor: pointer; white-space: nowrap; position: relative; }
+.gb-rank button.gb-tier-pill[data-gb="tier"] { display: inline-flex; align-items: center; min-height: 48px; margin: -10px 0; padding: 0; border: 0; background: none; color: var(--gb-text); font: 800 12.5px var(--gb-font); cursor: pointer; white-space: nowrap; position: relative; }
 .gb-rank button.gb-tier-pill[data-gb="tier"] > b { display: inline-flex; align-items: center; gap: 4px; min-height: 28px; padding: 1px 10px 1px 7px; border-radius: 999px; border: 2px solid var(--tier); background: color-mix(in srgb, var(--tier) 22%, transparent); }
 .gb-rank button.gb-tier-pill[data-gb="tier"] i { font-style: normal; font-size: 11.5px; color: var(--gb-accent); margin-left: 2px; }
 button.gb-tier-pill[data-gb="tier"].gain { animation: gb-tier-pop 0.6s ease-out 2; }
@@ -40,7 +46,7 @@ button.gb-tier-pill[data-gb="tier"].up > b { background: var(--tier); color: #ff
 .gb-tier-ladder .lock .gb-tb { filter: grayscale(1) brightness(0.55); opacity: 0.7; } .gb-tier-ladder .lock small { opacity: 0.6; }
 .gb-tier-ladder .now { background: color-mix(in srgb, var(--gb-gold) 22%, transparent); box-shadow: inset 0 0 0 2px var(--gb-gold); } .gb-tier-ladder .now small { color: var(--gb-text); font-weight: 800; }
 .gb-tier-next { display: flex; align-items: center; justify-content: center; gap: 8px; margin: 0 0 6px; font-size: 14px; } .gb-tier-next .gb-tb { width: 30px; height: 31px; filter: grayscale(0.6); } .gb-tier-next b { color: var(--gb-gold); }
-.gb-rank button.gb-tier-pill[data-gb="tier"] .gb-tb { width: 22px; height: 23px; margin: -2px 0; }
+.gb-rank button.gb-tier-pill[data-gb="tier"] .gb-tb { width: 22px; height: 23px; margin: -2px 0; } .gb-tb-ph { display: inline-block; }
 .gb-tier-reveal { position: fixed; left: 50%; top: 42%; translate: -50% -50%; z-index: 1002; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 16px 30px 14px; border-radius: 22px; pointer-events: none;
   background: radial-gradient(circle at 50% 35%, color-mix(in srgb, var(--tier) 55%, #10142e), #10142e 75%); box-shadow: 0 0 0 2px var(--tier), 0 0 50px color-mix(in srgb, var(--tier) 70%, transparent); color: #fff; animation: gb-tb-in 2.4s ease-out forwards; }
 .gb-tier-reveal .gb-tb { width: 132px; height: 136px; filter: drop-shadow(0 0 16px var(--tier)); } .gb-tier-reveal b { font: 900 28px var(--gb-font); color: var(--gb-gold); } .gb-tier-reveal span { font: 800 16px var(--gb-font); }
@@ -200,7 +206,7 @@ export function tierPillHTML() {
 /** paintRank 가 innerHTML 을 새로 쓴 뒤 부른다 */
 export function bindTierPill(root) {
   const b = root?.querySelector('[data-gb="tier"]'); if (!b) return;
-  pillEls.add(b); b.addEventListener('click', () => openTier());
+  pillEls.add(b); b.addEventListener('click', () => openTier()); whenSeen(b);
   if (lastGain && !lastGain.shown && b.classList.contains('gain')) setTimeout(() => { if (lastGain) lastGain.shown = true; }, 6000);
   void tierRefresh();
 }
@@ -208,7 +214,7 @@ function paintPills() {
   for (const b of [...pillEls]) {
     if (!b.isConnected) { pillEls.delete(b); continue; }
     const tmp = document.createElement('div'); tmp.innerHTML = tierPillHTML(); const nb = tmp.firstElementChild;
-    b.replaceWith(nb); pillEls.delete(b); pillEls.add(nb); nb.addEventListener('click', () => openTier());
+    b.replaceWith(nb); pillEls.delete(b); pillEls.add(nb); nb.addEventListener('click', () => openTier()); whenSeen(nb);   // 바꿔 낀 알약을 다시 지켜본다(옛 알약 관찰은 떨어져 나간다)
   }
 }
 
@@ -220,7 +226,8 @@ function sheet(html) {
   layer.hidden = false; return layer;
 }
 export function closeTier() { if (layer) { layer.hidden = true; layer.innerHTML = ''; } }
-export function openTier(view = 'main') {
+export function openTier(view = 'main', _ready = false) {
+  if (!badgeFn && !_ready) { void loadBadge().then(() => openTier(view, true)); return; }   // 배지 그림을 받은 뒤 연다(보통 이미 받아 둠 · 못 받으면 빈칸으로라도 연다)
   const s = tierState, t = tierOf(s.xp || 0), got = new Set(s.titles || []);
   if (lastGain) lastGain.shown = true;
   if (view === 'enter') return openEnter();

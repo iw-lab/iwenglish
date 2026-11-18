@@ -137,10 +137,22 @@ function ensureSiteLink() {
   const a = document.querySelector('[data-gb="site-link"]');
   // 2026-11-04 — 자리가 맞아도 그냥 돌아가면 href 를 못 본다(numrush: 옛 스캐폴드가 순위 카드
   // 바로 다음에 옛 주소 앵커를 이미 박아 둔 경우). 자리만 맞으면 재배치는 생략하되 주소는 맞춘다.
-  if (a && a.isConnected && a.previousElementSibling === rankEl) { a.href = SITE_LINK; a.target = '_blank'; a.rel = 'noopener'; return; }
+  if (a && a.isConnected && a.previousElementSibling === rankEl) { a.href = SITE_LINK; a.target = '_blank'; a.rel = 'noopener'; wrapSide(a); return; }
   const host = rankEl.parentElement;
   if (!host || host === document.body || host === document.documentElement) return;
-  rankEl.after(siteLinkEl());
+  const link = siteLinkEl(); rankEl.after(link); wrapSide(link);
+}
+/* 1.34.0 (2026-11-18) — 순위 카드 + 선행쌤 배너를 .gb-side 로 묶는다. 평소엔 display: contents 라 자리·모양이 그대로고,
+ * 키 낮은 가로 화면(폰 가로 844×390)에서만 왼쪽 칸이 된다 — 묶지 않으면 순위 218px + 배너 60px 가 시작 단추를 화면 밖으로 민다
+ * (반딧불 캠프 «모바일 pc 테블릿 모두» · 실측 43/56 게임 · 🔒 gate-baseline B20 · tests/side-wrap.test.mjs).
+ * 순위 카드가 .gb-home 의 바로 아래 자식일 때만 감싼다 — 게임이 제 칸 나누기를 해 둔 첫 화면(.gw-cols·.home-grid 등)은 건드리지 않는다. */
+export function wrapSide(link, rank = rankEl) {
+  if (!rank || !link || link.previousElementSibling !== rank) return null;
+  const host = rank.parentElement;
+  if (host && host.classList.contains('gb-side')) return host;
+  if (!host || !host.classList.contains('gb-home')) return null;
+  const side = rank.ownerDocument.createElement('div'); side.className = 'gb-side';
+  host.insertBefore(side, rank); side.append(rank, link); return side;
 }
 function siteLinkEl() {
   let a = document.querySelector('[data-gb="site-link"]');
